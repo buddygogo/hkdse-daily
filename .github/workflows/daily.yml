@@ -1,0 +1,64 @@
+# HKDSE Daily Brief — Auto-update workflow
+# Runs every day at 2:00 PM Hong Kong Time (06:00 UTC)
+# Regenerates index.html and deploys to GitHub Pages
+
+name: Daily HKDSE Brief
+
+on:
+  schedule:
+    - cron: '0 6 * * *'      # 06:00 UTC = 14:00 HKT (UTC+8)
+  workflow_dispatch:           # also allows manual trigger from GitHub UI
+
+permissions:
+  contents: write              # to commit index.html back to repo
+  pages: write                 # to deploy to GitHub Pages
+  id-token: write              # required by pages deployment action
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # 1 — Check out the repository
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2 — Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 3 — Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4 — Generate today's HKDSE Daily Brief
+      - name: Generate HKDSE Daily Brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate.py
+
+      # 5 — Commit the updated index.html back to the repo
+      - name: Commit updated index.html
+        run: |
+          git config user.name  "HKDSE Daily Brief Bot"
+          git config user.email "actions@github.com"
+          git add index.html
+          git diff --staged --quiet || git commit -m "Daily brief: $(TZ='Asia/Hong_Kong' date +'%Y-%m-%d %H:%M HKT')"
+          git push
+
+      # 6 — Upload to GitHub Pages
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      # 7 — Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

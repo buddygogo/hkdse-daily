@@ -188,6 +188,28 @@ Return ONLY a valid JSON object. No markdown fences. No explanation. Just JSON.
       "phrases": [
         {{"en": "uncritical reliance", "zh": "不加批判的依賴", "sample": "An uncritical reliance on technology may undermine students' independent thinking skills."}},
         {{"en": "alleviate pressure", "zh": "減輕壓力", "sample": "Policymakers must introduce measures to alleviate pressure on young people in a highly competitive society."}}
+      ],
+      "writing_angles": [
+        {{
+          "label": "Psychological dimension",
+          "zh_label": "心理層面",
+          "text": "The <span class=\"bw\">compulsive need<span class=\"tip\"><span class=\"tip-en\">an irresistible urge driven by anxiety or habit</span><span class=\"tip-zh\">強迫性需求</span></span></span> to stay informed may trigger <span class=\"bw\">information overload<span class=\"tip\"><span class=\"tip-en\">the state of being overwhelmed by excessive data</span><span class=\"tip-zh\">資訊過載</span></span></span>, paradoxically reducing critical engagement and increasing anxiety among young readers."
+        }},
+        {{
+          "label": "Sociological dimension",
+          "zh_label": "社會學層面",
+          "text": "<span class=\"bw\">Peer influence<span class=\"tip\"><span class=\"tip-en\">pressure from people of the same age group</span><span class=\"tip-zh\">同儕影響</span></span></span> and the desire for <span class=\"bw\">social validation<span class=\"tip\"><span class=\"tip-en\">approval and acceptance from others</span><span class=\"tip-zh\">社會認同</span></span></span> drive conformist behaviour, as individuals adopt attitudes and habits primarily to align with the dominant norms of their social circle."
+        }},
+        {{
+          "label": "Economic dimension",
+          "zh_label": "經濟層面",
+          "text": "The <span class=\"bw\">commodification<span class=\"tip\"><span class=\"tip-en\">the process of turning something into a product to be bought and sold</span><span class=\"tip-zh\">商品化</span></span></span> of attention has created a system in which <span class=\"bw\">vested commercial interests<span class=\"tip\"><span class=\"tip-en\">businesses with a financial stake in influencing behaviour</span><span class=\"tip-zh\">既得商業利益</span></span></span> profit from prolonged engagement, often at the expense of users' wellbeing."
+        }},
+        {{
+          "label": "Policy dimension",
+          "zh_label": "政策層面",
+          "text": "In the absence of <span class=\"bw\">regulatory oversight<span class=\"tip\"><span class=\"tip-en\">government supervision to ensure rules are followed</span><span class=\"tip-zh\">監管</span></span></span>, <span class=\"bw\">self-regulatory mechanisms<span class=\"tip\"><span class=\"tip-en\">voluntary rules set by an industry to govern itself</span><span class=\"tip-zh\">自我監管機制</span></span></span> have proven inadequate to protect vulnerable groups, making binding legislation an urgent necessity."
+        }}
       ]
     }}
   ],
@@ -241,6 +263,15 @@ phrases: 10–15 rows for quick-reference table
 causes: 4–5 items per trend
 - label: short title
 - text: 1–2 sentences as HKDSE writing angle (sociological, psychological, economic, technological)
+
+writing_angles: 4–5 items per article (REQUIRED for every article)
+- label: short angle title in English (e.g. "Psychological dimension", "Economic dimension")
+- zh_label: Traditional Chinese translation of the label (e.g. "心理層面", "經濟層面")
+- text: 2–3 sentences of DSE-quality analytical writing on this angle. Use the SAME tooltip span
+  format as summary_html to bold 2–4 key analytical terms:
+    <span class="bw">key term<span class="tip"><span class="tip-en">English definition</span><span class="tip-zh">繁體中文釋義</span></span></span>
+  Cover a mix of: psychological / sociological / economic / political / technological / ethical / cultural angles.
+  Each angle must be a distinct analytical lens — no overlap between angles.
 
 category: one of tech / school / env / hk / pop / social / econ / health / global / urban / law / career / sports / arts / family
   (space-separated if multiple, e.g. "tech school")
@@ -395,6 +426,34 @@ def _study_notes_html(article: dict, uid: str) -> str:
           <td class="sample-col"><em>{sample}</em></td>
         </tr>"""
 
+    # Writing angles
+    angles_html = ""
+    for angle in article.get("writing_angles", []):
+        label    = angle.get("label", "")
+        zh_label = angle.get("zh_label", "")
+        text     = angle.get("text", "")
+        # strip HTML tags to make a plain-text saveable version
+        text_plain = re.sub(r"<[^>]+>", "", text)
+        lbl_esc  = _speak(label)
+        zh_esc   = _speak(zh_label)
+        txt_esc  = _speak(text_plain[:300])
+        angles_html += f"""
+        <li class="writing-angle-item">
+          <div class="writing-angle-header">
+            <span class="writing-angle-label">{label}</span>
+            <span class="writing-angle-zh">{zh_label}</span>
+            <button class="save-vocab-btn-sm" title="Save writing angle"
+              onclick="saveVocab('{lbl_esc}','{zh_esc}','{txt_esc}',this)">💾</button>
+          </div>
+          <div class="writing-angle-text">{text}</div>
+        </li>"""
+
+    angles_block = ""
+    if angles_html:
+        angles_block = f"""
+      <div class="vocab-section-label" style="margin-top:1.4rem;">✍️ DSE Writing Angles</div>
+      <ul class="writing-angles-list">{angles_html}</ul>"""
+
     return f"""
     <div class="study-toggle" onclick="toggleStudy('{uid}')">
       <span class="study-toggle-label">📖 Study Notes</span>
@@ -409,7 +468,7 @@ def _study_notes_html(article: dict, uid: str) -> str:
           <thead><tr><th>Phrase / Expression</th><th>釋義</th><th>DSE Sample Sentence</th></tr></thead>
           <tbody>{rows_html}</tbody>
         </table>
-      </div>
+      </div>{angles_block}
     </div>"""
 
 
@@ -1177,6 +1236,32 @@ CSS = """
       padding: 1.5rem; font-size: 0.72rem; color: var(--muted);
       border-top: 1px solid var(--border); background: var(--surface);
       font-family: 'Noto Sans HK', sans-serif;
+    }
+
+    /* ── WRITING ANGLES ── */
+    .writing-angles-list {
+      list-style: none; display: flex; flex-direction: column; gap: 0.6rem;
+      margin-top: 0.5rem;
+    }
+    .writing-angle-item {
+      background: var(--faint); border: 1px solid var(--border);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 8px 8px 0; padding: 0.65rem 0.9rem;
+    }
+    .writing-angle-header {
+      display: flex; align-items: center; gap: 0.5rem;
+      flex-wrap: wrap; margin-bottom: 0.35rem;
+    }
+    .writing-angle-label {
+      font-weight: 700; font-size: 0.8rem; color: var(--accent);
+    }
+    .writing-angle-zh {
+      font-family: 'Noto Sans HK', sans-serif; font-size: 0.72rem;
+      color: var(--muted); border-left: 1px solid var(--border);
+      padding-left: 0.45rem; margin-left: 0.1rem;
+    }
+    .writing-angle-text {
+      font-size: 0.82rem; color: var(--sub); line-height: 1.75;
     }
 
     /* ── PRINT STYLES ── */

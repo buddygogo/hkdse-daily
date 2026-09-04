@@ -1,0 +1,173 @@
+{
+  "exam_date": null,
+  "articles": [
+    {
+      "source_name": "South China Morning Post",
+      "source_url": "https://www.scmp.com/business/china-business/article/3366174/mainland-chinese-investors-buy-hong-kong-tech-stocks-ai-pivot-sell-financials",
+      "published_date": "3 September 2026",
+      "headline": "Mainland Investors Pivot to Hong Kong AI Stocks, Pulling Back From Financials",
+      "category": "econ",
+      "summary_html": "<p>It is widely reported that mainland Chinese investors have been <span class=\"bw\">reallocating capital<span class=\"tip\"><span class=\"tip-en\">moving money from one investment to another</span><span class=\"tip-zh\">重新分配資金</span></span></span> away from traditional financial stocks and towards artificial intelligence firms listed in Hong Kong. Southbound funds channelled a record HK$10.6 billion into MiniMax, an AI start-up, during August alone, an inflow that <span class=\"bw\">eclipsed<span class=\"tip\"><span class=\"tip-en\">surpassed; overshadowed</span><span class=\"tip-zh\">超越；蓋過</span></span></span> even the sums directed towards established giants such as Alibaba and Tencent. Since becoming eligible for trading through Stock Connect on 6 August, MiniMax has seen mainland investors accumulate a 9.7 per cent stake, with shares surging as much as 22.8 per cent on their first day of southbound trading.</p><p>Critics contend that such a concentrated bet on a single, relatively young sector is not without risk. Nevertheless, proponents argue that the enthusiasm reflects a broader <span class=\"bw\">paradigm shift<span class=\"tip\"><span class=\"tip-en\">a fundamental change in approach</span><span class=\"tip-zh\">範式轉移</span></span></span> in how mainland capital views Hong Kong's stock market: no longer merely a venue for banks and property developers, but increasingly a <span class=\"bw\">gateway<span class=\"tip\"><span class=\"tip-en\">a means of access or entry</span><span class=\"tip-zh\">門戶；途徑</span></span></span> to cutting-edge technology. MiniMax and its peer Zhipu AI, both listed in January 2026, rallied by more than 300 per cent by June and were subsequently admitted to the Hang Seng Tech Index, a milestone that <span class=\"bw\">cemented<span class=\"tip\"><span class=\"tip-en\">made firm or secure</span><span class=\"tip-zh\">鞏固</span></span></span> their status among the city's most closely watched equities.</p><p>By the same token, analysts caution that this AI-driven rally could prove <span class=\"bw\">volatile<span class=\"tip\"><span class=\"tip-en\">liable to change rapidly and unpredictably</span><span class=\"tip-zh\">反覆無常的；動蕩的</span></span></span> once initial lock-up periods expire and early investors seek to realise profits. It is nonetheless undeniable that Hong Kong's role as a hub for AI listings has been significantly strengthened, offering a timely case study for students examining how technological innovation and capital markets are <span class=\"bw\">inextricably linked<span class=\"tip\"><span class=\"tip-en\">connected in a way that cannot be separated</span><span class=\"tip-zh\">密不可分地聯繫</span></span></span> in the modern economy.</p>",
+      "vocab": [
+        {"phrase": "reallocate capital", "zh": "重新分配資金", "sample": "Fund managers began to reallocate capital from banking shares to technology firms."},
+        {"phrase": "southbound funds", "zh": "南向資金", "sample": "Southbound funds have flowed steadily into Hong Kong-listed AI companies this year."},
+        {"phrase": "Stock Connect", "zh": "股票市場交易互聯互通機制", "sample": "The company became eligible for trading through Stock Connect in early August."},
+        {"phrase": "accumulate a stake", "zh": "累積持股", "sample": "Mainland investors have accumulated a significant stake in the newly listed firm."},
+        {"phrase": "paradigm shift", "zh": "範式轉移", "sample": "The rise of AI stocks represents a paradigm shift in how investors view Hong Kong's market."},
+        {"phrase": "cutting-edge technology", "zh": "尖端科技", "sample": "Investors are increasingly drawn to firms developing cutting-edge technology."},
+        {"phrase": "cement one's status", "zh": "鞏固地位", "sample": "The index inclusion cemented the company's status as a market leader."},
+        {"phrase": "lock-up period", "zh": "禁售期", "sample": "Share prices often fluctuate sharply once a lock-up period expires."},
+        {"phrase": "realise profits", "zh": "獲利套現", "sample": "Early investors are expected to realise profits once restrictions are lifted."},
+        {"phrase": "inextricably linked", "zh": "密不可分", "sample": "Technological innovation and capital markets are inextricably linked in today's economy."},
+        {"phrase": "market volatility", "zh": "市場波動", "sample": "Analysts warned that market volatility could increase as the rally matures."},
+        {"phrase": "concentrated bet", "zh": "集中押注", "sample": "Some fund managers criticised the concentrated bet on a single emerging sector."}
+      ],
+      "phrases": [
+        {"en": "It is widely reported that", "zh": "普遍報導指", "sample": "It is widely reported that mainland investors are shifting towards technology stocks."},
+        {"en": "critics contend that", "zh": "批評者認為", "sample": "Critics contend that concentrating investment in one sector carries considerable risk."},
+        {"en": "proponents argue that", "zh": "支持者認為", "sample": "Proponents argue that the shift reflects growing confidence in Hong Kong's tech sector."},
+        {"en": "nevertheless", "zh": "然而；儘管如此", "sample": "Nevertheless, the rapid rally has raised concerns about overvaluation."},
+        {"en": "by the same token", "zh": "同樣道理", "sample": "By the same token, a sudden downturn could equally unsettle the market."},
+        {"en": "it is nonetheless undeniable that", "zh": "然而不可否認的是", "sample": "It is nonetheless undeniable that Hong Kong's status as a listing hub has grown."},
+        {"en": "play a pivotal role in", "zh": "扮演關鍵角色", "sample": "Stock Connect plays a pivotal role in channelling mainland capital into Hong Kong."},
+        {"en": "give rise to", "zh": "引致；引起", "sample": "The rapid inflow of capital has given rise to concerns about market stability."},
+        {"en": "in light of", "zh": "鑑於", "sample": "In light of recent gains, some analysts advise caution among retail investors."},
+        {"en": "far outweigh", "zh": "遠遠超過", "sample": "Supporters believe the long-term benefits far outweigh the short-term risks."},
+        {"en": "a case in point", "zh": "一個例子", "sample": "MiniMax's surge is a case in point of how quickly sentiment can shift."},
+        {"en": "underscore the importance of", "zh": "強調……的重要性", "sample": "The rally underscores the importance of innovation-driven growth for the city."},
+        {"en": "against this backdrop", "zh": "在此背景下", "sample": "Against this backdrop, regulators are monitoring trading activity closely."},
+        {"en": "on the other hand", "zh": "另一方面", "sample": "On the other hand, some investors remain wary of chasing a fast-moving rally."},
+        {"en": "serve as a timely reminder", "zh": "作為及時的提醒", "sample": "The episode serves as a timely reminder of how volatile emerging sectors can be."}
+      ]
+    },
+    {
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/341703/CityU-Ocamp-photos-surface-showing-students-with-bruises-red-marks-disciplinary-probe-underway",
+      "published_date": "3 September 2026",
+      "headline": "CityU Orientation Camp Scandal Deepens as Bruised Students' Photos Surface",
+      "category": "school",
+      "summary_html": "<p>It is widely argued that university orientation camps, while intended to <span class=\"bw\">foster camaraderie<span class=\"tip\"><span class=\"tip-en\">build friendship and mutual trust</span><span class=\"tip-zh\">培養情誼</span></span></span> among new students, have in recent years become associated with troubling practices. This controversy resurfaced this week at the City University of Hong Kong, where fresh photographs <span class=\"bw\">surfaced<span class=\"tip\"><span class=\"tip-en\">came to public attention</span><span class=\"tip-zh\">浮現；曝光</span></span></span> showing male and female students with visible bruising on their thighs and red marks across their backs. The images circulated widely on social media only days after an earlier video, depicting a shirtless male student carrying a woman dressed in red underwear, had already gone viral and drawn public criticism.</p><p>Critics contend that such initiation rituals amount to a form of <span class=\"bw\">hazing<span class=\"tip\"><span class=\"tip-en\">humiliating or dangerous initiation activities</span><span class=\"tip-zh\">迎新迫害；欺凌式迎新</span></span></span> that normalises physical harm under the guise of tradition. In response, the university has established a disciplinary investigation committee, which is currently interviewing both the camp's organisers and its participants in order to establish accountability. The student union committee responsible for staging the event, known by the name &ldquo;Messianis&rdquo;, has since announced its own dissolution, a move widely seen as an attempt to <span class=\"bw\">contain the fallout<span class=\"tip\"><span class=\"tip-en\">limit the negative consequences of an incident</span><span class=\"tip-zh\">控制事件的後果</span></span></span> from the scandal.</p><p>Nevertheless, commentators point out that dissolving a single committee does little to address the underlying culture that permits such practices to persist year after year. By the same token, it is argued that universities must move beyond reactive damage control and instead implement robust, preventive safeguards — including clear codes of conduct and independent monitoring — if genuine reform is to be achieved. The episode has reignited a broader debate about student welfare, peer pressure, and the balance between tradition and safety on Hong Kong's university campuses.</p>",
+      "vocab": [
+        {"phrase": "foster camaraderie", "zh": "培養情誼", "sample": "Orientation camps are designed to foster camaraderie among incoming students."},
+        {"phrase": "come under scrutiny", "zh": "受到審視", "sample": "The orientation camp came under scrutiny after photos of injured students emerged."},
+        {"phrase": "initiation ritual", "zh": "迎新儀式", "sample": "Some initiation rituals have been criticised for encouraging risky behaviour."},
+        {"phrase": "hazing", "zh": "迎新迫害；欺凌式迎新", "sample": "The university launched an inquiry into alleged hazing at the orientation camp."},
+        {"phrase": "disciplinary investigation", "zh": "紀律調查", "sample": "A disciplinary investigation was launched to determine who was responsible."},
+        {"phrase": "go viral", "zh": "在網上瘋傳", "sample": "The video of the incident quickly went viral across social media platforms."},
+        {"phrase": "contain the fallout", "zh": "控制事件的後果", "sample": "The committee's dissolution was an attempt to contain the fallout from the scandal."},
+        {"phrase": "under the guise of", "zh": "以……為幌子", "sample": "Harmful practices sometimes persist under the guise of long-standing tradition."},
+        {"phrase": "normalise physical harm", "zh": "使身體傷害正常化", "sample": "Critics argue that such rituals normalise physical harm among young people."},
+        {"phrase": "student welfare", "zh": "學生福祉", "sample": "The scandal has renewed calls for universities to prioritise student welfare."},
+        {"phrase": "peer pressure", "zh": "同儕壓力", "sample": "Peer pressure is often cited as a reason students take part in risky initiation activities."},
+        {"phrase": "code of conduct", "zh": "行為守則", "sample": "The university is drafting a clearer code of conduct for future orientation events."}
+      ],
+      "phrases": [
+        {"en": "it is widely argued that", "zh": "普遍認為", "sample": "It is widely argued that orientation camps need stricter oversight."},
+        {"en": "critics contend that", "zh": "批評者認為", "sample": "Critics contend that such rituals amount to a form of hazing."},
+        {"en": "in response", "zh": "作為回應", "sample": "In response, the university set up a disciplinary investigation committee."},
+        {"en": "a move widely seen as", "zh": "此舉普遍被視為", "sample": "The dissolution was a move widely seen as an attempt to limit further criticism."},
+        {"en": "nevertheless", "zh": "然而", "sample": "Nevertheless, commentators say deeper cultural change is still needed."},
+        {"en": "by the same token", "zh": "同樣道理", "sample": "By the same token, universities must prevent, not just react to, such incidents."},
+        {"en": "reignite a debate about", "zh": "重新引發關於……的爭論", "sample": "The scandal has reignited a debate about safety on university campuses."},
+        {"en": "hold someone accountable", "zh": "追究某人的責任", "sample": "Students want the organisers to be held accountable for their actions."},
+        {"en": "in the wake of", "zh": "在……之後", "sample": "In the wake of the scandal, the university pledged to review its policies."},
+        {"en": "shed light on", "zh": "揭示；闡明", "sample": "The photographs shed light on practices that had previously gone unreported."},
+        {"en": "call into question", "zh": "使人質疑", "sample": "The incident calls into question how such traditions are supervised."},
+        {"en": "strike a balance between", "zh": "在……之間取得平衡", "sample": "Universities must strike a balance between tradition and student safety."},
+        {"en": "far from sufficient", "zh": "遠遠不足夠", "sample": "Dissolving one committee is far from sufficient to address the wider problem."},
+        {"en": "take a proactive approach", "zh": "採取積極主動的方法", "sample": "Schools are being urged to take a proactive approach to preventing hazing."},
+        {"en": "erode public trust", "zh": "侵蝕公眾信任", "sample": "Repeated incidents like this risk eroding public trust in student bodies."}
+      ]
+    },
+    {
+      "source_name": "RTHK",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1868639-20260903.htm",
+      "published_date": "3 September 2026",
+      "headline": "Pet Dogs Could Be Reclassified as Fighting Breeds During Routine Checks",
+      "category": "law",
+      "summary_html": "<p>It is widely reported that pet owners across Hong Kong may find their dogs <span class=\"bw\">reclassified<span class=\"tip\"><span class=\"tip-en\">placed into a different official category</span><span class=\"tip-zh\">重新分類</span></span></span> as fighting breeds during otherwise routine licensing and vaccination appointments. According to the Agriculture, Fisheries and Conservation Department, this measure follows a marked <span class=\"bw\">uptick<span class=\"tip\"><span class=\"tip-en\">a small increase</span><span class=\"tip-zh\">輕微上升</span></span></span> in public reports concerning suspected fighting dogs, prompting officers to be deployed more frequently for on-site inspections. Principal veterinary officer Michelle Yeung explained that identification currently relies on visual assessment, whereby veterinarians evaluate a dog's head shape, stature and overall body structure to determine its breed category.</p><p>Critics contend that such subjective, appearance-based assessments risk producing <span class=\"bw\">inconsistent outcomes<span class=\"tip\"><span class=\"tip-en\">results that vary or contradict each other</span><span class=\"tip-zh\">不一致的結果</span></span></span>, particularly for mixed-breed dogs whose ancestry cannot be determined at a glance. Nevertheless, officials point out that the system offers a practical opportunity for oversight: since dog licences must be renewed every three years alongside a rabies booster vaccination, staff can observe each animal at that time and revise its classification if necessary. Owners of dogs confirmed as fighting breeds are not required to surrender their pets, provided they comply with all relevant restrictions and safety requirements.</p><p>By the same token, this policy tightening comes in the wake of a fatal attack last month in Ta Kwu Ling, in which a woman running a licensed dog shelter was mauled to death by an animal in her care, an incident that prompted the government to pledge a review of the legal definition of &ldquo;fighting dogs&rdquo; and to submit legislative amendments within the year. The episode illustrates how a single tragedy can <span class=\"bw\">galvanise<span class=\"tip\"><span class=\"tip-en\">shock into action</span><span class=\"tip-zh\">激勵；促使採取行動</span></span></span> swift regulatory change, while also raising important questions about public safety, animal welfare and the limits of visual identification methods.</p>",
+      "vocab": [
+        {"phrase": "reclassify", "zh": "重新分類", "sample": "Several dogs were reclassified as fighting breeds after routine inspections."},
+        {"phrase": "uptick in reports", "zh": "報告數量輕微上升", "sample": "Officials noted an uptick in reports of suspected fighting dogs this year."},
+        {"phrase": "on-site inspection", "zh": "現場檢查", "sample": "Officers are being deployed for more frequent on-site inspections."},
+        {"phrase": "visual assessment", "zh": "目測評估", "sample": "The current system relies heavily on visual assessment by veterinarians."},
+        {"phrase": "inconsistent outcomes", "zh": "不一致的結果", "sample": "Critics warn that subjective judging can lead to inconsistent outcomes."},
+        {"phrase": "rabies booster vaccination", "zh": "狂犬病加強疫苗接種", "sample": "Dog owners must renew their licence alongside a rabies booster vaccination."},
+        {"phrase": "comply with requirements", "zh": "遵守規定", "sample": "Owners may keep their dogs provided they comply with all safety requirements."},
+        {"phrase": "legislative amendment", "zh": "立法修訂", "sample": "The government plans to submit a legislative amendment within the year."},
+        {"phrase": "galvanise change", "zh": "激勵改變", "sample": "The tragedy galvanised swift regulatory change regarding fighting dogs."},
+        {"phrase": "public safety concerns", "zh": "公眾安全問題", "sample": "The incident raised serious public safety concerns among residents."},
+        {"phrase": "animal welfare", "zh": "動物福利", "sample": "The debate has drawn attention to both public safety and animal welfare."},
+        {"phrase": "regulatory tightening", "zh": "監管收緊", "sample": "Regulatory tightening followed the fatal dog attack last month."}
+      ],
+      "phrases": [
+        {"en": "it is widely reported that", "zh": "普遍報導指", "sample": "It is widely reported that inspection procedures will become stricter."},
+        {"en": "according to", "zh": "根據", "sample": "According to the department, checks will now occur more frequently."},
+        {"en": "critics contend that", "zh": "批評者認為", "sample": "Critics contend that visual assessment alone is not a reliable method."},
+        {"en": "nevertheless", "zh": "然而", "sample": "Nevertheless, officials argue the new checks offer a practical safeguard."},
+        {"en": "provided that", "zh": "只要；前提是", "sample": "Owners may keep their dogs, provided that they meet all requirements."},
+        {"en": "by the same token", "zh": "同樣道理", "sample": "By the same token, the policy reflects growing concern over public safety."},
+        {"en": "in the wake of", "zh": "在……之後", "sample": "In the wake of the fatal attack, the government pledged swift reform."},
+        {"en": "prompt a review of", "zh": "促使檢討", "sample": "The tragedy prompted a review of the legal definition of fighting dogs."},
+        {"en": "raise questions about", "zh": "引起關於……的疑問", "sample": "The case raises questions about the limits of visual identification."},
+        {"en": "strike a balance between", "zh": "在……之間取得平衡", "sample": "Regulators must strike a balance between owner rights and public safety."},
+        {"en": "a marked increase in", "zh": "顯著增加", "sample": "There has been a marked increase in reports of suspected fighting dogs."},
+        {"en": "with immediate effect", "zh": "即時生效", "sample": "Some measures are expected to take effect with immediate effect."},
+        {"en": "call for stricter regulation", "zh": "呼籲加強監管", "sample": "Animal welfare groups have called for stricter regulation of dog breeding."},
+        {"en": "underscore the need for", "zh": "強調……的需要", "sample": "The incident underscores the need for clearer breed identification standards."},
+        {"en": "a step in the right direction", "zh": "朝正確方向邁出的一步", "sample": "Many residents see the new checks as a step in the right direction."}
+      ]
+    },
+    {
+      "source_name": "RTHK",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1868644-20260903.htm",
+      "published_date": "3 September 2026",
+      "headline": "Health Authorities Find No Sign of WT1 Jab in Unregistered Vaccine Raids",
+      "category": "health",
+      "summary_html": "<p>It is widely reported that Hong Kong's health authorities have concluded a major operation targeting the sale of unregistered medical injections, following mounting public concern over clinics allegedly offering an unproven cancer-prevention jab known as WT1. Assistant Director of Health Frank Chan confirmed that, despite raids on fourteen premises resulting in three arrests and the seizure of more than 890 vaccine vials, investigators found no evidence that any WT1 vaccine had actually been administered, nor did they identify a single patient who had received one.</p><p>Nevertheless, the operation was far from fruitless: among the seized items were roughly twenty types of <span class=\"bw\">unregistered injections<span class=\"tip\"><span class=\"tip-en\">medical products not officially approved for use</span><span class=\"tip-zh\">未經註冊的注射劑</span></span></span>, the majority of which turned out to be vitamin and amino acid preparations rather than genuine vaccines. Critics contend that the very existence of such an underground market reflects a troubling willingness among some consumers to seek out unverified treatments, often <span class=\"bw\">lured by<span class=\"tip\"><span class=\"tip-en\">attracted or tempted by</span><span class=\"tip-zh\">被……吸引</span></span></span> exaggerated health claims circulating on social media.</p><p>By the same token, Mr Chan issued a stark warning that individuals who obtain unregistered WT1 injections could be placing their lives at risk, citing the danger of <span class=\"bw\">bacterial contamination<span class=\"tip\"><span class=\"tip-en\">infection caused by harmful bacteria</span><span class=\"tip-zh\">細菌污染</span></span></span> during improper manufacturing or administration. It is nonetheless undeniable that this episode serves as a <span class=\"bw\">cautionary tale<span class=\"tip\"><span class=\"tip-en\">a story that warns against a course of action</span><span class=\"tip-zh\">警世故事</span></span></span> for the wider public: consumers are strongly urged to verify that any medical product has been properly registered before consenting to receive it, rather than relying on unsubstantiated promises of miraculous health benefits.</p>",
+      "vocab": [
+        {"phrase": "unregistered injection", "zh": "未經註冊的注射劑", "sample": "Officers seized around twenty types of unregistered injections during the raid."},
+        {"phrase": "mounting concern", "zh": "日益增加的憂慮", "sample": "The raids followed mounting concern over unproven cancer-prevention jabs."},
+        {"phrase": "conduct a raid", "zh": "進行突擊搜查", "sample": "Police conducted raids on fourteen premises across the city."},
+        {"phrase": "seize vaccine vials", "zh": "檢獲疫苗瓶", "sample": "Authorities seized more than 890 vaccine vials during the operation."},
+        {"phrase": "unproven treatment", "zh": "未經證實的療法", "sample": "Consumers are being warned against unproven treatments sold online."},
+        {"phrase": "lured by exaggerated claims", "zh": "被誇大的說法吸引", "sample": "Some patients were lured by exaggerated claims made on social media."},
+        {"phrase": "bacterial contamination", "zh": "細菌污染", "sample": "Improper manufacturing can lead to bacterial contamination of injections."},
+        {"phrase": "put lives at risk", "zh": "使生命陷入危險", "sample": "Officials warned that unregistered jabs could put lives at risk."},
+        {"phrase": "cautionary tale", "zh": "警世故事", "sample": "The case serves as a cautionary tale about unverified medical products."},
+        {"phrase": "verify authenticity", "zh": "核實真偽", "sample": "Patients are urged to verify the authenticity of any medical product first."},
+        {"phrase": "underground market", "zh": "地下市場", "sample": "The raids exposed an underground market for unapproved health injections."},
+        {"phrase": "issue a warning", "zh": "發出警告", "sample": "Health officials issued a warning about unregistered vaccines."}
+      ],
+      "phrases": [
+        {"en": "it is widely reported that", "zh": "普遍報導指", "sample": "It is widely reported that health officials have completed a major crackdown."},
+        {"en": "following mounting concern over", "zh": "在對……日益憂慮之後", "sample": "The raid came following mounting concern over unregistered cancer jabs."},
+        {"en": "nevertheless", "zh": "然而", "sample": "Nevertheless, the operation uncovered a wider network of unapproved products."},
+        {"en": "critics contend that", "zh": "批評者認為", "sample": "Critics contend that such underground markets exploit public anxiety."},
+        {"en": "by the same token", "zh": "同樣道理", "sample": "By the same token, officials stressed the danger of improper medical injections."},
+        {"en": "it is nonetheless undeniable that", "zh": "然而不可否認的是", "sample": "It is nonetheless undeniable that this case highlights a genuine public health risk."},
+        {"en": "rather than", "zh": "而非", "sample": "Patients should trust verified medicine rather than unproven remedies."},
+        {"en": "cite the danger of", "zh": "引述……的危險", "sample": "Officials cited the danger of bacterial infection from improper injections."},
+        {"en": "urge the public to", "zh": "促請公眾", "sample": "Authorities urged the public to check a product's registration status first."},
+        {"en": "far from", "zh": "遠非", "sample": "The operation was far from fruitless despite finding no WT1 vaccine itself."},
+        {"en": "place lives at risk", "zh": "使生命陷於危險", "sample": "Unregistered injections could place unsuspecting patients' lives at risk."},
+        {"en": "serve as a reminder that", "zh": "作為提醒", "sample": "The case serves as a reminder that not all health claims are trustworthy."},
+        {"en": "in light of", "zh": "鑑於", "sample": "In light of the findings, clinics face closer scrutiny going forward."},
+        {"en": "exploit public anxiety", "zh": "利用公眾的焦慮", "sample": "Some clinics were accused of exploiting public anxiety about cancer."},
+        {"en": "call for greater vigilance", "zh": "呼籲提高警覺", "sample": "The department called for greater vigilance when choosing medical services."}
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "platforms": ["tiktok", "ig"],
+      "headline": "🧋 'Spritea' Craze: Hongkongers Are Dunking Tea Bags in Sprite",
+      "summary_html": "<p>A quirky drink hack has taken Hong Kong by storm: creators are <span class=\"bw\">dunking<span class=\"tip\"><span class=\"tip-en\">dipping something briefly into liquid</span><span class=\"tip-zh\">浸泡</span></span></span> ordinary tea bags directly into bottles of Sprite, producing a sweet, malty, citrus-laced concoction that has been dubbed &ldquo;Spritea&rdquo;. Having already gone viral in North America in 2025, the trend has now <span class=\"bw\">taken off<span class=\"tip\"><span class=\"tip-en\">become suddenly very popular</span><span class=\"tip-zh\">迅速流行起來</span></span></span> among Hong Kong's Gen Z social media users, with searches for the recipe surging by more than 200 per cent on TikTok within a single week. Sensing an opportunity, Sprite has since launched an official ready-to-drink version and toured a mobile pop-up tea shop through high-traffic districts, giving away tens of thousands of free samples.</p>",
+      "causes": [
+        {"label": "Psychological appeal", "text": "The novelty and sheer simplicity of the DIY hack — just add a tea bag to a soda bottle — makes it easy and satisfying to replicate, encouraging repeat filming and sharing."},
+        {"label": "Social media influence", "text": "Short-form video creators amplified the trend rapidly, turning a quirky kitchen experiment into a viral challenge that spread across TikTok and Instagram within days."},
+        {"label": "Consumer culture", "text": "Brands capitalised swiftly on organic online buzz, with Sprite's official product launch and sampling campaign further fuelling demand and cementing the trend commercially."}
+      ]
+    }
+  ]
+}

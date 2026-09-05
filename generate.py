@@ -469,6 +469,17 @@ def _study_notes_html(article: dict, uid: str) -> str:
           <tbody>{rows_html}</tbody>
         </table>
       </div>{angles_block}
+      <div class="article-note-section">
+        <div class="note-label">✏️ My Notes</div>
+        <p class="note-login-hint">
+          <button onclick="signInWithGoogle()">Sign in with Google</button> to save personal notes for this article
+        </p>
+        <textarea class="note-textarea" id="note-area-{uid}" placeholder="Write your own notes, essay ideas, or vocabulary reminders here…"></textarea>
+        <div class="note-save-row">
+          <button class="note-save-btn" onclick="saveNote('{uid}')">Save Note</button>
+          <span class="note-status" id="note-status-{uid}"></span>
+        </div>
+      </div>
     </div>"""
 
 
@@ -1410,6 +1421,46 @@ CSS = """
       cursor: pointer; transition: color 0.15s;
     }
     .clickable-headline:hover { color: var(--accent); }
+
+    /* ── GOOGLE AUTH ── */
+    .auth-login-btn {
+      display: flex; align-items: center; gap: 0.4rem;
+      background: var(--accent); color: #fff; border: none;
+      border-radius: 6px; padding: 0.35rem 0.85rem;
+      cursor: pointer; font-size: 0.82rem; font-weight: 600;
+      transition: opacity 0.15s; white-space: nowrap;
+    }
+    .auth-login-btn:hover { opacity: 0.88; }
+    .auth-user-pill {
+      display: none; align-items: center; gap: 0.4rem;
+      background: var(--faint); border: 1px solid var(--border);
+      border-radius: 20px; padding: 0.2rem 0.65rem 0.2rem 0.3rem;
+      cursor: pointer; transition: background 0.15s;
+    }
+    .auth-user-pill:hover { background: var(--border); }
+    .auth-avatar { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; }
+    .auth-user-name { font-size: 0.78rem; color: var(--ink); max-width: 90px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+    /* ── ARTICLE NOTES ── */
+    .article-note-section { margin-top: 1.4rem; border-top: 1px solid var(--border); padding-top: 1rem; }
+    .note-label { font-size: 0.78rem; font-weight: 700; color: var(--muted); letter-spacing: 0.05em; margin-bottom: 0.5rem; text-transform: uppercase; }
+    .note-login-hint { font-size: 0.82rem; color: var(--muted); font-style: italic; }
+    .note-login-hint button { background: none; border: none; color: var(--accent); cursor: pointer; font-size: inherit; text-decoration: underline; padding: 0; }
+    .note-textarea {
+      width: 100%; min-height: 80px; padding: 0.55rem 0.7rem;
+      border: 1px solid var(--border); border-radius: 6px;
+      background: var(--bg); color: var(--ink);
+      font: 0.88rem/1.65 inherit; resize: vertical; box-sizing: border-box;
+      display: none;
+    }
+    .note-textarea:focus { outline: none; border-color: var(--accent); }
+    .note-save-row { display: none; align-items: center; gap: 0.6rem; margin-top: 0.4rem; }
+    .note-save-btn {
+      padding: 0.28rem 0.7rem; background: var(--accent); color: #fff;
+      border: none; border-radius: 5px; cursor: pointer; font-size: 0.8rem; font-weight: 600;
+    }
+    .note-save-btn:hover { opacity: 0.88; }
+    .note-status { font-size: 0.77rem; color: var(--accent); }
 """
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -1610,6 +1661,139 @@ JS = """
   document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') closeFull();
   });
+
+  // ── FIREBASE: GOOGLE AUTH + FIRESTORE SYNC ───────────────────────────────
+  (function() {
+    var FB_CONFIG = {
+      apiKey: "AIzaSyDJCiCOCJUOMHRzvInUBCeJU6NUewbPKGM",
+      authDomain: "hkdse-daily.firebaseapp.com",
+      projectId: "hkdse-daily",
+      storageBucket: "hkdse-daily.firebasestorage.app",
+      messagingSenderId: "993113747556",
+      appId: "1:993113747556:web:65e4738a200f0ec154af71"
+    };
+
+    function initFirebase() {
+      if (typeof firebase === 'undefined') { setTimeout(initFirebase, 200); return; }
+      try { firebase.app(); } catch(e) { firebase.initializeApp(FB_CONFIG); }
+      var auth = firebase.auth();
+      var db   = firebase.firestore();
+      window._fb = { auth: auth, db: db };
+
+      auth.onAuthStateChanged(function(user) {
+        var loginBtn  = document.getElementById('auth-login-btn');
+        var userPill  = document.getElementById('auth-user-pill');
+        if (user) {
+          if (loginBtn) loginBtn.style.display = 'none';
+          if (userPill) {
+            userPill.style.display = 'flex';
+            var av = userPill.querySelector('.auth-avatar');
+            var nm = userPill.querySelector('.auth-user-name');
+            if (av && user.photoURL) av.src = user.photoURL;
+            if (nm) nm.textContent = user.displayName || user.email;
+          }
+          // Show notes UI
+          document.querySelectorAll('.note-login-hint').forEach(function(el){ el.style.display='none'; });
+          document.querySelectorAll('.note-textarea').forEach(function(el){ el.style.display='block'; });
+          document.querySelectorAll('.note-save-row').forEach(function(el){ el.style.display='flex'; });
+          // Load cloud data
+          _loadCloudVocab(user.uid);
+          _loadCloudNotes(user.uid);
+        } else {
+          if (loginBtn) loginBtn.style.display = 'flex';
+          if (userPill) userPill.style.display = 'none';
+          document.querySelectorAll('.note-login-hint').forEach(function(el){ el.style.display=''; });
+          document.querySelectorAll('.note-textarea').forEach(function(el){ el.style.display='none'; });
+          document.querySelectorAll('.note-save-row').forEach(function(el){ el.style.display='none'; });
+        }
+      });
+    }
+    initFirebase();
+
+    window.signInWithGoogle = function() {
+      if (!window._fb) return;
+      window._fb.auth.signInWithPopup(new firebase.auth.GoogleAuthProvider());
+    };
+    window.signOutGoogle = function() {
+      if (!window._fb) return;
+      if (confirm('Sign out?')) window._fb.auth.signOut();
+    };
+
+    function _loadCloudVocab(uid) {
+      window._fb.db.collection('users').doc(uid).collection('vocab')
+        .get().then(function(snap) {
+          var localList = _loadSaved();
+          snap.forEach(function(doc) {
+            var d = doc.data();
+            if (d.phrase && !localList.some(function(x){ return x.phrase === d.phrase; })) {
+              localList.push(d);
+            }
+          });
+          _saveSaved(localList);
+          _updateBadge();
+          localList.forEach(function(item) {
+            document.querySelectorAll('.save-vocab-btn, .save-vocab-btn-sm').forEach(function(b) {
+              if ((b.getAttribute('onclick') || '').indexOf(item.phrase.replace(/'/g,"\\'")) !== -1) {
+                b.classList.add('saved');
+              }
+            });
+          });
+        }).catch(function(){});
+    }
+
+    function _loadCloudNotes(uid) {
+      window._fb.db.collection('users').doc(uid).collection('notes')
+        .get().then(function(snap) {
+          snap.forEach(function(doc) {
+            var area = document.getElementById('note-area-' + doc.id);
+            if (area) area.value = doc.data().text || '';
+          });
+        }).catch(function(){});
+    }
+
+    // Patch saveVocab to also write/delete in Firestore
+    var _origSaveVocab = window.saveVocab;
+    window.saveVocab = function(phrase, zh, sample, btn) {
+      _origSaveVocab(phrase, zh, sample, btn);
+      if (!window._fb) return;
+      var user = window._fb.auth.currentUser;
+      if (!user) return;
+      var docId = phrase.replace(/[^a-zA-Z0-9]/g, '_').slice(0, 80);
+      var nowInList = _loadSaved().some(function(x){ return x.phrase === phrase; });
+      var ref = window._fb.db.collection('users').doc(user.uid).collection('vocab').doc(docId);
+      if (nowInList) {
+        ref.set({ phrase: phrase, zh: zh, sample: sample, saved: firebase.firestore.FieldValue.serverTimestamp() }).catch(function(){});
+      } else {
+        ref.delete().catch(function(){});
+      }
+    };
+
+    var _origRemoveSaved = window.removeSaved;
+    window.removeSaved = function(phrase) {
+      _origRemoveSaved(phrase);
+      if (!window._fb) return;
+      var user = window._fb.auth.currentUser;
+      if (!user) return;
+      var docId = phrase.replace(/[^a-zA-Z0-9]/g, '_').slice(0, 80);
+      window._fb.db.collection('users').doc(user.uid).collection('vocab').doc(docId).delete().catch(function(){});
+    };
+
+    window.saveNote = function(articleUid) {
+      if (!window._fb) return;
+      var user = window._fb.auth.currentUser;
+      if (!user) return;
+      var area   = document.getElementById('note-area-' + articleUid);
+      var status = document.getElementById('note-status-' + articleUid);
+      if (!area) return;
+      window._fb.db.collection('users').doc(user.uid).collection('notes').doc(articleUid)
+        .set({ text: area.value, updated: firebase.firestore.FieldValue.serverTimestamp() })
+        .then(function() {
+          if (status) { status.textContent = 'Saved ✓'; setTimeout(function(){ status.textContent = ''; }, 2000); }
+        }).catch(function() {
+          if (status) status.textContent = 'Error — try again';
+        });
+    };
+  })();
 """
 
 # ── HTML TEMPLATE ────────────────────────────────────────────────────────────
@@ -1651,6 +1835,14 @@ HTML_TEMPLATE = """\
       <div class="topbar-date">
         <strong id="today-date">Loading…</strong>
         每日英語精華
+      </div>
+      <button id="auth-login-btn" class="auth-login-btn" onclick="signInWithGoogle()" title="Sign in to sync vocab & notes across devices">
+        <svg width="16" height="16" viewBox="0 0 18 18" fill="none"><path d="M17.64 9.2c0-.637-.057-1.251-.164-1.84H9v3.481h4.844c-.209 1.125-.843 2.078-1.796 2.716v2.259h2.908c1.702-1.567 2.684-3.875 2.684-6.615z" fill="#fff"/><path d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.837.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332A8.997 8.997 0 0 0 9 18z" fill="#fff" opacity=".85"/><path d="M3.964 10.71A5.41 5.41 0 0 1 3.682 9c0-.593.102-1.17.282-1.71V4.958H.957A8.996 8.996 0 0 0 0 9c0 1.452.348 2.827.957 4.042l3.007-2.332z" fill="#fff" opacity=".7"/><path d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0A8.997 8.997 0 0 0 .957 4.958L3.964 7.29C4.672 5.163 6.656 3.58 9 3.58z" fill="#fff" opacity=".55"/></svg>
+        Sign in
+      </button>
+      <div id="auth-user-pill" class="auth-user-pill" onclick="signOutGoogle()" title="Click to sign out">
+        <img class="auth-avatar" src="" alt="avatar" />
+        <span class="auth-user-name"></span>
       </div>
       <button class="btn-open-saved" onclick="toggleSavedPanel()" title="My saved vocab list">
         💾 My Vocab <span class="saved-count-badge" id="saved-count-badge"></span>
@@ -1744,6 +1936,10 @@ HTML_TEMPLATE = """\
   Hover <strong style="color:var(--accent)">blue words</strong> for definitions · Click 🔊 to hear pronunciation
 </footer>
 
+<!-- Firebase SDKs (compat version — works without bundler) -->
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
 <script>{js}</script>
 </body>
 </html>"""

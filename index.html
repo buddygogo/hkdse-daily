@@ -701,6 +701,95 @@
       .topbar-nav { display: none; }
       .logo-name { font-size: 1rem; }
     }
+
+    /* ── TRENDS MAIN FEED ── */
+    .trends-grid { margin-top: 0.5rem; }
+    .trend-main-item { padding: 1.25rem; }
+    .trend-main-headline {
+      font-family: 'DM Serif Display', serif; font-size: 1.05rem;
+      color: var(--ink); margin: 0.5rem 0 0.75rem; line-height: 1.35;
+    }
+
+    /* ── FULL-SCREEN OVERLAY ── */
+    .full-overlay {
+      display: none; position: fixed; inset: 0; z-index: 9999;
+      background: var(--bg); overflow-y: auto;
+    }
+    .full-overlay.open { display: block; }
+    .full-overlay-inner {
+      max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem 4rem;
+    }
+    .full-overlay-topbar {
+      display: flex; align-items: center; gap: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+    .full-close-btn {
+      background: none; border: 1px solid var(--border); border-radius: 6px;
+      padding: 0.35rem 0.75rem; cursor: pointer; font-size: 0.85rem;
+      color: var(--ink); display: flex; align-items: center; gap: 0.4rem;
+    }
+    .full-close-btn:hover { background: var(--faint); }
+    .full-headline {
+      font-family: 'DM Serif Display', serif; font-size: clamp(1.4rem,3vw,2rem);
+      line-height: 1.25; color: var(--ink); margin: 0 0 0.5rem;
+    }
+    .full-meta {
+      font-size: 0.82rem; color: var(--muted); margin-bottom: 1.5rem;
+      display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;
+    }
+    .full-body { color: var(--sub); }
+    .full-body .news-body,
+    .full-body .trend-body { font-size: 1rem; line-height: 1.85; margin-bottom: 1.5rem; }
+    .full-body .study-section,
+    .full-body .study-drawer { display: block !important; }
+    .full-body .study-toggle,
+    .full-body .trend-study-toggle { display: none !important; }
+    .full-body .vocab-grid { grid-template-columns: repeat(auto-fill, minmax(220px,1fr)); }
+    /* clickable headline style */
+    .clickable-headline {
+      cursor: pointer; transition: color 0.15s;
+    }
+    .clickable-headline:hover { color: var(--accent); }
+
+    /* ── GOOGLE AUTH ── */
+    .auth-login-btn {
+      display: flex; align-items: center; gap: 0.4rem;
+      background: var(--accent); color: #fff; border: none;
+      border-radius: 6px; padding: 0.35rem 0.85rem;
+      cursor: pointer; font-size: 0.82rem; font-weight: 600;
+      transition: opacity 0.15s; white-space: nowrap;
+    }
+    .auth-login-btn:hover { opacity: 0.88; }
+    .auth-user-pill {
+      display: none; align-items: center; gap: 0.4rem;
+      background: var(--faint); border: 1px solid var(--border);
+      border-radius: 20px; padding: 0.2rem 0.65rem 0.2rem 0.3rem;
+      cursor: pointer; transition: background 0.15s;
+    }
+    .auth-user-pill:hover { background: var(--border); }
+    .auth-avatar { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; }
+    .auth-user-name { font-size: 0.78rem; color: var(--ink); max-width: 90px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+    /* ── ARTICLE NOTES ── */
+    .article-note-section { margin-top: 1.4rem; border-top: 1px solid var(--border); padding-top: 1rem; }
+    .note-label { font-size: 0.78rem; font-weight: 700; color: var(--muted); letter-spacing: 0.05em; margin-bottom: 0.5rem; text-transform: uppercase; }
+    .note-login-hint { font-size: 0.82rem; color: var(--muted); font-style: italic; }
+    .note-login-hint button { background: none; border: none; color: var(--accent); cursor: pointer; font-size: inherit; text-decoration: underline; padding: 0; }
+    .note-textarea {
+      width: 100%; min-height: 80px; padding: 0.55rem 0.7rem;
+      border: 1px solid var(--border); border-radius: 6px;
+      background: var(--bg); color: var(--ink);
+      font: 0.88rem/1.65 inherit; resize: vertical; box-sizing: border-box;
+      display: none;
+    }
+    .note-textarea:focus { outline: none; border-color: var(--accent); }
+    .note-save-row { display: none; align-items: center; gap: 0.6rem; margin-top: 0.4rem; }
+    .note-save-btn {
+      padding: 0.28rem 0.7rem; background: var(--accent); color: #fff;
+      border: none; border-radius: 5px; cursor: pointer; font-size: 0.8rem; font-weight: 600;
+    }
+    .note-save-btn:hover { opacity: 0.88; }
+    .note-status { font-size: 0.77rem; color: var(--accent); }
 </style>
 </head>
 <body>
@@ -729,6 +818,14 @@
         <strong id="today-date">Loading…</strong>
         每日英語精華
       </div>
+      <button id="auth-login-btn" class="auth-login-btn" onclick="signInWithGoogle()" title="Sign in to sync vocab & notes across devices">
+        <svg width="16" height="16" viewBox="0 0 18 18" fill="none"><path d="M17.64 9.2c0-.637-.057-1.251-.164-1.84H9v3.481h4.844c-.209 1.125-.843 2.078-1.796 2.716v2.259h2.908c1.702-1.567 2.684-3.875 2.684-6.615z" fill="#fff"/><path d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.837.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332A8.997 8.997 0 0 0 9 18z" fill="#fff" opacity=".85"/><path d="M3.964 10.71A5.41 5.41 0 0 1 3.682 9c0-.593.102-1.17.282-1.71V4.958H.957A8.996 8.996 0 0 0 0 9c0 1.452.348 2.827.957 4.042l3.007-2.332z" fill="#fff" opacity=".7"/><path d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0A8.997 8.997 0 0 0 .957 4.958L3.964 7.29C4.672 5.163 6.656 3.58 9 3.58z" fill="#fff" opacity=".55"/></svg>
+        Sign in
+      </button>
+      <div id="auth-user-pill" class="auth-user-pill" onclick="signOutGoogle()" title="Click to sign out">
+        <img class="auth-avatar" src="" alt="avatar" />
+        <span class="auth-user-name"></span>
+      </div>
       <button class="btn-open-saved" onclick="toggleSavedPanel()" title="My saved vocab list">
         💾 My Vocab <span class="saved-count-badge" id="saved-count-badge"></span>
       </button>
@@ -754,6 +851,18 @@
   </div>
 </div>
 
+<!-- FULL-SCREEN ARTICLE OVERLAY -->
+<div class="full-overlay" id="full-overlay" onclick="if(event.target===this)closeFull()">
+  <div class="full-overlay-inner">
+    <div class="full-overlay-topbar">
+      <button class="full-close-btn" onclick="closeFull()">← Back</button>
+    </div>
+    <h2 class="full-headline" id="full-headline"></h2>
+    <div class="full-meta" id="full-meta"></div>
+    <div class="full-body" id="full-body"></div>
+  </div>
+</div>
+
 <div class="site-body">
 
   <!-- LEFT SIDEBAR -->
@@ -766,6 +875,7 @@
     <button class="sidebar-link" data-cat="hk" onclick="filterCards('hk',this)"><span class="sl-icon">🏮</span> HK Culture</button>
     <button class="sidebar-link" data-cat="pop" onclick="filterCards('pop',this)"><span class="sl-icon">🎵</span> Pop Culture</button>
     <button class="sidebar-link" data-cat="social" onclick="filterCards('social',this)"><span class="sl-icon">📊</span> Social</button>
+    <button class="sidebar-link" data-cat="trends" onclick="filterCards('trends',this)"><span class="sl-icon">📲</span> Social Trends</button>
     <div class="sidebar-divider"></div>
     <button class="sidebar-link" data-cat="econ" onclick="filterCards('econ',this)"><span class="sl-icon">💰</span> Economy</button>
     <button class="sidebar-link" data-cat="health" onclick="filterCards('health',this)"><span class="sl-icon">🏥</span> Health</button>
@@ -785,22 +895,22 @@
       <span class="section-see-all">Updated daily</span>
     </div>
     
-  <article class="hero-card" data-cat="econ">
+  <article class="hero-card" data-cat="pop">
     <div class="hero-media">
       <div class="hero-img-placeholder"></div>
       <div class="hero-overlay"></div>
       <div class="hero-overlay-text">
-        <span class="cat-chip tag-econ">💰 Economy</span>
-        <h2 class="hero-headline">Mainland Investors Pivot to Hong Kong AI Stocks, Pulling Back From Financials</h2>
-        <div class="hero-byline">
-          <a class="hero-source" href="https://www.scmp.com/business/china-business/article/3366174/mainland-chinese-investors-buy-hong-kong-tech-stocks-ai-pivot-sell-financials" target="_blank" rel="noopener">South China Morning Post</a>
+        <span class="cat-chip tag-pop">🎵 Pop Culture</span>
+        <h2 class="hero-headline clickable-headline" id="hl-a0" onclick="openFull('a0')">Post Malone Postpones Hong Kong Stadium Concert, Leaving Fans in Limbo</h2>
+        <div class="hero-byline" id="meta-a0">
+          <a class="hero-source" href="https://www.scmp.com/news/hong-kong/society/article/3365496/us-singer-post-malone-postpones-hong-kong-concert-sparking-fan-complaints" target="_blank" rel="noopener">South China Morning Post</a>
           
-          <span class="hero-dot">·</span><span class="hero-pub">3 September 2026</span>
+          <span class="hero-dot">·</span><span class="hero-pub">4 September 2026</span>
         </div>
       </div>
     </div>
-    <div class="hero-body">
-      <div class="news-body"><p>It is widely reported that mainland Chinese investors have been <span class="bw">reallocating capital<span class="tip"><span class="tip-en">moving money from one investment to another</span><span class="tip-zh">重新分配資金</span></span></span> away from traditional financial stocks and towards artificial intelligence firms listed in Hong Kong. Southbound funds channelled a record HK$10.6 billion into MiniMax, an AI start-up, during August alone, an inflow that <span class="bw">eclipsed<span class="tip"><span class="tip-en">surpassed; overshadowed</span><span class="tip-zh">超越；蓋過</span></span></span> even the sums directed towards established giants such as Alibaba and Tencent. Since becoming eligible for trading through Stock Connect on 6 August, MiniMax has seen mainland investors accumulate a 9.7 per cent stake, with shares surging as much as 22.8 per cent on their first day of southbound trading.</p><p>Critics contend that such a concentrated bet on a single, relatively young sector is not without risk. Nevertheless, proponents argue that the enthusiasm reflects a broader <span class="bw">paradigm shift<span class="tip"><span class="tip-en">a fundamental change in approach</span><span class="tip-zh">範式轉移</span></span></span> in how mainland capital views Hong Kong's stock market: no longer merely a venue for banks and property developers, but increasingly a <span class="bw">gateway<span class="tip"><span class="tip-en">a means of access or entry</span><span class="tip-zh">門戶；途徑</span></span></span> to cutting-edge technology. MiniMax and its peer Zhipu AI, both listed in January 2026, rallied by more than 300 per cent by June and were subsequently admitted to the Hang Seng Tech Index, a milestone that <span class="bw">cemented<span class="tip"><span class="tip-en">made firm or secure</span><span class="tip-zh">鞏固</span></span></span> their status among the city's most closely watched equities.</p><p>By the same token, analysts caution that this AI-driven rally could prove <span class="bw">volatile<span class="tip"><span class="tip-en">liable to change rapidly and unpredictably</span><span class="tip-zh">反覆無常的；動蕩的</span></span></span> once initial lock-up periods expire and early investors seek to realise profits. It is nonetheless undeniable that Hong Kong's role as a hub for AI listings has been significantly strengthened, offering a timely case study for students examining how technological innovation and capital markets are <span class="bw">inextricably linked<span class="tip"><span class="tip-en">connected in a way that cannot be separated</span><span class="tip-zh">密不可分地聯繫</span></span></span> in the modern economy.</p></div>
+    <div class="hero-body" id="body-a0">
+      <div class="news-body"><p>It is widely reported that American rapper Post Malone has <span class="bw">postponed indefinitely<span class="tip"><span class="tip-en">delayed to an unspecified later time</span><span class="tip-zh">無限期推遲</span></span></span> the Hong Kong leg of his &ldquo;Big Ass Stadium World Tour&rdquo;, originally scheduled for 16 September at Kai Tak Stadium. The announcement, issued by concert promoter Live Nation Hong Kong, offered no official explanation, leaving thousands of ticket holders <span class="bw">bewildered<span class="tip"><span class="tip-en">confused; unable to understand</span><span class="tip-zh">困惑不解</span></span></span> and frustrated just days before the anticipated show.</p><p>Critics contend that the abrupt cancellation has caused considerable <span class="bw">inconvenience<span class="tip"><span class="tip-en">trouble or difficulty caused to someone</span><span class="tip-zh">不便</span></span></span>, particularly for fans travelling from mainland China who had already <span class="bw">taken annual leave<span class="tip"><span class="tip-en">used allocated holiday time from work</span><span class="tip-zh">請年假</span></span></span> and booked hotel accommodation in anticipation of the concert. A number of disappointed concert-goers took to social media to <span class="bw">vent their frustration<span class="tip"><span class="tip-en">express strong negative feelings openly</span><span class="tip-zh">發洩不滿</span></span></span>, arguing that such late notice reflects little regard for overseas audiences. Nevertheless, organisers have sought to <span class="bw">placate<span class="tip"><span class="tip-en">to make someone less angry or upset</span><span class="tip-zh">安撫</span></span></span> aggrieved fans by confirming that refunds will be processed automatically, with full reimbursement credited to the original payment account within 20 to 30 working days, sparing customers the need to submit a formal application.</p><p>By the same token, this episode is by no means an isolated incident. It has since <span class="bw">come to light<span class="tip"><span class="tip-en">become known publicly after being hidden</span><span class="tip-zh">曝光；為人所知</span></span></span> that every remaining stop on the singer's Asia and Australasia itinerary &mdash; spanning Taiwan, Thailand, Singapore, Malaysia, South Korea and Japan &mdash; has likewise been shelved, suggesting that the disruption stems from a broader logistical difficulty rather than any Hong Kong-specific factor. Such episodes inevitably raise questions about the <span class="bw">resilience<span class="tip"><span class="tip-en">the capacity to recover quickly from difficulties</span><span class="tip-zh">應變能力；韌性</span></span></span> of Hong Kong's fledgling mega-event industry. Since the opening of Kai Tak Stadium last year, the venue has been <span class="bw">positioned as<span class="tip"><span class="tip-en">presented or regarded as occupying a role</span><span class="tip-zh">被定位為</span></span></span> a cornerstone of the city's ambition to become a premier destination for international concerts. It is against this backdrop that repeated postponements have prompted commentators to <span class="bw">call for<span class="tip"><span class="tip-en">to publicly demand or request</span><span class="tip-zh">呼籲</span></span></span> greater contingency planning, lest public confidence in Hong Kong's capacity to host world-class live events be further eroded.</p></div>
       
     <div class="study-toggle" onclick="toggleStudy('a0')">
       <span class="study-toggle-label">📖 Study Notes</span>
@@ -812,134 +922,134 @@
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">1</span>
-            reallocate capital
-            <button class="speak-btn" onclick="speak('reallocate capital')">🔊</button>
+            postpone indefinitely
+            <button class="speak-btn" onclick="speak('postpone indefinitely')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('reallocate capital','重新分配資金','Fund managers began to reallocate capital from banking shares to technology firms.',this)">💾</button>
+              onclick="saveVocab('postpone indefinitely','無限期推遲','Organisers postponed the outdoor festival indefinitely because of the approaching typhoon.',this)">💾</button>
           </div>
-          <div class="vocab-zh">重新分配資金</div>
-          <div class="vocab-sample">"Fund managers began to reallocate capital from banking shares to technology firms."</div>
+          <div class="vocab-zh">無限期推遲</div>
+          <div class="vocab-sample">"Organisers postponed the outdoor festival indefinitely because of the approaching typhoon."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">2</span>
-            southbound funds
-            <button class="speak-btn" onclick="speak('southbound funds')">🔊</button>
+            concert promoter
+            <button class="speak-btn" onclick="speak('concert promoter')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('southbound funds','南向資金','Southbound funds have flowed steadily into Hong Kong-listed AI companies this year.',this)">💾</button>
+              onclick="saveVocab('concert promoter','演唱會主辦方','The concert promoter apologised publicly for the last-minute change in schedule.',this)">💾</button>
           </div>
-          <div class="vocab-zh">南向資金</div>
-          <div class="vocab-sample">"Southbound funds have flowed steadily into Hong Kong-listed AI companies this year."</div>
+          <div class="vocab-zh">演唱會主辦方</div>
+          <div class="vocab-sample">"The concert promoter apologised publicly for the last-minute change in schedule."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">3</span>
-            Stock Connect
-            <button class="speak-btn" onclick="speak('Stock Connect')">🔊</button>
+            ticket holder
+            <button class="speak-btn" onclick="speak('ticket holder')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('Stock Connect','股票市場交易互聯互通機制','The company became eligible for trading through Stock Connect in early August.',this)">💾</button>
+              onclick="saveVocab('ticket holder','持票人','Every ticket holder received an email notifying them of the refund arrangement.',this)">💾</button>
           </div>
-          <div class="vocab-zh">股票市場交易互聯互通機制</div>
-          <div class="vocab-sample">"The company became eligible for trading through Stock Connect in early August."</div>
+          <div class="vocab-zh">持票人</div>
+          <div class="vocab-sample">"Every ticket holder received an email notifying them of the refund arrangement."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">4</span>
-            accumulate a stake
-            <button class="speak-btn" onclick="speak('accumulate a stake')">🔊</button>
+            vent one's frustration
+            <button class="speak-btn" onclick="speak('vent one\'s frustration')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('accumulate a stake','累積持股','Mainland investors have accumulated a significant stake in the newly listed firm.',this)">💾</button>
+              onclick="saveVocab('vent one\'s frustration','發洩不滿','Fans vented their frustration online after the surprise announcement was made.',this)">💾</button>
           </div>
-          <div class="vocab-zh">累積持股</div>
-          <div class="vocab-sample">"Mainland investors have accumulated a significant stake in the newly listed firm."</div>
+          <div class="vocab-zh">發洩不滿</div>
+          <div class="vocab-sample">"Fans vented their frustration online after the surprise announcement was made."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">5</span>
-            paradigm shift
-            <button class="speak-btn" onclick="speak('paradigm shift')">🔊</button>
+            placate
+            <button class="speak-btn" onclick="speak('placate')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('paradigm shift','範式轉移','The rise of AI stocks represents a paradigm shift in how investors view Hong Kong\'s market.',this)">💾</button>
+              onclick="saveVocab('placate','安撫','The airline tried to placate stranded passengers by offering complimentary meals.',this)">💾</button>
           </div>
-          <div class="vocab-zh">範式轉移</div>
-          <div class="vocab-sample">"The rise of AI stocks represents a paradigm shift in how investors view Hong Kong's market."</div>
+          <div class="vocab-zh">安撫</div>
+          <div class="vocab-sample">"The airline tried to placate stranded passengers by offering complimentary meals."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">6</span>
-            cutting-edge technology
-            <button class="speak-btn" onclick="speak('cutting-edge technology')">🔊</button>
+            full reimbursement
+            <button class="speak-btn" onclick="speak('full reimbursement')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('cutting-edge technology','尖端科技','Investors are increasingly drawn to firms developing cutting-edge technology.',this)">💾</button>
+              onclick="saveVocab('full reimbursement','全額退款','Customers were promised full reimbursement within a month of the cancellation.',this)">💾</button>
           </div>
-          <div class="vocab-zh">尖端科技</div>
-          <div class="vocab-sample">"Investors are increasingly drawn to firms developing cutting-edge technology."</div>
+          <div class="vocab-zh">全額退款</div>
+          <div class="vocab-sample">"Customers were promised full reimbursement within a month of the cancellation."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">7</span>
-            cement one's status
-            <button class="speak-btn" onclick="speak('cement one\'s status')">🔊</button>
+            come to light
+            <button class="speak-btn" onclick="speak('come to light')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('cement one\'s status','鞏固地位','The index inclusion cemented the company\'s status as a market leader.',this)">💾</button>
+              onclick="saveVocab('come to light','曝光；為人所知','It later came to light that the entire tour had been affected, not just one city.',this)">💾</button>
           </div>
-          <div class="vocab-zh">鞏固地位</div>
-          <div class="vocab-sample">"The index inclusion cemented the company's status as a market leader."</div>
+          <div class="vocab-zh">曝光；為人所知</div>
+          <div class="vocab-sample">"It later came to light that the entire tour had been affected, not just one city."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">8</span>
-            lock-up period
-            <button class="speak-btn" onclick="speak('lock-up period')">🔊</button>
+            shelve a plan
+            <button class="speak-btn" onclick="speak('shelve a plan')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('lock-up period','禁售期','Share prices often fluctuate sharply once a lock-up period expires.',this)">💾</button>
+              onclick="saveVocab('shelve a plan','擱置計劃','The company shelved its expansion plan after reviewing the financial risks.',this)">💾</button>
           </div>
-          <div class="vocab-zh">禁售期</div>
-          <div class="vocab-sample">"Share prices often fluctuate sharply once a lock-up period expires."</div>
+          <div class="vocab-zh">擱置計劃</div>
+          <div class="vocab-sample">"The company shelved its expansion plan after reviewing the financial risks."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">9</span>
-            realise profits
-            <button class="speak-btn" onclick="speak('realise profits')">🔊</button>
+            logistical difficulty
+            <button class="speak-btn" onclick="speak('logistical difficulty')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('realise profits','獲利套現','Early investors are expected to realise profits once restrictions are lifted.',this)">💾</button>
+              onclick="saveVocab('logistical difficulty','後勤上的困難','The delay was attributed to logistical difficulties rather than a lack of demand.',this)">💾</button>
           </div>
-          <div class="vocab-zh">獲利套現</div>
-          <div class="vocab-sample">"Early investors are expected to realise profits once restrictions are lifted."</div>
+          <div class="vocab-zh">後勤上的困難</div>
+          <div class="vocab-sample">"The delay was attributed to logistical difficulties rather than a lack of demand."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">10</span>
-            inextricably linked
-            <button class="speak-btn" onclick="speak('inextricably linked')">🔊</button>
+            fledgling industry
+            <button class="speak-btn" onclick="speak('fledgling industry')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('inextricably linked','密不可分','Technological innovation and capital markets are inextricably linked in today\'s economy.',this)">💾</button>
+              onclick="saveVocab('fledgling industry','新興行業','Hong Kong\'s fledgling mega-event industry is still learning to manage large crowds.',this)">💾</button>
           </div>
-          <div class="vocab-zh">密不可分</div>
-          <div class="vocab-sample">"Technological innovation and capital markets are inextricably linked in today's economy."</div>
+          <div class="vocab-zh">新興行業</div>
+          <div class="vocab-sample">"Hong Kong's fledgling mega-event industry is still learning to manage large crowds."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">11</span>
-            market volatility
-            <button class="speak-btn" onclick="speak('market volatility')">🔊</button>
+            cornerstone
+            <button class="speak-btn" onclick="speak('cornerstone')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('market volatility','市場波動','Analysts warned that market volatility could increase as the rally matures.',this)">💾</button>
+              onclick="saveVocab('cornerstone','基石；核心','Tourism has long been regarded as a cornerstone of Hong Kong\'s economy.',this)">💾</button>
           </div>
-          <div class="vocab-zh">市場波動</div>
-          <div class="vocab-sample">"Analysts warned that market volatility could increase as the rally matures."</div>
+          <div class="vocab-zh">基石；核心</div>
+          <div class="vocab-sample">"Tourism has long been regarded as a cornerstone of Hong Kong's economy."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">12</span>
-            concentrated bet
-            <button class="speak-btn" onclick="speak('concentrated bet')">🔊</button>
+            contingency planning
+            <button class="speak-btn" onclick="speak('contingency planning')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('concentrated bet','集中押注','Some fund managers criticised the concentrated bet on a single emerging sector.',this)">💾</button>
+              onclick="saveVocab('contingency planning','應變計劃','Event organisers are being urged to improve their contingency planning for bad weather.',this)">💾</button>
           </div>
-          <div class="vocab-zh">集中押注</div>
-          <div class="vocab-sample">"Some fund managers criticised the concentrated bet on a single emerging sector."</div>
+          <div class="vocab-zh">應變計劃</div>
+          <div class="vocab-sample">"Event organisers are being urged to improve their contingency planning for bad weather."</div>
         </div></div>
       <div class="vocab-section-label" style="margin-top:1.2rem;">Quick Reference — Phrases &amp; Sample Sentences</div>
       <div class="phrase-table-wrap">
@@ -950,156 +1060,168 @@
           <td class="en-col">It is widely reported that
             <button class="speak-btn-sm" onclick="speak('It is widely reported that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('It is widely reported that','普遍報導指','It is widely reported that mainland investors are shifting towards technology stocks.',this)">💾</button>
+              onclick="saveVocab('It is widely reported that','普遍報導指','It is widely reported that ticket sales for the concert had exceeded expectations.',this)">💾</button>
           </td>
           <td class="zh-col">普遍報導指</td>
-          <td class="sample-col"><em>It is widely reported that mainland investors are shifting towards technology stocks.</em></td>
+          <td class="sample-col"><em>It is widely reported that ticket sales for the concert had exceeded expectations.</em></td>
         </tr>
         <tr>
           <td class="en-col">critics contend that
             <button class="speak-btn-sm" onclick="speak('critics contend that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('critics contend that','批評者認為','Critics contend that concentrating investment in one sector carries considerable risk.',this)">💾</button>
+              onclick="saveVocab('critics contend that','批評者認為','Critics contend that the lack of explanation damaged public trust in the organiser.',this)">💾</button>
           </td>
           <td class="zh-col">批評者認為</td>
-          <td class="sample-col"><em>Critics contend that concentrating investment in one sector carries considerable risk.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">proponents argue that
-            <button class="speak-btn-sm" onclick="speak('proponents argue that')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('proponents argue that','支持者認為','Proponents argue that the shift reflects growing confidence in Hong Kong\'s tech sector.',this)">💾</button>
-          </td>
-          <td class="zh-col">支持者認為</td>
-          <td class="sample-col"><em>Proponents argue that the shift reflects growing confidence in Hong Kong's tech sector.</em></td>
+          <td class="sample-col"><em>Critics contend that the lack of explanation damaged public trust in the organiser.</em></td>
         </tr>
         <tr>
           <td class="en-col">nevertheless
             <button class="speak-btn-sm" onclick="speak('nevertheless')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('nevertheless','然而；儘管如此','Nevertheless, the rapid rally has raised concerns about overvaluation.',this)">💾</button>
+              onclick="saveVocab('nevertheless','然而；儘管如此','Nevertheless, the promoter moved swiftly to reassure disappointed fans.',this)">💾</button>
           </td>
           <td class="zh-col">然而；儘管如此</td>
-          <td class="sample-col"><em>Nevertheless, the rapid rally has raised concerns about overvaluation.</em></td>
+          <td class="sample-col"><em>Nevertheless, the promoter moved swiftly to reassure disappointed fans.</em></td>
         </tr>
         <tr>
           <td class="en-col">by the same token
             <button class="speak-btn-sm" onclick="speak('by the same token')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('by the same token','同樣道理','By the same token, a sudden downturn could equally unsettle the market.',this)">💾</button>
+              onclick="saveVocab('by the same token','同樣地','By the same token, other cities on the tour faced identical disruption.',this)">💾</button>
           </td>
-          <td class="zh-col">同樣道理</td>
-          <td class="sample-col"><em>By the same token, a sudden downturn could equally unsettle the market.</em></td>
+          <td class="zh-col">同樣地</td>
+          <td class="sample-col"><em>By the same token, other cities on the tour faced identical disruption.</em></td>
         </tr>
         <tr>
-          <td class="en-col">it is nonetheless undeniable that
-            <button class="speak-btn-sm" onclick="speak('it is nonetheless undeniable that')">🔊</button>
+          <td class="en-col">it has since come to light that
+            <button class="speak-btn-sm" onclick="speak('it has since come to light that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('it is nonetheless undeniable that','然而不可否認的是','It is nonetheless undeniable that Hong Kong\'s status as a listing hub has grown.',this)">💾</button>
+              onclick="saveVocab('it has since come to light that','其後證實','It has since come to light that the postponement affected the entire regional tour.',this)">💾</button>
           </td>
-          <td class="zh-col">然而不可否認的是</td>
-          <td class="sample-col"><em>It is nonetheless undeniable that Hong Kong's status as a listing hub has grown.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">play a pivotal role in
-            <button class="speak-btn-sm" onclick="speak('play a pivotal role in')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('play a pivotal role in','扮演關鍵角色','Stock Connect plays a pivotal role in channelling mainland capital into Hong Kong.',this)">💾</button>
-          </td>
-          <td class="zh-col">扮演關鍵角色</td>
-          <td class="sample-col"><em>Stock Connect plays a pivotal role in channelling mainland capital into Hong Kong.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">give rise to
-            <button class="speak-btn-sm" onclick="speak('give rise to')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('give rise to','引致；引起','The rapid inflow of capital has given rise to concerns about market stability.',this)">💾</button>
-          </td>
-          <td class="zh-col">引致；引起</td>
-          <td class="sample-col"><em>The rapid inflow of capital has given rise to concerns about market stability.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">in light of
-            <button class="speak-btn-sm" onclick="speak('in light of')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('in light of','鑑於','In light of recent gains, some analysts advise caution among retail investors.',this)">💾</button>
-          </td>
-          <td class="zh-col">鑑於</td>
-          <td class="sample-col"><em>In light of recent gains, some analysts advise caution among retail investors.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">far outweigh
-            <button class="speak-btn-sm" onclick="speak('far outweigh')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('far outweigh','遠遠超過','Supporters believe the long-term benefits far outweigh the short-term risks.',this)">💾</button>
-          </td>
-          <td class="zh-col">遠遠超過</td>
-          <td class="sample-col"><em>Supporters believe the long-term benefits far outweigh the short-term risks.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">a case in point
-            <button class="speak-btn-sm" onclick="speak('a case in point')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('a case in point','一個例子','MiniMax\'s surge is a case in point of how quickly sentiment can shift.',this)">💾</button>
-          </td>
-          <td class="zh-col">一個例子</td>
-          <td class="sample-col"><em>MiniMax's surge is a case in point of how quickly sentiment can shift.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">underscore the importance of
-            <button class="speak-btn-sm" onclick="speak('underscore the importance of')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('underscore the importance of','強調……的重要性','The rally underscores the importance of innovation-driven growth for the city.',this)">💾</button>
-          </td>
-          <td class="zh-col">強調……的重要性</td>
-          <td class="sample-col"><em>The rally underscores the importance of innovation-driven growth for the city.</em></td>
+          <td class="zh-col">其後證實</td>
+          <td class="sample-col"><em>It has since come to light that the postponement affected the entire regional tour.</em></td>
         </tr>
         <tr>
           <td class="en-col">against this backdrop
             <button class="speak-btn-sm" onclick="speak('against this backdrop')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('against this backdrop','在此背景下','Against this backdrop, regulators are monitoring trading activity closely.',this)">💾</button>
+              onclick="saveVocab('against this backdrop','在此背景下','Against this backdrop, calls for better crisis management have grown louder.',this)">💾</button>
           </td>
           <td class="zh-col">在此背景下</td>
-          <td class="sample-col"><em>Against this backdrop, regulators are monitoring trading activity closely.</em></td>
+          <td class="sample-col"><em>Against this backdrop, calls for better crisis management have grown louder.</em></td>
         </tr>
         <tr>
-          <td class="en-col">on the other hand
-            <button class="speak-btn-sm" onclick="speak('on the other hand')">🔊</button>
+          <td class="en-col">it is against this backdrop that
+            <button class="speak-btn-sm" onclick="speak('it is against this backdrop that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('on the other hand','另一方面','On the other hand, some investors remain wary of chasing a fast-moving rally.',this)">💾</button>
+              onclick="saveVocab('it is against this backdrop that','正是在這背景下','It is against this backdrop that industry observers are questioning event readiness.',this)">💾</button>
           </td>
-          <td class="zh-col">另一方面</td>
-          <td class="sample-col"><em>On the other hand, some investors remain wary of chasing a fast-moving rally.</em></td>
+          <td class="zh-col">正是在這背景下</td>
+          <td class="sample-col"><em>It is against this backdrop that industry observers are questioning event readiness.</em></td>
         </tr>
         <tr>
-          <td class="en-col">serve as a timely reminder
-            <button class="speak-btn-sm" onclick="speak('serve as a timely reminder')">🔊</button>
+          <td class="en-col">inevitably raise questions about
+            <button class="speak-btn-sm" onclick="speak('inevitably raise questions about')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('serve as a timely reminder','作為及時的提醒','The episode serves as a timely reminder of how volatile emerging sectors can be.',this)">💾</button>
+              onclick="saveVocab('inevitably raise questions about','無可避免地引起對……的質疑','The repeated delays inevitably raise questions about the venue\'s management.',this)">💾</button>
           </td>
-          <td class="zh-col">作為及時的提醒</td>
-          <td class="sample-col"><em>The episode serves as a timely reminder of how volatile emerging sectors can be.</em></td>
+          <td class="zh-col">無可避免地引起對……的質疑</td>
+          <td class="sample-col"><em>The repeated delays inevitably raise questions about the venue's management.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">lest
+            <button class="speak-btn-sm" onclick="speak('lest')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('lest','以免','Organisers issued prompt refunds lest fans lose confidence entirely.',this)">💾</button>
+          </td>
+          <td class="zh-col">以免</td>
+          <td class="sample-col"><em>Organisers issued prompt refunds lest fans lose confidence entirely.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">be further eroded
+            <button class="speak-btn-sm" onclick="speak('be further eroded')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('be further eroded','被進一步削弱','Public trust could be further eroded if similar incidents recur.',this)">💾</button>
+          </td>
+          <td class="zh-col">被進一步削弱</td>
+          <td class="sample-col"><em>Public trust could be further eroded if similar incidents recur.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">offered no official explanation
+            <button class="speak-btn-sm" onclick="speak('offered no official explanation')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('offered no official explanation','沒有作出官方解釋','The company offered no official explanation for the sudden change.',this)">💾</button>
+          </td>
+          <td class="zh-col">沒有作出官方解釋</td>
+          <td class="sample-col"><em>The company offered no official explanation for the sudden change.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">in anticipation of
+            <button class="speak-btn-sm" onclick="speak('in anticipation of')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('in anticipation of','為了……做準備；預期','Fans had booked flights in anticipation of the long-awaited show.',this)">💾</button>
+          </td>
+          <td class="zh-col">為了……做準備；預期</td>
+          <td class="sample-col"><em>Fans had booked flights in anticipation of the long-awaited show.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">reflects little regard for
+            <button class="speak-btn-sm" onclick="speak('reflects little regard for')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('reflects little regard for','反映出對……缺乏重視','The decision reflects little regard for fans who travelled from abroad.',this)">💾</button>
+          </td>
+          <td class="zh-col">反映出對……缺乏重視</td>
+          <td class="sample-col"><em>The decision reflects little regard for fans who travelled from abroad.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">by no means an isolated incident
+            <button class="speak-btn-sm" onclick="speak('by no means an isolated incident')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('by no means an isolated incident','絕非個別事件','The postponement is by no means an isolated incident in the touring industry.',this)">💾</button>
+          </td>
+          <td class="zh-col">絕非個別事件</td>
+          <td class="sample-col"><em>The postponement is by no means an isolated incident in the touring industry.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">stems from
+            <button class="speak-btn-sm" onclick="speak('stems from')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('stems from','源於','The disruption reportedly stems from unresolved production issues.',this)">💾</button>
+          </td>
+          <td class="zh-col">源於</td>
+          <td class="sample-col"><em>The disruption reportedly stems from unresolved production issues.</em></td>
         </tr></tbody>
         </table>
+      </div>
+      <div class="article-note-section">
+        <div class="note-label">✏️ My Notes</div>
+        <p class="note-login-hint">
+          <button onclick="signInWithGoogle()">Sign in with Google</button> to save personal notes for this article
+        </p>
+        <textarea class="note-textarea" id="note-area-a0" placeholder="Write your own notes, essay ideas, or vocabulary reminders here…"></textarea>
+        <div class="note-save-row">
+          <button class="note-save-btn" onclick="saveNote('a0')">Save Note</button>
+          <span class="note-status" id="note-status-a0"></span>
+        </div>
       </div>
     </div>
     </div>
   </article>
     <div class="articles-grid">
       
-  <article class="article-card" data-cat="school">
+  <article class="article-card" data-cat="urban">
     
     <div class="card-body">
-      <span class="cat-chip tag-school">📚 School Life</span>
-      <h3 class="card-headline">CityU Orientation Camp Scandal Deepens as Bruised Students' Photos Surface</h3>
-      <div class="card-meta">
-        <a class="card-source" href="https://www.thestandard.com.hk/news/article/341703/CityU-Ocamp-photos-surface-showing-students-with-bruises-red-marks-disciplinary-probe-underway" target="_blank" rel="noopener">The Standard</a>
+      <span class="cat-chip tag-urban">🏗 Urban Dev</span>
+      <h3 class="card-headline clickable-headline" id="hl-a1" onclick="openFull('a1')">Rare Large-Scale MTR Topside Tender Draws Heavyweight Hong Kong Developers</h3>
+      <div class="card-meta" id="meta-a1">
+        <a class="card-source" href="https://www.scmp.com/property/article/3366126/rare-large-scale-mtr-topside-tender-draws-heavyweight-hong-kong-developers" target="_blank" rel="noopener">South China Morning Post</a>
         
-        <span class="card-dot">·</span><span class="card-pub">3 September 2026</span>
+        <span class="card-dot">·</span><span class="card-pub">4 September 2026</span>
       </div>
-      <div class="card-summary news-body"><p>It is widely argued that university orientation camps, while intended to <span class="bw">foster camaraderie<span class="tip"><span class="tip-en">build friendship and mutual trust</span><span class="tip-zh">培養情誼</span></span></span> among new students, have in recent years become associated with troubling practices. This controversy resurfaced this week at the City University of Hong Kong, where fresh photographs <span class="bw">surfaced<span class="tip"><span class="tip-en">came to public attention</span><span class="tip-zh">浮現；曝光</span></span></span> showing male and female students with visible bruising on their thighs and red marks across their backs. The images circulated widely on social media only days after an earlier video, depicting a shirtless male student carrying a woman dressed in red underwear, had already gone viral and drawn public criticism.</p><p>Critics contend that such initiation rituals amount to a form of <span class="bw">hazing<span class="tip"><span class="tip-en">humiliating or dangerous initiation activities</span><span class="tip-zh">迎新迫害；欺凌式迎新</span></span></span> that normalises physical harm under the guise of tradition. In response, the university has established a disciplinary investigation committee, which is currently interviewing both the camp's organisers and its participants in order to establish accountability. The student union committee responsible for staging the event, known by the name &ldquo;Messianis&rdquo;, has since announced its own dissolution, a move widely seen as an attempt to <span class="bw">contain the fallout<span class="tip"><span class="tip-en">limit the negative consequences of an incident</span><span class="tip-zh">控制事件的後果</span></span></span> from the scandal.</p><p>Nevertheless, commentators point out that dissolving a single committee does little to address the underlying culture that permits such practices to persist year after year. By the same token, it is argued that universities must move beyond reactive damage control and instead implement robust, preventive safeguards — including clear codes of conduct and independent monitoring — if genuine reform is to be achieved. The episode has reignited a broader debate about student welfare, peer pressure, and the balance between tradition and safety on Hong Kong's university campuses.</p></div>
-      
+      <div id="body-a1">
+        <div class="card-summary news-body"><p>It is widely reported that MTR Corporation's tender for the Tuen Mun A16 Station Package Two property development has <span class="bw">drawn keen interest<span class="tip"><span class="tip-en">attracted strong attention or enthusiasm</span><span class="tip-zh">引起濃厚興趣</span></span></span> from Hong Kong's leading developers, with the exercise closing on 2 September. Four bids were submitted in total: one each from CK Asset, Sun Hung Kai Properties and Henderson Land, alongside a joint bid from a consortium comprising Sino Land, Kerry Properties, China Overseas Land &amp; Investment and Great Eagle.</p><p>Critics contend that the scale of the project explains this <span class="bw">robust<span class="tip"><span class="tip-en">strong and healthy; vigorous</span><span class="tip-zh">強勁的</span></span></span> response. The site is designated for a composite development combining residential towers, a podium shopping mall and community facilities, with a maximum residential gross floor area of nearly 250,000 square metres integrated directly above a public transport interchange. Proponents argue that such <span class="bw">rail-plus-property<span class="tip"><span class="tip-en">a development model combining railway lines with property projects</span><span class="tip-zh">鐵路加物業</span></span></span> projects remain attractive to developers despite a subdued property market, since guaranteed footfall from commuters helps to <span class="bw">underpin<span class="tip"><span class="tip-en">to support or form the basis of something</span><span class="tip-zh">支持；作為基礎</span></span></span> retail and residential value alike.</p><p>Nevertheless, some analysts caution that the enthusiasm should not be <span class="bw">taken at face value<span class="tip"><span class="tip-en">accepted as true without further examination</span><span class="tip-zh">照字面接受；不加深究</span></span></span>, noting that recent tenders for smaller or less well-located sites have occasionally attracted no conforming bids at all. By the same token, this successful tender is likely to be seen as an encouraging sign for the wider property sector, which has struggled with subdued transaction volumes in recent years. It is against this backdrop that the government has continued to <span class="bw">champion<span class="tip"><span class="tip-en">to support or advocate for something publicly</span><span class="tip-zh">積極支持；提倡</span></span></span> large-scale rail-linked housing supply as a means of easing Hong Kong's long-standing housing shortage. Should the tender proceed smoothly, the project is expected to add thousands of new flats to the New Territories over the coming decade, a development that students of urban planning and housing policy would do well to <span class="bw">keep abreast of<span class="tip"><span class="tip-en">to stay informed about the latest developments</span><span class="tip-zh">緊貼；緊跟最新發展</span></span></span>.</p></div>
+        
     <div class="study-toggle" onclick="toggleStudy('a1')">
       <span class="study-toggle-label">📖 Study Notes</span>
       <span class="study-toggle-icon" id="icon-a1">▾</span>
@@ -1110,134 +1232,134 @@
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">1</span>
-            foster camaraderie
-            <button class="speak-btn" onclick="speak('foster camaraderie')">🔊</button>
+            property tender
+            <button class="speak-btn" onclick="speak('property tender')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('foster camaraderie','培養情誼','Orientation camps are designed to foster camaraderie among incoming students.',this)">💾</button>
+              onclick="saveVocab('property tender','物業招標','The property tender attracted bids from several major developers.',this)">💾</button>
           </div>
-          <div class="vocab-zh">培養情誼</div>
-          <div class="vocab-sample">"Orientation camps are designed to foster camaraderie among incoming students."</div>
+          <div class="vocab-zh">物業招標</div>
+          <div class="vocab-sample">"The property tender attracted bids from several major developers."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">2</span>
-            come under scrutiny
-            <button class="speak-btn" onclick="speak('come under scrutiny')">🔊</button>
+            draw keen interest
+            <button class="speak-btn" onclick="speak('draw keen interest')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('come under scrutiny','受到審視','The orientation camp came under scrutiny after photos of injured students emerged.',this)">💾</button>
+              onclick="saveVocab('draw keen interest','引起濃厚興趣','The waterfront site drew keen interest from both local and overseas investors.',this)">💾</button>
           </div>
-          <div class="vocab-zh">受到審視</div>
-          <div class="vocab-sample">"The orientation camp came under scrutiny after photos of injured students emerged."</div>
+          <div class="vocab-zh">引起濃厚興趣</div>
+          <div class="vocab-sample">"The waterfront site drew keen interest from both local and overseas investors."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">3</span>
-            initiation ritual
-            <button class="speak-btn" onclick="speak('initiation ritual')">🔊</button>
+            consortium
+            <button class="speak-btn" onclick="speak('consortium')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('initiation ritual','迎新儀式','Some initiation rituals have been criticised for encouraging risky behaviour.',this)">💾</button>
+              onclick="saveVocab('consortium','財團；聯營集團','A consortium of four companies jointly submitted the winning bid.',this)">💾</button>
           </div>
-          <div class="vocab-zh">迎新儀式</div>
-          <div class="vocab-sample">"Some initiation rituals have been criticised for encouraging risky behaviour."</div>
+          <div class="vocab-zh">財團；聯營集團</div>
+          <div class="vocab-sample">"A consortium of four companies jointly submitted the winning bid."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">4</span>
-            hazing
-            <button class="speak-btn" onclick="speak('hazing')">🔊</button>
+            composite development
+            <button class="speak-btn" onclick="speak('composite development')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('hazing','迎新迫害；欺凌式迎新','The university launched an inquiry into alleged hazing at the orientation camp.',this)">💾</button>
+              onclick="saveVocab('composite development','綜合發展項目','The composite development will include flats, shops and a public library.',this)">💾</button>
           </div>
-          <div class="vocab-zh">迎新迫害；欺凌式迎新</div>
-          <div class="vocab-sample">"The university launched an inquiry into alleged hazing at the orientation camp."</div>
+          <div class="vocab-zh">綜合發展項目</div>
+          <div class="vocab-sample">"The composite development will include flats, shops and a public library."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">5</span>
-            disciplinary investigation
-            <button class="speak-btn" onclick="speak('disciplinary investigation')">🔊</button>
+            gross floor area
+            <button class="speak-btn" onclick="speak('gross floor area')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('disciplinary investigation','紀律調查','A disciplinary investigation was launched to determine who was responsible.',this)">💾</button>
+              onclick="saveVocab('gross floor area','總樓面面積','The project has a maximum gross floor area of 250,000 square metres.',this)">💾</button>
           </div>
-          <div class="vocab-zh">紀律調查</div>
-          <div class="vocab-sample">"A disciplinary investigation was launched to determine who was responsible."</div>
+          <div class="vocab-zh">總樓面面積</div>
+          <div class="vocab-sample">"The project has a maximum gross floor area of 250,000 square metres."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">6</span>
-            go viral
-            <button class="speak-btn" onclick="speak('go viral')">🔊</button>
+            transport interchange
+            <button class="speak-btn" onclick="speak('transport interchange')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('go viral','在網上瘋傳','The video of the incident quickly went viral across social media platforms.',this)">💾</button>
+              onclick="saveVocab('transport interchange','交通交匯處','A new transport interchange will connect the estate directly to the MTR station.',this)">💾</button>
           </div>
-          <div class="vocab-zh">在網上瘋傳</div>
-          <div class="vocab-sample">"The video of the incident quickly went viral across social media platforms."</div>
+          <div class="vocab-zh">交通交匯處</div>
+          <div class="vocab-sample">"A new transport interchange will connect the estate directly to the MTR station."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">7</span>
-            contain the fallout
-            <button class="speak-btn" onclick="speak('contain the fallout')">🔊</button>
+            rail-plus-property model
+            <button class="speak-btn" onclick="speak('rail-plus-property model')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('contain the fallout','控制事件的後果','The committee\'s dissolution was an attempt to contain the fallout from the scandal.',this)">💾</button>
+              onclick="saveVocab('rail-plus-property model','鐵路加物業發展模式','The rail-plus-property model has long been central to MTR\'s business strategy.',this)">💾</button>
           </div>
-          <div class="vocab-zh">控制事件的後果</div>
-          <div class="vocab-sample">"The committee's dissolution was an attempt to contain the fallout from the scandal."</div>
+          <div class="vocab-zh">鐵路加物業發展模式</div>
+          <div class="vocab-sample">"The rail-plus-property model has long been central to MTR's business strategy."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">8</span>
-            under the guise of
-            <button class="speak-btn" onclick="speak('under the guise of')">🔊</button>
+            subdued market
+            <button class="speak-btn" onclick="speak('subdued market')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('under the guise of','以……為幌子','Harmful practices sometimes persist under the guise of long-standing tradition.',this)">💾</button>
+              onclick="saveVocab('subdued market','市況疲弱','Developers remain cautious amid a subdued property market.',this)">💾</button>
           </div>
-          <div class="vocab-zh">以……為幌子</div>
-          <div class="vocab-sample">"Harmful practices sometimes persist under the guise of long-standing tradition."</div>
+          <div class="vocab-zh">市況疲弱</div>
+          <div class="vocab-sample">"Developers remain cautious amid a subdued property market."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">9</span>
-            normalise physical harm
-            <button class="speak-btn" onclick="speak('normalise physical harm')">🔊</button>
+            conforming tender
+            <button class="speak-btn" onclick="speak('conforming tender')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('normalise physical harm','使身體傷害正常化','Critics argue that such rituals normalise physical harm among young people.',this)">💾</button>
+              onclick="saveVocab('conforming tender','符合規格的標書','The site received no conforming tender and will be offered again later.',this)">💾</button>
           </div>
-          <div class="vocab-zh">使身體傷害正常化</div>
-          <div class="vocab-sample">"Critics argue that such rituals normalise physical harm among young people."</div>
+          <div class="vocab-zh">符合規格的標書</div>
+          <div class="vocab-sample">"The site received no conforming tender and will be offered again later."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">10</span>
-            student welfare
-            <button class="speak-btn" onclick="speak('student welfare')">🔊</button>
+            housing shortage
+            <button class="speak-btn" onclick="speak('housing shortage')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('student welfare','學生福祉','The scandal has renewed calls for universities to prioritise student welfare.',this)">💾</button>
+              onclick="saveVocab('housing shortage','房屋短缺','Rail-linked housing supply is seen as one solution to the housing shortage.',this)">💾</button>
           </div>
-          <div class="vocab-zh">學生福祉</div>
-          <div class="vocab-sample">"The scandal has renewed calls for universities to prioritise student welfare."</div>
+          <div class="vocab-zh">房屋短缺</div>
+          <div class="vocab-sample">"Rail-linked housing supply is seen as one solution to the housing shortage."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">11</span>
-            peer pressure
-            <button class="speak-btn" onclick="speak('peer pressure')">🔊</button>
+            footfall
+            <button class="speak-btn" onclick="speak('footfall')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('peer pressure','同儕壓力','Peer pressure is often cited as a reason students take part in risky initiation activities.',this)">💾</button>
+              onclick="saveVocab('footfall','人流量','Steady footfall from commuters supports the mall\'s retail rents.',this)">💾</button>
           </div>
-          <div class="vocab-zh">同儕壓力</div>
-          <div class="vocab-sample">"Peer pressure is often cited as a reason students take part in risky initiation activities."</div>
+          <div class="vocab-zh">人流量</div>
+          <div class="vocab-sample">"Steady footfall from commuters supports the mall's retail rents."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">12</span>
-            code of conduct
-            <button class="speak-btn" onclick="speak('code of conduct')">🔊</button>
+            New Territories
+            <button class="speak-btn" onclick="speak('New Territories')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('code of conduct','行為守則','The university is drafting a clearer code of conduct for future orientation events.',this)">💾</button>
+              onclick="saveVocab('New Territories','新界','Several new housing projects are planned across the New Territories.',this)">💾</button>
           </div>
-          <div class="vocab-zh">行為守則</div>
-          <div class="vocab-sample">"The university is drafting a clearer code of conduct for future orientation events."</div>
+          <div class="vocab-zh">新界</div>
+          <div class="vocab-sample">"Several new housing projects are planned across the New Territories."</div>
         </div></div>
       <div class="vocab-section-label" style="margin-top:1.2rem;">Quick Reference — Phrases &amp; Sample Sentences</div>
       <div class="phrase-table-wrap">
@@ -1245,157 +1367,170 @@
           <thead><tr><th>Phrase / Expression</th><th>釋義</th><th>DSE Sample Sentence</th></tr></thead>
           <tbody>
         <tr>
-          <td class="en-col">it is widely argued that
-            <button class="speak-btn-sm" onclick="speak('it is widely argued that')">🔊</button>
+          <td class="en-col">it is widely reported that
+            <button class="speak-btn-sm" onclick="speak('it is widely reported that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('it is widely argued that','普遍認為','It is widely argued that orientation camps need stricter oversight.',this)">💾</button>
+              onclick="saveVocab('it is widely reported that','普遍報導指','It is widely reported that the tender received strong developer interest.',this)">💾</button>
           </td>
-          <td class="zh-col">普遍認為</td>
-          <td class="sample-col"><em>It is widely argued that orientation camps need stricter oversight.</em></td>
+          <td class="zh-col">普遍報導指</td>
+          <td class="sample-col"><em>It is widely reported that the tender received strong developer interest.</em></td>
         </tr>
         <tr>
           <td class="en-col">critics contend that
             <button class="speak-btn-sm" onclick="speak('critics contend that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('critics contend that','批評者認為','Critics contend that such rituals amount to a form of hazing.',this)">💾</button>
+              onclick="saveVocab('critics contend that','批評者認為','Critics contend that housing supply alone cannot solve affordability issues.',this)">💾</button>
           </td>
           <td class="zh-col">批評者認為</td>
-          <td class="sample-col"><em>Critics contend that such rituals amount to a form of hazing.</em></td>
+          <td class="sample-col"><em>Critics contend that housing supply alone cannot solve affordability issues.</em></td>
         </tr>
         <tr>
-          <td class="en-col">in response
-            <button class="speak-btn-sm" onclick="speak('in response')">🔊</button>
+          <td class="en-col">proponents argue that
+            <button class="speak-btn-sm" onclick="speak('proponents argue that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('in response','作為回應','In response, the university set up a disciplinary investigation committee.',this)">💾</button>
+              onclick="saveVocab('proponents argue that','支持者認為','Proponents argue that rail-linked housing eases congestion and boosts value.',this)">💾</button>
           </td>
-          <td class="zh-col">作為回應</td>
-          <td class="sample-col"><em>In response, the university set up a disciplinary investigation committee.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">a move widely seen as
-            <button class="speak-btn-sm" onclick="speak('a move widely seen as')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('a move widely seen as','此舉普遍被視為','The dissolution was a move widely seen as an attempt to limit further criticism.',this)">💾</button>
-          </td>
-          <td class="zh-col">此舉普遍被視為</td>
-          <td class="sample-col"><em>The dissolution was a move widely seen as an attempt to limit further criticism.</em></td>
+          <td class="zh-col">支持者認為</td>
+          <td class="sample-col"><em>Proponents argue that rail-linked housing eases congestion and boosts value.</em></td>
         </tr>
         <tr>
           <td class="en-col">nevertheless
             <button class="speak-btn-sm" onclick="speak('nevertheless')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('nevertheless','然而','Nevertheless, commentators say deeper cultural change is still needed.',this)">💾</button>
+              onclick="saveVocab('nevertheless','然而；儘管如此','Nevertheless, some smaller tenders have failed to attract any bids.',this)">💾</button>
           </td>
-          <td class="zh-col">然而</td>
-          <td class="sample-col"><em>Nevertheless, commentators say deeper cultural change is still needed.</em></td>
+          <td class="zh-col">然而；儘管如此</td>
+          <td class="sample-col"><em>Nevertheless, some smaller tenders have failed to attract any bids.</em></td>
         </tr>
         <tr>
           <td class="en-col">by the same token
             <button class="speak-btn-sm" onclick="speak('by the same token')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('by the same token','同樣道理','By the same token, universities must prevent, not just react to, such incidents.',this)">💾</button>
+              onclick="saveVocab('by the same token','同樣地','By the same token, this result may lift confidence across the sector.',this)">💾</button>
           </td>
-          <td class="zh-col">同樣道理</td>
-          <td class="sample-col"><em>By the same token, universities must prevent, not just react to, such incidents.</em></td>
+          <td class="zh-col">同樣地</td>
+          <td class="sample-col"><em>By the same token, this result may lift confidence across the sector.</em></td>
         </tr>
         <tr>
-          <td class="en-col">reignite a debate about
-            <button class="speak-btn-sm" onclick="speak('reignite a debate about')">🔊</button>
+          <td class="en-col">it is against this backdrop that
+            <button class="speak-btn-sm" onclick="speak('it is against this backdrop that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('reignite a debate about','重新引發關於……的爭論','The scandal has reignited a debate about safety on university campuses.',this)">💾</button>
+              onclick="saveVocab('it is against this backdrop that','正是在這背景下','It is against this backdrop that officials continue to push rail-linked housing.',this)">💾</button>
           </td>
-          <td class="zh-col">重新引發關於……的爭論</td>
-          <td class="sample-col"><em>The scandal has reignited a debate about safety on university campuses.</em></td>
+          <td class="zh-col">正是在這背景下</td>
+          <td class="sample-col"><em>It is against this backdrop that officials continue to push rail-linked housing.</em></td>
         </tr>
         <tr>
-          <td class="en-col">hold someone accountable
-            <button class="speak-btn-sm" onclick="speak('hold someone accountable')">🔊</button>
+          <td class="en-col">taken at face value
+            <button class="speak-btn-sm" onclick="speak('taken at face value')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('hold someone accountable','追究某人的責任','Students want the organisers to be held accountable for their actions.',this)">💾</button>
+              onclick="saveVocab('taken at face value','照字面接受；不加深究','The strong turnout should not be taken at face value as a full market recovery.',this)">💾</button>
           </td>
-          <td class="zh-col">追究某人的責任</td>
-          <td class="sample-col"><em>Students want the organisers to be held accountable for their actions.</em></td>
+          <td class="zh-col">照字面接受；不加深究</td>
+          <td class="sample-col"><em>The strong turnout should not be taken at face value as a full market recovery.</em></td>
         </tr>
         <tr>
-          <td class="en-col">in the wake of
-            <button class="speak-btn-sm" onclick="speak('in the wake of')">🔊</button>
+          <td class="en-col">despite
+            <button class="speak-btn-sm" onclick="speak('despite')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('in the wake of','在……之後','In the wake of the scandal, the university pledged to review its policies.',this)">💾</button>
+              onclick="saveVocab('despite','儘管','Despite a subdued market, the tender drew four serious bids.',this)">💾</button>
           </td>
-          <td class="zh-col">在……之後</td>
-          <td class="sample-col"><em>In the wake of the scandal, the university pledged to review its policies.</em></td>
+          <td class="zh-col">儘管</td>
+          <td class="sample-col"><em>Despite a subdued market, the tender drew four serious bids.</em></td>
         </tr>
         <tr>
-          <td class="en-col">shed light on
-            <button class="speak-btn-sm" onclick="speak('shed light on')">🔊</button>
+          <td class="en-col">should X proceed smoothly
+            <button class="speak-btn-sm" onclick="speak('should X proceed smoothly')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('shed light on','揭示；闡明','The photographs shed light on practices that had previously gone unreported.',this)">💾</button>
+              onclick="saveVocab('should X proceed smoothly','若……順利進行','Should the project proceed smoothly, flats could be ready within a decade.',this)">💾</button>
           </td>
-          <td class="zh-col">揭示；闡明</td>
-          <td class="sample-col"><em>The photographs shed light on practices that had previously gone unreported.</em></td>
+          <td class="zh-col">若……順利進行</td>
+          <td class="sample-col"><em>Should the project proceed smoothly, flats could be ready within a decade.</em></td>
         </tr>
         <tr>
-          <td class="en-col">call into question
-            <button class="speak-btn-sm" onclick="speak('call into question')">🔊</button>
+          <td class="en-col">a means of easing
+            <button class="speak-btn-sm" onclick="speak('a means of easing')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('call into question','使人質疑','The incident calls into question how such traditions are supervised.',this)">💾</button>
+              onclick="saveVocab('a means of easing','紓緩……的方法','New housing supply is seen as a means of easing the shortage.',this)">💾</button>
           </td>
-          <td class="zh-col">使人質疑</td>
-          <td class="sample-col"><em>The incident calls into question how such traditions are supervised.</em></td>
+          <td class="zh-col">紓緩……的方法</td>
+          <td class="sample-col"><em>New housing supply is seen as a means of easing the shortage.</em></td>
         </tr>
         <tr>
-          <td class="en-col">strike a balance between
-            <button class="speak-btn-sm" onclick="speak('strike a balance between')">🔊</button>
+          <td class="en-col">would do well to
+            <button class="speak-btn-sm" onclick="speak('would do well to')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('strike a balance between','在……之間取得平衡','Universities must strike a balance between tradition and student safety.',this)">💾</button>
+              onclick="saveVocab('would do well to','應該；最好','Students of urban planning would do well to follow this tender closely.',this)">💾</button>
           </td>
-          <td class="zh-col">在……之間取得平衡</td>
-          <td class="sample-col"><em>Universities must strike a balance between tradition and student safety.</em></td>
+          <td class="zh-col">應該；最好</td>
+          <td class="sample-col"><em>Students of urban planning would do well to follow this tender closely.</em></td>
         </tr>
         <tr>
-          <td class="en-col">far from sufficient
-            <button class="speak-btn-sm" onclick="speak('far from sufficient')">🔊</button>
+          <td class="en-col">keep abreast of
+            <button class="speak-btn-sm" onclick="speak('keep abreast of')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('far from sufficient','遠遠不足夠','Dissolving one committee is far from sufficient to address the wider problem.',this)">💾</button>
+              onclick="saveVocab('keep abreast of','緊貼最新發展','Investors are keeping abreast of every new housing announcement.',this)">💾</button>
           </td>
-          <td class="zh-col">遠遠不足夠</td>
-          <td class="sample-col"><em>Dissolving one committee is far from sufficient to address the wider problem.</em></td>
+          <td class="zh-col">緊貼最新發展</td>
+          <td class="sample-col"><em>Investors are keeping abreast of every new housing announcement.</em></td>
         </tr>
         <tr>
-          <td class="en-col">take a proactive approach
-            <button class="speak-btn-sm" onclick="speak('take a proactive approach')">🔊</button>
+          <td class="en-col">guaranteed footfall
+            <button class="speak-btn-sm" onclick="speak('guaranteed footfall')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('take a proactive approach','採取積極主動的方法','Schools are being urged to take a proactive approach to preventing hazing.',this)">💾</button>
+              onclick="saveVocab('guaranteed footfall','有保證的人流','Guaranteed footfall from the station makes the mall attractive to retailers.',this)">💾</button>
           </td>
-          <td class="zh-col">採取積極主動的方法</td>
-          <td class="sample-col"><em>Schools are being urged to take a proactive approach to preventing hazing.</em></td>
+          <td class="zh-col">有保證的人流</td>
+          <td class="sample-col"><em>Guaranteed footfall from the station makes the mall attractive to retailers.</em></td>
         </tr>
         <tr>
-          <td class="en-col">erode public trust
-            <button class="speak-btn-sm" onclick="speak('erode public trust')">🔊</button>
+          <td class="en-col">long-standing
+            <button class="speak-btn-sm" onclick="speak('long-standing')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('erode public trust','侵蝕公眾信任','Repeated incidents like this risk eroding public trust in student bodies.',this)">💾</button>
+              onclick="saveVocab('long-standing','長期存在的','The city continues to grapple with a long-standing housing shortage.',this)">💾</button>
           </td>
-          <td class="zh-col">侵蝕公眾信任</td>
-          <td class="sample-col"><em>Repeated incidents like this risk eroding public trust in student bodies.</em></td>
+          <td class="zh-col">長期存在的</td>
+          <td class="sample-col"><em>The city continues to grapple with a long-standing housing shortage.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">add to the supply of
+            <button class="speak-btn-sm" onclick="speak('add to the supply of')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('add to the supply of','增加……的供應','The project will add thousands of flats to the supply of New Territories housing.',this)">💾</button>
+          </td>
+          <td class="zh-col">增加……的供應</td>
+          <td class="sample-col"><em>The project will add thousands of flats to the supply of New Territories housing.</em></td>
         </tr></tbody>
         </table>
       </div>
+      <div class="article-note-section">
+        <div class="note-label">✏️ My Notes</div>
+        <p class="note-login-hint">
+          <button onclick="signInWithGoogle()">Sign in with Google</button> to save personal notes for this article
+        </p>
+        <textarea class="note-textarea" id="note-area-a1" placeholder="Write your own notes, essay ideas, or vocabulary reminders here…"></textarea>
+        <div class="note-save-row">
+          <button class="note-save-btn" onclick="saveNote('a1')">Save Note</button>
+          <span class="note-status" id="note-status-a1"></span>
+        </div>
+      </div>
     </div>
+      </div>
     </div>
   </article>
-  <article class="article-card" data-cat="law">
+  <article class="article-card" data-cat="hk">
     
     <div class="card-body">
-      <span class="cat-chip tag-law">⚖️ Law & Justice</span>
-      <h3 class="card-headline">Pet Dogs Could Be Reclassified as Fighting Breeds During Routine Checks</h3>
-      <div class="card-meta">
-        <a class="card-source" href="https://news.rthk.hk/rthk/en/component/k2/1868639-20260903.htm" target="_blank" rel="noopener">RTHK</a>
+      <span class="cat-chip tag-hk">🏮 HK Culture</span>
+      <h3 class="card-headline clickable-headline" id="hl-a2" onclick="openFull('a2')">HKTB to Host First-Ever International Lantern Spectacular This Mid-Autumn</h3>
+      <div class="card-meta" id="meta-a2">
+        <a class="card-source" href="https://www.thestandard.com.hk/news/article/341139/HKTB-to-host-first-international-lantern-event-this-Mid-Autumn" target="_blank" rel="noopener">The Standard</a>
         
-        <span class="card-dot">·</span><span class="card-pub">3 September 2026</span>
+        <span class="card-dot">·</span><span class="card-pub">2 September 2026</span>
       </div>
-      <div class="card-summary news-body"><p>It is widely reported that pet owners across Hong Kong may find their dogs <span class="bw">reclassified<span class="tip"><span class="tip-en">placed into a different official category</span><span class="tip-zh">重新分類</span></span></span> as fighting breeds during otherwise routine licensing and vaccination appointments. According to the Agriculture, Fisheries and Conservation Department, this measure follows a marked <span class="bw">uptick<span class="tip"><span class="tip-en">a small increase</span><span class="tip-zh">輕微上升</span></span></span> in public reports concerning suspected fighting dogs, prompting officers to be deployed more frequently for on-site inspections. Principal veterinary officer Michelle Yeung explained that identification currently relies on visual assessment, whereby veterinarians evaluate a dog's head shape, stature and overall body structure to determine its breed category.</p><p>Critics contend that such subjective, appearance-based assessments risk producing <span class="bw">inconsistent outcomes<span class="tip"><span class="tip-en">results that vary or contradict each other</span><span class="tip-zh">不一致的結果</span></span></span>, particularly for mixed-breed dogs whose ancestry cannot be determined at a glance. Nevertheless, officials point out that the system offers a practical opportunity for oversight: since dog licences must be renewed every three years alongside a rabies booster vaccination, staff can observe each animal at that time and revise its classification if necessary. Owners of dogs confirmed as fighting breeds are not required to surrender their pets, provided they comply with all relevant restrictions and safety requirements.</p><p>By the same token, this policy tightening comes in the wake of a fatal attack last month in Ta Kwu Ling, in which a woman running a licensed dog shelter was mauled to death by an animal in her care, an incident that prompted the government to pledge a review of the legal definition of &ldquo;fighting dogs&rdquo; and to submit legislative amendments within the year. The episode illustrates how a single tragedy can <span class="bw">galvanise<span class="tip"><span class="tip-en">shock into action</span><span class="tip-zh">激勵；促使採取行動</span></span></span> swift regulatory change, while also raising important questions about public safety, animal welfare and the limits of visual identification methods.</p></div>
-      
+      <div id="body-a2">
+        <div class="card-summary news-body"><p>It is widely reported that the Hong Kong Tourism Board will stage the city's first-ever International Lantern Spectacular at Victoria Park, running from 17 to 27 September under the theme of &ldquo;Reunion&rdquo;. The event is set to <span class="bw">showcase<span class="tip"><span class="tip-en">to display something publicly to its best advantage</span><span class="tip-zh">展示；展現</span></span></span> more than 3,000 lanterns from 20 countries and regions, including silk lantern pieces from Jinju in South Korea, vivid patchwork designs from Brazil, and Polish folk paper-cut crafts.</p><p>Critics contend that such an ambitious, internationally themed display marks a departure from the more <span class="bw">traditional<span class="tip"><span class="tip-en">following long-established customs or beliefs</span><span class="tip-zh">傳統的</span></span></span> lantern carnivals of previous years. Nevertheless, proponents argue that the expansion reflects Hong Kong's broader effort to <span class="bw">reinvigorate<span class="tip"><span class="tip-en">to give new energy or strength to something</span><span class="tip-zh">為……注入新活力</span></span></span> its cultural tourism offerings. The centrepiece of the display, an eight-metre-tall installation named &ldquo;Shadowlight&rdquo;, draws <span class="bw">inspiration<span class="tip"><span class="tip-en">a stimulus that generates creative ideas</span><span class="tip-zh">靈感</span></span></span> from Hong Kong's iconic banyan trees, while the adjoining Hong Kong Lantern Galleria will feature over 400 locally handcrafted lanterns shaped like rabbits, star fruit and goldfish, evoking a distinctly <span class="bw">nostalgic<span class="tip"><span class="tip-en">sentimental longing for a past time or place</span><span class="tip-zh">懷舊的</span></span></span> atmosphere for older visitors.</p><p>By the same token, this year's celebrations coincide with the Tai Hang Fire Dragon Dance, held from 24 to 26 September, in which a 67-metre dragon <span class="bw">illuminated<span class="tip"><span class="tip-en">lit up; brightened with light</span><span class="tip-zh">被照亮</span></span></span> by some 12,000 incense sticks winds its way through the neighbourhood's narrow streets. Now in its 147th edition, the dance is <span class="bw">inscribed on<span class="tip"><span class="tip-en">officially recorded or listed as part of</span><span class="tip-zh">被列入</span></span></span> China's National List of Intangible Cultural Heritage, underscoring its enduring cultural significance. It is against this backdrop that local commentators have observed a growing tension between <span class="bw">preserving<span class="tip"><span class="tip-en">keeping something in its original or existing state</span><span class="tip-zh">保存</span></span></span> time-honoured customs and adapting them to attract younger, more internationally minded audiences &mdash; a balancing act that HKDSE students may find fruitful to explore when reflecting on how heritage can remain relevant in a rapidly changing city.</p></div>
+        
     <div class="study-toggle" onclick="toggleStudy('a2')">
       <span class="study-toggle-label">📖 Study Notes</span>
       <span class="study-toggle-icon" id="icon-a2">▾</span>
@@ -1406,134 +1541,134 @@
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">1</span>
-            reclassify
-            <button class="speak-btn" onclick="speak('reclassify')">🔊</button>
+            cultural heritage
+            <button class="speak-btn" onclick="speak('cultural heritage')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('reclassify','重新分類','Several dogs were reclassified as fighting breeds after routine inspections.',this)">💾</button>
+              onclick="saveVocab('cultural heritage','文化遺產','The Fire Dragon Dance is an important part of Hong Kong\'s cultural heritage.',this)">💾</button>
           </div>
-          <div class="vocab-zh">重新分類</div>
-          <div class="vocab-sample">"Several dogs were reclassified as fighting breeds after routine inspections."</div>
+          <div class="vocab-zh">文化遺產</div>
+          <div class="vocab-sample">"The Fire Dragon Dance is an important part of Hong Kong's cultural heritage."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">2</span>
-            uptick in reports
-            <button class="speak-btn" onclick="speak('uptick in reports')">🔊</button>
+            showcase
+            <button class="speak-btn" onclick="speak('showcase')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('uptick in reports','報告數量輕微上升','Officials noted an uptick in reports of suspected fighting dogs this year.',this)">💾</button>
+              onclick="saveVocab('showcase','展示；展現','The exhibition will showcase handicrafts from more than twenty countries.',this)">💾</button>
           </div>
-          <div class="vocab-zh">報告數量輕微上升</div>
-          <div class="vocab-sample">"Officials noted an uptick in reports of suspected fighting dogs this year."</div>
+          <div class="vocab-zh">展示；展現</div>
+          <div class="vocab-sample">"The exhibition will showcase handicrafts from more than twenty countries."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">3</span>
-            on-site inspection
-            <button class="speak-btn" onclick="speak('on-site inspection')">🔊</button>
+            reinvigorate
+            <button class="speak-btn" onclick="speak('reinvigorate')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('on-site inspection','現場檢查','Officers are being deployed for more frequent on-site inspections.',this)">💾</button>
+              onclick="saveVocab('reinvigorate','為……注入新活力','The festival aims to reinvigorate interest in traditional lantern-making.',this)">💾</button>
           </div>
-          <div class="vocab-zh">現場檢查</div>
-          <div class="vocab-sample">"Officers are being deployed for more frequent on-site inspections."</div>
+          <div class="vocab-zh">為……注入新活力</div>
+          <div class="vocab-sample">"The festival aims to reinvigorate interest in traditional lantern-making."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">4</span>
-            visual assessment
-            <button class="speak-btn" onclick="speak('visual assessment')">🔊</button>
+            centrepiece
+            <button class="speak-btn" onclick="speak('centrepiece')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('visual assessment','目測評估','The current system relies heavily on visual assessment by veterinarians.',this)">💾</button>
+              onclick="saveVocab('centrepiece','重點項目；核心展品','The giant lantern installation serves as the centrepiece of the display.',this)">💾</button>
           </div>
-          <div class="vocab-zh">目測評估</div>
-          <div class="vocab-sample">"The current system relies heavily on visual assessment by veterinarians."</div>
+          <div class="vocab-zh">重點項目；核心展品</div>
+          <div class="vocab-sample">"The giant lantern installation serves as the centrepiece of the display."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">5</span>
-            inconsistent outcomes
-            <button class="speak-btn" onclick="speak('inconsistent outcomes')">🔊</button>
+            handcrafted
+            <button class="speak-btn" onclick="speak('handcrafted')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('inconsistent outcomes','不一致的結果','Critics warn that subjective judging can lead to inconsistent outcomes.',this)">💾</button>
+              onclick="saveVocab('handcrafted','手工製作的','Visitors admired the handcrafted lanterns shaped like goldfish and rabbits.',this)">💾</button>
           </div>
-          <div class="vocab-zh">不一致的結果</div>
-          <div class="vocab-sample">"Critics warn that subjective judging can lead to inconsistent outcomes."</div>
+          <div class="vocab-zh">手工製作的</div>
+          <div class="vocab-sample">"Visitors admired the handcrafted lanterns shaped like goldfish and rabbits."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">6</span>
-            rabies booster vaccination
-            <button class="speak-btn" onclick="speak('rabies booster vaccination')">🔊</button>
+            nostalgic atmosphere
+            <button class="speak-btn" onclick="speak('nostalgic atmosphere')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('rabies booster vaccination','狂犬病加強疫苗接種','Dog owners must renew their licence alongside a rabies booster vaccination.',this)">💾</button>
+              onclick="saveVocab('nostalgic atmosphere','懷舊氣氛','The old-style decorations created a nostalgic atmosphere for elderly visitors.',this)">💾</button>
           </div>
-          <div class="vocab-zh">狂犬病加強疫苗接種</div>
-          <div class="vocab-sample">"Dog owners must renew their licence alongside a rabies booster vaccination."</div>
+          <div class="vocab-zh">懷舊氣氛</div>
+          <div class="vocab-sample">"The old-style decorations created a nostalgic atmosphere for elderly visitors."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">7</span>
-            comply with requirements
-            <button class="speak-btn" onclick="speak('comply with requirements')">🔊</button>
+            intangible cultural heritage
+            <button class="speak-btn" onclick="speak('intangible cultural heritage')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('comply with requirements','遵守規定','Owners may keep their dogs provided they comply with all safety requirements.',this)">💾</button>
+              onclick="saveVocab('intangible cultural heritage','非物質文化遺產','The dance was inscribed on the National List of Intangible Cultural Heritage.',this)">💾</button>
           </div>
-          <div class="vocab-zh">遵守規定</div>
-          <div class="vocab-sample">"Owners may keep their dogs provided they comply with all safety requirements."</div>
+          <div class="vocab-zh">非物質文化遺產</div>
+          <div class="vocab-sample">"The dance was inscribed on the National List of Intangible Cultural Heritage."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">8</span>
-            legislative amendment
-            <button class="speak-btn" onclick="speak('legislative amendment')">🔊</button>
+            time-honoured custom
+            <button class="speak-btn" onclick="speak('time-honoured custom')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('legislative amendment','立法修訂','The government plans to submit a legislative amendment within the year.',this)">💾</button>
+              onclick="saveVocab('time-honoured custom','歷史悠久的習俗','Many families still observe the time-honoured custom of lighting lanterns.',this)">💾</button>
           </div>
-          <div class="vocab-zh">立法修訂</div>
-          <div class="vocab-sample">"The government plans to submit a legislative amendment within the year."</div>
+          <div class="vocab-zh">歷史悠久的習俗</div>
+          <div class="vocab-sample">"Many families still observe the time-honoured custom of lighting lanterns."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">9</span>
-            galvanise change
-            <button class="speak-btn" onclick="speak('galvanise change')">🔊</button>
+            cultural tourism
+            <button class="speak-btn" onclick="speak('cultural tourism')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('galvanise change','激勵改變','The tragedy galvanised swift regulatory change regarding fighting dogs.',this)">💾</button>
+              onclick="saveVocab('cultural tourism','文化旅遊','The government hopes to boost cultural tourism through large-scale festivals.',this)">💾</button>
           </div>
-          <div class="vocab-zh">激勵改變</div>
-          <div class="vocab-sample">"The tragedy galvanised swift regulatory change regarding fighting dogs."</div>
+          <div class="vocab-zh">文化旅遊</div>
+          <div class="vocab-sample">"The government hopes to boost cultural tourism through large-scale festivals."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">10</span>
-            public safety concerns
-            <button class="speak-btn" onclick="speak('public safety concerns')">🔊</button>
+            enduring significance
+            <button class="speak-btn" onclick="speak('enduring significance')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('public safety concerns','公眾安全問題','The incident raised serious public safety concerns among residents.',this)">💾</button>
+              onclick="saveVocab('enduring significance','歷久不衰的意義','The dragon dance retains an enduring significance for the local community.',this)">💾</button>
           </div>
-          <div class="vocab-zh">公眾安全問題</div>
-          <div class="vocab-sample">"The incident raised serious public safety concerns among residents."</div>
+          <div class="vocab-zh">歷久不衰的意義</div>
+          <div class="vocab-sample">"The dragon dance retains an enduring significance for the local community."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">11</span>
-            animal welfare
-            <button class="speak-btn" onclick="speak('animal welfare')">🔊</button>
+            balancing act
+            <button class="speak-btn" onclick="speak('balancing act')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('animal welfare','動物福利','The debate has drawn attention to both public safety and animal welfare.',this)">💾</button>
+              onclick="saveVocab('balancing act','取得平衡的舉措','Preserving tradition while attracting young visitors is a delicate balancing act.',this)">💾</button>
           </div>
-          <div class="vocab-zh">動物福利</div>
-          <div class="vocab-sample">"The debate has drawn attention to both public safety and animal welfare."</div>
+          <div class="vocab-zh">取得平衡的舉措</div>
+          <div class="vocab-sample">"Preserving tradition while attracting young visitors is a delicate balancing act."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">12</span>
-            regulatory tightening
-            <button class="speak-btn" onclick="speak('regulatory tightening')">🔊</button>
+            evoke
+            <button class="speak-btn" onclick="speak('evoke')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('regulatory tightening','監管收緊','Regulatory tightening followed the fatal dog attack last month.',this)">💾</button>
+              onclick="saveVocab('evoke','喚起（情感、回憶）','The lantern displays evoke fond childhood memories for many Hongkongers.',this)">💾</button>
           </div>
-          <div class="vocab-zh">監管收緊</div>
-          <div class="vocab-sample">"Regulatory tightening followed the fatal dog attack last month."</div>
+          <div class="vocab-zh">喚起（情感、回憶）</div>
+          <div class="vocab-sample">"The lantern displays evoke fond childhood memories for many Hongkongers."</div>
         </div></div>
       <div class="vocab-section-label" style="margin-top:1.2rem;">Quick Reference — Phrases &amp; Sample Sentences</div>
       <div class="phrase-table-wrap">
@@ -1544,154 +1679,167 @@
           <td class="en-col">it is widely reported that
             <button class="speak-btn-sm" onclick="speak('it is widely reported that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('it is widely reported that','普遍報導指','It is widely reported that inspection procedures will become stricter.',this)">💾</button>
+              onclick="saveVocab('it is widely reported that','普遍報導指','It is widely reported that the festival will draw record crowds this year.',this)">💾</button>
           </td>
           <td class="zh-col">普遍報導指</td>
-          <td class="sample-col"><em>It is widely reported that inspection procedures will become stricter.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">according to
-            <button class="speak-btn-sm" onclick="speak('according to')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('according to','根據','According to the department, checks will now occur more frequently.',this)">💾</button>
-          </td>
-          <td class="zh-col">根據</td>
-          <td class="sample-col"><em>According to the department, checks will now occur more frequently.</em></td>
+          <td class="sample-col"><em>It is widely reported that the festival will draw record crowds this year.</em></td>
         </tr>
         <tr>
           <td class="en-col">critics contend that
             <button class="speak-btn-sm" onclick="speak('critics contend that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('critics contend that','批評者認為','Critics contend that visual assessment alone is not a reliable method.',this)">💾</button>
+              onclick="saveVocab('critics contend that','批評者認為','Critics contend that overly commercial festivals dilute traditional meaning.',this)">💾</button>
           </td>
           <td class="zh-col">批評者認為</td>
-          <td class="sample-col"><em>Critics contend that visual assessment alone is not a reliable method.</em></td>
+          <td class="sample-col"><em>Critics contend that overly commercial festivals dilute traditional meaning.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">proponents argue that
+            <button class="speak-btn-sm" onclick="speak('proponents argue that')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('proponents argue that','支持者認為','Proponents argue that new elements help keep old traditions alive.',this)">💾</button>
+          </td>
+          <td class="zh-col">支持者認為</td>
+          <td class="sample-col"><em>Proponents argue that new elements help keep old traditions alive.</em></td>
         </tr>
         <tr>
           <td class="en-col">nevertheless
             <button class="speak-btn-sm" onclick="speak('nevertheless')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('nevertheless','然而','Nevertheless, officials argue the new checks offer a practical safeguard.',this)">💾</button>
+              onclick="saveVocab('nevertheless','然而；儘管如此','Nevertheless, many elderly residents still prefer the simpler celebrations of the past.',this)">💾</button>
           </td>
-          <td class="zh-col">然而</td>
-          <td class="sample-col"><em>Nevertheless, officials argue the new checks offer a practical safeguard.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">provided that
-            <button class="speak-btn-sm" onclick="speak('provided that')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('provided that','只要；前提是','Owners may keep their dogs, provided that they meet all requirements.',this)">💾</button>
-          </td>
-          <td class="zh-col">只要；前提是</td>
-          <td class="sample-col"><em>Owners may keep their dogs, provided that they meet all requirements.</em></td>
+          <td class="zh-col">然而；儘管如此</td>
+          <td class="sample-col"><em>Nevertheless, many elderly residents still prefer the simpler celebrations of the past.</em></td>
         </tr>
         <tr>
           <td class="en-col">by the same token
             <button class="speak-btn-sm" onclick="speak('by the same token')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('by the same token','同樣道理','By the same token, the policy reflects growing concern over public safety.',this)">💾</button>
+              onclick="saveVocab('by the same token','同樣地','By the same token, the dragon dance continues to draw large crowds each year.',this)">💾</button>
           </td>
-          <td class="zh-col">同樣道理</td>
-          <td class="sample-col"><em>By the same token, the policy reflects growing concern over public safety.</em></td>
+          <td class="zh-col">同樣地</td>
+          <td class="sample-col"><em>By the same token, the dragon dance continues to draw large crowds each year.</em></td>
         </tr>
         <tr>
-          <td class="en-col">in the wake of
-            <button class="speak-btn-sm" onclick="speak('in the wake of')">🔊</button>
+          <td class="en-col">it is against this backdrop that
+            <button class="speak-btn-sm" onclick="speak('it is against this backdrop that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('in the wake of','在……之後','In the wake of the fatal attack, the government pledged swift reform.',this)">💾</button>
+              onclick="saveVocab('it is against this backdrop that','正是在這背景下','It is against this backdrop that debates about heritage preservation arise.',this)">💾</button>
           </td>
-          <td class="zh-col">在……之後</td>
-          <td class="sample-col"><em>In the wake of the fatal attack, the government pledged swift reform.</em></td>
+          <td class="zh-col">正是在這背景下</td>
+          <td class="sample-col"><em>It is against this backdrop that debates about heritage preservation arise.</em></td>
         </tr>
         <tr>
-          <td class="en-col">prompt a review of
-            <button class="speak-btn-sm" onclick="speak('prompt a review of')">🔊</button>
+          <td class="en-col">mark a departure from
+            <button class="speak-btn-sm" onclick="speak('mark a departure from')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('prompt a review of','促使檢討','The tragedy prompted a review of the legal definition of fighting dogs.',this)">💾</button>
+              onclick="saveVocab('mark a departure from','與……有所不同；偏離','This year\'s design marks a departure from previous, smaller-scale displays.',this)">💾</button>
           </td>
-          <td class="zh-col">促使檢討</td>
-          <td class="sample-col"><em>The tragedy prompted a review of the legal definition of fighting dogs.</em></td>
+          <td class="zh-col">與……有所不同；偏離</td>
+          <td class="sample-col"><em>This year's design marks a departure from previous, smaller-scale displays.</em></td>
         </tr>
         <tr>
-          <td class="en-col">raise questions about
-            <button class="speak-btn-sm" onclick="speak('raise questions about')">🔊</button>
+          <td class="en-col">draw inspiration from
+            <button class="speak-btn-sm" onclick="speak('draw inspiration from')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('raise questions about','引起關於……的疑問','The case raises questions about the limits of visual identification.',this)">💾</button>
+              onclick="saveVocab('draw inspiration from','從……汲取靈感','The installation draws inspiration from the city\'s iconic banyan trees.',this)">💾</button>
           </td>
-          <td class="zh-col">引起關於……的疑問</td>
-          <td class="sample-col"><em>The case raises questions about the limits of visual identification.</em></td>
+          <td class="zh-col">從……汲取靈感</td>
+          <td class="sample-col"><em>The installation draws inspiration from the city's iconic banyan trees.</em></td>
         </tr>
         <tr>
-          <td class="en-col">strike a balance between
-            <button class="speak-btn-sm" onclick="speak('strike a balance between')">🔊</button>
+          <td class="en-col">underscore the significance of
+            <button class="speak-btn-sm" onclick="speak('underscore the significance of')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('strike a balance between','在……之間取得平衡','Regulators must strike a balance between owner rights and public safety.',this)">💾</button>
+              onclick="saveVocab('underscore the significance of','強調……的重要性','The heritage listing underscores the significance of the local tradition.',this)">💾</button>
           </td>
-          <td class="zh-col">在……之間取得平衡</td>
-          <td class="sample-col"><em>Regulators must strike a balance between owner rights and public safety.</em></td>
+          <td class="zh-col">強調……的重要性</td>
+          <td class="sample-col"><em>The heritage listing underscores the significance of the local tradition.</em></td>
         </tr>
         <tr>
-          <td class="en-col">a marked increase in
-            <button class="speak-btn-sm" onclick="speak('a marked increase in')">🔊</button>
+          <td class="en-col">a growing tension between
+            <button class="speak-btn-sm" onclick="speak('a growing tension between')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('a marked increase in','顯著增加','There has been a marked increase in reports of suspected fighting dogs.',this)">💾</button>
+              onclick="saveVocab('a growing tension between','……之間日益加劇的張力','There is a growing tension between tradition and modern commercial interests.',this)">💾</button>
           </td>
-          <td class="zh-col">顯著增加</td>
-          <td class="sample-col"><em>There has been a marked increase in reports of suspected fighting dogs.</em></td>
+          <td class="zh-col">……之間日益加劇的張力</td>
+          <td class="sample-col"><em>There is a growing tension between tradition and modern commercial interests.</em></td>
         </tr>
         <tr>
-          <td class="en-col">with immediate effect
-            <button class="speak-btn-sm" onclick="speak('with immediate effect')">🔊</button>
+          <td class="en-col">a balancing act
+            <button class="speak-btn-sm" onclick="speak('a balancing act')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('with immediate effect','即時生效','Some measures are expected to take effect with immediate effect.',this)">💾</button>
+              onclick="saveVocab('a balancing act','取得平衡的舉措','Organisers face a balancing act between authenticity and popular appeal.',this)">💾</button>
           </td>
-          <td class="zh-col">即時生效</td>
-          <td class="sample-col"><em>Some measures are expected to take effect with immediate effect.</em></td>
+          <td class="zh-col">取得平衡的舉措</td>
+          <td class="sample-col"><em>Organisers face a balancing act between authenticity and popular appeal.</em></td>
         </tr>
         <tr>
-          <td class="en-col">call for stricter regulation
-            <button class="speak-btn-sm" onclick="speak('call for stricter regulation')">🔊</button>
+          <td class="en-col">remain relevant
+            <button class="speak-btn-sm" onclick="speak('remain relevant')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('call for stricter regulation','呼籲加強監管','Animal welfare groups have called for stricter regulation of dog breeding.',this)">💾</button>
+              onclick="saveVocab('remain relevant','保持相關性；與時並進','Traditional festivals must remain relevant to attract younger generations.',this)">💾</button>
           </td>
-          <td class="zh-col">呼籲加強監管</td>
-          <td class="sample-col"><em>Animal welfare groups have called for stricter regulation of dog breeding.</em></td>
+          <td class="zh-col">保持相關性；與時並進</td>
+          <td class="sample-col"><em>Traditional festivals must remain relevant to attract younger generations.</em></td>
         </tr>
         <tr>
-          <td class="en-col">underscore the need for
-            <button class="speak-btn-sm" onclick="speak('underscore the need for')">🔊</button>
+          <td class="en-col">coincide with
+            <button class="speak-btn-sm" onclick="speak('coincide with')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('underscore the need for','強調……的需要','The incident underscores the need for clearer breed identification standards.',this)">💾</button>
+              onclick="saveVocab('coincide with','與……同時發生','The lantern show coincides with the annual Fire Dragon Dance.',this)">💾</button>
           </td>
-          <td class="zh-col">強調……的需要</td>
-          <td class="sample-col"><em>The incident underscores the need for clearer breed identification standards.</em></td>
+          <td class="zh-col">與……同時發生</td>
+          <td class="sample-col"><em>The lantern show coincides with the annual Fire Dragon Dance.</em></td>
         </tr>
         <tr>
-          <td class="en-col">a step in the right direction
-            <button class="speak-btn-sm" onclick="speak('a step in the right direction')">🔊</button>
+          <td class="en-col">winds its way through
+            <button class="speak-btn-sm" onclick="speak('winds its way through')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('a step in the right direction','朝正確方向邁出的一步','Many residents see the new checks as a step in the right direction.',this)">💾</button>
+              onclick="saveVocab('winds its way through','蜿蜒穿過','The dragon winds its way through the narrow streets of the neighbourhood.',this)">💾</button>
           </td>
-          <td class="zh-col">朝正確方向邁出的一步</td>
-          <td class="sample-col"><em>Many residents see the new checks as a step in the right direction.</em></td>
+          <td class="zh-col">蜿蜒穿過</td>
+          <td class="sample-col"><em>The dragon winds its way through the narrow streets of the neighbourhood.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">fruitful to explore
+            <button class="speak-btn-sm" onclick="speak('fruitful to explore')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('fruitful to explore','值得探討的','This topic would be fruitful to explore in a Paper 2 composition.',this)">💾</button>
+          </td>
+          <td class="zh-col">值得探討的</td>
+          <td class="sample-col"><em>This topic would be fruitful to explore in a Paper 2 composition.</em></td>
         </tr></tbody>
         </table>
       </div>
+      <div class="article-note-section">
+        <div class="note-label">✏️ My Notes</div>
+        <p class="note-login-hint">
+          <button onclick="signInWithGoogle()">Sign in with Google</button> to save personal notes for this article
+        </p>
+        <textarea class="note-textarea" id="note-area-a2" placeholder="Write your own notes, essay ideas, or vocabulary reminders here…"></textarea>
+        <div class="note-save-row">
+          <button class="note-save-btn" onclick="saveNote('a2')">Save Note</button>
+          <span class="note-status" id="note-status-a2"></span>
+        </div>
+      </div>
     </div>
+      </div>
     </div>
   </article>
-  <article class="article-card" data-cat="health">
+  <article class="article-card" data-cat="tech">
     
     <div class="card-body">
-      <span class="cat-chip tag-health">🏥 Health</span>
-      <h3 class="card-headline">Health Authorities Find No Sign of WT1 Jab in Unregistered Vaccine Raids</h3>
-      <div class="card-meta">
-        <a class="card-source" href="https://news.rthk.hk/rthk/en/component/k2/1868644-20260903.htm" target="_blank" rel="noopener">RTHK</a>
+      <span class="cat-chip tag-tech">🖥 Technology</span>
+      <h3 class="card-headline clickable-headline" id="hl-a3" onclick="openFull('a3')">Paul Chan Unveils HK$50 Million 'AI for All' Upskilling Drive for Workers</h3>
+      <div class="card-meta" id="meta-a3">
+        <a class="card-source" href="https://news.rthk.hk/rthk/en/component/k2/1867176-20260823.htm" target="_blank" rel="noopener">RTHK</a>
         
-        <span class="card-dot">·</span><span class="card-pub">3 September 2026</span>
+        <span class="card-dot">·</span><span class="card-pub">23 August 2026</span>
       </div>
-      <div class="card-summary news-body"><p>It is widely reported that Hong Kong's health authorities have concluded a major operation targeting the sale of unregistered medical injections, following mounting public concern over clinics allegedly offering an unproven cancer-prevention jab known as WT1. Assistant Director of Health Frank Chan confirmed that, despite raids on fourteen premises resulting in three arrests and the seizure of more than 890 vaccine vials, investigators found no evidence that any WT1 vaccine had actually been administered, nor did they identify a single patient who had received one.</p><p>Nevertheless, the operation was far from fruitless: among the seized items were roughly twenty types of <span class="bw">unregistered injections<span class="tip"><span class="tip-en">medical products not officially approved for use</span><span class="tip-zh">未經註冊的注射劑</span></span></span>, the majority of which turned out to be vitamin and amino acid preparations rather than genuine vaccines. Critics contend that the very existence of such an underground market reflects a troubling willingness among some consumers to seek out unverified treatments, often <span class="bw">lured by<span class="tip"><span class="tip-en">attracted or tempted by</span><span class="tip-zh">被……吸引</span></span></span> exaggerated health claims circulating on social media.</p><p>By the same token, Mr Chan issued a stark warning that individuals who obtain unregistered WT1 injections could be placing their lives at risk, citing the danger of <span class="bw">bacterial contamination<span class="tip"><span class="tip-en">infection caused by harmful bacteria</span><span class="tip-zh">細菌污染</span></span></span> during improper manufacturing or administration. It is nonetheless undeniable that this episode serves as a <span class="bw">cautionary tale<span class="tip"><span class="tip-en">a story that warns against a course of action</span><span class="tip-zh">警世故事</span></span></span> for the wider public: consumers are strongly urged to verify that any medical product has been properly registered before consenting to receive it, rather than relying on unsubstantiated promises of miraculous health benefits.</p></div>
-      
+      <div id="body-a3">
+        <div class="card-summary news-body"><p>It is widely reported that Financial Secretary Paul Chan has unveiled a HK$50 million initiative, <span class="bw">dubbed<span class="tip"><span class="tip-en">given an informal name or nickname</span><span class="tip-zh">被稱為</span></span></span> &ldquo;AI for All&rdquo;, under which the Employees Retraining Board will <span class="bw">join forces with<span class="tip"><span class="tip-en">to combine efforts with another party towards a shared goal</span><span class="tip-zh">與……聯手</span></span></span> major technology firms to deliver specialised artificial intelligence courses for working professionals from November. The scheme forms part of a broader drive to reach 50,000 people through some 200 activities over the next two years.</p><p>Critics contend that the pace of change is a genuine cause for concern, warning that Hong Kong <span class="bw">risks lagging behind<span class="tip"><span class="tip-en">is in danger of falling behind others in progress</span><span class="tip-zh">有落後的風險</span></span></span> if reskilling efforts fail to keep pace with the rapid adoption of AI across industries. Indeed, some commentators have pointed out that current training initiatives, however welcome, reach only a small fraction of the city's overall workforce. Nevertheless, proponents argue that the collaboration between government bodies and the private sector represents a meaningful step towards <span class="bw">future-proofing<span class="tip"><span class="tip-en">preparing something so it remains effective in the future</span><span class="tip-zh">為未來做好準備</span></span></span> Hong Kong's labour force against technological disruption.</p><p>By the same token, the Employees Retraining Board is itself being <span class="bw">rebranded<span class="tip"><span class="tip-en">given a new name and image</span><span class="tip-zh">重新命名</span></span></span> as &ldquo;Upskill Hong Kong&rdquo;, a change intended to signal a shift towards continuous, lifelong learning rather than one-off vocational training. Cyberport, the Hong Kong Science and Technology Parks Corporation and the Hong Kong Productivity Council will jointly deliver a range of tailored modules for students, members of the public and working professionals alike. It is against this backdrop that officials have described artificial intelligence as a <span class="bw">central plank<span class="tip"><span class="tip-en">a fundamental or essential part of a plan</span><span class="tip-zh">核心支柱</span></span></span> of Hong Kong's economic strategy, one that HKDSE students preparing to enter the workforce would be wise to <span class="bw">factor into<span class="tip"><span class="tip-en">to take something into account when planning</span><span class="tip-zh">納入考慮</span></span></span> their own career planning.</p></div>
+        
     <div class="study-toggle" onclick="toggleStudy('a3')">
       <span class="study-toggle-label">📖 Study Notes</span>
       <span class="study-toggle-icon" id="icon-a3">▾</span>
@@ -1702,134 +1850,134 @@
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">1</span>
-            unregistered injection
-            <button class="speak-btn" onclick="speak('unregistered injection')">🔊</button>
+            reskilling
+            <button class="speak-btn" onclick="speak('reskilling')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('unregistered injection','未經註冊的注射劑','Officers seized around twenty types of unregistered injections during the raid.',this)">💾</button>
+              onclick="saveVocab('reskilling','技能再培訓','The government has invested heavily in reskilling programmes for older workers.',this)">💾</button>
           </div>
-          <div class="vocab-zh">未經註冊的注射劑</div>
-          <div class="vocab-sample">"Officers seized around twenty types of unregistered injections during the raid."</div>
+          <div class="vocab-zh">技能再培訓</div>
+          <div class="vocab-sample">"The government has invested heavily in reskilling programmes for older workers."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">2</span>
-            mounting concern
-            <button class="speak-btn" onclick="speak('mounting concern')">🔊</button>
+            join forces with
+            <button class="speak-btn" onclick="speak('join forces with')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('mounting concern','日益增加的憂慮','The raids followed mounting concern over unproven cancer-prevention jabs.',this)">💾</button>
+              onclick="saveVocab('join forces with','與……聯手','The board will join forces with major tech companies to design new courses.',this)">💾</button>
           </div>
-          <div class="vocab-zh">日益增加的憂慮</div>
-          <div class="vocab-sample">"The raids followed mounting concern over unproven cancer-prevention jabs."</div>
+          <div class="vocab-zh">與……聯手</div>
+          <div class="vocab-sample">"The board will join forces with major tech companies to design new courses."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">3</span>
-            conduct a raid
-            <button class="speak-btn" onclick="speak('conduct a raid')">🔊</button>
+            workforce
+            <button class="speak-btn" onclick="speak('workforce')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('conduct a raid','進行突擊搜查','Police conducted raids on fourteen premises across the city.',this)">💾</button>
+              onclick="saveVocab('workforce','勞動力；員工隊伍','A large part of the workforce will need new digital skills in coming years.',this)">💾</button>
           </div>
-          <div class="vocab-zh">進行突擊搜查</div>
-          <div class="vocab-sample">"Police conducted raids on fourteen premises across the city."</div>
+          <div class="vocab-zh">勞動力；員工隊伍</div>
+          <div class="vocab-sample">"A large part of the workforce will need new digital skills in coming years."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">4</span>
-            seize vaccine vials
-            <button class="speak-btn" onclick="speak('seize vaccine vials')">🔊</button>
+            lifelong learning
+            <button class="speak-btn" onclick="speak('lifelong learning')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('seize vaccine vials','檢獲疫苗瓶','Authorities seized more than 890 vaccine vials during the operation.',this)">💾</button>
+              onclick="saveVocab('lifelong learning','終身學習','The scheme promotes a culture of lifelong learning among professionals.',this)">💾</button>
           </div>
-          <div class="vocab-zh">檢獲疫苗瓶</div>
-          <div class="vocab-sample">"Authorities seized more than 890 vaccine vials during the operation."</div>
+          <div class="vocab-zh">終身學習</div>
+          <div class="vocab-sample">"The scheme promotes a culture of lifelong learning among professionals."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">5</span>
-            unproven treatment
-            <button class="speak-btn" onclick="speak('unproven treatment')">🔊</button>
+            future-proof
+            <button class="speak-btn" onclick="speak('future-proof')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('unproven treatment','未經證實的療法','Consumers are being warned against unproven treatments sold online.',this)">💾</button>
+              onclick="saveVocab('future-proof','為未來做好準備','Continuous training helps future-proof workers against automation.',this)">💾</button>
           </div>
-          <div class="vocab-zh">未經證實的療法</div>
-          <div class="vocab-sample">"Consumers are being warned against unproven treatments sold online."</div>
+          <div class="vocab-zh">為未來做好準備</div>
+          <div class="vocab-sample">"Continuous training helps future-proof workers against automation."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">6</span>
-            lured by exaggerated claims
-            <button class="speak-btn" onclick="speak('lured by exaggerated claims')">🔊</button>
+            labour force
+            <button class="speak-btn" onclick="speak('labour force')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('lured by exaggerated claims','被誇大的說法吸引','Some patients were lured by exaggerated claims made on social media.',this)">💾</button>
+              onclick="saveVocab('labour force','勞動人口','AI adoption is expected to reshape much of the local labour force.',this)">💾</button>
           </div>
-          <div class="vocab-zh">被誇大的說法吸引</div>
-          <div class="vocab-sample">"Some patients were lured by exaggerated claims made on social media."</div>
+          <div class="vocab-zh">勞動人口</div>
+          <div class="vocab-sample">"AI adoption is expected to reshape much of the local labour force."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">7</span>
-            bacterial contamination
-            <button class="speak-btn" onclick="speak('bacterial contamination')">🔊</button>
+            vocational training
+            <button class="speak-btn" onclick="speak('vocational training')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('bacterial contamination','細菌污染','Improper manufacturing can lead to bacterial contamination of injections.',this)">💾</button>
+              onclick="saveVocab('vocational training','職業培訓','Vocational training schemes are being expanded to cover AI-related skills.',this)">💾</button>
           </div>
-          <div class="vocab-zh">細菌污染</div>
-          <div class="vocab-sample">"Improper manufacturing can lead to bacterial contamination of injections."</div>
+          <div class="vocab-zh">職業培訓</div>
+          <div class="vocab-sample">"Vocational training schemes are being expanded to cover AI-related skills."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">8</span>
-            put lives at risk
-            <button class="speak-btn" onclick="speak('put lives at risk')">🔊</button>
+            technological disruption
+            <button class="speak-btn" onclick="speak('technological disruption')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('put lives at risk','使生命陷入危險','Officials warned that unregistered jabs could put lives at risk.',this)">💾</button>
+              onclick="saveVocab('technological disruption','科技帶來的衝擊','Many industries are bracing for further technological disruption.',this)">💾</button>
           </div>
-          <div class="vocab-zh">使生命陷入危險</div>
-          <div class="vocab-sample">"Officials warned that unregistered jabs could put lives at risk."</div>
+          <div class="vocab-zh">科技帶來的衝擊</div>
+          <div class="vocab-sample">"Many industries are bracing for further technological disruption."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">9</span>
-            cautionary tale
-            <button class="speak-btn" onclick="speak('cautionary tale')">🔊</button>
+            a central plank of
+            <button class="speak-btn" onclick="speak('a central plank of')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('cautionary tale','警世故事','The case serves as a cautionary tale about unverified medical products.',this)">💾</button>
+              onclick="saveVocab('a central plank of','……的核心支柱','Innovation is described as a central plank of the city\'s economic strategy.',this)">💾</button>
           </div>
-          <div class="vocab-zh">警世故事</div>
-          <div class="vocab-sample">"The case serves as a cautionary tale about unverified medical products."</div>
+          <div class="vocab-zh">……的核心支柱</div>
+          <div class="vocab-sample">"Innovation is described as a central plank of the city's economic strategy."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">10</span>
-            verify authenticity
-            <button class="speak-btn" onclick="speak('verify authenticity')">🔊</button>
+            career planning
+            <button class="speak-btn" onclick="speak('career planning')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('verify authenticity','核實真偽','Patients are urged to verify the authenticity of any medical product first.',this)">💾</button>
+              onclick="saveVocab('career planning','職業規劃','Students are encouraged to factor AI skills into their career planning.',this)">💾</button>
           </div>
-          <div class="vocab-zh">核實真偽</div>
-          <div class="vocab-sample">"Patients are urged to verify the authenticity of any medical product first."</div>
+          <div class="vocab-zh">職業規劃</div>
+          <div class="vocab-sample">"Students are encouraged to factor AI skills into their career planning."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">11</span>
-            underground market
-            <button class="speak-btn" onclick="speak('underground market')">🔊</button>
+            rebrand
+            <button class="speak-btn" onclick="speak('rebrand')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('underground market','地下市場','The raids exposed an underground market for unapproved health injections.',this)">💾</button>
+              onclick="saveVocab('rebrand','重新命名；重塑品牌形象','The agency was rebranded to reflect its expanded role.',this)">💾</button>
           </div>
-          <div class="vocab-zh">地下市場</div>
-          <div class="vocab-sample">"The raids exposed an underground market for unapproved health injections."</div>
+          <div class="vocab-zh">重新命名；重塑品牌形象</div>
+          <div class="vocab-sample">"The agency was rebranded to reflect its expanded role."</div>
         </div>
         <div class="vocab-item">
           <div class="vocab-phrase">
             <span class="vocab-num">12</span>
-            issue a warning
-            <button class="speak-btn" onclick="speak('issue a warning')">🔊</button>
+            tailored module
+            <button class="speak-btn" onclick="speak('tailored module')">🔊</button>
             <button class="save-vocab-btn" title="Save to My List"
-              onclick="saveVocab('issue a warning','發出警告','Health officials issued a warning about unregistered vaccines.',this)">💾</button>
+              onclick="saveVocab('tailored module','度身訂造的課程單元','Each tailored module targets a different group of learners.',this)">💾</button>
           </div>
-          <div class="vocab-zh">發出警告</div>
-          <div class="vocab-sample">"Health officials issued a warning about unregistered vaccines."</div>
+          <div class="vocab-zh">度身訂造的課程單元</div>
+          <div class="vocab-sample">"Each tailored module targets a different group of learners."</div>
         </div></div>
       <div class="vocab-section-label" style="margin-top:1.2rem;">Quick Reference — Phrases &amp; Sample Sentences</div>
       <div class="phrase-table-wrap">
@@ -1840,143 +1988,175 @@
           <td class="en-col">it is widely reported that
             <button class="speak-btn-sm" onclick="speak('it is widely reported that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('it is widely reported that','普遍報導指','It is widely reported that health officials have completed a major crackdown.',this)">💾</button>
+              onclick="saveVocab('it is widely reported that','普遍報導指','It is widely reported that the initiative will roll out in phases from November.',this)">💾</button>
           </td>
           <td class="zh-col">普遍報導指</td>
-          <td class="sample-col"><em>It is widely reported that health officials have completed a major crackdown.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">following mounting concern over
-            <button class="speak-btn-sm" onclick="speak('following mounting concern over')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('following mounting concern over','在對……日益憂慮之後','The raid came following mounting concern over unregistered cancer jabs.',this)">💾</button>
-          </td>
-          <td class="zh-col">在對……日益憂慮之後</td>
-          <td class="sample-col"><em>The raid came following mounting concern over unregistered cancer jabs.</em></td>
-        </tr>
-        <tr>
-          <td class="en-col">nevertheless
-            <button class="speak-btn-sm" onclick="speak('nevertheless')">🔊</button>
-            <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('nevertheless','然而','Nevertheless, the operation uncovered a wider network of unapproved products.',this)">💾</button>
-          </td>
-          <td class="zh-col">然而</td>
-          <td class="sample-col"><em>Nevertheless, the operation uncovered a wider network of unapproved products.</em></td>
+          <td class="sample-col"><em>It is widely reported that the initiative will roll out in phases from November.</em></td>
         </tr>
         <tr>
           <td class="en-col">critics contend that
             <button class="speak-btn-sm" onclick="speak('critics contend that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('critics contend that','批評者認為','Critics contend that such underground markets exploit public anxiety.',this)">💾</button>
+              onclick="saveVocab('critics contend that','批評者認為','Critics contend that the training reaches only a small share of workers.',this)">💾</button>
           </td>
           <td class="zh-col">批評者認為</td>
-          <td class="sample-col"><em>Critics contend that such underground markets exploit public anxiety.</em></td>
+          <td class="sample-col"><em>Critics contend that the training reaches only a small share of workers.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">proponents argue that
+            <button class="speak-btn-sm" onclick="speak('proponents argue that')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('proponents argue that','支持者認為','Proponents argue that the scheme marks meaningful progress nonetheless.',this)">💾</button>
+          </td>
+          <td class="zh-col">支持者認為</td>
+          <td class="sample-col"><em>Proponents argue that the scheme marks meaningful progress nonetheless.</em></td>
+        </tr>
+        <tr>
+          <td class="en-col">nevertheless
+            <button class="speak-btn-sm" onclick="speak('nevertheless')">🔊</button>
+            <button class="save-vocab-btn-sm" title="Save"
+              onclick="saveVocab('nevertheless','然而；儘管如此','Nevertheless, officials insist the programme will expand over time.',this)">💾</button>
+          </td>
+          <td class="zh-col">然而；儘管如此</td>
+          <td class="sample-col"><em>Nevertheless, officials insist the programme will expand over time.</em></td>
         </tr>
         <tr>
           <td class="en-col">by the same token
             <button class="speak-btn-sm" onclick="speak('by the same token')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('by the same token','同樣道理','By the same token, officials stressed the danger of improper medical injections.',this)">💾</button>
+              onclick="saveVocab('by the same token','同樣地','By the same token, the rebranding signals a shift in long-term strategy.',this)">💾</button>
           </td>
-          <td class="zh-col">同樣道理</td>
-          <td class="sample-col"><em>By the same token, officials stressed the danger of improper medical injections.</em></td>
+          <td class="zh-col">同樣地</td>
+          <td class="sample-col"><em>By the same token, the rebranding signals a shift in long-term strategy.</em></td>
         </tr>
         <tr>
-          <td class="en-col">it is nonetheless undeniable that
-            <button class="speak-btn-sm" onclick="speak('it is nonetheless undeniable that')">🔊</button>
+          <td class="en-col">it is against this backdrop that
+            <button class="speak-btn-sm" onclick="speak('it is against this backdrop that')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('it is nonetheless undeniable that','然而不可否認的是','It is nonetheless undeniable that this case highlights a genuine public health risk.',this)">💾</button>
+              onclick="saveVocab('it is against this backdrop that','正是在這背景下','It is against this backdrop that AI has been called a central plank of policy.',this)">💾</button>
           </td>
-          <td class="zh-col">然而不可否認的是</td>
-          <td class="sample-col"><em>It is nonetheless undeniable that this case highlights a genuine public health risk.</em></td>
+          <td class="zh-col">正是在這背景下</td>
+          <td class="sample-col"><em>It is against this backdrop that AI has been called a central plank of policy.</em></td>
         </tr>
         <tr>
-          <td class="en-col">rather than
-            <button class="speak-btn-sm" onclick="speak('rather than')">🔊</button>
+          <td class="en-col">risk lagging behind
+            <button class="speak-btn-sm" onclick="speak('risk lagging behind')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('rather than','而非','Patients should trust verified medicine rather than unproven remedies.',this)">💾</button>
+              onclick="saveVocab('risk lagging behind','有落後的風險','Local firms risk lagging behind regional rivals without adequate training.',this)">💾</button>
           </td>
-          <td class="zh-col">而非</td>
-          <td class="sample-col"><em>Patients should trust verified medicine rather than unproven remedies.</em></td>
+          <td class="zh-col">有落後的風險</td>
+          <td class="sample-col"><em>Local firms risk lagging behind regional rivals without adequate training.</em></td>
         </tr>
         <tr>
-          <td class="en-col">cite the danger of
-            <button class="speak-btn-sm" onclick="speak('cite the danger of')">🔊</button>
+          <td class="en-col">fail to keep pace with
+            <button class="speak-btn-sm" onclick="speak('fail to keep pace with')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('cite the danger of','引述……的危險','Officials cited the danger of bacterial infection from improper injections.',this)">💾</button>
+              onclick="saveVocab('fail to keep pace with','未能跟上……的步伐','Traditional courses often fail to keep pace with fast-moving technology.',this)">💾</button>
           </td>
-          <td class="zh-col">引述……的危險</td>
-          <td class="sample-col"><em>Officials cited the danger of bacterial infection from improper injections.</em></td>
+          <td class="zh-col">未能跟上……的步伐</td>
+          <td class="sample-col"><em>Traditional courses often fail to keep pace with fast-moving technology.</em></td>
         </tr>
         <tr>
-          <td class="en-col">urge the public to
-            <button class="speak-btn-sm" onclick="speak('urge the public to')">🔊</button>
+          <td class="en-col">a meaningful step towards
+            <button class="speak-btn-sm" onclick="speak('a meaningful step towards')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('urge the public to','促請公眾','Authorities urged the public to check a product\'s registration status first.',this)">💾</button>
+              onclick="saveVocab('a meaningful step towards','邁向……有意義的一步','The scheme is a meaningful step towards a more adaptable workforce.',this)">💾</button>
           </td>
-          <td class="zh-col">促請公眾</td>
-          <td class="sample-col"><em>Authorities urged the public to check a product's registration status first.</em></td>
+          <td class="zh-col">邁向……有意義的一步</td>
+          <td class="sample-col"><em>The scheme is a meaningful step towards a more adaptable workforce.</em></td>
         </tr>
         <tr>
-          <td class="en-col">far from
-            <button class="speak-btn-sm" onclick="speak('far from')">🔊</button>
+          <td class="en-col">however welcome
+            <button class="speak-btn-sm" onclick="speak('however welcome')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('far from','遠非','The operation was far from fruitless despite finding no WT1 vaccine itself.',this)">💾</button>
+              onclick="saveVocab('however welcome','儘管值得歡迎','The funding, however welcome, may not be sufficient on its own.',this)">💾</button>
           </td>
-          <td class="zh-col">遠非</td>
-          <td class="sample-col"><em>The operation was far from fruitless despite finding no WT1 vaccine itself.</em></td>
+          <td class="zh-col">儘管值得歡迎</td>
+          <td class="sample-col"><em>The funding, however welcome, may not be sufficient on its own.</em></td>
         </tr>
         <tr>
-          <td class="en-col">place lives at risk
-            <button class="speak-btn-sm" onclick="speak('place lives at risk')">🔊</button>
+          <td class="en-col">reach only a fraction of
+            <button class="speak-btn-sm" onclick="speak('reach only a fraction of')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('place lives at risk','使生命陷於危險','Unregistered injections could place unsuspecting patients\' lives at risk.',this)">💾</button>
+              onclick="saveVocab('reach only a fraction of','只惠及一小部分','Current schemes reach only a fraction of the affected workforce.',this)">💾</button>
           </td>
-          <td class="zh-col">使生命陷於危險</td>
-          <td class="sample-col"><em>Unregistered injections could place unsuspecting patients' lives at risk.</em></td>
+          <td class="zh-col">只惠及一小部分</td>
+          <td class="sample-col"><em>Current schemes reach only a fraction of the affected workforce.</em></td>
         </tr>
         <tr>
-          <td class="en-col">serve as a reminder that
-            <button class="speak-btn-sm" onclick="speak('serve as a reminder that')">🔊</button>
+          <td class="en-col">would be wise to
+            <button class="speak-btn-sm" onclick="speak('would be wise to')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('serve as a reminder that','作為提醒','The case serves as a reminder that not all health claims are trustworthy.',this)">💾</button>
+              onclick="saveVocab('would be wise to','應該；明智的做法是','Graduates would be wise to build digital skills early in their careers.',this)">💾</button>
           </td>
-          <td class="zh-col">作為提醒</td>
-          <td class="sample-col"><em>The case serves as a reminder that not all health claims are trustworthy.</em></td>
+          <td class="zh-col">應該；明智的做法是</td>
+          <td class="sample-col"><em>Graduates would be wise to build digital skills early in their careers.</em></td>
         </tr>
         <tr>
-          <td class="en-col">in light of
-            <button class="speak-btn-sm" onclick="speak('in light of')">🔊</button>
+          <td class="en-col">factor into
+            <button class="speak-btn-sm" onclick="speak('factor into')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('in light of','鑑於','In light of the findings, clinics face closer scrutiny going forward.',this)">💾</button>
+              onclick="saveVocab('factor into','納入考慮','Employers are factoring AI literacy into their hiring decisions.',this)">💾</button>
           </td>
-          <td class="zh-col">鑑於</td>
-          <td class="sample-col"><em>In light of the findings, clinics face closer scrutiny going forward.</em></td>
+          <td class="zh-col">納入考慮</td>
+          <td class="sample-col"><em>Employers are factoring AI literacy into their hiring decisions.</em></td>
         </tr>
         <tr>
-          <td class="en-col">exploit public anxiety
-            <button class="speak-btn-sm" onclick="speak('exploit public anxiety')">🔊</button>
+          <td class="en-col">signal a shift towards
+            <button class="speak-btn-sm" onclick="speak('signal a shift towards')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('exploit public anxiety','利用公眾的焦慮','Some clinics were accused of exploiting public anxiety about cancer.',this)">💾</button>
+              onclick="saveVocab('signal a shift towards','標誌著轉向……','The rebranding signals a shift towards continuous professional learning.',this)">💾</button>
           </td>
-          <td class="zh-col">利用公眾的焦慮</td>
-          <td class="sample-col"><em>Some clinics were accused of exploiting public anxiety about cancer.</em></td>
+          <td class="zh-col">標誌著轉向……</td>
+          <td class="sample-col"><em>The rebranding signals a shift towards continuous professional learning.</em></td>
         </tr>
         <tr>
-          <td class="en-col">call for greater vigilance
-            <button class="speak-btn-sm" onclick="speak('call for greater vigilance')">🔊</button>
+          <td class="en-col">keep pace with
+            <button class="speak-btn-sm" onclick="speak('keep pace with')">🔊</button>
             <button class="save-vocab-btn-sm" title="Save"
-              onclick="saveVocab('call for greater vigilance','呼籲提高警覺','The department called for greater vigilance when choosing medical services.',this)">💾</button>
+              onclick="saveVocab('keep pace with','跟上……的步伐','Training providers are struggling to keep pace with demand for AI courses.',this)">💾</button>
           </td>
-          <td class="zh-col">呼籲提高警覺</td>
-          <td class="sample-col"><em>The department called for greater vigilance when choosing medical services.</em></td>
+          <td class="zh-col">跟上……的步伐</td>
+          <td class="sample-col"><em>Training providers are struggling to keep pace with demand for AI courses.</em></td>
         </tr></tbody>
         </table>
       </div>
+      <div class="article-note-section">
+        <div class="note-label">✏️ My Notes</div>
+        <p class="note-login-hint">
+          <button onclick="signInWithGoogle()">Sign in with Google</button> to save personal notes for this article
+        </p>
+        <textarea class="note-textarea" id="note-area-a3" placeholder="Write your own notes, essay ideas, or vocabulary reminders here…"></textarea>
+        <div class="note-save-row">
+          <button class="note-save-btn" onclick="saveNote('a3')">Save Note</button>
+          <span class="note-status" id="note-status-a3"></span>
+        </div>
+      </div>
     </div>
+      </div>
     </div>
   </article>
     </div>
+    
+  <div class="main-section-head" data-cat="trends">
+    <h2>📲 Social Trends</h2>
+    <span class="section-see-all">Trending now</span>
+  </div>
+  <div class="articles-grid trends-grid" data-cat="trends">
+    
+  <div class="trend-main-item article-card" data-cat="trends social pop">
+    <div class="trend-item-platforms"><span class="platform-tag pt-tiktok">TikTok</span><span class="platform-tag pt-ig">Instagram</span></div>
+    <h3 class="trend-main-headline clickable-headline" id="hl-trend-0" onclick="openFull('trend-0')">🕺 Feel Like Dance Challenge Brings 90s Disco Back to Hong Kong Malls</h3>
+    <div id="meta-trend-0" style="display:none"><span>Social Trend</span></div>
+    <div id="body-trend-0">
+      <div class="trend-body"><p>A wave of nostalgia-driven dance content has swept across Hong Kong social media under the <span class="bw">banner<span class="tip"><span class="tip-en">a slogan or theme under which something is promoted</span><span class="tip-zh">旗號；口號</span></span></span> of the &ldquo;Feel Like Dance Challenge&rdquo;, timed to coincide with Hong Kong Disneyland's 2026 celebrations. Participants <span class="bw">recreate<span class="tip"><span class="tip-en">to make or produce something again</span><span class="tip-zh">重現</span></span></span> 1990s-style disco moves set to a remixed retro soundtrack, often filmed in brightly lit public spaces such as shopping malls and MTR concourses. The trend has proven especially popular among secondary school and university students, who post side-by-side videos with parents or grandparents attempting the same choreography, tapping into a broader appetite for <span class="bw">intergenerational<span class="tip"><span class="tip-en">involving people from different generations</span><span class="tip-zh">跨代的</span></span></span> content on short-form video platforms. Brands have quickly moved to capitalise on the craze, with several retailers releasing themed merchandise and sponsoring dance workshops in shopping centres across the city.</p></div>
+      <div class="causes-block">
+        <div class="causes-title">HKDSE Writing Angles</div>
+        <ul class="causes-list"><li><strong>Psychological appeal:</strong> Nostalgic, easy-to-copy choreography offers a low-pressure way for users of any age to participate and feel a sense of accomplishment when the routine is mastered.</li><li><strong>Social media influence:</strong> Short-form video platforms reward simple, repeatable formats, allowing the challenge to spread rapidly once a handful of local creators popularised it.</li><li><strong>Consumer culture:</strong> Brands and shopping centres have seized on the trend's popularity to drive footfall and merchandise sales, further accelerating its spread.</li></ul>
+      </div>
+    </div>
+  </div>
+  </div>
   </main>
 
   <!-- RIGHT SIDEBAR -->
@@ -1988,15 +2168,18 @@
     
   <div class="trend-item" data-cat="social pop">
     <div class="trend-item-platforms"><span class="platform-tag pt-tiktok">TikTok</span><span class="platform-tag pt-ig">Instagram</span></div>
-    <h4 class="trend-item-headline">🧋 'Spritea' Craze: Hongkongers Are Dunking Tea Bags in Sprite</h4>
-    <div class="trend-study-toggle" onclick="toggleStudy('trend-0')">
-      <span>Full analysis</span><span id="icon-trend-0">▾</span>
+    <h4 class="trend-item-headline clickable-headline" id="hl-strend-0" onclick="openFull('strend-0')">🕺 Feel Like Dance Challenge Brings 90s Disco Back to Hong Kong Malls</h4>
+    <div class="trend-study-toggle" onclick="toggleStudy('strend-0')">
+      <span>Full analysis</span><span id="icon-strend-0">▾</span>
     </div>
-    <div class="study-drawer" id="drawer-trend-0">
-      <div class="trend-body"><p>A quirky drink hack has taken Hong Kong by storm: creators are <span class="bw">dunking<span class="tip"><span class="tip-en">dipping something briefly into liquid</span><span class="tip-zh">浸泡</span></span></span> ordinary tea bags directly into bottles of Sprite, producing a sweet, malty, citrus-laced concoction that has been dubbed &ldquo;Spritea&rdquo;. Having already gone viral in North America in 2025, the trend has now <span class="bw">taken off<span class="tip"><span class="tip-en">become suddenly very popular</span><span class="tip-zh">迅速流行起來</span></span></span> among Hong Kong's Gen Z social media users, with searches for the recipe surging by more than 200 per cent on TikTok within a single week. Sensing an opportunity, Sprite has since launched an official ready-to-drink version and toured a mobile pop-up tea shop through high-traffic districts, giving away tens of thousands of free samples.</p></div>
-      <div class="causes-block">
-        <div class="causes-title">HKDSE Writing Angles</div>
-        <ul class="causes-list"><li><strong>Psychological appeal:</strong> The novelty and sheer simplicity of the DIY hack — just add a tea bag to a soda bottle — makes it easy and satisfying to replicate, encouraging repeat filming and sharing.</li><li><strong>Social media influence:</strong> Short-form video creators amplified the trend rapidly, turning a quirky kitchen experiment into a viral challenge that spread across TikTok and Instagram within days.</li><li><strong>Consumer culture:</strong> Brands capitalised swiftly on organic online buzz, with Sprite's official product launch and sampling campaign further fuelling demand and cementing the trend commercially.</li></ul>
+    <div id="meta-strend-0" style="display:none"><span>Social Trend</span></div>
+    <div id="body-strend-0">
+      <div class="study-drawer" id="drawer-strend-0">
+        <div class="trend-body"><p>A wave of nostalgia-driven dance content has swept across Hong Kong social media under the <span class="bw">banner<span class="tip"><span class="tip-en">a slogan or theme under which something is promoted</span><span class="tip-zh">旗號；口號</span></span></span> of the &ldquo;Feel Like Dance Challenge&rdquo;, timed to coincide with Hong Kong Disneyland's 2026 celebrations. Participants <span class="bw">recreate<span class="tip"><span class="tip-en">to make or produce something again</span><span class="tip-zh">重現</span></span></span> 1990s-style disco moves set to a remixed retro soundtrack, often filmed in brightly lit public spaces such as shopping malls and MTR concourses. The trend has proven especially popular among secondary school and university students, who post side-by-side videos with parents or grandparents attempting the same choreography, tapping into a broader appetite for <span class="bw">intergenerational<span class="tip"><span class="tip-en">involving people from different generations</span><span class="tip-zh">跨代的</span></span></span> content on short-form video platforms. Brands have quickly moved to capitalise on the craze, with several retailers releasing themed merchandise and sponsoring dance workshops in shopping centres across the city.</p></div>
+        <div class="causes-block">
+          <div class="causes-title">HKDSE Writing Angles</div>
+          <ul class="causes-list"><li><strong>Psychological appeal:</strong> Nostalgic, easy-to-copy choreography offers a low-pressure way for users of any age to participate and feel a sense of accomplishment when the routine is mastered.</li><li><strong>Social media influence:</strong> Short-form video platforms reward simple, repeatable formats, allowing the challenge to spread rapidly once a handful of local creators popularised it.</li><li><strong>Consumer culture:</strong> Brands and shopping centres have seized on the trend's popularity to drive footfall and merchandise sales, further accelerating its spread.</li></ul>
+        </div>
       </div>
     </div>
   </div>
@@ -2036,6 +2219,10 @@
   Hover <strong style="color:var(--accent)">blue words</strong> for definitions · Click 🔊 to hear pronunciation
 </footer>
 
+<!-- Firebase SDKs (compat version — works without bundler) -->
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
 <script>
   // Header date
   (function() {
@@ -2190,6 +2377,180 @@
         }
       });
     });
+  })();
+
+  // ── FULL-SCREEN ARTICLE / TREND VIEWER ──────────────────────────────────────
+  function openFull(uid) {
+    var overlay = document.getElementById('full-overlay');
+    var headEl  = document.getElementById('full-headline');
+    var metaEl  = document.getElementById('full-meta');
+    var bodyEl  = document.getElementById('full-body');
+    if (!overlay) return;
+
+    // Source elements
+    var srcHead = document.getElementById('hl-'   + uid);
+    var srcMeta = document.getElementById('meta-' + uid);
+    var srcBody = document.getElementById('body-' + uid);
+
+    headEl.textContent = srcHead ? srcHead.textContent : '';
+    metaEl.innerHTML   = srcMeta ? srcMeta.innerHTML   : '';
+
+    if (srcBody) {
+      var clone = srcBody.cloneNode(true);
+      // Force all study drawers open
+      clone.querySelectorAll('.study-drawer').forEach(function(d){ d.style.display = 'block'; });
+      // Hide toggle buttons — content is always visible in full view
+      clone.querySelectorAll('.study-toggle, .trend-study-toggle').forEach(function(t){ t.style.display = 'none'; });
+      bodyEl.innerHTML = '';
+      bodyEl.appendChild(clone);
+    }
+
+    overlay.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeFull() {
+    var overlay = document.getElementById('full-overlay');
+    if (overlay) overlay.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  // Close on Escape key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeFull();
+  });
+
+  // ── FIREBASE: GOOGLE AUTH + FIRESTORE SYNC ───────────────────────────────
+  (function() {
+    var FB_CONFIG = {
+      apiKey: "AIzaSyDJCiCOCJUOMHRzvInUBCeJU6NUewbPKGM",
+      authDomain: "hkdse-daily.firebaseapp.com",
+      projectId: "hkdse-daily",
+      storageBucket: "hkdse-daily.firebasestorage.app",
+      messagingSenderId: "993113747556",
+      appId: "1:993113747556:web:65e4738a200f0ec154af71"
+    };
+
+    function initFirebase() {
+      if (typeof firebase === 'undefined') { setTimeout(initFirebase, 200); return; }
+      try { firebase.app(); } catch(e) { firebase.initializeApp(FB_CONFIG); }
+      var auth = firebase.auth();
+      var db   = firebase.firestore();
+      window._fb = { auth: auth, db: db };
+
+      auth.onAuthStateChanged(function(user) {
+        var loginBtn  = document.getElementById('auth-login-btn');
+        var userPill  = document.getElementById('auth-user-pill');
+        if (user) {
+          if (loginBtn) loginBtn.style.display = 'none';
+          if (userPill) {
+            userPill.style.display = 'flex';
+            var av = userPill.querySelector('.auth-avatar');
+            var nm = userPill.querySelector('.auth-user-name');
+            if (av && user.photoURL) av.src = user.photoURL;
+            if (nm) nm.textContent = user.displayName || user.email;
+          }
+          // Show notes UI
+          document.querySelectorAll('.note-login-hint').forEach(function(el){ el.style.display='none'; });
+          document.querySelectorAll('.note-textarea').forEach(function(el){ el.style.display='block'; });
+          document.querySelectorAll('.note-save-row').forEach(function(el){ el.style.display='flex'; });
+          // Load cloud data
+          _loadCloudVocab(user.uid);
+          _loadCloudNotes(user.uid);
+        } else {
+          if (loginBtn) loginBtn.style.display = 'flex';
+          if (userPill) userPill.style.display = 'none';
+          document.querySelectorAll('.note-login-hint').forEach(function(el){ el.style.display=''; });
+          document.querySelectorAll('.note-textarea').forEach(function(el){ el.style.display='none'; });
+          document.querySelectorAll('.note-save-row').forEach(function(el){ el.style.display='none'; });
+        }
+      });
+    }
+    initFirebase();
+
+    window.signInWithGoogle = function() {
+      if (!window._fb) return;
+      window._fb.auth.signInWithPopup(new firebase.auth.GoogleAuthProvider());
+    };
+    window.signOutGoogle = function() {
+      if (!window._fb) return;
+      if (confirm('Sign out?')) window._fb.auth.signOut();
+    };
+
+    function _loadCloudVocab(uid) {
+      window._fb.db.collection('users').doc(uid).collection('vocab')
+        .get().then(function(snap) {
+          var localList = _loadSaved();
+          snap.forEach(function(doc) {
+            var d = doc.data();
+            if (d.phrase && !localList.some(function(x){ return x.phrase === d.phrase; })) {
+              localList.push(d);
+            }
+          });
+          _saveSaved(localList);
+          _updateBadge();
+          localList.forEach(function(item) {
+            document.querySelectorAll('.save-vocab-btn, .save-vocab-btn-sm').forEach(function(b) {
+              if ((b.getAttribute('onclick') || '').indexOf(item.phrase.replace(/'/g,"\'")) !== -1) {
+                b.classList.add('saved');
+              }
+            });
+          });
+        }).catch(function(){});
+    }
+
+    function _loadCloudNotes(uid) {
+      window._fb.db.collection('users').doc(uid).collection('notes')
+        .get().then(function(snap) {
+          snap.forEach(function(doc) {
+            var area = document.getElementById('note-area-' + doc.id);
+            if (area) area.value = doc.data().text || '';
+          });
+        }).catch(function(){});
+    }
+
+    // Patch saveVocab to also write/delete in Firestore
+    var _origSaveVocab = window.saveVocab;
+    window.saveVocab = function(phrase, zh, sample, btn) {
+      _origSaveVocab(phrase, zh, sample, btn);
+      if (!window._fb) return;
+      var user = window._fb.auth.currentUser;
+      if (!user) return;
+      var docId = phrase.replace(/[^a-zA-Z0-9]/g, '_').slice(0, 80);
+      var nowInList = _loadSaved().some(function(x){ return x.phrase === phrase; });
+      var ref = window._fb.db.collection('users').doc(user.uid).collection('vocab').doc(docId);
+      if (nowInList) {
+        ref.set({ phrase: phrase, zh: zh, sample: sample, saved: firebase.firestore.FieldValue.serverTimestamp() }).catch(function(){});
+      } else {
+        ref.delete().catch(function(){});
+      }
+    };
+
+    var _origRemoveSaved = window.removeSaved;
+    window.removeSaved = function(phrase) {
+      _origRemoveSaved(phrase);
+      if (!window._fb) return;
+      var user = window._fb.auth.currentUser;
+      if (!user) return;
+      var docId = phrase.replace(/[^a-zA-Z0-9]/g, '_').slice(0, 80);
+      window._fb.db.collection('users').doc(user.uid).collection('vocab').doc(docId).delete().catch(function(){});
+    };
+
+    window.saveNote = function(articleUid) {
+      if (!window._fb) return;
+      var user = window._fb.auth.currentUser;
+      if (!user) return;
+      var area   = document.getElementById('note-area-' + articleUid);
+      var status = document.getElementById('note-status-' + articleUid);
+      if (!area) return;
+      window._fb.db.collection('users').doc(user.uid).collection('notes').doc(articleUid)
+        .set({ text: area.value, updated: firebase.firestore.FieldValue.serverTimestamp() })
+        .then(function() {
+          if (status) { status.textContent = 'Saved ✓'; setTimeout(function(){ status.textContent = ''; }, 2000); }
+        }).catch(function() {
+          if (status) status.textContent = 'Error — try again';
+        });
+    };
   })();
 </script>
 </body>

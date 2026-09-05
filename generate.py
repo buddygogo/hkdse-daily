@@ -496,6 +496,8 @@ def build_hero_html(article: dict, image_url: str | None, uid: str) -> str:
 
     study = _study_notes_html(article, uid)
 
+    hl_esc = article.get('headline','').replace("'", "&#39;")
+
     return f"""
   <article class="hero-card" data-cat="{data_cat}">
     <div class="hero-media">
@@ -503,15 +505,15 @@ def build_hero_html(article: dict, image_url: str | None, uid: str) -> str:
       <div class="hero-overlay"></div>
       <div class="hero-overlay-text">
         <span class="cat-chip {tag_cls}">{tag_em} {tag_lbl}</span>
-        <h2 class="hero-headline">{article.get('headline','')}</h2>
-        <div class="hero-byline">
+        <h2 class="hero-headline clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{article.get('headline','')}</h2>
+        <div class="hero-byline" id="meta-{uid}">
           <a class="hero-source" href="{src_url}" target="_blank" rel="noopener">{src_name}</a>
           {ig_badge}
           {f'<span class="hero-dot">·</span><span class="hero-pub">{pub}</span>' if pub else ''}
         </div>
       </div>
     </div>
-    <div class="hero-body">
+    <div class="hero-body" id="body-{uid}">
       <div class="news-body">{article.get('summary_html','')}</div>
       {study}
     </div>
@@ -545,14 +547,16 @@ def build_article_card_html(article: dict, image_url: str | None, uid: str) -> s
     {img_html}
     <div class="card-body">
       <span class="cat-chip {tag_cls}">{tag_em} {tag_lbl}</span>
-      <h3 class="card-headline">{article.get('headline','')}</h3>
-      <div class="card-meta">
+      <h3 class="card-headline clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{article.get('headline','')}</h3>
+      <div class="card-meta" id="meta-{uid}">
         <a class="card-source" href="{src_url}" target="_blank" rel="noopener">{src_name}</a>
         {ig_badge}
         {f'<span class="card-dot">·</span><span class="card-pub">{pub}</span>' if pub else ''}
       </div>
-      <div class="card-summary news-body">{article.get('summary_html','')}</div>
-      {study}
+      <div id="body-{uid}">
+        <div class="card-summary news-body">{article.get('summary_html','')}</div>
+        {study}
+      </div>
     </div>
   </article>"""
 
@@ -568,21 +572,63 @@ def build_trend_sidebar_html(trend: dict, idx: int) -> str:
         f'<li><strong>{c.get("label","")}:</strong> {c.get("text","")}</li>'
         for c in trend.get("causes", [])
     )
-    uid = f"trend-{idx}"
+    uid = f"strend-{idx}"  # 'strend' = sidebar trend (avoid ID collision with main feed trends)
     return f"""
   <div class="trend-item" data-cat="social pop">
     <div class="trend-item-platforms">{plat_html}</div>
-    <h4 class="trend-item-headline">{trend.get('headline','')}</h4>
+    <h4 class="trend-item-headline clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{trend.get('headline','')}</h4>
     <div class="trend-study-toggle" onclick="toggleStudy('{uid}')">
       <span>Full analysis</span><span id="icon-{uid}">▾</span>
     </div>
-    <div class="study-drawer" id="drawer-{uid}">
+    <div id="meta-{uid}" style="display:none"><span>Social Trend</span></div>
+    <div id="body-{uid}">
+      <div class="study-drawer" id="drawer-{uid}">
+        <div class="trend-body">{trend.get('summary_html','')}</div>
+        <div class="causes-block">
+          <div class="causes-title">HKDSE Writing Angles</div>
+          <ul class="causes-list">{causes_html}</ul>
+        </div>
+      </div>
+    </div>
+  </div>"""
+
+
+def build_trend_main_html(trends: list[dict]) -> str:
+    """Renders social trends as a full-width main-feed section."""
+    if not trends:
+        return ""
+    items_html = ""
+    for idx, trend in enumerate(trends):
+        uid = f"trend-{idx}"
+        plat_html = "".join(
+            f'<span class="platform-tag {_PLATFORM_META.get(p, ("pt-fb",""))[0]}">'
+            f'{_PLATFORM_META.get(p, ("pt-fb", p.upper()))[1]}</span>'
+            for p in trend.get("platforms", [])
+        )
+        causes_html = "".join(
+            f'<li><strong>{c.get("label","")}:</strong> {c.get("text","")}</li>'
+            for c in trend.get("causes", [])
+        )
+        items_html += f"""
+  <div class="trend-main-item article-card" data-cat="trends social pop">
+    <div class="trend-item-platforms">{plat_html}</div>
+    <h3 class="trend-main-headline clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{trend.get('headline','')}</h3>
+    <div id="meta-{uid}" style="display:none"><span>Social Trend</span></div>
+    <div id="body-{uid}">
       <div class="trend-body">{trend.get('summary_html','')}</div>
       <div class="causes-block">
         <div class="causes-title">HKDSE Writing Angles</div>
         <ul class="causes-list">{causes_html}</ul>
       </div>
     </div>
+  </div>"""
+    return f"""
+  <div class="main-section-head" data-cat="trends">
+    <h2>📲 Social Trends</h2>
+    <span class="section-see-all">Trending now</span>
+  </div>
+  <div class="articles-grid trends-grid" data-cat="trends">
+    {items_html}
   </div>"""
 
 
@@ -1315,6 +1361,55 @@ CSS = """
       .topbar-nav { display: none; }
       .logo-name { font-size: 1rem; }
     }
+
+    /* ── TRENDS MAIN FEED ── */
+    .trends-grid { margin-top: 0.5rem; }
+    .trend-main-item { padding: 1.25rem; }
+    .trend-main-headline {
+      font-family: 'DM Serif Display', serif; font-size: 1.05rem;
+      color: var(--ink); margin: 0.5rem 0 0.75rem; line-height: 1.35;
+    }
+
+    /* ── FULL-SCREEN OVERLAY ── */
+    .full-overlay {
+      display: none; position: fixed; inset: 0; z-index: 9999;
+      background: var(--bg); overflow-y: auto;
+    }
+    .full-overlay.open { display: block; }
+    .full-overlay-inner {
+      max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem 4rem;
+    }
+    .full-overlay-topbar {
+      display: flex; align-items: center; gap: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+    .full-close-btn {
+      background: none; border: 1px solid var(--border); border-radius: 6px;
+      padding: 0.35rem 0.75rem; cursor: pointer; font-size: 0.85rem;
+      color: var(--ink); display: flex; align-items: center; gap: 0.4rem;
+    }
+    .full-close-btn:hover { background: var(--faint); }
+    .full-headline {
+      font-family: 'DM Serif Display', serif; font-size: clamp(1.4rem,3vw,2rem);
+      line-height: 1.25; color: var(--ink); margin: 0 0 0.5rem;
+    }
+    .full-meta {
+      font-size: 0.82rem; color: var(--muted); margin-bottom: 1.5rem;
+      display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;
+    }
+    .full-body { color: var(--sub); }
+    .full-body .news-body,
+    .full-body .trend-body { font-size: 1rem; line-height: 1.85; margin-bottom: 1.5rem; }
+    .full-body .study-section,
+    .full-body .study-drawer { display: block !important; }
+    .full-body .study-toggle,
+    .full-body .trend-study-toggle { display: none !important; }
+    .full-body .vocab-grid { grid-template-columns: repeat(auto-fill, minmax(220px,1fr)); }
+    /* clickable headline style */
+    .clickable-headline {
+      cursor: pointer; transition: color 0.15s;
+    }
+    .clickable-headline:hover { color: var(--accent); }
 """
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -1474,6 +1569,47 @@ JS = """
       });
     });
   })();
+
+  // ── FULL-SCREEN ARTICLE / TREND VIEWER ──────────────────────────────────────
+  function openFull(uid) {
+    var overlay = document.getElementById('full-overlay');
+    var headEl  = document.getElementById('full-headline');
+    var metaEl  = document.getElementById('full-meta');
+    var bodyEl  = document.getElementById('full-body');
+    if (!overlay) return;
+
+    // Source elements
+    var srcHead = document.getElementById('hl-'   + uid);
+    var srcMeta = document.getElementById('meta-' + uid);
+    var srcBody = document.getElementById('body-' + uid);
+
+    headEl.textContent = srcHead ? srcHead.textContent : '';
+    metaEl.innerHTML   = srcMeta ? srcMeta.innerHTML   : '';
+
+    if (srcBody) {
+      var clone = srcBody.cloneNode(true);
+      // Force all study drawers open
+      clone.querySelectorAll('.study-drawer').forEach(function(d){ d.style.display = 'block'; });
+      // Hide toggle buttons — content is always visible in full view
+      clone.querySelectorAll('.study-toggle, .trend-study-toggle').forEach(function(t){ t.style.display = 'none'; });
+      bodyEl.innerHTML = '';
+      bodyEl.appendChild(clone);
+    }
+
+    overlay.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeFull() {
+    var overlay = document.getElementById('full-overlay');
+    if (overlay) overlay.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  // Close on Escape key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeFull();
+  });
 """
 
 # ── HTML TEMPLATE ────────────────────────────────────────────────────────────
@@ -1541,6 +1677,18 @@ HTML_TEMPLATE = """\
   </div>
 </div>
 
+<!-- FULL-SCREEN ARTICLE OVERLAY -->
+<div class="full-overlay" id="full-overlay" onclick="if(event.target===this)closeFull()">
+  <div class="full-overlay-inner">
+    <div class="full-overlay-topbar">
+      <button class="full-close-btn" onclick="closeFull()">← Back</button>
+    </div>
+    <h2 class="full-headline" id="full-headline"></h2>
+    <div class="full-meta" id="full-meta"></div>
+    <div class="full-body" id="full-body"></div>
+  </div>
+</div>
+
 <div class="site-body">
 
   <!-- LEFT SIDEBAR -->
@@ -1553,6 +1701,7 @@ HTML_TEMPLATE = """\
     <button class="sidebar-link" data-cat="hk" onclick="filterCards('hk',this)"><span class="sl-icon">🏮</span> HK Culture</button>
     <button class="sidebar-link" data-cat="pop" onclick="filterCards('pop',this)"><span class="sl-icon">🎵</span> Pop Culture</button>
     <button class="sidebar-link" data-cat="social" onclick="filterCards('social',this)"><span class="sl-icon">📊</span> Social</button>
+    <button class="sidebar-link" data-cat="trends" onclick="filterCards('trends',this)"><span class="sl-icon">📲</span> Social Trends</button>
     <div class="sidebar-divider"></div>
     <button class="sidebar-link" data-cat="econ" onclick="filterCards('econ',this)"><span class="sl-icon">💰</span> Economy</button>
     <button class="sidebar-link" data-cat="health" onclick="filterCards('health',this)"><span class="sl-icon">🏥</span> Health</button>
@@ -1575,6 +1724,7 @@ HTML_TEMPLATE = """\
     <div class="articles-grid">
       {articles_grid}
     </div>
+    {trends_main}
   </main>
 
   <!-- RIGHT SIDEBAR -->
@@ -1636,11 +1786,16 @@ def build_page(data: dict) -> str:
         hero_html = ""
         grid_html = ""
 
+    raw_trends = data.get("trends", [])
+
     # Trends in right sidebar
     trends_html = "".join(
         build_trend_sidebar_html(t, i)
-        for i, t in enumerate(data.get("trends", []))
+        for i, t in enumerate(raw_trends)
     )
+
+    # Trends in main feed
+    trends_main_html = build_trend_main_html(raw_trends)
 
     # Countdown widget
     countdown_html = build_countdown_widget_html(exam_date, is_estimated)
@@ -1650,6 +1805,7 @@ def build_page(data: dict) -> str:
         js=JS,
         hero=hero_html,
         articles_grid=grid_html,
+        trends_main=trends_main_html,
         trends_sidebar=trends_html,
         countdown_sidebar=countdown_html,
     )

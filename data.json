@@ -2,590 +2,580 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/333029/8-zero-class-schools-approved-for-merger-2-to-run-private-P1-classes",
-      "published_date": "29 August 2026",
-      "headline": "Eight 'Zero-Class' Primary Schools Approved for Merger as Hong Kong's Birth Rate Hits Record Low",
-      "category": "school",
-      "summary_html": "<p>It is widely reported that the Education Bureau has given the go-ahead for eight so-called &ldquo;zero-class&rdquo; primary schools &mdash; institutions that failed to <span class=\"bw\">secure sufficient enrolment<span class=\"tip\"><span class=\"tip-en\">succeed in attracting enough students</span><span class=\"tip-zh\">未能取得足夠收生人數</span></span></span> to open a Primary One class this September &mdash; to merge with neighbouring institutions, while two others will run self-financing classes and a further four are set to be <span class=\"bw\">phased out<span class=\"tip\"><span class=\"tip-en\">gradually closed down over time</span><span class=\"tip-zh\">逐步淘汰</span></span></span> altogether. The wave of closures and mergers, among them the case of Fresh Fish Traders School joining forces with a nearby institution, is widely attributed to Hong Kong&rsquo;s <span class=\"bw\">record-low birth rate<span class=\"tip\"><span class=\"tip-en\">the lowest number of births ever recorded</span><span class=\"tip-zh\">歷來最低出生率</span></span></span>, with only 31,714 babies registered last year.</p><p>Critics contend that such large-scale restructuring, however necessary on paper, risks <span class=\"bw\">eroding<span class=\"tip\"><span class=\"tip-en\">gradually wearing away or weakening</span><span class=\"tip-zh\">侵蝕；削弱</span></span></span> decades of institutional identity and alumni attachment overnight. Teachers at affected schools have voiced concern over job security, while parents worry about the disruption of moving children mid-way through their primary education to unfamiliar campuses. Nevertheless, the Education Bureau has sought to <span class=\"bw\">cushion the impact<span class=\"tip\"><span class=\"tip-en\">soften or reduce the negative effect of something</span><span class=\"tip-zh\">緩衝影響</span></span></span> by granting merged schools a three-year grace period during which class sizes are not strictly enforced, allowing time to <span class=\"bw\">iron out<span class=\"tip\"><span class=\"tip-en\">to resolve small problems or difficulties</span><span class=\"tip-zh\">解決；理順</span></span></span> practical matters such as curriculum alignment and staff arrangements.</p><p>By the same token, education commentators argue that mergers alone are but a stopgap rather than a genuine solution to a much deeper demographic <span class=\"bw\">predicament<span class=\"tip\"><span class=\"tip-en\">a difficult and unpleasant situation</span><span class=\"tip-zh\">困境</span></span></span>. With Hong Kong&rsquo;s population continuing to age and its workforce contracting, some have called for a more <span class=\"bw\">holistic<span class=\"tip\"><span class=\"tip-en\">considering the whole picture rather than just individual parts</span><span class=\"tip-zh\">全面的；整體的</span></span></span> population policy that goes beyond the education sector alone. It remains to be seen whether the current wave of consolidation will be sufficient to sustain smaller neighbourhood schools in the years ahead, or whether further closures are simply being <span class=\"bw\">deferred<span class=\"tip\"><span class=\"tip-en\">delayed or postponed to a later time</span><span class=\"tip-zh\">推遲</span></span></span> rather than avoided.</p>",
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/society/article/3365496/us-singer-post-malone-postpones-hong-kong-concert-sparking-fan-complaints",
+      "published_date": "4 September 2026",
+      "headline": "Post Malone Postpones Hong Kong Stadium Concert, Leaving Fans Frustrated",
+      "category": "pop",
+      "summary_html": "<p>American rapper Post Malone has <span class=\"bw\">indefinitely postponed<span class=\"tip\"><span class=\"tip-en\">put off without a fixed new date</span><span class=\"tip-zh\">無限期推遲</span></span></span> his Hong Kong stadium concert, originally scheduled for 16 September at Kai Tak Stadium as the opening date of his Big Ass Stadium World Tour across Asia. The promoter issued a brief statement confirming that ticket holders who purchased through HK Ticketing, Damai and Trip.com would receive <span class=\"bw\">full refunds<span class=\"tip\"><span class=\"tip-en\">complete reimbursement of the purchase price</span><span class=\"tip-zh\">全額退款</span></span></span> within twenty to thirty working days, though no explanation was offered for the sudden change. The announcement, made on 4 September, has <span class=\"bw\">sparked widespread disappointment<span class=\"tip\"><span class=\"tip-en\">triggered a strong negative reaction among many people</span><span class=\"tip-zh\">引起廣泛失望</span></span></span> among fans, many of whom had already booked annual leave, flights and hotel accommodation specifically around the concert date.</p><p>It is widely argued that the postponement, which extends to the entire eight-date Asian leg as well as subsequent Australian and New Zealand shows, points to <span class=\"bw\">logistical challenges<span class=\"tip\"><span class=\"tip-en\">practical difficulties in organising and coordinating an event</span><span class=\"tip-zh\">後勤上的困難</span></span></span> inherent in mounting a stadium tour of <span class=\"bw\">unprecedented scale<span class=\"tip\"><span class=\"tip-en\">a size or level never seen before</span><span class=\"tip-zh\">前所未有的規模</span></span></span> across multiple time zones and venues. Critics contend that such disruption carries a significant financial cost, not only for the artist and promoter but also for fans who cannot always recover incidental expenses such as travel bookings. Since opening in 2025, Kai Tak Stadium has rapidly become Hong Kong's premier <span class=\"bw\">live entertainment hub<span class=\"tip\"><span class=\"tip-en\">a central location where large concerts and performances are held</span><span class=\"tip-zh\">現場娛樂樞紐</span></span></span>, and a high-profile cancellation of this kind inevitably raises questions about the reliability of the city's expanding concert calendar.</p><p>Nevertheless, industry observers note that postponements of this nature are not unusual within global touring schedules and do not necessarily reflect on Hong Kong's own capacity to host large-scale events. By the same token, the episode has renewed calls for stronger <span class=\"bw\">consumer protection<span class=\"tip\"><span class=\"tip-en\">legal safeguards for the rights and interests of buyers</span><span class=\"tip-zh\">消費者保障</span></span></span> measures within the ticketing industry, particularly clearer refund timelines and compensation for non-ticket losses. The <span class=\"bw\">ripple effect<span class=\"tip\"><span class=\"tip-en\">a spreading, indirect consequence of an event</span><span class=\"tip-zh\">連鎖反應</span></span></span> of the cancellation, from disappointed fans to affected hospitality bookings, illustrates how deeply intertwined live entertainment has become with Hong Kong's broader tourism economy, and underscores the importance of transparent communication whenever such changes are unavoidable.</p>",
       "vocab": [
         {
-          "phrase": "secure sufficient enrolment",
-          "zh": "取得足夠收生人數",
-          "sample": "The small primary school struggled to secure sufficient enrolment for a second consecutive year."
+          "phrase": "indefinitely postponed",
+          "zh": "無限期推遲",
+          "sample": "The outdoor concert was indefinitely postponed after the promoter cited unresolved logistical issues."
         },
         {
-          "phrase": "phase out",
-          "zh": "逐步淘汰",
-          "sample": "The programme will be phased out gradually over the next three academic years."
+          "phrase": "full refund",
+          "zh": "全額退款",
+          "sample": "Customers who purchased tickets through official channels were promised a full refund within a month."
         },
         {
-          "phrase": "record-low birth rate",
-          "zh": "歷來最低出生率",
-          "sample": "Hong Kong's record-low birth rate has forced several schools to reconsider their long-term viability."
+          "phrase": "widespread disappointment",
+          "zh": "廣泛的失望",
+          "sample": "The sudden cancellation caused widespread disappointment among fans who had travelled from abroad."
         },
         {
-          "phrase": "erode",
-          "zh": "侵蝕；削弱",
-          "sample": "Frequent leadership changes have eroded staff morale at the school."
+          "phrase": "logistical challenges",
+          "zh": "後勤挑戰",
+          "sample": "Organising a multi-city tour involves numerous logistical challenges, from transport to venue scheduling."
         },
         {
-          "phrase": "cushion the impact",
-          "zh": "緩衝影響",
-          "sample": "Extra funding was provided to cushion the impact of the sudden policy change."
+          "phrase": "unprecedented scale",
+          "zh": "前所未有的規模",
+          "sample": "The stadium was built to host events of an unprecedented scale never before seen in the city."
         },
         {
-          "phrase": "iron out",
-          "zh": "解決；理順",
-          "sample": "The two schools met several times to iron out differences in their teaching schedules."
+          "phrase": "live entertainment hub",
+          "zh": "現場娛樂樞紐",
+          "sample": "Kai Tak Stadium has transformed Hong Kong into a regional live entertainment hub."
         },
         {
-          "phrase": "predicament",
-          "zh": "困境",
-          "sample": "Ageing populations have left many cities in a demographic predicament."
+          "phrase": "consumer protection",
+          "zh": "消費者保障",
+          "sample": "Stronger consumer protection laws would give ticket buyers greater confidence when purchasing in advance."
         },
         {
-          "phrase": "holistic",
-          "zh": "全面的；整體的",
-          "sample": "A holistic approach to population policy considers housing, education and healthcare together."
+          "phrase": "ripple effect",
+          "zh": "連鎖反應",
+          "sample": "A single cancellation can have a ripple effect across the hospitality and transport sectors."
         },
         {
-          "phrase": "defer",
-          "zh": "推遲",
-          "sample": "The board decided to defer its decision on further school closures until next year."
+          "phrase": "ticket holder",
+          "zh": "持票人",
+          "sample": "Every ticket holder was contacted individually regarding the refund process."
         },
         {
-          "phrase": "institutional identity",
-          "zh": "機構身份認同",
-          "sample": "Alumni feared that the merger would weaken the school's institutional identity."
+          "phrase": "incidental expenses",
+          "zh": "附帶開支",
+          "sample": "Fans were left to bear incidental expenses such as flights and hotel bookings themselves."
         },
         {
-          "phrase": "self-financing class",
-          "zh": "自資班",
-          "sample": "The school will operate a self-financing class to keep its doors open this year."
+          "phrase": "high-profile cancellation",
+          "zh": "備受矚目的取消事件",
+          "sample": "The high-profile cancellation drew extensive coverage from local and international media."
         },
         {
-          "phrase": "ageing population",
-          "zh": "人口老化",
-          "sample": "An ageing population places growing pressure on Hong Kong's healthcare and pension systems."
+          "phrase": "touring schedule",
+          "zh": "巡演時間表",
+          "sample": "Artists often adjust their touring schedules at short notice due to unforeseen circumstances."
         }
       ],
       "phrases": [
         {
-          "en": "It is widely reported that",
-          "zh": "據廣泛報導",
-          "sample": "It is widely reported that enrolment numbers have fallen for the fifth straight year."
+          "en": "It is widely argued that",
+          "zh": "普遍認為",
+          "sample": "It is widely argued that large-scale concerts bring significant economic benefits to host cities."
         },
         {
           "en": "Critics contend that",
-          "zh": "評論者認為",
-          "sample": "Critics contend that the government's response has come far too late."
+          "zh": "批評者認為",
+          "sample": "Critics contend that the ticketing industry needs clearer rules on refunds and compensation."
         },
         {
           "en": "Nevertheless,",
-          "zh": "然而，",
-          "sample": "Nevertheless, officials insist that the transition period will be carefully managed."
+          "zh": "然而；不過",
+          "sample": "Nevertheless, most fans expressed hope that the concert would eventually be rescheduled."
         },
         {
           "en": "By the same token,",
-          "zh": "同樣地，",
-          "sample": "By the same token, universities may soon face similar enrolment pressures."
+          "zh": "同樣地",
+          "sample": "By the same token, promoters must also consider the financial burden placed on ordinary fans."
         },
         {
-          "en": "It remains to be seen whether",
-          "zh": "尚待觀察",
-          "sample": "It remains to be seen whether the new policy will reverse the declining trend."
+          "en": "points to",
+          "zh": "顯示；指向",
+          "sample": "The scale of the disruption points to challenges that extend beyond a single artist's tour."
         },
         {
-          "en": "risk + gerund",
-          "zh": "有……的風險",
-          "sample": "Rushed mergers risk damaging the trust between schools and parents."
+          "en": "in light of",
+          "zh": "鑑於",
+          "sample": "In light of the postponement, many fans reconsidered their travel plans altogether."
         },
         {
-          "en": "voice concern over",
-          "zh": "表達對……的關注",
-          "sample": "Parents voiced concern over the long commute to the newly merged campus."
+          "en": "give rise to",
+          "zh": "引起；導致",
+          "sample": "Unclear communication can give rise to unnecessary panic among ticket holders."
         },
         {
-          "en": "sought to",
-          "zh": "試圖",
-          "sample": "The Bureau sought to reassure parents that teaching quality would not suffer."
+          "en": "renewed calls for",
+          "zh": "重新引發對……的呼籲",
+          "sample": "The incident renewed calls for tighter regulation of the entertainment ticketing market."
         },
         {
-          "en": "attributed to",
-          "zh": "歸因於",
-          "sample": "The closures were largely attributed to falling birth rates rather than poor management."
+          "en": "underscores the importance of",
+          "zh": "凸顯……的重要性",
+          "sample": "The episode underscores the importance of transparent communication with consumers."
         },
         {
-          "en": "go beyond",
-          "zh": "超越",
-          "sample": "Solving the problem will require measures that go beyond the education sector."
+          "en": "is not unusual within",
+          "zh": "在……中並不罕見",
+          "sample": "Last-minute schedule changes are not unusual within the global touring industry."
         },
         {
-          "en": "a stopgap rather than a genuine solution",
-          "zh": "權宜之計而非真正解決方案",
-          "sample": "Some argue mergers are a stopgap rather than a genuine solution to demographic decline."
+          "en": "raises questions about",
+          "zh": "引起對……的疑問",
+          "sample": "The cancellation raises questions about the reliability of the city's events calendar."
         },
         {
-          "en": "in the years ahead",
-          "zh": "在未來數年",
-          "sample": "More schools may face closure in the years ahead unless birth rates recover."
+          "en": "intertwined with",
+          "zh": "與……緊密相連",
+          "sample": "Live entertainment has become deeply intertwined with Hong Kong's tourism economy."
         },
         {
-          "en": "give the go-ahead for",
-          "zh": "批准",
-          "sample": "The Bureau gave the go-ahead for the two schools to merge from September."
+          "en": "on a significant scale",
+          "zh": "在相當大的規模上",
+          "sample": "Ticket resale now occurs on a significant scale whenever a popular show is cancelled."
         },
         {
-          "en": "widely attributed to",
-          "zh": "普遍歸因於",
-          "sample": "The decline is widely attributed to Hong Kong's shrinking number of school-age children."
+          "en": "in the wake of",
+          "zh": "在……之後",
+          "sample": "In the wake of the postponement, several hotels reported a wave of booking cancellations."
         },
         {
-          "en": "call for",
-          "zh": "呼籲",
-          "sample": "Commentators have called for a more comprehensive population policy."
+          "en": "far-reaching consequences",
+          "zh": "深遠的影響",
+          "sample": "A single postponement can have far-reaching consequences for the wider events industry."
         }
       ]
     },
     {
-      "source_name": "South China Morning Post",
-      "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365292/squeezed-further-calls-sme-energy-subsidies-power-fuel-surcharges-soar",
-      "published_date": "5 September 2026",
-      "headline": "Households and Small Businesses Squeezed as Power Fuel Surcharges Soar for Fourth Straight Month",
-      "category": "econ",
-      "summary_html": "<p>It is widely reported that HK Electric&rsquo;s fuel clause charge climbed to 60.7 Hong Kong cents per <span class=\"bw\">kilowatt-hour<span class=\"tip\"><span class=\"tip-en\">a unit for measuring the amount of electricity used</span><span class=\"tip-zh\">千瓦時（度電）</span></span></span> this September, marking the fourth <span class=\"bw\">consecutive<span class=\"tip\"><span class=\"tip-en\">following one after another without interruption</span><span class=\"tip-zh\">連續的</span></span></span> monthly increase since May and pushing the average net tariff up by 1.8 per cent from August. Having <span class=\"bw\">surged<span class=\"tip\"><span class=\"tip-en\">increased suddenly and greatly</span><span class=\"tip-zh\">急升</span></span></span> roughly 1.3 times since March, the mounting surcharge has left many households bracing for heftier bills just as summer&rsquo;s air-conditioning demand begins to taper off.</p><p>Critics contend that the repeated hikes are placing a disproportionate <span class=\"bw\">burden<span class=\"tip\"><span class=\"tip-en\">a heavy load of responsibility, work, or cost</span><span class=\"tip-zh\">負擔</span></span></span> on small and medium-sized enterprises already grappling with thin profit margins and subdued consumer spending. Business groups have accordingly renewed their <span class=\"bw\">lobbying<span class=\"tip\"><span class=\"tip-en\">trying to persuade officials to support a particular policy</span><span class=\"tip-zh\">游說</span></span></span> for targeted energy subsidies, arguing that without timely relief, some smaller operators could be pushed to the brink of closure. Nevertheless, the power companies maintain that the increases largely reflect volatile global fuel prices and ongoing geopolitical tensions rather than domestic factors, and both operators have rolled out rebate schemes aimed at <span class=\"bw\">alleviating<span class=\"tip\"><span class=\"tip-en\">making a problem less severe</span><span class=\"tip-zh\">紓緩</span></span></span> the strain on grassroots households.</p><p>By the same token, economists caution that unless the upward trend is <span class=\"bw\">curbed<span class=\"tip\"><span class=\"tip-en\">controlled or restricted</span><span class=\"tip-zh\">遏止</span></span></span>, the knock-on effect on Hong Kong&rsquo;s broader cost of living could further squeeze consumers who are already wary of inflation. It is against this backdrop that calls for a more transparent fuel-clause mechanism, and greater governmental oversight of tariff adjustments, have gained <span class=\"bw\">traction<span class=\"tip\"><span class=\"tip-en\">increasing acceptance or support</span><span class=\"tip-zh\">認受性；支持</span></span></span> among legislators and consumer-rights advocates alike.</p>",
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/340530/Mid-Autumn-Lantern-Carnival-to-light-up-Victoria-Park-in-Sep",
+      "published_date": "4 September 2026",
+      "headline": "Victoria Park to Host Expanded Mid-Autumn Lantern Displays and Fire Dragon Dance",
+      "category": "hk",
+      "summary_html": "<p>Hong Kong will host an <span class=\"bw\">expanded<span class=\"tip\"><span class=\"tip-en\">made larger in size, scope or quantity</span><span class=\"tip-zh\">擴大的</span></span></span> Mid-Autumn Festival celebration this September, with the Leisure and Cultural Services Department's long-running Lantern Carnival at Victoria Park now joined by the Hong Kong Tourism Board's first-ever International Lantern Spectacular, running from 17 to 27 September. Centred on the theme of \"Reunion\", the new display will bring together more than 3,000 lanterns from twenty countries and regions, including intricately crafted Qinhuai lanterns from Nanjing that <span class=\"bw\">are inscribed on<span class=\"tip\"><span class=\"tip-en\">officially recorded or listed as</span><span class=\"tip-zh\">被列入</span></span></span> China's National List of Intangible Cultural Heritage.</p><p>It is widely argued that pairing a homegrown tradition with international lantern craftsmanship reflects a deliberate strategy to <span class=\"bw\">bolster<span class=\"tip\"><span class=\"tip-en\">strengthen or support</span><span class=\"tip-zh\">增強</span></span></span> Hong Kong's appeal as a cultural tourism destination while still honouring local heritage. Nearby, the centuries-old Tai Hang Fire Dragon Dance, a fixture on the same National Intangible Cultural Heritage list, will mark its 147th edition from 24 to 26 September, with a 67-metre dragon illuminated by 12,000 incense sticks weaving through the neighbourhood's streets. Such events <span class=\"bw\">play a pivotal role in<span class=\"tip\"><span class=\"tip-en\">have a crucial and central function in</span><span class=\"tip-zh\">扮演關鍵角色</span></span></span> sustaining intangible cultural practices that might otherwise fade as urban life modernises.</p><p>By the same token, the free admission offered to both the Lantern Carnival and the International Lantern Spectacular signals an effort to <span class=\"bw\">foster inclusivity<span class=\"tip\"><span class=\"tip-en\">promote a sense that events welcome everyone regardless of background</span><span class=\"tip-zh\">培養包容性</span></span></span>, ensuring that residents across income levels can participate in the festivities. Nevertheless, some heritage advocates caution that <span class=\"bw\">commercialisation<span class=\"tip\"><span class=\"tip-en\">the process of managing something mainly for profit</span><span class=\"tip-zh\">商業化</span></span></span> of traditional festivals risks diluting their original spiritual and communal significance. On balance, however, the coordinated programme illustrates how Hong Kong continues to negotiate a balance between preserving authentic tradition and <span class=\"bw\">cultivating<span class=\"tip\"><span class=\"tip-en\">developing or promoting deliberately</span><span class=\"tip-zh\">培養</span></span></span> a distinctive, internationally recognised cultural identity.</p>",
       "vocab": [
         {
-          "phrase": "fuel clause charge",
-          "zh": "燃料條款收費",
-          "sample": "The fuel clause charge is reviewed monthly and appears as a separate line on electricity bills."
+          "phrase": "intangible cultural heritage",
+          "zh": "非物質文化遺產",
+          "sample": "The fire dragon dance is recognised as an important piece of intangible cultural heritage."
         },
         {
-          "phrase": "consecutive monthly increase",
-          "zh": "連續月度加幅",
-          "sample": "This was the third consecutive monthly increase in the surcharge this year."
+          "phrase": "cultural tourism",
+          "zh": "文化旅遊",
+          "sample": "Cultural tourism has become a key pillar of Hong Kong's post-pandemic recovery strategy."
         },
         {
-          "phrase": "surge",
-          "zh": "急升",
-          "sample": "Global oil prices surged after the announcement of new trade restrictions."
+          "phrase": "homegrown tradition",
+          "zh": "本土傳統",
+          "sample": "Visitors are increasingly drawn to homegrown traditions rather than purely commercial attractions."
         },
         {
-          "phrase": "disproportionate burden",
-          "zh": "不成比例的負擔",
-          "sample": "Small businesses often bear a disproportionate burden when utility costs rise sharply."
+          "phrase": "craftsmanship",
+          "zh": "工藝",
+          "sample": "The lanterns showcased remarkable craftsmanship passed down through generations of artisans."
         },
         {
-          "phrase": "lobby for",
-          "zh": "游說",
-          "sample": "Industry associations are lobbying for tax relief to offset rising energy costs."
+          "phrase": "communal significance",
+          "zh": "社群意義",
+          "sample": "Many festivals carry a communal significance that extends well beyond mere entertainment."
         },
         {
-          "phrase": "energy subsidy",
-          "zh": "能源補貼",
-          "sample": "The government introduced a temporary energy subsidy for low-income households."
+          "phrase": "urban modernisation",
+          "zh": "城市現代化",
+          "sample": "Urban modernisation has, in some cases, weakened traditional neighbourhood customs."
         },
         {
-          "phrase": "alleviate the strain",
-          "zh": "紓緩壓力",
-          "sample": "The rebate scheme was designed to alleviate the strain on grassroots families."
+          "phrase": "cultural identity",
+          "zh": "文化身份",
+          "sample": "Festivals such as Mid-Autumn celebrations help reinforce a shared cultural identity among residents."
         },
         {
-          "phrase": "rebate scheme",
-          "zh": "回贈計劃",
-          "sample": "Under the new rebate scheme, eligible households will receive a monthly credit on their bills."
+          "phrase": "heritage preservation",
+          "zh": "文化遺產保育",
+          "sample": "Heritage preservation requires sustained investment as well as community participation."
         },
         {
-          "phrase": "curb",
-          "zh": "遏止",
-          "sample": "Authorities are exploring measures to curb the steady rise in electricity tariffs."
+          "phrase": "free admission",
+          "zh": "免費入場",
+          "sample": "Free admission allowed families from all backgrounds to enjoy the lantern displays."
         },
         {
-          "phrase": "knock-on effect",
-          "zh": "連鎖反應",
-          "sample": "Rising fuel charges can have a knock-on effect on the price of everyday goods."
+          "phrase": "authentic tradition",
+          "zh": "真正的傳統",
+          "sample": "Balancing authentic tradition with modern spectacle remains a delicate task for organisers."
         },
         {
-          "phrase": "cost of living",
-          "zh": "生活成本",
-          "sample": "The cost of living in Hong Kong has climbed steadily over the past year."
-        },
-        {
-          "phrase": "gain traction",
-          "zh": "獲得支持",
-          "sample": "Calls for greater transparency in tariff-setting have gained traction among lawmakers."
+          "phrase": "international recognition",
+          "zh": "國際認可",
+          "sample": "The festival has gained international recognition as a highlight of Hong Kong's autumn calendar."
         }
       ],
       "phrases": [
         {
-          "en": "It is widely reported that",
-          "zh": "據廣泛報導",
-          "sample": "It is widely reported that electricity tariffs will rise again next quarter."
+          "en": "It is widely argued that",
+          "zh": "普遍認為",
+          "sample": "It is widely argued that heritage festivals strengthen a community's sense of belonging."
         },
         {
-          "en": "Critics contend that",
-          "zh": "評論者認為",
-          "sample": "Critics contend that the surcharge formula lacks sufficient public oversight."
-        },
-        {
-          "en": "Nevertheless,",
-          "zh": "然而，",
-          "sample": "Nevertheless, the company insists the increase reflects genuine cost pressures."
+          "en": "play a pivotal role in",
+          "zh": "在……中扮演關鍵角色",
+          "sample": "Local festivals play a pivotal role in passing customs down to younger generations."
         },
         {
           "en": "By the same token,",
-          "zh": "同樣地，",
-          "sample": "By the same token, transport fares may also come under upward pressure."
+          "zh": "同樣地",
+          "sample": "By the same token, free events broaden access for lower-income families."
         },
         {
-          "en": "It is against this backdrop that",
-          "zh": "正是在這背景下",
-          "sample": "It is against this backdrop that lawmakers are demanding a review of the tariff mechanism."
+          "en": "Nevertheless,",
+          "zh": "然而",
+          "sample": "Nevertheless, critics worry that some traditions are being reshaped mainly for tourists."
         },
         {
-          "en": "renew calls for",
-          "zh": "再次呼籲",
-          "sample": "Business groups have renewed calls for a cap on fuel surcharges."
+          "en": "on balance",
+          "zh": "總體而言",
+          "sample": "On balance, the festival succeeded in blending tradition with international appeal."
         },
         {
-          "en": "maintain that",
-          "zh": "堅稱",
-          "sample": "The operator maintains that the rise is unavoidable given global market conditions."
+          "en": "reflects a deliberate strategy to",
+          "zh": "反映出一項刻意的策略",
+          "sample": "The itinerary reflects a deliberate strategy to attract overseas visitors."
         },
         {
-          "en": "place a burden on",
-          "zh": "為……帶來負擔",
-          "sample": "Higher tariffs place a growing burden on households already facing inflation."
+          "en": "sustain a practice",
+          "zh": "維持一種做法",
+          "sample": "Government funding helps sustain practices that would otherwise disappear."
         },
         {
-          "en": "push to the brink of",
-          "zh": "將……推向……邊緣",
-          "sample": "Some small shops say the extra costs are pushing them to the brink of closure."
+          "en": "risks diluting",
+          "zh": "有可能削弱",
+          "sample": "Overcommercialisation risks diluting the original meaning of the celebration."
         },
         {
-          "en": "unless X is curbed",
-          "zh": "除非……受到遏止",
-          "sample": "Unless the rise in surcharges is curbed, consumer spending could weaken further."
+          "en": "negotiate a balance between",
+          "zh": "在……之間取得平衡",
+          "sample": "Organisers must negotiate a balance between innovation and respect for tradition."
+        },
+        {
+          "en": "signals an effort to",
+          "zh": "顯示出一種努力",
+          "sample": "The free admission policy signals an effort to make culture accessible to all."
+        },
+        {
+          "en": "as urban life modernises",
+          "zh": "隨著城市生活現代化",
+          "sample": "As urban life modernises, many neighbourhood customs face growing pressure to adapt."
+        },
+        {
+          "en": "a fixture on",
+          "zh": "……中的常設項目",
+          "sample": "The fire dragon dance has become a fixture on Hong Kong's cultural calendar."
+        },
+        {
+          "en": "extends well beyond",
+          "zh": "遠遠超出",
+          "sample": "The festival's value extends well beyond simple entertainment."
         },
         {
           "en": "gain traction among",
-          "zh": "在……中獲得支持",
-          "sample": "The proposal has gained traction among both legislators and consumer groups."
+          "zh": "在……中得到關注",
+          "sample": "The revived tradition has gained traction among younger residents in recent years."
         },
         {
-          "en": "brace for",
-          "zh": "為……做好準備",
-          "sample": "Households are bracing for another round of tariff increases this winter."
-        },
-        {
-          "en": "reflect rather than",
-          "zh": "反映而非",
-          "sample": "The rise is said to reflect global fuel costs rather than local mismanagement."
-        },
-        {
-          "en": "aimed at + gerund",
-          "zh": "旨在……",
-          "sample": "The rebate scheme is aimed at easing pressure on grassroots families."
-        },
-        {
-          "en": "mounting concern over",
-          "zh": "對……日益增長的關注",
-          "sample": "There is mounting concern over the long-term affordability of electricity in Hong Kong."
+          "en": "with a view to",
+          "zh": "旨在",
+          "sample": "The event was expanded with a view to boosting Hong Kong's international profile."
         }
       ]
     },
     {
-      "source_name": "Dim Sum Daily",
-      "source_url": "https://www.dimsumdaily.hk/three-severe-paediatric-influenza-cases-reported/",
-      "published_date": "5 September 2026",
-      "headline": "Three Severe Child Flu Cases Prompt Vaccination Appeal as Hong Kong's Influenza Season Persists",
-      "category": "health",
-      "summary_html": "<p>It is widely reported that the Centre for Health Protection has recorded three additional severe paediatric influenza cases, all involving previously healthy children who had shown no history of travel during their <span class=\"bw\">incubation period<span class=\"tip\"><span class=\"tip-en\">the time between infection and the appearance of symptoms</span><span class=\"tip-zh\">潛伏期</span></span></span>. Health officials have accordingly <span class=\"bw\">renewed their appeal<span class=\"tip\"><span class=\"tip-en\">repeated a request or urgent call again</span><span class=\"tip-zh\">再次呼籲</span></span></span> for members of the public, particularly children and the elderly, to seek vaccination ahead of the Seasonal Influenza Vaccination Programme, which begins on 17 September.</p><p>Since the end of June, a cumulative total of sixteen severe paediatric cases have been <span class=\"bw\">documented<span class=\"tip\"><span class=\"tip-en\">officially recorded in writing</span><span class=\"tip-zh\">記錄在案</span></span></span>, of which eight patients have since recovered and been discharged, two remain in a stable condition, three are classified as serious, two are critical, and one has tragically died. In one instance, two classmates of an affected six-year-old girl subsequently developed mild symptoms, though neither required hospitalisation; the school concerned has since been advised to <span class=\"bw\">step up<span class=\"tip\"><span class=\"tip-en\">increase or intensify an effort</span><span class=\"tip-zh\">加強</span></span></span> infection-control measures such as more frequent disinfection and closer monitoring of student attendance.</p><p>Nevertheless, with Hong Kong having entered its influenza season as early as late June and activity levels remaining <span class=\"bw\">stubbornly high<span class=\"tip\"><span class=\"tip-en\">persistently high despite efforts to lower it</span><span class=\"tip-zh\">居高不下</span></span></span>, the CHP has cautioned that the coming weeks &mdash; coinciding with the start of the new school term &mdash; could see a further uptick in transmission. By the same token, parents and school staff alike are being urged to remain <span class=\"bw\">vigilant<span class=\"tip\"><span class=\"tip-en\">watchful and alert to possible danger</span><span class=\"tip-zh\">保持警惕</span></span></span> for early symptoms, to observe good personal hygiene, and to seek timely medical attention, lest a single overlooked case <span class=\"bw\">snowball<span class=\"tip\"><span class=\"tip-en\">grow rapidly in size or seriousness</span><span class=\"tip-zh\">迅速惡化；滾雪球式擴大</span></span></span> into a wider school outbreak.</p>",
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/education/article/3366026/hku-partners-tech-giants-offer-ai-labs-expanded-shanghai-campus",
+      "published_date": "2 September 2026",
+      "headline": "HKU Partners with Tech Giants to Open AI Labs at Expanded Shanghai Campus",
+      "category": "tech",
+      "summary_html": "<p>The University of Hong Kong has partnered with several major technology companies to establish on-site artificial intelligence laboratories at its expanded Shanghai campus, which welcomed more than 300 students at the start of the new academic term earlier this month. The initiative is designed to <span class=\"bw\">equip students with<span class=\"tip\"><span class=\"tip-en\">provide someone with the tools or skills needed</span><span class=\"tip-zh\">為學生裝備</span></span></span> hands-on experience in developing and applying AI systems, rather than relying solely on theoretical instruction. It comes amid a broader national push, articulated in the 15th Five-Year Plan, for Hong Kong to serve as a hub for AI research, development and <span class=\"bw\">commercialisation<span class=\"tip\"><span class=\"tip-en\">the process of turning research into marketable products</span><span class=\"tip-zh\">商業化</span></span></span>.</p><p>It is widely argued that partnerships of this kind allow universities to keep pace with an industry that evolves far more rapidly than traditional curricula can accommodate. Critics contend that Hong Kong's tertiary institutions have historically been slow to <span class=\"bw\">bridge the gap between<span class=\"tip\"><span class=\"tip-en\">reduce the difference or distance separating two things</span><span class=\"tip-zh\">彌合……之間的差距</span></span></span> academic theory and workplace-ready skills; the new AI labs are intended to directly address this shortfall. By the same token, Chief Executive John Lee has described AI as a <span class=\"bw\">central plank<span class=\"tip\"><span class=\"tip-en\">a fundamental or defining part of a plan or policy</span><span class=\"tip-zh\">核心支柱</span></span></span> of the city's economic development strategy, and the forthcoming AI Research and Development Institute, due to begin operations later this year, is expected to further <span class=\"bw\">catalyse<span class=\"tip\"><span class=\"tip-en\">cause or accelerate a process</span><span class=\"tip-zh\">促進</span></span></span> commercialisation efforts across sectors.</p><p>Nevertheless, some educators caution that access to cutting-edge facilities must be matched by sufficient teaching capacity and clear pathways into employment, or else students may graduate with impressive technical exposure but limited practical opportunity. On the other hand, supporters maintain that positioning Hong Kong students within a <span class=\"bw\">cross-border<span class=\"tip\"><span class=\"tip-en\">spanning or operating across national or regional borders</span><span class=\"tip-zh\">跨境的</span></span></span> campus network gives them a distinct competitive advantage as regional demand for AI talent continues to intensify. Ultimately, the success of such initiatives will depend on whether laboratory-based learning translates into tangible innovation and employment outcomes for the students who pass through them.</p>",
       "vocab": [
         {
-          "phrase": "incubation period",
-          "zh": "潛伏期",
-          "sample": "Symptoms typically appear after an incubation period of one to four days."
+          "phrase": "artificial intelligence laboratory",
+          "zh": "人工智能實驗室",
+          "sample": "The new artificial intelligence laboratory allows students to build and test their own models."
         },
         {
-          "phrase": "renew an appeal",
-          "zh": "再次呼籲",
-          "sample": "Doctors renewed their appeal for parents to vaccinate young children before winter."
+          "phrase": "hands-on experience",
+          "zh": "實踐經驗",
+          "sample": "Employers increasingly value hands-on experience over purely theoretical qualifications."
         },
         {
-          "phrase": "cumulative total",
-          "zh": "累計總數",
-          "sample": "The cumulative total of reported cases has risen sharply since last month."
+          "phrase": "tertiary institution",
+          "zh": "高等教育機構",
+          "sample": "Several tertiary institutions in Hong Kong are expanding their technology partnerships."
         },
         {
-          "phrase": "document (verb)",
-          "zh": "記錄在案",
-          "sample": "Every suspected case must be carefully documented by hospital staff."
+          "phrase": "workplace-ready skills",
+          "zh": "職場所需技能",
+          "sample": "The programme was designed to equip graduates with workplace-ready skills."
         },
         {
-          "phrase": "step up measures",
-          "zh": "加強措施",
-          "sample": "The school stepped up hygiene measures after two students fell ill."
+          "phrase": "commercialisation",
+          "zh": "商業化",
+          "sample": "Government funding aims to accelerate the commercialisation of local research."
         },
         {
-          "phrase": "infection-control measures",
-          "zh": "感染控制措施",
-          "sample": "Strict infection-control measures helped prevent the outbreak from spreading further."
+          "phrase": "central plank",
+          "zh": "核心支柱",
+          "sample": "Innovation has become a central plank of the government's economic policy."
         },
         {
-          "phrase": "stubbornly high",
-          "zh": "居高不下",
-          "sample": "Flu activity has remained stubbornly high despite the cooler weather."
+          "phrase": "competitive advantage",
+          "zh": "競爭優勢",
+          "sample": "Fluency in AI tools gives graduates a clear competitive advantage in the job market."
         },
         {
-          "phrase": "remain vigilant",
-          "zh": "保持警惕",
-          "sample": "Residents are advised to remain vigilant for symptoms such as fever and coughing."
+          "phrase": "cross-border collaboration",
+          "zh": "跨境合作",
+          "sample": "Cross-border collaboration between universities can accelerate technological progress."
         },
         {
-          "phrase": "personal hygiene",
-          "zh": "個人衛生",
-          "sample": "Good personal hygiene, such as regular handwashing, helps reduce transmission."
+          "phrase": "research and development",
+          "zh": "研究與發展",
+          "sample": "Sustained investment in research and development is essential for long-term growth."
         },
         {
-          "phrase": "seek timely medical attention",
-          "zh": "及時求醫",
-          "sample": "Parents are urged to seek timely medical attention if a child develops a high fever."
+          "phrase": "teaching capacity",
+          "zh": "教學能力",
+          "sample": "Expanding facilities without increasing teaching capacity may limit their overall benefit."
         },
         {
-          "phrase": "school outbreak",
-          "zh": "學校爆發",
-          "sample": "Health officials moved quickly to contain the school outbreak before it spread."
+          "phrase": "regional demand",
+          "zh": "區域需求",
+          "sample": "Regional demand for skilled AI professionals has grown sharply in recent years."
         },
         {
-          "phrase": "previously healthy",
-          "zh": "一向健康",
-          "sample": "The patient was previously healthy with no underlying medical conditions."
+          "phrase": "tangible outcome",
+          "zh": "實質成果",
+          "sample": "Officials hope the initiative will produce tangible outcomes within a few years."
         }
       ],
       "phrases": [
         {
-          "en": "It is widely reported that",
-          "zh": "據廣泛報導",
-          "sample": "It is widely reported that flu cases have risen sharply this month."
+          "en": "It is widely argued that",
+          "zh": "普遍認為",
+          "sample": "It is widely argued that practical training is as important as academic knowledge."
         },
         {
-          "en": "accordingly",
-          "zh": "因此",
-          "sample": "Officials have accordingly stepped up public health messaging."
+          "en": "Critics contend that",
+          "zh": "批評者認為",
+          "sample": "Critics contend that universities have been slow to modernise their curricula."
         },
         {
-          "en": "ahead of",
-          "zh": "在……之前",
-          "sample": "Residents are urged to get vaccinated ahead of the coming flu season."
-        },
-        {
-          "en": "since the end of",
-          "zh": "自……末以來",
-          "sample": "Cases have been rising steadily since the end of June."
-        },
-        {
-          "en": "of which",
-          "zh": "其中",
-          "sample": "Sixteen cases were recorded, of which two remain in critical condition."
-        },
-        {
-          "en": "subsequently",
-          "zh": "隨後",
-          "sample": "The child subsequently developed a high fever and was taken to hospital."
-        },
-        {
-          "en": "has since been advised to",
-          "zh": "其後已獲建議",
-          "sample": "The school has since been advised to increase ventilation in classrooms."
-        },
-        {
-          "en": "Nevertheless,",
-          "zh": "然而，",
-          "sample": "Nevertheless, health officials say the overall situation remains manageable."
-        },
-        {
-          "en": "coinciding with",
-          "zh": "與……同時發生",
-          "sample": "The rise in cases is coinciding with the start of the new school term."
-        },
-        {
-          "en": "could see a further uptick in",
-          "zh": "可能會進一步上升",
-          "sample": "Experts warn the region could see a further uptick in infections this winter."
+          "en": "bridge the gap between",
+          "zh": "彌合……之間的差距",
+          "sample": "The scheme aims to bridge the gap between classroom theory and industry practice."
         },
         {
           "en": "By the same token,",
-          "zh": "同樣地，",
-          "sample": "By the same token, elderly residents should also consider early vaccination."
+          "zh": "同樣地",
+          "sample": "By the same token, the government has pledged further funding for AI research."
         },
         {
-          "en": "are being urged to",
-          "zh": "正被促請",
-          "sample": "Members of the public are being urged to avoid crowded places when unwell."
+          "en": "Nevertheless,",
+          "zh": "然而",
+          "sample": "Nevertheless, some worry that facilities alone cannot guarantee employment outcomes."
         },
         {
-          "en": "lest",
-          "zh": "以免",
-          "sample": "Doctors recommend early treatment lest the illness worsen."
+          "en": "On the other hand,",
+          "zh": "另一方面",
+          "sample": "On the other hand, supporters argue the exposure alone is valuable for students."
         },
         {
-          "en": "remain vigilant for",
-          "zh": "對……保持警惕",
-          "sample": "Teachers are asked to remain vigilant for signs of illness among students."
+          "en": "keep pace with",
+          "zh": "跟上……的步伐",
+          "sample": "Curricula must keep pace with rapid changes in technology."
         },
         {
-          "en": "a wider outbreak",
-          "zh": "更大範圍的爆發",
-          "sample": "Swift action helped prevent a wider outbreak across the district."
+          "en": "amid a broader push for",
+          "zh": "在更廣泛推動……的背景下",
+          "sample": "The lab opened amid a broader push for AI-driven economic growth."
+        },
+        {
+          "en": "translate into",
+          "zh": "轉化為",
+          "sample": "Officials hope that research investment will translate into real job creation."
+        },
+        {
+          "en": "matched by",
+          "zh": "與……相匹配",
+          "sample": "New facilities must be matched by adequate staffing and support."
+        },
+        {
+          "en": "intensify",
+          "zh": "加劇；增強",
+          "sample": "Competition for skilled AI talent is expected to intensify across the region."
+        },
+        {
+          "en": "positioning students within",
+          "zh": "使學生置身於",
+          "sample": "Positioning students within an international network broadens their career prospects."
+        },
+        {
+          "en": "ultimately depend on",
+          "zh": "最終取決於",
+          "sample": "Success will ultimately depend on whether graduates can find suitable jobs."
+        },
+        {
+          "en": "address this shortfall",
+          "zh": "解決這一不足",
+          "sample": "New training programmes were introduced to address this shortfall."
+        },
+        {
+          "en": "distinct advantage",
+          "zh": "明顯的優勢",
+          "sample": "Early exposure to AI tools gives students a distinct advantage over their peers."
         }
       ]
     },
     {
-      "source_name": "South China Morning Post",
-      "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364965/major-tech-firms-help-upskill-hong-kong-workers-under-ai-all-paul-chan",
-      "published_date": "4 September 2026",
-      "headline": "Hong Kong to Roll Out AI Upskilling Drive as Government Concedes Automation Will Displace Some Jobs",
-      "category": "career",
-      "summary_html": "<p>It is widely reported that the government, through Financial Secretary Paul Chan, has unveiled plans for the Employees Retraining Board to <span class=\"bw\">join forces with<span class=\"tip\"><span class=\"tip-en\">to cooperate or work together with someone</span><span class=\"tip-zh\">與……聯手</span></span></span> major technology firms from November onwards, delivering specialised artificial intelligence courses to the local workforce. The initiative forms part of a broader HK$50 million &ldquo;AI for All&rdquo; campaign expected to <span class=\"bw\">directly benefit<span class=\"tip\"><span class=\"tip-en\">to help someone in a way that has an immediate, clear effect</span><span class=\"tip-zh\">直接惠及</span></span></span> some 50,000 residents through more than two hundred training events over the coming two years.</p><p>Critics contend, however, that the scheme&rsquo;s scale falls conspicuously short of the challenge at hand: current retraining efforts are estimated to reach a mere one per cent of the working population, even as demand for AI-related skills has <span class=\"bw\">accelerated markedly<span class=\"tip\"><span class=\"tip-en\">increased in speed or intensity in a noticeable way</span><span class=\"tip-zh\">顯著加快</span></span></span>, with AI job postings rising fifty per cent year-on-year. Compounding matters, full-time vacancies suitable for university graduates have <span class=\"bw\">plunged<span class=\"tip\"><span class=\"tip-en\">fallen suddenly and sharply</span><span class=\"tip-zh\">急跌</span></span></span> by sixty per cent since 2022, leaving many young jobseekers questioning whether their qualifications remain <span class=\"bw\">commensurate with<span class=\"tip\"><span class=\"tip-en\">matching or in proportion to something</span><span class=\"tip-zh\">與……相稱</span></span></span> the demands of an AI-driven labour market.</p><p>Nevertheless, officials maintain that government-led upskilling represents only one <span class=\"bw\">prong<span class=\"tip\"><span class=\"tip-en\">one part of a multi-part plan or strategy</span><span class=\"tip-zh\">（策略的）一環</span></span></span> of a wider strategy, and have called on employers to shoulder greater responsibility for reskilling their own staff. By the same token, career counsellors are increasingly urging secondary and university students alike to treat <span class=\"bw\">AI literacy<span class=\"tip\"><span class=\"tip-en\">the ability to understand and effectively use artificial intelligence tools</span><span class=\"tip-zh\">人工智能素養</span></span></span> not as an optional extra but as a core, <span class=\"bw\">transferable<span class=\"tip\"><span class=\"tip-en\">able to be applied in different contexts or jobs</span><span class=\"tip-zh\">可轉移的；通用的</span></span></span> skill essential to safeguarding their long-term employability.</p>",
+      "source_name": "RTHK",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1868694-20260903.htm",
+      "published_date": "3 September 2026",
+      "headline": "All Signals Cancelled as Tropical Depression Saudel Weakens Over Guangdong",
+      "category": "env",
+      "summary_html": "<p>The Hong Kong Observatory cancelled all tropical cyclone warning signals earlier this month after Tropical Depression Saudel, which had earlier prompted a Standby Signal No. 1, <span class=\"bw\">weakened<span class=\"tip\"><span class=\"tip-en\">became less strong or intense</span><span class=\"tip-zh\">減弱</span></span></span> into an area of low pressure over inland Guangdong. The system had made landfall over Zhangzhou in Fujian before tracking across eastern Guangdong and losing strength, with forecasters concluding that a higher signal, such as the Strong Wind Signal No. 3, was <span class=\"bw\">unlikely to be warranted<span class=\"tip\"><span class=\"tip-en\">not probable to be justified or necessary</span><span class=\"tip-zh\">不太可能有需要</span></span></span> as the storm dissipated. The episode marked the latest in a string of tropical systems, following closely behind Tropical Storm Krovanh, to brush past the city during an unusually active September.</p><p>It is widely argued that the frequency of such systems this year reflects broader climatic shifts affecting the western Pacific, with environmental groups noting that Hong Kong has experienced <span class=\"bw\">an uptick in<span class=\"tip\"><span class=\"tip-en\">an increase or rise in the frequency of something</span><span class=\"tip-zh\">……的增加</span></span></span> tropical cyclone activity and rainstorm warnings compared with historical averages. Critics contend that while the Observatory's forecasting has grown increasingly accurate, public <span class=\"bw\">preparedness<span class=\"tip\"><span class=\"tip-en\">the state of being ready to deal with a situation</span><span class=\"tip-zh\">應變準備</span></span></span> for rapid signal changes remains uneven, particularly among outdoor workers and small business operators who must adjust their schedules at short notice.</p><p>Nevertheless, officials point out that swift signal cancellations, such as the one following Saudel's dissipation, allow economic activity to resume quickly and <span class=\"bw\">minimise disruption<span class=\"tip\"><span class=\"tip-en\">reduce interference or inconvenience to the smallest possible extent</span><span class=\"tip-zh\">減少干擾</span></span></span> to daily life. By the same token, this pattern of frequent but often short-lived storms underscores the importance of maintaining <span class=\"bw\">climate resilience<span class=\"tip\"><span class=\"tip-en\">the capacity to withstand and recover from climate-related shocks</span><span class=\"tip-zh\">氣候韌性</span></span></span> measures, including improved drainage and early-warning systems, so that the city can adapt as extreme weather events become an increasingly routine feature of the autumn season.</p>",
       "vocab": [
         {
-          "phrase": "join forces with",
-          "zh": "與……聯手",
-          "sample": "The university is joining forces with several tech firms to launch a new AI course."
+          "phrase": "tropical cyclone warning signal",
+          "zh": "熱帶氣旋警告信號",
+          "sample": "The Observatory raised the tropical cyclone warning signal as the storm approached."
         },
         {
-          "phrase": "directly benefit",
-          "zh": "直接惠及",
-          "sample": "The new subsidy scheme will directly benefit thousands of small business owners."
+          "phrase": "low pressure area",
+          "zh": "低壓區",
+          "sample": "The storm weakened into a low pressure area before dissipating entirely."
         },
         {
-          "phrase": "accelerate markedly",
-          "zh": "顯著加快",
-          "sample": "Demand for data-related skills has accelerated markedly over the past two years."
+          "phrase": "climatic shift",
+          "zh": "氣候轉變",
+          "sample": "Scientists point to climatic shifts as a possible cause of more frequent storms."
         },
         {
-          "phrase": "plunge",
-          "zh": "急跌",
-          "sample": "Graduate vacancies plunged after several major firms froze hiring."
+          "phrase": "rainstorm warning",
+          "zh": "暴雨警告",
+          "sample": "A rainstorm warning was issued as heavy downpours battered the city overnight."
         },
         {
-          "phrase": "commensurate with",
-          "zh": "與……相稱",
-          "sample": "Many workers feel their salaries are no longer commensurate with their workload."
+          "phrase": "public preparedness",
+          "zh": "公眾應變準備",
+          "sample": "Public preparedness campaigns help residents respond quickly to sudden weather changes."
         },
         {
-          "phrase": "one prong of a strategy",
-          "zh": "策略的一環",
-          "sample": "Retraining is just one prong of the government's wider employment strategy."
+          "phrase": "at short notice",
+          "zh": "在短時間內；臨時",
+          "sample": "Workers were told to leave the site at short notice as conditions worsened."
         },
         {
-          "phrase": "AI literacy",
-          "zh": "人工智能素養",
-          "sample": "Schools are beginning to treat AI literacy as a basic requirement for graduation."
+          "phrase": "signal cancellation",
+          "zh": "信號取消",
+          "sample": "The signal cancellation allowed offices and schools to resume normal operations."
         },
         {
-          "phrase": "transferable skill",
-          "zh": "可轉移技能",
-          "sample": "Critical thinking is often described as a highly transferable skill."
+          "phrase": "economic activity",
+          "zh": "經濟活動",
+          "sample": "Prolonged storm signals can bring economic activity across the city to a standstill."
         },
         {
-          "phrase": "upskilling",
-          "zh": "技能提升",
-          "sample": "The company invested heavily in upskilling its staff ahead of the merger."
+          "phrase": "climate resilience",
+          "zh": "氣候韌性",
+          "sample": "Investment in climate resilience is essential as extreme weather becomes more common."
         },
         {
-          "phrase": "reskill staff",
-          "zh": "為員工提供再培訓",
-          "sample": "Employers are being encouraged to reskill staff rather than lay them off."
+          "phrase": "early-warning system",
+          "zh": "預警系統",
+          "sample": "An effective early-warning system can save lives during sudden storms."
         },
         {
-          "phrase": "safeguard employability",
-          "zh": "保障就業能力",
-          "sample": "Continuous learning helps safeguard employability in a fast-changing job market."
-        },
-        {
-          "phrase": "fall short of",
-          "zh": "未能達到",
-          "sample": "The training programme fell short of what industry groups had hoped for."
+          "phrase": "extreme weather event",
+          "zh": "極端天氣事件",
+          "sample": "Extreme weather events have become noticeably more frequent in recent years."
         }
       ],
       "phrases": [
         {
-          "en": "It is widely reported that",
-          "zh": "據廣泛報導",
-          "sample": "It is widely reported that thousands of jobs could be affected by automation."
+          "en": "It is widely argued that",
+          "zh": "普遍認為",
+          "sample": "It is widely argued that climate change is intensifying tropical storm activity."
         },
         {
-          "en": "unveil plans for",
-          "zh": "公布……計劃",
-          "sample": "The Bureau unveiled plans for a citywide digital-skills programme."
-        },
-        {
-          "en": "forms part of a broader",
-          "zh": "屬於更廣泛……的一部分",
-          "sample": "The scheme forms part of a broader push to modernise the workforce."
-        },
-        {
-          "en": "Critics contend, however, that",
-          "zh": "然而評論者認為",
-          "sample": "Critics contend, however, that the funding on offer remains grossly inadequate."
-        },
-        {
-          "en": "falls conspicuously short of",
-          "zh": "明顯未能達到",
-          "sample": "The response falls conspicuously short of what the crisis demands."
-        },
-        {
-          "en": "even as",
-          "zh": "即使在……的同時",
-          "sample": "Wages have stagnated even as living costs continue to climb."
-        },
-        {
-          "en": "compounding matters,",
-          "zh": "使情況更加複雜的是，",
-          "sample": "Compounding matters, many small firms cannot afford to retrain staff themselves."
-        },
-        {
-          "en": "leaving many to question whether",
-          "zh": "使許多人質疑",
-          "sample": "The delay left many to question whether the reform would ever be implemented."
+          "en": "Critics contend that",
+          "zh": "批評者認為",
+          "sample": "Critics contend that public preparedness has not kept pace with changing weather patterns."
         },
         {
           "en": "Nevertheless,",
-          "zh": "然而，",
-          "sample": "Nevertheless, officials remain confident the programme will expand over time."
-        },
-        {
-          "en": "maintain that",
-          "zh": "堅稱",
-          "sample": "The department maintains that more resources will be allocated next year."
-        },
-        {
-          "en": "represents only one prong of",
-          "zh": "只是……的一環",
-          "sample": "This subsidy represents only one prong of the government's broader plan."
-        },
-        {
-          "en": "call on X to",
-          "zh": "呼籲……",
-          "sample": "Unions have called on employers to offer more paid training leave."
+          "zh": "然而",
+          "sample": "Nevertheless, quick signal cancellations help minimise economic disruption."
         },
         {
           "en": "By the same token,",
-          "zh": "同樣地，",
-          "sample": "By the same token, universities may need to redesign parts of their curricula."
+          "zh": "同樣地",
+          "sample": "By the same token, better drainage systems could reduce flooding risks significantly."
         },
         {
-          "en": "increasingly urging",
-          "zh": "日益敦促",
-          "sample": "Career advisers are increasingly urging graduates to build digital portfolios."
+          "en": "an uptick in",
+          "zh": "……的增加",
+          "sample": "Meteorologists have recorded an uptick in the number of storms this season."
         },
         {
-          "en": "essential to safeguarding",
-          "zh": "對保障……至關重要",
-          "sample": "Lifelong learning is essential to safeguarding one's career prospects."
+          "en": "point out that",
+          "zh": "指出",
+          "sample": "Officials point out that early warnings have already saved many lives."
+        },
+        {
+          "en": "at short notice",
+          "zh": "臨時；短時間內",
+          "sample": "Schools were closed at short notice as the storm signal was raised."
+        },
+        {
+          "en": "underscores the importance of",
+          "zh": "凸顯……的重要性",
+          "sample": "The storm underscores the importance of investing in flood defences."
+        },
+        {
+          "en": "adapt as",
+          "zh": "隨著……而調整",
+          "sample": "The city must adapt as extreme weather becomes a routine seasonal occurrence."
+        },
+        {
+          "en": "resume quickly",
+          "zh": "迅速恢復",
+          "sample": "Normal operations were able to resume quickly once the signal was lowered."
+        },
+        {
+          "en": "in the wake of",
+          "zh": "在……之後",
+          "sample": "In the wake of the storm, engineers inspected the city's drainage infrastructure."
+        },
+        {
+          "en": "minimise disruption to",
+          "zh": "將對……的干擾減至最低",
+          "sample": "Authorities acted swiftly to minimise disruption to public transport."
+        },
+        {
+          "en": "compared with historical averages",
+          "zh": "與歷年平均相比",
+          "sample": "This year's rainfall was well above historical averages for September."
+        },
+        {
+          "en": "grown increasingly accurate",
+          "zh": "變得日益準確",
+          "sample": "Weather forecasting has grown increasingly accurate thanks to improved technology."
+        },
+        {
+          "en": "a routine feature of",
+          "zh": "……的常見特徵",
+          "sample": "Sudden downpours have become a routine feature of the local autumn season."
         }
       ]
     }
@@ -593,23 +583,23 @@
   "trends": [
     {
       "platforms": [
-        "threads",
+        "tiktok",
         "ig"
       ],
-      "headline": "🧵 Threads' 'Pressure-Free Playground' Culture Takes Off in Hong Kong",
-      "summary_html": "<p>It is widely observed that Threads has seen <span class=\"bw\">explosive growth<span class=\"tip\"><span class=\"tip-en\">extremely rapid and sudden increase</span><span class=\"tip-zh\">爆炸性增長</span></span></span> among Hong Kong users this year, driven largely by the city&rsquo;s longstanding appetite for text-first, forum-style discussion. Local meme pages and lifestyle accounts have taken to describing the platform as a &ldquo;pressure-free playground&rdquo;, where users feel free to post <span class=\"bw\">spontaneously<span class=\"tip\"><span class=\"tip-en\">without planning; on impulse</span><span class=\"tip-zh\">自發地；即興地</span></span></span> without the polish demanded by Instagram. Because Threads&rsquo; algorithm is comparatively <span class=\"bw\">decentralised<span class=\"tip\"><span class=\"tip-en\">not concentrated in the hands of a few powerful accounts</span><span class=\"tip-zh\">去中心化的</span></span></span>, even small accounts can spark a citywide &ldquo;Threadquake&rdquo;, giving ordinary users a rare sense that any post might go viral.</p>",
+      "headline": "💃 Disney Princesses Go Viral with TikTok-Style Dance Moves",
+      "summary_html": "<p>Hong Kong Disneyland's costumed performers have sparked online debate after adopting <span class=\"bw\">contemporary<span class=\"tip\"><span class=\"tip-en\">belonging to the present time; modern</span><span class=\"tip-zh\">當代的</span></span></span> pop-style choreography, complete with sharp hand gestures and TikTok-style poses, during its Disney Princess stage segments. Clips of the routine spread rapidly across TikTok and Instagram, drawing both enthusiastic praise from younger fans and pointed criticism from parents who felt the styling <span class=\"bw\">departed from<span class=\"tip\"><span class=\"tip-en\">moved away from; no longer followed</span><span class=\"tip-zh\">偏離了</span></span></span> the princesses' traditionally gentle, storybook image.</p><p>Supporters argue the update helps the park stay <span class=\"bw\">culturally relevant<span class=\"tip\"><span class=\"tip-en\">connected to current trends and interests within a society</span><span class=\"tip-zh\">與文化潮流相關</span></span></span> to a generation raised on short-form video, while critics worry it prioritises viral appeal over the characters' established identity. Regardless of the debate, engagement figures suggest the clips have significantly boosted the park's online visibility.</p>",
       "causes": [
         {
-          "label": "Psychological appeal",
-          "text": "The low-pressure, unpolished format lowers the barrier to posting, giving users a sense of authenticity and relief from curated social media personas."
+          "label": "Social media influence",
+          "text": "Short-form platforms reward eye-catching, easily imitable choreography, encouraging brands to design routines specifically for viral sharing."
         },
         {
-          "label": "Social media influence",
-          "text": "Meme pages and lifestyle influencers actively repost and amplify threads, turning niche posts into citywide talking points almost overnight."
+          "label": "Generational gap",
+          "text": "Younger audiences raised on TikTok trends respond enthusiastically to modern styling, while older visitors expect characters to match childhood memories."
         },
         {
           "label": "Consumer culture",
-          "text": "Brands are increasingly adopting a 'dual-sword' strategy, using Threads to spark conversation before funnelling attention to Instagram Reels or e-commerce pages."
+          "text": "Theme parks increasingly treat performances as marketing content, prioritising shareability alongside traditional in-park entertainment value."
         }
       ]
     }

@@ -2,693 +2,678 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/342962/Policy-Address-2026-HK-advances-innovation-and-technology-AI-computing-and-advanced-construction-infrastructure",
-      "published_date": "17 September 2026",
-      "headline": "Hong Kong Unveils First Five-Year Plan to Almost Double Spending on AI and Innovation",
-      "category": "tech",
-      "summary_html": "<p>It is widely reported that the Hong Kong government has unveiled its first-ever five-year plan for innovation and technology, announced alongside the 2026 Policy Address. Under the blueprint, the city aims to almost double its <span class=\"bw\">domestic expenditure on innovation activities<span class=\"tip\"><span class=\"tip-en\">total spending across the economy on research, development and new technology</span><span class=\"tip-zh\">本地創新活動總開支</span></span></span>, targeting three per cent of GDP after 2030, up from just 1.63 per cent in 2024. Critics contend that ambitious spending pledges mean little without a coherent strategy for translating research into a genuinely <span class=\"bw\">commercially viable industry base<span class=\"tip\"><span class=\"tip-en\">a group of companies capable of profitably selling their products</span><span class=\"tip-zh\">具商業效益的產業基礎</span></span></span>.</p>\n\n<p>Nevertheless, the scale of the plan is difficult to overstate. Officials have proposed three new innovation parks and five research institutions, alongside a dedicated Northern Metropolis hub intended to <span class=\"bw\">cluster<span class=\"tip\"><span class=\"tip-en\">to group similar things closely together in one place</span><span class=\"tip-zh\">群聚</span></span></span> artificial intelligence, robotics and health-technology firms. By the same token, the government has pledged to train 40,000 workers through an eighteen-month AI upskilling campaign, reflecting growing recognition that <span class=\"bw\">technological transformation<span class=\"tip\"><span class=\"tip-en\">a fundamental change brought about by new technology</span><span class=\"tip-zh\">科技轉型</span></span></span> cannot succeed without a correspondingly skilled workforce.</p>\n\n<p>It is worth noting that the plan also addresses the risks accompanying rapid AI adoption. New regulatory proposals will govern deepfakes, employment impacts and broader <span class=\"bw\">AI governance<span class=\"tip\"><span class=\"tip-en\">the systems and rules used to manage and oversee the use of artificial intelligence</span><span class=\"tip-zh\">人工智能治理</span></span></span>, an acknowledgement that <span class=\"bw\">unchecked technological expansion<span class=\"tip\"><span class=\"tip-en\">growth in technology that proceeds without sufficient oversight or limits</span><span class=\"tip-zh\">不受制約的科技擴張</span></span></span> carries genuine social costs. One cannot deny, however, that the HK$10 billion government injection, expected to catalyse a further HK$40 billion in market contributions, signals a serious attempt to close the gap with regional rivals such as Shenzhen and Singapore.</p>\n\n<p>Ultimately, whether this <span class=\"bw\">ambitious blueprint<span class=\"tip\"><span class=\"tip-en\">a bold and far-reaching plan for the future</span><span class=\"tip-zh\">宏大的藍圖</span></span></span> delivers lasting benefits will depend on sustained implementation rather than the scale of the initial announcement alone. For students, the plan is a timely reminder that <span class=\"bw\">future employability<span class=\"tip\"><span class=\"tip-en\">the likelihood of being able to find and keep a job in years to come</span><span class=\"tip-zh\">未來的就業能力</span></span></span> increasingly hinges on adaptability to an AI-driven economy.</p>",
+      "source_name": "South China Morning Post",
+      "source_url": "https://www.scmp.com/news/hong-kong/politics/article/3368093/hong-kong-leader-says-firms-must-strive-survive-despite-government-support",
+      "published_date": "19 September 2026",
+      "headline": "Hong Kong Leader Says Firms Must Strive to Survive Despite Government Support",
+      "category": "econ",
+      "summary_html": "<p>It is widely reported that Chief Executive John Lee Ka-chiu has defended the economic measures set out in his 2026 Policy Address, insisting that <span class=\"bw\">private enterprises<span class=\"tip\"><span class=\"tip-en\">businesses owned and operated by individuals or companies rather than the government</span><span class=\"tip-zh\">私營企業</span></span></span> must still strive to remain competitive even as the government extends fresh support. Speaking on Saturday, Mr Lee stressed that the livelihood section of this year's address was the broadest in scope to date, forming part of the city's inaugural <span class=\"bw\">five-year development plan<span class=\"tip\"><span class=\"tip-en\">a government blueprint setting economic and social goals over a five-year period</span><span class=\"tip-zh\">五年發展規劃</span></span></span>.</p>\n\n<p>Critics contend that repeated rounds of government assistance risk fostering a culture of <span class=\"bw\">dependency on state intervention<span class=\"tip\"><span class=\"tip-en\">a reliance on government action rather than independent effort</span><span class=\"tip-zh\">依賴政府干預</span></span></span>, particularly among small and medium enterprises still recovering from years of <span class=\"bw\">subdued consumer spending<span class=\"tip\"><span class=\"tip-en\">weaker than usual spending by households on goods and services</span><span class=\"tip-zh\">疲弱的消費支出</span></span></span>. Nevertheless, officials argue that targeted relief remains necessary to prevent further business closures while the broader economy adjusts to structural change.</p>\n\n<p>By the same token, Mr Lee emphasised that businesses must first help the economy grow before the government can expand support for livelihoods, a formulation suggesting that welfare spending will remain contingent on continued <span class=\"bw\">economic growth<span class=\"tip\"><span class=\"tip-en\">an increase in the production and consumption of goods and services within an economy</span><span class=\"tip-zh\">經濟增長</span></span></span> rather than expanding indefinitely. It is worth noting that this framing places considerable pressure on firms to demonstrate <span class=\"bw\">market-driven resilience<span class=\"tip\"><span class=\"tip-en\">the ability of businesses to adapt and recover through their own commercial strategies rather than external aid</span><span class=\"tip-zh\">市場主導的韌性</span></span></span> rather than treating government support as a permanent safety net.</p>\n\n<p>One cannot deny that the tension between offering meaningful assistance and avoiding an over-reliance on public funds will remain a defining feature of Hong Kong's economic policy in the years ahead. For students, the debate offers a useful illustration of how governments must constantly rebalance short-term relief against long-term <span class=\"bw\">fiscal sustainability<span class=\"tip\"><span class=\"tip-en\">the capacity of a government to maintain its spending levels without risking future financial instability</span><span class=\"tip-zh\">財政可持續性</span></span></span>.</p>",
       "vocab": [
         {
-          "phrase": "domestic expenditure on innovation",
-          "zh": "本地創新開支",
-          "sample": "Domestic expenditure on innovation is expected to nearly double under the new five-year plan."
+          "phrase": "private enterprises",
+          "zh": "私營企業",
+          "sample": "Private enterprises are being urged to compete on their own merits rather than rely on subsidies."
         },
         {
-          "phrase": "commercially viable",
-          "zh": "具商業效益的",
-          "sample": "Few of the research projects have so far proven commercially viable at scale."
+          "phrase": "five-year development plan",
+          "zh": "五年發展規劃",
+          "sample": "The city's first five-year development plan sets out clear targets for economic growth."
         },
         {
-          "phrase": "regulatory oversight",
-          "zh": "監管",
-          "sample": "Effective regulatory oversight is essential if AI is to be adopted safely across public services."
+          "phrase": "dependency on state intervention",
+          "zh": "依賴政府干預",
+          "sample": "Prolonged relief schemes may create a dependency on state intervention among struggling firms."
         },
         {
-          "phrase": "upskilling campaign",
-          "zh": "技能提升計劃",
-          "sample": "The government's upskilling campaign aims to prepare 40,000 workers for an AI-driven economy."
+          "phrase": "market-driven resilience",
+          "zh": "市場主導的韌性",
+          "sample": "Officials hope businesses will develop market-driven resilience rather than await further bailouts."
         },
         {
-          "phrase": "innovation hub",
-          "zh": "創新樞紐",
-          "sample": "The Northern Metropolis is being developed as a new innovation hub for robotics and AI."
+          "phrase": "fiscal sustainability",
+          "zh": "財政可持續性",
+          "sample": "Maintaining fiscal sustainability requires balancing generous welfare with prudent budgeting."
         },
         {
-          "phrase": "catalyse investment",
-          "zh": "帶動投資",
-          "sample": "Public funding is intended to catalyse further private investment in the technology sector."
+          "phrase": "economic growth",
+          "zh": "經濟增長",
+          "sample": "Sustained economic growth is presented as a precondition for expanding social spending."
         },
         {
-          "phrase": "close the gap with",
-          "zh": "縮小與……的差距",
-          "sample": "Officials hope the plan will help Hong Kong close the gap with regional rivals such as Singapore."
+          "phrase": "targeted relief",
+          "zh": "針對性紓困",
+          "sample": "The government has favoured targeted relief over broad, indiscriminate handouts."
         },
         {
-          "phrase": "deepfake risks",
-          "zh": "深度偽造風險",
-          "sample": "New rules have been proposed to address deepfake risks arising from generative AI tools."
+          "phrase": "structural change",
+          "zh": "結構性轉變",
+          "sample": "Many small businesses are struggling to adjust to structural change in the retail sector."
         },
         {
-          "phrase": "sustained implementation",
-          "zh": "持續落實",
-          "sample": "Analysts warn that sustained implementation matters far more than the size of the initial pledge."
+          "phrase": "subdued consumer spending",
+          "zh": "疲弱的消費支出",
+          "sample": "Subdued consumer spending has weighed heavily on the retail and catering industries."
         },
         {
-          "phrase": "future employability",
-          "zh": "未來就業能力",
-          "sample": "Digital literacy is now seen as central to students' future employability."
+          "phrase": "safety net",
+          "zh": "安全網",
+          "sample": "Critics warn that firms should not treat government aid as a permanent safety net."
         },
         {
-          "phrase": "technological transformation",
-          "zh": "科技轉型",
-          "sample": "The Policy Address frames technological transformation as key to the city's long-term competitiveness."
+          "phrase": "business closures",
+          "zh": "結業潮",
+          "sample": "A wave of business closures prompted calls for further government support."
         },
         {
-          "phrase": "AI governance",
-          "zh": "人工智能治理",
-          "sample": "Robust AI governance is needed to balance innovation with public safety."
+          "phrase": "livelihood measures",
+          "zh": "民生措施",
+          "sample": "This year's livelihood measures cover housing, elderly care and family welfare."
         }
       ],
       "phrases": [
         {
-          "en": "It is widely argued that",
-          "zh": "普遍認為",
-          "sample": "It is widely argued that Hong Kong's future competitiveness depends on innovation."
+          "en": "It is widely reported that",
+          "zh": "據廣泛報導",
+          "sample": "It is widely reported that the government will extend further support to small businesses."
         },
         {
           "en": "Critics contend that",
           "zh": "批評者認為",
-          "sample": "Critics contend that spending targets alone cannot guarantee commercial success."
+          "sample": "Critics contend that repeated subsidies discourage genuine business innovation."
         },
         {
           "en": "Nevertheless",
           "zh": "然而",
-          "sample": "Nevertheless, the scale of investment marks a significant policy shift."
+          "sample": "Nevertheless, officials maintain that targeted relief remains necessary."
         },
         {
           "en": "By the same token",
           "zh": "同樣地",
-          "sample": "By the same token, workforce training must accompany infrastructure spending."
+          "sample": "By the same token, welfare spending is said to depend on continued economic growth."
         },
         {
           "en": "It is worth noting that",
           "zh": "值得注意的是",
-          "sample": "It is worth noting that new AI rules will also cover employment impacts."
+          "sample": "It is worth noting that the livelihood section was the broadest in this year's address."
         },
         {
           "en": "One cannot deny that",
           "zh": "不可否認",
-          "sample": "One cannot deny that the funding scale reflects genuine policy ambition."
+          "sample": "One cannot deny that fiscal pressures will shape policy choices for years to come."
         },
         {
-          "en": "play a pivotal role in",
-          "zh": "在……中擔當關鍵角色",
-          "sample": "Government funding plays a pivotal role in shaping Hong Kong's innovation ecosystem."
-        },
-        {
-          "en": "in the absence of",
-          "zh": "在缺乏……的情況下",
-          "sample": "In the absence of skilled talent, technology investment yields limited returns."
-        },
-        {
-          "en": "a coherent strategy",
-          "zh": "一套完整的策略",
-          "sample": "Officials must design a coherent strategy linking research to industry."
-        },
-        {
-          "en": "translate into tangible benefits",
-          "zh": "轉化為實質效益",
-          "sample": "Policymakers hope the plan will translate into tangible benefits for young jobseekers."
-        },
-        {
-          "en": "hinge on",
+          "en": "contingent on",
           "zh": "取決於",
-          "sample": "Long-term success will hinge on consistent execution over several years."
+          "sample": "Future welfare spending appears contingent on the pace of economic recovery."
         },
         {
-          "en": "a timely reminder",
-          "zh": "及時的提醒",
-          "sample": "The announcement serves as a timely reminder of how quickly industries are changing."
+          "en": "strive to remain competitive",
+          "zh": "力求保持競爭力",
+          "sample": "Local firms must strive to remain competitive despite challenging market conditions."
         },
         {
-          "en": "acknowledge the risks",
-          "zh": "承認風險",
-          "sample": "The government has had to acknowledge the risks that accompany rapid AI adoption."
+          "en": "foster a culture of",
+          "zh": "助長……的風氣",
+          "sample": "Some economists warn that constant bailouts foster a culture of dependency."
         },
         {
-          "en": "close the gap",
-          "zh": "縮小差距",
-          "sample": "The plan is designed to help the city close the gap with regional competitors."
+          "en": "place pressure on",
+          "zh": "對……施加壓力",
+          "sample": "Slowing growth has placed pressure on the government to expand relief measures."
         },
         {
-          "en": "a serious attempt to",
-          "zh": "認真嘗試",
-          "sample": "The funding package represents a serious attempt to reshape the local economy."
+          "en": "rebalance short-term relief against long-term goals",
+          "zh": "在短期紓困與長期目標之間重新取得平衡",
+          "sample": "Policymakers must rebalance short-term relief against long-term fiscal goals."
+        },
+        {
+          "en": "a defining feature of",
+          "zh": "……的顯著特徵",
+          "sample": "This tension has become a defining feature of the city's economic policy."
+        },
+        {
+          "en": "a permanent safety net",
+          "zh": "永久的安全網",
+          "sample": "Businesses should not regard government aid as a permanent safety net."
+        },
+        {
+          "en": "adjust to structural change",
+          "zh": "適應結構性轉變",
+          "sample": "Traditional retailers are being forced to adjust to structural change in shopping habits."
+        },
+        {
+          "en": "remain necessary to prevent",
+          "zh": "仍然是防止……所必需的",
+          "sample": "Targeted relief remains necessary to prevent a fresh wave of closures."
         }
       ],
       "writing_angles": [
         {
           "label": "Economic dimension",
           "zh_label": "經濟層面",
-          "text": "Large-scale public investment is intended to <span class=\"bw\">stimulate<span class=\"tip\"><span class=\"tip-en\">to encourage something to grow or develop</span><span class=\"tip-zh\">刺激</span></span></span> private-sector participation, yet the plan's success ultimately depends on whether <span class=\"bw\">public funding<span class=\"tip\"><span class=\"tip-en\">money provided by the government for a particular purpose</span><span class=\"tip-zh\">公共資金</span></span></span> can be converted into self-sustaining commercial activity rather than one-off subsidies."
+          "text": "Balancing <span class=\"bw\">fiscal prudence<span class=\"tip\"><span class=\"tip-en\">careful and responsible management of government spending</span><span class=\"tip-zh\">財政審慎</span></span></span> against the immediate needs of struggling firms forces policymakers to weigh short-term relief against the risk of <span class=\"bw\">unsustainable public spending<span class=\"tip\"><span class=\"tip-en\">government expenditure that cannot be maintained over the long term without financial strain</span><span class=\"tip-zh\">不可持續的公共開支</span></span></span>."
         },
         {
           "label": "Social dimension",
           "zh_label": "社會層面",
-          "text": "Mass reskilling programmes could narrow the <span class=\"bw\">digital divide<span class=\"tip\"><span class=\"tip-en\">the gap between people with good access to technology skills and those without</span><span class=\"tip-zh\">數碼鴻溝</span></span></span> between generations, but only if training opportunities reach workers in traditional industries rather than being confined to those already in tech-related roles."
+          "text": "Framing livelihood support as conditional on economic performance may deepen anxiety among lower-income households already grappling with <span class=\"bw\">economic insecurity<span class=\"tip\"><span class=\"tip-en\">a persistent lack of confidence in financial stability</span><span class=\"tip-zh\">經濟不穩定感</span></span></span>."
         },
         {
           "label": "Political dimension",
           "zh_label": "政治層面",
-          "text": "The plan reflects a broader shift towards <span class=\"bw\">state-led development<span class=\"tip\"><span class=\"tip-en\">economic growth directed primarily through government planning and funding</span><span class=\"tip-zh\">由政府主導的發展</span></span></span>, raising questions about how far market forces versus top-down policy should determine which technologies ultimately succeed."
+          "text": "The insistence on self-reliance reflects a broader effort to manage public expectations, positioning continued <span class=\"bw\">political legitimacy<span class=\"tip\"><span class=\"tip-en\">the degree to which a government authority is accepted as rightful by the public</span><span class=\"tip-zh\">政治認受性</span></span></span> on visible economic results rather than expanded welfare alone."
         },
         {
           "label": "Ethical dimension",
           "zh_label": "道德層面",
-          "text": "Expanding AI use across healthcare and social welfare demands careful attention to <span class=\"bw\">algorithmic accountability<span class=\"tip\"><span class=\"tip-en\">the principle that those who design and deploy automated systems must answer for their outcomes</span><span class=\"tip-zh\">算法問責</span></span></span>, particularly where automated decisions affect vulnerable groups."
-        },
-        {
-          "label": "Technological dimension",
-          "zh_label": "科技層面",
-          "text": "Concentrating AI, robotics and biotechnology within a single <span class=\"bw\">innovation cluster<span class=\"tip\"><span class=\"tip-en\">a geographic concentration of interconnected companies and research institutions</span><span class=\"tip-zh\">創新集群</span></span></span> may accelerate cross-disciplinary breakthroughs, though it also risks duplicating efforts already under way in neighbouring mainland cities."
+          "text": "Critics argue there is an <span class=\"bw\">ethical obligation<span class=\"tip\"><span class=\"tip-en\">a moral duty to act in a particular way towards others</span><span class=\"tip-zh\">道德責任</span></span></span> to protect vulnerable businesses regardless of broader fiscal targets, especially where closures directly threaten the livelihoods of workers."
         }
       ]
     },
     {
       "source_name": "South China Morning Post",
-      "source_url": "https://www.scmp.com/news/hong-kong/education/article/3367765/hong-kong-offer-attractive-merger-deals-schools-beyond-those-struggling",
-      "published_date": "16 September 2026",
-      "headline": "Hong Kong to Offer 'Attractive' Merger Deals for Schools Beyond Those Already Struggling",
-      "category": "school",
-      "summary_html": "<p>It is widely acknowledged that Hong Kong's shrinking student population has placed considerable strain on the city's smaller secondary and primary schools. In response, the Education Bureau has announced that it will offer more <span class=\"bw\">attractive merger incentives<span class=\"tip\"><span class=\"tip-en\">appealing benefits designed to encourage two organisations to combine into one</span><span class=\"tip-zh\">具吸引力的合併誘因</span></span></span> to schools facing enrolment difficulties, extending support beyond institutions already on the brink of closure under the \"Confluence and Elevation\" scheme.</p>\n\n<p>Critics contend that the policy, while pragmatic, risks eroding the <span class=\"bw\">distinctive identity<span class=\"tip\"><span class=\"tip-en\">the unique character and traditions that set an institution apart from others</span><span class=\"tip-zh\">獨特身份</span></span></span> of long-established schools, some of which have served their communities for decades. Parents and alumni groups have expressed concern that mergers, however well-intentioned, may disrupt continuity for students partway through their secondary education. Nevertheless, officials argue that <span class=\"bw\">consolidation<span class=\"tip\"><span class=\"tip-en\">the process of combining several smaller units into a stronger, more efficient whole</span><span class=\"tip-zh\">整合</span></span></span> is preferable to the alternative of forced closures, which would leave students with even less certainty about their futures.</p>\n\n<p>By the same token, the government has paired the merger incentives with broader measures aimed at reversing the city's declining birth rate, including new housing support for young families. It is worth noting that this dual approach reflects an understanding that the <span class=\"bw\">demographic pressures<span class=\"tip\"><span class=\"tip-en\">difficulties arising from changes in a population's size or age structure</span><span class=\"tip-zh\">人口壓力</span></span></span> facing schools cannot be solved through education policy alone.</p>\n\n<p>One cannot deny that the coming years will test whether these <span class=\"bw\">policy interventions<span class=\"tip\"><span class=\"tip-en\">deliberate government actions intended to influence a particular outcome</span><span class=\"tip-zh\">政策介入</span></span></span> can genuinely stabilise the sector, or whether Hong Kong's schools will continue to face mounting <span class=\"bw\">enrolment shortfalls<span class=\"tip\"><span class=\"tip-en\">a situation in which the number of students falls below what is needed or expected</span><span class=\"tip-zh\">收生不足</span></span></span> regardless of the incentives on offer.</p>",
+      "source_url": "https://www.scmp.com/news/hong-kong/society/article/3368063/foreign-carers-elderly-get-10-20-more-pay-current-helpers",
+      "published_date": "18 September 2026",
+      "headline": "Foreign Carers for Elderly to Get 10 to 20 Percent More Pay Than Current Helpers",
+      "category": "social",
+      "summary_html": "<p>It is widely reported that foreign carers recruited under a new government pilot scheme for elderly care will be paid ten to twenty per cent more than existing domestic helpers, according to Secretary for Labour and Welfare Chris Sun. The initiative is intended to address Hong Kong's growing <span class=\"bw\">ageing population<span class=\"tip\"><span class=\"tip-en\">a demographic trend in which the proportion of elderly people within a society steadily increases</span><span class=\"tip-zh\">人口老化</span></span></span> by attracting carers with specialised training rather than relying solely on the existing domestic helper scheme.</p>\n\n<p>Critics contend that the pay differential could create friction within an already strained care sector, where existing helpers frequently perform similar duties without comparable recognition or <span class=\"bw\">wage parity<span class=\"tip\"><span class=\"tip-en\">the state of receiving equal pay for work of equal value</span><span class=\"tip-zh\">薪酬平等</span></span></span>. Nevertheless, officials argue that requiring applicants to hold at least three years of relevant experience justifies the higher pay, since it reflects genuine <span class=\"bw\">specialised expertise<span class=\"tip\"><span class=\"tip-en\">advanced skills and knowledge developed through focused training in a particular field</span><span class=\"tip-zh\">專業技能</span></span></span> rather than a general willingness to perform household duties.</p>\n\n<p>By the same token, the scheme forms part of a broader package announced in this year's Policy Address to reinforce support for family carers, including an expanded Living Allowance Scheme for low-income households caring for elderly relatives. It is worth noting that such measures reflect growing recognition that <span class=\"bw\">informal caregiving<span class=\"tip\"><span class=\"tip-en\">unpaid care provided by family members rather than professional institutions</span><span class=\"tip-zh\">非正式照顧</span></span></span> places a considerable and often invisible burden on working families.</p>\n\n<p>One cannot deny that Hong Kong's care economy faces mounting strain as its population ages and its workforce shrinks. Whether higher wages alone can attract sufficient carers, or whether deeper structural reform of the sector is required, remains an important question for policymakers and families alike.</p>",
       "vocab": [
         {
-          "phrase": "declining enrolment",
-          "zh": "收生下降",
-          "sample": "Declining enrolment has forced several secondary schools to consider merging."
+          "phrase": "ageing population",
+          "zh": "人口老化",
+          "sample": "Hong Kong's ageing population has placed growing pressure on elderly care services."
         },
         {
-          "phrase": "merger incentives",
-          "zh": "合併誘因",
-          "sample": "The government has introduced fresh merger incentives to help struggling schools survive."
+          "phrase": "wage parity",
+          "zh": "薪酬平等",
+          "sample": "Labour groups have long called for greater wage parity among domestic care workers."
         },
         {
-          "phrase": "distinctive identity",
-          "zh": "獨特身份",
-          "sample": "Alumni worry that a merger could erode the school's distinctive identity."
+          "phrase": "specialised expertise",
+          "zh": "專業技能",
+          "sample": "The new scheme rewards carers who bring specialised expertise in elderly support."
         },
         {
-          "phrase": "consolidation",
-          "zh": "整合",
-          "sample": "Consolidation of smaller schools is seen as a pragmatic response to falling birth rates."
+          "phrase": "informal caregiving",
+          "zh": "非正式照顧",
+          "sample": "Informal caregiving by family members often goes financially unrecognised."
         },
         {
-          "phrase": "demographic pressures",
-          "zh": "人口壓力",
-          "sample": "Demographic pressures are reshaping education policy across the city."
+          "phrase": "care economy",
+          "zh": "照顧經濟",
+          "sample": "Investment in the care economy is seen as essential to supporting an ageing society."
         },
         {
-          "phrase": "forced closure",
-          "zh": "強制停辦",
-          "sample": "Officials hope incentivised mergers will help schools avoid forced closure."
+          "phrase": "pilot scheme",
+          "zh": "先導計劃",
+          "sample": "The pilot scheme will be evaluated before any citywide rollout is considered."
         },
         {
-          "phrase": "continuity of education",
-          "zh": "教育的連續性",
-          "sample": "Maintaining continuity of education for affected students remains a key concern."
+          "phrase": "labour shortage",
+          "zh": "人手短缺",
+          "sample": "A persistent labour shortage in elderly care has driven the search for new recruitment models."
         },
         {
-          "phrase": "policy intervention",
-          "zh": "政策介入",
-          "sample": "Some educators doubt whether policy intervention alone can reverse enrolment trends."
+          "phrase": "living allowance",
+          "zh": "生活津貼",
+          "sample": "The expanded living allowance aims to ease pressure on low-income carer households."
         },
         {
-          "phrase": "declining birth rate",
-          "zh": "出生率下降",
-          "sample": "The declining birth rate has had a direct impact on school enrolment numbers."
+          "phrase": "caregiver burden",
+          "zh": "照顧者負擔",
+          "sample": "Studies consistently show that caregiver burden affects both mental and physical health."
         },
         {
-          "phrase": "enrolment shortfall",
-          "zh": "收生不足",
-          "sample": "Many schools are struggling with a persistent enrolment shortfall."
+          "phrase": "domestic helper scheme",
+          "zh": "外傭計劃",
+          "sample": "The domestic helper scheme has operated in Hong Kong for several decades."
         },
         {
-          "phrase": "community ties",
-          "zh": "社區聯繫",
-          "sample": "Long-established schools often maintain strong community ties with local families."
+          "phrase": "structural reform",
+          "zh": "結構性改革",
+          "sample": "Some experts argue the sector needs structural reform rather than incremental pay rises."
         },
         {
-          "phrase": "pragmatic response",
-          "zh": "務實的應對方式",
-          "sample": "Supporters view the merger scheme as a pragmatic response to a difficult situation."
+          "phrase": "recruitment model",
+          "zh": "招聘模式",
+          "sample": "Officials are testing a new recruitment model to attract experienced carers from abroad."
         }
       ],
       "phrases": [
         {
-          "en": "It is widely acknowledged that",
-          "zh": "普遍承認",
-          "sample": "It is widely acknowledged that smaller schools face growing financial pressure."
+          "en": "It is widely reported that",
+          "zh": "據廣泛報導",
+          "sample": "It is widely reported that foreign carers will receive higher pay under the new scheme."
         },
         {
           "en": "Critics contend that",
           "zh": "批評者認為",
-          "sample": "Critics contend that mergers may harm long-standing school traditions."
+          "sample": "Critics contend that the pay gap could cause resentment among existing helpers."
         },
         {
           "en": "Nevertheless",
           "zh": "然而",
-          "sample": "Nevertheless, officials maintain that consolidation is the more sustainable option."
+          "sample": "Nevertheless, officials insist the higher pay reflects genuine specialised skill."
         },
         {
           "en": "By the same token",
           "zh": "同樣地",
-          "sample": "By the same token, housing policy has been used to encourage childbirth."
+          "sample": "By the same token, the government has expanded support for family carers."
         },
         {
           "en": "It is worth noting that",
           "zh": "值得注意的是",
-          "sample": "It is worth noting that education policy alone cannot fix demographic decline."
+          "sample": "It is worth noting that informal caregiving remains largely unpaid and unrecognised."
         },
         {
           "en": "One cannot deny that",
           "zh": "不可否認",
-          "sample": "One cannot deny that the sector faces a genuinely uncertain future."
+          "sample": "One cannot deny that Hong Kong's care sector faces growing strain."
         },
         {
-          "en": "on the brink of",
-          "zh": "瀕臨",
-          "sample": "Several schools were on the brink of closure before the new scheme was announced."
+          "en": "address a growing need",
+          "zh": "應對日益增長的需求",
+          "sample": "The scheme was designed to address a growing need for trained elderly carers."
         },
         {
-          "en": "erode continuity",
-          "zh": "削弱連續性",
-          "sample": "Sudden mergers could erode continuity for students mid-way through their studies."
+          "en": "reflect genuine expertise",
+          "zh": "反映真正的專業技能",
+          "sample": "Higher wages are meant to reflect genuine expertise rather than routine labour."
         },
         {
-          "en": "reverse a trend",
-          "zh": "扭轉趨勢",
-          "sample": "The government hopes new incentives will help reverse a decade-long trend."
+          "en": "create friction within",
+          "zh": "在……內造成摩擦",
+          "sample": "Unequal pay scales could create friction within the domestic helper community."
         },
         {
-          "en": "in response to",
-          "zh": "為回應",
-          "sample": "The policy was introduced in response to mounting enrolment pressures."
+          "en": "reinforce support for",
+          "zh": "加強對……的支援",
+          "sample": "The measures aim to reinforce support for families caring for elderly relatives."
         },
         {
-          "en": "a dual approach",
-          "zh": "雙管齊下的方法",
-          "sample": "Officials have adopted a dual approach combining education and housing policy."
+          "en": "place a considerable burden on",
+          "zh": "對……造成相當大的負擔",
+          "sample": "Elderly care often places a considerable burden on working-age family members."
         },
         {
-          "en": "stabilise the sector",
-          "zh": "穩定該行業",
-          "sample": "It remains unclear whether the incentives will genuinely stabilise the sector."
+          "en": "an invisible burden",
+          "zh": "隱形的負擔",
+          "sample": "Unpaid caregiving is frequently described as an invisible burden on households."
         },
         {
-          "en": "regardless of",
-          "zh": "無論",
-          "sample": "Some schools may still struggle regardless of the incentives on offer."
+          "en": "mounting strain",
+          "zh": "日益加劇的壓力",
+          "sample": "The care sector is under mounting strain as the population continues to age."
         },
         {
-          "en": "a pragmatic response",
-          "zh": "務實的回應",
-          "sample": "The merger scheme is widely seen as a pragmatic response to falling birth rates."
+          "en": "remains an important question",
+          "zh": "仍是一個重要問題",
+          "sample": "Whether wage increases alone can solve the shortage remains an important question."
         },
         {
-          "en": "well-intentioned",
-          "zh": "出於好意的",
-          "sample": "Even well-intentioned mergers can cause disruption for students and staff."
+          "en": "a shrinking workforce",
+          "zh": "萎縮的勞動人口",
+          "sample": "A shrinking workforce has made recruiting carers increasingly difficult."
         }
       ],
       "writing_angles": [
         {
           "label": "Social dimension",
           "zh_label": "社會層面",
-          "text": "School mergers can disrupt <span class=\"bw\">peer networks<span class=\"tip\"><span class=\"tip-en\">the web of friendships and social connections formed among classmates</span><span class=\"tip-zh\">同儕網絡</span></span></span> built over years, leaving students to rebuild relationships at a pivotal stage in their education."
+          "text": "The reform highlights how <span class=\"bw\">demographic ageing<span class=\"tip\"><span class=\"tip-en\">the gradual increase in the average age of a population</span><span class=\"tip-zh\">人口老化現象</span></span></span> is reshaping labour demand, requiring society to reconsider how care work is valued and rewarded."
         },
         {
           "label": "Economic dimension",
           "zh_label": "經濟層面",
-          "text": "From a budgetary standpoint, consolidating under-enrolled schools allows the government to allocate <span class=\"bw\">limited public resources<span class=\"tip\"><span class=\"tip-en\">a finite amount of money and manpower available for public services</span><span class=\"tip-zh\">有限的公共資源</span></span></span> more efficiently, though savings must be weighed against the disruption caused."
-        },
-        {
-          "label": "Psychological dimension",
-          "zh_label": "心理層面",
-          "text": "Uncertainty over a school's future can generate considerable <span class=\"bw\">anxiety among students and staff<span class=\"tip\"><span class=\"tip-en\">a feeling of unease or worry shared by both learners and teachers</span><span class=\"tip-zh\">師生間的焦慮</span></span></span>, particularly for those approaching public examinations."
-        },
-        {
-          "label": "Political dimension",
-          "zh_label": "政治層面",
-          "text": "The scheme illustrates how education policy has become entangled with broader <span class=\"bw\">population policy<span class=\"tip\"><span class=\"tip-en\">government strategy aimed at influencing the size or structure of a population</span><span class=\"tip-zh\">人口政策</span></span></span>, as officials attempt to address birth rates and school viability simultaneously."
-        },
-        {
-          "label": "Cultural dimension",
-          "zh_label": "文化層面",
-          "text": "For schools with decades of history, a merger risks the loss of <span class=\"bw\">institutional heritage<span class=\"tip\"><span class=\"tip-en\">the traditions, values and history built up by an organisation over time</span><span class=\"tip-zh\">機構承傳</span></span></span> that alumni and local communities have long taken pride in."
-        }
-      ]
-    },
-    {
-      "source_name": "Hong Kong Free Press",
-      "source_url": "https://hongkongfp.com/2026/09/17/policy-address-2026-greenpeace-criticises-lack-of-wetland-protection-in-northern-metropolis-development-plan/",
-      "published_date": "17 September 2026",
-      "headline": "Greenpeace Criticises Lack of Wetland Protection in Northern Metropolis Development Plan",
-      "category": "env",
-      "summary_html": "<p>It is widely argued that Hong Kong's environmental commitments have failed to keep pace with the scale of its development ambitions. Following this year's Policy Address, Greenpeace criticised the government's Northern Metropolis blueprint for omitting <span class=\"bw\">binding wetland protection targets<span class=\"tip\"><span class=\"tip-en\">legally enforceable goals for safeguarding wetland habitats</span><span class=\"tip-zh\">具約束力的濕地保護目標</span></span></span>, arguing that the plan falls short of standards already adopted across the border.</p>\n\n<p>Critics contend that the omission is particularly striking given that Shenzhen, Hong Kong's immediate neighbour, has committed to protecting fifty per cent of its wetlands by 2030 under its latest five-year plan. By the same token, environmental groups warn that the wetlands bordering the Northern Metropolis provide crucial <span class=\"bw\">ecological services<span class=\"tip\"><span class=\"tip-en\">the natural benefits that ecosystems provide to humans, such as clean water or flood control</span><span class=\"tip-zh\">生態服務</span></span></span>, including habitats for migratory birds and natural flood mitigation, both of which are placed at risk by large-scale development.</p>\n\n<p>Nevertheless, government officials maintain that the development blueprint incorporates adequate <span class=\"bw\">environmental safeguards<span class=\"tip\"><span class=\"tip-en\">measures put in place to prevent or limit damage to the natural environment</span><span class=\"tip-zh\">環境保障措施</span></span></span>, and that conservation will be balanced against the pressing need for housing and economic growth. It is worth noting, however, that similar assurances have accompanied previous large-scale developments, only for conservationists to later report <span class=\"bw\">irreversible habitat loss<span class=\"tip\"><span class=\"tip-en\">permanent damage to natural environments that cannot be restored</span><span class=\"tip-zh\">無法逆轉的棲息地喪失</span></span></span>.</p>\n\n<p>One cannot deny that the tension between development and conservation will only intensify as construction proceeds. Whether Hong Kong ultimately adopts more <span class=\"bw\">stringent conservation benchmarks<span class=\"tip\"><span class=\"tip-en\">strict, clearly defined standards for protecting the natural environment</span><span class=\"tip-zh\">嚴格的保育基準</span></span></span> comparable to those of its neighbours remains to be seen, but the debate underscores the difficulty of reconciling rapid urban expansion with long-term ecological responsibility.</p>",
-      "vocab": [
-        {
-          "phrase": "binding targets",
-          "zh": "具約束力的目標",
-          "sample": "Environmental groups are calling for binding targets rather than vague commitments."
-        },
-        {
-          "phrase": "wetland protection",
-          "zh": "濕地保護",
-          "sample": "Wetland protection is seen as essential to preserving Hong Kong's biodiversity."
-        },
-        {
-          "phrase": "ecological services",
-          "zh": "生態服務",
-          "sample": "Wetlands provide vital ecological services such as natural flood control."
-        },
-        {
-          "phrase": "environmental safeguards",
-          "zh": "環境保障措施",
-          "sample": "Officials insist the development plan includes adequate environmental safeguards."
-        },
-        {
-          "phrase": "irreversible habitat loss",
-          "zh": "無法逆轉的棲息地喪失",
-          "sample": "Conservationists warn that irreversible habitat loss could follow unchecked development."
-        },
-        {
-          "phrase": "large-scale development",
-          "zh": "大型發展項目",
-          "sample": "Large-scale development often places significant pressure on nearby ecosystems."
-        },
-        {
-          "phrase": "conservation benchmark",
-          "zh": "保育基準",
-          "sample": "Critics argue Hong Kong should adopt a stricter conservation benchmark."
-        },
-        {
-          "phrase": "migratory birds",
-          "zh": "候鳥",
-          "sample": "The wetlands serve as an important stopover site for migratory birds."
-        },
-        {
-          "phrase": "flood mitigation",
-          "zh": "防洪緩解",
-          "sample": "Wetlands play a key role in flood mitigation during the rainy season."
-        },
-        {
-          "phrase": "cross-border comparison",
-          "zh": "跨境比較",
-          "sample": "The cross-border comparison with Shenzhen has drawn renewed scrutiny to the plan."
-        },
-        {
-          "phrase": "reconcile development with conservation",
-          "zh": "協調發展與保育",
-          "sample": "Policymakers face the challenge of reconciling development with conservation."
-        },
-        {
-          "phrase": "ecological responsibility",
-          "zh": "生態責任",
-          "sample": "Long-term ecological responsibility must not be sacrificed for short-term growth."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "It is widely argued that",
-          "zh": "普遍認為",
-          "sample": "It is widely argued that development plans have neglected environmental concerns."
-        },
-        {
-          "en": "Critics contend that",
-          "zh": "批評者認為",
-          "sample": "Critics contend that the omission of targets undermines the plan's credibility."
-        },
-        {
-          "en": "By the same token",
-          "zh": "同樣地",
-          "sample": "By the same token, neighbouring cities have adopted far stricter standards."
-        },
-        {
-          "en": "Nevertheless",
-          "zh": "然而",
-          "sample": "Nevertheless, officials insist that safeguards remain in place."
-        },
-        {
-          "en": "It is worth noting that",
-          "zh": "值得注意的是",
-          "sample": "It is worth noting that similar assurances were made in the past."
-        },
-        {
-          "en": "One cannot deny that",
-          "zh": "不可否認",
-          "sample": "One cannot deny that development and conservation are often in tension."
-        },
-        {
-          "en": "fall short of",
-          "zh": "未達到",
-          "sample": "The current plan falls short of the standards adopted elsewhere in the region."
-        },
-        {
-          "en": "place at risk",
-          "zh": "使……陷於危險",
-          "sample": "Unchecked construction could place the wetlands' biodiversity at risk."
-        },
-        {
-          "en": "balance X against Y",
-          "zh": "在X與Y之間取得平衡",
-          "sample": "Officials must balance economic growth against long-term environmental costs."
-        },
-        {
-          "en": "remains to be seen",
-          "zh": "尚待觀察",
-          "sample": "Whether the government adopts stricter targets remains to be seen."
-        },
-        {
-          "en": "underscore the difficulty of",
-          "zh": "凸顯……的困難",
-          "sample": "The debate underscores the difficulty of balancing growth with conservation."
-        },
-        {
-          "en": "keep pace with",
-          "zh": "跟上……的步伐",
-          "sample": "Environmental policy has struggled to keep pace with rapid urban expansion."
-        },
-        {
-          "en": "intensify",
-          "zh": "加劇",
-          "sample": "Tensions between developers and conservationists are likely to intensify."
-        },
-        {
-          "en": "in the absence of",
-          "zh": "在缺乏……的情況下",
-          "sample": "In the absence of binding targets, conservation outcomes remain uncertain."
-        },
-        {
-          "en": "call for stricter measures",
-          "zh": "呼籲採取更嚴格的措施",
-          "sample": "Green groups have called for stricter measures to protect the wetlands."
-        }
-      ],
-      "writing_angles": [
-        {
-          "label": "Environmental dimension",
-          "zh_label": "環境層面",
-          "text": "Loss of wetland habitat threatens <span class=\"bw\">biodiversity<span class=\"tip\"><span class=\"tip-en\">the variety of plant and animal life in a particular habitat</span><span class=\"tip-zh\">生物多樣性</span></span></span>, particularly for migratory species that rely on Hong Kong's border wetlands as a seasonal stopover."
-        },
-        {
-          "label": "Economic dimension",
-          "zh_label": "經濟層面",
-          "text": "Developers argue that <span class=\"bw\">opportunity costs<span class=\"tip\"><span class=\"tip-en\">the potential benefits given up when one option is chosen over another</span><span class=\"tip-zh\">機會成本</span></span></span> of leaving land undeveloped are significant, given the city's pressing housing shortage."
-        },
-        {
-          "label": "Political dimension",
-          "zh_label": "政治層面",
-          "text": "The comparison with Shenzhen's conservation targets places pressure on Hong Kong to demonstrate <span class=\"bw\">policy coherence<span class=\"tip\"><span class=\"tip-en\">the quality of different government policies fitting together logically and consistently</span><span class=\"tip-zh\">政策一致性</span></span></span> across the Greater Bay Area."
+          "text": "Higher wages for specialised carers may improve recruitment, but they also raise the <span class=\"bw\">cost of care provision<span class=\"tip\"><span class=\"tip-en\">the total financial expense involved in delivering care services</span><span class=\"tip-zh\">照顧服務成本</span></span></span> for families who must eventually bear part of that expense."
         },
         {
           "label": "Ethical dimension",
           "zh_label": "道德層面",
-          "text": "Campaigners frame the issue as one of <span class=\"bw\">intergenerational responsibility<span class=\"tip\"><span class=\"tip-en\">the duty owed by the present generation to preserve resources and conditions for future generations</span><span class=\"tip-zh\">跨代責任</span></span></span>, since habitat loss today cannot easily be reversed by future policy."
-        },
-        {
-          "label": "Technological dimension",
-          "zh_label": "科技層面",
-          "text": "Some officials point to <span class=\"bw\">mitigation technology<span class=\"tip\"><span class=\"tip-en\">engineering or design solutions intended to reduce environmental harm</span><span class=\"tip-zh\">緩解技術</span></span></span> such as constructed wetlands as a way to offset development impact, though critics doubt its effectiveness at scale."
-        }
-      ]
-    },
-    {
-      "source_name": "Hong Kong Free Press",
-      "source_url": "https://hongkongfp.com/2026/09/15/mid-autumn-festival-inaugural-intl-lantern-spectacular-opens-thurs-in-victoria-park/",
-      "published_date": "15 September 2026",
-      "headline": "Inaugural International Lantern Spectacular Opens at Victoria Park for Mid-Autumn Festival",
-      "category": "hk",
-      "summary_html": "<p>It is widely celebrated that Hong Kong has this year staged its first-ever International Lantern Spectacular at Victoria Park, marking a significant <span class=\"bw\">expansion of the city's Mid-Autumn festivities<span class=\"tip\"><span class=\"tip-en\">a considerable increase in the scale and scope of the city's Mid-Autumn Festival celebrations</span><span class=\"tip-zh\">中秋節慶祝活動的擴展</span></span></span>. Organised by the Hong Kong Tourism Board and running from 17 to 27 September, the event brings together lanterns from twenty countries and regions under the theme of \"reunion\".</p>\n\n<p>By the same token, the festival highlights Hong Kong's enduring role as a meeting point of <span class=\"bw\">cultural traditions<span class=\"tip\"><span class=\"tip-en\">customs, beliefs and practices passed down within a society</span><span class=\"tip-zh\">文化傳統</span></span></span> both local and international. Alongside giant master-crafted lanterns imported from Nanjing, visitors can view a dedicated Hong Kong Lantern Galleria featuring over four hundred traditional handmade lanterns, as well as playful designs shaped like local dim sum and street food, offering a distinctly Hong Kong interpretation of a centuries-old festival.</p>\n\n<p>Nevertheless, some cultural commentators caution that heavily tourism-oriented events risk <span class=\"bw\">diluting the festival's original significance<span class=\"tip\"><span class=\"tip-en\">weakening or reducing the depth and authenticity of a tradition's true meaning</span><span class=\"tip-zh\">沖淡節日原有的意義</span></span></span>, transforming a family-centred occasion into a spectacle designed primarily for visitors. It is worth noting, however, that the nearby Tai Hang Fire Dragon Dance, now in its 147th edition and recognised as national intangible cultural heritage, continues to be led by local residents, suggesting that grassroots tradition and large-scale tourism promotion can coexist.</p>\n\n<p>One cannot deny that events of this scale carry considerable value in <span class=\"bw\">reinforcing civic identity<span class=\"tip\"><span class=\"tip-en\">strengthening a shared sense of belonging and pride among a city's residents</span><span class=\"tip-zh\">強化市民身份認同</span></span></span>, particularly for younger residents who may otherwise engage with traditional festivals only superficially. Whether such initiatives successfully balance commercial appeal with authentic heritage preservation remains an open question worth close observation.</p>",
-      "vocab": [
-        {
-          "phrase": "cultural traditions",
-          "zh": "文化傳統",
-          "sample": "The festival showcases cultural traditions from Hong Kong and abroad side by side."
-        },
-        {
-          "phrase": "intangible cultural heritage",
-          "zh": "非物質文化遺產",
-          "sample": "The Tai Hang Fire Dragon Dance is recognised as national intangible cultural heritage."
-        },
-        {
-          "phrase": "civic identity",
-          "zh": "市民身份認同",
-          "sample": "Large-scale festivals can play a role in reinforcing civic identity among residents."
-        },
-        {
-          "phrase": "grassroots tradition",
-          "zh": "草根傳統",
-          "sample": "The fire dragon dance remains a grassroots tradition led by local residents."
-        },
-        {
-          "phrase": "tourism-oriented event",
-          "zh": "以旅遊為導向的活動",
-          "sample": "Critics worry that tourism-oriented events can overshadow local customs."
-        },
-        {
-          "phrase": "dilute significance",
-          "zh": "沖淡意義",
-          "sample": "Commercialisation may dilute the significance of a traditional festival."
-        },
-        {
-          "phrase": "centuries-old festival",
-          "zh": "有數百年歷史的節日",
-          "sample": "The Mid-Autumn Festival is a centuries-old festival celebrated across Chinese communities."
-        },
-        {
-          "phrase": "heritage preservation",
-          "zh": "文化遺產保育",
-          "sample": "Balancing tourism with heritage preservation remains a persistent challenge."
-        },
-        {
-          "phrase": "family-centred occasion",
-          "zh": "以家庭為中心的節日",
-          "sample": "Mid-Autumn Festival is traditionally a family-centred occasion for reunion."
-        },
-        {
-          "phrase": "commercial appeal",
-          "zh": "商業吸引力",
-          "sample": "Organisers have sought to increase the festival's commercial appeal to tourists."
-        },
-        {
-          "phrase": "engage superficially",
-          "zh": "膚淺地參與",
-          "sample": "Younger residents may otherwise engage superficially with traditional customs."
-        },
-        {
-          "phrase": "coexist",
-          "zh": "共存",
-          "sample": "Grassroots tradition and large-scale tourism promotion can coexist when managed carefully."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "It is widely celebrated that",
-          "zh": "普遍受到讚揚",
-          "sample": "It is widely celebrated that the festival has grown in scale this year."
-        },
-        {
-          "en": "By the same token",
-          "zh": "同樣地",
-          "sample": "By the same token, the event highlights Hong Kong's role as a cultural crossroads."
-        },
-        {
-          "en": "Nevertheless",
-          "zh": "然而",
-          "sample": "Nevertheless, some commentators worry about the loss of authenticity."
-        },
-        {
-          "en": "It is worth noting that",
-          "zh": "值得注意的是",
-          "sample": "It is worth noting that local traditions continue alongside the new event."
-        },
-        {
-          "en": "One cannot deny that",
-          "zh": "不可否認",
-          "sample": "One cannot deny that such festivals strengthen a sense of shared identity."
-        },
-        {
-          "en": "an open question",
-          "zh": "一個懸而未決的問題",
-          "sample": "Whether commercialisation harms authenticity remains an open question."
-        },
-        {
-          "en": "mark a significant expansion",
-          "zh": "標誌著重大擴展",
-          "sample": "This year's event marks a significant expansion of the city's festival programme."
-        },
-        {
-          "en": "offer a distinctly local interpretation",
-          "zh": "提供獨特的本地演繹",
-          "sample": "The lantern designs offer a distinctly local interpretation of a shared tradition."
-        },
-        {
-          "en": "risk transforming X into Y",
-          "zh": "有可能將X變成Y",
-          "sample": "Organisers risk transforming a meaningful tradition into a mere spectacle."
-        },
-        {
-          "en": "continue to be led by",
-          "zh": "繼續由……主導",
-          "sample": "The fire dragon dance continues to be led by residents of Tai Hang."
-        },
-        {
-          "en": "carry considerable value",
-          "zh": "具有相當價值",
-          "sample": "Cultural festivals carry considerable value beyond their economic impact."
-        },
-        {
-          "en": "reinforce a sense of belonging",
-          "zh": "強化歸屬感",
-          "sample": "Community events help reinforce a sense of belonging among young people."
-        },
-        {
-          "en": "balance X with Y",
-          "zh": "在X與Y之間取得平衡",
-          "sample": "Organisers must balance commercial appeal with authentic heritage preservation."
-        },
-        {
-          "en": "a meeting point of",
-          "zh": "……的匯聚點",
-          "sample": "Hong Kong has long served as a meeting point of East and West."
-        },
-        {
-          "en": "worth close observation",
-          "zh": "值得密切關注",
-          "sample": "How the festival evolves in coming years is worth close observation."
-        }
-      ],
-      "writing_angles": [
-        {
-          "label": "Cultural dimension",
-          "zh_label": "文化層面",
-          "text": "Blending international lantern displays with local craft traditions reflects Hong Kong's identity as a <span class=\"bw\">cultural crossroads<span class=\"tip\"><span class=\"tip-en\">a place where different traditions and influences meet and interact</span><span class=\"tip-zh\">文化匯聚點</span></span></span>, though it also raises questions about which version of a tradition is being preserved."
-        },
-        {
-          "label": "Economic dimension",
-          "zh_label": "經濟層面",
-          "text": "Large festivals generate significant <span class=\"bw\">tourism revenue<span class=\"tip\"><span class=\"tip-en\">income earned from visitors travelling to and spending money in a destination</span><span class=\"tip-zh\">旅遊收入</span></span></span>, providing an economic rationale for continued government and Tourism Board investment."
-        },
-        {
-          "label": "Social dimension",
-          "zh_label": "社會層面",
-          "text": "Community-led events such as the fire dragon dance foster <span class=\"bw\">intergenerational participation<span class=\"tip\"><span class=\"tip-en\">involvement across different age groups within the same community activity</span><span class=\"tip-zh\">跨代參與</span></span></span>, helping to pass traditions from older residents to younger generations."
+          "text": "Paying new carers more than existing helpers for comparable work raises questions of <span class=\"bw\">distributive fairness<span class=\"tip\"><span class=\"tip-en\">the principle that benefits and burdens should be shared among people in a just manner</span><span class=\"tip-zh\">分配公平</span></span></span> within an already vulnerable migrant workforce."
         },
         {
           "label": "Psychological dimension",
           "zh_label": "心理層面",
-          "text": "Participating in shared cultural rituals can strengthen <span class=\"bw\">a sense of collective belonging<span class=\"tip\"><span class=\"tip-en\">the feeling of being part of a larger community with shared values and history</span><span class=\"tip-zh\">集體歸屬感</span></span></span>, particularly valuable during periods of social change."
+          "text": "Family members providing unpaid care frequently experience <span class=\"bw\">caregiver fatigue<span class=\"tip\"><span class=\"tip-en\">physical and emotional exhaustion resulting from the sustained demands of caring for another person</span><span class=\"tip-zh\">照顧者疲勞</span></span></span>, underscoring the need for allowances that acknowledge this hidden cost."
+        }
+      ]
+    },
+    {
+      "source_name": "RTHK",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1870081-20260915.htm",
+      "published_date": "15 September 2026",
+      "headline": "Hospital Authority Calls for Early Flu Vaccination Amid Infection Rise",
+      "category": "health",
+      "summary_html": "<p>It is widely reported that Hong Kong's Hospital Authority has urged residents to seek early influenza vaccination as seasonal flu infections continue to rise across the city. Health officials describe current <span class=\"bw\">viral activity<span class=\"tip\"><span class=\"tip-en\">the level of a virus's spread and transmission within a population</span><span class=\"tip-zh\">病毒活躍程度</span></span></span> as remaining high, with hospitals reporting an increase in serious cases requiring admission.</p>\n\n<p>Critics contend that public awareness campaigns alone may be insufficient to reach vulnerable groups, particularly the elderly and those with chronic illnesses who face the greatest risk of severe complications. Nevertheless, the Hospital Authority has procured around 1.3 million vaccine doses this season, offering <span class=\"bw\">inactivated, recombinant and nasal spray formulations<span class=\"tip\"><span class=\"tip-en\">different types of vaccine preparations suited to varying medical needs and age groups</span><span class=\"tip-zh\">滅活、基因重組及噴鼻劑型疫苗</span></span></span> to accommodate different patient needs.</p>\n\n<p>By the same token, doctors have emphasised that the body requires roughly two weeks after vaccination to build sufficient <span class=\"bw\">immune protection<span class=\"tip\"><span class=\"tip-en\">the body's ability to resist and fight off a particular infection</span><span class=\"tip-zh\">免疫保護</span></span></span>, meaning delays in getting vaccinated could leave individuals exposed during the peak infection period. It is worth noting that immunity from the vaccine is expected to last at least six months, covering much of the traditional winter flu season.</p>\n\n<p>One cannot deny that persuading the public to act before symptoms appear remains one of the most persistent challenges in <span class=\"bw\">preventive healthcare<span class=\"tip\"><span class=\"tip-en\">medical measures taken to prevent illness before it occurs, rather than treating it afterwards</span><span class=\"tip-zh\">預防性醫療</span></span></span>. The current campaign illustrates the recurring tension between individual complacency and the collective benefits of timely public health action.</p>",
+      "vocab": [
+        {
+          "phrase": "viral activity",
+          "zh": "病毒活躍程度",
+          "sample": "Viral activity is expected to remain high over the coming weeks, doctors warned."
+        },
+        {
+          "phrase": "immune protection",
+          "zh": "免疫保護",
+          "sample": "Vaccination provides immune protection that develops gradually over two weeks."
+        },
+        {
+          "phrase": "preventive healthcare",
+          "zh": "預防性醫療",
+          "sample": "Preventive healthcare measures such as vaccination reduce the burden on hospitals."
+        },
+        {
+          "phrase": "chronic illness",
+          "zh": "慢性疾病",
+          "sample": "Patients with chronic illness are advised to get vaccinated as early as possible."
+        },
+        {
+          "phrase": "public awareness campaign",
+          "zh": "公眾意識運動",
+          "sample": "The government launched a public awareness campaign to encourage early vaccination."
+        },
+        {
+          "phrase": "vulnerable groups",
+          "zh": "高危群組",
+          "sample": "Vulnerable groups such as the elderly face a higher risk of severe complications."
+        },
+        {
+          "phrase": "peak infection period",
+          "zh": "感染高峰期",
+          "sample": "Hospitals brace for pressure during the peak infection period each winter."
+        },
+        {
+          "phrase": "vaccine formulation",
+          "zh": "疫苗劑型",
+          "sample": "Different vaccine formulations are available to suit patients of varying ages."
+        },
+        {
+          "phrase": "severe complications",
+          "zh": "嚴重併發症",
+          "sample": "Untreated flu infections can occasionally lead to severe complications."
+        },
+        {
+          "phrase": "collective benefit",
+          "zh": "集體利益",
+          "sample": "Widespread vaccination generates a collective benefit by slowing community transmission."
+        },
+        {
+          "phrase": "public health action",
+          "zh": "公共衛生行動",
+          "sample": "Timely public health action can significantly reduce hospital admissions."
+        },
+        {
+          "phrase": "complacency",
+          "zh": "自滿情緒",
+          "sample": "Health officials warn that public complacency remains a major obstacle to prevention."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "It is widely reported that",
+          "zh": "據廣泛報導",
+          "sample": "It is widely reported that flu infections have risen sharply this month."
+        },
+        {
+          "en": "Critics contend that",
+          "zh": "批評者認為",
+          "sample": "Critics contend that awareness campaigns fail to reach the most vulnerable residents."
+        },
+        {
+          "en": "Nevertheless",
+          "zh": "然而",
+          "sample": "Nevertheless, the Hospital Authority has secured a large supply of vaccines."
+        },
+        {
+          "en": "By the same token",
+          "zh": "同樣地",
+          "sample": "By the same token, doctors stress the importance of getting vaccinated early."
+        },
+        {
+          "en": "It is worth noting that",
+          "zh": "值得注意的是",
+          "sample": "It is worth noting that immunity typically lasts at least six months."
+        },
+        {
+          "en": "One cannot deny that",
+          "zh": "不可否認",
+          "sample": "One cannot deny that public complacency remains a persistent challenge."
+        },
+        {
+          "en": "seek early vaccination",
+          "zh": "及早接種疫苗",
+          "sample": "Residents are being urged to seek early vaccination before the peak season begins."
+        },
+        {
+          "en": "face the greatest risk of",
+          "zh": "面臨……的最大風險",
+          "sample": "Elderly patients face the greatest risk of severe complications from flu."
+        },
+        {
+          "en": "accommodate different needs",
+          "zh": "配合不同需要",
+          "sample": "Several vaccine types are offered to accommodate different patient needs."
+        },
+        {
+          "en": "build sufficient immunity",
+          "zh": "建立足夠的免疫力",
+          "sample": "It takes about two weeks for the body to build sufficient immunity after vaccination."
+        },
+        {
+          "en": "leave individuals exposed",
+          "zh": "使個人暴露於風險之中",
+          "sample": "Delaying vaccination could leave individuals exposed during the peak period."
+        },
+        {
+          "en": "one of the most persistent challenges",
+          "zh": "其中一個最持久的難題",
+          "sample": "Encouraging early action remains one of the most persistent challenges in public health."
+        },
+        {
+          "en": "the collective benefits of",
+          "zh": "……的集體利益",
+          "sample": "Officials emphasise the collective benefits of widespread vaccination uptake."
+        },
+        {
+          "en": "reduce the burden on",
+          "zh": "減輕……的負擔",
+          "sample": "Early vaccination helps reduce the burden on an already stretched healthcare system."
+        },
+        {
+          "en": "a recurring tension between",
+          "zh": "……之間反覆出現的張力",
+          "sample": "The campaign reflects a recurring tension between personal choice and public welfare."
+        }
+      ],
+      "writing_angles": [
+        {
+          "label": "Public health dimension",
+          "zh_label": "公共衛生層面",
+          "text": "Widespread vaccination generates <span class=\"bw\">herd immunity<span class=\"tip\"><span class=\"tip-en\">a level of population-wide immunity sufficient to slow the spread of a disease even among the unvaccinated</span><span class=\"tip-zh\">群體免疫</span></span></span>, illustrating how individual medical choices carry consequences for the wider community."
+        },
+        {
+          "label": "Psychological dimension",
+          "zh_label": "心理層面",
+          "text": "Public <span class=\"bw\">risk perception<span class=\"tip\"><span class=\"tip-en\">a subjective assessment of how likely and how serious a potential danger is</span><span class=\"tip-zh\">風險認知</span></span></span> often lags behind actual medical risk, leading many to delay vaccination until symptoms are already widespread."
+        },
+        {
+          "label": "Economic dimension",
+          "zh_label": "經濟層面",
+          "text": "Preventing severe flu cases through vaccination reduces <span class=\"bw\">healthcare expenditure<span class=\"tip\"><span class=\"tip-en\">the total amount of money spent on medical treatment and hospital services</span><span class=\"tip-zh\">醫療開支</span></span></span>, easing pressure on an already strained public hospital system."
+        },
+        {
+          "label": "Policy dimension",
+          "zh_label": "政策層面",
+          "text": "Government-funded vaccination schemes reflect an attempt to overcome <span class=\"bw\">market failure<span class=\"tip\"><span class=\"tip-en\">a situation in which individuals acting in their own interest produce an outcome that is worse for society as a whole</span><span class=\"tip-zh\">市場失效</span></span></span>, since private incentives alone may not achieve adequate vaccination coverage."
+        }
+      ]
+    },
+    {
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/entertainment/article/342639/BABYMONSTER-draws-over-1000-fans-at-Tsim-Sha-Tsui-appearance",
+      "published_date": "13 September 2026",
+      "headline": "BABYMONSTER Draws Over 1,000 Fans at Tsim Sha Tsui Appearance",
+      "category": "pop",
+      "summary_html": "<p>It is widely reported that the K-pop girl group BABYMONSTER drew more than 1,000 fans to a fashion brand appearance at 1881 Heritage in Tsim Sha Tsui, with dedicated fans reportedly beginning to queue outside the venue the night before. The event underscores the enduring <span class=\"bw\">commercial drawing power<span class=\"tip\"><span class=\"tip-en\">the ability of a celebrity or group to attract large crowds and generate business interest</span><span class=\"tip-zh\">商業號召力</span></span></span> of K-pop acts within Hong Kong's entertainment scene.</p>\n\n<p>Critics contend that such intense <span class=\"bw\">fan mobilisation<span class=\"tip\"><span class=\"tip-en\">the organised gathering and coordinated activity of a celebrity's supporters</span><span class=\"tip-zh\">粉絲動員</span></span></span> raises concerns about crowd safety and public order, particularly when large numbers of young fans camp outside venues overnight. Nevertheless, organisers noted that designated fan areas and wristband distribution helped manage the crowd in an orderly fashion.</p>\n\n<p>By the same token, the appearance illustrates how brands increasingly rely on <span class=\"bw\">celebrity-driven marketing<span class=\"tip\"><span class=\"tip-en\">a promotional strategy that uses the popularity of a well-known figure to attract customers</span><span class=\"tip-zh\">名人營銷</span></span></span> to generate publicity, treating fan enthusiasm as a measurable commercial asset rather than a purely cultural phenomenon. It is worth noting that Hong Kong continues to serve as a regional hub for such events, given its transport links and established fan infrastructure.</p>\n\n<p>One cannot deny that K-pop's continued popularity among Hong Kong youth reflects broader patterns of <span class=\"bw\">cross-border cultural consumption<span class=\"tip\"><span class=\"tip-en\">the practice of engaging with entertainment, fashion, or media produced in other countries or regions</span><span class=\"tip-zh\">跨地域文化消費</span></span></span>, in which local audiences increasingly participate in global entertainment fandoms rather than confining their interests to homegrown celebrities alone.</p>",
+      "vocab": [
+        {
+          "phrase": "commercial drawing power",
+          "zh": "商業號召力",
+          "sample": "The group's commercial drawing power made it an obvious choice for the brand's launch event."
+        },
+        {
+          "phrase": "fan mobilisation",
+          "zh": "粉絲動員",
+          "sample": "Rapid fan mobilisation on social media helped the appearance attract huge crowds."
+        },
+        {
+          "phrase": "celebrity-driven marketing",
+          "zh": "名人營銷",
+          "sample": "Celebrity-driven marketing has become a standard strategy for fashion brand launches."
+        },
+        {
+          "phrase": "cross-border cultural consumption",
+          "zh": "跨地域文化消費",
+          "sample": "Cross-border cultural consumption has made K-pop fandoms common across East Asia."
+        },
+        {
+          "phrase": "crowd management",
+          "zh": "人流管理",
+          "sample": "Organisers used wristbands as part of their crowd management strategy."
+        },
+        {
+          "phrase": "fandom culture",
+          "zh": "粉絲文化",
+          "sample": "Fandom culture often involves highly organised online communities and fan clubs."
+        },
+        {
+          "phrase": "public order concerns",
+          "zh": "公共秩序疑慮",
+          "sample": "Large overnight queues raised public order concerns among local residents."
+        },
+        {
+          "phrase": "regional entertainment hub",
+          "zh": "地區娛樂樞紐",
+          "sample": "Hong Kong remains a regional entertainment hub thanks to its venues and transport links."
+        },
+        {
+          "phrase": "brand publicity",
+          "zh": "品牌宣傳",
+          "sample": "The appearance generated significant brand publicity across social media platforms."
+        },
+        {
+          "phrase": "global fandom",
+          "zh": "全球粉絲群",
+          "sample": "K-pop groups increasingly cultivate a global fandom rather than a purely domestic one."
+        },
+        {
+          "phrase": "designated fan area",
+          "zh": "指定粉絲區",
+          "sample": "A designated fan area helped organisers keep the event orderly and safe."
+        },
+        {
+          "phrase": "homegrown celebrities",
+          "zh": "本地藝人",
+          "sample": "Some commentators worry that homegrown celebrities receive less attention than international stars."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "It is widely reported that",
+          "zh": "據廣泛報導",
+          "sample": "It is widely reported that the appearance drew over a thousand fans."
+        },
+        {
+          "en": "Critics contend that",
+          "zh": "批評者認為",
+          "sample": "Critics contend that overnight queuing raises genuine safety concerns."
+        },
+        {
+          "en": "Nevertheless",
+          "zh": "然而",
+          "sample": "Nevertheless, organisers managed to keep the crowd orderly throughout the event."
+        },
+        {
+          "en": "By the same token",
+          "zh": "同樣地",
+          "sample": "By the same token, brands now treat fan enthusiasm as a measurable commercial asset."
+        },
+        {
+          "en": "It is worth noting that",
+          "zh": "值得注意的是",
+          "sample": "It is worth noting that Hong Kong remains a popular stop for touring K-pop acts."
+        },
+        {
+          "en": "One cannot deny that",
+          "zh": "不可否認",
+          "sample": "One cannot deny that K-pop's popularity among local youth shows no sign of fading."
+        },
+        {
+          "en": "underscore the enduring power of",
+          "zh": "凸顯……歷久不衰的影響力",
+          "sample": "The turnout underscores the enduring power of K-pop fandoms in the region."
+        },
+        {
+          "en": "raise concerns about",
+          "zh": "引起對……的關注",
+          "sample": "Large crowds outside the venue raised concerns about public safety."
+        },
+        {
+          "en": "manage in an orderly fashion",
+          "zh": "有秩序地處理",
+          "sample": "Staff managed to control the crowd in an orderly fashion using designated zones."
+        },
+        {
+          "en": "treat X as a commercial asset",
+          "zh": "將X視為商業資產",
+          "sample": "Brands increasingly treat celebrity fandoms as a valuable commercial asset."
+        },
+        {
+          "en": "serve as a regional hub for",
+          "zh": "作為……的地區樞紐",
+          "sample": "The city continues to serve as a regional hub for major entertainment events."
+        },
+        {
+          "en": "reflect broader patterns of",
+          "zh": "反映……的更廣泛趨勢",
+          "sample": "The turnout reflects broader patterns of cross-border cultural consumption among youth."
+        },
+        {
+          "en": "participate in global fandoms",
+          "zh": "參與全球粉絲群體",
+          "sample": "Local teenagers increasingly participate in global fandoms rather than local ones alone."
+        },
+        {
+          "en": "confine interests to",
+          "zh": "將興趣局限於",
+          "sample": "Young audiences no longer confine their interests to homegrown celebrities alone."
+        },
+        {
+          "en": "generate publicity",
+          "zh": "製造宣傳效應",
+          "sample": "The event was designed primarily to generate publicity for the fashion brand."
+        }
+      ],
+      "writing_angles": [
+        {
+          "label": "Sociological dimension",
+          "zh_label": "社會學層面",
+          "text": "The turnout reflects how <span class=\"bw\">transnational fan communities<span class=\"tip\"><span class=\"tip-en\">groups of fans who share a common interest across different countries and cultures</span><span class=\"tip-zh\">跨國粉絲群體</span></span></span> increasingly shape youth social identity, extending far beyond the borders of the home country of the artists."
+        },
+        {
+          "label": "Economic dimension",
+          "zh_label": "經濟層面",
+          "text": "Brands leverage celebrity appearances to achieve rapid <span class=\"bw\">consumer engagement<span class=\"tip\"><span class=\"tip-en\">the degree to which customers actively interact with and respond to a brand</span><span class=\"tip-zh\">消費者參與</span></span></span>, turning fan enthusiasm directly into commercial value."
+        },
+        {
+          "label": "Psychological dimension",
+          "zh_label": "心理層面",
+          "text": "Participation in fandom activities can foster a strong <span class=\"bw\">sense of belonging<span class=\"tip\"><span class=\"tip-en\">the feeling of being accepted as part of a group or community</span><span class=\"tip-zh\">歸屬感</span></span></span>, offering young fans emotional connection through shared identity and ritual."
+        },
+        {
+          "label": "Cultural dimension",
+          "zh_label": "文化層面",
+          "text": "The event highlights tension between celebrating <span class=\"bw\">global popular culture<span class=\"tip\"><span class=\"tip-en\">entertainment and media trends that are widely consumed across many different countries</span><span class=\"tip-zh\">全球流行文化</span></span></span> and preserving space for local artists to develop their own fanbases."
         }
       ]
     }
@@ -699,28 +684,24 @@
         "tiktok",
         "ig"
       ],
-      "headline": "✨ The \"Gold Star Behaviour\" Trend Sweeps Hong Kong Youth",
-      "summary_html": "<p>A new wave of short videos under the banner of <span class=\"bw\">\"Gold Star Behaviour\"<span class=\"tip\"><span class=\"tip-en\">a social media trend in which creators praise themselves for small, often mundane, acts of self-discipline</span><span class=\"tip-zh\">「金星行為」</span></span></span> has become popular among Hong Kong teenagers on TikTok and Instagram. Creators film themselves completing ordinary tasks, such as replying to a message promptly or drinking enough water, and reward themselves with an exaggerated sense of celebration, often set to upbeat audio clips.</p>\n\n<p>It is widely argued that the trend reflects a broader shift towards <span class=\"bw\">normalising small wins<span class=\"tip\"><span class=\"tip-en\">treating minor personal achievements as worthy of genuine recognition</span><span class=\"tip-zh\">將微小成就視為正常</span></span></span> at a time when many young people report high levels of academic and social pressure. Nevertheless, critics contend that framing basic responsibilities as noteworthy achievements may, paradoxically, reveal just how <span class=\"bw\">emotionally depleted<span class=\"tip\"><span class=\"tip-en\">lacking in the emotional energy or resilience needed to cope with daily demands</span><span class=\"tip-zh\">情緒耗竭</span></span></span> many teenagers currently feel.</p>",
+      "headline": "🧸 The Blind Box Collecting Craze Continues to Grip Hong Kong Youth",
+      "summary_html": "<p>Blind-box collectibles such as Pop Mart's Labubu, designed by Hong Kong artist Kasing Lung, remain one of the most persistent <span class=\"bw\">consumer crazes<span class=\"tip\"><span class=\"tip-en\">waves of intense and often short-lived enthusiasm for a particular product</span><span class=\"tip-zh\">消費熱潮</span></span></span> among Hong Kong youth on TikTok and Instagram. Videos of fans unboxing mystery packaging to reveal a random figure regularly attract millions of views, with the anticipation itself forming a central part of the appeal.</p>\n\n<p>It is widely argued that the trend endures because <span class=\"bw\">randomised rewards<span class=\"tip\"><span class=\"tip-en\">outcomes determined by chance rather than guaranteed in advance</span><span class=\"tip-zh\">隨機獎勵</span></span></span> create a compelling psychological pull, keeping collectors engaged even after the novelty of the character itself might otherwise fade. Nevertheless, critics warn that the format closely resembles gambling mechanics, encouraging repeated purchases in pursuit of rare variants.</p>",
       "causes": [
         {
           "label": "Psychological appeal",
-          "text": "Publicly celebrating minor accomplishments provides a low-stakes dopamine reward, offering encouragement to viewers who may otherwise feel overwhelmed by everyday demands."
+          "text": "The unpredictable outcome of each blind box activates the brain's dopamine-driven reward system, reinforcing repeat purchasing behaviour similar to other chance-based activities."
         },
         {
           "label": "Social media influence",
-          "text": "Short-form video platforms reward relatable, low-production content, allowing ordinary daily routines to spread rapidly among peer networks."
-        },
-        {
-          "label": "Mental health awareness",
-          "text": "The trend coincides with growing openness among young people about stress and burnout, framing self-care as something worth publicly acknowledging."
+          "text": "Unboxing videos are highly shareable and algorithm-friendly, allowing the trend to spread rapidly through short-form video platforms popular with Hong Kong teenagers."
         },
         {
           "label": "Consumer culture",
-          "text": "Brands have begun co-opting the trend to market wellness products, illustrating how youth culture is quickly absorbed into commercial marketing strategies."
+          "text": "Limited-edition and rare variants create a sense of scarcity, encouraging collectors to make repeated purchases in pursuit of a complete set."
         },
         {
-          "label": "Sociological dimension",
-          "text": "The popularity of the trend suggests a generational reaction against relentless productivity culture, replacing achievement-based validation with gentler, self-compassionate framing."
+          "label": "Cultural pride",
+          "text": "The character's design by a Hong Kong-born artist has fostered a degree of local pride, adding a cultural dimension to what is otherwise a global commercial phenomenon."
         }
       ]
     }

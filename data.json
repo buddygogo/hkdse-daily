@@ -2,570 +2,560 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "RTHK",
-      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1870236-20260916.htm",
-      "published_date": "16 September 2026",
-      "headline": "Hong Kong Chief Executive Vows to Ensure Safety as AI Push Accelerates",
-      "category": "tech",
-      "summary_html": "<p>In his latest Policy Address, delivered on 16 September, Chief Executive John Lee reaffirmed the government's determination to transform Hong Kong into a <span class=\"bw\">regional powerhouse for artificial intelligence<span class=\"tip\"><span class=\"tip-en\">a leading centre driving AI development in the region</span><span class=\"tip-zh\">區域人工智能強國</span></span></span>. It is widely argued that the city's long-term competitiveness now hinges on its ability to <span class=\"bw\">convert academic research into commercial application<span class=\"tip\"><span class=\"tip-en\">turn university research into marketable products or services</span><span class=\"tip-zh\">將學術研究轉化為商業應用</span></span></span>. Officials have set an ambitious target: <span class=\"bw\">total domestic expenditure on innovation activities<span class=\"tip\"><span class=\"tip-en\">the overall amount spent locally on research and innovation</span><span class=\"tip-zh\">本地創新活動總開支</span></span></span> is to reach three per cent of GDP after 2030, almost double the 1.63 per cent recorded in 2024. The initiative will be underpinned by three new innovation parks and an expanded <span class=\"bw\">Northern Metropolis hub<span class=\"tip\"><span class=\"tip-en\">a planned development zone in northern Hong Kong dedicated to technology and innovation</span><span class=\"tip-zh\">北部都會區樞紐</span></span></span> devoted to AI, robotics and health technology.</p>\n<p>Nevertheless, the government has been careful to temper enthusiasm for rapid technological advancement with a parallel emphasis on regulation. Mr Lee pledged that safety considerations would <span class=\"bw\">play a pivotal role in<span class=\"tip\"><span class=\"tip-en\">be a crucial, central factor in</span><span class=\"tip-zh\">擔當關鍵角色</span></span></span> shaping how AI is deployed across finance, healthcare and public administration. New proposals addressing deepfakes and <span class=\"bw\">algorithmic accountability<span class=\"tip\"><span class=\"tip-en\">the principle that those who design and deploy algorithms must answer for their effects</span><span class=\"tip-zh\">演算法問責</span></span></span> are expected to be tabled in the coming legislative session. Critics contend that without <span class=\"bw\">robust oversight<span class=\"tip\"><span class=\"tip-en\">strong, effective supervision and monitoring</span><span class=\"tip-zh\">嚴謹的監管</span></span></span>, the rapid rollout of AI systems could outpace the safeguards needed to protect ordinary citizens from misinformation and data misuse.</p>\n<p>By the same token, the plan has implications that extend well beyond the technology sector itself. Analysts suggest that as automation becomes more deeply embedded in daily operations, the labour market will be <span class=\"bw\">reshaped considerably<span class=\"tip\"><span class=\"tip-en\">changed substantially in structure or form</span><span class=\"tip-zh\">大幅重塑</span></span></span>, with some traditional roles rendered obsolete while entirely new career pathways emerge. For Hong Kong's students, the message is unambiguous: <span class=\"bw\">digital literacy<span class=\"tip\"><span class=\"tip-en\">the ability to use, understand and evaluate digital technology effectively</span><span class=\"tip-zh\">數碼素養</span></span></span> and adaptability are no longer optional extras but <span class=\"bw\">prerequisites for future employability<span class=\"tip\"><span class=\"tip-en\">essential conditions one must meet to be considered employable later on</span><span class=\"tip-zh\">未來就業能力的先決條件</span></span></span> in an economy increasingly driven by intelligent systems.</p>",
+      "source_name": "Sunday Examiner",
+      "source_url": "https://www.examiner.org.hk/2026/09/18/the-mental-health-of-school-children/editorial/",
+      "published_date": "18 September 2026",
+      "headline": "Hong Kong Confronts a Deepening Youth Mental Health Crisis After Troubled Start to School Term",
+      "category": "social",
+      "summary_html": "<p>Hong Kong's return to the classroom this September has been overshadowed by tragedy. Within the first week of the new academic year, at least seven cases of student self-harm or suicide were reported across the city, three of which proved fatal. It is widely argued that such incidents, though distressing in isolation, point to a far more entrenched <span class=\"bw\">systemic problem<span class=\"tip\"><span class=\"tip-en\">an issue rooted in the structure of a system rather than in isolated individual cases</span><span class=\"tip-zh\">系統性問題</span></span></span> within the city's education culture, one in which academic achievement has become almost synonymous with personal worth.</p><p>Critics contend that Hong Kong's intensely <span class=\"bw\">examination-oriented culture<span class=\"tip\"><span class=\"tip-en\">an educational environment that places overwhelming emphasis on test results</span><span class=\"tip-zh\">以考試為導向的文化</span></span></span> leaves little room for students who struggle to keep pace. Data compiled by the University of Hong Kong's Centre for Suicide Research and Prevention reveal that some 30 per cent of suicide victims under the age of 15 were enrolled in Band One schools, suggesting that <span class=\"bw\">academic peer pressure<span class=\"tip\"><span class=\"tip-en\">stress arising from competition with high-achieving classmates</span><span class=\"tip-zh\">學業同儕壓力</span></span></span> may weigh most heavily precisely where expectations are highest. Nevertheless, education authorities caution against viewing school banding alone as the root cause, noting that parental expectations and students' own <span class=\"bw\">self-imposed expectations<span class=\"tip\"><span class=\"tip-en\">standards a person sets for themselves, often unrealistically high</span><span class=\"tip-zh\">自我要求</span></span></span> compound the pressure considerably.</p><p>By the same token, schools have not been passive in the face of this crisis. A Three-tier School-based Emergency Mechanism, <span class=\"bw\">regularised<span class=\"tip\"><span class=\"tip-en\">made a standard, permanent part of practice rather than a temporary measure</span><span class=\"tip-zh\">常規化</span></span></span> across all secondary schools during the 2025/26 school year, has now been extended on a trial basis to upper primary levels, offering earlier identification of <span class=\"bw\">at-risk students<span class=\"tip\"><span class=\"tip-en\">individuals identified as being in particular danger of harm</span><span class=\"tip-zh\">高危學生</span></span></span> and swifter referral to counselling. Even so, commentators insist that lasting change demands more than emergency intervention: it requires a fundamental shift towards <span class=\"bw\">fostering resilience<span class=\"tip\"><span class=\"tip-en\">helping someone develop the ability to recover from difficulty</span><span class=\"tip-zh\">培養抗逆力</span></span></span> and genuine <span class=\"bw\">emotional well-being<span class=\"tip\"><span class=\"tip-en\">a state of psychological and emotional health</span><span class=\"tip-zh\">情緒健康</span></span></span> throughout a child's schooling, rather than treating mental health merely as a crisis to be managed after the fact.</p>",
       "vocab": [
         {
-          "phrase": "artificial intelligence",
-          "zh": "人工智能",
-          "sample": "Artificial intelligence is increasingly integrated into public services across Hong Kong."
+          "phrase": "mental health crisis",
+          "zh": "精神健康危機",
+          "sample": "Educators warn that the mental health crisis among teenagers requires urgent, coordinated intervention."
         },
         {
-          "phrase": "innovation park",
-          "zh": "創新園",
-          "sample": "The new innovation park will house start-ups specialising in robotics and biotechnology."
+          "phrase": "self-harm",
+          "zh": "自殘",
+          "sample": "Schools are being trained to recognise early warning signs of self-harm among students."
         },
         {
-          "phrase": "algorithmic accountability",
-          "zh": "演算法問責",
-          "sample": "Lawmakers are pressing for stronger algorithmic accountability before AI is deployed in courts."
+          "phrase": "examination-oriented culture",
+          "zh": "以考試為導向的文化",
+          "sample": "Hong Kong's examination-oriented culture is often blamed for excessive student stress."
         },
         {
-          "phrase": "digital literacy",
-          "zh": "數碼素養",
-          "sample": "Digital literacy is now considered an essential life skill for students entering the workforce."
+          "phrase": "academic pressure",
+          "zh": "學業壓力",
+          "sample": "Academic pressure intensifies noticeably as students approach public examinations."
         },
         {
-          "phrase": "labour market",
-          "zh": "勞動市場",
-          "sample": "Automation is expected to reshape the labour market over the next decade."
+          "phrase": "Band One school",
+          "zh": "第一組別學校",
+          "sample": "Competition to enter a Band One school can place enormous strain on primary pupils."
         },
         {
-          "phrase": "automation",
-          "zh": "自動化",
-          "sample": "Automation has reduced the need for manual data entry in many industries."
+          "phrase": "at-risk student",
+          "zh": "高危學生",
+          "sample": "Teachers are encouraged to refer at-risk students to counsellors as early as possible."
         },
         {
-          "phrase": "misinformation",
-          "zh": "失實資訊",
-          "sample": "The spread of misinformation online remains a pressing concern for regulators."
+          "phrase": "counselling service",
+          "zh": "輔導服務",
+          "sample": "Every secondary school in Hong Kong now provides on-site counselling services."
         },
         {
-          "phrase": "commercial application",
-          "zh": "商業應用",
-          "sample": "Researchers are exploring the commercial application of their latest AI models."
+          "phrase": "peer pressure",
+          "zh": "同儕壓力",
+          "sample": "Peer pressure to achieve top grades can be just as damaging as pressure from parents."
         },
         {
-          "phrase": "employability",
-          "zh": "就業能力",
-          "sample": "Employers increasingly value employability skills such as adaptability and critical thinking."
+          "phrase": "emotional resilience",
+          "zh": "情緒抗逆力",
+          "sample": "Building emotional resilience from a young age helps students cope with setbacks."
         },
         {
-          "phrase": "deepfake",
-          "zh": "深偽技術",
-          "sample": "New legislation aims to criminalise the malicious use of deepfake technology."
+          "phrase": "suicide prevention",
+          "zh": "自殺預防",
+          "sample": "Suicide prevention hotlines have seen a marked rise in calls from teenagers."
         },
         {
-          "phrase": "regulatory oversight",
-          "zh": "監管監督",
-          "sample": "Stronger regulatory oversight is needed to keep pace with rapid technological change."
+          "phrase": "emotional well-being",
+          "zh": "情緒健康",
+          "sample": "Schools are being urged to prioritise emotional well-being alongside academic results."
         },
         {
-          "phrase": "domestic expenditure",
-          "zh": "本地開支",
-          "sample": "Domestic expenditure on research and development has risen steadily in recent years."
+          "phrase": "support mechanism",
+          "zh": "支援機制",
+          "sample": "A robust support mechanism can identify struggling students before a crisis develops."
         }
       ],
       "phrases": [
         {
           "en": "It is widely argued that",
           "zh": "普遍認為",
-          "sample": "It is widely argued that artificial intelligence will transform the way students learn."
+          "sample": "It is widely argued that excessive homework contributes to student burnout."
         },
         {
-          "en": "play a pivotal role in",
-          "zh": "在……中擔當關鍵角色",
-          "sample": "Government subsidies play a pivotal role in supporting local start-ups."
+          "en": "Critics contend that",
+          "zh": "批評者認為",
+          "sample": "Critics contend that the current curriculum leaves little room for creativity."
         },
         {
-          "en": "by the same token",
-          "zh": "同樣道理",
-          "sample": "By the same token, stricter regulation could also stifle innovation if applied carelessly."
-        },
-        {
-          "en": "critics contend that",
-          "zh": "評論者認為",
-          "sample": "Critics contend that the pace of AI adoption has outstripped public understanding of its risks."
-        },
-        {
-          "en": "nevertheless",
+          "en": "Nevertheless,",
           "zh": "然而",
-          "sample": "Nevertheless, officials insist that safety will not be sacrificed for speed."
+          "sample": "Nevertheless, some schools have made genuine progress in reducing exam pressure."
         },
         {
-          "en": "underpinned by",
-          "zh": "以……為基礎",
-          "sample": "The strategy is underpinned by significant investment in research infrastructure."
+          "en": "By the same token,",
+          "zh": "同樣地",
+          "sample": "By the same token, parents also need guidance on supporting their children's mental health."
         },
         {
-          "en": "hinges on",
-          "zh": "取決於",
-          "sample": "The success of the plan hinges on close collaboration between government and industry."
+          "en": "Even so,",
+          "zh": "即使如此",
+          "sample": "Even so, many students remain reluctant to seek professional help."
         },
         {
-          "en": "outpace",
-          "zh": "超越……的速度",
-          "sample": "Technological change often threatens to outpace the laws designed to govern it."
+          "en": "This is not to say that",
+          "zh": "這並不是說",
+          "sample": "This is not to say that academic standards should be lowered altogether."
         },
         {
-          "en": "rendered obsolete",
-          "zh": "變得過時",
-          "sample": "Some clerical roles may be rendered obsolete as automation becomes more widespread."
+          "en": "A case in point is",
+          "zh": "一個典型的例子是",
+          "sample": "A case in point is the rising number of students seeking counselling after examinations."
         },
         {
-          "en": "embedded in",
-          "zh": "融入",
-          "sample": "AI tools are becoming deeply embedded in everyday administrative tasks."
+          "en": "It goes without saying that",
+          "zh": "不言而喻",
+          "sample": "It goes without saying that early intervention saves lives."
         },
         {
-          "en": "reshaped considerably",
-          "zh": "大幅重塑",
-          "sample": "The job market has been reshaped considerably by the rise of remote work."
+          "en": "In light of this,",
+          "zh": "有鑑於此",
+          "sample": "In light of this, the government has pledged additional funding for school counsellors."
         },
         {
-          "en": "prerequisite for",
-          "zh": "……的先決條件",
-          "sample": "A basic grasp of coding is fast becoming a prerequisite for many entry-level jobs."
+          "en": "More importantly,",
+          "zh": "更重要的是",
+          "sample": "More importantly, students themselves must feel comfortable asking for help."
         },
         {
-          "en": "table a proposal",
-          "zh": "提出議案",
-          "sample": "The bureau plans to table a proposal on AI governance next year."
+          "en": "As a result,",
+          "zh": "因此",
+          "sample": "As a result, several schools have introduced mandatory wellness lessons."
         },
         {
-          "en": "the message is unambiguous",
-          "zh": "訊息非常明確",
-          "sample": "The message is unambiguous: schools must adapt their curricula to keep pace with technology."
+          "en": "It is imperative that",
+          "zh": "必須",
+          "sample": "It is imperative that schools treat mental health with the same seriousness as academic performance."
+        },
+        {
+          "en": "Equally worrying is the fact that",
+          "zh": "同樣令人擔憂的是",
+          "sample": "Equally worrying is the fact that many warning signs go unreported."
+        },
+        {
+          "en": "Some may argue that",
+          "zh": "有人可能會認為",
+          "sample": "Some may argue that reducing homework alone will not solve the underlying problem."
+        },
+        {
+          "en": "Therefore,",
+          "zh": "因此",
+          "sample": "Therefore, a whole-school approach to mental health is widely recommended."
         }
       ]
     },
     {
-      "source_name": "RTHK",
-      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1870570-20260918.htm",
-      "published_date": "18 September 2026",
-      "headline": "Education Chief Unveils School Merger Scheme Amid Falling Enrolment",
-      "category": "school",
-      "summary_html": "<p>Secretary for Education Christine Choi announced on 18 September that a new scheme encouraging publicly funded primary and secondary schools to merge would be launched as early as the 2027/28 academic year. It is widely acknowledged that Hong Kong's <span class=\"bw\">declining birth rate<span class=\"tip\"><span class=\"tip-en\">the ongoing fall in the number of babies born each year</span><span class=\"tip-zh\">出生率下降</span></span></span> has placed considerable strain on smaller schools, with more than 120 aided and government primary schools having already <span class=\"bw\">trimmed the number of<span class=\"tip\"><span class=\"tip-en\">reduced the quantity of</span><span class=\"tip-zh\">削減……的數目</span></span></span> Primary One classes they offer. The scheme is intended to <span class=\"bw\">consolidate resources<span class=\"tip\"><span class=\"tip-en\">combine and streamline resources for greater efficiency</span><span class=\"tip-zh\">整合資源</span></span></span> rather than force outright closures, allowing schools facing dwindling enrolment to pool staff, facilities and funding.</p>\n<p>Nevertheless, the proposal has <span class=\"bw\">proven contentious<span class=\"tip\"><span class=\"tip-en\">turned out to be a source of dispute or disagreement</span><span class=\"tip-zh\">引起爭議</span></span></span> among educators and parents alike. Critics contend that mergers risk <span class=\"bw\">eroding the distinct character<span class=\"tip\"><span class=\"tip-en\">gradually wearing away the unique identity</span><span class=\"tip-zh\">侵蝕獨特特色</span></span></span> and community ties that many long-established schools have cultivated over decades. Some school sponsoring bodies have voiced concern that consolidation could be imposed too hastily, without <span class=\"bw\">adequate consultation<span class=\"tip\"><span class=\"tip-en\">sufficient discussion with relevant stakeholders beforehand</span><span class=\"tip-zh\">充分諮詢</span></span></span> with staff and parents who fear job losses or disruption to students' learning environments. By the same token, supporters argue that maintaining chronically under-enrolled schools is <span class=\"bw\">unsustainable<span class=\"tip\"><span class=\"tip-en\">unable to be maintained at the current level over the long term</span><span class=\"tip-zh\">不可持續的</span></span></span> and ultimately <span class=\"bw\">does students a disservice<span class=\"tip\"><span class=\"tip-en\">causes harm despite good intentions</span><span class=\"tip-zh\">對學生造成損害</span></span></span>, as limited resources make it difficult to offer a broad curriculum.</p>\n<p>For students themselves, the implications are considerable. A merger could mean a change of campus, new classmates, and an <span class=\"bw\">adjustment period<span class=\"tip\"><span class=\"tip-en\">a span of time needed to become accustomed to new circumstances</span><span class=\"tip-zh\">適應期</span></span></span> that some worry may affect academic performance and emotional wellbeing. Education Bureau officials have stressed that further details, including eligibility criteria and <span class=\"bw\">transitional support<span class=\"tip\"><span class=\"tip-en\">assistance provided during a period of change</span><span class=\"tip-zh\">過渡支援</span></span></span>, will be announced in due course, and that affected schools will be given sufficient lead time to prepare.</p>",
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/health-environment/article/3367323/39-pupils-and-staff-fall-ill-after-eating-school-lunches-sha-tin",
+      "published_date": "12 September 2026",
+      "headline": "Food Poisoning Cluster Sickens 39 at Sha Tin Primary School, Prompting Scrutiny of Lunch Suppliers",
+      "category": "health",
+      "summary_html": "<p>An investigation is under way after 39 pupils and staff at a Sha Tin primary school fell ill following a school lunch, in what health officials describe as a suspected <span class=\"bw\">food poisoning cluster<span class=\"tip\"><span class=\"tip-en\">a group of illness cases traced to a common contaminated source</span><span class=\"tip-zh\">食物中毒羣組</span></span></span>. The affected group, comprising 37 pupils aged five to eleven and two staff members, had eaten a catered midday meal of soy-braised chicken drumsticks and long pasta at Baptist (Sha Tin Wai) Lui Ming Choi Primary School on 9 September before developing <span class=\"bw\">abdominal pain<span class=\"tip\"><span class=\"tip-en\">pain or discomfort in the stomach area</span><span class=\"tip-zh\">腹痛</span></span></span> and diarrhoea between eight and twenty-two hours later.</p><p>According to the Centre for Health Protection, two of the affected pupils sought medical attention but did not require <span class=\"bw\">hospital admission<span class=\"tip\"><span class=\"tip-en\">being formally admitted to hospital for treatment</span><span class=\"tip-zh\">住院</span></span></span> and have since remained in stable condition, while the remaining cases presented only mild symptoms. It is widely argued that <span class=\"bw\">classroom-based lunch portioning<span class=\"tip\"><span class=\"tip-en\">the practice of dividing and serving catered meals inside individual classrooms rather than a central kitchen</span><span class=\"tip-zh\">課室分餐模式</span></span></span>, in which catered food is divided among pupils inside the classroom rather than under closer kitchen supervision, may heighten the risk of <span class=\"bw\">cross-contamination<span class=\"tip\"><span class=\"tip-en\">the transfer of harmful bacteria from one food item or surface to another</span><span class=\"tip-zh\">交叉污染</span></span></span> once meals leave the supplier's premises.</p><p>Danny Catering Service, the school's lunch supplier, described the outbreak as an <span class=\"bw\">isolated incident<span class=\"tip\"><span class=\"tip-en\">an event that occurred on its own, without being part of a wider or recurring pattern</span><span class=\"tip-zh\">單一事件</span></span></span> and has since announced it will discontinue the classroom portioning arrangement at the affected school. Nevertheless, the episode has reignited debate over whether Hong Kong's school lunch suppliers are subject to sufficiently <span class=\"bw\">rigorous food safety standards<span class=\"tip\"><span class=\"tip-en\">strict rules and procedures designed to prevent contamination and illness</span><span class=\"tip-zh\">嚴格的食物安全標準</span></span></span>. Parent groups have called on the Education Bureau to conduct unannounced inspections of catering contractors, arguing that public confidence in school meal safety cannot rest on suppliers' assurances alone.</p>",
       "vocab": [
         {
-          "phrase": "declining birth rate",
-          "zh": "出生率下降",
-          "sample": "Hong Kong's declining birth rate has led to smaller class sizes across the city."
+          "phrase": "food poisoning cluster",
+          "zh": "食物中毒羣組",
+          "sample": "Health officials moved quickly to trace the source of the food poisoning cluster."
         },
         {
-          "phrase": "school sponsoring body",
-          "zh": "辦學團體",
-          "sample": "The school sponsoring body will be consulted before any merger proposal proceeds."
+          "phrase": "abdominal pain",
+          "zh": "腹痛",
+          "sample": "Several pupils complained of abdominal pain shortly after lunch."
         },
         {
-          "phrase": "consolidation",
-          "zh": "整合",
-          "sample": "Consolidation of resources may help under-enrolled schools remain financially viable."
+          "phrase": "hospital admission",
+          "zh": "住院",
+          "sample": "Fortunately, none of the affected pupils required hospital admission."
         },
         {
-          "phrase": "enrolment",
-          "zh": "收生人數",
-          "sample": "Enrolment at several primary schools has dropped sharply in the past five years."
+          "phrase": "cross-contamination",
+          "zh": "交叉污染",
+          "sample": "Proper food handling reduces the risk of cross-contamination in catering kitchens."
         },
         {
-          "phrase": "curriculum",
-          "zh": "課程",
-          "sample": "A broader curriculum is easier to sustain in a larger, well-resourced school."
+          "phrase": "isolated incident",
+          "zh": "單一事件",
+          "sample": "The supplier insisted the outbreak was an isolated incident rather than a systemic failure."
         },
         {
-          "phrase": "extracurricular provision",
-          "zh": "課外活動安排",
-          "sample": "Extracurricular provision often suffers first when a school's budget is tight."
+          "phrase": "food safety standards",
+          "zh": "食物安全標準",
+          "sample": "Stricter food safety standards could prevent similar outbreaks in future."
         },
         {
-          "phrase": "transitional support",
-          "zh": "過渡支援",
-          "sample": "Transitional support will be offered to students affected by the merger scheme."
+          "phrase": "catering contractor",
+          "zh": "膳食承辦商",
+          "sample": "The Education Bureau is reviewing its list of approved catering contractors."
         },
         {
-          "phrase": "sustainability",
-          "zh": "可持續性",
-          "sample": "Officials questioned the long-term sustainability of running severely under-enrolled schools."
+          "phrase": "public confidence",
+          "zh": "公眾信心",
+          "sample": "Restoring public confidence will require transparent reporting from suppliers."
         },
         {
-          "phrase": "staffing",
-          "zh": "人手編制",
-          "sample": "Staffing levels will need to be reviewed carefully during any merger process."
+          "phrase": "unannounced inspection",
+          "zh": "突擊檢查",
+          "sample": "Parent groups are demanding unannounced inspections of school kitchens."
         },
         {
-          "phrase": "eligibility criteria",
-          "zh": "資格準則",
-          "sample": "The eligibility criteria for the merger scheme have not yet been finalised."
+          "phrase": "outbreak investigation",
+          "zh": "爆發調查",
+          "sample": "The outbreak investigation focused on the preparation of the chicken dish."
         },
         {
-          "phrase": "wellbeing",
-          "zh": "身心健康",
-          "sample": "Teachers are being urged to monitor students' wellbeing during the transition."
+          "phrase": "stringent hygiene protocol",
+          "zh": "嚴格衞生規範",
+          "sample": "Caterers are required to follow a stringent hygiene protocol when preparing meals."
         },
         {
-          "phrase": "campus",
-          "zh": "校園",
-          "sample": "Students may need to adjust to an unfamiliar campus following a merger."
+          "phrase": "supply chain oversight",
+          "zh": "供應鏈監管",
+          "sample": "Better supply chain oversight could catch contamination before food reaches schools."
         }
       ],
       "phrases": [
         {
-          "en": "it is widely acknowledged that",
-          "zh": "普遍承認",
-          "sample": "It is widely acknowledged that smaller schools face growing financial pressure."
-        },
-        {
-          "en": "nevertheless",
-          "zh": "然而",
-          "sample": "Nevertheless, many parents remain unconvinced that mergers serve students' best interests."
-        },
-        {
-          "en": "critics contend that",
-          "zh": "評論者認為",
-          "sample": "Critics contend that the scheme was announced without sufficient public consultation."
-        },
-        {
-          "en": "by the same token",
-          "zh": "同樣道理",
-          "sample": "By the same token, keeping every small school open indefinitely is not realistic either."
-        },
-        {
-          "en": "voice concern that",
-          "zh": "表達對……的憂慮",
-          "sample": "Parent groups have voiced concern that the timeline for the scheme is too rushed."
-        },
-        {
-          "en": "do a disservice to",
-          "zh": "對……造成損害",
-          "sample": "Underfunding rural schools may ultimately do a disservice to their students."
-        },
-        {
-          "en": "in due course",
-          "zh": "適時",
-          "sample": "Further guidelines will be published in due course, the bureau said."
-        },
-        {
-          "en": "place a strain on",
-          "zh": "對……造成壓力",
-          "sample": "Falling enrolment has placed a strain on many schools' operating budgets."
-        },
-        {
-          "en": "pool resources",
-          "zh": "集中資源",
-          "sample": "Merging allows neighbouring schools to pool resources more effectively."
-        },
-        {
-          "en": "proven contentious",
-          "zh": "引起爭議",
-          "sample": "The proposal has proven contentious among teachers' unions."
-        },
-        {
-          "en": "ultimately",
-          "zh": "最終",
-          "sample": "Ultimately, the decision will rest with individual school sponsoring bodies."
-        },
-        {
-          "en": "with adequate consultation",
-          "zh": "經過充分諮詢",
-          "sample": "Any merger should only proceed with adequate consultation of all stakeholders."
-        },
-        {
-          "en": "erode",
-          "zh": "侵蝕",
-          "sample": "Some fear that mergers could erode the sense of community within smaller schools."
-        },
-        {
-          "en": "lead time",
-          "zh": "準備時間",
-          "sample": "Schools will be given adequate lead time to plan for the transition."
-        }
-      ]
-    },
-    {
-      "source_name": "Bloomberg",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/hong-kong-weighs-tougher-climate-finance-disclosures-for-banks",
-      "published_date": "21 September 2026",
-      "headline": "Hong Kong Weighs Tougher Climate Finance Disclosures for Banks",
-      "category": "env",
-      "summary_html": "<p>Hong Kong's financial regulator is exploring new rules that would require banks to disclose more information about how they fund <span class=\"bw\">climate-related projects<span class=\"tip\"><span class=\"tip-en\">initiatives connected to mitigating or adapting to climate change</span><span class=\"tip-zh\">氣候相關項目</span></span></span>, according to a report published on 21 September. It is widely argued that greater transparency is essential if the city's sustainable finance ambitions are to be taken seriously by international investors. The Hong Kong Monetary Authority plans to conduct a territory-wide survey next year examining how lenders are applying the existing <span class=\"bw\">sustainable finance taxonomy<span class=\"tip\"><span class=\"tip-en\">an official classification system distinguishing genuinely green investments from others</span><span class=\"tip-zh\">可持續金融分類法</span></span></span>.</p>\n<p>The move comes amid growing scrutiny of so-called <span class=\"bw\">greenwashing<span class=\"tip\"><span class=\"tip-en\">the practice of overstating or falsely claiming the environmental benefits of an activity</span><span class=\"tip-zh\">漂綠</span></span></span>, whereby financial institutions overstate the environmental benefits of the projects they fund. Nevertheless, banking industry representatives have cautioned that overly stringent disclosure requirements could increase <span class=\"bw\">compliance costs<span class=\"tip\"><span class=\"tip-en\">the expenses incurred in meeting regulatory requirements</span><span class=\"tip-zh\">合規成本</span></span></span> and discourage smaller lenders from participating in the green finance market altogether. By the same token, environmental groups maintain that without <span class=\"bw\">mandatory and standardised reporting<span class=\"tip\"><span class=\"tip-en\">compulsory reporting that follows a uniform, consistent format</span><span class=\"tip-zh\">強制性及標準化匯報</span></span></span>, it remains difficult to hold institutions accountable for their claims, <span class=\"bw\">undermining public confidence<span class=\"tip\"><span class=\"tip-en\">weakening the trust the public places in an institution or system</span><span class=\"tip-zh\">削弱公眾信心</span></span></span> in the sector as a whole.</p>\n<p>The initiative forms part of a broader effort to position Hong Kong as a hub for climate finance in the Asia-Pacific region, complementing measures such as the Monetary Authority's ongoing consultation on <span class=\"bw\">decarbonisation strategies<span class=\"tip\"><span class=\"tip-en\">plans aimed at reducing carbon emissions across an economy or sector</span><span class=\"tip-zh\">去碳化策略</span></span></span> for the banking sector. Given that climate change poses mounting risks to the financial system, officials argue that closer scrutiny of how capital is allocated is no longer a peripheral concern but a central pillar of long-term <span class=\"bw\">economic resilience<span class=\"tip\"><span class=\"tip-en\">the capacity of an economy to withstand and recover from shocks</span><span class=\"tip-zh\">經濟韌性</span></span></span>.</p>",
-      "vocab": [
-        {
-          "phrase": "climate finance",
-          "zh": "氣候金融",
-          "sample": "Climate finance refers to funding directed towards projects that address climate change."
-        },
-        {
-          "phrase": "disclosure",
-          "zh": "披露",
-          "sample": "Banks may soon face stricter disclosure requirements on their green lending."
-        },
-        {
-          "phrase": "sustainable finance taxonomy",
-          "zh": "可持續金融分類法",
-          "sample": "The sustainable finance taxonomy helps investors identify genuinely green projects."
-        },
-        {
-          "phrase": "greenwashing",
-          "zh": "漂綠",
-          "sample": "Regulators are cracking down on greenwashing across the financial sector."
-        },
-        {
-          "phrase": "compliance cost",
-          "zh": "合規成本",
-          "sample": "Smaller banks worry that rising compliance costs could squeeze their margins."
-        },
-        {
-          "phrase": "decarbonisation",
-          "zh": "去碳化",
-          "sample": "Decarbonisation of the banking sector is a key pillar of the city's climate strategy."
-        },
-        {
-          "phrase": "transition risk",
-          "zh": "轉型風險",
-          "sample": "Transition risk refers to the financial impact of shifting to a low-carbon economy."
-        },
-        {
-          "phrase": "accountability",
-          "zh": "問責性",
-          "sample": "Standardised reporting improves accountability across the financial industry."
-        },
-        {
-          "phrase": "regulator",
-          "zh": "監管機構",
-          "sample": "The regulator is consulting industry stakeholders before finalising the new rules."
-        },
-        {
-          "phrase": "investor confidence",
-          "zh": "投資者信心",
-          "sample": "Clearer disclosure rules are expected to boost investor confidence in green bonds."
-        },
-        {
-          "phrase": "standardised reporting",
-          "zh": "標準化匯報",
-          "sample": "Standardised reporting makes it easier to compare banks' climate commitments."
-        },
-        {
-          "phrase": "economic resilience",
-          "zh": "經濟韌性",
-          "sample": "Building economic resilience against climate shocks is now a policy priority."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "it is widely argued that",
+          "en": "It is widely argued that",
           "zh": "普遍認為",
-          "sample": "It is widely argued that transparency is the foundation of investor trust."
+          "sample": "It is widely argued that stricter regulation would prevent repeat incidents."
         },
         {
-          "en": "amid growing scrutiny of",
-          "zh": "在……日益受關注之際",
-          "sample": "Amid growing scrutiny of corporate climate claims, regulators are tightening the rules."
+          "en": "According to",
+          "zh": "根據",
+          "sample": "According to health officials, the symptoms typically resolved within a day."
         },
         {
-          "en": "nevertheless",
+          "en": "Nevertheless,",
           "zh": "然而",
-          "sample": "Nevertheless, some banks argue the new requirements are overly burdensome."
+          "sample": "Nevertheless, questions remain over how the contamination occurred."
         },
         {
-          "en": "by the same token",
-          "zh": "同樣道理",
-          "sample": "By the same token, weak enforcement would render the new rules meaningless."
+          "en": "As a result,",
+          "zh": "因此",
+          "sample": "As a result, the school has suspended classroom lunch portioning altogether."
         },
         {
-          "en": "maintain that",
-          "zh": "堅稱",
-          "sample": "Environmental groups maintain that voluntary disclosure has proven insufficient."
+          "en": "In light of this,",
+          "zh": "有鑑於此",
+          "sample": "In light of this, parents are calling for greater transparency from caterers."
         },
         {
-          "en": "hold accountable for",
-          "zh": "追究……的責任",
-          "sample": "Regulators want to hold banks accountable for their environmental claims."
+          "en": "It is imperative that",
+          "zh": "必須",
+          "sample": "It is imperative that suppliers adhere to strict food safety standards."
         },
         {
-          "en": "no longer a peripheral concern",
-          "zh": "不再是次要問題",
-          "sample": "Climate risk is no longer a peripheral concern for financial regulators."
+          "en": "This raises the question of whether",
+          "zh": "這引起了一個問題，即",
+          "sample": "This raises the question of whether current inspection regimes are adequate."
         },
         {
-          "en": "form part of a broader effort",
-          "zh": "是更廣泛工作的一部分",
-          "sample": "The survey forms part of a broader effort to strengthen green finance oversight."
+          "en": "Equally concerning is the fact that",
+          "zh": "同樣令人關注的是",
+          "sample": "Equally concerning is the fact that similar clusters have occurred before."
         },
         {
-          "en": "given that",
-          "zh": "鑑於",
-          "sample": "Given that climate risks are systemic, coordinated regulation is essential."
+          "en": "By the same token,",
+          "zh": "同樣地",
+          "sample": "By the same token, schools must also take responsibility for monitoring suppliers."
         },
         {
-          "en": "discourage from",
-          "zh": "阻礙……",
-          "sample": "High compliance costs could discourage smaller lenders from entering the market."
+          "en": "It goes without saying that",
+          "zh": "不言而喻",
+          "sample": "It goes without saying that children's health must take priority over cost savings."
         },
         {
-          "en": "complement",
-          "zh": "輔以",
-          "sample": "The new disclosure rules will complement existing sustainability guidelines."
+          "en": "More importantly,",
+          "zh": "更重要的是",
+          "sample": "More importantly, affected families deserve a clear explanation of what went wrong."
         },
         {
-          "en": "central pillar of",
-          "zh": "……的核心支柱",
-          "sample": "Green finance is fast becoming a central pillar of Hong Kong's economic strategy."
+          "en": "Some may argue that",
+          "zh": "有人可能會認為",
+          "sample": "Some may argue that isolated incidents do not warrant sweeping policy change."
         },
         {
-          "en": "pose mounting risks",
-          "zh": "帶來日增的風險",
-          "sample": "Climate change continues to pose mounting risks to global financial stability."
-        },
-        {
-          "en": "territory-wide",
-          "zh": "全港性的",
-          "sample": "A territory-wide survey will assess how banks apply the new taxonomy."
+          "en": "Therefore,",
+          "zh": "因此",
+          "sample": "Therefore, the Education Bureau has pledged to review catering guidelines."
         }
       ]
     },
     {
       "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/340530/Mid-Autumn-Lantern-Carnival-to-light-up-Victoria-Park-in-Sep",
-      "published_date": "17 September 2026",
-      "headline": "Victoria Park Lights Up for Hong Kong's First International Lantern Spectacular",
-      "category": "hk",
-      "summary_html": "<p>Victoria Park has been transformed into a dazzling showcase of <span class=\"bw\">lantern craftsmanship<span class=\"tip\"><span class=\"tip-en\">the skilled art of designing and making decorative lanterns</span><span class=\"tip-zh\">花燈工藝</span></span></span> this Mid-Autumn Festival, as the Hong Kong Tourism Board stages its <span class=\"bw\">inaugural International Lantern Spectacular<span class=\"tip\"><span class=\"tip-en\">the first-ever event of its kind</span><span class=\"tip-zh\">首屆國際花燈盛會</span></span></span>. Running from 17 to 27 September under the theme of \"Reunion\", the free exhibition brings together more than 3,000 lanterns from 20 countries and regions, ranging from delicate silk creations from South Korea to vibrant patchwork designs from Brazil. It is widely regarded as one of the most ambitious cultural undertakings the Tourism Board has attempted in recent years.</p>\n<p>The centrepiece of the display features four giant Qinhuai lanterns crafted by artisans from Nanjing using a technique dating back some 1,700 years. Nevertheless, local heritage has not been overshadowed by international contributions: hundreds of lanterns handcrafted by Hong Kong artisans pay tribute to beloved local delicacies, with playful designs incorporating egg waffles, milk tea and curry fishballs. By the same token, the festivities extend beyond Victoria Park, with the centuries-old Tai Hang Fire Dragon Dance, now inscribed on the national list of <span class=\"bw\">intangible cultural heritage<span class=\"tip\"><span class=\"tip-en\">cultural practices and traditions, as opposed to physical artefacts, recognised as worth preserving</span><span class=\"tip-zh\">非物質文化遺產</span></span></span>, due to wind through the streets from 24 to 26 September.</p>\n<p>Cultural commentators contend that such large-scale celebrations <span class=\"bw\">play a pivotal role in<span class=\"tip\"><span class=\"tip-en\">are a crucial, central factor in</span><span class=\"tip-zh\">擔當關鍵角色</span></span></span> reinforcing a sense of <span class=\"bw\">collective identity<span class=\"tip\"><span class=\"tip-en\">a shared sense of belonging to a community or culture</span><span class=\"tip-zh\">集體身份認同</span></span></span>, particularly among younger residents who may otherwise engage with <span class=\"bw\">time-honoured customs<span class=\"tip\"><span class=\"tip-en\">traditions that have been respected and followed for a very long time</span><span class=\"tip-zh\">歷久不衰的習俗</span></span></span> only superficially. By blending tradition with a contemporary, <span class=\"bw\">highly shareable<span class=\"tip\"><span class=\"tip-en\">easily and widely spread on social media</span><span class=\"tip-zh\">極易於分享的</span></span></span> visual spectacle, organisers hope to rekindle enthusiasm for heritage practices that might otherwise risk <span class=\"bw\">fading from public consciousness<span class=\"tip\"><span class=\"tip-en\">gradually being forgotten by the general public</span><span class=\"tip-zh\">從公眾意識中消失</span></span></span>.</p>",
+      "source_url": "https://www.thestandard.com.hk/finance/article/343363/Foreign-firms-in-HK-to-get-equal-mainland-access-under-third-CEPA-revision-Yau",
+      "published_date": "21 September 2026",
+      "headline": "Hong Kong to Grant Foreign Firms Equal Mainland Market Access Under Third CEPA Revision",
+      "category": "global",
+      "summary_html": "<p>Hong Kong is set to <span class=\"bw\">overhaul its free trade arrangement<span class=\"tip\"><span class=\"tip-en\">make major structural changes to an existing trade agreement</span><span class=\"tip-zh\">全面革新自由貿易安排</span></span></span> with the mainland for a third time, in a move authorities say will make the city more attractive to international investors. Commerce Secretary Algernon Yau announced that under the third revision to the Closer Economic Partnership Arrangement, or CEPA, foreign companies manufacturing goods in Hong Kong will be granted <span class=\"bw\">preferential mainland market access<span class=\"tip\"><span class=\"tip-en\">special, more favourable conditions for entering and trading in the mainland Chinese market</span><span class=\"tip-zh\">優惠的內地市場准入</span></span></span> on equal terms with local Hong Kong firms.</p><p>Under the proposed amendment, foreign-invested manufacturers will be eligible for <span class=\"bw\">zero-tariff entry<span class=\"tip\"><span class=\"tip-en\">the ability to import goods without paying any customs duty</span><span class=\"tip-zh\">零關稅准入</span></span></span> into the mainland, provided their products meet the criteria for \"Made in Hong Kong\" origin. It is widely argued that this represents a significant departure from previous rounds of CEPA, which had largely reserved such benefits for companies with substantial local Hong Kong ownership. Critics of the <span class=\"bw\">status quo<span class=\"tip\"><span class=\"tip-en\">the existing state of affairs before a change is introduced</span><span class=\"tip-zh\">現狀</span></span></span> had long complained that international firms based in the city faced an uneven playing field compared with mainland-linked competitors.</p><p>By the same token, the revision forms part of a broader commitment outlined in Hong Kong's first <span class=\"bw\">Five-Year Plan<span class=\"tip\"><span class=\"tip-en\">a government document setting out development goals and policy direction over a five-year period</span><span class=\"tip-zh\">五年規劃</span></span></span>, which pledged to pursue a comprehensive upgrade of CEPA and deepen cooperation with mainland service sectors. Analysts suggest that by lowering barriers for <span class=\"bw\">foreign direct investment<span class=\"tip\"><span class=\"tip-en\">money invested by an overseas company or individual into productive assets within another economy</span><span class=\"tip-zh\">外商直接投資</span></span></span>, Hong Kong hopes to reinforce its position as a gateway connecting international capital with the vast mainland consumer market, at a time when the city faces intensifying competition from rival <span class=\"bw\">regional trading hubs<span class=\"tip\"><span class=\"tip-en\">other cities or economies competing to serve as centres of international trade</span><span class=\"tip-zh\">區域貿易樞紐</span></span></span> such as Singapore and Shenzhen.</p>",
       "vocab": [
         {
-          "phrase": "lantern craftsmanship",
-          "zh": "花燈工藝",
-          "sample": "Visitors admired the intricate lantern craftsmanship on display at Victoria Park."
+          "phrase": "free trade arrangement",
+          "zh": "自由貿易安排",
+          "sample": "The free trade arrangement is designed to reduce barriers between the two economies."
         },
         {
-          "phrase": "intangible cultural heritage",
-          "zh": "非物質文化遺產",
-          "sample": "The Tai Hang Fire Dragon Dance is listed as intangible cultural heritage."
+          "phrase": "preferential market access",
+          "zh": "優惠市場准入",
+          "sample": "Preferential market access gives local firms a considerable competitive advantage."
         },
         {
-          "phrase": "heritage practice",
-          "zh": "傳統習俗",
-          "sample": "Younger generations are being encouraged to take part in heritage practices."
+          "phrase": "zero-tariff entry",
+          "zh": "零關稅准入",
+          "sample": "Zero-tariff entry significantly lowers the cost of exporting goods to the mainland."
         },
         {
-          "phrase": "collective identity",
-          "zh": "集體身份認同",
-          "sample": "Festivals like this help strengthen a sense of collective identity among residents."
+          "phrase": "foreign direct investment",
+          "zh": "外商直接投資",
+          "sample": "Foreign direct investment remains a key driver of Hong Kong's economic growth."
         },
         {
-          "phrase": "artisan",
-          "zh": "工匠",
-          "sample": "Local artisans spent months preparing the handcrafted lantern displays."
+          "phrase": "trading hub",
+          "zh": "貿易樞紐",
+          "sample": "Hong Kong has long positioned itself as Asia's premier trading hub."
         },
         {
-          "phrase": "time-honoured custom",
-          "zh": "歷久不衰的習俗",
-          "sample": "The Mid-Autumn Festival remains one of Hong Kong's most time-honoured customs."
+          "phrase": "regulatory framework",
+          "zh": "監管框架",
+          "sample": "A clear regulatory framework reassures investors considering entry into a new market."
         },
         {
-          "phrase": "cultural undertaking",
-          "zh": "文化盛事",
-          "sample": "This is one of the most ambitious cultural undertakings staged in recent years."
+          "phrase": "economic integration",
+          "zh": "經濟融合",
+          "sample": "Deeper economic integration with the mainland is central to Hong Kong's growth strategy."
         },
         {
-          "phrase": "commemorate",
-          "zh": "紀念",
-          "sample": "The festival commemorates themes of reunion and togetherness."
+          "phrase": "competitive advantage",
+          "zh": "競爭優勢",
+          "sample": "Streamlined customs procedures give exporters a clear competitive advantage."
         },
         {
-          "phrase": "festivity",
-          "zh": "節慶活動",
-          "sample": "The festivities will continue across the city throughout the week."
+          "phrase": "market liberalisation",
+          "zh": "市場自由化",
+          "sample": "Market liberalisation has attracted a wave of new foreign enterprises to the city."
         },
         {
-          "phrase": "shareable",
-          "zh": "可分享的",
-          "sample": "The lantern displays were designed to be highly shareable on social media."
+          "phrase": "cross-border trade",
+          "zh": "跨境貿易",
+          "sample": "Cross-border trade between Hong Kong and the mainland continues to expand steadily."
         },
         {
-          "phrase": "reunion",
-          "zh": "團圓",
-          "sample": "Reunion is a central theme of the Mid-Autumn Festival in Chinese culture."
+          "phrase": "gateway economy",
+          "zh": "門戶經濟",
+          "sample": "Hong Kong markets itself as a gateway economy linking global capital to China."
         },
         {
-          "phrase": "public consciousness",
-          "zh": "公眾意識",
-          "sample": "Organisers hope to keep traditional crafts alive in public consciousness."
+          "phrase": "policy upgrade",
+          "zh": "政策升級",
+          "sample": "The proposed policy upgrade aims to keep Hong Kong competitive with regional rivals."
         }
       ],
       "phrases": [
         {
-          "en": "it is widely regarded as",
-          "zh": "普遍被視為",
-          "sample": "It is widely regarded as the most ambitious lantern display Hong Kong has ever staged."
+          "en": "It is widely argued that",
+          "zh": "普遍認為",
+          "sample": "It is widely argued that closer economic ties will benefit both economies."
         },
         {
-          "en": "nevertheless",
+          "en": "This represents a significant departure from",
+          "zh": "這與……有顯著不同",
+          "sample": "This represents a significant departure from the city's earlier, more cautious trade policy."
+        },
+        {
+          "en": "By the same token,",
+          "zh": "同樣地",
+          "sample": "By the same token, the reform is expected to boost investor confidence."
+        },
+        {
+          "en": "Critics of the status quo",
+          "zh": "現狀的批評者",
+          "sample": "Critics of the status quo argue that reform has been long overdue."
+        },
+        {
+          "en": "Analysts suggest that",
+          "zh": "分析人士認為",
+          "sample": "Analysts suggest that the policy will attract manufacturers seeking mainland access."
+        },
+        {
+          "en": "At a time when",
+          "zh": "在……的時候",
+          "sample": "At a time when regional competition is intensifying, such reforms carry real urgency."
+        },
+        {
+          "en": "It forms part of a broader commitment to",
+          "zh": "這是更廣泛承諾的一部分",
+          "sample": "It forms part of a broader commitment to deepen regional economic cooperation."
+        },
+        {
+          "en": "In doing so,",
+          "zh": "在此過程中",
+          "sample": "In doing so, the government hopes to reinforce Hong Kong's role as a financial gateway."
+        },
+        {
+          "en": "Nevertheless,",
           "zh": "然而",
-          "sample": "Nevertheless, organisers made sure local traditions remained at the heart of the event."
+          "sample": "Nevertheless, some sectors remain excluded from the latest round of liberalisation."
         },
         {
-          "en": "by the same token",
-          "zh": "同樣道理",
-          "sample": "By the same token, the Fire Dragon Dance draws crowds just as large every year."
+          "en": "It remains to be seen whether",
+          "zh": "尚待觀察是否",
+          "sample": "It remains to be seen whether the reform will meaningfully shift investment flows."
         },
         {
-          "en": "play a pivotal role in",
-          "zh": "在……中擔當關鍵角色",
-          "sample": "Cultural festivals play a pivotal role in passing traditions to younger generations."
+          "en": "More importantly,",
+          "zh": "更重要的是",
+          "sample": "More importantly, the change signals Hong Kong's continued openness to foreign capital."
         },
         {
-          "en": "pay tribute to",
-          "zh": "向……致敬",
-          "sample": "The lantern designs pay tribute to Hong Kong's beloved local snacks."
+          "en": "As a result,",
+          "zh": "因此",
+          "sample": "As a result, foreign manufacturers may reconsider basing operations in the city."
         },
         {
-          "en": "blend tradition with",
-          "zh": "將傳統與……結合",
-          "sample": "The event blends tradition with striking contemporary visual design."
+          "en": "Therefore,",
+          "zh": "因此",
+          "sample": "Therefore, the policy is being closely watched by international investors."
+        }
+      ]
+    },
+    {
+      "source_name": "Time",
+      "source_url": "https://time.com/article/2026/09/21/why-k-pop-took-off-when-c-pop-did-not/",
+      "published_date": "21 September 2026",
+      "headline": "Why K-pop Conquered Global Pop Culture While Cantopop and C-pop Lagged Behind",
+      "category": "pop",
+      "summary_html": "<p>As K-pop cements its status as a global, multibillion-dollar <span class=\"bw\">cultural export<span class=\"tip\"><span class=\"tip-en\">a form of entertainment or art that is successfully sold and popularised in other countries</span><span class=\"tip-zh\">文化輸出</span></span></span>, commentators have increasingly asked why neither Cantopop nor Mandopop has produced an act with the same <span class=\"bw\">global ubiquity<span class=\"tip\"><span class=\"tip-en\">the quality of being present or recognised almost everywhere</span><span class=\"tip-zh\">全球普及度</span></span></span> as groups such as Blackpink or Stray Kids. It is widely argued that South Korea's success rests on a highly systematised <span class=\"bw\">idol training system<span class=\"tip\"><span class=\"tip-en\">a structured, long-term programme used to develop performers before their public debut</span><span class=\"tip-zh\">偶像訓練制度</span></span></span>, paired with aggressive, coordinated marketing across international markets from its earliest stages.</p><p>Nevertheless, Hong Kong's own Cantopop scene has been undergoing a quiet but notable revival closer to home. Large-scale concerts injected an estimated HK$2.2 billion into the local economy between 2023 and 2024, while <span class=\"bw\">grassroots cultural events<span class=\"tip\"><span class=\"tip-en\">community-driven events organised informally rather than by major commercial institutions</span><span class=\"tip-zh\">草根文化活動</span></span></span> such as DJ nights have drawn crowds of thousands, with one collective progressing from small venues to supporting international acts at sold-out shows. More than a thousand new Cantopop tracks were released in 2025 alone, and homegrown artists have come to dominate local streaming charts, a marked change from a decade ago when Cantopop was widely dismissed by younger listeners as unfashionable.</p><p>By the same token, critics caution against overstating the parallel between the two phenomena. Whereas K-pop's success is underpinned by <span class=\"bw\">deliberate global positioning<span class=\"tip\"><span class=\"tip-en\">a strategy consciously designed to appeal to international audiences from the outset</span><span class=\"tip-zh\">刻意的全球定位</span></span></span>, Hong Kong's revival remains, for now, a largely <span class=\"bw\">domestically driven phenomenon<span class=\"tip\"><span class=\"tip-en\">a trend whose momentum comes mainly from the local market rather than international demand</span><span class=\"tip-zh\">以本地市場為主導的現象</span></span></span>. Some industry observers argue that this organic, community-rooted growth may prove more sustainable in the long run, even if it never achieves the sheer international scale of its Korean counterpart; others insist that without deliberate investment in <span class=\"bw\">overseas distribution channels<span class=\"tip\"><span class=\"tip-en\">the networks and platforms used to sell or stream content internationally</span><span class=\"tip-zh\">海外發行渠道</span></span></span>, Cantopop's revival risks remaining a largely local success story.</p>",
+      "vocab": [
+        {
+          "phrase": "cultural export",
+          "zh": "文化輸出",
+          "sample": "K-pop has become one of South Korea's most valuable cultural exports."
         },
         {
-          "en": "rekindle enthusiasm for",
-          "zh": "重燃對……的熱情",
-          "sample": "The festival aims to rekindle enthusiasm for time-honoured cultural practices."
+          "phrase": "idol training system",
+          "zh": "偶像訓練制度",
+          "sample": "The idol training system requires years of preparation before a public debut."
         },
         {
-          "en": "risk fading from public consciousness",
-          "zh": "有可能從公眾意識中消失",
-          "sample": "Without active promotion, such customs risk fading from public consciousness."
+          "phrase": "global ubiquity",
+          "zh": "全球普及度",
+          "sample": "Few Cantopop acts have achieved the global ubiquity of top K-pop groups."
         },
         {
-          "en": "commentators contend that",
-          "zh": "評論員認為",
-          "sample": "Commentators contend that spectacle alone cannot sustain genuine cultural interest."
+          "phrase": "grassroots cultural event",
+          "zh": "草根文化活動",
+          "sample": "Grassroots cultural events have played a key role in reviving local music scenes."
         },
         {
-          "en": "extend beyond",
-          "zh": "延伸至……以外",
-          "sample": "The celebrations extend beyond Victoria Park to neighbourhoods across the city."
+          "phrase": "streaming chart",
+          "zh": "串流排行榜",
+          "sample": "Local artists now regularly top the streaming chart in Hong Kong."
         },
         {
-          "en": "date back to",
-          "zh": "可追溯至",
-          "sample": "The lantern-making technique dates back some 1,700 years."
+          "phrase": "homegrown artist",
+          "zh": "本土藝人",
+          "sample": "Support for homegrown artists has grown noticeably among younger audiences."
         },
         {
-          "en": "reinforce a sense of",
-          "zh": "強化……的意識",
-          "sample": "Shared festivals reinforce a sense of belonging within the community."
+          "phrase": "domestically driven phenomenon",
+          "zh": "以本地市場為主導的現象",
+          "sample": "For now, the Cantopop revival remains largely a domestically driven phenomenon."
         },
         {
-          "en": "overshadowed by",
-          "zh": "被……蓋過",
-          "sample": "Local craftsmanship was not overshadowed by the international contributions."
+          "phrase": "overseas distribution channel",
+          "zh": "海外發行渠道",
+          "sample": "Expanding overseas distribution channels could help local music reach new fans."
         },
         {
-          "en": "inscribed on the national list",
-          "zh": "被列入國家名錄",
-          "sample": "The dance was inscribed on the national list of intangible cultural heritage."
+          "phrase": "niche appeal",
+          "zh": "小眾吸引力",
+          "sample": "Some genres retain a niche appeal despite lacking mainstream commercial success."
+        },
+        {
+          "phrase": "cultural identity",
+          "zh": "文化身分",
+          "sample": "Cantopop has long been closely tied to Hong Kong's sense of cultural identity."
+        },
+        {
+          "phrase": "commercial viability",
+          "zh": "商業可行性",
+          "sample": "Investors remain cautious about the commercial viability of niche local genres."
+        },
+        {
+          "phrase": "fandom culture",
+          "zh": "粉絲文化",
+          "sample": "Fandom culture has driven much of K-pop's explosive global growth."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "It is widely argued that",
+          "zh": "普遍認為",
+          "sample": "It is widely argued that systematic training explains much of K-pop's success."
+        },
+        {
+          "en": "Nevertheless,",
+          "zh": "然而",
+          "sample": "Nevertheless, local music scenes continue to find loyal audiences at home."
+        },
+        {
+          "en": "By the same token,",
+          "zh": "同樣地",
+          "sample": "By the same token, Cantopop's revival reflects renewed local cultural pride."
+        },
+        {
+          "en": "Some industry observers argue that",
+          "zh": "部分業內人士認為",
+          "sample": "Some industry observers argue that organic growth is more sustainable long-term."
+        },
+        {
+          "en": "Others insist that",
+          "zh": "另一些人則堅持認為",
+          "sample": "Others insist that international expansion requires deliberate strategic investment."
+        },
+        {
+          "en": "A marked change from",
+          "zh": "與……相比有顯著轉變",
+          "sample": "This is a marked change from a decade ago, when the genre struggled for relevance."
+        },
+        {
+          "en": "Critics caution against",
+          "zh": "評論者警告不應",
+          "sample": "Critics caution against comparing two industries built on very different models."
+        },
+        {
+          "en": "Even if",
+          "zh": "即使",
+          "sample": "Even if the scale differs, the cultural significance should not be underestimated."
+        },
+        {
+          "en": "Without deliberate investment in",
+          "zh": "若沒有對……作出刻意投資",
+          "sample": "Without deliberate investment in marketing, promising talent can go unnoticed."
+        },
+        {
+          "en": "Underpinned by",
+          "zh": "以……為基礎",
+          "sample": "The industry's growth is underpinned by consistent government and private support."
+        },
+        {
+          "en": "In the long run,",
+          "zh": "從長遠來看",
+          "sample": "In the long run, sustainable growth may matter more than rapid global fame."
+        },
+        {
+          "en": "As a result,",
+          "zh": "因此",
+          "sample": "As a result, more young Hongkongers are once again attending local concerts."
+        },
+        {
+          "en": "It remains to be seen whether",
+          "zh": "尚待觀察是否",
+          "sample": "It remains to be seen whether the revival can extend beyond Hong Kong's borders."
         }
       ]
     }
@@ -576,20 +566,20 @@
         "tiktok",
         "ig"
       ],
-      "headline": "🫔 Lantern Carnival Selfie Spots Go Viral Across Hong Kong Social Media",
-      "summary_html": "<p>As Victoria Park's International Lantern Spectacular draws record crowds this Mid-Autumn Festival, TikTok and Instagram feeds across Hong Kong have been flooded with clips of the exhibition's most photogenic displays. It is widely observed that the <span class=\"bw\">\"Feast of Light\" installation<span class=\"tip\"><span class=\"tip-en\">a themed lantern display featuring food-shaped designs</span><span class=\"tip-zh\">《光影盛宴》燈飾</span></span></span>, featuring giant lanterns shaped like egg waffles and milk tea cups, has become the single most photographed spot in the park, with visitors queuing patiently for a chance to capture the perfect shot. Nevertheless, some commentators have noted that the rush to document the event for social media sometimes <span class=\"bw\">overshadows genuine appreciation<span class=\"tip\"><span class=\"tip-en\">takes attention away from real, heartfelt enjoyment</span><span class=\"tip-zh\">蓋過真正的欣賞</span></span></span> of the traditional craftsmanship on display, prompting a modest but growing debate about the tension between authentic cultural engagement and content creation.</p>",
+      "headline": "🛗 Hopewell Centre's Glass Lift Becomes Hong Kong's Latest Viral Sensation",
+      "summary_html": "<p>A glass observation lift inside Wan Chai's Hopewell Centre, rising from the 17th to the 62nd floor, has unexpectedly become one of Hong Kong's most <span class=\"bw\">shareable tourist attractions<span class=\"tip\"><span class=\"tip-en\">a place or experience popular specifically because it is easy and appealing to post on social media</span><span class=\"tip-zh\">熱門打卡景點</span></span></span> on TikTok and Instagram. Clips capturing the sweeping harbour view as the lift ascends have racked up millions of views, with creators queuing specifically to film the ride, often tagged alongside travel itineraries and <span class=\"bw\">budget-friendly recommendations<span class=\"tip\"><span class=\"tip-en\">suggestions for activities or experiences that cost little or no money</span><span class=\"tip-zh\">慳錢推介</span></span></span> for visitors. The trend has drawn both overseas tourists and local content creators eager to showcase a free, cinematic slice of the city.</p>",
       "causes": [
         {
           "label": "Psychological appeal",
-          "text": "The desire for social validation drives users to seek out visually striking, easily photographable scenes likely to attract likes and comments."
+          "text": "The gentle thrill of a fast, panoramic ascent combined with the sense of discovering a 'hidden gem' triggers a small dopamine reward, encouraging viewers to seek out the same experience themselves."
         },
         {
           "label": "Social media influence",
-          "text": "Influencers and content creators amplify awareness of photogenic locations rapidly, prompting a surge of imitative visits within days of the first viral post."
+          "text": "The lift's smooth vertical motion and dramatic skyline reveal make for highly watchable, easily looped short-form video, which algorithms readily amplify."
         },
         {
           "label": "Consumer culture",
-          "text": "Blending nostalgic local food imagery with festive tradition creates content that feels both novel and relatable, encouraging widespread sharing among Hong Kong youth."
+          "text": "As a free or near-free experience offering a premium view, the trend appeals strongly to budget-conscious travellers and reflects a wider appetite for low-cost, high-impact content among Gen Z audiences."
         }
       ]
     }

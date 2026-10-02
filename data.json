@@ -2,565 +2,590 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/finance/article/344124/Over-half-of-HK-entrepreneurs-see-AI-as-catalyst-for-workforce-growth-HSBC",
-      "published_date": "29 September 2026",
-      "headline": "Over half of HK entrepreneurs see AI as catalyst for workforce growth: HSBC",
-      "category": "tech",
-      "summary_html": "<p>A recent survey commissioned by HSBC has found that more than half of Hong Kong's entrepreneurs regard artificial intelligence as a <span class=\"bw\">catalyst<span class=\"tip\"><span class=\"tip-en\">something that causes rapid change or action</span><span class=\"tip-zh\">促成因素；催化劑</span></span></span> for workforce growth rather than a threat to employment. According to the findings, 58 percent of local business owners expect the <span class=\"bw\">adoption<span class=\"tip\"><span class=\"tip-en\">the act of starting to use something new</span><span class=\"tip-zh\">採用；採納</span></span></span> of AI tools to increase headcount over the next two years, a proportion markedly higher than the global average.</p>\n\n<p>It is widely argued that this optimism reflects a shift in how small and medium-sized enterprises in the city <span class=\"bw\">perceive<span class=\"tip\"><span class=\"tip-en\">to become aware of or understand something</span><span class=\"tip-zh\">察覺；理解</span></span></span> automation. Rather than viewing AI as a means of <span class=\"bw\">supplanting<span class=\"tip\"><span class=\"tip-en\">to take the place of, especially through force or scheming</span><span class=\"tip-zh\">取代；排擠</span></span></span> human staff, many firms now see it as a way to <span class=\"bw\">augment<span class=\"tip\"><span class=\"tip-en\">to make something greater by adding to it</span><span class=\"tip-zh\">增加；提升</span></span></span> productivity, freeing employees to focus on higher-value tasks such as client relations and strategic planning. Sectors including retail, logistics and financial services are reportedly leading this trend, deploying AI-powered chatbots, data analytics platforms and inventory systems.</p>\n\n<p>Nevertheless, critics contend that the benefits of AI adoption are not evenly distributed. Entry-level and routine clerical positions remain particularly <span class=\"bw\">vulnerable<span class=\"tip\"><span class=\"tip-en\">capable of being easily harmed or affected</span><span class=\"tip-zh\">易受影響的；脆弱的</span></span></span> to <span class=\"bw\">displacement<span class=\"tip\"><span class=\"tip-en\">the forced removal of someone or something from their usual place</span><span class=\"tip-zh\">取代；裁減</span></span></span>, raising concerns for young jobseekers, including secondary school leavers, who may find it harder to secure a foothold in the labour market. By the same token, education authorities have been urged to <span class=\"bw\">prioritise<span class=\"tip\"><span class=\"tip-en\">to treat something as more important than other things</span><span class=\"tip-zh\">優先處理</span></span></span> digital literacy and critical thinking in the curriculum, equipping students with the <span class=\"bw\">adaptability<span class=\"tip\"><span class=\"tip-en\">the quality of being able to adjust to new conditions</span><span class=\"tip-zh\">適應能力</span></span></span> needed to thrive alongside, rather than in competition with, intelligent machines. As Hong Kong positions itself as an innovation and technology hub, the ability of its workforce to upskill continuously will likely prove decisive.</p>",
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/society/article/3360076/hong-kong-official-defends-u-turn-public-flats-pak-shek-kok-rail-stop-site",
+      "published_date": "2 October 2026",
+      "headline": "Hong Kong official defends U-turn on public flats at Pak Shek Kok rail stop site",
+      "category": "urban",
+      "summary_html": "<p>The Development Bureau has come under renewed scrutiny after confirming a last-minute <span class=\"bw\">U-turn<span class=\"tip\"><span class=\"tip-en\">a reversal of an earlier decision or policy</span><span class=\"tip-zh\">政策上的大轉變</span></span></span> on plans for the new Pak Shek Kok railway station, with public housing quietly dropped from the site in favour of private flats. Permanent Secretary for Development Doris Ho Pui-ling told reporters on Friday that the station, part of the East Rail Line extension works and <span class=\"bw\">earmarked<span class=\"tip\"><span class=\"tip-en\">set aside for a particular purpose</span><span class=\"tip-zh\">指定用途的；預留的</span></span></span> to open as early as 2033, would instead be financed by allowing the project's developer to build and sell private housing on the surrounding land.</p>\n\n<p>It is widely argued that such reversals undermine public trust in long-term planning, yet officials insisted the decision was pragmatic rather than political. Ho explained that the area around the proposed station currently lacks the <span class=\"bw\">requisite<span class=\"tip\"><span class=\"tip-en\">required; necessary for a particular purpose</span><span class=\"tip-zh\">必需的；所需的</span></span></span> community facilities — schools, clinics and transport links — to support a sizeable public housing estate, and that building purely private flats would better <span class=\"bw\">align with<span class=\"tip\"><span class=\"tip-en\">to be consistent or in agreement with</span><span class=\"tip-zh\">與……一致；配合</span></span></span> existing development in the neighbourhood. Nevertheless, lawmakers have pressed the bureau to explain why the original mixed-use blueprint, which had promised a share of subsidised flats, was not honoured.</p>\n\n<p>By the same token, the government was keen to <span class=\"bw\">allay<span class=\"tip\"><span class=\"tip-en\">to reduce fear, worry or doubt</span><span class=\"tip-zh\">減輕；緩解（憂慮）</span></span></span> public anxiety over the city's overall housing supply. Officials stressed that the revised proposal would not <span class=\"bw\">jeopardise<span class=\"tip\"><span class=\"tip-en\">to put something at risk of being harmed or destroyed</span><span class=\"tip-zh\">危害；使陷入危險</span></span></span> the administration's ten-year target of delivering 420,000 flats, including 294,000 public units, by 2036, since sufficient land has reportedly already been <span class=\"bw\">secured<span class=\"tip\"><span class=\"tip-en\">obtained or guaranteed, especially through effort</span><span class=\"tip-zh\">獲得；確保</span></span></span> elsewhere to meet that quota. Critics, however, contend that <span class=\"bw\">ad hoc<span class=\"tip\"><span class=\"tip-en\">done or arranged only when necessary, not planned in advance</span><span class=\"tip-zh\">臨時的；特別安排的</span></span></span> adjustments like this one risk eroding confidence in the Northern Metropolis strategy as a whole, and have called for greater <span class=\"bw\">transparency<span class=\"tip\"><span class=\"tip-en\">openness and honesty in communicating decisions</span><span class=\"tip-zh\">透明度；公開程度</span></span></span> in how such housing trade-offs are decided.</p>",
       "vocab": [
         {
-          "phrase": "digital literacy",
-          "zh": "數碼素養",
-          "sample": "Digital literacy is increasingly regarded as an essential life skill for navigating the modern workplace."
+          "phrase": "U-turn",
+          "zh": "政策上的大轉變",
+          "sample": "The government's U-turn on the housing plan caught many district councillors off guard."
         },
         {
-          "phrase": "upskill",
-          "zh": "提升技能",
-          "sample": "Workers are being encouraged to upskill so that they remain competitive as automation spreads."
+          "phrase": "earmark",
+          "zh": "指定用途；預留",
+          "sample": "The site had long been earmarked for a mix of public and private housing."
         },
         {
-          "phrase": "entry-level position",
-          "zh": "入門職位",
-          "sample": "Entry-level positions in clerical work are among the most susceptible to automation."
+          "phrase": "requisite",
+          "zh": "必需的；所需的",
+          "sample": "Planners admitted the area lacked the requisite infrastructure to support a new estate."
         },
         {
-          "phrase": "foothold",
-          "zh": "立足點；據點",
-          "sample": "Graduates often struggle to gain a foothold in an increasingly competitive labour market."
+          "phrase": "align with",
+          "zh": "與……一致；配合",
+          "sample": "Officials argued the revised plan would better align with the character of the surrounding district."
         },
         {
-          "phrase": "routine clerical work",
-          "zh": "日常文書工作",
-          "sample": "Routine clerical work is gradually being taken over by AI-powered software."
+          "phrase": "allay public concern",
+          "zh": "緩解公眾的憂慮",
+          "sample": "The minister attempted to allay public concern by publishing the revised housing targets."
         },
         {
-          "phrase": "inventory system",
-          "zh": "存貨系統",
-          "sample": "The retailer installed an AI-driven inventory system to reduce stock shortages."
+          "phrase": "jeopardise",
+          "zh": "危害；使陷入危險",
+          "sample": "Officials denied that the change would jeopardise the city's long-term housing supply target."
         },
         {
-          "phrase": "chatbot",
-          "zh": "聊天機械人",
-          "sample": "Many banks now rely on chatbots to handle straightforward customer enquiries around the clock."
+          "phrase": "ad hoc adjustment",
+          "zh": "臨時調整",
+          "sample": "Critics warned that ad hoc adjustments to planning blueprints could erode public trust."
         },
+        {
+          "phrase": "transparency",
+          "zh": "透明度",
+          "sample": "Lawmakers called for greater transparency in how housing trade-offs are decided."
+        },
+        {
+          "phrase": "subsidised housing",
+          "zh": "資助房屋",
+          "sample": "The original blueprint had promised a share of subsidised housing on the site."
+        },
+        {
+          "phrase": "long-term planning",
+          "zh": "長遠規劃",
+          "sample": "Sudden reversals can undermine public confidence in long-term planning."
+        },
+        {
+          "phrase": "community facilities",
+          "zh": "社區設施",
+          "sample": "Officials cited a shortage of community facilities as a reason for the revised plan."
+        },
+        {
+          "phrase": "housing supply target",
+          "zh": "房屋供應目標",
+          "sample": "The bureau reaffirmed that the housing supply target remains unchanged despite the revision."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "It is widely argued that",
+          "zh": "普遍認為",
+          "sample": "It is widely argued that sudden policy reversals undermine public trust in planning authorities."
+        },
+        {
+          "en": "Critics contend that",
+          "zh": "批評者認為",
+          "sample": "Critics contend that the government has not been transparent enough about the policy change."
+        },
+        {
+          "en": "Nevertheless,",
+          "zh": "然而；不過",
+          "sample": "Nevertheless, lawmakers continued to press officials for a fuller explanation."
+        },
+        {
+          "en": "By the same token,",
+          "zh": "同樣地；基於同一道理",
+          "sample": "By the same token, the bureau was eager to reassure the public that housing targets remained intact."
+        },
+        {
+          "en": "come under scrutiny",
+          "zh": "受到審查；受到關注",
+          "sample": "The housing bureau came under scrutiny after reversing its earlier commitment."
+        },
+        {
+          "en": "in favour of",
+          "zh": "傾向於；支持",
+          "sample": "The government opted for private housing in favour of the original mixed-use plan."
+        },
+        {
+          "en": "pragmatic rather than political",
+          "zh": "務實而非政治考量",
+          "sample": "Officials described the decision as pragmatic rather than political."
+        },
+        {
+          "en": "press (someone) to explain",
+          "zh": "追問；要求解釋",
+          "sample": "Opposition lawmakers pressed the minister to explain the sudden change in direction."
+        },
+        {
+          "en": "erode public confidence",
+          "zh": "削弱公眾信心",
+          "sample": "Analysts warned that repeated reversals could erode public confidence in the planning process."
+        },
+        {
+          "en": "meet a quota",
+          "zh": "達到配額",
+          "sample": "The administration insists it can still meet its housing quota through other sites."
+        },
+        {
+          "en": "a mixed-use blueprint",
+          "zh": "混合用途規劃藍圖",
+          "sample": "The original mixed-use blueprint envisioned both private and subsidised flats on the site."
+        },
+        {
+          "en": "risk + verb-ing",
+          "zh": "有……的風險",
+          "sample": "Ad hoc adjustments risk sending an inconsistent message to the public."
+        },
+        {
+          "en": "a share of",
+          "zh": "一部分；佔一份",
+          "sample": "The scrapped plan had promised a share of subsidised flats for lower-income families."
+        },
+        {
+          "en": "trade-off",
+          "zh": "取捨；權衡",
+          "sample": "The debate highlights the trade-off between financing infrastructure and delivering public housing."
+        },
+        {
+          "en": "call for greater transparency",
+          "zh": "要求更大透明度",
+          "sample": "Civic groups have called for greater transparency in future planning decisions."
+        }
+      ]
+    },
+    {
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/society/article/3358627/widen-mental-health-support-hong-kong-youth-beyond-high-risk-cases-adviser-urges",
+      "published_date": "30 September 2026",
+      "headline": "Widen mental health support for Hong Kong youth beyond high-risk cases, adviser urges",
+      "category": "social",
+      "summary_html": "<p>Hong Kong needs to <span class=\"bw\">broaden<span class=\"tip\"><span class=\"tip-en\">to make something wider in range or scope</span><span class=\"tip-zh\">擴闊；擴大範圍</span></span></span> mental health support well beyond students already flagged as high-risk, a key government adviser has urged, warning that the city's current approach may be missing many young people in genuine distress. Dr Lam Ching-choi, a member of the Executive Council and chairman of the Advisory Committee on Mental Health, pointed out that some students who took their own lives had shown no obvious <span class=\"bw\">warning signs<span class=\"tip\"><span class=\"tip-en\">indications that something bad might happen</span><span class=\"tip-zh\">警號；預警跡象</span></span></span> at home or in school.</p>\n\n<p>It is widely argued that this pattern complicates prevention efforts considerably. According to Dr Lam, several of the affected teenagers came from stable, middle-class families, performed well academically, and were not known to have experienced bullying — meaning that schemes <span class=\"bw\">targeting<span class=\"tip\"><span class=\"tip-en\">aiming at or directed towards a particular group</span><span class=\"tip-zh\">針對（某群體）</span></span></span> only \"high-risk\" individuals may fail to reach them in time. He attributed part of the problem to social media, where young people can be exposed to <span class=\"bw\">harmful content<span class=\"tip\"><span class=\"tip-en\">material that causes damage, especially psychologically</span><span class=\"tip-zh\">有害內容</span></span></span> and online bullying largely invisible to parents and teachers.</p>\n\n<p>Nevertheless, there are signs of a wider policy shift. Dr Lam called for support measures to be extended to the <span class=\"bw\">general student population<span class=\"tip\"><span class=\"tip-en\">all students as a whole, not just a specific subgroup</span><span class=\"tip-zh\">全體學生</span></span></span> rather than narrowly targeted groups, and separately, a prominent local tycoon has pledged funding to empower more young philanthropists to tackle the issue. By the same token, mental health experts caution that any expanded scheme must be adequately resourced, or risk becoming merely <span class=\"bw\">symbolic<span class=\"tip\"><span class=\"tip-en\">representing an idea rather than having real, practical effect</span><span class=\"tip-zh\">象徵性的；流於表面的</span></span></span> rather than genuinely protective. Critics contend that without sustained investment in school counselling and community outreach, Hong Kong's youth mental health crisis will continue to worsen.</p>",
+      "vocab": [
+        {
+          "phrase": "broaden support",
+          "zh": "擴闊支援範圍",
+          "sample": "Experts are calling on the government to broaden support beyond students labelled high-risk."
+        },
+        {
+          "phrase": "warning sign",
+          "zh": "警號；預警跡象",
+          "sample": "Teachers are trained to look out for warning signs of emotional distress among students."
+        },
+        {
+          "phrase": "high-risk individual",
+          "zh": "高風險人士",
+          "sample": "Current schemes mainly focus on identifying high-risk individuals for early intervention."
+        },
+        {
+          "phrase": "target a group",
+          "zh": "針對某群體",
+          "sample": "Programmes that target only a narrow group may overlook students who appear outwardly fine."
+        },
+        {
+          "phrase": "harmful content",
+          "zh": "有害內容",
+          "sample": "Exposure to harmful content online has been linked to a decline in teenagers' mental wellbeing."
+        },
+        {
+          "phrase": "online bullying",
+          "zh": "網絡欺凌",
+          "sample": "Online bullying can inflict lasting psychological harm that is often invisible to adults."
+        },
+        {
+          "phrase": "general population",
+          "zh": "一般大眾；全體",
+          "sample": "Advocates argue that mental health education should reach the general student population, not just at-risk cases."
+        },
+        {
+          "phrase": "philanthropist",
+          "zh": "慈善家",
+          "sample": "A local philanthropist has pledged funding to support youth mental health initiatives."
+        },
+        {
+          "phrase": "symbolic gesture",
+          "zh": "象徵性的舉動",
+          "sample": "Critics warn that underfunded schemes risk becoming little more than a symbolic gesture."
+        },
+        {
+          "phrase": "sustained investment",
+          "zh": "持續的投資",
+          "sample": "Tackling the mental health crisis will require sustained investment, not one-off funding."
+        },
+        {
+          "phrase": "early intervention",
+          "zh": "及早介入",
+          "sample": "Early intervention can prevent minor emotional difficulties from escalating into crises."
+        },
+        {
+          "phrase": "emotional distress",
+          "zh": "情緒困擾",
+          "sample": "Many students hide their emotional distress behind strong academic performance."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "It is widely argued that",
+          "zh": "普遍認為",
+          "sample": "It is widely argued that narrowly targeted schemes fail to catch every student at risk."
+        },
+        {
+          "en": "Critics contend that",
+          "zh": "批評者認為",
+          "sample": "Critics contend that underfunded programmes will not solve the underlying crisis."
+        },
+        {
+          "en": "Nevertheless,",
+          "zh": "然而；不過",
+          "sample": "Nevertheless, officials have signalled openness to expanding the scope of support."
+        },
+        {
+          "en": "By the same token,",
+          "zh": "同樣地",
+          "sample": "By the same token, experts stress that funding alone cannot guarantee success."
+        },
+        {
+          "en": "show no warning signs",
+          "zh": "沒有顯示任何警號",
+          "sample": "Several affected students reportedly showed no warning signs at home or in school."
+        },
+        {
+          "en": "attribute (something) to",
+          "zh": "將……歸因於",
+          "sample": "He attributed part of the rise in cases to the influence of social media."
+        },
+        {
+          "en": "call for (something) to be extended",
+          "zh": "呼籲將……擴展",
+          "sample": "The adviser called for mental health support to be extended to all students."
+        },
+        {
+          "en": "risk becoming merely symbolic",
+          "zh": "有流於象徵性的風險",
+          "sample": "Without proper funding, the initiative risks becoming merely symbolic."
+        },
+        {
+          "en": "a prominent tycoon",
+          "zh": "著名的大亨",
+          "sample": "A prominent tycoon has pledged resources to support youth mental health programmes."
+        },
+        {
+          "en": "largely invisible to",
+          "zh": "對……而言幾乎看不見",
+          "sample": "Online bullying is often largely invisible to parents and teachers."
+        },
+        {
+          "en": "a key government adviser",
+          "zh": "政府的重要顧問",
+          "sample": "A key government adviser has urged a rethink of the city's mental health strategy."
+        },
+        {
+          "en": "adequately resourced",
+          "zh": "有足夠資源支持",
+          "sample": "Any expanded scheme must be adequately resourced to be effective."
+        },
+        {
+          "en": "complicate prevention efforts",
+          "zh": "使預防工作更複雜",
+          "sample": "The unpredictable nature of the cases complicates prevention efforts considerably."
+        },
+        {
+          "en": "pledge funding",
+          "zh": "承諾提供資金",
+          "sample": "The foundation pledged funding to train more youth counsellors."
+        },
+        {
+          "en": "a decade-high number of cases",
+          "zh": "十年來最高的個案數字",
+          "sample": "Officials are under pressure after a decade-high number of cases were recorded last year."
+        }
+      ]
+    },
+    {
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358791/hong-kong-graduates-crossroads-ai-takes-over-entry-level-jobs-experts-warn",
+      "published_date": "30 September 2026",
+      "headline": "Hong Kong graduates at a crossroads as AI takes over entry-level jobs, experts warn",
+      "category": "career",
+      "summary_html": "<p>Hong Kong's fresh graduates are facing an increasingly uncertain <span class=\"bw\">labour market<span class=\"tip\"><span class=\"tip-en\">the overall system of supply and demand for workers</span><span class=\"tip-zh\">勞動市場</span></span></span>, as artificial intelligence steadily absorbs the routine tasks that once served as a <span class=\"bw\">stepping stone<span class=\"tip\"><span class=\"tip-en\">an action or event that helps achieve a bigger goal</span><span class=\"tip-zh\">踏腳石；過渡階段</span></span></span> into full-time careers. According to labour market experts, the number of full-time vacancies suitable for university graduates has <span class=\"bw\">plummeted<span class=\"tip\"><span class=\"tip-en\">to fall suddenly and sharply</span><span class=\"tip-zh\">急劍下跌</span></span></span> from roughly 80,000 in 2022 to just 31,000 last year, a decline widely attributed to the rapid adoption of AI tools in offices across the city.</p>\n\n<p>It is widely argued that administrative support, clerical duties and other <span class=\"bw\">entry-level<span class=\"tip\"><span class=\"tip-en\">relating to a job requiring little or no prior experience</span><span class=\"tip-zh\">初級；入門級的</span></span></span> roles — historically the easiest point of entry for young job-seekers — are being systematically replaced by automation. One expert warned starkly that \"it is no longer the case that a young person willing to learn and work hard will definitely find a job,\" underscoring how traditional assumptions about <span class=\"bw\">meritocracy<span class=\"tip\"><span class=\"tip-en\">the belief that success is earned through ability and effort</span><span class=\"tip-zh\">精英制度；論功行賞的制度</span></span></span> in the workplace are being tested. A member of the Labour Advisory Board further cautioned that employers' growing emphasis on immediate productivity has made many reluctant to invest in <span class=\"bw\">on-the-job training<span class=\"tip\"><span class=\"tip-en\">skills training given to employees while they work</span><span class=\"tip-zh\">在職培訓</span></span></span> for inexperienced hires.</p>\n\n<p>Nevertheless, not every voice is pessimistic. By the same token that automation threatens certain roles, it is also reshaping demand towards new skill sets: a global survey found that employers increasingly prize critical thinking, data analysis and <span class=\"bw\">ethical decision-making<span class=\"tip\"><span class=\"tip-en\">making choices guided by moral principles</span><span class=\"tip-zh\">合乎道德的決策</span></span></span> over routine competence. Critics contend, however, that without targeted retraining schemes and government support, a <span class=\"bw\">persistent shortage<span class=\"tip\"><span class=\"tip-en\">a continuing lack of something over a long period</span><span class=\"tip-zh\">持續的短缺</span></span></span> of experienced local talent could emerge, even as entry-level opportunities continue to disappear.</p>",
+      "vocab": [
         {
           "phrase": "labour market",
           "zh": "勞動市場",
-          "sample": "Technological change is reshaping the labour market faster than many policymakers anticipated."
+          "sample": "Hong Kong's labour market is being reshaped rapidly by the spread of AI."
         },
         {
-          "phrase": "small and medium-sized enterprise (SME)",
-          "zh": "中小企業",
-          "sample": "Small and medium-sized enterprises are adopting AI tools to cut costs and boost efficiency."
+          "phrase": "stepping stone",
+          "zh": "踏腳石；過渡階段",
+          "sample": "Entry-level clerical jobs used to be a stepping stone into long-term careers."
         },
         {
-          "phrase": "headcount",
-          "zh": "員工人數",
-          "sample": "The company plans to increase its headcount next year despite growing automation."
+          "phrase": "plummet",
+          "zh": "急劇下跌",
+          "sample": "Graduate vacancies have plummeted as companies automate routine tasks."
         },
         {
-          "phrase": "strategic planning",
-          "zh": "策略規劃",
-          "sample": "Freed from repetitive tasks, managers can devote more time to strategic planning."
+          "phrase": "entry-level role",
+          "zh": "初級職位",
+          "sample": "Entry-level roles are disappearing faster than new positions are being created."
         },
         {
-          "phrase": "intelligent machine",
-          "zh": "智能機器",
-          "sample": "Employees who learn to collaborate with intelligent machines are likely to remain indispensable."
+          "phrase": "meritocracy",
+          "zh": "精英制度",
+          "sample": "Some experts argue that AI is quietly undermining the idea of workplace meritocracy."
+        },
+        {
+          "phrase": "on-the-job training",
+          "zh": "在職培訓",
+          "sample": "Employers are increasingly reluctant to provide on-the-job training for new graduates."
+        },
+        {
+          "phrase": "ethical decision-making",
+          "zh": "合乎道德的決策",
+          "sample": "Employers now rank ethical decision-making among the most valuable workplace skills."
+        },
+        {
+          "phrase": "persistent shortage",
+          "zh": "持續的短缺",
+          "sample": "A persistent shortage of experienced local talent could emerge within a decade."
+        },
+        {
+          "phrase": "automation",
+          "zh": "自動化",
+          "sample": "Automation has already replaced many administrative and clerical functions."
+        },
+        {
+          "phrase": "upskilling",
+          "zh": "技能提升",
+          "sample": "Upskilling programmes are seen as essential to help graduates stay competitive."
+        },
+        {
+          "phrase": "immediate productivity",
+          "zh": "即時生產力",
+          "sample": "Employers' focus on immediate productivity has made them wary of hiring inexperienced staff."
+        },
+        {
+          "phrase": "career ladder",
+          "zh": "職業階梯",
+          "sample": "AI is disrupting the traditional career ladder that graduates once relied on."
         }
       ],
       "phrases": [
         {
           "en": "It is widely argued that",
           "zh": "普遍認為",
-          "sample": "It is widely argued that technology has transformed the way young people communicate."
-        },
-        {
-          "en": "a catalyst for",
-          "zh": "……的催化劑",
-          "sample": "Government investment has acted as a catalyst for growth in the technology sector."
-        },
-        {
-          "en": "rather than",
-          "zh": "而非",
-          "sample": "The policy aims to support workers rather than replace them with machines."
+          "sample": "It is widely argued that entry-level jobs are the first casualty of workplace automation."
         },
         {
           "en": "Critics contend that",
-          "zh": "評論者認為",
-          "sample": "Critics contend that rapid automation could widen the gap between skilled and unskilled workers."
-        },
-        {
-          "en": "By the same token,",
-          "zh": "同樣道理，",
-          "sample": "By the same token, schools must adapt their curricula to keep pace with technological change."
+          "zh": "批評者認為",
+          "sample": "Critics contend that the government has been slow to respond to the shrinking graduate job market."
         },
         {
           "en": "Nevertheless,",
-          "zh": "然而，",
-          "sample": "Nevertheless, not every worker stands to benefit equally from this transformation."
+          "zh": "然而；不過",
+          "sample": "Nevertheless, some employers are investing in reskilling programmes for young staff."
         },
         {
-          "en": "play a pivotal role in",
-          "zh": "在……中擔當關鍵角色",
-          "sample": "Government policies play a pivotal role in shaping how new technologies are adopted."
+          "en": "By the same token,",
+          "zh": "同樣地",
+          "sample": "By the same token, demand for analytical and ethical reasoning skills is rising."
         },
         {
-          "en": "raise concerns for",
-          "zh": "引起……的憂慮",
-          "sample": "The rapid pace of automation has raised concerns for young jobseekers."
+          "en": "a decline widely attributed to",
+          "zh": "普遍歸因於……的下跌",
+          "sample": "The fall in vacancies is a decline widely attributed to rapid AI adoption."
         },
         {
-          "en": "position itself as",
-          "zh": "將自己定位為",
-          "sample": "Hong Kong is seeking to position itself as a leading innovation hub in the region."
+          "en": "it is no longer the case that",
+          "zh": "情況已不再是",
+          "sample": "It is no longer the case that hard work alone guarantees a graduate a job."
         },
         {
-          "en": "equip someone with",
-          "zh": "為某人裝備……",
-          "sample": "Universities must equip graduates with the skills needed for an AI-driven economy."
+          "en": "systematically replaced by",
+          "zh": "被……系統性取代",
+          "sample": "Routine clerical duties are being systematically replaced by automated software."
         },
         {
-          "en": "a marked increase in",
-          "zh": "……顯著增加",
-          "sample": "There has been a marked increase in the use of AI tools among small businesses."
+          "en": "reluctant to invest in",
+          "zh": "不願投資於",
+          "sample": "Many firms are reluctant to invest in training for inexperienced hires."
         },
         {
-          "en": "in response to",
-          "zh": "為回應……",
-          "sample": "In response to growing demand, firms are investing heavily in automation."
+          "en": "underscore how",
+          "zh": "強調／突顯……的情況",
+          "sample": "The warning underscores how quickly workplace expectations are shifting."
         },
         {
-          "en": "give rise to",
-          "zh": "引致；導致",
-          "sample": "Widespread automation may give rise to new forms of inequality in the workplace."
+          "en": "a global survey found that",
+          "zh": "一項全球調查發現",
+          "sample": "A global survey found that over 60 percent of firms plan to cut entry-level roles."
         },
         {
-          "en": "pave the way for",
-          "zh": "為……鋪路",
-          "sample": "Early investment in AI infrastructure has paved the way for rapid adoption across industries."
+          "en": "targeted retraining scheme",
+          "zh": "有針對性的再培訓計劃",
+          "sample": "Officials have been urged to roll out a targeted retraining scheme for young workers."
         },
         {
-          "en": "not evenly distributed",
-          "zh": "分佈不均",
-          "sample": "The benefits of economic growth are often not evenly distributed across society."
+          "en": "reshape demand towards",
+          "zh": "將需求轉向",
+          "sample": "Automation is reshaping demand towards analytical and creative skills."
+        },
+        {
+          "en": "a fundamental shift",
+          "zh": "根本性的轉變",
+          "sample": "The data points to a fundamental shift in what employers expect from graduates."
+        },
+        {
+          "en": "bypass local young people",
+          "zh": "繞過本地年輕人",
+          "sample": "Some employers have been accused of bypassing local young people in favour of imported workers."
+        },
+        {
+          "en": "traditional assumptions about",
+          "zh": "對……的傳統假設",
+          "sample": "The trend is testing traditional assumptions about how careers begin."
         }
       ]
     },
     {
       "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/343816/HK-to-pulp-all-recovered-waste-paper-locally-from-October-1-in-recycling-overhaul",
-      "published_date": "30 September 2026",
-      "headline": "HK to pulp all recovered waste paper locally from October 1 in recycling overhaul",
-      "category": "env",
-      "summary_html": "<p>Hong Kong has begun pulping all of its recovered waste paper locally at a new facility in EcoPark, Tuen Mun, a move officials say will end the city's long-standing <span class=\"bw\">reliance<span class=\"tip\"><span class=\"tip-en\">the state of depending on something for support</span><span class=\"tip-zh\">依賴</span></span></span> on export markets for recycling. The plant, which started operations on 27 July this year and has been gradually <span class=\"bw\">ramping up<span class=\"tip\"><span class=\"tip-en\">increasing the level or amount of something</span><span class=\"tip-zh\">逐步提升</span></span></span> its capacity, formally took over full pulping duties from 1 October.</p>\n\n<p>It is widely argued that the overhaul marks a significant <span class=\"bw\">milestone<span class=\"tip\"><span class=\"tip-en\">an important point in the development of something</span><span class=\"tip-zh\">里程碑</span></span></span> in the city's recycling chain. Previously, collectors were restricted to the so-called \"three types of paper\" — cardboard, newspapers and office paper — but the scheme has now been <span class=\"bw\">broadened<span class=\"tip\"><span class=\"tip-en\">made wider in range or scope</span><span class=\"tip-zh\">擴大；拓寬</span></span></span> to accept mixed paper, including paper bags, packaging boxes and wrapping paper. Annual recovery volumes are projected to rise from roughly 500,000 tonnes to 720,000 tonnes, and the facility recently set a single-day intake record of 1,608 tonnes, four percent higher than last year's daily average.</p>\n\n<p>By the same token, the scheme has been designed to safeguard the livelihoods of frontline collectors. The operator is <span class=\"bw\">obliged<span class=\"tip\"><span class=\"tip-en\">required to do something because of a law, rule or promise</span><span class=\"tip-zh\">有義務的</span></span></span> to purchase waste paper at no less than a \"Designated Purchasing Price,\" which has been raised from HK$1,200 to HK$1,295.51 per tonne, alongside a minimum rate of HK$0.65 per kilogram to ensure collectors are paid fairly amid <span class=\"bw\">fluctuating<span class=\"tip\"><span class=\"tip-en\">changing irregularly in level or amount</span><span class=\"tip-zh\">波動的</span></span></span> market conditions. Nevertheless, environmentalists caution that sustained public cooperation in sorting waste correctly remains essential if the ambitious recovery targets are to be met. As Hong Kong strives to curb its reliance on landfills and strengthen its <span class=\"bw\">circular economy<span class=\"tip\"><span class=\"tip-en\">an economic system aimed at eliminating waste through continual reuse of resources</span><span class=\"tip-zh\">循環經濟</span></span></span>, this locally rooted recycling model is widely seen as a test case for other sectors seeking to reduce dependence on international waste markets.</p>",
-      "vocab": [
-        {
-          "phrase": "circular economy",
-          "zh": "循環經濟",
-          "sample": "Hong Kong is gradually moving towards a circular economy in which resources are reused rather than discarded."
-        },
-        {
-          "phrase": "recycling chain",
-          "zh": "回收鏈",
-          "sample": "A reliable recycling chain depends on cooperation between collectors, processors and consumers."
-        },
-        {
-          "phrase": "landfill",
-          "zh": "堆填區",
-          "sample": "Reducing landfill waste remains one of the city's most pressing environmental challenges."
-        },
-        {
-          "phrase": "sustainable practice",
-          "zh": "可持續的做法",
-          "sample": "Local schools are encouraging students to adopt sustainable practices such as waste sorting."
-        },
-        {
-          "phrase": "frontline collector",
-          "zh": "前線回收員",
-          "sample": "Frontline collectors play an essential but often overlooked role in the recycling industry."
-        },
-        {
-          "phrase": "waste sorting",
-          "zh": "廢物分類",
-          "sample": "Effective waste sorting at source significantly improves recycling efficiency."
-        },
-        {
-          "phrase": "export reliance",
-          "zh": "依賴出口",
-          "sample": "Reducing export reliance has become a priority for the city's recycling sector."
-        },
-        {
-          "phrase": "processing capacity",
-          "zh": "處理能力",
-          "sample": "The facility's processing capacity has expanded considerably since it began operations."
-        },
-        {
-          "phrase": "environmental sustainability",
-          "zh": "環境可持續性",
-          "sample": "Environmental sustainability is now a central consideration in government infrastructure planning."
-        },
-        {
-          "phrase": "market fluctuation",
-          "zh": "市場波動",
-          "sample": "Collectors' incomes are vulnerable to market fluctuations in recyclable material prices."
-        },
-        {
-          "phrase": "resource recovery",
-          "zh": "資源回收",
-          "sample": "Improved resource recovery reduces the need to extract raw materials."
-        },
-        {
-          "phrase": "public cooperation",
-          "zh": "公眾合作",
-          "sample": "The scheme's success ultimately depends on sustained public cooperation."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "It is widely argued that",
-          "zh": "普遍認為",
-          "sample": "It is widely argued that recycling policy alone cannot solve the city's waste problem."
-        },
-        {
-          "en": "a significant milestone",
-          "zh": "一個重要的里程碑",
-          "sample": "The opening of the new facility marks a significant milestone for the recycling industry."
-        },
-        {
-          "en": "be designed to",
-          "zh": "旨在",
-          "sample": "The pricing scheme is designed to protect the livelihoods of frontline collectors."
-        },
-        {
-          "en": "By the same token,",
-          "zh": "同樣道理，",
-          "sample": "By the same token, government subsidies must keep pace with rising operating costs."
-        },
-        {
-          "en": "Nevertheless,",
-          "zh": "然而，",
-          "sample": "Nevertheless, public awareness of correct waste sorting remains relatively low."
-        },
-        {
-          "en": "safeguard the livelihoods of",
-          "zh": "保障……的生計",
-          "sample": "The policy was introduced to safeguard the livelihoods of frontline workers."
-        },
-        {
-          "en": "no less than",
-          "zh": "不少於",
-          "sample": "Operators must purchase recyclables at no less than the designated minimum price."
-        },
-        {
-          "en": "strive to",
-          "zh": "努力；力求",
-          "sample": "The government continues to strive to reduce the city's dependence on landfills."
-        },
-        {
-          "en": "curb dependence on",
-          "zh": "遏止對……的依賴",
-          "sample": "Local processing helps curb dependence on volatile international markets."
-        },
-        {
-          "en": "a test case for",
-          "zh": "……的試驗案例",
-          "sample": "The scheme is widely seen as a test case for other sectors facing similar challenges."
-        },
-        {
-          "en": "remains essential if",
-          "zh": "若要……仍然至關重要",
-          "sample": "Public cooperation remains essential if ambitious recovery targets are to be met."
-        },
-        {
-          "en": "set a record",
-          "zh": "創下紀錄",
-          "sample": "The facility set a record for the highest daily volume of waste paper processed."
-        },
-        {
-          "en": "in light of",
-          "zh": "鑒於",
-          "sample": "In light of rising waste volumes, the government expanded the recycling scheme."
-        }
-      ]
-    },
-    {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/344156/Video-Gang-conflict-over-space-oil-market-triggers-massive-street-brawl-in-Tin-Shui-Wai",
-      "published_date": "30 September 2026",
-      "headline": "Gang conflict over 'space oil' market triggers massive street brawl in Tin Shui Wai",
-      "category": "law",
-      "summary_html": "<p>A mass street brawl in Tin Shui Wai, reportedly linked to a dispute over the illicit trade in \"space oil\" — a vape-based drug containing the anaesthetic etomidate — has renewed public debate over Hong Kong's ongoing battle against youth drug abuse. Footage of the clash, which showed a large group of men fighting in a public area, quickly <span class=\"bw\">circulated<span class=\"tip\"><span class=\"tip-en\">spread widely among people, especially online</span><span class=\"tip-zh\">流傳；傳播</span></span></span> on social media, prompting a police investigation into suspected organised crime involvement.</p>\n\n<p>It is widely argued that incidents of this kind are symptomatic of a deeper, more troubling trend. Since the government <span class=\"bw\">outlawed<span class=\"tip\"><span class=\"tip-en\">made something illegal</span><span class=\"tip-zh\">將……列為非法</span></span></span> etomidate and several related substances, authorities have uncovered illicit laboratories manufacturing homemade versions of the drug, suggesting that <span class=\"bw\">demand<span class=\"tip\"><span class=\"tip-en\">the desire of buyers for a particular product</span><span class=\"tip-zh\">需求</span></span></span> among young users has not <span class=\"bw\">abated<span class=\"tip\"><span class=\"tip-en\">become less intense or widespread</span><span class=\"tip-zh\">減弱；減退</span></span></span>. Health researchers note that a detoxification centre recently found that around ten percent of its caseload involved space oil abuse, with half of those affected being minors — the youngest only twelve years old.</p>\n\n<p>Critics contend that public understanding of the drug's dangers remains alarmingly limited. A survey of over 1,600 residents found that nearly a third of respondents were unaware of its harmful effects, while fewer than three in ten could correctly identify its main ingredient. By the same token, medical professionals have warned that etomidate misuse has been linked to adrenal insufficiency, a potentially serious hormonal condition, among teenage users. Nevertheless, the recurrence of gang-related violence connected to the drug trade suggests that <span class=\"bw\">enforcement<span class=\"tip\"><span class=\"tip-en\">the act of making sure laws are obeyed</span><span class=\"tip-zh\">執法</span></span></span> measures alone may be insufficient. Educators and parents alike are being urged to engage young people in frank conversations about substance abuse before curiosity turns into <span class=\"bw\">dependency<span class=\"tip\"><span class=\"tip-en\">the state of relying on something, especially a harmful substance</span><span class=\"tip-zh\">依賴；上癮</span></span></span>.</p>",
-      "vocab": [
-        {
-          "phrase": "illicit trade",
-          "zh": "非法交易",
-          "sample": "Police have stepped up efforts to dismantle the illicit trade in banned substances."
-        },
-        {
-          "phrase": "substance abuse",
-          "zh": "濫用藥物",
-          "sample": "Schools are introducing new programmes to raise awareness of substance abuse among teenagers."
-        },
-        {
-          "phrase": "organised crime",
-          "zh": "有組織罪案",
-          "sample": "Investigators suspect that organised crime groups are behind the illegal drug network."
-        },
-        {
-          "phrase": "detoxification centre",
-          "zh": "戒毒中心",
-          "sample": "The detoxification centre reported a sharp rise in cases involving teenage patients."
-        },
-        {
-          "phrase": "minor",
-          "zh": "未成年人",
-          "sample": "Protecting minors from exposure to drugs remains a key policy priority."
-        },
-        {
-          "phrase": "hormonal condition",
-          "zh": "荷爾蒙失調症",
-          "sample": "Doctors diagnosed the teenager with a rare hormonal condition linked to drug misuse."
-        },
-        {
-          "phrase": "law enforcement",
-          "zh": "執法",
-          "sample": "Law enforcement agencies have intensified patrols in areas known for drug activity."
-        },
-        {
-          "phrase": "curiosity",
-          "zh": "好奇心",
-          "sample": "Curiosity alone can sometimes lead teenagers to experiment with dangerous substances."
-        },
-        {
-          "phrase": "awareness campaign",
-          "zh": "宣傳教育運動",
-          "sample": "The government launched an awareness campaign to educate students about the risks of vaping drugs."
-        },
-        {
-          "phrase": "public safety",
-          "zh": "公共安全",
-          "sample": "The brawl raised fresh concerns about public safety in residential neighbourhoods."
-        },
-        {
-          "phrase": "underlying cause",
-          "zh": "根本原因",
-          "sample": "Experts argue that addressing the underlying causes of addiction is more effective than punishment alone."
-        },
-        {
-          "phrase": "peer pressure",
-          "zh": "朋輩壓力",
-          "sample": "Peer pressure is often cited as a major factor behind teenage drug experimentation."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "It is widely argued that",
-          "zh": "普遍認為",
-          "sample": "It is widely argued that tougher penalties alone cannot solve the drug problem."
-        },
-        {
-          "en": "symptomatic of",
-          "zh": "反映出……的徵兆",
-          "sample": "The incident is symptomatic of a wider problem affecting young people across the city."
-        },
-        {
-          "en": "Critics contend that",
-          "zh": "評論者認為",
-          "sample": "Critics contend that public education campaigns have so far fallen short."
-        },
-        {
-          "en": "By the same token,",
-          "zh": "同樣道理，",
-          "sample": "By the same token, parents must also play an active role in guiding their children."
-        },
-        {
-          "en": "Nevertheless,",
-          "zh": "然而，",
-          "sample": "Nevertheless, enforcement alone is unlikely to eliminate the underlying demand."
-        },
-        {
-          "en": "alarmingly limited",
-          "zh": "令人憂慮地不足",
-          "sample": "Public awareness of the drug's effects remains alarmingly limited."
-        },
-        {
-          "en": "be linked to",
-          "zh": "與……有關",
-          "sample": "The street brawl has been linked to a dispute over illegal drug sales."
-        },
-        {
-          "en": "renew public debate over",
-          "zh": "重新引發有關……的公眾討論",
-          "sample": "The incident has renewed public debate over how best to tackle youth drug abuse."
-        },
-        {
-          "en": "fall short of",
-          "zh": "未能達到",
-          "sample": "Current awareness campaigns may fall short of reaching the most vulnerable groups."
-        },
-        {
-          "en": "before it is too late",
-          "zh": "在為時已晚之前",
-          "sample": "Parents are urged to talk to their children about drug risks before it is too late."
-        },
-        {
-          "en": "pose a serious threat to",
-          "zh": "對……構成嚴重威脅",
-          "sample": "Illicit drug use poses a serious threat to the wellbeing of young people."
-        },
-        {
-          "en": "in the wake of",
-          "zh": "在……之後",
-          "sample": "In the wake of the brawl, police promised a thorough investigation."
-        },
-        {
-          "en": "turn a blind eye to",
-          "zh": "對……視而不見",
-          "sample": "Communities cannot afford to turn a blind eye to signs of drug abuse among youngsters."
-        },
-        {
-          "en": "engage in frank conversations about",
-          "zh": "就……進行坦誠對話",
-          "sample": "Teachers are encouraged to engage students in frank conversations about substance abuse."
-        }
-      ]
-    },
-    {
-      "source_name": "Dim Sum Daily",
-      "source_url": "https://www.dimsumdaily.hk/hong-kong-cuts-the-sky-with-a-23-minute-national-day-fireworks-show/",
+      "source_url": "https://www.thestandard.com.hk/finance/article/338753/Hang-Lung-CEO-Weber-Lo-to-step-down-on-October-1-successor-to-be-announced",
       "published_date": "1 October 2026",
-      "headline": "Hong Kong cuts the sky with a 23-minute National Day fireworks show",
-      "category": "hk",
-      "summary_html": "<p>Hong Kong marked the 77th anniversary of the founding of the People's Republic of China with a 23-minute fireworks display over Victoria Harbour on the evening of 1 October, <span class=\"bw\">illuminating<span class=\"tip\"><span class=\"tip-en\">lighting up or making something bright</span><span class=\"tip-zh\">照亮</span></span></span> the skyline with more than 31,000 <span class=\"bw\">pyrotechnic<span class=\"tip\"><span class=\"tip-en\">relating to fireworks or explosive devices used for display</span><span class=\"tip-zh\">煙火的</span></span></span> shells. Organised by the Culture, Sports and Tourism Bureau and exclusively sponsored by Sun Life Hong Kong, the show was staged under the theme \"Eternal Radiance, Fireworks in Bloom,\" with an estimated budget of around HK$18 million.</p>\n\n<p>It is widely argued that such large-scale celebrations serve a purpose beyond mere spectacle. The display was divided into eight segments, each <span class=\"bw\">choreographed<span class=\"tip\"><span class=\"tip-en\">carefully planned and arranged in sequence</span><span class=\"tip-zh\">精心編排的</span></span></span> to music and featuring <span class=\"bw\">intricate<span class=\"tip\"><span class=\"tip-en\">very detailed or complicated in design</span><span class=\"tip-zh\">複雜精細的</span></span></span> patterns including red hearts, golden five-pointed stars, and a newly designed sun-and-pendulum motif that had never previously been used in a Hong Kong fireworks show. Crowds gathered at popular <span class=\"bw\">vantage points<span class=\"tip\"><span class=\"tip-en\">positions that give a good view of something</span><span class=\"tip-zh\">有利位置</span></span></span> including Tsim Sha Tsui, Central, Wan Chai and Causeway Bay, while others watched from the Hung Hom Bypass and nearby rooftops.</p>\n\n<p>By the same token, the event is widely regarded as an opportunity to strengthen a sense of civic identity and shared <span class=\"bw\">heritage<span class=\"tip\"><span class=\"tip-en\">valued traditions, qualities and culture passed down through generations</span><span class=\"tip-zh\">傳統；文化遺產</span></span></span> among residents. Tourism officials noted that the National Day period, often called \"Golden Week,\" typically brings a significant influx of mainland visitors, giving such spectacles added economic as well as symbolic significance. Nevertheless, some commentators have questioned whether the considerable cost of these displays might be better <span class=\"bw\">allocated<span class=\"tip\"><span class=\"tip-en\">distributed or assigned for a particular purpose</span><span class=\"tip-zh\">分配</span></span></span> to other community needs. Proponents counter that the fireworks generate immense goodwill and tourism revenue, and that such moments of collective celebration help to <span class=\"bw\">foster<span class=\"tip\"><span class=\"tip-en\">to encourage the development of something</span><span class=\"tip-zh\">培養；促進</span></span></span> unity in an increasingly fragmented society. As the final shells faded over the harbour, the event once again underscored Hong Kong's enduring role as a stage for grand civic spectacle.</p>",
+      "headline": "Hang Lung CEO Weber Lo steps down on October 1, hands over to successor",
+      "category": "econ",
+      "summary_html": "<p>Hang Lung Group, one of Hong Kong's most prominent property developers, has confirmed a significant leadership <span class=\"bw\">transition<span class=\"tip\"><span class=\"tip-en\">a change from one state or stage to another</span><span class=\"tip-zh\">過渡；轉變</span></span></span> at the top of the company. Weber Lo officially stepped down as Chief Executive Officer and executive director on 1 October, handing the role to Leo Tsoi Tak-lun, a veteran of more than three decades in retail and business management across Asia, who had joined the firm the previous month as CEO-designate to ensure a smooth <span class=\"bw\">handover<span class=\"tip\"><span class=\"tip-en\">the act of transferring control or responsibility</span><span class=\"tip-zh\">交接；交班</span></span></span>.</p>\n\n<p>It is widely argued that such carefully staged successions reflect a broader trend among Hong Kong's family-controlled conglomerates, which have faced mounting pressure to <span class=\"bw\">future-proof<span class=\"tip\"><span class=\"tip-en\">to make something able to withstand future developments or needs</span><span class=\"tip-zh\">為未來做好準備；具前瞻性</span></span></span> their leadership structures amid a challenging property market. Lo, who had led the group through a lengthy period of <span class=\"bw\">retail headwinds<span class=\"tip\"><span class=\"tip-en\">difficult conditions that hinder progress in the retail sector</span><span class=\"tip-zh\">零售業的不利因素</span></span></span> and shifting consumer habits, will remain with the company for a further year as Advisor to the Chair, lending continuity even as day-to-day decisions pass to his successor.</p>\n\n<p>Nevertheless, analysts caution that leadership change alone will not resolve the structural challenges facing Hong Kong's real estate sector, including elevated interest rates and subdued mainland tourist spending. By the same token, some investors view Tsoi's extensive retail background as a potentially <span class=\"bw\">favourable<span class=\"tip\"><span class=\"tip-en\">advantageous or beneficial</span><span class=\"tip-zh\">有利的</span></span></span> sign, given the group's heavy reliance on shopping mall revenue. Critics contend that genuine recovery will depend less on who occupies the corner office than on whether the broader economy can <span class=\"bw\">regain momentum<span class=\"tip\"><span class=\"tip-en\">to start moving forward successfully again</span><span class=\"tip-zh\">重新獲得動力；復甦</span></span></span>.</p>",
       "vocab": [
         {
-          "phrase": "civic identity",
-          "zh": "公民身份認同",
-          "sample": "Large-scale public celebrations can help strengthen a sense of civic identity."
+          "phrase": "leadership transition",
+          "zh": "領導層過渡",
+          "sample": "The company announced a carefully planned leadership transition for next year."
         },
         {
-          "phrase": "cultural heritage",
-          "zh": "文化遺產",
-          "sample": "Preserving cultural heritage is an important part of a city's collective memory."
+          "phrase": "handover",
+          "zh": "交接；交班",
+          "sample": "A smooth handover between the outgoing and incoming CEOs reassured investors."
         },
         {
-          "phrase": "vantage point",
-          "zh": "有利位置；觀賞點",
-          "sample": "Thousands gathered at vantage points around the harbour to watch the fireworks."
+          "phrase": "CEO-designate",
+          "zh": "候任行政總裁",
+          "sample": "The CEO-designate spent a month shadowing the outgoing chief executive before taking over."
         },
         {
-          "phrase": "spectacle",
-          "zh": "壯觀場面",
-          "sample": "The fireworks display was a spectacle enjoyed by residents and tourists alike."
+          "phrase": "future-proof",
+          "zh": "為未來做好準備",
+          "sample": "Family-run conglomerates are under pressure to future-proof their management structures."
         },
         {
-          "phrase": "collective celebration",
-          "zh": "集體慶祝",
-          "sample": "Collective celebrations can foster a stronger sense of community belonging."
+          "phrase": "retail headwinds",
+          "zh": "零售業的不利因素",
+          "sample": "The group navigated years of retail headwinds caused by changing shopping habits."
         },
         {
-          "phrase": "civic spectacle",
-          "zh": "公民盛事",
-          "sample": "The annual fireworks show has become one of Hong Kong's signature civic spectacles."
+          "phrase": "advisor to the chair",
+          "zh": "主席顧問",
+          "sample": "The outgoing CEO will stay on as advisor to the chair for continuity."
         },
         {
-          "phrase": "tourism revenue",
-          "zh": "旅遊收入",
-          "sample": "Major festivals often generate substantial tourism revenue for the local economy."
+          "phrase": "structural challenge",
+          "zh": "結構性挑戰",
+          "sample": "Analysts say leadership change cannot fix the sector's structural challenges alone."
         },
         {
-          "phrase": "symbolic significance",
-          "zh": "象徵意義",
-          "sample": "The event carries symbolic significance beyond its immediate entertainment value."
+          "phrase": "elevated interest rates",
+          "zh": "偏高的利率",
+          "sample": "Elevated interest rates have weighed heavily on the property market."
         },
         {
-          "phrase": "public expenditure",
-          "zh": "公共開支",
-          "sample": "Critics questioned whether the public expenditure on fireworks was justified."
+          "phrase": "subdued spending",
+          "zh": "疲弱的消費",
+          "sample": "Subdued mainland tourist spending has hurt shopping mall revenues."
         },
         {
-          "phrase": "sense of belonging",
-          "zh": "歸屬感",
-          "sample": "Community events can help cultivate a stronger sense of belonging among residents."
+          "phrase": "favourable sign",
+          "zh": "有利的徵兆",
+          "sample": "Investors viewed the appointment as a favourable sign for the group's retail strategy."
         },
         {
-          "phrase": "choreographed",
-          "zh": "精心編排的",
-          "sample": "The fireworks were carefully choreographed to match the accompanying soundtrack."
+          "phrase": "regain momentum",
+          "zh": "重新獲得動力",
+          "sample": "The broader economy will need to regain momentum before the sector fully recovers."
         },
         {
-          "phrase": "influx of visitors",
-          "zh": "大量旅客湧入",
-          "sample": "The Golden Week holiday typically brings a significant influx of visitors to the city."
+          "phrase": "property developer",
+          "zh": "地產發展商",
+          "sample": "Hang Lung is one of Hong Kong's most prominent property developers."
         }
       ],
       "phrases": [
         {
           "en": "It is widely argued that",
           "zh": "普遍認為",
-          "sample": "It is widely argued that public celebrations strengthen community bonds."
+          "sample": "It is widely argued that leadership succession reflects wider pressures on family businesses."
         },
         {
-          "en": "serve a purpose beyond",
-          "zh": "具有超越……的作用",
-          "sample": "The festival serves a purpose beyond mere entertainment, reinforcing civic pride."
-        },
-        {
-          "en": "By the same token,",
-          "zh": "同樣道理，",
-          "sample": "By the same token, the event boosts morale among residents during difficult times."
-        },
-        {
-          "en": "is widely regarded as",
-          "zh": "被普遍認為是",
-          "sample": "The harbour fireworks display is widely regarded as a highlight of the festive calendar."
+          "en": "Critics contend that",
+          "zh": "批評者認為",
+          "sample": "Critics contend that a change of leadership cannot fix deep-rooted market problems."
         },
         {
           "en": "Nevertheless,",
-          "zh": "然而，",
-          "sample": "Nevertheless, some question whether the funds could be better spent elsewhere."
+          "zh": "然而；不過",
+          "sample": "Nevertheless, analysts welcomed the clarity provided by the planned transition."
         },
         {
-          "en": "question whether",
-          "zh": "質疑是否",
-          "sample": "Commentators question whether such lavish spending is the best use of public funds."
+          "en": "By the same token,",
+          "zh": "同樣地",
+          "sample": "By the same token, some investors see the appointment as a positive signal."
         },
         {
-          "en": "Proponents counter that",
-          "zh": "支持者則反駁指",
-          "sample": "Proponents counter that the celebration generates significant goodwill and revenue."
+          "en": "step down as",
+          "zh": "辭任；卸任",
+          "sample": "The chief executive stepped down as CEO after more than a decade in the role."
         },
         {
-          "en": "an opportunity to",
-          "zh": "一個……的機會",
-          "sample": "The festival offers an opportunity to showcase the city to international visitors."
+          "en": "ensure a smooth transition",
+          "zh": "確保平穩過渡",
+          "sample": "The company brought in the new CEO a month early to ensure a smooth transition."
         },
         {
-          "en": "added significance",
-          "zh": "額外的意義",
-          "sample": "The anniversary celebration carries added significance this year."
+          "en": "a veteran of",
+          "zh": "在……方面有豐富經驗的人",
+          "sample": "The new chief executive is a veteran of more than thirty years in retail management."
         },
         {
-          "en": "underscore",
-          "zh": "強調；凸顯",
-          "sample": "The event underscores the city's role as a hub for large-scale public events."
+          "en": "mounting pressure",
+          "zh": "日益增加的壓力",
+          "sample": "Family-controlled firms are under mounting pressure to modernise their leadership."
         },
         {
-          "en": "in an increasingly fragmented society",
-          "zh": "在日益分化的社會中",
-          "sample": "Shared celebrations matter more in an increasingly fragmented society."
+          "en": "lend continuity",
+          "zh": "提供延續性",
+          "sample": "Staying on as an advisor allows the former CEO to lend continuity to the business."
         },
         {
-          "en": "generate goodwill",
-          "zh": "產生善意",
-          "sample": "Cultural events often generate goodwill between residents and visitors."
+          "en": "day-to-day decisions",
+          "zh": "日常決策",
+          "sample": "Day-to-day decisions will now pass to the newly appointed chief executive."
         },
         {
-          "en": "a stage for",
-          "zh": "……的舞台",
-          "sample": "Victoria Harbour has long served as a stage for grand civic spectacles."
+          "en": "heavy reliance on",
+          "zh": "高度依賴",
+          "sample": "The group's heavy reliance on shopping mall revenue makes retail trends critical."
+        },
+        {
+          "en": "resolve structural challenges",
+          "zh": "解決結構性問題",
+          "sample": "A new chief executive alone cannot resolve the sector's structural challenges."
+        },
+        {
+          "en": "shifting consumer habits",
+          "zh": "不斷轉變的消費習慣",
+          "sample": "Retailers have had to adapt to shifting consumer habits in recent years."
+        },
+        {
+          "en": "corner office",
+          "zh": "高層辦公室（喻指高層職位）",
+          "sample": "Analysts argue that recovery depends on more than who sits in the corner office."
+        },
+        {
+          "en": "carefully staged succession",
+          "zh": "精心安排的接班程序",
+          "sample": "The carefully staged succession was designed to avoid disrupting investor confidence."
         }
       ]
     }
@@ -568,23 +593,23 @@
   "trends": [
     {
       "platforms": [
-        "ig",
-        "tiktok"
+        "threads",
+        "ig"
       ],
-      "headline": "🧸 Labubu blind-box craze keeps collectors hooked",
-      "summary_html": "<p>The \"Labubu\" craze, centred on Pop Mart's mischievous, pointy-toothed collectible figures, continues to dominate feeds on Instagram and TikTok among Hong Kong youth. Designed by Hong Kong-raised artist Kasing Lung, the \"ugly-cute\" monster is typically sold in <span class=\"bw\">blind boxes<span class=\"tip\"><span class=\"tip-en\">packaging that hides which specific item is inside until opened</span><span class=\"tip-zh\">盲盒</span></span></span>, meaning buyers only discover which figure they have bought after tearing open the packaging — a mechanic that has proven highly <span class=\"bw\">addictive<span class=\"tip\"><span class=\"tip-en\">causing a strong, often harmful urge to repeat an activity</span><span class=\"tip-zh\">令人上癮的</span></span></span>.</p>\n\n<p>Celebrity endorsements, including from K-pop and Hollywood stars spotted with the dolls clipped to designer handbags, have fuelled the toy's status as a fashion accessory as much as a collectible. Resale prices for rare editions can soar well above retail value, prompting queues outside stores and heated online bidding. For many Hong Kong teenagers, collecting and trading Labubu figures has become a social ritual, shared and compared constantly across social media platforms.</p>",
+      "headline": "🧵 Why Threads is quietly taking over Hong Kong teens' feeds",
+      "summary_html": "<p>Meta's text-based platform Threads has quietly become one of the fastest-growing social apps among Hong Kong youth, with awareness among local users climbing from 36 percent shortly after its 2023 launch to 66 percent more recently, while active usage has roughly tripled over the same period. The 18-to-34 age group is driving most of this growth, <span class=\"bw\">gravitating towards<span class=\"tip\"><span class=\"tip-en\">being naturally attracted or drawn towards something</span><span class=\"tip-zh\">自然地傾向於</span></span></span> the platform's fast-moving, text-first format for real-time commentary on everything from celebrity gossip to breaking local news.</p>\n\n<p>Much of the appeal lies in Threads' seamless <span class=\"bw\">integration<span class=\"tip\"><span class=\"tip-en\">the combination of two things so they work as one</span><span class=\"tip-zh\">整合；融合</span></span></span> with Instagram, which most Hongkongers already use — joining Threads requires little more than a single tap, instantly carrying over an existing network of followers. This low barrier to entry, combined with video content increasingly <span class=\"bw\">permeating<span class=\"tip\"><span class=\"tip-en\">spreading through and becoming a noticeable part of something</span><span class=\"tip-zh\">滲透；瀰漫</span></span></span> the platform, has made it an attractive alternative to more saturated apps.</p>",
       "causes": [
         {
-          "label": "Psychological appeal",
-          "text": "The unpredictable reward of not knowing which figure is inside a blind box triggers a dopamine-driven urge to keep buying and unboxing."
+          "label": "Social media influence",
+          "text": "Seamless cross-posting from Instagram, which almost all young Hongkongers already use, lowers the barrier to joining and lets networks transfer instantly."
         },
         {
-          "label": "Social media influence",
-          "text": "Celebrity endorsements and viral unboxing videos on Instagram and TikTok rapidly amplify the toy's visibility and desirability."
+          "label": "Psychological appeal",
+          "text": "The fast, text-first, real-time format satisfies a desire for quick social validation and immediate participation in trending conversations."
         },
         {
           "label": "Consumer culture",
-          "text": "Limited editions and resale scarcity feed a culture of status-driven collecting, especially among image-conscious teenagers."
+          "text": "Rising use of short video content on the platform mirrors broader youth demand for low-effort, highly shareable entertainment."
         }
       ]
     }

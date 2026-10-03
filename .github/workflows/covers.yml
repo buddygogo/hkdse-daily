@@ -1,0 +1,39 @@
+# Fetch cover photos for new articles (free — runs on GitHub's servers).
+# The Claude cloud routine can't reach news sites, so it pushes content
+# without photos; this job looks up each article's og:image and rebuilds.
+
+name: Fetch article covers
+
+on:
+  push:
+    branches: [main]
+    paths: ['archive.json']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: covers
+  cancel-in-progress: false
+
+jobs:
+  covers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 anthropic
+      - name: Fetch missing covers and rebuild
+        run: python generate.py --covers
+      - name: Commit
+        run: |
+          git config user.name  "HKDSE Covers Bot"
+          git config user.email "actions@github.com"
+          git add archive.json index.html a/
+          git diff --staged --quiet && exit 0
+          git commit -m "Add article covers"
+          git pull --rebase
+          git push

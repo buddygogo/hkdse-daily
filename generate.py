@@ -371,6 +371,62 @@ _PLATFORM_META = {
 # Source names that originated from Instagram — shown with IG badge
 _INSTAGRAM_SOURCES = {"HK01 News", "HK01 Education"}
 
+# Designed fallback covers — used when an article has no photo yet
+_COVER_GRADIENTS = {
+    "tech":   ("#1d3b8f", "#3aa0ff"), "school": ("#5b2a86", "#b46cf0"),
+    "env":    ("#14532d", "#4fbf6b"), "hk":     ("#8a1c1c", "#e8663d"),
+    "pop":    ("#9d174d", "#f472b6"), "social": ("#334155", "#7c93b8"),
+    "econ":   ("#7a5a00", "#e0b12e"), "health": ("#0f5e63", "#34c3b5"),
+    "global": ("#0b3d5c", "#3b9cc9"), "urban":  ("#3f3f46", "#a1a1aa"),
+    "law":    ("#3b2f1e", "#a0825a"), "career": ("#1e3a5f", "#5b8fd6"),
+    "sports": ("#9a3412", "#fb923c"), "arts":   ("#6b1d5c", "#d45fb4"),
+    "family": ("#7c2d12", "#f59e6b"),
+}
+
+
+def _first_cat(article: dict) -> str:
+    cats = (article.get("category") or "social").split()
+    return cats[0] if cats else "social"
+
+
+def _cover_html(article: dict, image_url: str | None, img_cls: str, wrap_fallback_cls: str) -> str:
+    """Real photo if we have one, with a designed topic cover behind it as fallback."""
+    cat = _first_cat(article)
+    c1, c2 = _COVER_GRADIENTS.get(cat, ("#1e293b", "#475569"))
+    emoji = _TAG_EMOJI.get(cat, "📰")
+    label = _TAG_META.get(cat, ("", "News"))[1]
+    fallback = (
+        f'<div class="cover-fallback {wrap_fallback_cls}" style="background:linear-gradient(135deg,{c1},{c2})">'
+        f'<span class="cover-emoji">{emoji}</span><span class="cover-label">{label}</span></div>'
+    )
+    url = image_url or article.get("image_url")
+    if not url:
+        return fallback
+    safe = url.replace('"', '%22')
+    alt = (article.get("headline") or "").replace('"', '')
+    return (
+        f'{fallback}<img class="{img_cls}" src="{safe}" alt="{alt}" loading="lazy" '
+        f'referrerpolicy="no-referrer" onerror="this.remove()">'
+    )
+
+
+def _nice_date(iso: str) -> str:
+    try:
+        return date.fromisoformat(iso).strftime("%-d %b %Y") if os.name != "nt" else date.fromisoformat(iso).strftime("%#d %b %Y")
+    except (ValueError, TypeError):
+        return iso or ""
+
+
+def _bilingual_html(en_html: str, zh_html: str, en_cls: str = "news-body") -> str:
+    """English article on the left, Traditional Chinese translation on the right."""
+    if not zh_html:
+        return f'<div class="{en_cls}">{en_html}</div>'
+    return f"""
+      <div class="bi-grid">
+        <div class="bi-col bi-en {en_cls}"><div class="bi-label">English</div>{en_html}</div>
+        <div class="bi-col bi-zh" lang="zh-Hant"><div class="bi-label">中文翻譯</div>{zh_html}</div>
+      </div>"""
+
 
 def _source_badge(source_name: str) -> str:
     """Return an Instagram badge span if the source came from Instagram."""
@@ -454,6 +510,7 @@ def _study_notes_html(article: dict, uid: str) -> str:
       <div class="vocab-section-label" style="margin-top:1.4rem;">✍️ DSE Writing Angles</div>
       <ul class="writing-angles-list">{angles_html}</ul>"""
 
+    note_key = article.get("id") or uid
     return f"""
     <div class="study-toggle" onclick="toggleStudy('{uid}')">
       <span class="study-toggle-label">📖 Study Notes</span>
@@ -469,15 +526,15 @@ def _study_notes_html(article: dict, uid: str) -> str:
           <tbody>{rows_html}</tbody>
         </table>
       </div>{angles_block}
-      <div class="article-note-section">
+      <div class="article-note-section" data-note="{note_key}">
         <div class="note-label">✏️ My Notes</div>
         <p class="note-login-hint">
           <button onclick="signInWithGoogle()">Sign in with Google</button> to save personal notes for this article
         </p>
-        <textarea class="note-textarea" id="note-area-{uid}" placeholder="Write your own notes, essay ideas, or vocabulary reminders here…"></textarea>
+        <textarea class="note-textarea" placeholder="Write your own notes, essay ideas, or vocabulary reminders here…"></textarea>
         <div class="note-save-row">
-          <button class="note-save-btn" onclick="saveNote('{uid}')">Save Note</button>
-          <span class="note-status" id="note-status-{uid}"></span>
+          <button class="note-save-btn" onclick="saveNote('{note_key}', this)">Save note</button>
+          <span class="note-status"></span>
         </div>
       </div>
     </div>"""
@@ -497,13 +554,7 @@ def build_hero_html(article: dict, image_url: str | None, uid: str) -> str:
     pub      = article.get("published_date", "")
     ig_badge = _source_badge(src_name)
 
-    img_html = ""
-    if image_url:
-        safe = image_url.replace('"', '%22')
-        alt  = article.get("headline", "").replace('"', '')
-        img_html = f'<img class="hero-img" src="{safe}" alt="{alt}" loading="eager" onerror="this.parentElement.classList.add(\'no-img\')">'
-    else:
-        img_html = '<div class="hero-img-placeholder"></div>'
+    img_html = _cover_html(article, image_url, "hero-img", "cover-hero")
 
     study = _study_notes_html(article, uid)
 
@@ -525,14 +576,25 @@ def build_hero_html(article: dict, image_url: str | None, uid: str) -> str:
       </div>
     </div>
     <div class="hero-body" id="body-{uid}">
-      <div class="news-body">{article.get('summary_html','')}</div>
+      {_bilingual_html(article.get('summary_html',''), article.get('summary_zh_html',''))}
       {study}
     </div>
   </article>"""
 
 
-def build_article_card_html(article: dict, image_url: str | None, uid: str) -> str:
-    """Subsequent articles as compact grid cards."""
+_FRAGMENTS: dict[str, str] = {}   # a/<id>.html files written next to index.html
+
+
+def _excerpt(html: str, words: int = 38) -> str:
+    text = re.sub(r"<span class=\"tip\">.*?</span></span>", "", html or "", flags=re.S)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = " ".join(text.split())
+    parts = text.split(" ")
+    return " ".join(parts[:words]) + ("…" if len(parts) > words else "")
+
+
+def build_article_card_html(article: dict, image_url: str | None, uid: str, lazy: bool = False) -> str:
+    """Grid card. lazy=True keeps only a preview in the page; full text loads from a/<id>.html."""
     cats     = article.get("category", "social").split()
     data_cat = " ".join(cats)
     first_cat = cats[0] if cats else "social"
@@ -545,13 +607,21 @@ def build_article_card_html(article: dict, image_url: str | None, uid: str) -> s
     pub      = article.get("published_date", "")
     ig_badge = _source_badge(src_name)
 
-    img_html = ""
-    if image_url:
-        safe = image_url.replace('"', '%22')
-        alt  = article.get("headline", "").replace('"', '')
-        img_html = f'<div class="card-thumb-wrap"><img class="card-thumb" src="{safe}" alt="{alt}" loading="lazy" onerror="this.parentElement.style.display=\'none\'"></div>'
+    img_html = f'<div class="card-thumb-wrap" onclick="openFull(\'{uid}\')">{_cover_html(article, image_url, "card-thumb", "cover-card")}</div>'
 
-    study = _study_notes_html(article, uid)
+    full_body = (
+        _bilingual_html(article.get('summary_html', ''), article.get('summary_zh_html', ''), 'card-summary news-body')
+        + _study_notes_html(article, uid)
+    )
+    if lazy:
+        _FRAGMENTS[uid] = full_body
+        body_html = (f'<div id="body-{uid}" data-src="a/{uid}.html">'
+                     f'<p class="card-summary card-excerpt">{_excerpt(article.get("summary_html", ""))}</p>'
+                     f'<button class="read-more-btn" onclick="openFull(\'{uid}\')">Read article + 中文 →</button></div>')
+    else:
+        body_html = f'<div id="body-{uid}">{full_body}</div>'
+    date_chip = f'<span class="card-dot">·</span><span class="card-pub">{_nice_date(article["date"])}</span>' if lazy and article.get("date") else (
+        f'<span class="card-dot">·</span><span class="card-pub">{pub}</span>' if pub else '')
 
     return f"""
   <article class="article-card" data-cat="{data_cat}">
@@ -562,12 +632,9 @@ def build_article_card_html(article: dict, image_url: str | None, uid: str) -> s
       <div class="card-meta" id="meta-{uid}">
         <a class="card-source" href="{src_url}" target="_blank" rel="noopener">{src_name}</a>
         {ig_badge}
-        {f'<span class="card-dot">·</span><span class="card-pub">{pub}</span>' if pub else ''}
+        {date_chip}
       </div>
-      <div id="body-{uid}">
-        <div class="card-summary news-body">{article.get('summary_html','')}</div>
-        {study}
-      </div>
+      {body_html}
     </div>
   </article>"""
 
@@ -594,7 +661,7 @@ def build_trend_sidebar_html(trend: dict, idx: int) -> str:
     <div id="meta-{uid}" style="display:none"><span>Social Trend</span></div>
     <div id="body-{uid}">
       <div class="study-drawer" id="drawer-{uid}">
-        <div class="trend-body">{trend.get('summary_html','')}</div>
+        {_bilingual_html(trend.get('summary_html',''), trend.get('summary_zh_html',''), 'trend-body')}
         <div class="causes-block">
           <div class="causes-title">HKDSE Writing Angles</div>
           <ul class="causes-list">{causes_html}</ul>
@@ -624,9 +691,9 @@ def build_trend_main_html(trends: list[dict]) -> str:
   <div class="trend-main-item article-card" data-cat="trends social pop">
     <div class="trend-item-platforms">{plat_html}</div>
     <h3 class="trend-main-headline clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{trend.get('headline','')}</h3>
-    <div id="meta-{uid}" style="display:none"><span>Social Trend</span></div>
+    <div class="card-meta" id="meta-{uid}"><span>Social Trend</span>{f'<span class="card-dot">·</span><span class="card-pub">{_nice_date(trend.get("date",""))}</span>' if trend.get("date") else ''}</div>
     <div id="body-{uid}">
-      <div class="trend-body">{trend.get('summary_html','')}</div>
+      {_bilingual_html(trend.get('summary_html',''), trend.get('summary_zh_html',''), 'trend-body')}
       <div class="causes-block">
         <div class="causes-title">HKDSE Writing Angles</div>
         <ul class="causes-list">{causes_html}</ul>
@@ -636,7 +703,7 @@ def build_trend_main_html(trends: list[dict]) -> str:
     return f"""
   <div class="main-section-head" data-cat="trends">
     <h2>📲 Social Trends</h2>
-    <span class="section-see-all">Trending now</span>
+    <span class="section-see-all">{len(trends)} trends · newest first</span>
   </div>
   <div class="articles-grid trends-grid" data-cat="trends">
     {items_html}
@@ -1461,6 +1528,42 @@ CSS = """
     }
     .note-save-btn:hover { opacity: 0.88; }
     .note-status { font-size: 0.77rem; color: var(--accent); }
+
+    /* ── BILINGUAL ARTICLE (EN left / 中文 right) ── */
+    .bi-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1rem; }
+    .bi-col { min-width: 0; }
+    .bi-zh { border-left: 1px solid var(--border); padding-left: 1.5rem;
+             font-family: 'Noto Sans HK', sans-serif; font-size: 0.95rem; line-height: 1.95; color: var(--sub); }
+    .bi-zh p + p { margin-top: 0.8rem; }
+    .bi-label { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+                color: var(--muted); margin-bottom: 0.5rem; }
+    /* cards are previews: English only; the full view shows both columns */
+    .article-card .bi-grid { display: block; }
+    .article-card .bi-zh, .article-card .bi-label { display: none; }
+    .full-body .bi-grid { display: grid; }
+    .full-body .bi-zh, .full-body .bi-label { display: block; }
+    @media (max-width: 760px) {
+      .bi-grid, .full-body .bi-grid { grid-template-columns: 1fr; }
+      .bi-zh { border-left: 0; padding-left: 0; border-top: 1px solid var(--border); padding-top: 1rem; }
+    }
+
+    /* ── COVERS ── */
+    .hero-media, .card-thumb-wrap { position: relative; }
+    .cover-fallback { position: absolute; inset: 0; display: flex; flex-direction: column;
+                      align-items: center; justify-content: center; gap: 0.35rem; color: #fff; }
+    .cover-emoji { font-size: 2.6rem; filter: drop-shadow(0 2px 6px rgba(0,0,0,0.25)); }
+    .cover-hero .cover-emoji { font-size: 4rem; }
+    .cover-label { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.9; }
+    .hero-img, .card-thumb { position: relative; z-index: 1; }
+    .hero-overlay, .hero-overlay-text { z-index: 2; }
+    .card-thumb-wrap { cursor: pointer; }
+
+    /* ── LIBRARY ── */
+    .library-intro { margin: 2.5rem 0 0.5rem; padding-top: 1.5rem; border-top: 2px solid var(--border); }
+    .library-intro h2 { font-family: 'DM Serif Display', serif; font-size: 1.6rem; color: var(--ink); margin: 0 0 0.25rem; }
+    .library-intro p { color: var(--muted); font-size: 0.88rem; margin: 0; }
+    .library-section { margin-top: 1.5rem; }
+    .full-overlay-inner { max-width: 1120px; }
 """
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -1622,7 +1725,29 @@ JS = """
   })();
 
   // ── FULL-SCREEN ARTICLE / TREND VIEWER ──────────────────────────────────────
+  // Library articles load their full text on demand from a/<id>.html
   function openFull(uid) {
+    var srcBody = document.getElementById('body-' + uid);
+    if (srcBody && srcBody.dataset.src && !srcBody.dataset.loaded) {
+      srcBody.classList.add('loading');
+      fetch(srcBody.dataset.src).then(function(r) {
+        if (!r.ok) throw new Error(r.status);
+        return r.text();
+      }).then(function(html) {
+        srcBody.innerHTML = html;
+        srcBody.dataset.loaded = '1';
+        srcBody.classList.remove('loading');
+        _openFullNow(uid);
+      }).catch(function() {
+        srcBody.classList.remove('loading');
+        alert('Could not load this article. Check your connection and try again.');
+      });
+      return;
+    }
+    _openFullNow(uid);
+  }
+
+  function _openFullNow(uid) {
     var overlay = document.getElementById('full-overlay');
     var headEl  = document.getElementById('full-headline');
     var metaEl  = document.getElementById('full-meta');
@@ -1643,8 +1768,12 @@ JS = """
       clone.querySelectorAll('.study-drawer').forEach(function(d){ d.style.display = 'block'; });
       // Hide toggle buttons — content is always visible in full view
       clone.querySelectorAll('.study-toggle, .trend-study-toggle').forEach(function(t){ t.style.display = 'none'; });
+      // Avoid duplicate IDs: the overlay copy gets its own
+      clone.removeAttribute('id');
+      clone.querySelectorAll('[id]').forEach(function(el){ el.id = 'full-' + el.id; });
       bodyEl.innerHTML = '';
       bodyEl.appendChild(clone);
+      if (window._applyUserState) window._applyUserState(clone);
     }
 
     overlay.classList.add('open');
@@ -1692,27 +1821,60 @@ JS = """
             if (av && user.photoURL) av.src = user.photoURL;
             if (nm) nm.textContent = user.displayName || user.email;
           }
-          // Show notes UI
-          document.querySelectorAll('.note-login-hint').forEach(function(el){ el.style.display='none'; });
-          document.querySelectorAll('.note-textarea').forEach(function(el){ el.style.display='block'; });
-          document.querySelectorAll('.note-save-row').forEach(function(el){ el.style.display='flex'; });
-          // Load cloud data
           _loadCloudVocab(user.uid);
           _loadCloudNotes(user.uid);
         } else {
           if (loginBtn) loginBtn.style.display = 'flex';
           if (userPill) userPill.style.display = 'none';
-          document.querySelectorAll('.note-login-hint').forEach(function(el){ el.style.display=''; });
-          document.querySelectorAll('.note-textarea').forEach(function(el){ el.style.display='none'; });
-          document.querySelectorAll('.note-save-row').forEach(function(el){ el.style.display='none'; });
+          _notesCache = {};
         }
+        _applyUserState(document);
       });
     }
     initFirebase();
 
+    var _notesCache = {};
+
+    // Sync note boxes and saved-vocab highlights inside `root`
+    // (the page, a lazily loaded article, or the full-screen copy)
+    function _applyUserState(root) {
+      var signedIn = !!(window._fb && window._fb.auth.currentUser);
+      root.querySelectorAll('.article-note-section').forEach(function(sec) {
+        var hint = sec.querySelector('.note-login-hint');
+        var area = sec.querySelector('.note-textarea');
+        var row  = sec.querySelector('.note-save-row');
+        if (hint) hint.style.display = signedIn ? 'none' : '';
+        if (area) {
+          area.style.display = signedIn ? 'block' : 'none';
+          var key = sec.dataset.note;
+          if (signedIn && key && _notesCache[key] !== undefined && !area.value) area.value = _notesCache[key];
+        }
+        if (row) row.style.display = signedIn ? 'flex' : 'none';
+      });
+      var saved = _loadSaved().map(function(x){ return x.phrase.replace(/'/g,"\'"); });
+      root.querySelectorAll('.save-vocab-btn, .save-vocab-btn-sm').forEach(function(b) {
+        var oc = b.getAttribute('onclick') || '';
+        if (saved.some(function(p){ return oc.indexOf("'" + p + "'") !== -1; })) b.classList.add('saved');
+      });
+    }
+    window._applyUserState = _applyUserState;
+
+    var _SIGNIN_MESSAGES = {
+      'auth/popup-blocked': 'Your browser blocked the sign-in window. Allow pop-ups for this site, then tap Sign in again.',
+      'auth/operation-not-allowed': 'Google sign-in is not switched on for this site yet. Please tell your teacher.',
+      'auth/unauthorized-domain': 'Sign-in is not enabled for this web address yet. Please tell your teacher.',
+      'auth/network-request-failed': 'No connection to Google. Check your internet and try again.',
+      'auth/web-storage-unsupported': 'This browser blocks sign-in. Open the site in Chrome or Safari instead.',
+      'auth/operation-not-supported-in-this-environment': 'Sign-in does not work inside this app. Open the site in Chrome or Safari instead.'
+    };
     window.signInWithGoogle = function() {
-      if (!window._fb) return;
-      window._fb.auth.signInWithPopup(new firebase.auth.GoogleAuthProvider());
+      if (!window._fb) { alert('Sign-in is still loading. Try again in a moment.'); return; }
+      var provider = new firebase.auth.GoogleAuthProvider();
+      provider.setCustomParameters({ prompt: 'select_account' });
+      window._fb.auth.signInWithPopup(provider).catch(function(e) {
+        if (e.code === 'auth/popup-closed-by-user' || e.code === 'auth/cancelled-popup-request') return;
+        alert(_SIGNIN_MESSAGES[e.code] || ('Sign-in failed (' + (e.code || e.message) + '). Try again.'));
+      });
     };
     window.signOutGoogle = function() {
       if (!window._fb) return;
@@ -1731,23 +1893,15 @@ JS = """
           });
           _saveSaved(localList);
           _updateBadge();
-          localList.forEach(function(item) {
-            document.querySelectorAll('.save-vocab-btn, .save-vocab-btn-sm').forEach(function(b) {
-              if ((b.getAttribute('onclick') || '').indexOf(item.phrase.replace(/'/g,"\\'")) !== -1) {
-                b.classList.add('saved');
-              }
-            });
-          });
+          _applyUserState(document);
         }).catch(function(){});
     }
 
     function _loadCloudNotes(uid) {
       window._fb.db.collection('users').doc(uid).collection('notes')
         .get().then(function(snap) {
-          snap.forEach(function(doc) {
-            var area = document.getElementById('note-area-' + doc.id);
-            if (area) area.value = doc.data().text || '';
-          });
+          snap.forEach(function(doc) { _notesCache[doc.id] = doc.data().text || ''; });
+          _applyUserState(document);
         }).catch(function(){});
     }
 
@@ -1778,19 +1932,26 @@ JS = """
       window._fb.db.collection('users').doc(user.uid).collection('vocab').doc(docId).delete().catch(function(){});
     };
 
-    window.saveNote = function(articleUid) {
+    // Notes are keyed by the article's permanent id, so they follow it into the library
+    window.saveNote = function(noteKey, btn) {
       if (!window._fb) return;
       var user = window._fb.auth.currentUser;
       if (!user) return;
-      var area   = document.getElementById('note-area-' + articleUid);
-      var status = document.getElementById('note-status-' + articleUid);
+      var sec    = btn ? btn.closest('.article-note-section') : null;
+      var area   = sec ? sec.querySelector('.note-textarea') : null;
+      var status = sec ? sec.querySelector('.note-status') : null;
       if (!area) return;
-      window._fb.db.collection('users').doc(user.uid).collection('notes').doc(articleUid)
+      _notesCache[noteKey] = area.value;
+      // keep the other copy (card vs full-screen) in step
+      document.querySelectorAll('.article-note-section[data-note="' + noteKey + '"] .note-textarea').forEach(function(t){
+        if (t !== area) t.value = area.value;
+      });
+      window._fb.db.collection('users').doc(user.uid).collection('notes').doc(noteKey)
         .set({ text: area.value, updated: firebase.firestore.FieldValue.serverTimestamp() })
         .then(function() {
           if (status) { status.textContent = 'Saved ✓'; setTimeout(function(){ status.textContent = ''; }, 2000); }
         }).catch(function() {
-          if (status) status.textContent = 'Error — try again';
+          if (status) status.textContent = 'Could not save. Check your connection and try again.';
         });
     };
   })();
@@ -1908,15 +2069,16 @@ HTML_TEMPLATE = """\
 
   <!-- MAIN CONTENT -->
   <main class="main-content">
-    <div class="main-section-head">
+    <div class="main-section-head today-head">
       <h2>Today's News</h2>
-      <span class="section-see-all">Updated daily</span>
+      <span class="section-see-all">{today_label} · {total_count} articles in the library</span>
     </div>
     {hero}
     <div class="articles-grid">
       {articles_grid}
     </div>
     {trends_main}
+    {library}
   </main>
 
   <!-- RIGHT SIDEBAR -->
@@ -1945,9 +2107,93 @@ HTML_TEMPLATE = """\
 </html>"""
 
 
+ARCHIVE_FILE = "archive.json"
+_CAT_ORDER = ["tech", "school", "env", "hk", "pop", "social", "econ", "health",
+              "global", "urban", "law", "career", "sports", "arts", "family"]
+
+
+def load_archive(path: str = ARCHIVE_FILE) -> dict:
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            arc = json.load(f)
+    else:
+        arc = {}
+    arc.setdefault("articles", [])
+    arc.setdefault("trends", [])
+    return arc
+
+
+def save_archive(arc: dict, path: str = ARCHIVE_FILE) -> None:
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(arc, f, ensure_ascii=False, indent=1)
+
+
+def _item_id(prefix: str, headline: str) -> str:
+    import hashlib
+    return prefix + hashlib.md5(headline.strip().lower().encode()).hexdigest()[:8]
+
+
+def merge_into_archive(arc: dict, data: dict, day: str) -> dict:
+    """Add a day's articles/trends to the archive (skips duplicates by headline or URL)."""
+    have_hl  = {a.get("headline", "").strip().lower() for a in arc["articles"]}
+    have_url = {a.get("source_url") for a in arc["articles"] if a.get("source_url")}
+    for a in data.get("articles", []):
+        hl = a.get("headline", "").strip().lower()
+        if not hl or hl in have_hl or (a.get("source_url") and a["source_url"] in have_url):
+            continue
+        a["date"] = day
+        a["id"] = _item_id("a", hl)
+        arc["articles"].append(a)
+        have_hl.add(hl)
+    have_t = {t.get("headline", "").strip().lower() for t in arc["trends"]}
+    for t in data.get("trends", []):
+        hl = t.get("headline", "").strip().lower()
+        if not hl or hl in have_t:
+            continue
+        t["date"] = day
+        t["id"] = _item_id("t", hl)
+        arc["trends"].append(t)
+        have_t.add(hl)
+    if data.get("exam_date"):
+        arc["exam_date"] = data["exam_date"]
+    return arc
+
+
+def apply_backfill(arc: dict, patch: dict) -> int:
+    """patch = {"<id>": {field: value, ...}} — overwrites fields and clears needs_backfill."""
+    n = 0
+    for item in arc["articles"] + arc["trends"]:
+        upd = patch.get(item.get("id"))
+        if upd:
+            item.update(upd)
+            item.pop("needs_backfill", None)
+            n += 1
+    return n
+
+
+def fetch_missing_covers(arc: dict, limit: int = 300) -> int:
+    """Look up og:image for articles without a cover. Needs open internet (GitHub Actions)."""
+    n = 0
+    for a in arc["articles"]:
+        if n >= limit:
+            break
+        if a.get("image_url") or a.get("image_checked"):
+            continue
+        img = fetch_og_image(a.get("source_url", ""))
+        a["image_checked"] = True
+        if img:
+            a["image_url"] = img
+            n += 1
+    return n
+
+
+def _sorted_newest(items: list[dict]) -> list[dict]:
+    # stable sort: newest date first, original order kept within a day
+    return sorted(items, key=lambda x: x.get("date", ""), reverse=True)
+
+
 def build_page(data: dict) -> str:
-    """Assemble the complete HTML page from generated data."""
-    # Resolve exam date
+    """Assemble the complete HTML page. `data` is the archive (or one day's data.json)."""
     exam_date, _, is_estimated = get_next_exam_date()
     raw_exam = data.get("exam_date")
     if raw_exam and raw_exam != "null":
@@ -1959,41 +2205,55 @@ def build_page(data: dict) -> str:
         except ValueError:
             pass
 
-    # Fetch article images
     articles = data.get("articles", [])
-    article_images: list[str | None] = []
-    for a in articles:
-        url = a.get("source_url", "")
-        img = None
-        if url.startswith("http"):
-            print(f"  📷 Fetching image: {url[:60]}…")
-            img = fetch_og_image(url)
-            print(f"     {'✓ ' + img[:65] if img else '(none)'}")
-        article_images.append(img)
+    latest = max((a.get("date", "") for a in articles), default="")
+    today_arts = [a for a in articles if a.get("date", "") == latest]
+    older = _sorted_newest([a for a in articles if a.get("date", "") != latest])
 
-    # Hero = first article
-    if articles:
-        hero_html = build_hero_html(articles[0], article_images[0], "a0")
+    if today_arts:
+        hero_html = build_hero_html(today_arts[0], None, today_arts[0].get("id") or "a0")
         grid_html = "".join(
-            build_article_card_html(a, article_images[i+1], f"a{i+1}")
-            for i, a in enumerate(articles[1:])
+            build_article_card_html(a, None, a.get("id") or f"a{i+1}") for i, a in enumerate(today_arts[1:])
         )
     else:
-        hero_html = ""
-        grid_html = ""
+        hero_html = grid_html = ""
 
-    raw_trends = data.get("trends", [])
+    # Library: one section per topic, newest first
+    library_html = ""
+    uid_n = 0
+    for cat in _CAT_ORDER:
+        items = [a for a in older if _first_cat(a) == cat]
+        if not items:
+            continue
+        cards = ""
+        for a in items:
+            cards += build_article_card_html(a, None, a.get("id") or f"x{uid_n}", lazy=True)
+            uid_n += 1
+        em = _TAG_EMOJI.get(cat, "📰")
+        lbl = _TAG_META.get(cat, ("", cat))[1]
+        plural = "s" if len(items) != 1 else ""
+        library_html += f"""
+  <section class="library-section" data-cat="{cat}">
+    <div class="main-section-head">
+      <h2>{em} {lbl}</h2>
+      <span class="section-see-all">{len(items)} article{plural}</span>
+    </div>
+    <div class="articles-grid">{cards}
+    </div>
+  </section>"""
+    if library_html:
+        library_html = f"""
+  <div class="library-intro" data-cat="all">
+    <h2>📚 Article Library</h2>
+    <p>Every past brief, sorted by topic. Pick a topic on the left to see only that area.</p>
+  </div>{library_html}"""
 
-    # Trends in right sidebar
-    trends_html = "".join(
-        build_trend_sidebar_html(t, i)
-        for i, t in enumerate(raw_trends)
-    )
+    trends = _sorted_newest(data.get("trends", []))
+    latest_t = trends[0].get("date", "") if trends else ""
+    side_trends = [t for t in trends if t.get("date", "") == latest_t] or trends[:2]
+    trends_html = "".join(build_trend_sidebar_html(t, i) for i, t in enumerate(side_trends))
+    trends_main_html = build_trend_main_html(trends)
 
-    # Trends in main feed
-    trends_main_html = build_trend_main_html(raw_trends)
-
-    # Countdown widget
     countdown_html = build_countdown_widget_html(exam_date, is_estimated)
 
     return HTML_TEMPLATE.format(
@@ -2001,15 +2261,65 @@ def build_page(data: dict) -> str:
         js=JS,
         hero=hero_html,
         articles_grid=grid_html,
+        library=library_html,
         trends_main=trends_main_html,
         trends_sidebar=trends_html,
         countdown_sidebar=countdown_html,
+        today_label=_nice_date(latest),
+        total_count=len(articles),
     )
 
 
 # ── MAIN ─────────────────────────────────────────────────────────────────────
 
+def _write_index(arc: dict) -> None:
+    _FRAGMENTS.clear()
+    html = build_page(arc)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(html)
+    os.makedirs("a", exist_ok=True)
+    for old in os.listdir("a"):
+        if old.endswith(".html") and old[:-5] not in _FRAGMENTS:
+            os.remove(os.path.join("a", old))
+    for uid, frag in _FRAGMENTS.items():
+        with open(os.path.join("a", f"{uid}.html"), "w", encoding="utf-8") as f:
+            f.write(frag)
+    print(f"✅ Built {OUTPUT_FILE}: {len(arc['articles'])} articles, {len(arc['trends'])} trends")
+
+
+def cli() -> bool:
+    """Archive workflow used by the cloud routine and GitHub Actions.
+       --merge data.json [YYYY-MM-DD]   add a day's content to archive.json and rebuild
+       --backfill patch.json            apply fixes to old items and rebuild
+       --covers                         fetch missing cover photos and rebuild
+       --build                          rebuild index.html from archive.json
+    """
+    args = sys.argv[1:]
+    if not args:
+        return False
+    arc = load_archive()
+    if args[0] == "--merge":
+        with open(args[1], encoding="utf-8") as f:
+            data = json.load(f)
+        from datetime import timezone, timedelta
+        day = args[2] if len(args) > 2 else datetime.now(timezone(timedelta(hours=8))).date().isoformat()
+        merge_into_archive(arc, data, day)
+    elif args[0] == "--backfill":
+        with open(args[1], encoding="utf-8") as f:
+            print("  patched", apply_backfill(arc, json.load(f)), "items")
+    elif args[0] == "--covers":
+        print("  found", fetch_missing_covers(arc), "new covers")
+    elif args[0] != "--build":
+        print(cli.__doc__)
+        sys.exit(2)
+    save_archive(arc)
+    _write_index(arc)
+    return True
+
+
 def main() -> None:
+    if cli():
+        return
     if not os.environ.get("ANTHROPIC_API_KEY"):
         print("❌  ANTHROPIC_API_KEY is not set.")
         print("    Export it:  export ANTHROPIC_API_KEY=sk-ant-...")

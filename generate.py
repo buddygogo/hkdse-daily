@@ -384,6 +384,33 @@ _COVER_GRADIENTS = {
 }
 
 
+# Each topic is an "MTR line" with its own colour
+_LINE_COLOURS = {
+    "tech": "#0075C2", "school": "#00A650", "env": "#9BB21B", "hk": "#E2231A",
+    "pop": "#E8479A", "social": "#7D499D", "econ": "#F38B00", "health": "#00888E",
+    "global": "#4BA8DE", "urban": "#9A3B26", "law": "#1D3F73", "career": "#5F6F2A",
+    "sports": "#D9A400", "arts": "#B5307A", "family": "#8C5E3C",
+}
+
+
+def build_route_strip(articles: list[dict], trends: list[dict]) -> str:
+    counts = {}
+    for a in articles:
+        counts[_first_cat(a)] = counts.get(_first_cat(a), 0) + 1
+    stops = [f'<button class="line-stop active" data-cat="all" onclick="filterCards(\'all\',this)" style="--line:#151922">'
+             f'<span class="stop-dot"></span><span class="stop-name">All topics</span></button>']
+    if trends:
+        stops.append(f'<button class="line-stop" data-cat="trends" onclick="filterCards(\'trends\',this)" style="--line:#D7261E">'
+                     f'<span class="stop-dot"></span><span class="stop-name">Social trends</span></button>')
+    for cat in _CAT_ORDER:
+        lbl = _TAG_META.get(cat, ("", cat))[1]
+        n = counts.get(cat, 0)
+        stops.append(f'<button class="line-stop{" empty" if not n else ""}" data-cat="{cat}" onclick="filterCards(\'{cat}\',this)" '
+                     f'style="--line:{_LINE_COLOURS[cat]}"><span class="stop-dot"></span>'
+                     f'<span class="stop-name">{lbl}</span></button>')
+    return "".join(stops)
+
+
 def _first_cat(article: dict) -> str:
     cats = (article.get("category") or "social").split()
     return cats[0] if cats else "social"
@@ -399,14 +426,14 @@ def _cover_html(article: dict, image_url: str | None, img_cls: str, wrap_fallbac
         f'<div class="cover-fallback {wrap_fallback_cls}" style="background:linear-gradient(135deg,{c1},{c2})">'
         f'<span class="cover-emoji">{emoji}</span><span class="cover-label">{label}</span></div>'
     )
-    url = image_url or article.get("image_url")
+    url = article.get("cover")  # AI-generated cover (make_covers.py); news-site photos are never used
     if not url:
         return fallback
     safe = url.replace('"', '%22')
     alt = (article.get("headline") or "").replace('"', '')
     return (
         f'{fallback}<img class="{img_cls}" src="{safe}" alt="{alt}" loading="lazy" '
-        f'referrerpolicy="no-referrer" onerror="this.remove()">'
+        f'onerror="this.remove()">'
     )
 
 
@@ -417,8 +444,21 @@ def _nice_date(iso: str) -> str:
         return iso or ""
 
 
+def _number_marks(html: str, cls: str) -> str:
+    """<span class="bw"> → <span class="bw" data-k="1">, in order of appearance."""
+    n = 0
+    def tag(_m):
+        nonlocal n
+        n += 1
+        return f'<span class="{cls}" data-k="{n}">'
+    return re.sub(rf'<span class=(?:\\?)"{cls}(?:\\?)">', tag, html or "")
+
+
 def _bilingual_html(en_html: str, zh_html: str, en_cls: str = "news-body") -> str:
-    """English article on the left, Traditional Chinese translation on the right."""
+    """English article on the left, Traditional Chinese translation on the right.
+    The Nth highlighted English phrase (.bw) is paired with the Nth Chinese one (.bwz)."""
+    en_html = _number_marks(en_html, "bw")
+    zh_html = _number_marks(zh_html, "bwz")
     if not zh_html:
         return f'<div class="{en_cls}">{en_html}</div>'
     return f"""
@@ -562,17 +602,20 @@ def build_hero_html(article: dict, image_url: str | None, uid: str) -> str:
 
     return f"""
   <article class="hero-card" data-cat="{data_cat}">
-    <div class="hero-media">
-      {img_html}
-      <div class="hero-overlay"></div>
-      <div class="hero-overlay-text">
-        <span class="cat-chip {tag_cls}">{tag_em} {tag_lbl}</span>
+    <div class="hero-top">
+      <div class="hero-media" onclick="openFull('{uid}')">
+        {img_html}
+      </div>
+      <div class="hero-head">
+        <span class="cat-chip {tag_cls}" style="--line:{_LINE_COLOURS.get(first_cat, '#151922')}">{tag_lbl}</span>
         <h2 class="hero-headline clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{article.get('headline','')}</h2>
         <div class="hero-byline" id="meta-{uid}">
           <a class="hero-source" href="{src_url}" target="_blank" rel="noopener">{src_name}</a>
           {ig_badge}
           {f'<span class="hero-dot">·</span><span class="hero-pub">{pub}</span>' if pub else ''}
         </div>
+        <p class="hero-excerpt">{_excerpt(article.get('summary_html', ''), 60)}</p>
+        <button class="read-more-btn hero-read" onclick="openFull('{uid}')">Read in English + 中文</button>
       </div>
     </div>
     <div class="hero-body" id="body-{uid}">
@@ -617,7 +660,7 @@ def build_article_card_html(article: dict, image_url: str | None, uid: str, lazy
         _FRAGMENTS[uid] = full_body
         body_html = (f'<div id="body-{uid}" data-src="a/{uid}.html">'
                      f'<p class="card-summary card-excerpt">{_excerpt(article.get("summary_html", ""))}</p>'
-                     f'<button class="read-more-btn" onclick="openFull(\'{uid}\')">Read article + 中文 →</button></div>')
+                     f'<button class="read-more-btn" onclick="openFull(\'{uid}\')">Read in English + 中文</button></div>')
     else:
         body_html = f'<div id="body-{uid}">{full_body}</div>'
     date_chip = f'<span class="card-dot">·</span><span class="card-pub">{_nice_date(article["date"])}</span>' if lazy and article.get("date") else (
@@ -627,7 +670,7 @@ def build_article_card_html(article: dict, image_url: str | None, uid: str, lazy
   <article class="article-card" data-cat="{data_cat}">
     {img_html}
     <div class="card-body">
-      <span class="cat-chip {tag_cls}">{tag_em} {tag_lbl}</span>
+      <span class="cat-chip {tag_cls}" style="--line:{_LINE_COLOURS.get(first_cat, '#151922')}">{tag_lbl}</span>
       <h3 class="card-headline clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{article.get('headline','')}</h3>
       <div class="card-meta" id="meta-{uid}">
         <a class="card-source" href="{src_url}" target="_blank" rel="noopener">{src_name}</a>
@@ -663,7 +706,7 @@ def build_trend_sidebar_html(trend: dict, idx: int) -> str:
       <div class="study-drawer" id="drawer-{uid}">
         {_bilingual_html(trend.get('summary_html',''), trend.get('summary_zh_html',''), 'trend-body')}
         <div class="causes-block">
-          <div class="causes-title">HKDSE Writing Angles</div>
+          <div class="causes-title">DSE writing angles</div>
           <ul class="causes-list">{causes_html}</ul>
         </div>
       </div>
@@ -695,15 +738,16 @@ def build_trend_main_html(trends: list[dict]) -> str:
     <div id="body-{uid}">
       {_bilingual_html(trend.get('summary_html',''), trend.get('summary_zh_html',''), 'trend-body')}
       <div class="causes-block">
-        <div class="causes-title">HKDSE Writing Angles</div>
+        <div class="causes-title">DSE writing angles</div>
         <ul class="causes-list">{causes_html}</ul>
       </div>
     </div>
+    <button class="read-more-btn" onclick="openFull('{uid}')">Read trend + 4 essay angles</button>
   </div>"""
     return f"""
   <div class="main-section-head" data-cat="trends">
-    <h2>📲 Social Trends</h2>
-    <span class="section-see-all">{len(trends)} trends · newest first</span>
+    <h2>Social trends</h2>
+    <span class="section-see-all">Four essay angles for each trend</span>
   </div>
   <div class="articles-grid trends-grid" data-cat="trends">
     {items_html}
@@ -1505,7 +1549,8 @@ CSS = """
       cursor: pointer; transition: background 0.15s;
     }
     .auth-user-pill:hover { background: var(--border); }
-    .auth-avatar { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; }
+    .auth-avatar { width: 24px; height: 24px; border-radius: 50%; background: var(--ink); color: var(--surface);
+                   display: inline-flex; align-items: center; justify-content: center; font-size: 0.75rem; font-weight: 700; }
     .auth-user-name { font-size: 0.78rem; color: var(--ink); max-width: 90px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
     /* ── ARTICLE NOTES ── */
@@ -1564,6 +1609,256 @@ CSS = """
     .library-intro p { color: var(--muted); font-size: 0.88rem; margin: 0; }
     .library-section { margin-top: 1.5rem; }
     .full-overlay-inner { max-width: 1120px; }
+
+    /* ══ REDESIGN — "MTR lines" identity ═════════════════════════════════
+       Topics are MTR lines; vocabulary is marked like a highlighter pen.
+       Everything below overrides the original theme. */
+    :root {
+      --bg: #F5F6F8; --surface: #FFFFFF; --border: #DFE2E8; --faint: #ECEEF2;
+      --ink: #151922; --sub: #343B48; --muted: #687082;
+      --accent: #D7261E; --accent-hover: #B01E17; --accent-light: #FBE9E8;
+      --hl: #FFE45C; --hl-ink: #151922;
+      --sidebar-active: #ECEEF2;
+      --shadow-sm: 0 1px 2px rgba(21,25,34,0.06);
+      --shadow-md: 0 6px 20px rgba(21,25,34,0.10);
+      --f-ui: 'Archivo', 'Noto Sans HK', system-ui, sans-serif;
+      --f-read: 'Source Serif 4', Georgia, 'Noto Serif HK', serif;
+      --f-zh: 'Noto Serif HK', 'Noto Sans HK', 'PingFang HK', serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg: #0F1218; --surface: #171B23; --border: #2A303C; --faint: #1E232D;
+        --ink: #EEF0F4; --sub: #C5CAD4; --muted: #8A92A3;
+        --accent: #FF5A4F; --accent-hover: #FF7A71; --accent-light: #3A1A19;
+        --hl: #8A7414; --hl-ink: #FFF8D6;
+        --sidebar-active: #1E232D;
+      }
+    }
+    :root[data-theme="dark"] {
+      --bg: #0F1218; --surface: #171B23; --border: #2A303C; --faint: #1E232D;
+      --ink: #EEF0F4; --sub: #C5CAD4; --muted: #8A92A3;
+      --accent: #FF5A4F; --accent-hover: #FF7A71; --accent-light: #3A1A19;
+      --hl: #8A7414; --hl-ink: #FFF8D6;
+      --sidebar-active: #1E232D;
+    }
+
+    body { background: var(--bg); color: var(--ink); font-family: var(--f-ui); }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+    /* Top bar */
+    .topbar { background: var(--surface); border-bottom: 1px solid var(--border); box-shadow: none; }
+    .topbar-inner { max-width: 1320px; margin: 0 auto; gap: 1rem; }
+    .logo { gap: 0.6rem; }
+    .logo-mark { display: none; }
+    .logo-name { font-family: var(--f-ui); font-stretch: 125%; font-weight: 800; font-size: 1.15rem;
+                 letter-spacing: -0.01em; color: var(--ink); }
+    .logo-zh { font-family: var(--f-zh); font-weight: 600; font-size: 0.95rem; color: var(--accent); }
+    .topbar-right { margin-left: auto; gap: 0.6rem; }
+    .topbar-date strong { font-weight: 500; color: var(--muted); font-size: 0.8rem; }
+    .btn-open-saved, .btn-print-page {
+      font-family: var(--f-ui); background: var(--surface); color: var(--ink);
+      border: 1px solid var(--border); border-radius: 999px; padding: 0.38rem 0.85rem; font-weight: 600;
+    }
+    .btn-open-saved:hover, .btn-print-page:hover { border-color: var(--ink); }
+    .auth-login-btn { background: var(--ink); color: var(--surface); border-radius: 999px; font-family: var(--f-ui); }
+    .auth-login-btn svg path { fill: var(--surface); }
+
+    /* Route strip — the one bold element */
+    .route-strip {
+      position: sticky; top: 0; z-index: 90; background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+    .topbar { position: relative; }
+    .route-inner {
+      max-width: 1320px; margin: 0 auto; padding: 0.9rem 1.25rem 0.7rem;
+      display: flex; overflow-x: auto; scrollbar-width: none; position: relative;
+    }
+    .route-inner::-webkit-scrollbar { display: none; }
+    .line-stop {
+      --line: #151922;
+      flex: 0 0 auto; display: grid; grid-template-rows: auto auto; justify-items: center;
+      gap: 0.35rem; padding: 0 0.85rem; background: none; border: 0; cursor: pointer;
+      font-family: var(--f-ui); color: var(--sub); position: relative; min-width: 84px;
+    }
+    /* the track between stations */
+    .line-stop::before {
+      content: ""; position: absolute; top: 7px; left: 0; right: 0; height: 4px;
+      background: var(--line); opacity: 0.9;
+    }
+    .line-stop:first-child::before { left: 50%; }
+    .line-stop:last-child::before { right: 50%; }
+    .stop-dot {
+      width: 18px; height: 18px; border-radius: 50%; background: var(--surface);
+      border: 4px solid var(--line); position: relative; z-index: 1; box-sizing: border-box;
+      transition: transform 0.15s ease;
+    }
+    .stop-name { font-size: 0.78rem; font-weight: 600; white-space: nowrap; line-height: 1.1; }
+    .stop-count { font-size: 0.68rem; color: var(--muted); font-variant-numeric: tabular-nums; margin-top: -0.2rem; }
+    .line-stop:hover .stop-dot { transform: scale(1.15); }
+    .line-stop.active .stop-dot { background: var(--line); }
+    .line-stop.active .stop-name { color: var(--ink); }
+    .line-stop.empty { opacity: 0.45; }
+
+    /* Page grid: main + right rail (left sidebar removed) */
+    .site-body { max-width: 1320px; margin: 0 auto; display: grid;
+                 grid-template-columns: minmax(0, 1fr) 300px; gap: 2rem; padding: 1.5rem 1.25rem 3rem; }
+    .main-content { padding: 0; min-width: 0; }
+    .right-sidebar { position: sticky; top: 96px; align-self: start; }
+
+    /* Section heads */
+    .main-section-head { display: flex; align-items: baseline; justify-content: space-between;
+                         gap: 1rem; margin: 2.2rem 0 1rem; border: 0; padding: 0; }
+    .today-head { margin-top: 0.4rem; }
+    .main-section-head h2, .library-intro h2 {
+      font-family: var(--f-ui); font-stretch: 112%; font-weight: 800; font-size: 1.45rem;
+      letter-spacing: -0.015em; color: var(--ink); margin: 0;
+    }
+    .section-see-all { font-size: 0.82rem; color: var(--muted); font-weight: 500; }
+    .line-head { padding-left: 0.85rem; border-left: 6px solid var(--line); }
+    .library-intro { border-top: 1px solid var(--border); margin-top: 3rem; padding-top: 2rem; }
+    .library-intro p { font-size: 0.92rem; }
+
+    /* Category chip = line badge */
+    .cat-chip { --line: #151922; display: inline-flex; align-items: center; gap: 0.4rem;
+                background: none !important; color: var(--sub) !important; padding: 0;
+                font-family: var(--f-ui); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.01em;
+                text-transform: none; }
+    .cat-chip::before { content: ""; width: 10px; height: 10px; border-radius: 50%;
+                        border: 3px solid var(--line); background: var(--surface); }
+    .hero-overlay-text .cat-chip { color: #fff !important; }
+    .hero-overlay-text .cat-chip::before { background: transparent; }
+
+    /* Hero */
+    .hero-card { border-radius: 14px; border: 1px solid var(--border); background: var(--surface);
+                 box-shadow: none; overflow: hidden; }
+    .hero-card:hover { box-shadow: none; }
+    .hero-media { aspect-ratio: 16 / 8; }
+    .hero-overlay { background: linear-gradient(to top, rgba(10,12,18,0.92) 0%, rgba(10,12,18,0.45) 45%, rgba(10,12,18,0) 75%); }
+    .hero-overlay-text { padding: 1.6rem 1.8rem; }
+    .hero-headline { font-family: var(--f-ui); font-stretch: 112%; font-weight: 800;
+                     font-size: clamp(1.5rem, 3.2vw, 2.4rem); line-height: 1.08; letter-spacing: -0.02em;
+                     max-width: 26ch; text-wrap: balance; color: #fff; margin: 0.5rem 0 0.6rem; }
+    .hero-source { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
+    .hero-body { padding: 1.6rem 1.8rem 1.4rem; }
+
+    /* Reading text */
+    .news-body, .card-summary, .trend-body {
+      font-family: var(--f-read); font-size: 1.02rem; line-height: 1.78; color: var(--sub);
+    }
+    .news-body p, .trend-body p { max-width: 68ch; }
+    .bi-zh { font-family: var(--f-zh); font-size: 1rem; line-height: 2; }
+    .bi-label { font-family: var(--f-ui); letter-spacing: 0.02em; text-transform: none; font-size: 0.78rem;
+                color: var(--muted); font-weight: 700; }
+
+    /* Vocabulary = highlighter */
+    .bw { color: var(--hl-ink); font-weight: 600; border-bottom: 0; cursor: help;
+          background: linear-gradient(transparent 58%, var(--hl) 58%, var(--hl) 92%, transparent 92%);
+          padding: 0 1px; }
+    .bw .tip { font-family: var(--f-ui); }
+    .bwz { color: var(--hl-ink); font-weight: 600; cursor: pointer;
+           background: linear-gradient(transparent 55%, var(--hl) 55%, var(--hl) 95%, transparent 95%); }
+    .bw[data-k], .bwz { transition: background-color 0.12s ease, box-shadow 0.12s ease; border-radius: 2px; }
+    .bw.pair-on, .bwz.pair-on { background: var(--hl); box-shadow: 0 0 0 2px var(--accent); }
+    .article-card .bwz { background: none; font-weight: inherit; }
+
+    /* Cards */
+    .articles-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.1rem; }
+    .article-card { border-radius: 12px; border: 1px solid var(--border); background: var(--surface);
+                    box-shadow: none; overflow: hidden; transition: border-color 0.15s ease; }
+    .article-card:hover { transform: none; box-shadow: none; border-color: var(--ink); }
+    .article-card:hover .card-thumb { transform: none; }
+    .card-thumb-wrap { aspect-ratio: 16 / 10; }
+    .card-body { padding: 0.95rem 1.05rem 1.1rem; gap: 0.5rem; }
+    .card-headline { font-family: var(--f-ui); font-weight: 700; font-size: 1.04rem; line-height: 1.3;
+                     letter-spacing: -0.005em; color: var(--ink); text-wrap: pretty; }
+    .card-source { color: var(--ink); font-weight: 600; }
+    .card-excerpt { font-size: 0.92rem; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 4;
+                    -webkit-box-orient: vertical; overflow: hidden; margin: 0; }
+    .read-more-btn { align-self: flex-start; margin-top: auto; background: none; border: 0; padding: 0.2rem 0;
+                     font-family: var(--f-ui); font-weight: 700; font-size: 0.85rem; color: var(--accent);
+                     cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+    .read-more-btn:hover { color: var(--accent-hover); }
+    .loading .read-more-btn { opacity: 0.5; pointer-events: none; }
+    /* trend cards are previews; the full view shows everything */
+    .trends-grid .trend-main-item { display: flex; flex-direction: column; gap: 0.5rem; }
+    .trends-grid .bi-grid { display: block; }
+    .trends-grid .bi-zh, .trends-grid .bi-label, .trends-grid .causes-block { display: none; }
+    .trends-grid .trend-body { display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical;
+                               overflow: hidden; font-size: 0.95rem; line-height: 1.6; }
+    .full-body .trend-body { display: block; -webkit-line-clamp: unset; }
+    .full-body .bi-grid .bi-zh, .full-body .bi-label, .full-body .causes-block { display: block; }
+    .full-body .bi-grid { display: grid; }
+    .full-body + .read-more-btn, .full-body .read-more-btn { display: none; }
+    .cover-label { text-transform: none; letter-spacing: 0.01em; font-family: var(--f-ui); font-size: 0.85rem; }
+
+    /* Trends */
+    .trend-main-item { border-radius: 12px; }
+    .trend-main-headline { font-family: var(--f-ui); font-weight: 700; font-size: 1.08rem; }
+    .causes-title { font-family: var(--f-ui); font-weight: 700; text-transform: none; letter-spacing: 0;
+                    font-size: 0.9rem; color: var(--ink); }
+    .causes-list li { line-height: 1.6; }
+    .causes-list strong { color: var(--ink); }
+
+    /* Study notes */
+    .study-toggle { border-radius: 8px; border: 1px solid var(--border); background: var(--faint); }
+    .study-toggle-label { font-family: var(--f-ui); color: var(--ink); font-size: 0.85rem; }
+    .vocab-section-label { font-family: var(--f-ui); text-transform: none; letter-spacing: 0;
+                           font-size: 0.95rem; font-weight: 700; color: var(--ink); }
+    .note-label { text-transform: none; letter-spacing: 0; font-size: 0.9rem; color: var(--ink); }
+    .note-save-btn { background: var(--ink); color: var(--surface); border-radius: 999px; padding: 0.35rem 0.9rem; }
+
+    /* Right rail */
+    .sidebar-widget-head h3 { font-family: var(--f-ui); font-weight: 800; font-size: 1rem; }
+    .countdown-widget { border-radius: 12px; }
+    .countdown-days { font-family: var(--f-ui); font-stretch: 125%; font-weight: 800; color: var(--accent); }
+
+    /* Full-screen reading view */
+    .full-overlay { background: var(--bg); }
+    .full-overlay-inner { max-width: 1180px; padding: 1.5rem 1.5rem 5rem; }
+    .full-headline { font-family: var(--f-ui); font-stretch: 112%; font-weight: 800; letter-spacing: -0.02em;
+                     line-height: 1.1; max-width: 30ch; text-wrap: balance; }
+    .full-body .bi-grid { gap: 2.5rem; background: var(--surface); border: 1px solid var(--border);
+                          border-radius: 14px; padding: 1.8rem 2rem; }
+    .full-body .bi-zh { padding-left: 2.5rem; }
+    .full-close-btn { border-radius: 999px; font-family: var(--f-ui); font-weight: 600; }
+
+    /* Portrait covers (4:5, Instagram-style, headline printed on the image) */
+    .hero-top { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 0; }
+    .hero-media { aspect-ratio: 4 / 5; cursor: pointer; background: var(--faint); }
+    .hero-media .hero-img { width: 100%; height: 100%; object-fit: cover; }
+    .hero-card:hover .hero-img { transform: none; }
+    .hero-head { padding: 2rem 2rem 1.6rem; display: flex; flex-direction: column; gap: 0.7rem; }
+    .hero-head .hero-headline { color: var(--ink); margin: 0.2rem 0 0; font-size: clamp(1.5rem, 2.6vw, 2.2rem); }
+    .hero-head .hero-byline { color: var(--muted); }
+    .hero-head .hero-source { color: var(--ink); }
+    .hero-head .hero-dot { color: var(--border); }
+    .hero-head .cat-chip { color: var(--sub) !important; }
+    .hero-head .cat-chip::before { background: var(--surface); }
+    .hero-excerpt { font-family: var(--f-read); font-size: 1.05rem; line-height: 1.7; color: var(--sub); margin: 0.4rem 0 0; }
+    .hero-read { margin-top: auto; font-size: 1rem; }
+    .hero-body { border-top: 1px solid var(--border); }
+    .card-thumb-wrap { aspect-ratio: 4 / 5; }
+    @media (max-width: 760px) {
+      .hero-top { grid-template-columns: 1fr; }
+      .hero-head { padding: 1.2rem; }
+    }
+
+    /* Mobile */
+    @media (max-width: 1080px) {
+      .site-body { grid-template-columns: 1fr; }
+      .right-sidebar { position: static; }
+    }
+    @media (max-width: 640px) {
+      .topbar-date { display: none; }
+      .auth-user-name { display: none; }
+      .hero-body { padding: 1.2rem; }
+      .full-body .bi-grid { padding: 1.2rem; gap: 1.2rem; }
+      .full-body .bi-zh { padding-left: 0; }
+      .line-stop { min-width: 72px; padding: 0 0.55rem; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      * { transition: none !important; scroll-behavior: auto !important; }
+    }
 """
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -1580,13 +1875,15 @@ JS = """
 
   // Sidebar & tab filter
   function filterCards(cat, el) {
-    document.querySelectorAll('.sidebar-link[data-cat], .nav-tab[data-cat]').forEach(function(b) {
+    document.querySelectorAll('.line-stop[data-cat]').forEach(function(b) {
       b.classList.toggle('active', b.dataset.cat === cat);
     });
     document.querySelectorAll('[data-cat]').forEach(function(c) {
-      if (c.classList.contains('sidebar-link') || c.classList.contains('nav-tab')) return;
+      if (c.classList.contains('line-stop')) return;
       c.style.display = (cat === 'all' || c.dataset.cat.split(' ').includes(cat)) ? '' : 'none';
     });
+    var main = document.querySelector('.main-content');
+    if (main && cat !== 'all') window.scrollTo({ top: main.offsetTop - 120, behavior: 'smooth' });
   }
 
   // Study notes accordion
@@ -1786,6 +2083,32 @@ JS = """
     document.body.style.overflow = '';
   }
 
+  // Paired highlights: English phrase N <-> Chinese phrase N within the same article
+  function _pairToggle(el, on) {
+    var grid = el.closest('.bi-grid');
+    if (!grid) return;
+    grid.querySelectorAll('[data-k="' + el.dataset.k + '"]').forEach(function(x) {
+      if (x.classList.contains('bw') || x.classList.contains('bwz')) x.classList.toggle('pair-on', on);
+    });
+  }
+  document.addEventListener('mouseover', function(e) {
+    var el = e.target.closest && e.target.closest('.bw[data-k], .bwz[data-k]');
+    if (el) _pairToggle(el, true);
+  });
+  document.addEventListener('mouseout', function(e) {
+    var el = e.target.closest && e.target.closest('.bw[data-k], .bwz[data-k]');
+    if (el) _pairToggle(el, false);
+  });
+  document.addEventListener('click', function(e) {
+    var el = e.target.closest && e.target.closest('.bw[data-k], .bwz[data-k]');
+    if (!el) return;
+    var grid = el.closest('.bi-grid');
+    if (!grid) return;
+    var wasOn = el.classList.contains('pair-on') && el.dataset.tapped === '1';
+    grid.querySelectorAll('.pair-on').forEach(function(x){ x.classList.remove('pair-on'); x.dataset.tapped = ''; });
+    if (!wasOn) { _pairToggle(el, true); el.dataset.tapped = '1'; }
+  });
+
   // Close on Escape key
   document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') closeFull();
@@ -1818,7 +2141,7 @@ JS = """
             userPill.style.display = 'flex';
             var av = userPill.querySelector('.auth-avatar');
             var nm = userPill.querySelector('.auth-user-name');
-            if (av && user.photoURL) av.src = user.photoURL;
+            if (av) av.textContent = (user.displayName || user.email || '?').trim().charAt(0).toUpperCase();
             if (nm) nm.textContent = user.displayName || user.email;
           }
           _loadCloudVocab(user.uid);
@@ -1968,7 +2291,7 @@ HTML_TEMPLATE = """\
   <title>HKDSE Daily Brief</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500;600;700&family=Noto+Sans+HK:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&family=Noto+Serif+HK:wght@400;600&family=Noto+Sans+HK:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>{css}</style>
 </head>
 <body>
@@ -1978,31 +2301,16 @@ HTML_TEMPLATE = """\
   <div class="topbar-inner">
     <div class="logo">
       <div class="logo-mark">📰</div>
-      <span class="logo-name">HKDSE Daily</span>
+      <span class="logo-name">HKDSE Daily</span><span class="logo-zh">每日英語</span>
     </div>
-    <nav class="topbar-nav">
-      <button class="nav-tab active" data-cat="all" onclick="filterCards('all',this)">Today's Brief</button>
-      <button class="nav-tab" data-cat="tech" onclick="filterCards('tech',this)">Technology</button>
-      <button class="nav-tab" data-cat="school" onclick="filterCards('school',this)">School Life</button>
-      <button class="nav-tab" data-cat="env" onclick="filterCards('env',this)">Environment</button>
-      <button class="nav-tab" data-cat="hk" onclick="filterCards('hk',this)">HK Culture</button>
-      <button class="nav-tab" data-cat="pop" onclick="filterCards('pop',this)">Pop Culture</button>
-      <button class="nav-tab" data-cat="social" onclick="filterCards('social',this)">Social</button>
-      <button class="nav-tab" data-cat="econ" onclick="filterCards('econ',this)">Economy</button>
-      <button class="nav-tab" data-cat="health" onclick="filterCards('health',this)">Health</button>
-      <button class="nav-tab" data-cat="global" onclick="filterCards('global',this)">Global</button>
-    </nav>
     <div class="topbar-right">
-      <div class="topbar-date">
-        <strong id="today-date">Loading…</strong>
-        每日英語精華
-      </div>
+      <div class="topbar-date"><strong id="today-date">Loading…</strong></div>
       <button id="auth-login-btn" class="auth-login-btn" onclick="signInWithGoogle()" title="Sign in to sync vocab & notes across devices">
         <svg width="16" height="16" viewBox="0 0 18 18" fill="none"><path d="M17.64 9.2c0-.637-.057-1.251-.164-1.84H9v3.481h4.844c-.209 1.125-.843 2.078-1.796 2.716v2.259h2.908c1.702-1.567 2.684-3.875 2.684-6.615z" fill="#fff"/><path d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.837.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332A8.997 8.997 0 0 0 9 18z" fill="#fff" opacity=".85"/><path d="M3.964 10.71A5.41 5.41 0 0 1 3.682 9c0-.593.102-1.17.282-1.71V4.958H.957A8.996 8.996 0 0 0 0 9c0 1.452.348 2.827.957 4.042l3.007-2.332z" fill="#fff" opacity=".7"/><path d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0A8.997 8.997 0 0 0 .957 4.958L3.964 7.29C4.672 5.163 6.656 3.58 9 3.58z" fill="#fff" opacity=".55"/></svg>
         Sign in
       </button>
       <div id="auth-user-pill" class="auth-user-pill" onclick="signOutGoogle()" title="Click to sign out">
-        <img class="auth-avatar" src="" alt="avatar" />
+        <span class="auth-avatar" aria-hidden="true"></span>
         <span class="auth-user-name"></span>
       </div>
       <button class="btn-open-saved" onclick="toggleSavedPanel()" title="My saved vocab list">
@@ -2012,6 +2320,11 @@ HTML_TEMPLATE = """\
     </div>
   </div>
 </header>
+
+<!-- TOPIC LINES (MTR-style route strip) -->
+<nav class="route-strip" aria-label="Topics">
+  <div class="route-inner">{route_strip}</div>
+</nav>
 
 <!-- SAVED VOCAB PANEL -->
 <div class="saved-panel-overlay" id="saved-panel-overlay" onclick="if(event.target===this)toggleSavedPanel()">
@@ -2044,34 +2357,12 @@ HTML_TEMPLATE = """\
 
 <div class="site-body">
 
-  <!-- LEFT SIDEBAR -->
-  <aside class="left-sidebar">
-    <div class="sidebar-section-label">Topics</div>
-    <button class="sidebar-link active" data-cat="all" onclick="filterCards('all',this)"><span class="sl-icon">🏠</span> All Topics</button>
-    <button class="sidebar-link" data-cat="tech" onclick="filterCards('tech',this)"><span class="sl-icon">🖥</span> Technology</button>
-    <button class="sidebar-link" data-cat="school" onclick="filterCards('school',this)"><span class="sl-icon">📚</span> School Life</button>
-    <button class="sidebar-link" data-cat="env" onclick="filterCards('env',this)"><span class="sl-icon">🌿</span> Environment</button>
-    <button class="sidebar-link" data-cat="hk" onclick="filterCards('hk',this)"><span class="sl-icon">🏮</span> HK Culture</button>
-    <button class="sidebar-link" data-cat="pop" onclick="filterCards('pop',this)"><span class="sl-icon">🎵</span> Pop Culture</button>
-    <button class="sidebar-link" data-cat="social" onclick="filterCards('social',this)"><span class="sl-icon">📊</span> Social</button>
-    <button class="sidebar-link" data-cat="trends" onclick="filterCards('trends',this)"><span class="sl-icon">📲</span> Social Trends</button>
-    <div class="sidebar-divider"></div>
-    <button class="sidebar-link" data-cat="econ" onclick="filterCards('econ',this)"><span class="sl-icon">💰</span> Economy</button>
-    <button class="sidebar-link" data-cat="health" onclick="filterCards('health',this)"><span class="sl-icon">🏥</span> Health</button>
-    <button class="sidebar-link" data-cat="global" onclick="filterCards('global',this)"><span class="sl-icon">🌍</span> Global Affairs</button>
-    <button class="sidebar-link" data-cat="urban" onclick="filterCards('urban',this)"><span class="sl-icon">🏗</span> Urban Dev</button>
-    <button class="sidebar-link" data-cat="law" onclick="filterCards('law',this)"><span class="sl-icon">⚖️</span> Law & Justice</button>
-    <button class="sidebar-link" data-cat="career" onclick="filterCards('career',this)"><span class="sl-icon">🎓</span> Career</button>
-    <button class="sidebar-link" data-cat="sports" onclick="filterCards('sports',this)"><span class="sl-icon">🏅</span> Sports</button>
-    <button class="sidebar-link" data-cat="arts" onclick="filterCards('arts',this)"><span class="sl-icon">🎨</span> Arts & Media</button>
-    <button class="sidebar-link" data-cat="family" onclick="filterCards('family',this)"><span class="sl-icon">👨‍👩‍👧</span> Family</button>
-  </aside>
 
   <!-- MAIN CONTENT -->
   <main class="main-content">
     <div class="main-section-head today-head">
-      <h2>Today's News</h2>
-      <span class="section-see-all">{today_label} · {total_count} articles in the library</span>
+      <h2>Today's brief</h2>
+      <span class="section-see-all">{today_label}</span>
     </div>
     {hero}
     <div class="articles-grid">
@@ -2171,21 +2462,6 @@ def apply_backfill(arc: dict, patch: dict) -> int:
     return n
 
 
-def fetch_missing_covers(arc: dict, limit: int = 300) -> int:
-    """Look up og:image for articles without a cover. Needs open internet (GitHub Actions)."""
-    n = 0
-    for a in arc["articles"]:
-        if n >= limit:
-            break
-        if a.get("image_url") or a.get("image_checked"):
-            continue
-        img = fetch_og_image(a.get("source_url", ""))
-        a["image_checked"] = True
-        if img:
-            a["image_url"] = img
-            n += 1
-    return n
-
 
 def _sorted_newest(items: list[dict]) -> list[dict]:
     # stable sort: newest date first, original order kept within a day
@@ -2213,7 +2489,7 @@ def build_page(data: dict) -> str:
     if today_arts:
         hero_html = build_hero_html(today_arts[0], None, today_arts[0].get("id") or "a0")
         grid_html = "".join(
-            build_article_card_html(a, None, a.get("id") or f"a{i+1}") for i, a in enumerate(today_arts[1:])
+            build_article_card_html(a, None, a.get("id") or f"a{i+1}", lazy=True) for i, a in enumerate(today_arts[1:])
         )
     else:
         hero_html = grid_html = ""
@@ -2233,10 +2509,9 @@ def build_page(data: dict) -> str:
         lbl = _TAG_META.get(cat, ("", cat))[1]
         plural = "s" if len(items) != 1 else ""
         library_html += f"""
-  <section class="library-section" data-cat="{cat}">
-    <div class="main-section-head">
-      <h2>{em} {lbl}</h2>
-      <span class="section-see-all">{len(items)} article{plural}</span>
+  <section class="library-section" data-cat="{cat}" style="--line:{_LINE_COLOURS.get(cat, '#151922')}">
+    <div class="main-section-head line-head">
+      <h2>{lbl}</h2>
     </div>
     <div class="articles-grid">{cards}
     </div>
@@ -2244,8 +2519,8 @@ def build_page(data: dict) -> str:
     if library_html:
         library_html = f"""
   <div class="library-intro" data-cat="all">
-    <h2>📚 Article Library</h2>
-    <p>Every past brief, sorted by topic. Pick a topic on the left to see only that area.</p>
+    <h2>Article library</h2>
+    <p>Every past brief, grouped by topic. Tap a topic in the strip above to see just that line.</p>
   </div>{library_html}"""
 
     trends = _sorted_newest(data.get("trends", []))
@@ -2266,6 +2541,7 @@ def build_page(data: dict) -> str:
         trends_sidebar=trends_html,
         countdown_sidebar=countdown_html,
         today_label=_nice_date(latest),
+        route_strip=build_route_strip(articles, data.get("trends", [])),
         total_count=len(articles),
     )
 
@@ -2307,8 +2583,6 @@ def cli() -> bool:
     elif args[0] == "--backfill":
         with open(args[1], encoding="utf-8") as f:
             print("  patched", apply_backfill(arc, json.load(f)), "items")
-    elif args[0] == "--covers":
-        print("  found", fetch_missing_covers(arc), "new covers")
     elif args[0] != "--build":
         print(cli.__doc__)
         sys.exit(2)

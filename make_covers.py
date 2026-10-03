@@ -1,0 +1,187 @@
+#!/usr/bin/env python3
+"""
+AI cover images for every article (Gemini image model). No news-site photos are used.
+
+    python make_covers.py            # make covers for all articles that lack one
+    python make_covers.py --limit 3  # just a few (for testing)
+    python make_covers.py --redo <id> [<id> ...]
+
+Needs GEMINI_API_KEY in the environment or in a .env file next to this script.
+Images are saved as covers/<article id>.jpg and recorded in archive.json as "cover".
+"""
+import io
+import json
+import os
+import sys
+import time
+
+from dotenv import load_dotenv
+from google import genai
+from google.genai import types
+from PIL import Image
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ARCHIVE = os.path.join(HERE, "archive.json")
+OUT_DIR = os.path.join(HERE, "covers")
+BG_DIR = os.path.join(HERE, "covers", "bg")   # text-free AI photos, kept so text can be re-set
+MODEL = os.environ.get("GEMINI_IMAGE_MODEL", "gemini-3.1-flash-image")
+
+# Accent colour per topic (matches the site's "MTR line" colours)
+ACCENTS = {
+    "tech": "deep blue", "school": "green", "env": "lime green", "hk": "red",
+    "pop": "pink", "social": "violet", "econ": "orange", "health": "teal",
+    "global": "sky blue", "urban": "brick brown", "law": "navy", "career": "olive",
+    "sports": "golden yellow", "arts": "magenta", "family": "warm brown",
+}
+
+
+# Camera approaches, rotated per article so the covers don't all look alike
+SHOTS = [
+    "a tight close-up of one telling object on a surface, shallow depth of field",
+    "street-level view at eye height in a busy Hong Kong neighbourhood, people as soft motion blur",
+    "a straight-down overhead (flat-lay or bird's-eye) view",
+    "an interior scene lit by window light, no people",
+    "a wide landscape or cityscape taken from low down, with a strong foreground element",
+    "a detail of hands at work, cropped at the wrists (no faces)",
+    "a symmetrical, head-on architectural view",
+    "a night scene lit by practical light sources such as shop signs, lamps or screens",
+    "a still life arranged on a table, editorial magazine style",
+    "a mid-distance documentary view of a place where the story happens, empty of people",
+]
+
+
+def build_prompt(article: dict, wide: bool = False) -> str:
+    cat = (article.get("category") or "social").split()[0]
+    accent = ACCENTS.get(cat, "red")
+    shot = SHOTS[int(article.get("id", "a0")[1:], 16) % len(SHOTS)]
+    return (
+        "Photorealistic editorial photograph for a news story in a Hong Kong student magazine. "
+        f"Story: \"{article.get('headline', '')}\". "
+        "Show the story's subject through objects, places and atmosphere — a thoughtful scene "
+        "rather than a literal news photo; set it in Hong Kong where it makes sense. "
+        f"Composition: {shot}. "
+        
+        + ("Ultra-wide 21:9 panoramic photo for a website banner. Keep the LEFT HALF simple and uncluttered "
+           "(open sky, a plain wall or soft background) because a headline will be printed there; "
+           "put the main subject on the right. "
+           if wide else
+           "Portrait 4:5 photo for an Instagram news post. Keep the TOP HALF simple and uncluttered "
+           "(open sky, a plain wall or soft background) because a large headline will be printed over it; "
+           "put the main subject in the lower half. ") +
+        "Bright, warm, true-to-life colour: sunny daylight or golden-hour light, "
+        "rich saturated natural colours, crisp detail, upbeat and inviting — the look of a modern lifestyle "
+        f"magazine that teenagers enjoy, never grey, gloomy, foggy or blue-tinted. Feature {accent} prominently "
+        "as a real object or surface colour in the scene. "
+        "One single seamless photograph filling the whole frame — no borders, panels, strips, collage or inset images. "
+        "Avoid the cliché of a lone person seen from behind gazing at a skyline. "
+        "Absolutely NO text anywhere in the image: no words, letters, numbers or symbols on signs, "
+        "screens, book covers, spines, paper, clothing or packaging (keep pages blank and screens abstract). "
+        "No logos, no watermarks, no flags, "
+        "no recognisable real people or faces."
+    )
+
+
+def make_one(client, article: dict) -> str:
+    resp = client.models.generate_content(
+        model=MODEL,
+        contents=build_prompt(article),
+        config=types.GenerateContentConfig(
+            response_modalities=["IMAGE"],
+            image_config=types.ImageConfig(aspect_ratio="4:5"),
+        ),
+    )
+    for part in resp.candidates[0].content.parts:
+        if part.inline_data and part.inline_data.data:
+            img = Image.open(io.BytesIO(part.inline_data.data)).convert("RGB")
+            os.makedirs(BG_DIR, exist_ok=True)
+            bg = os.path.join(BG_DIR, f"{article['id']}.jpg")
+            img.save(bg, "JPEG", quality=90)
+            return finish(article) if article.get("cover_text") else None
+    raise RuntimeError(f"no image returned (finish_reason={resp.candidates[0].finish_reason})")
+
+
+def make_banner(client, article: dict) -> str:
+    """Wide 21:9 banner for the day's top story (own photo, so it stays sharp)."""
+    from cover_compose import compose_banner
+    resp = client.models.generate_content(
+        model=MODEL,
+        contents=build_prompt(article, wide=True),
+        config=types.GenerateContentConfig(
+            response_modalities=["IMAGE"],
+            image_config=types.ImageConfig(aspect_ratio="21:9"),
+        ),
+    )
+    for part in resp.candidates[0].content.parts:
+        if part.inline_data and part.inline_data.data:
+            os.makedirs(BG_DIR, exist_ok=True)
+            bg = os.path.join(BG_DIR, f"{article['id']}_wide.jpg")
+            Image.open(io.BytesIO(part.inline_data.data)).convert("RGB").save(bg, "JPEG", quality=90)
+            rel = f"covers/{article['id']}_banner.jpg"
+            compose_banner(bg, article, os.path.join(HERE, rel))
+            return rel
+    raise RuntimeError(f"no banner returned (finish_reason={resp.candidates[0].finish_reason})")
+
+
+def finish(article: dict) -> str:
+    """Typeset the bilingual headline onto the saved background."""
+    from cover_compose import compose
+    os.makedirs(OUT_DIR, exist_ok=True)
+    rel = f"covers/{article['id']}.jpg"
+    compose(os.path.join(BG_DIR, f"{article['id']}.jpg"), article, os.path.join(HERE, rel))
+    return rel
+
+
+def main() -> None:
+    load_dotenv(os.path.join(HERE, ".env"))
+    if not os.environ.get("GEMINI_API_KEY"):
+        print("GEMINI_API_KEY is not set (add it to .env or as the GitHub secret GEMINI_API_KEY) — skipping covers.")
+        return
+    args = sys.argv[1:]
+    limit = int(args[args.index("--limit") + 1]) if "--limit" in args else None
+    redo = set(args[args.index("--redo") + 1:]) if "--redo" in args else set()
+
+    with open(ARCHIVE, encoding="utf-8") as f:
+        arc = json.load(f)
+    def has_bg(a):
+        return os.path.exists(os.path.join(BG_DIR, f"{a['id']}.jpg"))
+
+    # 1) typeset covers whose photo exists and whose cover text has arrived (free, no API call)
+    typeset = 0
+    for a in arc["articles"]:
+        if a.get("id") not in redo and has_bg(a) and a.get("cover_text") and not a.get("cover_typeset"):
+            a["cover"] = finish(a)
+            a["cover_typeset"] = True
+            typeset += 1
+    if typeset:
+        print(f"Typeset {typeset} cover(s) from existing photos")
+
+    # 2) make photos that are missing (one Gemini image each)
+    todo = [a for a in reversed(arc["articles"])  # newest first
+            if a.get("id") in redo or (not redo and not has_bg(a))]
+    if limit:
+        todo = todo[:limit]
+    print(f"Making {len(todo)} cover(s) with {MODEL}")
+
+    client = genai.Client()
+    made = 0
+    for a in todo:
+        for attempt in range(3):
+            try:
+                rel = make_one(client, a)
+                if rel:
+                    a["cover"], a["cover_typeset"] = rel, True
+                made += 1
+                print(f"  ✓ {a['id']}  {a.get('headline', '')[:60]}")
+                break
+            except Exception as e:  # rate limits, transient errors
+                msg = str(e)[:160]
+                print(f"  … {a['id']} attempt {attempt + 1} failed: {msg}")
+                time.sleep(8 * (attempt + 1))
+        # save progress after every image so an interruption loses nothing
+        with open(ARCHIVE, "w", encoding="utf-8") as f:
+            json.dump(arc, f, ensure_ascii=False, indent=1)
+    print(f"Done: {made} of {len(todo)} covers made")
+
+
+if __name__ == "__main__":
+    main()

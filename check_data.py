@@ -27,6 +27,18 @@ BANNED = {
 }
 MIN_VOCAB, MIN_PHRASES, MIN_ANGLES = 10, 10, 3
 CJK = re.compile(r"[一-鿿]")
+BW = re.compile(r'<span class="bw">')
+BWZ = re.compile(r'<span class="bwz">')
+
+
+def pair_errors(item, name):
+    """Every highlighted English phrase needs its Chinese partner, in the same order."""
+    en_n = len(BW.findall(item.get("summary_html", "")))
+    zh_n = len(BWZ.findall(item.get("summary_zh_html", "")))
+    if en_n and zh_n != en_n:
+        return [f"[{name}] English has {en_n} highlighted phrases but the Chinese has {zh_n} "
+                f'<span class="bwz">…</span> marks — mark the Chinese translation of each one, in the same order']
+    return []
 
 
 def norm(t: str) -> str:
@@ -59,6 +71,14 @@ def check(articles, trends, archive, skip_ids=()):
         zh = a.get("summary_zh_html", "")
         if len(CJK.findall(zh)) < 200:
             errs.append(f"[{name}] summary_zh_html missing or too short (need a full Traditional Chinese translation)")
+        errs += pair_errors(a, name)
+        ct = a.get("cover_text") or {}
+        if not ct.get("zh_title") or not ct.get("en"):
+            errs.append(f"[{name}] cover_text missing (needs zh_title and en)")
+        elif ct.get("zh_hl") and not any(ct["zh_hl"] in ln for ln in ct["zh_title"]):
+            errs.append(f"[{name}] cover_text.zh_hl must appear inside one of the zh_title lines")
+        elif any(len(ln) > 9 for ln in ct["zh_title"]):
+            errs.append(f"[{name}] cover_text.zh_title lines must be ≤8 characters each")
         ps, vs = a.get("phrases", []), a.get("vocab", [])
         if len(ps) < MIN_PHRASES:
             errs.append(f"[{name}] only {len(ps)} phrases (need {MIN_PHRASES}+)")
@@ -83,6 +103,7 @@ def check(articles, trends, archive, skip_ids=()):
         name = t.get("headline", t.get("id", "?"))[:60]
         if len(CJK.findall(t.get("summary_zh_html", ""))) < 80:
             errs.append(f"[trend {name}] summary_zh_html missing or too short")
+        errs += pair_errors(t, "trend " + name)
         cs = t.get("causes", [])
         if len(cs) < MIN_ANGLES:
             errs.append(f"[trend {name}] only {len(cs)} writing angles (need {MIN_ANGLES}+)")

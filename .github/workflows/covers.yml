@@ -1,8 +1,9 @@
-# Fetch cover photos for new articles (free — runs on GitHub's servers).
-# The Claude cloud routine can't reach news sites, so it pushes content
-# without photos; this job looks up each article's og:image and rebuilds.
+# Make AI cover images (Gemini) for new articles, then rebuild the site.
+# Runs whenever the daily routine pushes new content to archive.json.
+# Needs the repository secret GEMINI_API_KEY (Settings → Secrets and variables → Actions).
+# News-site photos are never used.
 
-name: Fetch article covers
+name: Make AI covers
 
 on:
   push:
@@ -25,15 +26,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 anthropic
-      - name: Fetch missing covers and rebuild
-        run: python generate.py --covers
+      - run: pip install requests beautifulsoup4 anthropic google-genai python-dotenv pillow
+      - name: Make missing covers
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python make_covers.py
+      - name: Rebuild site
+        run: python generate.py --build
       - name: Commit
         run: |
           git config user.name  "HKDSE Covers Bot"
           git config user.email "actions@github.com"
-          git add archive.json index.html a/
+          git add archive.json index.html a/ covers/
           git diff --staged --quiet && exit 0
-          git commit -m "Add article covers"
+          git commit -m "Add AI cover images"
           git pull --rebase
           git push

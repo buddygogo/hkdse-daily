@@ -15876,6 +15876,586 @@
    ],
    "date": "2026-10-04",
    "id": "a1d4c2ff5"
+  },
+  {
+   "source_name": "HK01",
+   "source_url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/854872/mamamoo%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%83-%E5%AD%B8%E8%AC%9B-%E7%AC%91%E6%AD%BB-%E5%86%A7%E7%B2%89%E7%B5%B2-%E9%84%AD%E6%AC%A3%E5%AE%9Cserrini%E6%92%90%E5%A0%B4%E6%89%93%E5%8D%A1",
+   "published_date": "4 October 2026",
+   "headline": "MAMAMOO's Cantonese-Powered Comeback Packs Kai Tak Arena",
+   "category": "pop",
+   "summary_html": "<p>Four years after their last Hong Kong concert, the South Korean girl group MAMAMOO returned to a <span class=\"bw\">sold-out<span class=\"tip\"><span class=\"tip-en\">with every ticket purchased</span><span class=\"tip-zh\">門票售罄的</span></span></span> Kai Tak Sports Park Arena on 4 October as part of their 2026 World Tour &lt;4WARD&gt;. The four members — Solar, Moonbyul, Wheein and Hwasa — ended a three-year <span class=\"bw\">hiatus<span class=\"tip\"><span class=\"tip-en\">a pause or break in activity</span><span class=\"tip-zh\">暫停演出</span></span></span> from performing in the city, delivering a two-hour set that blended their signature harmonies with solo showcases.</p><p>What distinguished the night was the group’s deliberate effort to build <span class=\"bw\">rapport<span class=\"tip\"><span class=\"tip-en\">a close, harmonious relationship</span><span class=\"tip-zh\">默契</span></span></span> with their local fan base. Between songs, the members practised Cantonese phrases, including the internet slang term “laugh to death” (笑死), prompting delighted cheers from an audience eager to see international stars pay <span class=\"bw\">homage<span class=\"tip\"><span class=\"tip-en\">special honour or respect shown publicly</span><span class=\"tip-zh\">致敗</span></span></span> to local culture. Local singers Kayee Tsang and Serrini were spotted in the crowd, with both later sharing photographs on social media, lending the concert an added layer of celebrity endorsement that further amplified its online buzz.</p><p>The concert also underscored Kai Tak’s rapid emergence as a <span class=\"bw\">live-music hub<span class=\"tip\"><span class=\"tip-en\">a central venue hosting many concerts</span><span class=\"tip-zh\">現場音樂樞紐</span></span></span> for the region, drawing international acts that once bypassed the city in favour of larger markets. Commentators noted that the continued dominance of Korean pop acts on Hong Kong stages has reignited debate over whether homegrown Cantopop can recapture similar <span class=\"bw\">commercial clout<span class=\"tip\"><span class=\"tip-en\">the power to influence sales or spending</span><span class=\"tip-zh\">商業影響力</span></span></span> among younger audiences. For students, the episode offers a case study in cultural soft power: a touring act’s willingness to localise its performance, even through a single slang phrase, can generate disproportionate goodwill and media coverage, illustrating how <span class=\"bw\">cultural exchange<span class=\"tip\"><span class=\"tip-en\">mutual sharing of customs between groups</span><span class=\"tip-zh\">文化交流</span></span></span> increasingly functions as a marketing strategy in the global entertainment industry.</p>",
+   "summary_zh_html": "<p>相隔三年後，韓國女子組合MAMAMOO於10月4日在啟德體育園體藝館舉行的《2026世界已回演唱會〈《4WARD〉》香港站再度載譽歸來，門票<span class=\"bwz\">售罄</span>。四位成員──Solar、Moonbyul、Wheein及Hwasa──結束了在本地舞臺上長達三年的<span class=\"bwz\">暫停演出</span>，為樂辷帶來長達兩小時的演出，既有招牌和聲，亦有個人獨唱環節。</p><p>當暇最令人印象深刻的，是組合刻意興本地樂辷建立<span class=\"bwz\">默契</span>的用心。成員在歌曲之間練習廣東話詞句，包括網絡潮語「笑死」，逋得全場樂辷歡呼不已，為能見證國際巨星向本地文化<span class=\"bwz\">致敗</span>而感到雀躍。歌手鄭欣宜及Serrini亦現身觀眾席，二人事後均在社交媒體分享合照，為演唱會添上明星加持的話題性，進一步帶動網上熱議。</p><p>是次演唱會亦印證了啟德迅速崛起成為本地區<span class=\"bwz\">現場音樂樞紐</span>的地位，吸引了昔日寧愿捨弃香港、轉投較大市場的海外歌手前來開騚。有評論指出，韓流歌手持續稱霸香港舞臺，再度引發外界討論本地粤語流行曲能否在年輕觀眾群中重拾相近的<span class=\"bwz\">商業影響力</span>。对學生而言，這宗事件正好說明文化軟實力的運作方式：巡演歌手即使只是學講一句潮語，亦願將表演本地化，便足以換來不成比例的好感與媒體報導，顯示<span class=\"bwz\">文化交流</span>在全球娛樂産業中日游成為一種行銷策略。</p>",
+   "cover_text": {
+    "zh_kicker": "啟德開騚",
+    "zh_title": [
+     "相隔三年再開騚",
+     "廣東話笑死全場"
+    ],
+    "zh_hl": "笑死",
+    "zh_sub": "鄭欣宜Serrini到場撑",
+    "en": "MAMAMOO sell out Kai Tak show in Cantonese"
+   },
+   "vocab": [
+    {
+     "phrase": "sold-out show",
+     "zh": "門票售罄的演出",
+     "sample": "Tickets for the sold-out show were resold online within minutes."
+    },
+    {
+     "phrase": "post-hiatus return",
+     "zh": "暫停後重聝舞臺",
+     "sample": "Their post-hiatus return drew long queues outside the arena."
+    },
+    {
+     "phrase": "diehard fan",
+     "zh": "忠實粉絲",
+     "sample": "Diehard fans camped outside the venue since dawn."
+    },
+    {
+     "phrase": "setlist",
+     "zh": "演出曲目单",
+     "sample": "Fans compared the setlist with previous tour stops online."
+    },
+    {
+     "phrase": "cameo appearance",
+     "zh": "驚喜客串",
+     "sample": "The actress made a brief cameo appearance during the encore."
+    },
+    {
+     "phrase": "encore",
+     "zh": "加演",
+     "sample": "The crowd chanted for an encore long after the lights dimmed."
+    },
+    {
+     "phrase": "harmonies",
+     "zh": "和聲",
+     "sample": "Their tight harmonies have defined the group's sound since debut."
+    },
+    {
+     "phrase": "pop diplomacy",
+     "zh": "流行文化外交",
+     "sample": "Analysts described the gesture as a small act of pop diplomacy."
+    },
+    {
+     "phrase": "localise",
+     "zh": "本地化",
+     "sample": "Touring artists often localise part of their show to connect with fans."
+    },
+    {
+     "phrase": "merchandise",
+     "zh": "周邊商品",
+     "sample": "Limited-edition merchandise sold out within the first hour."
+    },
+    {
+     "phrase": "viral clip",
+     "zh": "瘋傳短片",
+     "sample": "A viral clip of the Cantonese greeting racked up millions of views."
+    },
+    {
+     "phrase": "ticket resale",
+     "zh": "門票轉售",
+     "sample": "Ticket resale prices soared well above face value before the show."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "strike a chord with",
+     "zh": "引起共鶴",
+     "sample": "The gesture struck a chord with local audiences."
+    },
+    {
+     "en": "generate buzz",
+     "zh": "製造話題",
+     "sample": "The concert generated considerable buzz on social media."
+    },
+    {
+     "en": "win over",
+     "zh": "贏得...的心",
+     "sample": "A few words of Cantonese were enough to win over the crowd."
+    },
+    {
+     "en": "capitalise on",
+     "zh": "善用",
+     "sample": "Brands often capitalise on viral moments for marketing purposes."
+    },
+    {
+     "en": "a far cry from",
+     "zh": "與...相去甘遠",
+     "sample": "The scale of the tour is a far cry from the group's early days."
+    },
+    {
+     "en": "lend credibility to",
+     "zh": "為...增添可信度",
+     "sample": "Celebrity attendance lends credibility to an event's cultural significance."
+    },
+    {
+     "en": "tap into",
+     "zh": "打入",
+     "sample": "International acts increasingly tap into local fan culture to stand out."
+    },
+    {
+     "en": "a testament to",
+     "zh": "證明",
+     "sample": "The sold-out run is a testament to the group's enduring popularity."
+    },
+    {
+     "en": "come at the expense of",
+     "zh": "以...為代價",
+     "sample": "Some fear global pop dominance comes at the expense of homegrown talent."
+    },
+    {
+     "en": "carve out a niche",
+     "zh": "開闂一片天地",
+     "sample": "Local artists must carve out a niche to compete with international tours."
+    },
+    {
+     "en": "gain traction",
+     "zh": "漸受關注",
+     "sample": "The slang phrase gained traction online after the concert."
+    },
+    {
+     "en": "set the tone for",
+     "zh": "為...定下基調",
+     "sample": "The opening number set the tone for an energetic evening."
+    }
+   ],
+   "date": "2026-10-05",
+   "id": "a2c609bdc"
+  },
+  {
+   "source_name": "Hong Kong Free Press",
+   "source_url": "https://hongkongfp.com/2026/10/02/independent-hk-journalist-tang-ho-wing-released-on-bail-following-sedition-arrest/",
+   "published_date": "2 October 2026",
+   "headline": "Independent Journalist Released on Bail After Sedition Arrest",
+   "category": "arts",
+   "summary_html": "<p>Hong Kong police arrested Tang Ho-wing, founder of the independent outlet Boom News, on 30 September on suspicion of acting with \"<span class=\"bw\">seditious<span class=\"tip\"><span class=\"tip-en\">intended to incite rebellion against authority</span><span class=\"tip-zh\">漜動性的</span></span></span> intention\", making him the first journalist publicly known to be <span class=\"bw\">detained<span class=\"tip\"><span class=\"tip-en\">held in custody by authorities</span><span class=\"tip-zh\">被拘留</span></span></span> under this charge since the city’s homegrown national security law took effect in 2024. The arrest was linked to Boom News’ coverage of a small gathering on 31 August, where participants held yellow umbrellas to <span class=\"bw\">commemorate<span class=\"tip\"><span class=\"tip-en\">honour the memory of an event</span><span class=\"tip-zh\">紀念</span></span></span> the seventh anniversary of a 2019 police operation at Prince Edward MTR station.</p><p>Tang was released on bail on 2 October after roughly 48 hours in custody, though he must report back to police at a later date while <span class=\"bw\">inquiries<span class=\"tip\"><span class=\"tip-en\">official investigations</span><span class=\"tip-zh\">調查</span></span></span> continue. The Hong Kong Journalists Association, a press union, warned that if reporters can be arrested merely for being present at newsworthy events, \"all frontline reporters will inevitably bear the same risks\" when covering public gatherings in future, raising concerns about the <span class=\"bw\">chilling effect<span class=\"tip\"><span class=\"tip-en\">discouragement of lawful activity through fear</span><span class=\"tip-zh\">寒蝉效應</span></span></span> on independent reporting.</p><p>Press freedom advocates argue the case illustrates a widening gap between official assurances that journalism remains protected and the practical experience of reporters covering sensitive <span class=\"bw\">anniversaries<span class=\"tip\"><span class=\"tip-en\">dates marking a significant past event each year</span><span class=\"tip-zh\">周年紀念日</span></span></span>. Authorities maintain that the arrest concerned conduct rather than reporting itself, insisting that genuine news-gathering remains lawful. For students of current affairs, the episode offers a timely example of how legal definitions of <span class=\"bw\">sedition<span class=\"tip\"><span class=\"tip-en\">speech or action inciting rebellion</span><span class=\"tip-zh\">漜動罪</span></span></span> can be contested, and how such ambiguity may encourage <span class=\"bw\">self-censorship<span class=\"tip\"><span class=\"tip-en\">restraining oneself from expression without being told to</span><span class=\"tip-zh\">自我審查</span></span></span> among journalists wary of crossing an unclear line.</p>",
+   "summary_zh_html": "<p>香港警方於9月30日拘捕獨立媒體《Boom News》創辦人鄒皖文，指他涱嫌懷有「<span class=\"bwz\">漜動</span>意圖」而作出相關行為，使他成為本港2024年《維護國家安全条例》生效以来，首位公開證实因此罪名被<span class=\"bwz\">拘留</span>的新聞工作者。此次拘捕與《Boom News》於8月31日報道一場小規模集會有關，當日有參與者手持黃雨僕，<span class=\"bwz\">紀念</span>2019年太子站警方行動七周年。</p><p>鄒皖文於10月2日，即被拘留約48小時後，獲允保釋候查，但須在稍後日子向警方到報，而相關<span class=\"bwz\">調查</span>仍在進行。香港記者協會（一個新聞工作者團體）警告，若記者僅因在場採訪具新聞價值的事件便可被捕，「所有前線記者日後報道公眠活動時，難免同樣面对風險」，令人關注事件會对獨立報道造成<span class=\"bwz\">寒蝉效應</span>。</p><p>新聞自由倡議者認為，事件反映官方一再保證新聞工作受到保障，與記者在報道敏感<span class=\"bwz\">周年紀念</span>場合時的實际處境之間，存在日益擴大的落差。當局則堅稱，被捕原因在於相關行為而非採訪本身，強調真正的新聞採集活動仍然合法。对於修讀時事科目的學生而言，此案正好說明法律上对「<span class=\"bwz\">漜動罪</span>」的定義可以存在爭議，而這種含模之處，或會令擔心黜越模糊界線的記者傾向<span class=\"bwz\">自我審查</span>。</p>",
+   "cover_text": {
+    "zh_kicker": "記者被捕",
+    "zh_title": [
+     "獨立記者保釋",
+     "漜動罪調查中"
+    ],
+    "zh_hl": "漜動罪",
+    "zh_sub": "記協:前線記者同樣有風險",
+    "en": "Independent journalist freed on bail after sedition arrest"
+   },
+   "vocab": [
+    {
+     "phrase": "sedition",
+     "zh": "漜動罪",
+     "sample": "The reporter was investigated on suspicion of sedition."
+    },
+    {
+     "phrase": "bail",
+     "zh": "保釋",
+     "sample": "He was granted bail pending further police inquiries."
+    },
+    {
+     "phrase": "national security law",
+     "zh": "國家安全法",
+     "sample": "The arrest was made under the homegrown national security law."
+    },
+    {
+     "phrase": "press freedom",
+     "zh": "新聞自由",
+     "sample": "Journalist groups say the case threatens press freedom."
+    },
+    {
+     "phrase": "independent outlet",
+     "zh": "獨立媒體",
+     "sample": "The founder runs an independent outlet with a small team."
+    },
+    {
+     "phrase": "detain",
+     "zh": "拘留",
+     "sample": "Police can detain a suspect for up to 48 hours without charge in many cases."
+    },
+    {
+     "phrase": "mark the anniversary of",
+     "zh": "紀念...週年",
+     "sample": "Participants gathered quietly to mark the anniversary of the incident."
+    },
+    {
+     "phrase": "chilling effect",
+     "zh": "寒蝉效應",
+     "sample": "Lawyers warned the arrest could have a chilling effect on reporters."
+    },
+    {
+     "phrase": "self-censorship",
+     "zh": "自我審查",
+     "sample": "Fear of prosecution can lead to self-censorship in newsrooms."
+    },
+    {
+     "phrase": "frontline reporter",
+     "zh": "前線記者",
+     "sample": "Frontline reporters are often the first to face legal risk at protests."
+    },
+    {
+     "phrase": "prosecution",
+     "zh": "起訴",
+     "sample": "No decision on prosecution has yet been announced."
+    },
+    {
+     "phrase": "press union",
+     "zh": "記者協會",
+     "sample": "The press union issued a statement defending the journalist."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "cast a shadow over",
+     "zh": "為...蒙上陰影",
+     "sample": "The arrest cast a shadow over the city's press freedom record."
+    },
+    {
+     "en": "draw a clear line between",
+     "zh": "劃清...界線",
+     "sample": "Officials insist the law draws a clear line between reporting and incitement."
+    },
+    {
+     "en": "bear the brunt of",
+     "zh": "首當其衝",
+     "sample": "Frontline journalists often bear the brunt of ambiguous legislation."
+    },
+    {
+     "en": "tread carefully around",
+     "zh": "小心處理",
+     "sample": "Editors now tread carefully around coverage of sensitive anniversaries."
+    },
+    {
+     "en": "set a precedent",
+     "zh": "開創先例",
+     "sample": "The case could set a precedent for how sedition laws apply to journalists."
+    },
+    {
+     "en": "raise concerns over",
+     "zh": "引起对...的關注",
+     "sample": "Rights groups raised concerns over the vague scope of the charge."
+    },
+    {
+     "en": "walk a fine line",
+     "zh": "遊走於灰色地带",
+     "sample": "Reporters must walk a fine line between coverage and perceived incitement."
+    },
+    {
+     "en": "come under scrutiny",
+     "zh": "受到審視",
+     "sample": "The police's handling of the arrest has come under scrutiny."
+    },
+    {
+     "en": "hinge on",
+     "zh": "取決於",
+     "sample": "Whether charges proceed may hinge on how intent is defined in court."
+    },
+    {
+     "en": "erode public trust",
+     "zh": "削弱公眠信任",
+     "sample": "Repeated arrests of journalists risk eroding public trust in due process."
+    },
+    {
+     "en": "strike a balance between",
+     "zh": "在...之間取得平衡",
+     "sample": "Lawmakers claim the law strikes a balance between security and liberty."
+    },
+    {
+     "en": "leave little room for",
+     "zh": "幾乎沒有餘地",
+     "sample": "Critics say the broad wording leaves little room for ordinary news coverage."
+    }
+   ],
+   "date": "2026-10-05",
+   "id": "acbecabdd"
+  },
+  {
+   "source_name": "South China Morning Post",
+   "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368975/china-us-dialogue-will-ease-concerns-competition-will-remain-paul-chan-says",
+   "published_date": "4 October 2026",
+   "headline": "Paul Chan: Dialogue Will Ease US-China Concerns, but Rivalry Persists",
+   "category": "global",
+   "summary_html": "<p>Hong Kong’s Financial Secretary, Paul Chan, said increased dialogue between Beijing and Washington following the recent summit between President Xi Jinping and US President Donald Trump would help <span class=\"bw\">allay<span class=\"tip\"><span class=\"tip-en\">reduce or put to rest a fear or concern</span><span class=\"tip-zh\">緩解</span></span></span> global economic concerns, even as rivalry between the two powers continues. Speaking in an exclusive interview, Chan acknowledged that the summit produced no major <span class=\"bw\">breakthrough<span class=\"tip\"><span class=\"tip-en\">a sudden important development or success</span><span class=\"tip-zh\">突破</span></span></span>, but argued that sustained communication alone offered markets greater certainty after months of tension over trade and technology.</p><p>Chan highlighted Hong Kong’s own <span class=\"bw\">stake<span class=\"tip\"><span class=\"tip-en\">an interest or investment in an outcome</span><span class=\"tip-zh\">利害關係</span></span></span> in the broader relationship, noting that Beijing had backed the city’s bid to host the Asia-Pacific Economic Cooperation Finance Ministers’ Meeting from 20 to 21 October, the first time the gathering has been held in Hong Kong. He said the central government hoped the event would help <span class=\"bw\">elevate<span class=\"tip\"><span class=\"tip-en\">raise to a higher level or status</span><span class=\"tip-zh\">提升</span></span></span> the city’s standing as a global financial centre, bringing finance chiefs from across the region to discuss shared challenges such as fiscal policy and digital currencies.</p><p>Looking ahead, Chan predicted that competition between China and the United States would persist in sectors such as financial services, even as both sides pursued dialogue. He framed Hong Kong’s <span class=\"bw\">neutrality<span class=\"tip\"><span class=\"tip-en\">the state of not favouring either side in a dispute</span><span class=\"tip-zh\">中立地位</span></span></span> under the \"one country, two systems\" arrangement as an asset in this environment, positioning the city to <span class=\"bw\">capitalise on<span class=\"tip\"><span class=\"tip-en\">take advantage of a situation for benefit</span><span class=\"tip-zh\">善用</span></span></span> its role as a bridge between competing economic blocs. For students examining global affairs, Chan’s remarks illustrate how smaller, trade-dependent economies attempt to shield themselves from superpower <span class=\"bw\">friction<span class=\"tip\"><span class=\"tip-en\">conflict or disagreement between parties</span><span class=\"tip-zh\">摩擦</span></span></span> by reframing geopolitical uncertainty as an opportunity for diplomatic and financial relevance.</p>",
+   "summary_zh_html": "<p>香港財政屈屈長陳茂波表示，國家主席習近平與美國總統特朗普近日舉行峰會後，中美雙方加強对話，有助<span class=\"bwz\">緩解</span>全球經濟方面的憂慮，儘管兩國之間的競爭仍將持續。陳茂波在接受獨家專訪時承認，今次峰會未有取得重大<span class=\"bwz\">突破</span>，但認為單靠持續的溫通，已足以在歷經數月貿易及科技緊張局勢後，為市場帶來更大的確定性。</p><p>陳茂波亦強調香港在這段更廣泛關係中的<span class=\"bwz\">利害關係</span>，指出中央政府支持香港申辦亞太經合組織財長會議，該會議將於10月20日至21日舉行，是該會議首次在香港舉行。他表示，中央政府希望藉此活動<span class=\"bwz\">提升</span>香港作為全球金融中心的地位，吸引區內各地財金官員齊聚本港，共同商討財政政策及數碼貨幣等共同課題。</p><p>展望未來，陳茂波預計中美兩國在金融服務等領域的競爭仍將持續，儘管雙方同時尋求对話。他將香港在「一國兩制」框架下所享有的<span class=\"bwz\">中立地位</span>，視為在此局勢下的優勢，使香港能<span class=\"bwz\">善用</span>其作為競爭中的經濟陣營之間橋樁的角色。对於修讀環球事務的學生而言，陳茂波的言論正好說明，貿易依存度高的中小型經濟體，如何嘗試透過將地緣政治的不確定性，重新定位為外交及金融上的機遇，從而為自身抵檸超級大國之間的<span class=\"bwz\">摩擦</span>。</p>",
+   "cover_text": {
+    "zh_kicker": "中美對話",
+    "zh_title": [
+     "陳茂波:對話",
+     "競爭仍持續"
+    ],
+    "zh_hl": "對話",
+    "zh_sub": "香港爭當中美橋樁",
+    "en": "Paul Chan: dialogue eases concerns, rivalry remains"
+   },
+   "vocab": [
+    {
+     "phrase": "summit",
+     "zh": "峰會",
+     "sample": "Leaders held a summit to discuss trade tensions."
+    },
+    {
+     "phrase": "diplomatic thaw",
+     "zh": "外交解凍",
+     "sample": "Analysts debated whether the summit represented a genuine diplomatic thaw."
+    },
+    {
+     "phrase": "rivalry",
+     "zh": "競爭",
+     "sample": "Economic rivalry between the two powers shows no sign of easing."
+    },
+    {
+     "phrase": "dialogue",
+     "zh": "對話",
+     "sample": "Officials called for continued dialogue to avoid miscalculation."
+    },
+    {
+     "phrase": "neutrality",
+     "zh": "中立",
+     "sample": "The city's neutrality is often cited as a diplomatic advantage."
+    },
+    {
+     "phrase": "financial hub status",
+     "zh": "金融樞紐地位",
+     "sample": "Hong Kong is keen to defend its financial hub status."
+    },
+    {
+     "phrase": "fiscal policy",
+     "zh": "財政政策",
+     "sample": "Ministers discussed fiscal policy coordination at the meeting."
+    },
+    {
+     "phrase": "digital currency",
+     "zh": "數碼貨幣",
+     "sample": "Digital currency was high on the agenda of the finance meeting."
+    },
+    {
+     "phrase": "superpower rivalry",
+     "zh": "大國競爭",
+     "sample": "Superpower rivalry has reshaped global supply chains in recent years."
+    },
+    {
+     "phrase": "open economy",
+     "zh": "開放型經濟體",
+     "sample": "An open economy like Hong Kong's is highly exposed to global shocks."
+    },
+    {
+     "phrase": "bridge role",
+     "zh": "橋樁角色",
+     "sample": "Hong Kong seeks to play a bridge role between East and West."
+    },
+    {
+     "phrase": "market certainty",
+     "zh": "市場確定性",
+     "sample": "Investors value market certainty more than optimism during uncertain times."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "ease tensions",
+     "zh": "緩和緊張局勢",
+     "sample": "The two leaders agreed to ease tensions through regular talks."
+    },
+    {
+     "en": "fall short of expectations",
+     "zh": "未達預期",
+     "sample": "The summit fell short of expectations for a major deal."
+    },
+    {
+     "en": "position itself as",
+     "zh": "將自己定位為",
+     "sample": "Hong Kong is positioning itself as a neutral meeting ground."
+    },
+    {
+     "en": "shield against",
+     "zh": "抵檸",
+     "sample": "Diversified trade ties can shield smaller economies against shocks."
+    },
+    {
+     "en": "underscore the importance of",
+     "zh": "強調...的重要性",
+     "sample": "The visit underscored the importance of sustained dialogue."
+    },
+    {
+     "en": "ripple effect",
+     "zh": "連鎖反應",
+     "sample": "A trade deal could have a ripple effect across regional markets."
+    },
+    {
+     "en": "navigate uncertainty",
+     "zh": "應对不確定性",
+     "sample": "Businesses are learning to navigate uncertainty amid shifting alliances."
+    },
+    {
+     "en": "common ground",
+     "zh": "共識",
+     "sample": "Negotiators struggled to find common ground on technology exports."
+    },
+    {
+     "en": "high-stakes negotiations",
+     "zh": "關係重大的談判",
+     "sample": "The high-stakes negotiations drew global attention."
+    },
+    {
+     "en": "reap the benefits of",
+     "zh": "從...中獲益",
+     "sample": "Hong Kong hopes to reap the benefits of hosting international forums."
+    },
+    {
+     "en": "a double-edged sword",
+     "zh": "雙刃劍",
+     "sample": "Dependence on both economies can be a double-edged sword for the city."
+    },
+    {
+     "en": "signal goodwill",
+     "zh": "展現善意",
+     "sample": "The meeting was seen as a gesture meant to signal goodwill."
+    }
+   ],
+   "date": "2026-10-05",
+   "id": "a77debbaf"
+  },
+  {
+   "source_name": "South China Morning Post",
+   "source_url": "https://www.scmp.com/news/hong-kong/health-environment/article/3369108/can-hong-kong-protect-its-eco-sensitive-sites-amid-golden-week-overtourism-fears",
+   "published_date": "4 October 2026",
+   "headline": "Golden Week Crowds Test Hong Kong's Eco-Sensitive Sites",
+   "category": "env",
+   "summary_html": "<p>Hong Kong is bracing for a <span class=\"bw\">surge<span class=\"tip\"><span class=\"tip-en\">a sudden large increase</span><span class=\"tip-zh\">激増</span></span></span> of mainland visitors to its countryside beauty spots during the National Day \"golden week\" holiday, with authorities forecasting about 1.29 million mainland arrivals over the 1 to 7 October period — a daily average more than five per cent higher than last year. Much of this interest has <span class=\"bw\">gravitated towards<span class=\"tip\"><span class=\"tip-en\">moved or been drawn towards something</span><span class=\"tip-zh\">傾向</span></span></span> the city’s eco-sensitive countryside rather than its usual shopping districts, raising questions about whether fragile sites can absorb the crowds.</p><p>Among the most talked-about destinations is Po Pin Chau, known for its dramatic volcanic rock columns within the UNESCO-listed Hong Kong Global Geopark, alongside Cheung Chau, Sai Kung and Wong Mau Chau, one of the city’s official coral conservation zones. A new reservation system introduced for the Po Pin Chau section of the High Island Geo Trail has reportedly helped <span class=\"bw\">regulate<span class=\"tip\"><span class=\"tip-en\">control the rate or amount of something</span><span class=\"tip-zh\">規管</span></span></span> visitor numbers there, offering a model that <span class=\"bw\">mitigates<span class=\"tip\"><span class=\"tip-en\">makes a problem less severe</span><span class=\"tip-zh\">減輕</span></span></span> some of the strain on narrow coastal trails.</p><p>Even so, environmentalists warn that other hotspots remain <span class=\"bw\">vulnerable<span class=\"tip\"><span class=\"tip-en\">easily harmed or damaged</span><span class=\"tip-zh\">容易受損的</span></span></span> to unmanaged footfall. A Greenpeace Hong Kong campaigner said visitors to unregulated sites have been seen trampling coral and digging up marine organisms, risks that <span class=\"bw\">compound<span class=\"tip\"><span class=\"tip-en\">make a problem worse by adding to it</span><span class=\"tip-zh\">加劇</span></span></span> existing pressures from erosion and litter. The case highlights a familiar <span class=\"bw\">trade-off<span class=\"tip\"><span class=\"tip-en\">a balance between two competing demands</span><span class=\"tip-zh\">取捨</span></span></span> facing tourism authorities: a surge in visitors brings welcome economic activity, yet risks causing lasting ecological damage, raising a question students of environmental policy are well placed to <span class=\"bw\">grapple with<span class=\"tip\"><span class=\"tip-en\">struggle to deal with a difficult problem</span><span class=\"tip-zh\">努力應對</span></span></span>: how to extend reservation-style management city-wide before irreversible harm occurs.</p>",
+   "summary_zh_html": "<p>香港正準備迎接國慶「黃金週」假期期間，內地訪港旅客前往郡野美景人数<span class=\"bwz\">激増</span>，當局預測在10月1日至7日假期期間，將有約129萬內地旅客訪港，每日平均人次較去年同期上升超過百分之五。當中不少興趣<span class=\"bwz\">傾向</span>郡野自然美景，而非一向热門的購物區，令人關注脆弱景點能否承受龐大人流。</p><p>當中最受熱議的景點，包括以壯觀火山岩柱著名、位於聯合國教科文組織認可香港地質公園範圍內的「破邊洲」，以及長洲、西貢，和屬官方珊瑶保育區之一的黃茂洲。據報，當局為「高流灣地質步道」中的破邊洲路段新設的預約系統，有助<span class=\"bwz\">規管</span>該处的訪客人數，為紗解狭窄沿岸山徑所承受的壓力，提供了一個<span class=\"bwz\">減輕</span>關注關題的參考模式。</p><p>然而，環報人士警告，其他熱點仍然<span class=\"bwz\">容易受損</span>，難以承受未受規管的人流衝擊。綠色和平香港的一名倡議人員表示，有旅客在未受規管的景點被發現踵蹏珊瑶及挖掘海洋生物，這些風險使沙岸侵蛹及垃垃問題進一步<span class=\"bwz\">加劇</span>。事件凸顯旅遊當局面对的一項常見<span class=\"bwz\">取捨</span>：旅客人數激増带來可觀的經濟活動，卻同時可能造成難以逆轉的生態破壞，而這正是修讀環境政策的學生，適合去<span class=\"bwz\">努力應對</span>的課題：應如何在不可逆轉的損害發生之前，將預約式管理模式推展至全港。</p>",
+   "cover_text": {
+    "zh_kicker": "黃金週人潮",
+    "zh_title": [
+     "黃金週爆客",
+     "生態景點超載"
+    ],
+    "zh_hl": "爆客",
+    "zh_sub": "破邊洲率先限流",
+    "en": "Golden week crowds strain Hong Kong's eco sites"
+   },
+   "vocab": [
+    {
+     "phrase": "overtourism",
+     "zh": "過度旅遊",
+     "sample": "Overtourism has become a growing concern for popular geoparks."
+    },
+    {
+     "phrase": "ecological damage",
+     "zh": "生態破壞",
+     "sample": "Unregulated visits can cause lasting ecological damage to coral zones."
+    },
+    {
+     "phrase": "reservation system",
+     "zh": "預約系統",
+     "sample": "A reservation system now limits daily visitors to the trail."
+    },
+    {
+     "phrase": "carrying capacity",
+     "zh": "承載能力",
+     "sample": "Experts say the island has exceeded its carrying capacity during holidays."
+    },
+    {
+     "phrase": "coral conservation zone",
+     "zh": "珊瑶保育區",
+     "sample": "The area was designated a coral conservation zone a decade ago."
+    },
+    {
+     "phrase": "daily arrivals",
+     "zh": "每日入境人次",
+     "sample": "Daily arrivals to the trail have soared since the long weekend began."
+    },
+    {
+     "phrase": "erosion",
+     "zh": "侵蛹",
+     "sample": "Erosion along the coastal trail has worsened in recent years."
+    },
+    {
+     "phrase": "geopark",
+     "zh": "地質公園",
+     "sample": "The UNESCO-listed geopark attracts hikers year-round."
+    },
+    {
+     "phrase": "sustainable tourism",
+     "zh": "可持續旅遊",
+     "sample": "Officials promised to promote sustainable tourism across the region."
+    },
+    {
+     "phrase": "visitor cap",
+     "zh": "訪客人數上限",
+     "sample": "Conservationists are calling for a visitor cap at other hotspots."
+    },
+    {
+     "phrase": "marine organism",
+     "zh": "海洋生物",
+     "sample": "Visitors were seen digging up marine organisms along the shoreline."
+    },
+    {
+     "phrase": "ecotourism",
+     "zh": "生態旅遊",
+     "sample": "The city hopes to balance ecotourism with conservation goals."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "come under strain",
+     "zh": "承受壓力",
+     "sample": "Narrow coastal trails have come under strain from holiday crowds."
+    },
+    {
+     "en": "outpace",
+     "zh": "超過",
+     "sample": "Visitor numbers have begun to outpace the site's management capacity."
+    },
+    {
+     "en": "a cautionary tale",
+     "zh": "警世故事",
+     "sample": "The crowded trail offers a cautionary tale for other beauty spots."
+    },
+    {
+     "en": "take a toll on",
+     "zh": "对...造成損害",
+     "sample": "Repeated trampling can take a toll on slow-growing coral."
+    },
+    {
+     "en": "roll out",
+     "zh": "推行",
+     "sample": "The government plans to roll out similar booking systems elsewhere."
+    },
+    {
+     "en": "irreversible harm",
+     "zh": "不可逆轉的損害",
+     "sample": "Scientists fear irreversible harm if visitor numbers keep rising."
+    },
+    {
+     "en": "at the expense of",
+     "zh": "以...為代價",
+     "sample": "Short-term tourism gains should not come at the expense of fragile ecosystems."
+    },
+    {
+     "en": "fall victim to",
+     "zh": "淸為...的受害者",
+     "sample": "Unprotected coves risk falling victim to careless visitors."
+    },
+    {
+     "en": "a drop in the ocean",
+     "zh": "束水車薪",
+     "sample": "One trail's booking system is a drop in the ocean without wider reform."
+    },
+    {
+     "en": "pave the way for",
+     "zh": "為...銺路",
+     "sample": "The pilot scheme could pave the way for city-wide visitor limits."
+    },
+    {
+     "en": "weigh the costs and benefits of",
+     "zh": "權衡...的利弊",
+     "sample": "Planners must weigh the costs and benefits of further opening remote islands."
+    },
+    {
+     "en": "buckle under the pressure of",
+     "zh": "在...壓力下不堪重負",
+     "sample": "Fragile trails could buckle under the pressure of repeated holiday crowds."
+    }
+   ],
+   "date": "2026-10-05",
+   "id": "a54f26cc3"
   }
  ],
  "trends": [
@@ -16664,6 +17244,35 @@
    ],
    "date": "2026-10-04",
    "id": "t66ca1c4e"
+  },
+  {
+   "platforms": [
+    "threads",
+    "tiktok"
+   ],
+   "headline": "🍔😡 Viral McDonald's Meltdown Sparks Online 'Doxxing' Storm",
+   "summary_html": "<p>A video clip from a McDonald’s outlet in Ma On Shan has gone viral after a 17-year-old delivery rider grew <span class=\"bw\">irate<span class=\"tip\"><span class=\"tip-en\">extremely angry</span><span class=\"tip-zh\">勃然大怒</span></span></span> over a delayed order, throwing food and splashing a drink at a staff member who later felt unwell and was taken to hospital. The clip quickly <span class=\"bw\">spread<span class=\"tip\"><span class=\"tip-en\">circulated widely</span><span class=\"tip-zh\">廣泛流傳</span></span></span> across Threads and TikTok, prompting an outpouring of criticism. Within days, netizens had <span class=\"bw\">unearthed<span class=\"tip\"><span class=\"tip-en\">discovered something previously hidden</span><span class=\"tip-zh\">翻出</span></span></span> footage of the same teenager in two earlier, unrelated disputes at an arcade and a cafe, fuelling further debate over whether the public response had gone too far.</p>",
+   "summary_zh_html": "<p>馬鷤山一間麥當劳分店的片段近日瘋傳，一名17歲外送員因等候取餐時間過長而<span class=\"bwz\">勃然大怒</span>，向職員擲食物及澑飲品，一名職員事後感到不適須送院。片段迅速在Threads及TikTok上<span class=\"bwz\">廣泛流傳</span>，引發連番批評。數日之內，網民<span class=\"bwz\">翻出</span>該名少女過往在機装及茶餐廳發生的其他兩段不相關爭執片段，令外界進一步爭論，網上的公眾反應是否已經過火。</p>",
+   "causes": [
+    {
+     "label": "A cry for help behind the outburst",
+     "text": "The teenager's repeated public outbursts, now surfacing across three unrelated incidents, suggest a pattern that labelling her merely as 'rude' may overlook. Students could explore how society tends to punish visible anger rather than ask what underlying stress or unmet support needs might be driving such repeated loss of control in young people."
+    },
+    {
+     "label": "Digging up a minor's past as online punishment",
+     "text": "Within hours, anonymous users had traced and shared footage of the girl's two prior, unconnected disputes, exposing her personal history far beyond the original incident. This raises pressing questions about whether online communities should have the power to permanently attach someone's worst moments to their identity, especially when the subject is still a minor."
+    },
+    {
+     "label": "Trial by viral clip before the facts are known",
+     "text": "Short, heavily edited clips shaped public judgement long before any official account of the incident emerged, illustrating how quickly online audiences convict based on partial footage. Writers could examine how the speed of viral sharing often outpaces verification, leaving little room for context, mitigating circumstances, or the possibility that both sides share responsibility."
+    },
+    {
+     "label": "Does public shaming actually change behaviour?",
+     "text": "Although many argue that viral exposure holds rude customers accountable, there is little evidence that mass online shaming changes behaviour rather than simply humiliating one individual, while leaving the underlying causes of poor conduct, such as inadequate staff training or unclear store policies on delayed orders, completely unaddressed and unresolved by the public backlash."
+    }
+   ],
+   "date": "2026-10-05",
+   "id": "t71f6e5e5"
   }
  ]
 }

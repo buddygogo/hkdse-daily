@@ -16456,6 +16456,596 @@
    ],
    "date": "2026-10-05",
    "id": "a54f26cc3"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/344231/Kai-Tak-Hospital-opens-Oct-5-amid-transit-concerns-from-elderly-patients",
+   "published_date": "5 October 2026",
+   "headline": "Kai Tak Hospital Opens Its Doors, But Elderly Patients Struggle to Get There",
+   "category": "health",
+   "summary_html": "<p>Kai Tak Hospital, which is set to become Hong Kong’s largest public hospital, began <span class=\"bw\">phased operations<span class=\"tip\"><span class=\"tip-en\">a gradual rollout of services in stages rather than all at once</span><span class=\"tip-zh\">分階段運作</span></span></span> on 5 October, taking over from Queen Elizabeth Hospital as the <span class=\"bw\">flagship facility<span class=\"tip\"><span class=\"tip-en\">the most important institution of its kind, held up as a model or leader</span><span class=\"tip-zh\">旗艦機構</span></span></span> of the Kowloon Central Cluster. The Specialist Out-patient Clinic Block and the Oncology Block were the first to launch, offering follow-up consultations, a family medicine centre and blood-drawing services mainly to <span class=\"bw\">ambulatory patients<span class=\"tip\"><span class=\"tip-en\">patients who can walk in for treatment and do not need to be admitted overnight</span><span class=\"tip-zh\">能自行走動的病人</span></span></span>. Health authorities estimated that between 2,000 and 3,000 people would visit the hospital daily during this initial stage.</p><p>When fully completed, the hospital will have a <span class=\"bw\">gross floor area<span class=\"tip\"><span class=\"tip-en\">the total built area of a building, measured for planning purposes</span><span class=\"tip-zh\">總建築樓面面積</span></span></span> of 500,000 square metres and 2,400 beds, making it the city’s single largest public medical institution. In-patient, surgical and accident and emergency services, however, are not expected to <span class=\"bw\">come on stream<span class=\"tip\"><span class=\"tip-en\">to begin operating or become available for use</span><span class=\"tip-zh\">開始運作</span></span></span> until 2028, meaning the hospital will continue to expand its role gradually over the next two years before it can meaningfully relieve pressure on neighbouring hospitals.</p><p>Despite the long-awaited opening, some patients voiced concerns over the hospital’s <span class=\"bw\">remote location<span class=\"tip\"><span class=\"tip-en\">a place that is far away and not easy to reach</span><span class=\"tip-zh\">偏遠位置</span></span></span> in Kowloon Bay. An elderly couple travelling from Mong Kok described a <span class=\"bw\">circuitous<span class=\"tip\"><span class=\"tip-en\">not direct; following a long, roundabout route</span><span class=\"tip-zh\">迂迴曲折的</span></span></span> 45-minute minibus journey that stretched their total travel time to nearly two hours, calling the experience “really inconvenient” and urging the government to introduce direct bus or minibus routes to cut down on transfers. Their complaint points to a broader challenge facing <span class=\"bw\">healthcare planners<span class=\"tip\"><span class=\"tip-en\">officials responsible for designing and organising medical services</span><span class=\"tip-zh\">醫療規劃人員</span></span></span>: new hospitals built on reclaimed or peripheral land may struggle to serve the very communities, including the elderly, who rely on them most.</p>",
+   "summary_zh_html": "<p>啟德醫院將成為全港最大的公立醫院，於十月五日起<span class=\"bwz\">分階段運作</span>，取代伊利沙伯醫院成為九龍中聯網的<span class=\"bwz\">旗艦機構</span>。專科門診大樓及腫瘤科大樓率先啟用，主要為<span class=\"bwz\">能自行走動的病人</span>提供覆診服務、家庭醫學中心及抽血服務。衛生當局估計，首階段每日將有二千至三千人到院求診。</p><p>醫院全面落成後，<span class=\"bwz\">總建築樓面面積</span>將達五十萬平方米，設有二千四百張病床，成為全港規模最大的公立醫療機構。然而，住院、外科手術及急症室服務預計要到二零二八年才會<span class=\"bwz\">開始運作</span>，意味著醫院未來兩年仍須逐步擴展職能，才能真正紓緩鄰近醫院的壓力。</p><p>儘管醫院啟用備受期待，部分病人仍對其位於九龍灣的<span class=\"bwz\">偏遠位置</span>表示憂慮。一對從旺角出發的長者夫婦形容，單程需乘搭四十五分鐘<span class=\"bwz\">迂迴曲折</span>的小巴，令全程歷時近兩小時，直言「真的很不方便」，並呼籲政府開辦直達巴士或小巴路線，減少轉車次數。他們的怨言揭示了<span class=\"bwz\">醫療規劃人員</span>面對的更大難題：建於填海或邊陲地段的新醫院，可能難以真正服務最需要它們的社區，包括長者。</p>",
+   "cover_text": {
+    "zh_kicker": "啟德新院",
+    "zh_title": [
+     "全港最大",
+     "醫院啟用"
+    ],
+    "zh_hl": "最大",
+    "zh_sub": "長者轉車近兩小時",
+    "en": "Hong Kong's largest hospital opens, but transport access worries remain"
+   },
+   "vocab": [
+    {
+     "phrase": "phased service rollout",
+     "zh": "分階段推行服務",
+     "sample": "The clinic adopted a phased service rollout so that staff could adjust to the new booking system gradually."
+    },
+    {
+     "phrase": "ambulatory care",
+     "zh": "門診護理",
+     "sample": "Ambulatory care allows patients to receive treatment without staying in hospital overnight."
+    },
+    {
+     "phrase": "specialist out-patient clinic",
+     "zh": "專科門診",
+     "sample": "She was referred to a specialist out-patient clinic for a follow-up scan."
+    },
+    {
+     "phrase": "catchment population",
+     "zh": "服務人口",
+     "sample": "The new cluster was designed to serve a catchment population of over a million residents."
+    },
+    {
+     "phrase": "total bed capacity",
+     "zh": "總病床容量",
+     "sample": "Expanding total bed capacity will not solve overcrowding unless staffing also increases."
+    },
+    {
+     "phrase": "healthcare infrastructure",
+     "zh": "醫療基建",
+     "sample": "Investing in healthcare infrastructure is only useful if it reaches the people who need it most."
+    },
+    {
+     "phrase": "transport connectivity",
+     "zh": "交通連繫性",
+     "sample": "Poor transport connectivity can undo the benefits of even the best-equipped hospital."
+    },
+    {
+     "phrase": "elderly mobility",
+     "zh": "長者行動能力",
+     "sample": "Planners often underestimate how elderly mobility affects access to new facilities."
+    },
+    {
+     "phrase": "reclaimed land",
+     "zh": "填海地",
+     "sample": "Several public facilities in Hong Kong have been built on reclaimed land near the harbour."
+    },
+    {
+     "phrase": "patient volume",
+     "zh": "病人流量",
+     "sample": "Patient volume at the new block exceeded projections within the first week."
+    },
+    {
+     "phrase": "tertiary care",
+     "zh": "第三層醫療服務",
+     "sample": "Tertiary care services such as surgery will not begin until the hospital's second phase."
+    },
+    {
+     "phrase": "last-mile accessibility",
+     "zh": "最後一里的可達性",
+     "sample": "Last-mile accessibility is often the missing piece when new hospitals are built on the outskirts."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "ease the strain on",
+     "zh": "緩解……的壓力",
+     "sample": "The new hospital is expected to ease the strain on overcrowded emergency wards nearby."
+    },
+    {
+     "en": "fall short of residents' expectations",
+     "zh": "未能完全符合居民期望",
+     "sample": "Without better bus links, the project may fall short of residents' expectations."
+    },
+    {
+     "en": "bridge the gap between policy and practice",
+     "zh": "縮小政策與實踐之間的差距",
+     "sample": "Direct shuttle services could help bridge the gap between policy and practice in healthcare access."
+    },
+    {
+     "en": "take priority over",
+     "zh": "優先於",
+     "sample": "Choosing a cheaper site should not take priority over accessibility for elderly patients."
+    },
+    {
+     "en": "underscore the need for",
+     "zh": "突顯……的必要性",
+     "sample": "The couple's two-hour journey underscores the need for dedicated feeder routes to new hospitals."
+    },
+    {
+     "en": "leave much to be desired",
+     "zh": "仍有不少改善空間",
+     "sample": "Transport planning around the new facility leaves much to be desired."
+    },
+    {
+     "en": "a stopgap measure",
+     "zh": "權宜之計",
+     "sample": "Extra minibus trips are only a stopgap measure until a proper bus route is introduced."
+    },
+    {
+     "en": "further down the pipeline",
+     "zh": "更後期的計劃",
+     "sample": "In-patient and surgical services remain further down the pipeline, with completion not expected until 2028."
+    },
+    {
+     "en": "disproportionately affect",
+     "zh": "對……造成不成比例的影響",
+     "sample": "Remote hospital locations disproportionately affect elderly residents who cannot drive."
+    },
+    {
+     "en": "warrant closer scrutiny",
+     "zh": "值得更細緻的檢視",
+     "sample": "The choice of site for major public facilities should warrant closer scrutiny before construction begins."
+    },
+    {
+     "en": "a long-term fix rather than a quick patch",
+     "zh": "治本而非治標的解決方法",
+     "sample": "Officials must offer a long-term fix rather than a quick patch for the transport problem."
+    },
+    {
+     "en": "stretch resources thin",
+     "zh": "使資源被過度分散",
+     "sample": "Running two hospitals in parallel during the transition could stretch resources thin."
+    },
+    {
+     "en": "fail to keep pace with demand",
+     "zh": "未能跟上需求的步伐",
+     "sample": "Public transport links often fail to keep pace with demand once a new facility opens."
+    }
+   ],
+   "date": "2026-10-06",
+   "id": "afbc4a69a"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/344640/September-heat-ranks-among-highest-on-record-as-Hong-Kong-turns-drier",
+   "published_date": "5 October 2026",
+   "headline": "Hong Kong Just Had One of Its Hottest, Driest Septembers on Record",
+   "category": "env",
+   "summary_html": "<p>Hong Kong has just endured one of its hottest and driest Septembers on record, according to the Hong Kong Observatory’s latest <span class=\"bw\">monthly review<span class=\"tip\"><span class=\"tip-en\">an official report summarising weather conditions over the past month</span><span class=\"tip-zh\">月度回顧</span></span></span>. The mean maximum temperature reached 31.8 degrees Celsius and the mean temperature stood at 28.8 degrees, both 0.9 to 1.3 degrees above normal and among the ten highest readings for September since records began. The mean minimum temperature of 27.1 degrees was the fifth-highest on record. Rainfall, meanwhile, totalled a mere 94.3 millimetres, <span class=\"bw\">a fraction of<span class=\"tip\"><span class=\"tip-en\">a small part of; much less than</span><span class=\"tip-zh\">僅為……的一小部分</span></span></span> the usual 321.4 millimetres.</p><p>Forecasters attributed the dry spell to an <span class=\"bw\">anticyclone aloft<span class=\"tip\"><span class=\"tip-en\">a mass of high-pressure air sitting high in the atmosphere, which tends to suppress rain</span><span class=\"tip-zh\">高空氣壓脊</span></span></span>, which kept skies clear and conditions fine for six consecutive days towards the end of the month. The dry September followed an equally <span class=\"bw\">punishing<span class=\"tip\"><span class=\"tip-en\">extremely harsh or difficult to endure</span><span class=\"tip-zh\">難以忍受的，酷熱的</span></span></span> August, during which the Observatory’s headquarters logged an all-time high of 36.9 degrees and Sheung Shui soared to 39.8 degrees, the hottest reading there since automatic weather stations began operating.</p><p>Observatory director Chan Pak-wai noted that 2026’s annual mean temperature is expected to be above normal, placing the year among the ten hottest on record for the city. Such <span class=\"bw\">back-to-back extremes<span class=\"tip\"><span class=\"tip-en\">unusual or severe conditions happening one after another without a break</span><span class=\"tip-zh\">連續出現的極端天氣</span></span></span> carry consequences well beyond discomfort: prolonged dryness can <span class=\"bw\">deplete<span class=\"tip\"><span class=\"tip-en\">to reduce the amount of something, often a resource, over time</span><span class=\"tip-zh\">消耗，耗盡</span></span></span> reservoir levels and stress crops, while sustained heat raises the risk of heatstroke among outdoor workers and the elderly. Environmentalists argue that such figures should <span class=\"bw\">lend urgency to<span class=\"tip\"><span class=\"tip-en\">to make something feel more pressing or in need of immediate action</span><span class=\"tip-zh\">為……添上迫切性</span></span></span> the city’s climate adaptation plans, rather than being treated as an isolated, one-off event.</p>",
+   "summary_zh_html": "<p>根據香港天文台最新發佈的<span class=\"bwz\">月度回顧</span>，香港剛經歷一個有紀錄以來最熱、最乾旱的九月。平均最高溫度達三十一點八度，平均溫度為二十八點八度，均比正常高零點九至一點三度，並列有紀錄以來九月最高溫度的十大之列。平均最低溫度二十七點一度，亦是有紀錄以來第五高。至於雨量，全月僅錄得九十四點三毫米，<span class=\"bwz\">僅為常年雨量</span>三百二十一點四毫米的一小部分。</p><p>預報員將乾旱天氣歸咎於<span class=\"bwz\">高空氣壓脊</span>，該系統令天空保持晴朗，月底連續六日天氣晴朗乾燥。九月的乾旱緊接一個同樣<span class=\"bwz\">難以忍受</span>的八月：當月天文台總部錄得三十六點九度的歷年最高氣溫，上水更飆升至三十九點八度，是該站自動氣象站運作以來最高的一次。</p><p>天文台台長陳栢偉指出，預測二零二六年全年平均氣溫將高於常年，令今年成為有紀錄以來最熱的十年之一。這種<span class=\"bwz\">連續出現的極端天氣</span>帶來的影響遠超一時的不適：持久的乾旱可能<span class=\"bwz\">消耗</span>水庫存水量並影響農作物生長，持續高溫則推高戶外工作者與長者中暑的風險。有環境學家認為，這些數字應<span class=\"bwz\">為……添上迫切性</span>，推動本地氣候適應計劃，而不應被當作一次孤立的異常天氣事件。</p>",
+   "cover_text": {
+    "zh_kicker": "極端天氣",
+    "zh_title": [
+     "九月破紀錄",
+     "雨量僅3成"
+    ],
+    "zh_hl": "3成",
+    "zh_sub": "氣溫創十大高位",
+    "en": "Hong Kong records one of its driest, hottest Septembers on record"
+   },
+   "vocab": [
+    {
+     "phrase": "mean maximum temperature",
+     "zh": "平均最高溫度",
+     "sample": "The mean maximum temperature this September was well above the long-term average."
+    },
+    {
+     "phrase": "anticyclone",
+     "zh": "高空氣壓脊",
+     "sample": "An anticyclone aloft kept the region dry for almost a week."
+    },
+    {
+     "phrase": "rainfall deficit",
+     "zh": "雨量不足",
+     "sample": "The rainfall deficit this autumn has raised concerns about reservoir supply."
+    },
+    {
+     "phrase": "extreme-heat exposure",
+     "zh": "極端高溫曝露",
+     "sample": "Hospitals reported a rise in cases linked to extreme-heat exposure during the prolonged hot spell."
+    },
+    {
+     "phrase": "reservoir levels",
+     "zh": "水庫存水量",
+     "sample": "Reservoir levels dropped noticeably after weeks of below-average rainfall."
+    },
+    {
+     "phrase": "climate adaptation",
+     "zh": "氣候適應",
+     "sample": "Experts urged the government to speed up climate adaptation measures for extreme heat."
+    },
+    {
+     "phrase": "unprecedented temperature reading",
+     "zh": "前所未見的氣溫讀數",
+     "sample": "Several districts logged unprecedented temperature readings within the same week."
+    },
+    {
+     "phrase": "prolonged dry spell",
+     "zh": "持久乾旱期",
+     "sample": "Farmers struggled to irrigate crops during the prolonged dry spell."
+    },
+    {
+     "phrase": "thermal comfort",
+     "zh": "熱舒適度",
+     "sample": "Shaded walkways and water features can noticeably improve thermal comfort during a heatwave."
+    },
+    {
+     "phrase": "weather extremes",
+     "zh": "極端天氣",
+     "sample": "Scientists warn that weather extremes are becoming more frequent as the climate warms."
+    },
+    {
+     "phrase": "long-term warming trend",
+     "zh": "長期暖化趨勢",
+     "sample": "This September's figures fit a long-term warming trend seen over the past decade."
+    },
+    {
+     "phrase": "water conservation measures",
+     "zh": "節約用水措施",
+     "sample": "Officials may need to introduce water conservation measures if the dry weather continues."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "break with past patterns",
+     "zh": "脫離過往模式",
+     "sample": "This year's weather seems to break with past patterns of a wetter, cooler autumn."
+    },
+    {
+     "en": "compound an already difficult situation",
+     "zh": "使原已困難的局面更棘手",
+     "sample": "A dry September would compound an already difficult situation for local reservoirs."
+    },
+    {
+     "en": "be no coincidence",
+     "zh": "絕非巧合",
+     "sample": "Back-to-back record months are no coincidence, scientists say, but part of a wider trend."
+    },
+    {
+     "en": "chip away at",
+     "zh": "逐漸侵蝕",
+     "sample": "Prolonged heat can chip away at the health of outdoor workers and elderly residents alike."
+    },
+    {
+     "en": "cannot be dismissed as a one-off",
+     "zh": "不能被視作偶發事件",
+     "sample": "A fifth consecutive hot month cannot be dismissed as a one-off."
+    },
+    {
+     "en": "strain the city's resources",
+     "zh": "給本地資源帶來壓力",
+     "sample": "Extended dry spells strain the city's resources, from water supply to emergency services."
+    },
+    {
+     "en": "serve as an early warning sign",
+     "zh": "成為早期警訊",
+     "sample": "This September's figures should serve as an early warning sign rather than a passing curiosity."
+    },
+    {
+     "en": "outpace previous records",
+     "zh": "超越以往紀錄",
+     "sample": "Several weather stations outpaced previous records set only a year earlier."
+    },
+    {
+     "en": "rule out treating it as a fluke",
+     "zh": "排除純屬僥倖的可能",
+     "sample": "A fifth consecutive hot month should rule out treating it as a fluke."
+    },
+    {
+     "en": "ripple through the local economy",
+     "zh": "波及本地經濟",
+     "sample": "A prolonged dry spell can ripple through the local economy, from farming to tourism."
+    },
+    {
+     "en": "demand more than short-term fixes",
+     "zh": "需要超越短期權宜的對策",
+     "sample": "Climate extremes of this scale demand more than short-term fixes such as temporary water rationing."
+    },
+    {
+     "en": "defy seasonal expectations",
+     "zh": "違反季節性預期",
+     "sample": "The bone-dry September defied seasonal expectations of autumn showers."
+    },
+    {
+     "en": "add weight to the argument that",
+     "zh": "為……的論點增添依據",
+     "sample": "The latest figures add weight to the argument that adaptation plans need updating."
+    }
+   ],
+   "date": "2026-10-06",
+   "id": "a90b42f90"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/world/article/344549/Asian-Games-close-after-fortnight-of-turmoil-and-teenage-triumph",
+   "published_date": "4 October 2026",
+   "headline": "Hong Kong Claims Record Medal Haul as Asian Games Close in Nagoya",
+   "category": "sports",
+   "summary_html": "<p>The 20th Asian Games in Aichi-Nagoya, Japan, closed on Sunday after a fortnight that organisers described as a mix of <span class=\"bw\">turmoil<span class=\"tip\"><span class=\"tip-en\">a state of confusion, disruption or disorder</span><span class=\"tip-zh\">混亂，動盪</span></span></span> and teenage triumph. Hong Kong sent a <span class=\"bw\">delegation<span class=\"tip\"><span class=\"tip-en\">a group of people chosen to represent a city, country or organisation</span><span class=\"tip-zh\">代表團</span></span></span> of about 580 athletes to compete across 38 sports, and came away with a <span class=\"bw\">record medal haul<span class=\"tip\"><span class=\"tip-en\">the largest total number of medals ever won, collected together</span><span class=\"tip-zh\">創紀錄的獎牌總數</span></span></span> of 46 medals — seven gold, 17 silver and 22 bronze.</p><p>The sailing squad was a standout, claiming ten medals in total, including four gold, for the team’s best-ever <span class=\"bw\">showing<span class=\"tip\"><span class=\"tip-en\">a performance or result, especially a good or notable one</span><span class=\"tip-zh\">表現</span></span></span> at an Asian Games. Beyond the medal table, officials pointed to a wave of personal bests and <span class=\"bw\">breakthrough performances<span class=\"tip\"><span class=\"tip-en\">results that mark a sudden and important improvement, often for the first time</span><span class=\"tip-zh\">突破性的表現</span></span></span> by younger athletes, several of whom <span class=\"bw\">eclipsed<span class=\"tip\"><span class=\"tip-en\">to do much better than a previous achievement, making it seem less impressive</span><span class=\"tip-zh\">超越，蓋過</span></span></span> local records once held by more senior competitors.</p><p>Secretary for Culture, Sports and Tourism Rosanna Law, who travelled to Nagoya to support the delegation, praised the athletes’ <span class=\"bw\">fighting spirit<span class=\"tip\"><span class=\"tip-en\">a strong determination to keep trying despite difficulty</span><span class=\"tip-zh\">鬥志</span></span></span> on her return. Athletes have since been arriving home in staggered batches; the karate and football contingents landed first, while Monday’s group included the men’s and women’s rugby sevens teams and the water polo squad. The achievement is likely to <span class=\"bw\">reignite debate<span class=\"tip\"><span class=\"tip-en\">to cause an argument or discussion to start again after a period of calm</span><span class=\"tip-zh\">重新引發論爭</span></span></span> over how far record medal counts should shape future funding for grassroots sports training in the city.</p>",
+   "summary_zh_html": "<p>第二十屆亞運於星期日在日本愛知・名古屋閉幕，主辦方形容這兩週充滿<span class=\"bwz\">動盪</span>與年輕選手創下佳績的瞬間。香港派出約五百八十人的<span class=\"bwz\">代表團</span>，在三十八個項目中出賽，最終取得<span class=\"bwz\">創紀錄的獎牌總數</span>，共四十六面獎牌，包括七金、十七銀及二十二銅。</p><p>帆船隊表現尤為亮眼，共奪十面獎牌，包括四面金牌，是該隊歷來在亞運的最佳<span class=\"bwz\">表現</span>。除獎牌榜以外，官方亦指出，許多年輕選手創下個人最佳成績，甚至做出<span class=\"bwz\">突破性的表現</span>，有人更<span class=\"bwz\">超越</span>資深選手所保持的本地紀錄。</p><p>文化體育及旅遊局局長羅淑佩曾親赴名古屋現場支持代表團，回港後讚揚運動員表現出的<span class=\"bwz\">鬥志</span>。運動員此後分批陸續回港，空手道及足球代表先行抵港，週一則輪到男女欖球隊及水球隊回港。這次成績預期將<span class=\"bwz\">重新引發論爭</span>，討論創紀錄的獎牌數量究竟應如何影響未來全港基層體育訓練的資源分配。</p>",
+   "cover_text": {
+    "zh_kicker": "亞運凱旋",
+    "zh_title": [
+     "香港代表隊",
+     "創46面獎牌"
+    ],
+    "zh_hl": "46",
+    "zh_sub": "帆船隊創歷年最佳",
+    "en": "Hong Kong claims record medal haul at Nagoya Asian Games"
+   },
+   "vocab": [
+    {
+     "phrase": "medal haul",
+     "zh": "獎牌收穫",
+     "sample": "The team's medal haul this year nearly doubled their previous best."
+    },
+    {
+     "phrase": "personal best",
+     "zh": "個人最佳成績",
+     "sample": "Several swimmers set a personal best despite the intense competition."
+    },
+    {
+     "phrase": "grassroots training",
+     "zh": "基層訓練",
+     "sample": "Officials credited the medal haul partly to years of grassroots training programmes."
+    },
+    {
+     "phrase": "national representation",
+     "zh": "代表選拔",
+     "sample": "Being chosen for national representation is often the highlight of an athlete's career."
+    },
+    {
+     "phrase": "competitive field",
+     "zh": "參賽陣容",
+     "sample": "The sailing event featured a particularly strong competitive field this year."
+    },
+    {
+     "phrase": "sporting pedigree",
+     "zh": "體育實力背景",
+     "sample": "Hong Kong's sailing team has built up an impressive sporting pedigree over the past decade."
+    },
+    {
+     "phrase": "podium placing",
+     "zh": "登上頒獎台",
+     "sample": "A podium placing at this level can transform a young athlete's career prospects."
+    },
+    {
+     "phrase": "talent pipeline",
+     "zh": "人才培訓系統",
+     "sample": "A strong talent pipeline helped several rookies qualify for the Games this year."
+    },
+    {
+     "phrase": "squad depth",
+     "zh": "隊伍深度",
+     "sample": "Squad depth allowed the team to cope when a star player was injured."
+    },
+    {
+     "phrase": "home-coming reception",
+     "zh": "歡迎回港儀式",
+     "sample": "A large crowd gathered at the airport for the athletes' home-coming reception."
+    },
+    {
+     "phrase": "funding allocation",
+     "zh": "資源投放",
+     "sample": "Sports bodies are lobbying for a bigger funding allocation after this year's results."
+    },
+    {
+     "phrase": "underdog performance",
+     "zh": "黑馬式的驚喜表現",
+     "sample": "The rugby sevens team delivered an underdog performance that surprised many fans."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "exceed all expectations",
+     "zh": "超出所有預期",
+     "sample": "The sailing team's ten medals exceeded all expectations going into the Games."
+    },
+    {
+     "en": "translate into long-term investment",
+     "zh": "轉化為長期投資",
+     "sample": "Whether a record medal count will translate into long-term investment remains to be seen."
+    },
+    {
+     "en": "come at a cost",
+     "zh": "付上一定代價",
+     "sample": "Such achievements often come at a cost in years of unseen, unfunded training."
+    },
+    {
+     "en": "put the spotlight on",
+     "zh": "將焦點集中在",
+     "sample": "The medal haul has put the spotlight on sports that rarely receive public attention."
+    },
+    {
+     "en": "set a new benchmark",
+     "zh": "樹立新標準",
+     "sample": "This year's results set a new benchmark for future Hong Kong delegations."
+    },
+    {
+     "en": "validate years of preparation",
+     "zh": "印證多年備戰的價值",
+     "sample": "The gold medal validated years of preparation that rarely make headlines."
+    },
+    {
+     "en": "cannot be attributed to luck alone",
+     "zh": "無法單純歸因於運氣",
+     "sample": "Such a consistent medal haul cannot be attributed to luck alone."
+    },
+    {
+     "en": "raise the bar for future competitors",
+     "zh": "為未來選手設下更高門檻",
+     "sample": "Breaking local records raises the bar for future competitors in the same event."
+    },
+    {
+     "en": "reflect sustained investment rather than a single stroke of luck",
+     "zh": "反映持續投資而非偶然的幸運",
+     "sample": "Coaches argued the results reflect sustained investment rather than a single stroke of luck."
+    },
+    {
+     "en": "shift public attention towards",
+     "zh": "把公眾注意力轉向",
+     "sample": "The sailing team's success may shift public attention towards water sports funding."
+    },
+    {
+     "en": "a hard act to follow",
+     "zh": "難以超越的成績",
+     "sample": "This year's medal haul will be a hard act to follow at the next Games."
+    },
+    {
+     "en": "stand in sharp contrast to",
+     "zh": "與……形成鮮明對比",
+     "sample": "The rugby sevens' bronze stands in sharp contrast to its limited funding in past years."
+    }
+   ],
+   "date": "2026-10-06",
+   "id": "af8eece42"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/344330/Hotels-and-restaurants-cash-in-on-extended-Golden-Week-as-HK-welcomes-129m-visitors",
+   "published_date": "4 October 2026",
+   "headline": "Golden Week Boom Lifts Hong Kong's Retail and Dining Trade",
+   "category": "econ",
+   "summary_html": "<p>Hong Kong’s extended seven-day National Day Golden Week has delivered a welcome boost to the retail and catering trades, with about 1.29 million Mainland visitors expected to cross the border during the holiday. Small and medium-sized hotels reported <span class=\"bw\">occupancy rates<span class=\"tip\"><span class=\"tip-en\">the percentage of available rooms or spaces that are actually being used</span><span class=\"tip-zh\">入住率</span></span></span> above 90 percent, while room rates at budget and chain hotels climbed by 10 to 20 percent as <span class=\"bw\">demand outstripped supply<span class=\"tip\"><span class=\"tip-en\">when the amount people want is greater than the amount available</span><span class=\"tip-zh\">需求超過供應</span></span></span>.</p><p>More than 3,800 restaurants, ranging from street-side eateries to five-star hotels, rolled out <span class=\"bw\">promotional deals<span class=\"tip\"><span class=\"tip-en\">special offers designed to attract customers, such as discounts</span><span class=\"tip-zh\">促銷優惠</span></span></span>, including 30 percent off the total bill and set meals priced as low as HK$77. The catering industry is projecting a <span class=\"bw\">year-on-year<span class=\"tip\"><span class=\"tip-en\">compared with the same period in the previous year</span><span class=\"tip-zh\">與上年同期相比</span></span></span> sales rise of around 10 percent, pushing dining revenue over the holiday to roughly HK$350 million.</p><p>Retailers reported similar gains: shopping malls recorded about a 10 percent increase in <span class=\"bw\">footfall<span class=\"tip\"><span class=\"tip-en\">the number of people entering a shop or area, used as a measure of business activity</span><span class=\"tip-zh\">人流量</span></span></span>, with vendors seeing revenue climb 10 to 20 percent; jewellers anticipated gains of around 15 percent, apparel sellers roughly 10 percent, and personal-care stores as much as 20 percent. While welcome, such figures should be read with some caution, as <span class=\"bw\">holiday-driven spending<span class=\"tip\"><span class=\"tip-en\">spending that happens mainly because of a festival or holiday period, rather than all year round</span><span class=\"tip-zh\">節日性消費</span></span></span> can mask weaker demand during quieter months, leaving the sector’s broader <span class=\"bw\">recovery trajectory<span class=\"tip\"><span class=\"tip-en\">the general direction or path along which something develops over time, here referring to economic recovery</span><span class=\"tip-zh\">復原軌跡</span></span></span> still uncertain.</p>",
+   "summary_zh_html": "<p>香港今年延長至七天的國慶黃金週，為零售及餐飲行業帶來一波喜訊，預計約有一百二十九萬名內地遊客在假期期間訪港。中小型酒店的<span class=\"bwz\">入住率</span>超過九成，連鎖酒店及平價酒店的房價則因<span class=\"bwz\">需求超過供應</span>而推高百分之十至二十。</p><p>超過三千八百家餐廳，上至五星級酒店、下至街邊小店，紛紛推出<span class=\"bwz\">促銷優惠</span>，包括整單九折及最低只需八十元的套餐。餐飲業預測銷售額將<span class=\"bwz\">與上年同期相比</span>增長約百分之十，令假期期間的餐飲收入達約三億五千萬元。</p><p>零售商亦取得類似成果：商場<span class=\"bwz\">人流量</span>大約上升百分之十，商戶收入則上升百分之十至二十；珠寶商預期收入可增約百分之十五，服飾零售商約百分之十，個人護理店舖則可能高達百分之二十。然而，這些數字仍須謹慎解讀，因為<span class=\"bwz\">節日性消費</span>可能掩蓋假期以外月份的消費需求前景，整體零售業的<span class=\"bwz\">復原軌跡</span>仍未明朗。</p>",
+   "cover_text": {
+    "zh_kicker": "黃金週旺市",
+    "zh_title": [
+     "假期湧入",
+     "129萬客"
+    ],
+    "zh_hl": "129萬",
+    "zh_sub": "食肆零售同創佳績",
+    "en": "Golden Week boom lifts Hong Kong's retail and dining trade"
+   },
+   "vocab": [
+    {
+     "phrase": "occupancy rate",
+     "zh": "入住率",
+     "sample": "Hotel occupancy rates often peak during long public holidays."
+    },
+    {
+     "phrase": "non-essential spending",
+     "zh": "非必要性消費",
+     "sample": "Non-essential spending on dining and shopping tends to rise sharply during holidays."
+    },
+    {
+     "phrase": "shopper traffic",
+     "zh": "購物人流",
+     "sample": "Shopper traffic at the mall doubled during the first three days of the holiday."
+    },
+    {
+     "phrase": "cross-border visitor",
+     "zh": "跨境遊客",
+     "sample": "Cross-border visitor numbers are a key indicator of the retail sector's health."
+    },
+    {
+     "phrase": "consumption recovery",
+     "zh": "消費復原",
+     "sample": "Analysts are watching closely to see whether this signals a genuine consumption recovery."
+    },
+    {
+     "phrase": "price-sensitive shoppers",
+     "zh": "對價格敏感的消費者",
+     "sample": "Deep discounts are aimed squarely at price-sensitive shoppers."
+    },
+    {
+     "phrase": "seasonal surge",
+     "zh": "季節性高峰",
+     "sample": "Retailers rely heavily on the seasonal surge around major holidays."
+    },
+    {
+     "phrase": "spending power",
+     "zh": "消費力",
+     "sample": "Mainland visitors' spending power remains vital to Hong Kong's retail sector."
+    },
+    {
+     "phrase": "revenue growth",
+     "zh": "收入增長",
+     "sample": "Jewellers reported the strongest revenue growth among all retail categories."
+    },
+    {
+     "phrase": "tourist footfall",
+     "zh": "遊客人流",
+     "sample": "Tourist footfall at border checkpoints rose sharply ahead of the holiday."
+    },
+    {
+     "phrase": "demand outpacing supply",
+     "zh": "需求超越供應",
+     "sample": "Hotels saw demand outpacing supply, pushing room rates higher."
+    },
+    {
+     "phrase": "holiday economy",
+     "zh": "假期經濟",
+     "sample": "The holiday economy gives a short-term lift but does not guarantee year-round stability."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "provide a much-needed lift",
+     "zh": "帶來久等的振奮",
+     "sample": "The Golden Week figures provide a much-needed lift for small retailers."
+    },
+    {
+     "en": "should not be mistaken for a lasting turnaround",
+     "zh": "不應被誤認為持久的轉機",
+     "sample": "A single strong holiday should not be mistaken for a lasting turnaround in retail sales."
+    },
+    {
+     "en": "paint only part of the picture",
+     "zh": "只反映局面的一部分",
+     "sample": "Headline growth figures paint only part of the picture for struggling small shops."
+    },
+    {
+     "en": "rest heavily on",
+     "zh": "大程度上取決於",
+     "sample": "Future retail performance will rest heavily on whether Mainland visitor numbers stay steady."
+    },
+    {
+     "en": "offer only temporary relief",
+     "zh": "僅提供暫時的緩解",
+     "sample": "Deep holiday discounts offer only temporary relief to businesses facing high rents."
+    },
+    {
+     "en": "mask underlying weaknesses",
+     "zh": "掩蓋潛在的弱點",
+     "sample": "A busy holiday season can mask underlying weaknesses in everyday consumer demand."
+    },
+    {
+     "en": "ride on the back of",
+     "zh": "借助……的帶動",
+     "sample": "Small eateries rode on the back of the citywide promotions to attract new customers."
+    },
+    {
+     "en": "a double-edged strategy",
+     "zh": "一把雙面刃的策略",
+     "sample": "Deep discounting is a double-edged strategy that boosts footfall but squeezes profit margins."
+    },
+    {
+     "en": "fail to translate into year-round stability",
+     "zh": "未能轉化為全年的穩定發展",
+     "sample": "A single busy week may fail to translate into year-round stability for small businesses."
+    },
+    {
+     "en": "widen the gap between large chains and small shops",
+     "zh": "拉闊大型連鎖店與小店的差距",
+     "sample": "Heavy discounting can widen the gap between large chains and small independent shops."
+    },
+    {
+     "en": "remain heavily dependent on",
+     "zh": "仍高度依賴於",
+     "sample": "Hong Kong's retail recovery remains heavily dependent on Mainland visitor spending."
+    },
+    {
+     "en": "a short-lived spike rather than a steady climb",
+     "zh": "一次短暫的高峰而非持續的成長",
+     "sample": "Economists warn this could be a short-lived spike rather than a steady climb in consumption."
+    }
+   ],
+   "date": "2026-10-06",
+   "id": "aff98d4f5"
   }
  ],
  "trends": [
@@ -17273,6 +17863,36 @@
    ],
    "date": "2026-10-05",
    "id": "t71f6e5e5"
+  },
+  {
+   "platforms": [
+    "threads",
+    "ig",
+    "tiktok"
+   ],
+   "headline": "🫣 Mystery Stain at MTR Admiralty Becomes the Internet's Latest Punchline",
+   "summary_html": "<p>A short clip filmed at MTR Admiralty Station on 1 October quickly went viral after it showed a trail of an unidentified brown substance spread near an escalator by the feet of passing commuters, with staff seen guiding travellers around the area before laying down cleaning mats. <span class=\"bw\">Unverified<span class=\"tip\"><span class=\"tip-en\">not officially confirmed to be true or accurate</span><span class=\"tip-zh\">未經證實的</span></span></span> guesses about what the substance actually was spread just as fast as the footage itself, and the clip was soon stitched into memes joking that the city moves too fast for anyone to find a toilet in time, reviving an old quip that Hong Kong's streets are “paved with gold.”</p>",
+   "summary_zh_html": "<p>一段於十月一日在港鐵金鐘站拍下的短片迅速在網上瘋傳，片段顯示扶手電梯旁有一條啡色神秘液體被乘客踏過而沾滿地面，職員隨後引導乘客繞行並鋪上清潔墊。對於該液體究竟為何的<span class=\"bwz\">未經證實</span>猜測與片段本身一樣迅速流傳，不久後更被剪接成搞笑影片，笑言香港節奏太快，令人連上廁所都沒時間，也重新喚起那句舊話：香港街頭「黃金鋪地」。</p>",
+   "causes": [
+    {
+     "label": "Spreading a claim before anyone verifies it",
+     "text": "No official source ever confirmed what the substance was, yet confident guesses still raced across group chats and comment sections as if they were established fact. The episode is a compact case study in how a viral clip can harden into a shared 'truth' long before, or even without, any verification at all."
+    },
+    {
+     "label": "Who keeps a transport hub clean, and how fast",
+     "text": "The footage also showed MTR staff responding within minutes, guiding passengers and laying mats before the area could be cleaned properly. Readers could weigh whether the clip is really evidence of poor hygiene, or in fact evidence of a maintenance system working exactly as it should under pressure."
+    },
+    {
+     "label": "Shared toilet humour as a release valve for commuters",
+     "text": "Hongkongers did not just complain about the incident; they turned it into a running joke about the city's relentless pace, stitching the clip into memes and in-jokes. That instinct to laugh together at a shared inconvenience can function as a small, low-stakes way of bonding over the frustrations of daily commuting."
+    },
+    {
+     "label": "Counter-argument: the joke lets a real hygiene lapse off the hook",
+     "text": "Turning the clip into comedy risks trivialising a genuine public health concern. A busy station floor left exposed to a biohazard, however briefly, deserves scrutiny of cleaning protocols and response times, not just a punchline that lets everyone move on without asking harder questions."
+    }
+   ],
+   "date": "2026-10-06",
+   "id": "tc3153ba5"
   }
  ]
 }

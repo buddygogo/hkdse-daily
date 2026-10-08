@@ -2,584 +2,609 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/344231/Kai-Tak-Hospital-opens-Oct-5-amid-transit-concerns-from-elderly-patients",
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/health-environment/article/3370055/60-hong-kongs-suspected-student-suicides-involved-children-aged-15-or-below",
+      "published_date": "7 October 2026",
+      "headline": "Most Suspected Student Suicides Involve Under-15s, Bureau Tells Lawmakers",
+      "category": "school",
+      "summary_html": "<p>The Education Bureau told the Legislative Council this week that a <span class=\"bw\">disproportionate share<span class=\"tip\"><span class=\"tip-en\">a portion of something that is unexpectedly large compared with the rest</span><span class=\"tip-zh\">不成比例的比重</span></span></span> of suspected student suicide cases logged over the past three school years involved children aged 15 or younger, overturning the common assumption that such tragedies chiefly affect older teenagers facing examination pressure. Officials disclosed that roughly six in ten cases fell within this younger age band, a pattern they described as deeply concerning given that <span class=\"bw\">early intervention<span class=\"tip\"><span class=\"tip-en\">taking action as soon as possible after a problem is identified, before it becomes more serious</span><span class=\"tip-zh\">及早介入</span></span></span> is widely regarded as most effective before adolescence.</p><p>Under the <span class=\"bw\">three-tier support mechanism<span class=\"tip\"><span class=\"tip-en\">a support system organised into three levels of increasing seriousness or urgency</span><span class=\"tip-zh\">三層支援機制</span></span></span> introduced after a spike in cases, principals may refer pupils showing signs of <span class=\"bw\">underlying distress<span class=\"tip\"><span class=\"tip-en\">deep emotional pain that is not immediately obvious on the surface</span><span class=\"tip-zh\">潛在情緒困擾</span></span></span> directly to Hospital Authority psychiatrists, bypassing slower school-based channels; bureau figures show schools have made such <span class=\"bw\">psychiatric referrals<span class=\"tip\"><span class=\"tip-en\">cases passed on to a mental health specialist for assessment or treatment</span><span class=\"tip-zh\">精神科轉介</span></span></span> at an average pace of roughly twenty a month. Lawmakers welcomed the mechanism but questioned whether it amounts to little more than a <span class=\"bw\">stopgap measure<span class=\"tip\"><span class=\"tip-en\">a temporary solution used until a more permanent one can be found</span><span class=\"tip-zh\">權宜之計</span></span></span>, noting that referrals have continued to climb even as the scheme has matured, suggesting that <span class=\"bw\">compounding pressures<span class=\"tip\"><span class=\"tip-en\">multiple sources of stress that build on and intensify one another</span><span class=\"tip-zh\">疊加壓力</span></span></span> on young people are outpacing the system built to catch them.</p><p>Mental health advocates argue the figures point to <span class=\"bw\">systemic gaps<span class=\"tip\"><span class=\"tip-en\">weaknesses built into the structure of a system, rather than isolated errors</span><span class=\"tip-zh\">系統性缺口</span></span></span> rather than isolated failures, calling for counsellors to be embedded in primary as well as secondary schools and for teacher training to address <span class=\"bw\">mental wellbeing<span class=\"tip\"><span class=\"tip-en\">a person's overall psychological and emotional health</span><span class=\"tip-zh\">心理健康</span></span></span> warning signs specific to younger children. The bureau says it is reviewing the mechanism's scope, though it has not committed to a timeline. For now, the data leaves parents and educators grappling with an uncomfortable question: whether a system designed around teenage stress is adequately equipped to protect children barely out of primary school.</p>",
+      "summary_zh_html": "<p>教育局本周向立法會表示，在過去三個學年錄得的懷疑學生自殺個案中，有<span class=\"bwz\">不成比例的比重</span>涉及十五歲或以下的兒童，推翻了一般人認為此類悲劇主要發生在面對考試壓力的年長學生身上的看法。官員透露，約六成個案屬於這個較年輕的年齡組別，並形容此情況令人深感憂慮，因為<span class=\"bwz\">及早介入</span>普遍被視為在踏入青春期前最為有效。</p><p>在因個案急增而推行的<span class=\"bwz\">三層支援機制</span>下，校長可將出現<span class=\"bwz\">潛在情緒困擾</span>徵狀的學生直接轉介予醫院管理局的精神科醫生，繞過速度較慢的校內渠道；教育局數字顯示，學校平均每月作出約二十宗<span class=\"bwz\">精神科轉介</span>。議員歡迎該機制，但質疑它是否只是一項<span class=\"bwz\">權宜之計</span>，指出即使計劃已推行一段時間，轉介需求仍持續攀升，反映年輕人面對的<span class=\"bwz\">疊加壓力</span>正超出這個系統所能應付的範圍。</p><p>精神健康倡議人士認為，這些數字反映的是<span class=\"bwz\">系統性缺口</span>，而非個別事件的失誤，呼籲在小學（而非僅在中學）設立駐校輔導員，並加強教師培訓，以識別針對較年幼兒童的<span class=\"bwz\">心理健康</span>警號。教育局表示正在檢討機制的涵蓋範圍，但未承諾具體時間表。目前，這些數字令家長和教育工作者面對一個令人不安的問題：一套圍繞青少年壓力而設計的系統，是否足以保護那些年紀尚小、剛離開小學的兒童。</p>",
+      "cover_text": {
+        "zh_kicker": "學童自殺",
+        "zh_title": [
+          "六成自殺個案",
+          "涉15歲以下童"
+        ],
+        "zh_hl": "15歲以下",
+        "zh_sub": "教育局：轉介需求仍上升",
+        "en": "Most student suicide cases involve under-15s"
+      },
+      "vocab": [
+        {
+          "phrase": "suicide risk assessment",
+          "zh": "自殺風險評估",
+          "sample": "Every school is now required to complete a suicide risk assessment for pupils flagged by teachers."
+        },
+        {
+          "phrase": "at-risk students",
+          "zh": "高危學生",
+          "sample": "Counsellors are assigned to monitor at-risk students more closely during the examination period."
+        },
+        {
+          "phrase": "referral pathway",
+          "zh": "轉介途徑",
+          "sample": "A clear referral pathway allows teachers to connect struggling pupils with professional help quickly."
+        },
+        {
+          "phrase": "emotional turmoil",
+          "zh": "情緒波動",
+          "sample": "Her teachers had noticed signs of emotional turmoil in the weeks before the referral was made."
+        },
+        {
+          "phrase": "school counsellor",
+          "zh": "駐校輔導員",
+          "sample": "Every secondary school in the district now employs at least one full-time school counsellor."
+        },
+        {
+          "phrase": "warning signs",
+          "zh": "警號",
+          "sample": "Parents are urged to take warning signs such as withdrawal and insomnia seriously."
+        },
+        {
+          "phrase": "crisis intervention",
+          "zh": "危機介入",
+          "sample": "The hotline offers crisis intervention for students who are experiencing severe emotional difficulty."
+        },
+        {
+          "phrase": "peer support network",
+          "zh": "同伴支援網絡",
+          "sample": "A peer support network trains senior students to accompany classmates who seem isolated."
+        },
+        {
+          "phrase": "psychological resilience",
+          "zh": "心理韌性",
+          "sample": "Building psychological resilience from a young age may help pupils cope with future setbacks."
+        },
+        {
+          "phrase": "underreporting",
+          "zh": "漏報",
+          "sample": "Experts warn that underreporting may mean the true scale of the problem is even larger."
+        },
+        {
+          "phrase": "high-risk referral",
+          "zh": "高危個案轉介",
+          "sample": "Principals can make a high-risk referral directly to the Hospital Authority when a pupil shows severe distress."
+        },
+        {
+          "phrase": "intervention scheme",
+          "zh": "介入計劃",
+          "sample": "The bureau insists the intervention scheme will be reviewed if referral numbers keep rising."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "a cause for serious concern",
+          "zh": "令人深感憂慮的原因",
+          "sample": "The sharp rise in referrals is a cause for serious concern among educators."
+        },
+        {
+          "en": "falls short of addressing the root cause",
+          "zh": "未能解決根源問題",
+          "sample": "Critics say the scheme falls short of addressing the root cause of student distress."
+        },
+        {
+          "en": "warrants closer scrutiny",
+          "zh": "值得進一步審視",
+          "sample": "The effectiveness of the three-tier mechanism warrants closer scrutiny from policymakers."
+        },
+        {
+          "en": "a worrying pattern has emerged",
+          "zh": "一個令人擔憂的模式已經出現",
+          "sample": "A worrying pattern has emerged showing that younger children are increasingly affected."
+        },
+        {
+          "en": "calls into question whether",
+          "zh": "令人質疑是否",
+          "sample": "The rising caseload calls into question whether current resources are sufficient."
+        },
+        {
+          "en": "points to a deeper structural issue",
+          "zh": "反映出更深層的結構性問題",
+          "sample": "The data points to a deeper structural issue within the education system."
+        },
+        {
+          "en": "cannot be tackled in isolation",
+          "zh": "不能單獨解決",
+          "sample": "Student mental health cannot be tackled in isolation from wider social pressures."
+        },
+        {
+          "en": "there is no quick fix for",
+          "zh": "沒有迅速的解決方法",
+          "sample": "There is no quick fix for the emotional strain many students quietly carry."
+        },
+        {
+          "en": "demands a coordinated response",
+          "zh": "需要協調一致的應對",
+          "sample": "Protecting vulnerable pupils demands a coordinated response from schools, families and health services."
+        },
+        {
+          "en": "risks being dismissed as a stopgap",
+          "zh": "有可能被視為權宜之計",
+          "sample": "Without long-term funding, the scheme risks being dismissed as a stopgap."
+        },
+        {
+          "en": "the figures speak for themselves",
+          "zh": "數字已經不言自明",
+          "sample": "On the question of under-15 cases, the figures speak for themselves."
+        },
+        {
+          "en": "merits further investment",
+          "zh": "值得進一步投放資源",
+          "sample": "Early intervention clearly merits further investment if outcomes are to improve."
+        },
+        {
+          "en": "remains an open question",
+          "zh": "仍是一個懸而未決的問題",
+          "sample": "Whether the mechanism will be extended to all primary schools remains an open question."
+        },
+        {
+          "en": "underscores the urgency of",
+          "zh": "凸顯了…的迫切性",
+          "sample": "The latest figures underscore the urgency of training more school counsellors."
+        }
+      ]
+    },
+    {
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/society/article/3369830/bid-turn-14-subsidised-sale-flats-subdivided-homes-raises-abuse-concerns",
       "published_date": "5 October 2026",
-      "headline": "Kai Tak Hospital Opens Its Doors, But Elderly Patients Struggle to Get There",
-      "category": "health",
-      "summary_html": "<p>Kai Tak Hospital, which is set to become Hong Kong’s largest public hospital, began <span class=\"bw\">phased operations<span class=\"tip\"><span class=\"tip-en\">a gradual rollout of services in stages rather than all at once</span><span class=\"tip-zh\">分階段運作</span></span></span> on 5 October, taking over from Queen Elizabeth Hospital as the <span class=\"bw\">flagship facility<span class=\"tip\"><span class=\"tip-en\">the most important institution of its kind, held up as a model or leader</span><span class=\"tip-zh\">旗艦機構</span></span></span> of the Kowloon Central Cluster. The Specialist Out-patient Clinic Block and the Oncology Block were the first to launch, offering follow-up consultations, a family medicine centre and blood-drawing services mainly to <span class=\"bw\">ambulatory patients<span class=\"tip\"><span class=\"tip-en\">patients who can walk in for treatment and do not need to be admitted overnight</span><span class=\"tip-zh\">能自行走動的病人</span></span></span>. Health authorities estimated that between 2,000 and 3,000 people would visit the hospital daily during this initial stage.</p><p>When fully completed, the hospital will have a <span class=\"bw\">gross floor area<span class=\"tip\"><span class=\"tip-en\">the total built area of a building, measured for planning purposes</span><span class=\"tip-zh\">總建築樓面面積</span></span></span> of 500,000 square metres and 2,400 beds, making it the city’s single largest public medical institution. In-patient, surgical and accident and emergency services, however, are not expected to <span class=\"bw\">come on stream<span class=\"tip\"><span class=\"tip-en\">to begin operating or become available for use</span><span class=\"tip-zh\">開始運作</span></span></span> until 2028, meaning the hospital will continue to expand its role gradually over the next two years before it can meaningfully relieve pressure on neighbouring hospitals.</p><p>Despite the long-awaited opening, some patients voiced concerns over the hospital’s <span class=\"bw\">remote location<span class=\"tip\"><span class=\"tip-en\">a place that is far away and not easy to reach</span><span class=\"tip-zh\">偏遠位置</span></span></span> in Kowloon Bay. An elderly couple travelling from Mong Kok described a <span class=\"bw\">circuitous<span class=\"tip\"><span class=\"tip-en\">not direct; following a long, roundabout route</span><span class=\"tip-zh\">迂迴曲折的</span></span></span> 45-minute minibus journey that stretched their total travel time to nearly two hours, calling the experience “really inconvenient” and urging the government to introduce direct bus or minibus routes to cut down on transfers. Their complaint points to a broader challenge facing <span class=\"bw\">healthcare planners<span class=\"tip\"><span class=\"tip-en\">officials responsible for designing and organising medical services</span><span class=\"tip-zh\">醫療規劃人員</span></span></span>: new hospitals built on reclaimed or peripheral land may struggle to serve the very communities, including the elderly, who rely on them most.</p>",
-      "summary_zh_html": "<p>啟德醫院將成為全港最大的公立醫院，於十月五日起<span class=\"bwz\">分階段運作</span>，取代伊利沙伯醫院成為九龍中聯網的<span class=\"bwz\">旗艦機構</span>。專科門診大樓及腫瘤科大樓率先啟用，主要為<span class=\"bwz\">能自行走動的病人</span>提供覆診服務、家庭醫學中心及抽血服務。衛生當局估計，首階段每日將有二千至三千人到院求診。</p><p>醫院全面落成後，<span class=\"bwz\">總建築樓面面積</span>將達五十萬平方米，設有二千四百張病床，成為全港規模最大的公立醫療機構。然而，住院、外科手術及急症室服務預計要到二零二八年才會<span class=\"bwz\">開始運作</span>，意味著醫院未來兩年仍須逐步擴展職能，才能真正紓緩鄰近醫院的壓力。</p><p>儘管醫院啟用備受期待，部分病人仍對其位於九龍灣的<span class=\"bwz\">偏遠位置</span>表示憂慮。一對從旺角出發的長者夫婦形容，單程需乘搭四十五分鐘<span class=\"bwz\">迂迴曲折</span>的小巴，令全程歷時近兩小時，直言「真的很不方便」，並呼籲政府開辦直達巴士或小巴路線，減少轉車次數。他們的怨言揭示了<span class=\"bwz\">醫療規劃人員</span>面對的更大難題：建於填海或邊陲地段的新醫院，可能難以真正服務最需要它們的社區，包括長者。</p>",
+      "headline": "Bid to Turn Subsidised Flats into Subdivided Units Sparks Abuse Fears",
+      "category": "urban",
+      "summary_html": "<p>Hong Kong's drive to stamp out <span class=\"bw\">substandard housing<span class=\"tip\"><span class=\"tip-en\">living accommodation that fails to meet basic safety, size or hygiene standards</span><span class=\"tip-zh\">不合標準的住房</span></span></span> hit an unexpected snag this week when the Housing Bureau revealed that owners of fourteen subsidised sale flats, originally allocated under schemes meant to help low-income families onto the property ladder, had applied to convert their units into legally registered subdivided homes. The disclosure, made at a Legislative Council housing panel, has raised concerns that a policy designed to <span class=\"bw\">weed out<span class=\"tip\"><span class=\"tip-en\">to identify and remove something unwanted from a larger group</span><span class=\"tip-zh\">清除</span></span></span> dangerous \"shoebox\" rentals may inadvertently be legitimising arrangements that were never meant to generate rental income in the first place.</p><p>Lawmaker Mark Chong Ho-fung argued that flats sold under the Home Ownership Scheme amount to a form of <span class=\"bw\">social welfare provision<span class=\"tip\"><span class=\"tip-en\">a benefit or form of support provided by the government to help people in need</span><span class=\"tip-zh\">社會福利安排</span></span></span> and should never be treated as an <span class=\"bw\">income-generating asset<span class=\"tip\"><span class=\"tip-en\">property or possession kept mainly for the money it can earn</span><span class=\"tip-zh\">可產生收入的資產</span></span></span>, let alone one subdivided and let to tenants. Housing Secretary Winnie Ho acknowledged the tension, confirming that leasing a subsidised flat before the <span class=\"bw\">land premium<span class=\"tip\"><span class=\"tip-en\">the extra sum an owner must pay the government to remove resale restrictions on a subsidised flat</span><span class=\"tip-zh\">地價</span></span></span> has been paid remains unlawful regardless of whether the unit has since been subdivided. Officials are nonetheless <span class=\"bw\">treading a fine line<span class=\"tip\"><span class=\"tip-en\">trying carefully to balance two conflicting concerns or interests</span><span class=\"tip-zh\">走在微妙的分界線上</span></span></span>: refusing the applications outright could leave existing subdivided tenants, many of whom are themselves low-income, suddenly without a home.</p><p>Housing advocates warn the episode exposes a <span class=\"bw\">regulatory blind spot<span class=\"tip\"><span class=\"tip-en\">a gap in a system of rules that nobody anticipated or planned for</span><span class=\"tip-zh\">監管盲點</span></span></span> that the new subdivided-flat regime failed to anticipate, and that allowing even a handful of exemptions could set an <span class=\"bw\">unwelcome precedent<span class=\"tip\"><span class=\"tip-en\">an earlier decision that may be used, unhelpfully, to justify similar actions in future</span><span class=\"tip-zh\">不良先例</span></span></span> for other owners hoping to skirt the premium requirement. Others counter that punishing tenants for their landlords' <span class=\"bw\">non-compliance<span class=\"tip\"><span class=\"tip-en\">failure to follow a rule, law or regulation</span><span class=\"tip-zh\">違規</span></span></span> would be unduly harsh given the city's acute shortage of affordable rentals. With the grace period still under review, the case has become an uncomfortable test of whether Hong Kong's housing policy can protect both the integrity of public subsidies and the welfare of its most vulnerable renters.</p>",
+      "summary_zh_html": "<p>香港致力打擊<span class=\"bwz\">不合標準的住房</span>的行動，本周遇上意料之外的波折：房屋局披露，十四個原本根據資助計劃批予低收入家庭、助其踏上置業階梯的資助出售單位業主，申請將其單位登記為合法的分間單位。這項在立法會房屋事務委員會會議上披露的消息，令人擔心一項旨在<span class=\"bwz\">清除</span>危險「㓥房」租賃的政策，可能會意外地令一些本不應用作出租賺取收入的安排變得合法化。</p><p>議員莊豪峰認為，在資助出售房屋計劃下售出的單位屬於一種<span class=\"bwz\">社會福利安排</span>，絕不應被視為<span class=\"bwz\">可產生收入的資產</span>，更不應被分間出租。房屋及規劃地政司何永賢承認當中存在張力，並確認在未繳付<span class=\"bwz\">地價</span>前出租資助單位仍屬違法，不論該單位事後是否已被分間。然而，官員正<span class=\"bwz\">走在微妙的分界線上</span>：若全面拒絕有關申請，可能令現有的分間單位租戶（當中許多本身亦是低收入人士）突然無家可歸。</p><p>房屋權益倡議人士警告，此事暴露出新分間單位制度未能預見的<span class=\"bwz\">監管盲點</span>，而即使只容許極少數豁免，亦可能為其他試圖逃避繳付地價的業主開創<span class=\"bwz\">不良先例</span>。另有意見認為，考慮到本港可負擔租盤嚴重短缺，若因業主<span class=\"bwz\">違規</span>而懲罰租戶，未免過於嚴苛。隨着寬限期的安排仍在檢討當中，此案已成為一次令人尷尬的考驗，考驗香港的房屋政策能否同時保障公共資助的完整性，以及照顧最脆弱租戶的福祉。</p>",
       "cover_text": {
-        "zh_kicker": "啟德新院",
+        "zh_kicker": "資助屋風波",
         "zh_title": [
-          "全港最大",
-          "醫院啟用"
+          "14戶申請",
+          "劃分出租"
         ],
-        "zh_hl": "最大",
-        "zh_sub": "長者轉車近兩小時",
-        "en": "Hong Kong's largest hospital opens, but transport access worries remain"
+        "zh_hl": "14",
+        "zh_sub": "房屋局：出租前須先補地價",
+        "en": "Owners of subsidised flats seek to legalise subdivided rentals"
       },
       "vocab": [
         {
-          "phrase": "phased service rollout",
-          "zh": "分階段推行服務",
-          "sample": "The clinic adopted a phased service rollout so that staff could adjust to the new booking system gradually."
+          "phrase": "partitioned unit",
+          "zh": "分隔單位",
+          "sample": "Inspectors found the partitioned unit far smaller than the registered floor plan suggested."
         },
         {
-          "phrase": "ambulatory care",
-          "zh": "門診護理",
-          "sample": "Ambulatory care allows patients to receive treatment without staying in hospital overnight."
+          "phrase": "Home Ownership Scheme",
+          "zh": "居屋計劃",
+          "sample": "Her family waited nearly a decade before securing a flat under the Home Ownership Scheme."
         },
         {
-          "phrase": "specialist out-patient clinic",
-          "zh": "專科門診",
-          "sample": "She was referred to a specialist out-patient clinic for a follow-up scan."
+          "phrase": "compliance deadline",
+          "zh": "合規限期",
+          "sample": "Landlords who miss the compliance deadline risk having their subdivided units deregistered."
         },
         {
-          "phrase": "catchment population",
-          "zh": "服務人口",
-          "sample": "The new cluster was designed to serve a catchment population of over a million residents."
+          "phrase": "regulatory regime",
+          "zh": "監管制度",
+          "sample": "Under the new regulatory regime, every subdivided unit must be registered with the authorities."
         },
         {
-          "phrase": "total bed capacity",
-          "zh": "總病床容量",
-          "sample": "Expanding total bed capacity will not solve overcrowding unless staffing also increases."
+          "phrase": "affordable rental",
+          "zh": "可負擔租盤",
+          "sample": "Campaigners say the city urgently needs more affordable rental options for low-income tenants."
         },
         {
-          "phrase": "healthcare infrastructure",
-          "zh": "醫療基建",
-          "sample": "Investing in healthcare infrastructure is only useful if it reaches the people who need it most."
+          "phrase": "housing panel",
+          "zh": "房屋事務委員會",
+          "sample": "Lawmakers raised the issue at a housing panel meeting attended by senior officials."
         },
         {
-          "phrase": "transport connectivity",
-          "zh": "交通連繫性",
-          "sample": "Poor transport connectivity can undo the benefits of even the best-equipped hospital."
+          "phrase": "property ladder",
+          "zh": "置業階梯",
+          "sample": "The scheme was designed to help young families climb onto the property ladder."
         },
         {
-          "phrase": "elderly mobility",
-          "zh": "長者行動能力",
-          "sample": "Planners often underestimate how elderly mobility affects access to new facilities."
+          "phrase": "displacement risk",
+          "zh": "遷離風險",
+          "sample": "Social workers warned that abrupt enforcement could create a displacement risk for existing tenants."
         },
         {
-          "phrase": "reclaimed land",
-          "zh": "填海地",
-          "sample": "Several public facilities in Hong Kong have been built on reclaimed land near the harbour."
+          "phrase": "public subsidy",
+          "zh": "公共資助",
+          "sample": "Officials stressed that public subsidy should never be converted into private rental profit."
         },
         {
-          "phrase": "patient volume",
-          "zh": "病人流量",
-          "sample": "Patient volume at the new block exceeded projections within the first week."
+          "phrase": "resale restriction",
+          "zh": "轉售限制",
+          "sample": "The flat remains subject to a resale restriction until the land premium has been settled."
         },
         {
-          "phrase": "tertiary care",
-          "zh": "第三層醫療服務",
-          "sample": "Tertiary care services such as surgery will not begin until the hospital's second phase."
+          "phrase": "low-income household",
+          "zh": "低收入家庭",
+          "sample": "The scheme was never intended to generate rental profit for low-income households."
         },
         {
-          "phrase": "last-mile accessibility",
-          "zh": "最後一里的可達性",
-          "sample": "Last-mile accessibility is often the missing piece when new hospitals are built on the outskirts."
+          "phrase": "enforcement action",
+          "zh": "執法行動",
+          "sample": "Officials have so far held off on enforcement action while the policy gap is reviewed."
         }
       ],
       "phrases": [
         {
-          "en": "ease the strain on",
-          "zh": "緩解……的壓力",
-          "sample": "The new hospital is expected to ease the strain on overcrowded emergency wards nearby."
+          "en": "exposes a regulatory blind spot",
+          "zh": "暴露了監管上的盲點",
+          "sample": "The case exposes a regulatory blind spot that lawmakers had not foreseen."
         },
         {
-          "en": "fall short of residents' expectations",
-          "zh": "未能完全符合居民期望",
-          "sample": "Without better bus links, the project may fall short of residents' expectations."
+          "en": "sets an unwelcome precedent",
+          "zh": "開創不良先例",
+          "sample": "Granting even one exemption could set an unwelcome precedent for other landlords."
         },
         {
-          "en": "bridge the gap between policy and practice",
-          "zh": "縮小政策與實踐之間的差距",
-          "sample": "Direct shuttle services could help bridge the gap between policy and practice in healthcare access."
+          "en": "walks a fine line between",
+          "zh": "在兩者之間走鋼線",
+          "sample": "Officials are walking a fine line between enforcing the rules and protecting tenants."
         },
         {
-          "en": "take priority over",
-          "zh": "優先於",
-          "sample": "Choosing a cheaper site should not take priority over accessibility for elderly patients."
+          "en": "risks undermining public trust in",
+          "zh": "可能損害公眾對…的信任",
+          "sample": "Lax enforcement risks undermining public trust in the subsidised housing system."
         },
         {
-          "en": "underscore the need for",
-          "zh": "突顯……的必要性",
-          "sample": "The couple's two-hour journey underscores the need for dedicated feeder routes to new hospitals."
+          "en": "a policy originally designed to",
+          "zh": "一項原意是為了…而設的政策",
+          "sample": "A policy originally designed to help the needy should not end up rewarding landlords."
         },
         {
-          "en": "leave much to be desired",
-          "zh": "仍有不少改善空間",
-          "sample": "Transport planning around the new facility leaves much to be desired."
+          "en": "leaves vulnerable tenants exposed",
+          "zh": "令脆弱的租戶陷於不利境況",
+          "sample": "Sudden enforcement leaves vulnerable tenants exposed to the risk of eviction."
         },
         {
-          "en": "a stopgap measure",
-          "zh": "權宜之計",
-          "sample": "Extra minibus trips are only a stopgap measure until a proper bus route is introduced."
+          "en": "raises uncomfortable questions about",
+          "zh": "引來關於…的尷尬問題",
+          "sample": "The episode raises uncomfortable questions about how the scheme is being policed."
         },
         {
-          "en": "further down the pipeline",
-          "zh": "更後期的計劃",
-          "sample": "In-patient and surgical services remain further down the pipeline, with completion not expected until 2028."
+          "en": "ought not to be treated as",
+          "zh": "不應被視為",
+          "sample": "A subsidised flat ought not to be treated as a private investment asset."
         },
         {
-          "en": "disproportionately affect",
-          "zh": "對……造成不成比例的影響",
-          "sample": "Remote hospital locations disproportionately affect elderly residents who cannot drive."
+          "en": "the intention of the scheme was never to",
+          "zh": "計劃的原意從來不是為了",
+          "sample": "The intention of the scheme was never to let owners profit from subletting."
         },
         {
-          "en": "warrant closer scrutiny",
-          "zh": "值得更細緻的檢視",
-          "sample": "The choice of site for major public facilities should warrant closer scrutiny before construction begins."
+          "en": "could inadvertently legitimise",
+          "zh": "可能無意中令…合法化",
+          "sample": "The grace period could inadvertently legitimise arrangements the law was meant to stop."
         },
         {
-          "en": "a long-term fix rather than a quick patch",
-          "zh": "治本而非治標的解決方法",
-          "sample": "Officials must offer a long-term fix rather than a quick patch for the transport problem."
+          "en": "strikes at the heart of",
+          "zh": "直接觸及…的核心",
+          "sample": "The dispute strikes at the heart of what subsidised housing is supposed to achieve."
         },
         {
-          "en": "stretch resources thin",
-          "zh": "使資源被過度分散",
-          "sample": "Running two hospitals in parallel during the transition could stretch resources thin."
+          "en": "runs counter to the spirit of",
+          "zh": "與…的精神背道而馳",
+          "sample": "Subletting a subsidised flat runs counter to the spirit of the original scheme."
         },
         {
-          "en": "fail to keep pace with demand",
-          "zh": "未能跟上需求的步伐",
-          "sample": "Public transport links often fail to keep pace with demand once a new facility opens."
+          "en": "calls for a fundamental rethink of",
+          "zh": "促使人們從根本上重新思考",
+          "sample": "The controversy calls for a fundamental rethink of how exemptions are granted."
         }
       ]
     },
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/344640/September-heat-ranks-among-highest-on-record-as-Hong-Kong-turns-drier",
-      "published_date": "5 October 2026",
-      "headline": "Hong Kong Just Had One of Its Hottest, Driest Septembers on Record",
-      "category": "env",
-      "summary_html": "<p>Hong Kong has just endured one of its hottest and driest Septembers on record, according to the Hong Kong Observatory’s latest <span class=\"bw\">monthly review<span class=\"tip\"><span class=\"tip-en\">an official report summarising weather conditions over the past month</span><span class=\"tip-zh\">月度回顧</span></span></span>. The mean maximum temperature reached 31.8 degrees Celsius and the mean temperature stood at 28.8 degrees, both 0.9 to 1.3 degrees above normal and among the ten highest readings for September since records began. The mean minimum temperature of 27.1 degrees was the fifth-highest on record. Rainfall, meanwhile, totalled a mere 94.3 millimetres, <span class=\"bw\">a fraction of<span class=\"tip\"><span class=\"tip-en\">a small part of; much less than</span><span class=\"tip-zh\">僅為……的一小部分</span></span></span> the usual 321.4 millimetres.</p><p>Forecasters attributed the dry spell to an <span class=\"bw\">anticyclone aloft<span class=\"tip\"><span class=\"tip-en\">a mass of high-pressure air sitting high in the atmosphere, which tends to suppress rain</span><span class=\"tip-zh\">高空氣壓脊</span></span></span>, which kept skies clear and conditions fine for six consecutive days towards the end of the month. The dry September followed an equally <span class=\"bw\">punishing<span class=\"tip\"><span class=\"tip-en\">extremely harsh or difficult to endure</span><span class=\"tip-zh\">難以忍受的，酷熱的</span></span></span> August, during which the Observatory’s headquarters logged an all-time high of 36.9 degrees and Sheung Shui soared to 39.8 degrees, the hottest reading there since automatic weather stations began operating.</p><p>Observatory director Chan Pak-wai noted that 2026’s annual mean temperature is expected to be above normal, placing the year among the ten hottest on record for the city. Such <span class=\"bw\">back-to-back extremes<span class=\"tip\"><span class=\"tip-en\">unusual or severe conditions happening one after another without a break</span><span class=\"tip-zh\">連續出現的極端天氣</span></span></span> carry consequences well beyond discomfort: prolonged dryness can <span class=\"bw\">deplete<span class=\"tip\"><span class=\"tip-en\">to reduce the amount of something, often a resource, over time</span><span class=\"tip-zh\">消耗，耗盡</span></span></span> reservoir levels and stress crops, while sustained heat raises the risk of heatstroke among outdoor workers and the elderly. Environmentalists argue that such figures should <span class=\"bw\">lend urgency to<span class=\"tip\"><span class=\"tip-en\">to make something feel more pressing or in need of immediate action</span><span class=\"tip-zh\">為……添上迫切性</span></span></span> the city’s climate adaptation plans, rather than being treated as an isolated, one-off event.</p>",
-      "summary_zh_html": "<p>根據香港天文台最新發佈的<span class=\"bwz\">月度回顧</span>，香港剛經歷一個有紀錄以來最熱、最乾旱的九月。平均最高溫度達三十一點八度，平均溫度為二十八點八度，均比正常高零點九至一點三度，並列有紀錄以來九月最高溫度的十大之列。平均最低溫度二十七點一度，亦是有紀錄以來第五高。至於雨量，全月僅錄得九十四點三毫米，<span class=\"bwz\">僅為常年雨量</span>三百二十一點四毫米的一小部分。</p><p>預報員將乾旱天氣歸咎於<span class=\"bwz\">高空氣壓脊</span>，該系統令天空保持晴朗，月底連續六日天氣晴朗乾燥。九月的乾旱緊接一個同樣<span class=\"bwz\">難以忍受</span>的八月：當月天文台總部錄得三十六點九度的歷年最高氣溫，上水更飆升至三十九點八度，是該站自動氣象站運作以來最高的一次。</p><p>天文台台長陳栢偉指出，預測二零二六年全年平均氣溫將高於常年，令今年成為有紀錄以來最熱的十年之一。這種<span class=\"bwz\">連續出現的極端天氣</span>帶來的影響遠超一時的不適：持久的乾旱可能<span class=\"bwz\">消耗</span>水庫存水量並影響農作物生長，持續高溫則推高戶外工作者與長者中暑的風險。有環境學家認為，這些數字應<span class=\"bwz\">為……添上迫切性</span>，推動本地氣候適應計劃，而不應被當作一次孤立的異常天氣事件。</p>",
+      "source_name": "HKFP",
+      "source_url": "https://hongkongfp.com/2026/10/07/hong-kong-police-open-child-abuse-probe-after-video-of-10-year-old-carrying-beer-goes-viral/",
+      "published_date": "7 October 2026",
+      "headline": "Viral Video of Child Carrying Beer Triggers Child Abuse Investigation",
+      "category": "social",
+      "summary_html": "<p>A short video clip showing a ten-year-old girl in Hong Kong carrying a crate of beer has triggered a <span class=\"bw\">child abuse investigation<span class=\"tip\"><span class=\"tip-en\">an official inquiry into whether a child has been mistreated or put at risk</span><span class=\"tip-zh\">虐待兒童調查</span></span></span>, after the footage spread rapidly across local social media platforms and drew an avalanche of public concern. The clip, whose origin remains unclear, appeared to show the girl struggling under the weight of the bottles in circumstances that many viewers found deeply troubling, prompting calls for the authorities to establish whether the child had been placed in a situation of <span class=\"bw\">parental neglect<span class=\"tip\"><span class=\"tip-en\">a failure by a parent or guardian to provide adequate care or supervision for a child</span><span class=\"tip-zh\">被疏忽照顧</span></span></span>.</p><p>Police confirmed that the case had been handed to a specialised child abuse unit, while social workers and teachers at the girl's school were separately drawn into efforts to assess her welfare, illustrating the kind of <span class=\"bw\">multi-agency response<span class=\"tip\"><span class=\"tip-en\">coordinated action taken by several different organisations working together</span><span class=\"tip-zh\">跨部門協作應對</span></span></span> now expected whenever a child's safety is called into question online. Some commentators, however, criticised the <span class=\"bw\">bystander mentality<span class=\"tip\"><span class=\"tip-en\">the tendency to watch and record a troubling situation rather than intervene to help</span><span class=\"tip-zh\">旁觀者心態</span></span></span> evident in the episode, noting that whoever filmed the clip chose to record and circulate the footage rather than step in directly. Others cautioned against rushing to judgement, pointing out that a single clip, stripped of context, may not accurately capture the family's <span class=\"bw\">underlying circumstances<span class=\"tip\"><span class=\"tip-en\">the deeper situation or conditions behind an event, not immediately visible</span><span class=\"tip-zh\">實際處境</span></span></span>.</p><p>The episode has reopened debate over the <span class=\"bw\">ethical cost<span class=\"tip\"><span class=\"tip-en\">the moral harm or wrongdoing involved in an action, even if it brings some benefit</span><span class=\"tip-zh\">道德代價</span></span></span> of filming vulnerable children for online attention, with child welfare groups arguing that virality should never take precedence over a minor's <span class=\"bw\">right to privacy<span class=\"tip\"><span class=\"tip-en\">a person's entitlement to keep their personal life free from unwanted public exposure</span><span class=\"tip-zh\">私隱權</span></span></span>. It has also renewed scrutiny of how swiftly disturbing footage can achieve <span class=\"bw\">mass circulation<span class=\"tip\"><span class=\"tip-en\">rapid, widespread sharing of content to a very large audience</span><span class=\"tip-zh\">大規模傳播</span></span></span> before any official verification takes place. Whatever the investigation concludes, the case has already become a cautionary tale about the unintended consequences of turning a child's private struggle into public spectacle.</p>",
+      "summary_zh_html": "<p>一段顯示一名十歲女童在香港搬抬一箱啤酒的短片，引發一項<span class=\"bwz\">虐待兒童調查</span>，事因片段在本地社交媒體平台迅速流傳，並引起公眾強烈關注。片段來源仍不清楚，畫面似乎顯示該女童在搬抬沉重酒瓶時顯得吃力，情況令不少觀看者深感不安，促使有人呼籲當局查明該名兒童是否處於<span class=\"bwz\">被疏忽照顧</span>的狀況。</p><p>警方確認案件已轉交專責處理虐待兒童個案的部門，而該女童所屬學校的社工及老師亦分別介入，評估她的福祉狀況，反映出每當兒童在網上的安全受到質疑時，現時社會普遍期望出現的<span class=\"bwz\">跨部門協作應對</span>。然而，部分評論人士批評事件中明顯存在的<span class=\"bwz\">旁觀者心態</span>，指出拍攝片段的人選擇錄影及轉發，而非直接介入協助。另有意見則提醒不應倉促下判斷，指出一段脫離背景的片段，未必能準確反映該家庭的<span class=\"bwz\">實際處境</span>。</p><p>事件重新引發公眾討論：為網上關注而拍攝脆弱兒童，須付出怎樣的<span class=\"bwz\">道德代價</span>，兒童福利團體認為，內容是否「爆紅」絕不應凌駕於未成年人的<span class=\"bwz\">私隱權</span>之上。事件亦令人再次關注令人不安的片段能夠在未經官方核實前，已迅速達到<span class=\"bwz\">大規模傳播</span>的程度。無論調查結果如何，此案已成為一則警世故事，提醒大眾將兒童的私人困境變成公眾奇觀，可能帶來意想不到的後果。</p>",
       "cover_text": {
-        "zh_kicker": "極端天氣",
+        "zh_kicker": "女童啤酒",
         "zh_title": [
-          "九月破紀錄",
-          "雨量僅3成"
+          "搬啤酒片",
+          "瘋傳惹查"
         ],
-        "zh_hl": "3成",
-        "zh_sub": "氣溫創十大高位",
-        "en": "Hong Kong records one of its driest, hottest Septembers on record"
+        "zh_hl": "瘋傳",
+        "zh_sub": "警方介入兒童福利調查",
+        "en": "Viral clip of girl carrying beer sparks abuse probe"
       },
       "vocab": [
         {
-          "phrase": "mean maximum temperature",
-          "zh": "平均最高溫度",
-          "sample": "The mean maximum temperature this September was well above the long-term average."
+          "phrase": "spread like wildfire",
+          "zh": "迅速擴散",
+          "sample": "The clip spread like wildfire across local group chats within a single afternoon."
         },
         {
-          "phrase": "anticyclone",
-          "zh": "高空氣壓脊",
-          "sample": "An anticyclone aloft kept the region dry for almost a week."
+          "phrase": "child welfare",
+          "zh": "兒童福利",
+          "sample": "Social workers were called in to assess the child's welfare after the video surfaced."
         },
         {
-          "phrase": "rainfall deficit",
-          "zh": "雨量不足",
-          "sample": "The rainfall deficit this autumn has raised concerns about reservoir supply."
+          "phrase": "bystander effect",
+          "zh": "旁觀者效應",
+          "sample": "Psychologists say the bystander effect may explain why no one intervened at the scene."
         },
         {
-          "phrase": "extreme-heat exposure",
-          "zh": "極端高溫曝露",
-          "sample": "Hospitals reported a rise in cases linked to extreme-heat exposure during the prolonged hot spell."
+          "phrase": "online backlash",
+          "zh": "網上強烈反對聲音",
+          "sample": "The family faced an online backlash within hours of the footage being shared."
         },
         {
-          "phrase": "reservoir levels",
-          "zh": "水庫存水量",
-          "sample": "Reservoir levels dropped noticeably after weeks of below-average rainfall."
+          "phrase": "duty of care",
+          "zh": "照顧責任",
+          "sample": "Adults nearby are generally expected to exercise a duty of care towards unattended children."
         },
         {
-          "phrase": "climate adaptation",
-          "zh": "氣候適應",
-          "sample": "Experts urged the government to speed up climate adaptation measures for extreme heat."
+          "phrase": "privacy violation",
+          "zh": "侵犯私隱",
+          "sample": "Critics called the unauthorised filming a clear privacy violation against a minor."
         },
         {
-          "phrase": "unprecedented temperature reading",
-          "zh": "前所未見的氣溫讀數",
-          "sample": "Several districts logged unprecedented temperature readings within the same week."
+          "phrase": "public scrutiny",
+          "zh": "公眾審視",
+          "sample": "The family has been placed under intense public scrutiny since the clip emerged."
         },
         {
-          "phrase": "prolonged dry spell",
-          "zh": "持久乾旱期",
-          "sample": "Farmers struggled to irrigate crops during the prolonged dry spell."
+          "phrase": "unverified footage",
+          "zh": "未經核實的片段",
+          "sample": "Commentators warned against drawing conclusions from unverified footage circulating online."
         },
         {
-          "phrase": "thermal comfort",
-          "zh": "熱舒適度",
-          "sample": "Shaded walkways and water features can noticeably improve thermal comfort during a heatwave."
+          "phrase": "moral panic",
+          "zh": "道德恐慌",
+          "sample": "Some sociologists describe the intense reaction online as a form of moral panic."
         },
         {
-          "phrase": "weather extremes",
-          "zh": "極端天氣",
-          "sample": "Scientists warn that weather extremes are becoming more frequent as the climate warms."
+          "phrase": "viral content culture",
+          "zh": "病毒式內容文化",
+          "sample": "Viral content culture often rewards shock value over context or accuracy."
         },
         {
-          "phrase": "long-term warming trend",
-          "zh": "長期暖化趨勢",
-          "sample": "This September's figures fit a long-term warming trend seen over the past decade."
+          "phrase": "safeguarding measures",
+          "zh": "保障措施",
+          "sample": "Schools are reviewing their safeguarding measures in light of the incident."
         },
         {
-          "phrase": "water conservation measures",
-          "zh": "節約用水措施",
-          "sample": "Officials may need to introduce water conservation measures if the dry weather continues."
+          "phrase": "child protection unit",
+          "zh": "保護兒童組",
+          "sample": "The case was handed over to the force's child protection unit for further investigation."
         }
       ],
       "phrases": [
         {
-          "en": "break with past patterns",
-          "zh": "脫離過往模式",
-          "sample": "This year's weather seems to break with past patterns of a wetter, cooler autumn."
+          "en": "triggered a wave of public concern",
+          "zh": "引發一連串公眾關注",
+          "sample": "The footage triggered a wave of public concern within hours of being posted."
         },
         {
-          "en": "compound an already difficult situation",
-          "zh": "使原已困難的局面更棘手",
-          "sample": "A dry September would compound an already difficult situation for local reservoirs."
+          "en": "raises troubling questions about",
+          "zh": "引來令人不安的疑問",
+          "sample": "The incident raises troubling questions about who is responsible for the child's safety."
         },
         {
-          "en": "be no coincidence",
-          "zh": "絕非巧合",
-          "sample": "Back-to-back record months are no coincidence, scientists say, but part of a wider trend."
+          "en": "before any official verification takes place",
+          "zh": "在任何官方核實之前",
+          "sample": "Rumours spread widely before any official verification takes place."
         },
         {
-          "en": "chip away at",
-          "zh": "逐漸侵蝕",
-          "sample": "Prolonged heat can chip away at the health of outdoor workers and elderly residents alike."
+          "en": "ought to take precedence over",
+          "zh": "應該凌駕於…之上",
+          "sample": "A child's wellbeing ought to take precedence over the pursuit of online attention."
         },
         {
-          "en": "cannot be dismissed as a one-off",
-          "zh": "不能被視作偶發事件",
-          "sample": "A fifth consecutive hot month cannot be dismissed as a one-off."
+          "en": "a cautionary tale about",
+          "zh": "一則關於…的警世故事",
+          "sample": "The episode has become a cautionary tale about filming vulnerable people without consent."
         },
         {
-          "en": "strain the city's resources",
-          "zh": "給本地資源帶來壓力",
-          "sample": "Extended dry spells strain the city's resources, from water supply to emergency services."
+          "en": "stripped of context",
+          "zh": "脫離背景",
+          "sample": "A clip stripped of context can easily mislead viewers about what really happened."
         },
         {
-          "en": "serve as an early warning sign",
-          "zh": "成為早期警訊",
-          "sample": "This September's figures should serve as an early warning sign rather than a passing curiosity."
+          "en": "reflects a wider pattern of",
+          "zh": "反映出更廣泛的…模式",
+          "sample": "The case reflects a wider pattern of bystanders filming rather than intervening."
         },
         {
-          "en": "outpace previous records",
-          "zh": "超越以往紀錄",
-          "sample": "Several weather stations outpaced previous records set only a year earlier."
+          "en": "rushing to judgement",
+          "zh": "倉促下判斷",
+          "sample": "Commentators warned against rushing to judgement before the facts were established."
         },
         {
-          "en": "rule out treating it as a fluke",
-          "zh": "排除純屬僥倖的可能",
-          "sample": "A fifth consecutive hot month should rule out treating it as a fluke."
+          "en": "the unintended consequences of",
+          "zh": "…的意想不到後果",
+          "sample": "The case illustrates the unintended consequences of sharing a child's image online."
         },
         {
-          "en": "ripple through the local economy",
-          "zh": "波及本地經濟",
-          "sample": "A prolonged dry spell can ripple through the local economy, from farming to tourism."
+          "en": "reopened debate over",
+          "zh": "重新引發關於…的辯論",
+          "sample": "The video has reopened debate over how platforms should handle content involving minors."
         },
         {
-          "en": "demand more than short-term fixes",
-          "zh": "需要超越短期權宜的對策",
-          "sample": "Climate extremes of this scale demand more than short-term fixes such as temporary water rationing."
+          "en": "institutions are left to react after the fact",
+          "zh": "機構往往只能事後應對",
+          "sample": "Without early warning systems, institutions are left to react after the fact."
         },
         {
-          "en": "defy seasonal expectations",
-          "zh": "違反季節性預期",
-          "sample": "The bone-dry September defied seasonal expectations of autumn showers."
+          "en": "a single clip cannot capture",
+          "zh": "單一片段無法呈現",
+          "sample": "A single clip cannot capture the full circumstances behind a family's struggles."
         },
         {
-          "en": "add weight to the argument that",
-          "zh": "為……的論點增添依據",
-          "sample": "The latest figures add weight to the argument that adaptation plans need updating."
+          "en": "turns private struggle into public spectacle",
+          "zh": "把私人困境變成公眾奇觀",
+          "sample": "Sharing the footage turns a private struggle into public spectacle for strangers to judge."
+        },
+        {
+          "en": "demands a more measured response",
+          "zh": "需要更審慎的應對",
+          "sample": "A case like this demands a more measured response than instant online outrage."
         }
       ]
     },
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/world/article/344549/Asian-Games-close-after-fortnight-of-turmoil-and-teenage-triumph",
-      "published_date": "4 October 2026",
-      "headline": "Hong Kong Claims Record Medal Haul as Asian Games Close in Nagoya",
-      "category": "sports",
-      "summary_html": "<p>The 20th Asian Games in Aichi-Nagoya, Japan, closed on Sunday after a fortnight that organisers described as a mix of <span class=\"bw\">turmoil<span class=\"tip\"><span class=\"tip-en\">a state of confusion, disruption or disorder</span><span class=\"tip-zh\">混亂，動盪</span></span></span> and teenage triumph. Hong Kong sent a <span class=\"bw\">delegation<span class=\"tip\"><span class=\"tip-en\">a group of people chosen to represent a city, country or organisation</span><span class=\"tip-zh\">代表團</span></span></span> of about 580 athletes to compete across 38 sports, and came away with a <span class=\"bw\">record medal haul<span class=\"tip\"><span class=\"tip-en\">the largest total number of medals ever won, collected together</span><span class=\"tip-zh\">創紀錄的獎牌總數</span></span></span> of 46 medals — seven gold, 17 silver and 22 bronze.</p><p>The sailing squad was a standout, claiming ten medals in total, including four gold, for the team’s best-ever <span class=\"bw\">showing<span class=\"tip\"><span class=\"tip-en\">a performance or result, especially a good or notable one</span><span class=\"tip-zh\">表現</span></span></span> at an Asian Games. Beyond the medal table, officials pointed to a wave of personal bests and <span class=\"bw\">breakthrough performances<span class=\"tip\"><span class=\"tip-en\">results that mark a sudden and important improvement, often for the first time</span><span class=\"tip-zh\">突破性的表現</span></span></span> by younger athletes, several of whom <span class=\"bw\">eclipsed<span class=\"tip\"><span class=\"tip-en\">to do much better than a previous achievement, making it seem less impressive</span><span class=\"tip-zh\">超越，蓋過</span></span></span> local records once held by more senior competitors.</p><p>Secretary for Culture, Sports and Tourism Rosanna Law, who travelled to Nagoya to support the delegation, praised the athletes’ <span class=\"bw\">fighting spirit<span class=\"tip\"><span class=\"tip-en\">a strong determination to keep trying despite difficulty</span><span class=\"tip-zh\">鬥志</span></span></span> on her return. Athletes have since been arriving home in staggered batches; the karate and football contingents landed first, while Monday’s group included the men’s and women’s rugby sevens teams and the water polo squad. The achievement is likely to <span class=\"bw\">reignite debate<span class=\"tip\"><span class=\"tip-en\">to cause an argument or discussion to start again after a period of calm</span><span class=\"tip-zh\">重新引發論爭</span></span></span> over how far record medal counts should shape future funding for grassroots sports training in the city.</p>",
-      "summary_zh_html": "<p>第二十屆亞運於星期日在日本愛知・名古屋閉幕，主辦方形容這兩週充滿<span class=\"bwz\">動盪</span>與年輕選手創下佳績的瞬間。香港派出約五百八十人的<span class=\"bwz\">代表團</span>，在三十八個項目中出賽，最終取得<span class=\"bwz\">創紀錄的獎牌總數</span>，共四十六面獎牌，包括七金、十七銀及二十二銅。</p><p>帆船隊表現尤為亮眼，共奪十面獎牌，包括四面金牌，是該隊歷來在亞運的最佳<span class=\"bwz\">表現</span>。除獎牌榜以外，官方亦指出，許多年輕選手創下個人最佳成績，甚至做出<span class=\"bwz\">突破性的表現</span>，有人更<span class=\"bwz\">超越</span>資深選手所保持的本地紀錄。</p><p>文化體育及旅遊局局長羅淑佩曾親赴名古屋現場支持代表團，回港後讚揚運動員表現出的<span class=\"bwz\">鬥志</span>。運動員此後分批陸續回港，空手道及足球代表先行抵港，週一則輪到男女欖球隊及水球隊回港。這次成績預期將<span class=\"bwz\">重新引發論爭</span>，討論創紀錄的獎牌數量究竟應如何影響未來全港基層體育訓練的資源分配。</p>",
+      "source_name": "HK01",
+      "source_url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60347438/%E8%A8%B1%E5%BF%97%E5%AE%89%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+      "published_date": "8 October 2026",
+      "headline": "Andy Hui Returns to the Coliseum After 11 Years as 'On Stage' Opens Tonight",
+      "category": "pop",
+      "summary_html": "<p>Veteran Cantopop singer Andy Hui takes to the stage at the Hong Kong Coliseum tonight for the first night of his three-show \"On Stage\" concert series, marking his first <span class=\"bw\">headline run<span class=\"tip\"><span class=\"tip-en\">a series of shows in which a performer is the main, top-billed act</span><span class=\"tip-zh\">掛頭牌演出</span></span></span> at the venue in eleven years and coinciding with the <span class=\"bw\">fortieth anniversary<span class=\"tip\"><span class=\"tip-en\">the fortieth year since an event or career began</span><span class=\"tip-zh\">四十周年</span></span></span> of his entry into the entertainment industry. For a performer whose career has weathered very public ups and downs, the booking represents something of a <span class=\"bw\">career milestone<span class=\"tip\"><span class=\"tip-en\">an important achievement or stage marking progress in someone's professional life</span><span class=\"tip-zh\">事業里程碑</span></span></span>, returning him to a 12,000-seat arena long regarded by Cantopop artists as the ultimate <span class=\"bw\">proving ground<span class=\"tip\"><span class=\"tip-en\">a setting in which someone's true ability is tested and demonstrated</span><span class=\"tip-zh\">試煉場</span></span></span>.</p><p>Public demand for tickets proved <span class=\"bw\">overwhelming<span class=\"tip\"><span class=\"tip-en\">so great in scale that it is difficult to cope with or resist</span><span class=\"tip-zh\">異常熾熱</span></span></span>: roughly 6,700 seats across the three nights sold out within about ninety minutes of general release, after an earlier priority sale had cleared almost as quickly. Organisers say the show will blend Hui's best-known ballads with lesser-performed tracks chosen to reflect the full <span class=\"bw\">arc of his career<span class=\"tip\"><span class=\"tip-en\">the overall shape or path of someone's professional life, from beginning to the present</span><span class=\"tip-zh\">完整的音樂歷程</span></span></span>, rather than simply replaying his greatest hits. For longtime fans, the run offers a rare chance to see a performer closely associated with the <span class=\"bw\">golden age of Cantopop<span class=\"tip\"><span class=\"tip-en\">the period widely seen as the most successful and influential era of Cantonese pop music</span><span class=\"tip-zh\">粵語流行曲黃金年代</span></span></span> on home turf, rather than at smaller venues abroad.</p><p>Industry observers note that Hui's sold-out run fits a broader pattern in which veteran singers, rather than newer idols, continue to <span class=\"bw\">command the biggest stages<span class=\"tip\"><span class=\"tip-en\">to be the performers most able to fill the largest, most prestigious venues</span><span class=\"tip-zh\">稱霸最大舞台</span></span></span> in Hong Kong, reflecting both enduring <span class=\"bw\">nostalgia<span class=\"tip\"><span class=\"tip-en\">a sentimental longing for the past, especially a period one associates with happiness</span><span class=\"tip-zh\">懷舊情懷</span></span></span> among older audiences and younger fans' growing curiosity about the genre's history. Whether this signals a genuine Cantopop <span class=\"bw\">resurgence<span class=\"tip\"><span class=\"tip-en\">a renewed growth or popularity of something after a period of decline</span><span class=\"tip-zh\">復興</span></span></span> or simply the loyalty of a devoted fan base remains open to debate, but for three nights at least, the Coliseum belongs once again to a performer who has spent four decades building toward this return.</p>",
+      "summary_zh_html": "<p>資深粵語流行歌手許志安今晚在香港體育館展開為期三場的「ON STAGE」演唱會首場演出，標誌着他相隔十一年後首次在此重返<span class=\"bwz\">掛頭牌演出</span>，同時恰逢他入行<span class=\"bwz\">四十周年</span>。對於一位事業歷盡公眾起跌的藝人而言，這次演出可說是一個<span class=\"bwz\">事業里程碑</span>，讓他重返這個長久以來被粵語歌手視為終極<span class=\"bwz\">試煉場</span>的一萬二千座位場館。</p><p>門票需求<span class=\"bwz\">異常熾熱</span>：三場演出合共約六千七百個座位，在公開發售後約九十分鐘內全部售罄，而較早前的優先發售亦幾乎同樣迅速清空。主辦單位表示，演出將糅合許志安最為人熟悉的抒情金曲，以及數首較少演出的作品，藉以呈現他<span class=\"bwz\">完整的音樂歷程</span>，而非單純重播昔日的熱門金曲。對資深歌迷而言，這次體育館演出是難得機會，可在本地（而非海外較小型場館）欣賞這位與<span class=\"bwz\">粵語流行曲黃金年代</span>緊密相連的歌手演出。</p><p>業內人士指出，許志安這次全場爆滿的演出，反映出一個更廣泛的現象：在香港，繼續能夠<span class=\"bwz\">稱霸最大舞台</span>的往往是資深歌手，而非新晉偶像，這既反映出年長觀眾中持續存在的<span class=\"bwz\">懷舊情懷</span>，亦反映年輕歌迷對這個音樂類型歷史日漸增長的好奇心。這是否標誌着粵語流行曲真正的<span class=\"bwz\">復興</span>，還是純粹反映一班忠實歌迷的支持，仍有待商榷；但至少在這三個晚上，香港體育館再次屬於這位花了四十年時間、一步步走到今天這場回歸演出的歌手。</p>",
       "cover_text": {
-        "zh_kicker": "亞運凱旋",
+        "zh_kicker": "許志安",
         "zh_title": [
-          "香港代表隊",
-          "創46面獎牌"
+          "11年後",
+          "重返紅館"
         ],
-        "zh_hl": "46",
-        "zh_sub": "帆船隊創歷年最佳",
-        "en": "Hong Kong claims record medal haul at Nagoya Asian Games"
+        "zh_hl": "11年",
+        "zh_sub": "三場騷門票秒速售罄",
+        "en": "Andy Hui returns to the Coliseum after eleven years"
       },
       "vocab": [
         {
-          "phrase": "medal haul",
-          "zh": "獎牌收穫",
-          "sample": "The team's medal haul this year nearly doubled their previous best."
+          "phrase": "headline concert",
+          "zh": "掛頭牌演出",
+          "sample": "Her headline concert at the Coliseum sold out within a single afternoon."
         },
         {
-          "phrase": "personal best",
-          "zh": "個人最佳成績",
-          "sample": "Several swimmers set a personal best despite the intense competition."
+          "phrase": "ticket sellout",
+          "zh": "門票售罄",
+          "sample": "The ticket sellout came as little surprise given the singer's loyal following."
         },
         {
-          "phrase": "grassroots training",
-          "zh": "基層訓練",
-          "sample": "Officials credited the medal haul partly to years of grassroots training programmes."
+          "phrase": "priority sale",
+          "zh": "優先發售",
+          "sample": "Credit card holders could access the priority sale three days before the public went on sale."
         },
         {
-          "phrase": "national representation",
-          "zh": "代表選拔",
-          "sample": "Being chosen for national representation is often the highlight of an athlete's career."
+          "phrase": "greatest hits",
+          "zh": "經典金曲",
+          "sample": "The setlist leaned heavily on greatest hits familiar to fans from decades ago."
         },
         {
-          "phrase": "competitive field",
-          "zh": "參賽陣容",
-          "sample": "The sailing event featured a particularly strong competitive field this year."
+          "phrase": "career retrospective",
+          "zh": "事業回顧",
+          "sample": "The concert doubled as a career retrospective spanning four decades in the industry."
         },
         {
-          "phrase": "sporting pedigree",
-          "zh": "體育實力背景",
-          "sample": "Hong Kong's sailing team has built up an impressive sporting pedigree over the past decade."
+          "phrase": "veteran performer",
+          "zh": "資深藝人",
+          "sample": "As a veteran performer, he commanded the stage with practised ease."
         },
         {
-          "phrase": "podium placing",
-          "zh": "登上頒獎台",
-          "sample": "A podium placing at this level can transform a young athlete's career prospects."
+          "phrase": "box-office draw",
+          "zh": "票房吸引力",
+          "sample": "Few veteran singers remain as reliable a box-office draw at the Coliseum as he does."
         },
         {
-          "phrase": "talent pipeline",
-          "zh": "人才培訓系統",
-          "sample": "A strong talent pipeline helped several rookies qualify for the Games this year."
+          "phrase": "live audience",
+          "zh": "現場觀眾",
+          "sample": "The live audience sang along to every chorus throughout the night."
         },
         {
-          "phrase": "squad depth",
-          "zh": "隊伍深度",
-          "sample": "Squad depth allowed the team to cope when a star player was injured."
+          "phrase": "comeback show",
+          "zh": "復出演出",
+          "sample": "Critics praised the comeback show for striking a careful balance between nostalgia and freshness."
         },
         {
-          "phrase": "home-coming reception",
-          "zh": "歡迎回港儀式",
-          "sample": "A large crowd gathered at the airport for the athletes' home-coming reception."
+          "phrase": "music industry milestone",
+          "zh": "樂壇里程碑",
+          "sample": "Reaching forty years in the business is widely seen as a music industry milestone."
         },
         {
-          "phrase": "funding allocation",
-          "zh": "資源投放",
-          "sample": "Sports bodies are lobbying for a bigger funding allocation after this year's results."
+          "phrase": "stage presence",
+          "zh": "台風",
+          "sample": "Even after a decade away from the venue, his stage presence remained undiminished."
         },
         {
-          "phrase": "underdog performance",
-          "zh": "黑馬式的驚喜表現",
-          "sample": "The rugby sevens team delivered an underdog performance that surprised many fans."
+          "phrase": "nostalgic appeal",
+          "zh": "懷舊吸引力",
+          "sample": "Part of the show's nostalgic appeal lies in songs that defined an entire generation."
         }
       ],
       "phrases": [
         {
-          "en": "exceed all expectations",
-          "zh": "超出所有預期",
-          "sample": "The sailing team's ten medals exceeded all expectations going into the Games."
+          "en": "represents something of a career milestone",
+          "zh": "可說是一個事業里程碑",
+          "sample": "For a performer his age, the sold-out run represents something of a career milestone."
         },
         {
-          "en": "translate into long-term investment",
-          "zh": "轉化為長期投資",
-          "sample": "Whether a record medal count will translate into long-term investment remains to be seen."
+          "en": "fits a broader pattern in which",
+          "zh": "符合一個更廣泛的現象，即",
+          "sample": "The show fits a broader pattern in which veteran singers dominate the biggest venues."
         },
         {
-          "en": "come at a cost",
-          "zh": "付上一定代價",
-          "sample": "Such achievements often come at a cost in years of unseen, unfunded training."
+          "en": "command the biggest stages",
+          "zh": "稱霸最大舞台",
+          "sample": "It is striking that older singers still command the biggest stages in the city."
         },
         {
-          "en": "put the spotlight on",
-          "zh": "將焦點集中在",
-          "sample": "The medal haul has put the spotlight on sports that rarely receive public attention."
+          "en": "remains open to debate",
+          "zh": "仍有待商榷",
+          "sample": "Whether this marks a genuine revival remains open to debate among critics."
         },
         {
-          "en": "set a new benchmark",
-          "zh": "樹立新標準",
-          "sample": "This year's results set a new benchmark for future Hong Kong delegations."
+          "en": "offers a rare chance to",
+          "zh": "提供一個難得的機會去",
+          "sample": "The concert offers a rare chance to hear songs rarely performed live."
         },
         {
-          "en": "validate years of preparation",
-          "zh": "印證多年備戰的價值",
-          "sample": "The gold medal validated years of preparation that rarely make headlines."
+          "en": "closely associated with",
+          "zh": "與…緊密相連",
+          "sample": "The singer remains closely associated with an era many fans still long for."
         },
         {
-          "en": "cannot be attributed to luck alone",
-          "zh": "無法單純歸因於運氣",
-          "sample": "Such a consistent medal haul cannot be attributed to luck alone."
+          "en": "proved overwhelming",
+          "zh": "證實異常熾熱",
+          "sample": "Demand for the priority sale proved overwhelming within minutes."
         },
         {
-          "en": "raise the bar for future competitors",
-          "zh": "為未來選手設下更高門檻",
-          "sample": "Breaking local records raises the bar for future competitors in the same event."
+          "en": "building toward this return",
+          "zh": "一步步走到這次回歸",
+          "sample": "Fans say he has spent years building toward this long-awaited return."
         },
         {
-          "en": "reflect sustained investment rather than a single stroke of luck",
-          "zh": "反映持續投資而非偶然的幸運",
-          "sample": "Coaches argued the results reflect sustained investment rather than a single stroke of luck."
+          "en": "weathered very public ups and downs",
+          "zh": "經歷了十分公開的起跌",
+          "sample": "The singer has weathered very public ups and downs over his long career."
         },
         {
-          "en": "shift public attention towards",
-          "zh": "把公眾注意力轉向",
-          "sample": "The sailing team's success may shift public attention towards water sports funding."
+          "en": "the ultimate proving ground",
+          "zh": "終極試煉場",
+          "sample": "For local performers, the Coliseum remains the ultimate proving ground."
         },
         {
-          "en": "a hard act to follow",
-          "zh": "難以超越的成績",
-          "sample": "This year's medal haul will be a hard act to follow at the next Games."
+          "en": "signals a genuine resurgence",
+          "zh": "標誌着真正的復興",
+          "sample": "Some critics doubt whether one sold-out show signals a genuine resurgence of the genre."
         },
         {
-          "en": "stand in sharp contrast to",
-          "zh": "與……形成鮮明對比",
-          "sample": "The rugby sevens' bronze stands in sharp contrast to its limited funding in past years."
-        }
-      ]
-    },
-    {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/344330/Hotels-and-restaurants-cash-in-on-extended-Golden-Week-as-HK-welcomes-129m-visitors",
-      "published_date": "4 October 2026",
-      "headline": "Golden Week Boom Lifts Hong Kong's Retail and Dining Trade",
-      "category": "econ",
-      "summary_html": "<p>Hong Kong’s extended seven-day National Day Golden Week has delivered a welcome boost to the retail and catering trades, with about 1.29 million Mainland visitors expected to cross the border during the holiday. Small and medium-sized hotels reported <span class=\"bw\">occupancy rates<span class=\"tip\"><span class=\"tip-en\">the percentage of available rooms or spaces that are actually being used</span><span class=\"tip-zh\">入住率</span></span></span> above 90 percent, while room rates at budget and chain hotels climbed by 10 to 20 percent as <span class=\"bw\">demand outstripped supply<span class=\"tip\"><span class=\"tip-en\">when the amount people want is greater than the amount available</span><span class=\"tip-zh\">需求超過供應</span></span></span>.</p><p>More than 3,800 restaurants, ranging from street-side eateries to five-star hotels, rolled out <span class=\"bw\">promotional deals<span class=\"tip\"><span class=\"tip-en\">special offers designed to attract customers, such as discounts</span><span class=\"tip-zh\">促銷優惠</span></span></span>, including 30 percent off the total bill and set meals priced as low as HK$77. The catering industry is projecting a <span class=\"bw\">year-on-year<span class=\"tip\"><span class=\"tip-en\">compared with the same period in the previous year</span><span class=\"tip-zh\">與上年同期相比</span></span></span> sales rise of around 10 percent, pushing dining revenue over the holiday to roughly HK$350 million.</p><p>Retailers reported similar gains: shopping malls recorded about a 10 percent increase in <span class=\"bw\">footfall<span class=\"tip\"><span class=\"tip-en\">the number of people entering a shop or area, used as a measure of business activity</span><span class=\"tip-zh\">人流量</span></span></span>, with vendors seeing revenue climb 10 to 20 percent; jewellers anticipated gains of around 15 percent, apparel sellers roughly 10 percent, and personal-care stores as much as 20 percent. While welcome, such figures should be read with some caution, as <span class=\"bw\">holiday-driven spending<span class=\"tip\"><span class=\"tip-en\">spending that happens mainly because of a festival or holiday period, rather than all year round</span><span class=\"tip-zh\">節日性消費</span></span></span> can mask weaker demand during quieter months, leaving the sector’s broader <span class=\"bw\">recovery trajectory<span class=\"tip\"><span class=\"tip-en\">the general direction or path along which something develops over time, here referring to economic recovery</span><span class=\"tip-zh\">復原軌跡</span></span></span> still uncertain.</p>",
-      "summary_zh_html": "<p>香港今年延長至七天的國慶黃金週，為零售及餐飲行業帶來一波喜訊，預計約有一百二十九萬名內地遊客在假期期間訪港。中小型酒店的<span class=\"bwz\">入住率</span>超過九成，連鎖酒店及平價酒店的房價則因<span class=\"bwz\">需求超過供應</span>而推高百分之十至二十。</p><p>超過三千八百家餐廳，上至五星級酒店、下至街邊小店，紛紛推出<span class=\"bwz\">促銷優惠</span>，包括整單九折及最低只需八十元的套餐。餐飲業預測銷售額將<span class=\"bwz\">與上年同期相比</span>增長約百分之十，令假期期間的餐飲收入達約三億五千萬元。</p><p>零售商亦取得類似成果：商場<span class=\"bwz\">人流量</span>大約上升百分之十，商戶收入則上升百分之十至二十；珠寶商預期收入可增約百分之十五，服飾零售商約百分之十，個人護理店舖則可能高達百分之二十。然而，這些數字仍須謹慎解讀，因為<span class=\"bwz\">節日性消費</span>可能掩蓋假期以外月份的消費需求前景，整體零售業的<span class=\"bwz\">復原軌跡</span>仍未明朗。</p>",
-      "cover_text": {
-        "zh_kicker": "黃金週旺市",
-        "zh_title": [
-          "假期湧入",
-          "129萬客"
-        ],
-        "zh_hl": "129萬",
-        "zh_sub": "食肆零售同創佳績",
-        "en": "Golden Week boom lifts Hong Kong's retail and dining trade"
-      },
-      "vocab": [
-        {
-          "phrase": "occupancy rate",
-          "zh": "入住率",
-          "sample": "Hotel occupancy rates often peak during long public holidays."
+          "en": "a devoted fan base",
+          "zh": "忠實歌迷群",
+          "sample": "A devoted fan base kept ticket demand high despite the singer's long absence."
         },
         {
-          "phrase": "non-essential spending",
-          "zh": "非必要性消費",
-          "sample": "Non-essential spending on dining and shopping tends to rise sharply during holidays."
+          "en": "struck a careful balance between",
+          "zh": "在兩者之間取得微妙的平衡",
+          "sample": "The setlist struck a careful balance between familiar hits and rarer tracks."
         },
         {
-          "phrase": "shopper traffic",
-          "zh": "購物人流",
-          "sample": "Shopper traffic at the mall doubled during the first three days of the holiday."
-        },
-        {
-          "phrase": "cross-border visitor",
-          "zh": "跨境遊客",
-          "sample": "Cross-border visitor numbers are a key indicator of the retail sector's health."
-        },
-        {
-          "phrase": "consumption recovery",
-          "zh": "消費復原",
-          "sample": "Analysts are watching closely to see whether this signals a genuine consumption recovery."
-        },
-        {
-          "phrase": "price-sensitive shoppers",
-          "zh": "對價格敏感的消費者",
-          "sample": "Deep discounts are aimed squarely at price-sensitive shoppers."
-        },
-        {
-          "phrase": "seasonal surge",
-          "zh": "季節性高峰",
-          "sample": "Retailers rely heavily on the seasonal surge around major holidays."
-        },
-        {
-          "phrase": "spending power",
-          "zh": "消費力",
-          "sample": "Mainland visitors' spending power remains vital to Hong Kong's retail sector."
-        },
-        {
-          "phrase": "revenue growth",
-          "zh": "收入增長",
-          "sample": "Jewellers reported the strongest revenue growth among all retail categories."
-        },
-        {
-          "phrase": "tourist footfall",
-          "zh": "遊客人流",
-          "sample": "Tourist footfall at border checkpoints rose sharply ahead of the holiday."
-        },
-        {
-          "phrase": "demand outpacing supply",
-          "zh": "需求超越供應",
-          "sample": "Hotels saw demand outpacing supply, pushing room rates higher."
-        },
-        {
-          "phrase": "holiday economy",
-          "zh": "假期經濟",
-          "sample": "The holiday economy gives a short-term lift but does not guarantee year-round stability."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "provide a much-needed lift",
-          "zh": "帶來久等的振奮",
-          "sample": "The Golden Week figures provide a much-needed lift for small retailers."
-        },
-        {
-          "en": "should not be mistaken for a lasting turnaround",
-          "zh": "不應被誤認為持久的轉機",
-          "sample": "A single strong holiday should not be mistaken for a lasting turnaround in retail sales."
-        },
-        {
-          "en": "paint only part of the picture",
-          "zh": "只反映局面的一部分",
-          "sample": "Headline growth figures paint only part of the picture for struggling small shops."
-        },
-        {
-          "en": "rest heavily on",
-          "zh": "大程度上取決於",
-          "sample": "Future retail performance will rest heavily on whether Mainland visitor numbers stay steady."
-        },
-        {
-          "en": "offer only temporary relief",
-          "zh": "僅提供暫時的緩解",
-          "sample": "Deep holiday discounts offer only temporary relief to businesses facing high rents."
-        },
-        {
-          "en": "mask underlying weaknesses",
-          "zh": "掩蓋潛在的弱點",
-          "sample": "A busy holiday season can mask underlying weaknesses in everyday consumer demand."
-        },
-        {
-          "en": "ride on the back of",
-          "zh": "借助……的帶動",
-          "sample": "Small eateries rode on the back of the citywide promotions to attract new customers."
-        },
-        {
-          "en": "a double-edged strategy",
-          "zh": "一把雙面刃的策略",
-          "sample": "Deep discounting is a double-edged strategy that boosts footfall but squeezes profit margins."
-        },
-        {
-          "en": "fail to translate into year-round stability",
-          "zh": "未能轉化為全年的穩定發展",
-          "sample": "A single busy week may fail to translate into year-round stability for small businesses."
-        },
-        {
-          "en": "widen the gap between large chains and small shops",
-          "zh": "拉闊大型連鎖店與小店的差距",
-          "sample": "Heavy discounting can widen the gap between large chains and small independent shops."
-        },
-        {
-          "en": "remain heavily dependent on",
-          "zh": "仍高度依賴於",
-          "sample": "Hong Kong's retail recovery remains heavily dependent on Mainland visitor spending."
-        },
-        {
-          "en": "a short-lived spike rather than a steady climb",
-          "zh": "一次短暫的高峰而非持續的成長",
-          "sample": "Economists warn this could be a short-lived spike rather than a steady climb in consumption."
+          "en": "spans four decades",
+          "zh": "橫跨四十年",
+          "sample": "His career now spans four decades, from teen idol to veteran performer."
         }
       ]
     }
@@ -587,29 +612,28 @@
   "trends": [
     {
       "platforms": [
-        "threads",
-        "ig",
+        "instagram",
         "tiktok"
       ],
-      "headline": "🫣 Mystery Stain at MTR Admiralty Becomes the Internet's Latest Punchline",
-      "summary_html": "<p>A short clip filmed at MTR Admiralty Station on 1 October quickly went viral after it showed a trail of an unidentified brown substance spread near an escalator by the feet of passing commuters, with staff seen guiding travellers around the area before laying down cleaning mats. <span class=\"bw\">Unverified<span class=\"tip\"><span class=\"tip-en\">not officially confirmed to be true or accurate</span><span class=\"tip-zh\">未經證實的</span></span></span> guesses about what the substance actually was spread just as fast as the footage itself, and the clip was soon stitched into memes joking that the city moves too fast for anyone to find a toilet in time, reviving an old quip that Hong Kong's streets are “paved with gold.”</p>",
-      "summary_zh_html": "<p>一段於十月一日在港鐵金鐘站拍下的短片迅速在網上瘋傳，片段顯示扶手電梯旁有一條啡色神秘液體被乘客踏過而沾滿地面，職員隨後引導乘客繞行並鋪上清潔墊。對於該液體究竟為何的<span class=\"bwz\">未經證實</span>猜測與片段本身一樣迅速流傳，不久後更被剪接成搞笑影片，笑言香港節奏太快，令人連上廁所都沒時間，也重新喚起那句舊話：香港街頭「黃金鋪地」。</p>",
+      "headline": "☕ Hong Kong's Gen Z Swap Nightclubs for Daytime 'Coffee Raves'",
+      "summary_html": "<p>A new kind of party is taking over Hong Kong's café scene: the \"coffee rave,\" a <span class=\"bw\">sober-curious<span class=\"tip\"><span class=\"tip-en\">exploring a lifestyle with little or no alcohol out of curiosity rather than necessity</span><span class=\"tip-zh\">戒酒觀望</span></span></span> gathering that swaps late-night clubbing for daytime DJ sets fuelled by espresso rather than alcohol. Organisers say the trend traces back to the isolation of the pandemic years, when many young people grew accustomed to socialising earlier in the day, and has since evolved into a full subculture complete with <span class=\"bw\">brand collaborations<span class=\"tip\"><span class=\"tip-en\">joint marketing projects in which a company partners with an event, artist or another brand</span><span class=\"tip-zh\">品牌合作</span></span></span>, themed menus and even milk-tea cocktail nights. Participants describe the appeal as less about avoiding alcohol altogether than about reclaiming a sense of <span class=\"bw\">daytime sociability<span class=\"tip\"><span class=\"tip-en\">the quality of being able to socialise and connect with others during the day</span><span class=\"tip-zh\">日間社交感</span></span></span> that late-night venues cannot offer, while cafés have seized on the trend as a lucrative new <span class=\"bw\">revenue stream<span class=\"tip\"><span class=\"tip-en\">a source of ongoing income for a business</span><span class=\"tip-zh\">新收入來源</span></span></span> during traditionally quiet weekend afternoons.</p>",
+      "summary_zh_html": "<p>一種新式派對正席捲香港的咖啡店圈子：「咖啡rave」是一種<span class=\"bwz\">戒酒觀望</span>式聚會，以日間DJ表演取代深夜的夜店文化，參加者靠濃縮咖啡而非酒精提神。主辦單位表示，這股風潮可追溯至疫情期間的隔離生活，當時不少年輕人習慣了較早時段社交，此後更發展成一套完整的次文化，包括<span class=\"bwz\">品牌合作</span>、主題餐單，甚至奶茶雞尾酒之夜。參加者形容，這股潮流的吸引力，與其說是完全戒酒，倒不如說是重新尋回夜店無法提供的<span class=\"bwz\">日間社交感</span>；而咖啡店亦趁機將這股潮流，發展成在傳統上較清淡的週末下午帶來可觀收入的<span class=\"bwz\">新收入來源</span>。</p>",
       "causes": [
         {
-          "label": "Spreading a claim before anyone verifies it",
-          "text": "No official source ever confirmed what the substance was, yet confident guesses still raced across group chats and comment sections as if they were established fact. The episode is a compact case study in how a viral clip can harden into a shared 'truth' long before, or even without, any verification at all."
+          "label": "Sober-curious culture as a health signal",
+          "text": "The rise of alcohol-free socialising may reflect a broader generational shift in how young people manage stress and wellbeing, favouring daytime gatherings that allow for genuine conversation over the disorientation of late-night drinking. A student essay could explore whether this represents a healthier model of youth social life, or merely a repackaging of the same underlying need to belong."
         },
         {
-          "label": "Who keeps a transport hub clean, and how fast",
-          "text": "The footage also showed MTR staff responding within minutes, guiding passengers and laying mats before the area could be cleaned properly. Readers could weigh whether the clip is really evidence of poor hygiene, or in fact evidence of a maintenance system working exactly as it should under pressure."
+          "label": "Brand-sponsored nostalgia vs grassroots authenticity",
+          "text": "What began as an informal, low-cost alternative to clubbing has quickly attracted corporate sponsors eager to attach their products to a trendy, health-conscious image. This raises a useful Paper 2 question about whether commercial backing inevitably dilutes a subculture's original spirit, turning a grassroots habit into another marketing opportunity dressed up as a lifestyle choice."
         },
         {
-          "label": "Shared toilet humour as a release valve for commuters",
-          "text": "Hongkongers did not just complain about the incident; they turned it into a running joke about the city's relentless pace, stitching the clip into memes and in-jokes. That instinct to laugh together at a shared inconvenience can function as a small, low-stakes way of bonding over the frustrations of daily commuting."
+          "label": "A counter-argument: still built on exclusivity and spending",
+          "text": "Sceptics argue that coffee raves are no more inclusive than the nightlife they claim to replace, since tickets, themed merchandise and specialty drinks can cost as much as a night out. Framed this way, the trend looks less like a wellness movement and more like clubbing rebranded for an audience that can still afford to pay for atmosphere."
         },
         {
-          "label": "Counter-argument: the joke lets a real hygiene lapse off the hook",
-          "text": "Turning the clip into comedy risks trivialising a genuine public health concern. A busy station floor left exposed to a biohazard, however briefly, deserves scrutiny of cleaning protocols and response times, not just a punchline that lets everyone move on without asking harder questions."
+          "label": "Daytime leisure and the changing rhythm of Hong Kong nightlife",
+          "text": "Whether coffee raves outlast their novelty depends on whether cafés can keep reinventing the format once the initial curiosity fades, much as earlier themed-dining fads eventually lost momentum. A sustained shift would require genuine changes to how young people structure their weekends, not just a temporary alternative while nightclubs recover their post-pandemic footing."
         }
       ]
     }

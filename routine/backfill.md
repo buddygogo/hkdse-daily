@@ -19,6 +19,7 @@ For an ARTICLE (id starts with "a"):
   "cover_text": bilingual key message for the cover image —
     {"zh_kicker": "2–6 character tag", "zh_title": ["≤8 chars", "≤8 chars"], "zh_hl": "striking part of a title line (must appear inside it)",
      "zh_sub": "≤14 character supporting line", "en": "6–10 word English key message"}. Traditional Chinese, accurate to the article, no clickbait.
+  "image_scene": 1–2 sentences describing literally what the cover picture should show for this story (real Hong Kong place, what is happening, anonymous people, key objects; calm and respectful for sensitive stories; no text or logos).
   "vocab": only include this key if check_data.py flags a vocab item — then supply a full replacement list of 10–12 topic-specific items.
 
 For a TREND (id starts with "t"):

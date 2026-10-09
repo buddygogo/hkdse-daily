@@ -72,6 +72,8 @@ def check(articles, trends, archive, skip_ids=()):
         if len(CJK.findall(zh)) < 200:
             errs.append(f"[{name}] summary_zh_html missing or too short (need a full Traditional Chinese translation)")
         errs += pair_errors(a, name)
+        if len((a.get("image_scene") or "").split()) < 15:
+            errs.append(f"[{name}] image_scene missing or too short (describe literally what the cover picture shows, 40–70 words)")
         ct = a.get("cover_text") or {}
         if not ct.get("zh_title") or not ct.get("en"):
             errs.append(f"[{name}] cover_text missing (needs zh_title and en)")

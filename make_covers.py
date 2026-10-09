@@ -10,6 +10,7 @@ Needs GEMINI_API_KEY in the environment or in a .env file next to this script.
 Images are saved as covers/<article id>.jpg and recorded in archive.json as "cover".
 """
 import io
+import re
 import json
 import os
 import sys
@@ -35,7 +36,7 @@ ACCENTS = {
 }
 
 
-# Camera approaches, rotated per article so the covers don't all look alike
+# (no longer used: compositions are now chosen to fit each story)
 SHOTS = [
     "a tight close-up of one telling object on a surface, shallow depth of field",
     "street-level view at eye height in a busy Hong Kong neighbourhood, people as soft motion blur",
@@ -65,34 +66,42 @@ def is_sensitive(article: dict) -> bool:
     return any(w in text for w in SENSITIVE_WORDS)
 
 
+def _scene(article: dict) -> str:
+    """What the picture must show. Prefer the routine's literal scene description;
+    otherwise use the article's opening sentences."""
+    if article.get("image_scene"):
+        return article["image_scene"].strip()
+    text = re.sub(r'<span class="tip">.*?</span></span>', "", article.get("summary_html", ""), flags=re.S)
+    text = " ".join(re.sub(r"<[^>]+>", " ", text).split())
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    return " ".join(sentences[:2])[:600]
+
+
 def build_prompt(article: dict, wide: bool = False) -> str:
     cat = (article.get("category") or "social").split()[0]
     accent = ACCENTS.get(cat, "red")
-    shot = SHOTS[int(article.get("id", "a0")[1:], 16) % len(SHOTS)]
     return (
-        "Photorealistic editorial photograph for a news story in a Hong Kong student magazine. "
-        f"Story: \"{article.get('headline', '')}\". "
-        "Show the story's subject through objects, places and atmosphere — a thoughtful scene "
-        "rather than a literal news photo; set it in Hong Kong where it makes sense. "
-        f"Composition: {shot}. "
-        + ("Ultra-wide 21:9 panoramic photo for a website banner. Keep the LEFT HALF simple and uncluttered "
-           "(open sky, a plain wall or soft background) because a headline will be printed there; "
-           "put the main subject on the right. "
+        "Photorealistic editorial news illustration — it must clearly show THIS specific news story, "
+        "so a reader instantly understands what happened just by looking at it. "
+        f"Headline: {article.get('headline', '')}. "
+        f"Show: {_scene(article)} "
+        "Depict the actual place, event, activity and key objects of the story as they would look in "
+        "Hong Kong (real Hong Kong settings, buildings, streets, venues and details where relevant). "
+        "Choose the camera angle and framing that best tells this story, like a news photographer would. "
+        + ("Ultra-wide 21:9 panoramic banner: keep the LEFT side calmer and less busy because a headline "
+           "will be printed there; place the main action on the right. "
            if wide else
-           "Portrait 4:5 photo for an Instagram news post. Keep the TOP HALF simple and uncluttered "
-           "(open sky, a plain wall or soft background) because a large headline will be printed over it; "
-           "put the main subject in the lower half. ")
+           "Portrait 4:5 for an Instagram news post: keep the TOP part calmer and less busy because a large "
+           "headline will be printed over it; place the main action in the lower two-thirds. ")
         + (SENSITIVE_STYLE if is_sensitive(article) else
-           "Bright, warm, true-to-life colour: sunny daylight or golden-hour light, "
-           "rich saturated natural colours, crisp detail, upbeat and inviting — the look of a modern lifestyle "
-           "magazine that teenagers enjoy, never grey, gloomy, foggy or blue-tinted. ")
-        + f"Feature {accent} prominently as a real object or surface colour in the scene. "
-        "One single seamless photograph filling the whole frame — no borders, panels, strips, collage or inset images. "
-        "Avoid the cliché of a lone person seen from behind gazing at a skyline. "
-        "Absolutely NO text anywhere in the image: no words, letters, numbers or symbols on signs, "
-        "screens, book covers, spines, paper, clothing or packaging (keep pages blank and screens abstract). "
-        "No logos, no watermarks, no flags, "
-        "no recognisable real people or faces."
+           "Bright, warm, true-to-life colour: daylight or golden-hour light, rich natural colours, crisp detail, "
+           "vivid and engaging for teenagers — never grey, gloomy or blue-tinted. ")
+        + f"Where it fits naturally, let {accent} appear as a real colour in the scene. "
+        "One single seamless photograph-style image filling the whole frame — no borders, panels, collage or inset images. "
+        "People may appear (crowds, staff, athletes, performers, residents) but no recognisable real individuals: "
+        "faces turned away, in silhouette, distant or naturally out of focus. "
+        "Absolutely NO readable text anywhere: no words, letters or numbers on signs, screens, scoreboards, "
+        "banners, papers, clothing or packaging. No logos, no watermarks, no flags."
     )
 
 

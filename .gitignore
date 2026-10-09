@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .env
 patch*.json
+incoming/
+prompts_today.txt

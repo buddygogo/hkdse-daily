@@ -595,6 +595,10 @@ def build_hero_html(article: dict, image_url: str | None, uid: str) -> str:
     ig_badge = _source_badge(src_name)
 
     img_html = _cover_html(article, image_url, "hero-img", "cover-hero")
+    if article.get("banner"):  # wide 21:9 banner for the top story, when one exists
+        alt = (article.get("headline") or "").replace('"', '')
+        img_html = f'<img class="hero-img" src="{article["banner"]}" alt="{alt}" onerror="this.remove()">'
+    top_cls = "hero-top has-banner" if article.get("banner") else "hero-top"
 
     study = _study_notes_html(article, uid)
 
@@ -602,7 +606,7 @@ def build_hero_html(article: dict, image_url: str | None, uid: str) -> str:
 
     return f"""
   <article class="hero-card" data-cat="{data_cat}">
-    <div class="hero-top">
+    <div class="{top_cls}">
       <div class="hero-media" onclick="openFull('{uid}')">
         {img_html}
       </div>
@@ -1838,6 +1842,9 @@ CSS = """
     .hero-read { margin-top: auto; font-size: 1rem; }
     .hero-body { border-top: 1px solid var(--border); }
     .card-thumb-wrap { aspect-ratio: 4 / 5; }
+    .hero-top.has-banner { grid-template-columns: 1fr; }
+    .hero-top.has-banner .hero-media { aspect-ratio: 21 / 9; }
+    .hero-top.has-banner .hero-head { padding-bottom: 1.4rem; }
     @media (max-width: 760px) {
       .hero-top { grid-template-columns: 1fr; }
       .hero-head { padding: 1.2rem; }

@@ -55,10 +55,9 @@ SHOTS = [
 SENSITIVE_WORDS = ("suicide", "self-harm", "death", "dies", "died", "killed", "abuse", "assault", "attack",
                    "arrest", "sedition", "jail", "prison", "murder", "violence", "brawl", "victim", "fatal",
                    "crash", "mauled", "missing", "funeral")
-SENSITIVE_STYLE = ("Calm, respectful and quietly hopeful mood: soft natural daylight, gentle warm tones, "
-                   "a peaceful symbolic scene (e.g. an empty bench in a garden, morning light through a window, "
-                   "a helping hand on a railing). Nothing distressing, violent or sad-looking; no police, "
-                   "weapons, injuries, hospital beds or crying. ")
+SENSITIVE_STYLE = ("Show the scene described above faithfully, in a calm and respectful mood: soft natural "
+                   "daylight, gentle warm tones. Nothing graphic or distressing — no injuries, weapons, violence, "
+                   "victims, crying or children in distress. ")
 
 
 def is_sensitive(article: dict) -> bool:

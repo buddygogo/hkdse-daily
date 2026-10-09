@@ -3,608 +3,582 @@
   "articles": [
     {
       "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/health-environment/article/3370055/60-hong-kongs-suspected-student-suicides-involved-children-aged-15-or-below",
-      "published_date": "7 October 2026",
-      "headline": "Most Suspected Student Suicides Involve Under-15s, Bureau Tells Lawmakers",
-      "category": "school",
-      "summary_html": "<p>The Education Bureau told the Legislative Council this week that a <span class=\"bw\">disproportionate share<span class=\"tip\"><span class=\"tip-en\">a portion of something that is unexpectedly large compared with the rest</span><span class=\"tip-zh\">不成比例的比重</span></span></span> of suspected student suicide cases logged over the past three school years involved children aged 15 or younger, overturning the common assumption that such tragedies chiefly affect older teenagers facing examination pressure. Officials disclosed that roughly six in ten cases fell within this younger age band, a pattern they described as deeply concerning given that <span class=\"bw\">early intervention<span class=\"tip\"><span class=\"tip-en\">taking action as soon as possible after a problem is identified, before it becomes more serious</span><span class=\"tip-zh\">及早介入</span></span></span> is widely regarded as most effective before adolescence.</p><p>Under the <span class=\"bw\">three-tier support mechanism<span class=\"tip\"><span class=\"tip-en\">a support system organised into three levels of increasing seriousness or urgency</span><span class=\"tip-zh\">三層支援機制</span></span></span> introduced after a spike in cases, principals may refer pupils showing signs of <span class=\"bw\">underlying distress<span class=\"tip\"><span class=\"tip-en\">deep emotional pain that is not immediately obvious on the surface</span><span class=\"tip-zh\">潛在情緒困擾</span></span></span> directly to Hospital Authority psychiatrists, bypassing slower school-based channels; bureau figures show schools have made such <span class=\"bw\">psychiatric referrals<span class=\"tip\"><span class=\"tip-en\">cases passed on to a mental health specialist for assessment or treatment</span><span class=\"tip-zh\">精神科轉介</span></span></span> at an average pace of roughly twenty a month. Lawmakers welcomed the mechanism but questioned whether it amounts to little more than a <span class=\"bw\">stopgap measure<span class=\"tip\"><span class=\"tip-en\">a temporary solution used until a more permanent one can be found</span><span class=\"tip-zh\">權宜之計</span></span></span>, noting that referrals have continued to climb even as the scheme has matured, suggesting that <span class=\"bw\">compounding pressures<span class=\"tip\"><span class=\"tip-en\">multiple sources of stress that build on and intensify one another</span><span class=\"tip-zh\">疊加壓力</span></span></span> on young people are outpacing the system built to catch them.</p><p>Mental health advocates argue the figures point to <span class=\"bw\">systemic gaps<span class=\"tip\"><span class=\"tip-en\">weaknesses built into the structure of a system, rather than isolated errors</span><span class=\"tip-zh\">系統性缺口</span></span></span> rather than isolated failures, calling for counsellors to be embedded in primary as well as secondary schools and for teacher training to address <span class=\"bw\">mental wellbeing<span class=\"tip\"><span class=\"tip-en\">a person's overall psychological and emotional health</span><span class=\"tip-zh\">心理健康</span></span></span> warning signs specific to younger children. The bureau says it is reviewing the mechanism's scope, though it has not committed to a timeline. For now, the data leaves parents and educators grappling with an uncomfortable question: whether a system designed around teenage stress is adequately equipped to protect children barely out of primary school.</p>",
-      "summary_zh_html": "<p>教育局本周向立法會表示，在過去三個學年錄得的懷疑學生自殺個案中，有<span class=\"bwz\">不成比例的比重</span>涉及十五歲或以下的兒童，推翻了一般人認為此類悲劇主要發生在面對考試壓力的年長學生身上的看法。官員透露，約六成個案屬於這個較年輕的年齡組別，並形容此情況令人深感憂慮，因為<span class=\"bwz\">及早介入</span>普遍被視為在踏入青春期前最為有效。</p><p>在因個案急增而推行的<span class=\"bwz\">三層支援機制</span>下，校長可將出現<span class=\"bwz\">潛在情緒困擾</span>徵狀的學生直接轉介予醫院管理局的精神科醫生，繞過速度較慢的校內渠道；教育局數字顯示，學校平均每月作出約二十宗<span class=\"bwz\">精神科轉介</span>。議員歡迎該機制，但質疑它是否只是一項<span class=\"bwz\">權宜之計</span>，指出即使計劃已推行一段時間，轉介需求仍持續攀升，反映年輕人面對的<span class=\"bwz\">疊加壓力</span>正超出這個系統所能應付的範圍。</p><p>精神健康倡議人士認為，這些數字反映的是<span class=\"bwz\">系統性缺口</span>，而非個別事件的失誤，呼籲在小學（而非僅在中學）設立駐校輔導員，並加強教師培訓，以識別針對較年幼兒童的<span class=\"bwz\">心理健康</span>警號。教育局表示正在檢討機制的涵蓋範圍，但未承諾具體時間表。目前，這些數字令家長和教育工作者面對一個令人不安的問題：一套圍繞青少年壓力而設計的系統，是否足以保護那些年紀尚小、剛離開小學的兒童。</p>",
+      "source_url": "https://www.scmp.com/tech/tech-trends/article/3370177/chinas-ai-chipmaker-biren-tumbles-12-it-seeks-us510-million-share-placement",
+      "published_date": "8 October 2026",
+      "headline": "China's AI Chipmaker Biren Tumbles 12% as It Seeks US$510 Million in Share Placement",
+      "category": "tech",
+      "summary_html": "<p>Shares of Shanghai Biren Technology, a Hong Kong-listed designer of artificial intelligence chips, <span class=\"bw\">tumbled more than twelve per cent<span class=\"tip\"><span class=\"tip-en\">fell sharply and suddenly in value</span><span class=\"tip-zh\">急跌超過百分之十二</span></span></span> on Thursday after the firm disclosed a fresh <span class=\"bw\">share placement<span class=\"tip\"><span class=\"tip-en\">the sale of new company shares directly to selected investors, outside a public offering</span><span class=\"tip-zh\">配售新股</span></span></span> to raise roughly HK$4 billion. Placing agents were engaged on a <span class=\"bw\">best-effort basis<span class=\"tip\"><span class=\"tip-en\">an arrangement in which an agent tries to sell as many shares as possible but gives no guarantee of success</span><span class=\"tip-zh\">不保證包銷的盡力基礎</span></span></span> to sell 130 million new shares at a price about ten per cent below the stock's last close, a discount steep enough to send holders rushing to sell before their stakes were diluted.</p><p>This is the firm's second placement since its January listing, after a July round that raised HK$7 billion; the two together have pulled in over HK$11 billion in three months. Biren said most proceeds would secure <span class=\"bw\">manufacturing capacity<span class=\"tip\"><span class=\"tip-en\">the maximum amount a factory or supplier can produce within a given period</span><span class=\"tip-zh\">生產產能</span></span></span> ahead of the <span class=\"bw\">commercial launch<span class=\"tip\"><span class=\"tip-en\">the point at which a product is officially made available for sale to customers</span><span class=\"tip-zh\">商業推出</span></span></span> of its next chips. Despite the losses, <span class=\"bw\">revenue surged<span class=\"tip\"><span class=\"tip-en\">income from sales increased sharply and rapidly</span><span class=\"tip-zh\">收入急升</span></span></span> roughly twenty-one-fold in the first half of 2026, even as the firm remained <span class=\"bw\">loss-making<span class=\"tip\"><span class=\"tip-en\">operating at a financial loss rather than a profit</span><span class=\"tip-zh\">處於虧損狀態</span></span></span>, with its deficit narrowing from 1.6 billion yuan to 377 million yuan.</p><p>The repeated fundraising reflects how <span class=\"bw\">capital-intensive<span class=\"tip\"><span class=\"tip-en\">requiring very large amounts of money to operate or expand</span><span class=\"tip-zh\">資本密集</span></span></span> chipmaking remains, even for firms riding China's push for <span class=\"bw\">chip self-sufficiency<span class=\"tip\"><span class=\"tip-en\">the ability to design and produce semiconductors domestically without relying on foreign suppliers</span><span class=\"tip-zh\">晶片自給自足</span></span></span> amid tightening access to foreign technology. Rivals Moore Threads and MetaX are separately preparing Hong Kong listings, underscoring how the city's exchange has become a key financing stage for an industry racing to narrow the gap with overseas leaders.</p>",
+      "summary_zh_html": "<p>香港上市的人工智能芯片設計商上海璧仞科技（Biren Technology）股價周四<span class=\"bwz\">急跌超過百分之十二</span>，原因是該公司披露一項新的<span class=\"bwz\">配售新股</span>計劃，擬籌集約四十億港元。配售代理以<span class=\"bwz\">不保證包銷的盡力基礎</span>方式，以較股份上一個收市價折讓約一成的價格，出售一億三千萬股新股，折讓幅度之大，促使現有股東趕於股權進一步被攤薄前拋售持股。</p><p>這是該公司自今年一月上市以來的第二次配售，此前七月的一輪配售已籌得七十億港元；兩輪合計在短短三個月內已籌得逾一百一十億港元。璧仞表示，大部分新資金將用於確保<span class=\"bwz\">生產產能</span>及零部件供應，為新一代芯片的<span class=\"bwz\">商業推出</span>作準備，餘額則分別用於研發及營運資金。儘管仍然虧損，公司今年上半年<span class=\"bwz\">收入急升</span>約二十一倍，即使仍然<span class=\"bwz\">處於虧損狀態</span>，同期虧損額亦由十六億元人民幣收窄至三億七千七百萬元人民幣。</p><p>一再集資的情況反映，即使是乘著中國推動<span class=\"bwz\">晶片自給自足</span>、以應對外國技術限制收緊的東風，芯片製造行業仍然極為<span class=\"bwz\">資本密集</span>。對手芯片商摩爾線程及沐曦亦分別籌備在香港上市，顯示本港交易所已成為這場追趕海外龍頭企業競賽中的重要融資平台。</p>",
+      "image_scene": "A brightly lit semiconductor cleanroom in an industrial park, anonymous technicians in white protective suits and masks inspecting circuit boards and silicon wafers under blue overhead light, racks of server hardware in the background, Hong Kong skyline faintly visible through a large window.",
       "cover_text": {
-        "zh_kicker": "學童自殺",
+        "zh_kicker": "AI芯片股",
         "zh_title": [
-          "六成自殺個案",
-          "涉15歲以下童"
+          "配股集資44億",
+          "股價挫逾一成"
         ],
-        "zh_hl": "15歲以下",
-        "zh_sub": "教育局：轉介需求仍上升",
-        "en": "Most student suicide cases involve under-15s"
+        "zh_hl": "44億",
+        "zh_sub": "半年內第二次配售",
+        "en": "Hong Kong-listed AI chipmaker Biren raises US$510 million amid losses"
       },
       "vocab": [
         {
-          "phrase": "suicide risk assessment",
-          "zh": "自殺風險評估",
-          "sample": "Every school is now required to complete a suicide risk assessment for pupils flagged by teachers."
+          "phrase": "share placement",
+          "zh": "配售股份",
+          "sample": "The chipmaker turned to a share placement after its cash reserves ran low."
         },
         {
-          "phrase": "at-risk students",
-          "zh": "高危學生",
-          "sample": "Counsellors are assigned to monitor at-risk students more closely during the examination period."
+          "phrase": "placing agent",
+          "zh": "配售代理",
+          "sample": "A placing agent was hired to find investors willing to buy the discounted shares."
         },
         {
-          "phrase": "referral pathway",
-          "zh": "轉介途徑",
-          "sample": "A clear referral pathway allows teachers to connect struggling pupils with professional help quickly."
+          "phrase": "best-effort basis",
+          "zh": "盡力而為基礎",
+          "sample": "Selling shares on a best-effort basis means the agent cannot guarantee the full amount will be raised."
         },
         {
-          "phrase": "emotional turmoil",
-          "zh": "情緒波動",
-          "sample": "Her teachers had noticed signs of emotional turmoil in the weeks before the referral was made."
+          "phrase": "manufacturing capacity",
+          "zh": "生產產能",
+          "sample": "The company plans to expand its manufacturing capacity before launching its next chip."
         },
         {
-          "phrase": "school counsellor",
-          "zh": "駐校輔導員",
-          "sample": "Every secondary school in the district now employs at least one full-time school counsellor."
+          "phrase": "commercial launch",
+          "zh": "商業推出",
+          "sample": "Analysts are watching closely to see whether the commercial launch meets expectations."
         },
         {
-          "phrase": "warning signs",
-          "zh": "警號",
-          "sample": "Parents are urged to take warning signs such as withdrawal and insomnia seriously."
+          "phrase": "revenue surge",
+          "zh": "收入激增",
+          "sample": "The revenue surge did little to calm investors worried about the firm's continuing losses."
         },
         {
-          "phrase": "crisis intervention",
-          "zh": "危機介入",
-          "sample": "The hotline offers crisis intervention for students who are experiencing severe emotional difficulty."
+          "phrase": "loss-making",
+          "zh": "虧損經營",
+          "sample": "Many loss-making tech start-ups rely on repeated fundraising to stay afloat."
         },
         {
-          "phrase": "peer support network",
-          "zh": "同伴支援網絡",
-          "sample": "A peer support network trains senior students to accompany classmates who seem isolated."
+          "phrase": "capital-intensive",
+          "zh": "資本密集",
+          "sample": "Chip fabrication is a capital-intensive business that demands constant reinvestment."
         },
         {
-          "phrase": "psychological resilience",
-          "zh": "心理韌性",
-          "sample": "Building psychological resilience from a young age may help pupils cope with future setbacks."
+          "phrase": "chip self-sufficiency",
+          "zh": "芯片自給自足",
+          "sample": "Beijing has made chip self-sufficiency a national priority amid export restrictions."
         },
         {
-          "phrase": "underreporting",
-          "zh": "漏報",
-          "sample": "Experts warn that underreporting may mean the true scale of the problem is even larger."
+          "phrase": "shareholder dilution",
+          "zh": "股權攤薄",
+          "sample": "Existing investors protested the shareholder dilution caused by the new share issue."
         },
         {
-          "phrase": "high-risk referral",
-          "zh": "高危個案轉介",
-          "sample": "Principals can make a high-risk referral directly to the Hospital Authority when a pupil shows severe distress."
+          "phrase": "stock tumble",
+          "zh": "股價急挫",
+          "sample": "The stock tumble wiped out much of the gains made since the company's listing."
         },
         {
-          "phrase": "intervention scheme",
-          "zh": "介入計劃",
-          "sample": "The bureau insists the intervention scheme will be reviewed if referral numbers keep rising."
+          "phrase": "financing round",
+          "zh": "融資回合",
+          "sample": "This was the start-up's third financing round in less than two years."
         }
       ],
       "phrases": [
         {
-          "en": "a cause for serious concern",
-          "zh": "令人深感憂慮的原因",
-          "sample": "The sharp rise in referrals is a cause for serious concern among educators."
+          "en": "raise fresh capital at the cost of diluting existing shareholders",
+          "zh": "以攤薄現有股東權益為代價集資",
+          "sample": "The board agreed to raise fresh capital at the cost of diluting existing shareholders rather than cut spending."
         },
         {
-          "en": "falls short of addressing the root cause",
-          "zh": "未能解決根源問題",
-          "sample": "Critics say the scheme falls short of addressing the root cause of student distress."
+          "en": "bet heavily on an unproven technology roadmap",
+          "zh": "重注押在未經證實的技術路線上",
+          "sample": "Investors who bet heavily on an unproven technology roadmap must be prepared for volatility."
         },
         {
-          "en": "warrants closer scrutiny",
-          "zh": "值得進一步審視",
-          "sample": "The effectiveness of the three-tier mechanism warrants closer scrutiny from policymakers."
+          "en": "convert investor enthusiasm into real revenue",
+          "zh": "將投資者熱情轉化為實質收入",
+          "sample": "The firm has yet to convert investor enthusiasm into real revenue that matches its valuation."
         },
         {
-          "en": "a worrying pattern has emerged",
-          "zh": "一個令人擔憂的模式已經出現",
-          "sample": "A worrying pattern has emerged showing that younger children are increasingly affected."
+          "en": "race to close the gap with established industry leaders",
+          "zh": "力爭縮窄與行業龍頭的差距",
+          "sample": "Local chipmakers are racing to close the gap with established industry leaders abroad."
         },
         {
-          "en": "calls into question whether",
-          "zh": "令人質疑是否",
-          "sample": "The rising caseload calls into question whether current resources are sufficient."
+          "en": "treat short-term losses as the price of long-term dominance",
+          "zh": "視短期虧損為長遠領先地位的代價",
+          "sample": "Management urged shareholders to treat short-term losses as the price of long-term dominance."
         },
         {
-          "en": "points to a deeper structural issue",
-          "zh": "反映出更深層的結構性問題",
-          "sample": "The data points to a deeper structural issue within the education system."
+          "en": "expose the fragility behind a hyped sector",
+          "zh": "揭示炒作行業背後的脆弱性",
+          "sample": "The sudden sell-off helped expose the fragility behind a hyped sector."
         },
         {
-          "en": "cannot be tackled in isolation",
-          "zh": "不能單獨解決",
-          "sample": "Student mental health cannot be tackled in isolation from wider social pressures."
+          "en": "signal confidence despite mounting losses",
+          "zh": "儘管虧損擴大仍展現信心",
+          "sample": "Repeated investment in new plants is meant to signal confidence despite mounting losses."
         },
         {
-          "en": "there is no quick fix for",
-          "zh": "沒有迅速的解決方法",
-          "sample": "There is no quick fix for the emotional strain many students quietly carry."
+          "en": "ride the wave of a booming industry",
+          "zh": "乘搭蓬勃行業的浪潮",
+          "sample": "Dozens of start-ups are trying to ride the wave of a booming industry before it cools."
         },
         {
-          "en": "demands a coordinated response",
-          "zh": "需要協調一致的應對",
-          "sample": "Protecting vulnerable pupils demands a coordinated response from schools, families and health services."
+          "en": "cushion the blow of a widening deficit",
+          "zh": "緩衝不斷擴大虧損帶來的衝擊",
+          "sample": "The fresh funds will help cushion the blow of a widening deficit this year."
         },
         {
-          "en": "risks being dismissed as a stopgap",
-          "zh": "有可能被視為權宜之計",
-          "sample": "Without long-term funding, the scheme risks being dismissed as a stopgap."
+          "en": "reflect the high stakes of a global technology race",
+          "zh": "反映全球科技競賽的高風險",
+          "sample": "The scramble for funding reflects the high stakes of a global technology race."
         },
         {
-          "en": "the figures speak for themselves",
-          "zh": "數字已經不言自明",
-          "sample": "On the question of under-15 cases, the figures speak for themselves."
+          "en": "walk a tightrope between growth and insolvency",
+          "zh": "在增長與破產之間走鋼線",
+          "sample": "Many young chipmakers walk a tightrope between growth and insolvency in their early years."
         },
         {
-          "en": "merits further investment",
-          "zh": "值得進一步投放資源",
-          "sample": "Early intervention clearly merits further investment if outcomes are to improve."
+          "en": "lean on public markets to fund expansion",
+          "zh": "依靠公開市場集資擴充業務",
+          "sample": "Unable to turn a profit, the company must lean on public markets to fund expansion."
         },
         {
-          "en": "remains an open question",
-          "zh": "仍是一個懸而未決的問題",
-          "sample": "Whether the mechanism will be extended to all primary schools remains an open question."
+          "en": "mask underlying financial strain with rapid growth",
+          "zh": "以高速增長掩蓋潛藏的財政壓力",
+          "sample": "Headline growth figures can mask underlying financial strain with rapid expansion."
         },
         {
-          "en": "underscores the urgency of",
-          "zh": "凸顯了…的迫切性",
-          "sample": "The latest figures underscore the urgency of training more school counsellors."
+          "en": "come at a steep discount to the prevailing share price",
+          "zh": "較現行股價出現大幅折讓",
+          "sample": "The new shares came at a steep discount to the prevailing share price, unsettling the market."
+        }
+      ]
+    },
+    {
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/344562/Two-historic-buildings-declared-monuments-Wan-Chais-Hung-Shing-Temple-and-Stanley-Mosque",
+      "published_date": "2 October 2026",
+      "headline": "Two Historic Buildings Declared Monuments: Wan Chai's Hung Shing Temple and Stanley Mosque",
+      "category": "hk",
+      "summary_html": "<p>The government has <span class=\"bw\">gazetted<span class=\"tip\"><span class=\"tip-en\">formally published an official notice in the government's legal record, giving it legal effect</span><span class=\"tip-zh\">刊登憲報</span></span></span> Wan Chai's Hung Shing Temple and Stanley Mosque as <span class=\"bw\">declared monuments<span class=\"tip\"><span class=\"tip-en\">buildings or sites formally designated under law as having the highest level of heritage protection</span><span class=\"tip-zh\">法定古蹟</span></span></span> under the Antiquities and Monuments Ordinance, granting both sites the city's highest statutory heritage protection. The notice, published on 2 October, follows a recommendation from the Antiquities Advisory Board and marks a rare occasion on which a Chinese temple and an Islamic place of worship were elevated together.</p><p>Hung Shing Temple, believed to date from between 1847 and 1852, remains an active venue for <span class=\"bw\">ritual practices<span class=\"tip\"><span class=\"tip-en\">traditional ceremonies and customs carried out according to established religious or cultural procedures</span><span class=\"tip-zh\">儀式活動</span></span></span> and is currently managed by the Tung Wah Group of Hospitals, which the heritage office says will receive support for repairing its rooftop's <span class=\"bw\">ceramic figurines<span class=\"tip\"><span class=\"tip-en\">small decorative statues made of fired clay, often found on the ridges of traditional Chinese temple roofs</span><span class=\"tip-zh\">陶塑瓷像</span></span></span>, some of which have become deformed over time. Stanley Mosque, built in 1936-37, is the city's second-oldest mosque and the only one standing inside a <span class=\"bw\">correctional facility<span class=\"tip\"><span class=\"tip-en\">a building, such as a prison, used to detain and rehabilitate convicted offenders</span><span class=\"tip-zh\">懲教設施</span></span></span>; officials say it has kept its original form through only minor, reversible alterations.</p><p>Because the mosque sits within an active prison, the Antiquities and Monuments Office says it is <span class=\"bw\">liaising<span class=\"tip\"><span class=\"tip-en\">communicating and coordinating with another party to reach an agreement or arrange something</span><span class=\"tip-zh\">聯絡協調</span></span></span> with the Correctional Services Department to arrange visits that do not compromise security. Heritage advocates have welcomed the dual declaration as a rare acknowledgement that Hong Kong's <span class=\"bw\">built heritage<span class=\"tip\"><span class=\"tip-en\">historic buildings and structures that reflect a place's architectural and cultural history</span><span class=\"tip-zh\">建築文物</span></span></span> spans more than one faith and community, even as some note that genuine public access, not protection on paper alone, will decide whether the upgrade means much to residents.</p>",
+      "summary_zh_html": "<p>政府已將灣仔洪聖廟及赤柱清真寺<span class=\"bwz\">刊登憲報</span>，根據《古物及古蹟條例》列為<span class=\"bwz\">法定古蹟</span>，令兩處地點獲得本港最高級別的法定文物保護。公告於十月二日刊出，是古物諮詢委員會提出建議後的結果，亦標誌著一座中式廟宇與一座伊斯蘭教場所罕有地同時獲提升保護級別。</p><p>洪聖廟估計建於一八四七年至一八五二年間，至今仍是舉行<span class=\"bwz\">儀式活動</span>的活躍場所，現由東華三院管理；文物保育辦事處表示，將支援修復廟頂部分已出現變形的<span class=\"bwz\">陶塑瓷像</span>。至於建於一九三六至三七年的赤柱清真寺，則是本港第二古老的清真寺，亦是唯一一座座落於<span class=\"bwz\">懲教設施</span>之內的清真寺；官方指它僅經歷輕微且可還原的改動，大致保留原有面貌。</p><p>由於清真寺位於仍在運作的監獄範圍內，古物古蹟辦事處表示正與懲教署<span class=\"bwz\">聯絡協調</span>，安排公眾參觀，惟不能影響保安及日常運作。文物保育人士歡迎此次同時列為古蹟的安排，認為這罕有地肯定了香港的<span class=\"bwz\">建築文物</span>跨越不止一個信仰與社群，惟亦有人指出，真正的公眾可達性，而非僅屬紙面上的保護，才是這次升級對普通市民是否具意義的關鍵。</p>",
+      "image_scene": "A weathered Chinese temple courtyard in Wan Chai with an ornate ceramic-figurine roof ridge, an anonymous elderly worshipper lighting incense at an outdoor burner, followed by a small whitewashed mosque building with a modest dome glimpsed through a tall perimeter fence topped with wire, no visible signage.",
+      "cover_text": {
+        "zh_kicker": "法定古蹟",
+        "zh_title": [
+          "廟宇清真寺",
+          "同列古蹟"
+        ],
+        "zh_hl": "同列古蹟",
+        "zh_sub": "監獄內寺廟首現保護",
+        "en": "Wan Chai temple and Stanley Mosque declared Hong Kong monuments"
+      },
+      "vocab": [
+        {
+          "phrase": "declared monument",
+          "zh": "法定古蹟",
+          "sample": "Being named a declared monument gives a building the strongest legal protection available."
+        },
+        {
+          "phrase": "gazette notice",
+          "zh": "憲報公告",
+          "sample": "The gazette notice took effect the day it was published."
+        },
+        {
+          "phrase": "Antiquities and Monuments Ordinance",
+          "zh": "古物及古蹟條例",
+          "sample": "The Antiquities and Monuments Ordinance sets out how heritage sites are protected in law."
+        },
+        {
+          "phrase": "ritual practice",
+          "zh": "儀式活動",
+          "sample": "The temple still hosts ritual practices on traditional festival days."
+        },
+        {
+          "phrase": "ceramic roof figurine",
+          "zh": "瓦脊陶塑",
+          "sample": "Craftsmen were hired to restore the temple's damaged ceramic roof figurines."
+        },
+        {
+          "phrase": "correctional facility",
+          "zh": "懲教設施",
+          "sample": "Visiting a heritage site inside a correctional facility requires special arrangements."
+        },
+        {
+          "phrase": "reversible alteration",
+          "zh": "可還原的改動",
+          "sample": "Only reversible alterations were allowed so the building's original form could be restored later."
+        },
+        {
+          "phrase": "built heritage",
+          "zh": "建築文物",
+          "sample": "Hong Kong's built heritage includes temples, mosques and colonial-era buildings alike."
+        },
+        {
+          "phrase": "heritage advisory board",
+          "zh": "文物諮詢委員會",
+          "sample": "The heritage advisory board reviewed the site before recommending it for protection."
+        },
+        {
+          "phrase": "statutory protection",
+          "zh": "法定保護",
+          "sample": "Statutory protection prevents the owner from demolishing or altering the building freely."
+        },
+        {
+          "phrase": "public access arrangement",
+          "zh": "公眾參觀安排",
+          "sample": "Officials are finalising a public access arrangement that will not disrupt prison operations."
+        },
+        {
+          "phrase": "place of worship",
+          "zh": "宗教場所",
+          "sample": "The city's oldest places of worship often double as community gathering spaces."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "elevate a site's protection without guaranteeing public access",
+          "zh": "提升地點保護級別卻未保證公眾可進入",
+          "sample": "Critics note the declaration can elevate a site's protection without guaranteeing public access."
+        },
+        {
+          "en": "recognise heritage that spans more than one faith",
+          "zh": "肯定跨越不止一個信仰的文物價值",
+          "sample": "The joint declaration helps recognise heritage that spans more than one faith in the city."
+        },
+        {
+          "en": "balance security concerns against public interest",
+          "zh": "在保安顧慮與公眾利益之間取得平衡",
+          "sample": "Authorities must balance security concerns against public interest when opening a working prison site."
+        },
+        {
+          "en": "preserve a structure's original form through minimal intervention",
+          "zh": "以最少改動保存建築原有面貌",
+          "sample": "Conservators aimed to preserve the mosque's original form through minimal intervention."
+        },
+        {
+          "en": "treat protection on paper as only a first step",
+          "zh": "將紙面上的保護僅視為第一步",
+          "sample": "Heritage groups treat protection on paper as only a first step toward genuine conservation."
+        },
+        {
+          "en": "safeguard a site against future demolition pressure",
+          "zh": "保障地點不受日後拆卸壓力影響",
+          "sample": "Monument status helps safeguard a site against future demolition pressure from developers."
+        },
+        {
+          "en": "restore a deteriorating feature before it is lost for good",
+          "zh": "在特徵徹底消失前加以修復",
+          "sample": "Funding was pledged to restore the deteriorating rooftop feature before it was lost for good."
+        },
+        {
+          "en": "reflect a community's lived religious history",
+          "zh": "反映社群的宗教生活歷史",
+          "sample": "The temple's rituals reflect a community's lived religious history stretching back generations."
+        },
+        {
+          "en": "complicate access by sitting inside a secure compound",
+          "zh": "因座落於戒備森嚴的範圍而令參觀變得複雜",
+          "sample": "The mosque's location complicates access by sitting inside a secure prison compound."
+        },
+        {
+          "en": "mark a rare moment of shared recognition across communities",
+          "zh": "標誌著跨社群罕有獲得共同肯定的時刻",
+          "sample": "Advocates called the dual listing a rare moment of shared recognition across communities."
+        },
+        {
+          "en": "test whether conservation policy keeps pace with ageing structures",
+          "zh": "考驗保育政策能否追上建築老化的步伐",
+          "sample": "The repair pledge will test whether conservation policy keeps pace with ageing structures citywide."
         }
       ]
     },
     {
       "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/society/article/3369830/bid-turn-14-subsidised-sale-flats-subdivided-homes-raises-abuse-concerns",
-      "published_date": "5 October 2026",
-      "headline": "Bid to Turn Subsidised Flats into Subdivided Units Sparks Abuse Fears",
-      "category": "urban",
-      "summary_html": "<p>Hong Kong's drive to stamp out <span class=\"bw\">substandard housing<span class=\"tip\"><span class=\"tip-en\">living accommodation that fails to meet basic safety, size or hygiene standards</span><span class=\"tip-zh\">不合標準的住房</span></span></span> hit an unexpected snag this week when the Housing Bureau revealed that owners of fourteen subsidised sale flats, originally allocated under schemes meant to help low-income families onto the property ladder, had applied to convert their units into legally registered subdivided homes. The disclosure, made at a Legislative Council housing panel, has raised concerns that a policy designed to <span class=\"bw\">weed out<span class=\"tip\"><span class=\"tip-en\">to identify and remove something unwanted from a larger group</span><span class=\"tip-zh\">清除</span></span></span> dangerous \"shoebox\" rentals may inadvertently be legitimising arrangements that were never meant to generate rental income in the first place.</p><p>Lawmaker Mark Chong Ho-fung argued that flats sold under the Home Ownership Scheme amount to a form of <span class=\"bw\">social welfare provision<span class=\"tip\"><span class=\"tip-en\">a benefit or form of support provided by the government to help people in need</span><span class=\"tip-zh\">社會福利安排</span></span></span> and should never be treated as an <span class=\"bw\">income-generating asset<span class=\"tip\"><span class=\"tip-en\">property or possession kept mainly for the money it can earn</span><span class=\"tip-zh\">可產生收入的資產</span></span></span>, let alone one subdivided and let to tenants. Housing Secretary Winnie Ho acknowledged the tension, confirming that leasing a subsidised flat before the <span class=\"bw\">land premium<span class=\"tip\"><span class=\"tip-en\">the extra sum an owner must pay the government to remove resale restrictions on a subsidised flat</span><span class=\"tip-zh\">地價</span></span></span> has been paid remains unlawful regardless of whether the unit has since been subdivided. Officials are nonetheless <span class=\"bw\">treading a fine line<span class=\"tip\"><span class=\"tip-en\">trying carefully to balance two conflicting concerns or interests</span><span class=\"tip-zh\">走在微妙的分界線上</span></span></span>: refusing the applications outright could leave existing subdivided tenants, many of whom are themselves low-income, suddenly without a home.</p><p>Housing advocates warn the episode exposes a <span class=\"bw\">regulatory blind spot<span class=\"tip\"><span class=\"tip-en\">a gap in a system of rules that nobody anticipated or planned for</span><span class=\"tip-zh\">監管盲點</span></span></span> that the new subdivided-flat regime failed to anticipate, and that allowing even a handful of exemptions could set an <span class=\"bw\">unwelcome precedent<span class=\"tip\"><span class=\"tip-en\">an earlier decision that may be used, unhelpfully, to justify similar actions in future</span><span class=\"tip-zh\">不良先例</span></span></span> for other owners hoping to skirt the premium requirement. Others counter that punishing tenants for their landlords' <span class=\"bw\">non-compliance<span class=\"tip\"><span class=\"tip-en\">failure to follow a rule, law or regulation</span><span class=\"tip-zh\">違規</span></span></span> would be unduly harsh given the city's acute shortage of affordable rentals. With the grace period still under review, the case has become an uncomfortable test of whether Hong Kong's housing policy can protect both the integrity of public subsidies and the welfare of its most vulnerable renters.</p>",
-      "summary_zh_html": "<p>香港致力打擊<span class=\"bwz\">不合標準的住房</span>的行動，本周遇上意料之外的波折：房屋局披露，十四個原本根據資助計劃批予低收入家庭、助其踏上置業階梯的資助出售單位業主，申請將其單位登記為合法的分間單位。這項在立法會房屋事務委員會會議上披露的消息，令人擔心一項旨在<span class=\"bwz\">清除</span>危險「㓥房」租賃的政策，可能會意外地令一些本不應用作出租賺取收入的安排變得合法化。</p><p>議員莊豪峰認為，在資助出售房屋計劃下售出的單位屬於一種<span class=\"bwz\">社會福利安排</span>，絕不應被視為<span class=\"bwz\">可產生收入的資產</span>，更不應被分間出租。房屋及規劃地政司何永賢承認當中存在張力，並確認在未繳付<span class=\"bwz\">地價</span>前出租資助單位仍屬違法，不論該單位事後是否已被分間。然而，官員正<span class=\"bwz\">走在微妙的分界線上</span>：若全面拒絕有關申請，可能令現有的分間單位租戶（當中許多本身亦是低收入人士）突然無家可歸。</p><p>房屋權益倡議人士警告，此事暴露出新分間單位制度未能預見的<span class=\"bwz\">監管盲點</span>，而即使只容許極少數豁免，亦可能為其他試圖逃避繳付地價的業主開創<span class=\"bwz\">不良先例</span>。另有意見認為，考慮到本港可負擔租盤嚴重短缺，若因業主<span class=\"bwz\">違規</span>而懲罰租戶，未免過於嚴苛。隨着寬限期的安排仍在檢討當中，此案已成為一次令人尷尬的考驗，考驗香港的房屋政策能否同時保障公共資助的完整性，以及照顧最脆弱租戶的福祉。</p>",
-      "cover_text": {
-        "zh_kicker": "資助屋風波",
-        "zh_title": [
-          "14戶申請",
-          "劃分出租"
-        ],
-        "zh_hl": "14",
-        "zh_sub": "房屋局：出租前須先補地價",
-        "en": "Owners of subsidised flats seek to legalise subdivided rentals"
-      },
-      "vocab": [
-        {
-          "phrase": "partitioned unit",
-          "zh": "分隔單位",
-          "sample": "Inspectors found the partitioned unit far smaller than the registered floor plan suggested."
-        },
-        {
-          "phrase": "Home Ownership Scheme",
-          "zh": "居屋計劃",
-          "sample": "Her family waited nearly a decade before securing a flat under the Home Ownership Scheme."
-        },
-        {
-          "phrase": "compliance deadline",
-          "zh": "合規限期",
-          "sample": "Landlords who miss the compliance deadline risk having their subdivided units deregistered."
-        },
-        {
-          "phrase": "regulatory regime",
-          "zh": "監管制度",
-          "sample": "Under the new regulatory regime, every subdivided unit must be registered with the authorities."
-        },
-        {
-          "phrase": "affordable rental",
-          "zh": "可負擔租盤",
-          "sample": "Campaigners say the city urgently needs more affordable rental options for low-income tenants."
-        },
-        {
-          "phrase": "housing panel",
-          "zh": "房屋事務委員會",
-          "sample": "Lawmakers raised the issue at a housing panel meeting attended by senior officials."
-        },
-        {
-          "phrase": "property ladder",
-          "zh": "置業階梯",
-          "sample": "The scheme was designed to help young families climb onto the property ladder."
-        },
-        {
-          "phrase": "displacement risk",
-          "zh": "遷離風險",
-          "sample": "Social workers warned that abrupt enforcement could create a displacement risk for existing tenants."
-        },
-        {
-          "phrase": "public subsidy",
-          "zh": "公共資助",
-          "sample": "Officials stressed that public subsidy should never be converted into private rental profit."
-        },
-        {
-          "phrase": "resale restriction",
-          "zh": "轉售限制",
-          "sample": "The flat remains subject to a resale restriction until the land premium has been settled."
-        },
-        {
-          "phrase": "low-income household",
-          "zh": "低收入家庭",
-          "sample": "The scheme was never intended to generate rental profit for low-income households."
-        },
-        {
-          "phrase": "enforcement action",
-          "zh": "執法行動",
-          "sample": "Officials have so far held off on enforcement action while the policy gap is reviewed."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "exposes a regulatory blind spot",
-          "zh": "暴露了監管上的盲點",
-          "sample": "The case exposes a regulatory blind spot that lawmakers had not foreseen."
-        },
-        {
-          "en": "sets an unwelcome precedent",
-          "zh": "開創不良先例",
-          "sample": "Granting even one exemption could set an unwelcome precedent for other landlords."
-        },
-        {
-          "en": "walks a fine line between",
-          "zh": "在兩者之間走鋼線",
-          "sample": "Officials are walking a fine line between enforcing the rules and protecting tenants."
-        },
-        {
-          "en": "risks undermining public trust in",
-          "zh": "可能損害公眾對…的信任",
-          "sample": "Lax enforcement risks undermining public trust in the subsidised housing system."
-        },
-        {
-          "en": "a policy originally designed to",
-          "zh": "一項原意是為了…而設的政策",
-          "sample": "A policy originally designed to help the needy should not end up rewarding landlords."
-        },
-        {
-          "en": "leaves vulnerable tenants exposed",
-          "zh": "令脆弱的租戶陷於不利境況",
-          "sample": "Sudden enforcement leaves vulnerable tenants exposed to the risk of eviction."
-        },
-        {
-          "en": "raises uncomfortable questions about",
-          "zh": "引來關於…的尷尬問題",
-          "sample": "The episode raises uncomfortable questions about how the scheme is being policed."
-        },
-        {
-          "en": "ought not to be treated as",
-          "zh": "不應被視為",
-          "sample": "A subsidised flat ought not to be treated as a private investment asset."
-        },
-        {
-          "en": "the intention of the scheme was never to",
-          "zh": "計劃的原意從來不是為了",
-          "sample": "The intention of the scheme was never to let owners profit from subletting."
-        },
-        {
-          "en": "could inadvertently legitimise",
-          "zh": "可能無意中令…合法化",
-          "sample": "The grace period could inadvertently legitimise arrangements the law was meant to stop."
-        },
-        {
-          "en": "strikes at the heart of",
-          "zh": "直接觸及…的核心",
-          "sample": "The dispute strikes at the heart of what subsidised housing is supposed to achieve."
-        },
-        {
-          "en": "runs counter to the spirit of",
-          "zh": "與…的精神背道而馳",
-          "sample": "Subletting a subsidised flat runs counter to the spirit of the original scheme."
-        },
-        {
-          "en": "calls for a fundamental rethink of",
-          "zh": "促使人們從根本上重新思考",
-          "sample": "The controversy calls for a fundamental rethink of how exemptions are granted."
-        }
-      ]
-    },
-    {
-      "source_name": "HKFP",
-      "source_url": "https://hongkongfp.com/2026/10/07/hong-kong-police-open-child-abuse-probe-after-video-of-10-year-old-carrying-beer-goes-viral/",
-      "published_date": "7 October 2026",
-      "headline": "Viral Video of Child Carrying Beer Triggers Child Abuse Investigation",
-      "category": "social",
-      "summary_html": "<p>A short video clip showing a ten-year-old girl in Hong Kong carrying a crate of beer has triggered a <span class=\"bw\">child abuse investigation<span class=\"tip\"><span class=\"tip-en\">an official inquiry into whether a child has been mistreated or put at risk</span><span class=\"tip-zh\">虐待兒童調查</span></span></span>, after the footage spread rapidly across local social media platforms and drew an avalanche of public concern. The clip, whose origin remains unclear, appeared to show the girl struggling under the weight of the bottles in circumstances that many viewers found deeply troubling, prompting calls for the authorities to establish whether the child had been placed in a situation of <span class=\"bw\">parental neglect<span class=\"tip\"><span class=\"tip-en\">a failure by a parent or guardian to provide adequate care or supervision for a child</span><span class=\"tip-zh\">被疏忽照顧</span></span></span>.</p><p>Police confirmed that the case had been handed to a specialised child abuse unit, while social workers and teachers at the girl's school were separately drawn into efforts to assess her welfare, illustrating the kind of <span class=\"bw\">multi-agency response<span class=\"tip\"><span class=\"tip-en\">coordinated action taken by several different organisations working together</span><span class=\"tip-zh\">跨部門協作應對</span></span></span> now expected whenever a child's safety is called into question online. Some commentators, however, criticised the <span class=\"bw\">bystander mentality<span class=\"tip\"><span class=\"tip-en\">the tendency to watch and record a troubling situation rather than intervene to help</span><span class=\"tip-zh\">旁觀者心態</span></span></span> evident in the episode, noting that whoever filmed the clip chose to record and circulate the footage rather than step in directly. Others cautioned against rushing to judgement, pointing out that a single clip, stripped of context, may not accurately capture the family's <span class=\"bw\">underlying circumstances<span class=\"tip\"><span class=\"tip-en\">the deeper situation or conditions behind an event, not immediately visible</span><span class=\"tip-zh\">實際處境</span></span></span>.</p><p>The episode has reopened debate over the <span class=\"bw\">ethical cost<span class=\"tip\"><span class=\"tip-en\">the moral harm or wrongdoing involved in an action, even if it brings some benefit</span><span class=\"tip-zh\">道德代價</span></span></span> of filming vulnerable children for online attention, with child welfare groups arguing that virality should never take precedence over a minor's <span class=\"bw\">right to privacy<span class=\"tip\"><span class=\"tip-en\">a person's entitlement to keep their personal life free from unwanted public exposure</span><span class=\"tip-zh\">私隱權</span></span></span>. It has also renewed scrutiny of how swiftly disturbing footage can achieve <span class=\"bw\">mass circulation<span class=\"tip\"><span class=\"tip-en\">rapid, widespread sharing of content to a very large audience</span><span class=\"tip-zh\">大規模傳播</span></span></span> before any official verification takes place. Whatever the investigation concludes, the case has already become a cautionary tale about the unintended consequences of turning a child's private struggle into public spectacle.</p>",
-      "summary_zh_html": "<p>一段顯示一名十歲女童在香港搬抬一箱啤酒的短片，引發一項<span class=\"bwz\">虐待兒童調查</span>，事因片段在本地社交媒體平台迅速流傳，並引起公眾強烈關注。片段來源仍不清楚，畫面似乎顯示該女童在搬抬沉重酒瓶時顯得吃力，情況令不少觀看者深感不安，促使有人呼籲當局查明該名兒童是否處於<span class=\"bwz\">被疏忽照顧</span>的狀況。</p><p>警方確認案件已轉交專責處理虐待兒童個案的部門，而該女童所屬學校的社工及老師亦分別介入，評估她的福祉狀況，反映出每當兒童在網上的安全受到質疑時，現時社會普遍期望出現的<span class=\"bwz\">跨部門協作應對</span>。然而，部分評論人士批評事件中明顯存在的<span class=\"bwz\">旁觀者心態</span>，指出拍攝片段的人選擇錄影及轉發，而非直接介入協助。另有意見則提醒不應倉促下判斷，指出一段脫離背景的片段，未必能準確反映該家庭的<span class=\"bwz\">實際處境</span>。</p><p>事件重新引發公眾討論：為網上關注而拍攝脆弱兒童，須付出怎樣的<span class=\"bwz\">道德代價</span>，兒童福利團體認為，內容是否「爆紅」絕不應凌駕於未成年人的<span class=\"bwz\">私隱權</span>之上。事件亦令人再次關注令人不安的片段能夠在未經官方核實前，已迅速達到<span class=\"bwz\">大規模傳播</span>的程度。無論調查結果如何，此案已成為一則警世故事，提醒大眾將兒童的私人困境變成公眾奇觀，可能帶來意想不到的後果。</p>",
-      "cover_text": {
-        "zh_kicker": "女童啤酒",
-        "zh_title": [
-          "搬啤酒片",
-          "瘋傳惹查"
-        ],
-        "zh_hl": "瘋傳",
-        "zh_sub": "警方介入兒童福利調查",
-        "en": "Viral clip of girl carrying beer sparks abuse probe"
-      },
-      "vocab": [
-        {
-          "phrase": "spread like wildfire",
-          "zh": "迅速擴散",
-          "sample": "The clip spread like wildfire across local group chats within a single afternoon."
-        },
-        {
-          "phrase": "child welfare",
-          "zh": "兒童福利",
-          "sample": "Social workers were called in to assess the child's welfare after the video surfaced."
-        },
-        {
-          "phrase": "bystander effect",
-          "zh": "旁觀者效應",
-          "sample": "Psychologists say the bystander effect may explain why no one intervened at the scene."
-        },
-        {
-          "phrase": "online backlash",
-          "zh": "網上強烈反對聲音",
-          "sample": "The family faced an online backlash within hours of the footage being shared."
-        },
-        {
-          "phrase": "duty of care",
-          "zh": "照顧責任",
-          "sample": "Adults nearby are generally expected to exercise a duty of care towards unattended children."
-        },
-        {
-          "phrase": "privacy violation",
-          "zh": "侵犯私隱",
-          "sample": "Critics called the unauthorised filming a clear privacy violation against a minor."
-        },
-        {
-          "phrase": "public scrutiny",
-          "zh": "公眾審視",
-          "sample": "The family has been placed under intense public scrutiny since the clip emerged."
-        },
-        {
-          "phrase": "unverified footage",
-          "zh": "未經核實的片段",
-          "sample": "Commentators warned against drawing conclusions from unverified footage circulating online."
-        },
-        {
-          "phrase": "moral panic",
-          "zh": "道德恐慌",
-          "sample": "Some sociologists describe the intense reaction online as a form of moral panic."
-        },
-        {
-          "phrase": "viral content culture",
-          "zh": "病毒式內容文化",
-          "sample": "Viral content culture often rewards shock value over context or accuracy."
-        },
-        {
-          "phrase": "safeguarding measures",
-          "zh": "保障措施",
-          "sample": "Schools are reviewing their safeguarding measures in light of the incident."
-        },
-        {
-          "phrase": "child protection unit",
-          "zh": "保護兒童組",
-          "sample": "The case was handed over to the force's child protection unit for further investigation."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "triggered a wave of public concern",
-          "zh": "引發一連串公眾關注",
-          "sample": "The footage triggered a wave of public concern within hours of being posted."
-        },
-        {
-          "en": "raises troubling questions about",
-          "zh": "引來令人不安的疑問",
-          "sample": "The incident raises troubling questions about who is responsible for the child's safety."
-        },
-        {
-          "en": "before any official verification takes place",
-          "zh": "在任何官方核實之前",
-          "sample": "Rumours spread widely before any official verification takes place."
-        },
-        {
-          "en": "ought to take precedence over",
-          "zh": "應該凌駕於…之上",
-          "sample": "A child's wellbeing ought to take precedence over the pursuit of online attention."
-        },
-        {
-          "en": "a cautionary tale about",
-          "zh": "一則關於…的警世故事",
-          "sample": "The episode has become a cautionary tale about filming vulnerable people without consent."
-        },
-        {
-          "en": "stripped of context",
-          "zh": "脫離背景",
-          "sample": "A clip stripped of context can easily mislead viewers about what really happened."
-        },
-        {
-          "en": "reflects a wider pattern of",
-          "zh": "反映出更廣泛的…模式",
-          "sample": "The case reflects a wider pattern of bystanders filming rather than intervening."
-        },
-        {
-          "en": "rushing to judgement",
-          "zh": "倉促下判斷",
-          "sample": "Commentators warned against rushing to judgement before the facts were established."
-        },
-        {
-          "en": "the unintended consequences of",
-          "zh": "…的意想不到後果",
-          "sample": "The case illustrates the unintended consequences of sharing a child's image online."
-        },
-        {
-          "en": "reopened debate over",
-          "zh": "重新引發關於…的辯論",
-          "sample": "The video has reopened debate over how platforms should handle content involving minors."
-        },
-        {
-          "en": "institutions are left to react after the fact",
-          "zh": "機構往往只能事後應對",
-          "sample": "Without early warning systems, institutions are left to react after the fact."
-        },
-        {
-          "en": "a single clip cannot capture",
-          "zh": "單一片段無法呈現",
-          "sample": "A single clip cannot capture the full circumstances behind a family's struggles."
-        },
-        {
-          "en": "turns private struggle into public spectacle",
-          "zh": "把私人困境變成公眾奇觀",
-          "sample": "Sharing the footage turns a private struggle into public spectacle for strangers to judge."
-        },
-        {
-          "en": "demands a more measured response",
-          "zh": "需要更審慎的應對",
-          "sample": "A case like this demands a more measured response than instant online outrage."
-        }
-      ]
-    },
-    {
-      "source_name": "HK01",
-      "source_url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60347438/%E8%A8%B1%E5%BF%97%E5%AE%89%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+      "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370211/hong-kong-students-arrested-alleged-core-members-hk216m-fraud-syndicate",
       "published_date": "8 October 2026",
-      "headline": "Andy Hui Returns to the Coliseum After 11 Years as 'On Stage' Opens Tonight",
-      "category": "pop",
-      "summary_html": "<p>Veteran Cantopop singer Andy Hui takes to the stage at the Hong Kong Coliseum tonight for the first night of his three-show \"On Stage\" concert series, marking his first <span class=\"bw\">headline run<span class=\"tip\"><span class=\"tip-en\">a series of shows in which a performer is the main, top-billed act</span><span class=\"tip-zh\">掛頭牌演出</span></span></span> at the venue in eleven years and coinciding with the <span class=\"bw\">fortieth anniversary<span class=\"tip\"><span class=\"tip-en\">the fortieth year since an event or career began</span><span class=\"tip-zh\">四十周年</span></span></span> of his entry into the entertainment industry. For a performer whose career has weathered very public ups and downs, the booking represents something of a <span class=\"bw\">career milestone<span class=\"tip\"><span class=\"tip-en\">an important achievement or stage marking progress in someone's professional life</span><span class=\"tip-zh\">事業里程碑</span></span></span>, returning him to a 12,000-seat arena long regarded by Cantopop artists as the ultimate <span class=\"bw\">proving ground<span class=\"tip\"><span class=\"tip-en\">a setting in which someone's true ability is tested and demonstrated</span><span class=\"tip-zh\">試煉場</span></span></span>.</p><p>Public demand for tickets proved <span class=\"bw\">overwhelming<span class=\"tip\"><span class=\"tip-en\">so great in scale that it is difficult to cope with or resist</span><span class=\"tip-zh\">異常熾熱</span></span></span>: roughly 6,700 seats across the three nights sold out within about ninety minutes of general release, after an earlier priority sale had cleared almost as quickly. Organisers say the show will blend Hui's best-known ballads with lesser-performed tracks chosen to reflect the full <span class=\"bw\">arc of his career<span class=\"tip\"><span class=\"tip-en\">the overall shape or path of someone's professional life, from beginning to the present</span><span class=\"tip-zh\">完整的音樂歷程</span></span></span>, rather than simply replaying his greatest hits. For longtime fans, the run offers a rare chance to see a performer closely associated with the <span class=\"bw\">golden age of Cantopop<span class=\"tip\"><span class=\"tip-en\">the period widely seen as the most successful and influential era of Cantonese pop music</span><span class=\"tip-zh\">粵語流行曲黃金年代</span></span></span> on home turf, rather than at smaller venues abroad.</p><p>Industry observers note that Hui's sold-out run fits a broader pattern in which veteran singers, rather than newer idols, continue to <span class=\"bw\">command the biggest stages<span class=\"tip\"><span class=\"tip-en\">to be the performers most able to fill the largest, most prestigious venues</span><span class=\"tip-zh\">稱霸最大舞台</span></span></span> in Hong Kong, reflecting both enduring <span class=\"bw\">nostalgia<span class=\"tip\"><span class=\"tip-en\">a sentimental longing for the past, especially a period one associates with happiness</span><span class=\"tip-zh\">懷舊情懷</span></span></span> among older audiences and younger fans' growing curiosity about the genre's history. Whether this signals a genuine Cantopop <span class=\"bw\">resurgence<span class=\"tip\"><span class=\"tip-en\">a renewed growth or popularity of something after a period of decline</span><span class=\"tip-zh\">復興</span></span></span> or simply the loyalty of a devoted fan base remains open to debate, but for three nights at least, the Coliseum belongs once again to a performer who has spent four decades building toward this return.</p>",
-      "summary_zh_html": "<p>資深粵語流行歌手許志安今晚在香港體育館展開為期三場的「ON STAGE」演唱會首場演出，標誌着他相隔十一年後首次在此重返<span class=\"bwz\">掛頭牌演出</span>，同時恰逢他入行<span class=\"bwz\">四十周年</span>。對於一位事業歷盡公眾起跌的藝人而言，這次演出可說是一個<span class=\"bwz\">事業里程碑</span>，讓他重返這個長久以來被粵語歌手視為終極<span class=\"bwz\">試煉場</span>的一萬二千座位場館。</p><p>門票需求<span class=\"bwz\">異常熾熱</span>：三場演出合共約六千七百個座位，在公開發售後約九十分鐘內全部售罄，而較早前的優先發售亦幾乎同樣迅速清空。主辦單位表示，演出將糅合許志安最為人熟悉的抒情金曲，以及數首較少演出的作品，藉以呈現他<span class=\"bwz\">完整的音樂歷程</span>，而非單純重播昔日的熱門金曲。對資深歌迷而言，這次體育館演出是難得機會，可在本地（而非海外較小型場館）欣賞這位與<span class=\"bwz\">粵語流行曲黃金年代</span>緊密相連的歌手演出。</p><p>業內人士指出，許志安這次全場爆滿的演出，反映出一個更廣泛的現象：在香港，繼續能夠<span class=\"bwz\">稱霸最大舞台</span>的往往是資深歌手，而非新晉偶像，這既反映出年長觀眾中持續存在的<span class=\"bwz\">懷舊情懷</span>，亦反映年輕歌迷對這個音樂類型歷史日漸增長的好奇心。這是否標誌着粵語流行曲真正的<span class=\"bwz\">復興</span>，還是純粹反映一班忠實歌迷的支持，仍有待商榷；但至少在這三個晚上，香港體育館再次屬於這位花了四十年時間、一步步走到今天這場回歸演出的歌手。</p>",
+      "headline": "Hong Kong Students Arrested as Alleged Core Members of HK$2.16m Fraud Syndicate",
+      "category": "law",
+      "summary_html": "<p>Hong Kong police said on Thursday that they had arrested ten people, including a student couple described as <span class=\"bw\">suspected core members<span class=\"tip\"><span class=\"tip-en\">the individuals believed to play the most central or important role in an organised group</span><span class=\"tip-zh\">疑似核心成員</span></span></span>, over a fraud and <span class=\"bw\">money laundering<span class=\"tip\"><span class=\"tip-en\">the process of disguising the origins of illegally obtained money so it appears legitimate</span><span class=\"tip-zh\">洗黑錢</span></span></span> syndicate that swindled victims out of more than HK$2.1 million. The man and woman, who study at different tertiary institutions, allegedly helped run an operation that posted fake modelling-job advertisements on social media between October 2024 and this May.</p><p>According to police, jobseekers lured by the adverts were tricked into registering <span class=\"bw\">e-wallet accounts<span class=\"tip\"><span class=\"tip-en\">digital accounts used to store money and make electronic payments</span><span class=\"tip-zh\">電子錢包賬戶</span></span></span> using phone numbers supplied by the syndicate; these were then turned into <span class=\"bw\">puppet accounts<span class=\"tip\"><span class=\"tip-en\">accounts controlled by someone other than the registered holder, used to move money while hiding its true source</span><span class=\"tip-zh\">傀儡賬戶</span></span></span> that received funds from separate scams. The operation covered forty-three victims, roughly sixty per cent of whom were students who had fallen for <span class=\"bw\">shopping scams<span class=\"tip\"><span class=\"tip-en\">fraudulent schemes that deceive buyers into paying for goods, such as concert tickets, that are never delivered</span><span class=\"tip-zh\">網購騙案</span></span></span>, including some offered discounted concert tickets. Police said the proceeds were then spent at tertiary institution canteens, luxury massage parlours and clinics, disguising illicit funds as everyday spending.</p><p>All ten suspects face charges of <span class=\"bw\">conspiracy to defraud<span class=\"tip\"><span class=\"tip-en\">an agreement between two or more people to commit fraud together</span><span class=\"tip-zh\">串謀詐騙</span></span></span> and money laundering. The case has renewed concern among universities and parents that students are increasingly <span class=\"bw\">recruited as intermediaries<span class=\"tip\"><span class=\"tip-en\">persuaded or hired to act as a go-between, often without fully grasping the criminal nature of the role</span><span class=\"tip-zh\">被招攬作為中介人</span></span></span> in scam networks, sometimes without realising the seriousness of their involvement, prompting police to repeat warnings about job advertisements that promise easy money for minimal work.</p>",
+      "summary_zh_html": "<p>警方周四表示，已拘捕十人，涉及一個詐騙及<span class=\"bwz\">洗黑錢</span>集團，該集團涉嫌騙取受害人合共逾二百一十萬港元，當中包括一對被形容為<span class=\"bwz\">疑似核心成員</span>的大學生情侶。這名男子及女子分別就讀於不同的專上院校，涉嫌協助經營一個在二零二四年十月至今年五月期間，於社交媒體刊登虛假模特兒招聘廣告的集團。</p><p>警方指出，受騙的求職者被誘使使用集團提供的電話號碼登記<span class=\"bwz\">電子錢包賬戶</span>，該些帳戶之後被轉為<span class=\"bwz\">傀儡賬戶</span>，用以接收其他騙案的款項。此次行動涉及四十三名受害人，當中約六成為墮入<span class=\"bwz\">網購騙案</span>的學生，部分人更曾獲提供優惠演唱會門票。警方表示，犯罪得益隨後被用於專上院校飯堂、豪華按摩院及診所的日常消費，藉此將不法資金偽裝成一般開支。</p><p>十名疑犯全部面對<span class=\"bwz\">串謀詐騙</span>及洗黑錢罪名。此案再次引起大學及家長關注，擔心學生愈來愈容易<span class=\"bwz\">被招攬作為中介人</span>，捲入詐騙網絡，有時甚至未意識到自己參與行為的嚴重性，警方因而重申，會留意聲稱輕鬆賺快錢的招聘廣告。</p>",
+      "image_scene": "A dim interview room inside a Hong Kong police station at night, an anonymous plain-clothes officer seated across a table from two young people whose backs are turned to the camera, a laptop and stack of case files on the table, a Hong Kong Police Force badge visible only as a blurred shape on a distant wall.",
       "cover_text": {
-        "zh_kicker": "許志安",
+        "zh_kicker": "學生詐騙案",
         "zh_title": [
-          "11年後",
-          "重返紅館"
+          "情侶涉騙",
+          "逾216萬"
         ],
-        "zh_hl": "11年",
-        "zh_sub": "三場騷門票秒速售罄",
-        "en": "Andy Hui returns to the Coliseum after eleven years"
+        "zh_hl": "216萬",
+        "zh_sub": "十人涉洗黑錢被捕",
+        "en": "Student couple among 10 arrested in HK$2.16 million fraud ring"
       },
       "vocab": [
         {
-          "phrase": "headline concert",
-          "zh": "掛頭牌演出",
-          "sample": "Her headline concert at the Coliseum sold out within a single afternoon."
+          "phrase": "core member",
+          "zh": "核心成員",
+          "sample": "Police believe the two students were core members rather than minor accomplices."
         },
         {
-          "phrase": "ticket sellout",
-          "zh": "門票售罄",
-          "sample": "The ticket sellout came as little surprise given the singer's loyal following."
+          "phrase": "money laundering",
+          "zh": "洗黑錢",
+          "sample": "Moving stolen funds through everyday purchases is a common money laundering tactic."
         },
         {
-          "phrase": "priority sale",
-          "zh": "優先發售",
-          "sample": "Credit card holders could access the priority sale three days before the public went on sale."
+          "phrase": "e-wallet account",
+          "zh": "電子錢包賬戶",
+          "sample": "Victims were tricked into opening an e-wallet account under the syndicate's instructions."
         },
         {
-          "phrase": "greatest hits",
-          "zh": "經典金曲",
-          "sample": "The setlist leaned heavily on greatest hits familiar to fans from decades ago."
+          "phrase": "puppet account",
+          "zh": "傀儡賬戶",
+          "sample": "The puppet account was used to receive money from several unrelated scams."
         },
         {
-          "phrase": "career retrospective",
-          "zh": "事業回顧",
-          "sample": "The concert doubled as a career retrospective spanning four decades in the industry."
+          "phrase": "conspiracy to defraud",
+          "zh": "串謀詐騙",
+          "sample": "All ten suspects were charged with conspiracy to defraud and money laundering."
         },
         {
-          "phrase": "veteran performer",
-          "zh": "資深藝人",
-          "sample": "As a veteran performer, he commanded the stage with practised ease."
+          "phrase": "shopping scam",
+          "zh": "網購騙案",
+          "sample": "Many students fell for a shopping scam that promised discounted concert tickets."
         },
         {
-          "phrase": "box-office draw",
-          "zh": "票房吸引力",
-          "sample": "Few veteran singers remain as reliable a box-office draw at the Coliseum as he does."
+          "phrase": "fake job advertisement",
+          "zh": "虛假招聘廣告",
+          "sample": "The syndicate recruited new victims through a fake job advertisement posted online."
         },
         {
-          "phrase": "live audience",
-          "zh": "現場觀眾",
-          "sample": "The live audience sang along to every chorus throughout the night."
+          "phrase": "intermediary",
+          "zh": "中介人",
+          "sample": "The couple acted as an intermediary between the scammers and the puppet account holders."
         },
         {
-          "phrase": "comeback show",
-          "zh": "復出演出",
-          "sample": "Critics praised the comeback show for striking a careful balance between nostalgia and freshness."
+          "phrase": "illicit proceeds",
+          "zh": "不法得益",
+          "sample": "Illicit proceeds were spent at canteens and clinics to avoid detection."
         },
         {
-          "phrase": "music industry milestone",
-          "zh": "樂壇里程碑",
-          "sample": "Reaching forty years in the business is widely seen as a music industry milestone."
+          "phrase": "disguise as everyday spending",
+          "zh": "偽裝成日常消費",
+          "sample": "Investigators traced funds disguised as everyday spending across several accounts."
         },
         {
-          "phrase": "stage presence",
-          "zh": "台風",
-          "sample": "Even after a decade away from the venue, his stage presence remained undiminished."
+          "phrase": "jobseeker",
+          "zh": "求職者",
+          "sample": "The syndicate specifically targeted young jobseekers browsing social media listings."
         },
         {
-          "phrase": "nostalgic appeal",
-          "zh": "懷舊吸引力",
-          "sample": "Part of the show's nostalgic appeal lies in songs that defined an entire generation."
+          "phrase": "recruitment network",
+          "zh": "招募網絡",
+          "sample": "Police are trying to dismantle the wider recruitment network behind the scam."
         }
       ],
       "phrases": [
         {
-          "en": "represents something of a career milestone",
-          "zh": "可說是一個事業里程碑",
-          "sample": "For a performer his age, the sold-out run represents something of a career milestone."
+          "en": "blur the line between victim and accomplice",
+          "zh": "模糊受害人與從犯之間的界線",
+          "sample": "The case continues to blur the line between victim and accomplice for some of the students involved."
         },
         {
-          "en": "fits a broader pattern in which",
-          "zh": "符合一個更廣泛的現象，即",
-          "sample": "The show fits a broader pattern in which veteran singers dominate the biggest venues."
+          "en": "dangle easy money to lure the financially naive",
+          "zh": "以輕鬆賺錢引誘不懂理財的人",
+          "sample": "Scammers dangle easy money to lure the financially naive into opening accounts for them."
         },
         {
-          "en": "command the biggest stages",
-          "zh": "稱霸最大舞台",
-          "sample": "It is striking that older singers still command the biggest stages in the city."
+          "en": "launder ill-gotten gains through mundane transactions",
+          "zh": "透過日常交易洗走不法所得",
+          "sample": "The syndicate laundered ill-gotten gains through mundane transactions at local shops."
         },
         {
-          "en": "remains open to debate",
-          "zh": "仍有待商榷",
-          "sample": "Whether this marks a genuine revival remains open to debate among critics."
+          "en": "exploit the trust placed in campus communities",
+          "zh": "利用校園社群之間的信任",
+          "sample": "Fraudsters increasingly exploit the trust placed in campus communities to find recruits."
         },
         {
-          "en": "offers a rare chance to",
-          "zh": "提供一個難得的機會去",
-          "sample": "The concert offers a rare chance to hear songs rarely performed live."
+          "en": "draw a once-ordinary student into organised crime",
+          "zh": "將原本平凡的學生捲入有組織罪行",
+          "sample": "A single advertisement was enough to draw a once-ordinary student into organised crime."
         },
         {
-          "en": "closely associated with",
-          "zh": "與…緊密相連",
-          "sample": "The singer remains closely associated with an era many fans still long for."
+          "en": "underestimate the legal weight of a minor role",
+          "zh": "低估次要角色所須承擔的法律責任",
+          "sample": "Many young recruits underestimate the legal weight of a seemingly minor role."
         },
         {
-          "en": "proved overwhelming",
-          "zh": "證實異常熾熱",
-          "sample": "Demand for the priority sale proved overwhelming within minutes."
+          "en": "chip away at trust in online job postings",
+          "zh": "逐漸削弱公眾對網上招聘的信任",
+          "sample": "Repeated scams chip away at trust in online job postings among young jobseekers."
         },
         {
-          "en": "building toward this return",
-          "zh": "一步步走到這次回歸",
-          "sample": "Fans say he has spent years building toward this long-awaited return."
+          "en": "mask a criminal network behind an ordinary storefront",
+          "zh": "以普通店舖掩飾犯罪網絡",
+          "sample": "Investigators say the gang masked a criminal network behind an ordinary storefront."
         },
         {
-          "en": "weathered very public ups and downs",
-          "zh": "經歷了十分公開的起跌",
-          "sample": "The singer has weathered very public ups and downs over his long career."
+          "en": "widen the dragnet beyond the original suspects",
+          "zh": "將搜查範圍擴展至原有疑犯以外",
+          "sample": "Police are expected to widen the dragnet beyond the original suspects in the coming weeks."
         },
         {
-          "en": "the ultimate proving ground",
-          "zh": "終極試煉場",
-          "sample": "For local performers, the Coliseum remains the ultimate proving ground."
+          "en": "treat a tempting advertisement with due suspicion",
+          "zh": "對吸引的招聘廣告保持應有懷疑",
+          "sample": "Universities are urging students to treat a tempting advertisement with due suspicion."
         },
         {
-          "en": "signals a genuine resurgence",
-          "zh": "標誌着真正的復興",
-          "sample": "Some critics doubt whether one sold-out show signals a genuine resurgence of the genre."
+          "en": "leave financial and reputational damage in its wake",
+          "zh": "留下財務及名譽上的損害",
+          "sample": "The scam left financial and reputational damage in its wake for dozens of families."
         },
         {
-          "en": "a devoted fan base",
-          "zh": "忠實歌迷群",
-          "sample": "A devoted fan base kept ticket demand high despite the singer's long absence."
+          "en": "test how far campus outreach can curb fraud",
+          "zh": "考驗校園宣傳在遏止詐騙上的成效",
+          "sample": "This case will test how far campus outreach can curb fraud among students."
+        }
+      ]
+    },
+    {
+      "source_name": "SCMP",
+      "source_url": "https://www.scmp.com/news/hong-kong/education/article/3369662/hong-kong-public-universities-non-local-fees-jump-26-quota-expands",
+      "published_date": "4 October 2026",
+      "headline": "Hong Kong Public Universities' Non-Local Fees Jump by Up to 26% as Quota Expands",
+      "category": "school",
+      "summary_html": "<p>Hong Kong's public universities are raising tuition fees for <span class=\"bw\">non-local undergraduates<span class=\"tip\"><span class=\"tip-en\">university students who are not permanent residents of the city where they are studying</span><span class=\"tip-zh\">非本地本科生</span></span></span> by up to 26 per cent for the 2027-28 academic year, even as the government keeps expanding the <span class=\"bw\">non-local student quota<span class=\"tip\"><span class=\"tip-en\">the maximum proportion of places at a public university that may be filled by students from outside the city</span><span class=\"tip-zh\">非本地生限額</span></span></span>. Seven of the eight public universities have published new rates, with an average rise of 17 per cent; the University of Hong Kong's medicine and dentistry programmes face the steepest jump, with annual fees rising 137 per cent to HK$590,000.</p><p>City University and Baptist University both raised fees by 26 per cent to HK$240,000 a year, while HKUST and PolyU announced increases of 21 and 20 per cent respectively. Taken together with previous rounds, the 2027-28 rates represent a <span class=\"bw\">cumulative rise<span class=\"tip\"><span class=\"tip-en\">the total increase built up over several separate steps, rather than from a single change</span><span class=\"tip-zh\">累積升幅</span></span></span> of 41 per cent since 2023-24. Universities cite rising teaching costs and <span class=\"bw\">international benchmarking<span class=\"tip\"><span class=\"tip-en\">comparing fees or standards against similar institutions overseas to judge whether they are competitive</span><span class=\"tip-zh\">與國際院校水平比較</span></span></span> to justify the increases, while stressing that Hong Kong fees remain below those of top overseas rivals.</p><p>The fee rise comes as the non-local quota has climbed from 20 to 50 per cent of local undergraduate places since 2023, with intake reaching 27.1 per cent of local places last year, over 70 per cent of them mainland students. Critics argue the twin trends risk turning <span class=\"bw\">internationalisation<span class=\"tip\"><span class=\"tip-en\">the process of attracting more students, staff or partnerships from beyond one's own city or country</span><span class=\"tip-zh\">國際化</span></span></span> into a revenue strategy that prices out less wealthy applicants, even as some universities expand scholarships to <span class=\"bw\">offset the burden<span class=\"tip\"><span class=\"tip-en\">to reduce or balance out a cost or difficulty by providing something in return</span><span class=\"tip-zh\">抵銷負擔</span></span></span> on students who cannot afford the steeper rates.</p>",
+      "summary_zh_html": "<p>香港各所公立大學將於二零二七至二八學年，向<span class=\"bwz\">非本地本科生</span>大幅加價，加幅最高達百分之二十六，而政府同時持續擴大<span class=\"bwz\">非本地生限額</span>。八所公立大學中，七所已公布新學費，平均加幅為百分之十七；香港大學醫科及牙科課程的加幅最為顯著，年度學費將上升百分之一百三十七，至五十九萬港元。</p><p>香港城市大學及香港浸會大學均加費百分之二十六，至每年二十四萬港元，香港科技大學及香港理工大學則分別上調百分之二十一及二十。綜合歷年加幅，二零二七至二八學年的學費較二零二三至二四學年已累積上升百分之四十一，屬<span class=\"bwz\">累積升幅</span>。各大學以教學成本上升及<span class=\"bwz\">與國際院校水平比較</span>為加價理據，同時強調本港學費仍低於海外頂尖院校。</p><p>加費之際，非本地生限額自二零二三年起已由本地學額的百分之二十提升至百分之五十，去年非本地生人數已佔本地學額百分之二十七點一，當中逾七成來自中國內地。批評者認為，學費與限額雙雙上升，或令<span class=\"bwz\">國際化</span>淪為一種收入策略，將較不富裕的申請人拒於門外，儘管部分大學已擴大獎學金，以<span class=\"bwz\">抵銷負擔</span>，幫助未能負擔加幅的學生。</p>",
+      "image_scene": "A sunlit university campus plaza in Hong Kong, anonymous students of mixed backgrounds with backpacks walking past a notice board covered in overlapping posters, a modern lecture-hall building with large windows in the background, potted plants lining a wide concrete walkway.",
+      "cover_text": {
+        "zh_kicker": "大學加費",
+        "zh_title": [
+          "非本地生",
+          "學費加26%"
+        ],
+        "zh_hl": "26%",
+        "zh_sub": "限額同步擴大至五成",
+        "en": "Hong Kong universities raise non-local student fees by up to 26 percent"
+      },
+      "vocab": [
+        {
+          "phrase": "non-local undergraduate",
+          "zh": "非本地本科生",
+          "sample": "Non-local undergraduates now pay significantly more than they did three years ago."
         },
         {
-          "en": "struck a careful balance between",
-          "zh": "在兩者之間取得微妙的平衡",
-          "sample": "The setlist struck a careful balance between familiar hits and rarer tracks."
+          "phrase": "tuition fee increase",
+          "zh": "學費加幅",
+          "sample": "The tuition fee increase was announced just before the new application cycle opened."
         },
         {
-          "en": "spans four decades",
-          "zh": "橫跨四十年",
-          "sample": "His career now spans four decades, from teen idol to veteran performer."
+          "phrase": "student quota",
+          "zh": "學生限額",
+          "sample": "The student quota for overseas applicants has been raised twice in three years."
+        },
+        {
+          "phrase": "cumulative rise",
+          "zh": "累積升幅",
+          "sample": "The cumulative rise in fees since 2023 has caught many applicants off guard."
+        },
+        {
+          "phrase": "international benchmarking",
+          "zh": "與國際院校水平比較",
+          "sample": "Universities used international benchmarking to justify charging closer to overseas rates."
+        },
+        {
+          "phrase": "internationalisation",
+          "zh": "國際化",
+          "sample": "Officials describe the quota expansion as part of a broader internationalisation push."
+        },
+        {
+          "phrase": "annual tuition",
+          "zh": "年度學費",
+          "sample": "Annual tuition for the medicine programme now exceeds half a million dollars."
+        },
+        {
+          "phrase": "needs-based scholarship",
+          "zh": "經濟需要獎學金",
+          "sample": "The university expanded its needs-based scholarship scheme for the new intake."
+        },
+        {
+          "phrase": "revenue strategy",
+          "zh": "收入策略",
+          "sample": "Critics accuse some institutions of treating overseas students as a revenue strategy."
+        },
+        {
+          "phrase": "price out applicants",
+          "zh": "令申請人因學費過高而卻步",
+          "sample": "Steep fee rises risk pricing out capable applicants from less wealthy families."
+        },
+        {
+          "phrase": "self-financing programme",
+          "zh": "自資課程",
+          "sample": "Several self-financing programmes rely heavily on non-local student fees."
+        },
+        {
+          "phrase": "education hub ambition",
+          "zh": "教育樞紐願景",
+          "sample": "The policy fits the city's education hub ambition for the region."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "chase prestige without widening access",
+          "zh": "追求聲譽卻未能擴闊入學機會",
+          "sample": "Universities must avoid chasing prestige without widening access for less wealthy students."
+        },
+        {
+          "en": "pass rising costs on to the next intake",
+          "zh": "將上升的成本轉嫁至新一屆學生",
+          "sample": "Institutions are passing rising costs on to the next intake rather than cutting spending."
+        },
+        {
+          "en": "court overseas applicants while squeezing them financially",
+          "zh": "一邊爭取海外申請人一邊加重其經濟負擔",
+          "sample": "The policy courts overseas applicants while squeezing them financially at the same time."
+        },
+        {
+          "en": "turn a quota expansion into a quiet fee hike",
+          "zh": "將限額擴大暗中變成加費手段",
+          "sample": "Critics say the reform turns a quota expansion into a quiet fee hike."
+        },
+        {
+          "en": "position a city as a regional education hub",
+          "zh": "將城市定位為區內教育樞紐",
+          "sample": "The government hopes expanding intake will help position the city as a regional education hub."
+        },
+        {
+          "en": "narrow the fee gap with overseas rivals",
+          "zh": "縮窄與海外院校的學費差距",
+          "sample": "Officials argue the increases merely narrow the fee gap with overseas rivals."
+        },
+        {
+          "en": "offset a higher bill with expanded scholarships",
+          "zh": "以擴大獎學金抵銷較高學費",
+          "sample": "Some universities try to offset a higher bill with expanded scholarships for top performers."
+        },
+        {
+          "en": "deepen reliance on non-local tuition income",
+          "zh": "加深對非本地學費收入的依賴",
+          "sample": "Several faculties have deepened their reliance on non-local tuition income in recent years."
+        },
+        {
+          "en": "risk filtering applicants by wealth rather than merit",
+          "zh": "有可能以財富而非才能篩選申請人",
+          "sample": "Steep fees risk filtering applicants by wealth rather than merit."
+        },
+        {
+          "en": "frame a fee rise as a cost-recovery necessity",
+          "zh": "將加費定性為收回成本的必要之舉",
+          "sample": "The university framed the fee rise as a cost-recovery necessity rather than a profit motive."
+        },
+        {
+          "en": "weigh global competitiveness against affordability",
+          "zh": "權衡全球競爭力與可負擔程度",
+          "sample": "Policymakers must weigh global competitiveness against affordability when setting fees."
+        },
+        {
+          "en": "leave families recalculating whether to apply at all",
+          "zh": "令家庭重新考慮是否仍要申請",
+          "sample": "The sharp increase left some families recalculating whether to apply at all."
         }
       ]
     }
@@ -612,28 +586,28 @@
   "trends": [
     {
       "platforms": [
-        "instagram",
-        "tiktok"
+        "threads",
+        "instagram"
       ],
-      "headline": "☕ Hong Kong's Gen Z Swap Nightclubs for Daytime 'Coffee Raves'",
-      "summary_html": "<p>A new kind of party is taking over Hong Kong's café scene: the \"coffee rave,\" a <span class=\"bw\">sober-curious<span class=\"tip\"><span class=\"tip-en\">exploring a lifestyle with little or no alcohol out of curiosity rather than necessity</span><span class=\"tip-zh\">戒酒觀望</span></span></span> gathering that swaps late-night clubbing for daytime DJ sets fuelled by espresso rather than alcohol. Organisers say the trend traces back to the isolation of the pandemic years, when many young people grew accustomed to socialising earlier in the day, and has since evolved into a full subculture complete with <span class=\"bw\">brand collaborations<span class=\"tip\"><span class=\"tip-en\">joint marketing projects in which a company partners with an event, artist or another brand</span><span class=\"tip-zh\">品牌合作</span></span></span>, themed menus and even milk-tea cocktail nights. Participants describe the appeal as less about avoiding alcohol altogether than about reclaiming a sense of <span class=\"bw\">daytime sociability<span class=\"tip\"><span class=\"tip-en\">the quality of being able to socialise and connect with others during the day</span><span class=\"tip-zh\">日間社交感</span></span></span> that late-night venues cannot offer, while cafés have seized on the trend as a lucrative new <span class=\"bw\">revenue stream<span class=\"tip\"><span class=\"tip-en\">a source of ongoing income for a business</span><span class=\"tip-zh\">新收入來源</span></span></span> during traditionally quiet weekend afternoons.</p>",
-      "summary_zh_html": "<p>一種新式派對正席捲香港的咖啡店圈子：「咖啡rave」是一種<span class=\"bwz\">戒酒觀望</span>式聚會，以日間DJ表演取代深夜的夜店文化，參加者靠濃縮咖啡而非酒精提神。主辦單位表示，這股風潮可追溯至疫情期間的隔離生活，當時不少年輕人習慣了較早時段社交，此後更發展成一套完整的次文化，包括<span class=\"bwz\">品牌合作</span>、主題餐單，甚至奶茶雞尾酒之夜。參加者形容，這股潮流的吸引力，與其說是完全戒酒，倒不如說是重新尋回夜店無法提供的<span class=\"bwz\">日間社交感</span>；而咖啡店亦趁機將這股潮流，發展成在傳統上較清淡的週末下午帶來可觀收入的<span class=\"bwz\">新收入來源</span>。</p>",
+      "headline": "🏆 Hong Kong Threads Users Crown Their Own 'First-Ever Grand Championships'",
+      "summary_html": "<p>A playful new format has swept through Hong Kong's corner of Threads: posts that open with \"I hereby declare the first-ever...\" before crowning an everyday favourite, such as a pair of travel shoes or a skincare pick, as though it had won a genuine award. These <span class=\"bw\">self-declared championships<span class=\"tip\"><span class=\"tip-en\">titles or contests that someone invents and announces themselves, without any official organiser or judging body</span><span class=\"tip-zh\">自行宣布的冠軍</span></span></span> borrow the solemn language of official contests purely for comic effect, and the format has proved wildly shareable: one post recommending a Japanese drugstore product reportedly drew more than three million views. Marketers have noticed the <span class=\"bw\">viral engagement<span class=\"tip\"><span class=\"tip-en\">the large volume of likes, shares and comments a post attracts as it spreads rapidly online</span><span class=\"tip-zh\">瘋傳參與度</span></span></span> such posts attract, and some brands now seed similar \"contests\" themselves, raising questions about where <span class=\"bw\">undisclosed sponsorship<span class=\"tip\"><span class=\"tip-en\">paid promotion that is not clearly labelled as an advertisement</span><span class=\"tip-zh\">未披露的贊助</span></span></span> ends and genuine fan enthusiasm begins. For many users, though, the appeal remains simple: a low-stakes, <span class=\"bw\">crowdsourced ranking<span class=\"tip\"><span class=\"tip-en\">a list or ranking produced from the opinions of many ordinary users rather than a single expert</span><span class=\"tip-zh\">眾包式排名</span></span></span> that turns a mundane preference into a shared joke everyone can join.</p>",
+      "summary_zh_html": "<p>香港Threads上掀起一股新興的玩味格式：帖文以「我自行宣布，第一屆⋯⋯大賽」開頭，然後將日常生活中的小小喜好——一對旅行波鞋、一款護膚品——捧成好像真的贏得獎項一樣。這些<span class=\"bwz\">自行宣布的冠軍</span>借用正式比賽的莊重用語，純粹為搞笑效果，而這種格式亦證明極易被瘋傳：有一則推介日本藥妝產品的帖文，據報瀏覽次數超過三百萬。市場人員亦留意到此類帖文帶來的<span class=\"bwz\">瘋傳參與度</span>，部分品牌甚至開始自行發起類似「大賽」，令人質疑<span class=\"bwz\">未披露的贊助</span>與真正的粉絲熱情之間的界線何在。不過，對許多用戶而言，其吸引力其實很簡單：一種低風險、<span class=\"bwz\">眾包式排名</span>，將平凡的喜好變成人人可以參與的共同笑話。</p>",
       "causes": [
         {
-          "label": "Sober-curious culture as a health signal",
-          "text": "The rise of alcohol-free socialising may reflect a broader generational shift in how young people manage stress and wellbeing, favouring daytime gatherings that allow for genuine conversation over the disorientation of late-night drinking. A student essay could explore whether this represents a healthier model of youth social life, or merely a repackaging of the same underlying need to belong."
+          "label": "Self-declared 'championships' parodying real award shows",
+          "text": "Posts framed as the first-ever grand championship borrow the language of official awards without any judging panel or criteria, which can blur the line between playful parody and a genuine ranking for readers who skim quickly. A Paper 2 essay could ask whether platforms should label such posts clearly as personal opinion rather than fact."
         },
         {
-          "label": "Brand-sponsored nostalgia vs grassroots authenticity",
-          "text": "What began as an informal, low-cost alternative to clubbing has quickly attracted corporate sponsors eager to attach their products to a trendy, health-conscious image. This raises a useful Paper 2 question about whether commercial backing inevitably dilutes a subculture's original spirit, turning a grassroots habit into another marketing opportunity dressed up as a lifestyle choice."
+          "label": "Brands quietly riding the self-declared contest format",
+          "text": "What reads as a spontaneous fan poll is sometimes seeded or amplified by brands and paid creators keen to attach a product to an organic-looking trend, since sponsored posts in this format rarely carry a disclosure label. This raises questions about whether Hong Kong's advertising rules keep pace with such disguised promotion."
         },
         {
-          "label": "A counter-argument: still built on exclusivity and spending",
-          "text": "Sceptics argue that coffee raves are no more inclusive than the nightlife they claim to replace, since tickets, themed merchandise and specialty drinks can cost as much as a night out. Framed this way, the trend looks less like a wellness movement and more like clubbing rebranded for an audience that can still afford to pay for atmosphere."
+          "label": "Mock 'grand prix' threads as everyday community glue",
+          "text": "Beyond the humour, these threads let strangers bond over small shared preferences, such as a favourite pair of travel shoes, building a sense of belonging through light-hearted participation rather than any serious stake. A Paper 2 response could weigh whether this kind of low-effort bonding builds real community or merely its illusion."
         },
         {
-          "label": "Daytime leisure and the changing rhythm of Hong Kong nightlife",
-          "text": "Whether coffee raves outlast their novelty depends on whether cafés can keep reinventing the format once the initial curiosity fades, much as earlier themed-dining fads eventually lost momentum. A sustained shift would require genuine changes to how young people structure their weekends, not just a temporary alternative while nightclubs recover their post-pandemic footing."
+          "label": "Counter-argument: viral numbers without lasting value",
+          "text": "Critics argue the format rewards clever phrasing over substance, generating huge view counts for posts that say little and vanish from memory within days, which raises the question of whether such virality amounts to a meaningful cultural moment or simply noise that crowds out more considered discussion."
         }
       ]
     }

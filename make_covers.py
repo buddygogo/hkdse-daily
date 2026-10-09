@@ -50,6 +50,21 @@ SHOTS = [
 ]
 
 
+# Stories about harm, death, abuse or arrests get a calm, respectful image instead of an upbeat one
+SENSITIVE_WORDS = ("suicide", "self-harm", "death", "dies", "died", "killed", "abuse", "assault", "attack",
+                   "arrest", "sedition", "jail", "prison", "murder", "violence", "brawl", "victim", "fatal",
+                   "crash", "mauled", "missing", "funeral")
+SENSITIVE_STYLE = ("Calm, respectful and quietly hopeful mood: soft natural daylight, gentle warm tones, "
+                   "a peaceful symbolic scene (e.g. an empty bench in a garden, morning light through a window, "
+                   "a helping hand on a railing). Nothing distressing, violent or sad-looking; no police, "
+                   "weapons, injuries, hospital beds or crying. ")
+
+
+def is_sensitive(article: dict) -> bool:
+    text = (article.get("headline", "") + " " + article.get("category", "")).lower()
+    return any(w in text for w in SENSITIVE_WORDS)
+
+
 def build_prompt(article: dict, wide: bool = False) -> str:
     cat = (article.get("category") or "social").split()[0]
     accent = ACCENTS.get(cat, "red")
@@ -60,18 +75,18 @@ def build_prompt(article: dict, wide: bool = False) -> str:
         "Show the story's subject through objects, places and atmosphere — a thoughtful scene "
         "rather than a literal news photo; set it in Hong Kong where it makes sense. "
         f"Composition: {shot}. "
-        
         + ("Ultra-wide 21:9 panoramic photo for a website banner. Keep the LEFT HALF simple and uncluttered "
            "(open sky, a plain wall or soft background) because a headline will be printed there; "
            "put the main subject on the right. "
            if wide else
            "Portrait 4:5 photo for an Instagram news post. Keep the TOP HALF simple and uncluttered "
            "(open sky, a plain wall or soft background) because a large headline will be printed over it; "
-           "put the main subject in the lower half. ") +
-        "Bright, warm, true-to-life colour: sunny daylight or golden-hour light, "
-        "rich saturated natural colours, crisp detail, upbeat and inviting — the look of a modern lifestyle "
-        f"magazine that teenagers enjoy, never grey, gloomy, foggy or blue-tinted. Feature {accent} prominently "
-        "as a real object or surface colour in the scene. "
+           "put the main subject in the lower half. ")
+        + (SENSITIVE_STYLE if is_sensitive(article) else
+           "Bright, warm, true-to-life colour: sunny daylight or golden-hour light, "
+           "rich saturated natural colours, crisp detail, upbeat and inviting — the look of a modern lifestyle "
+           "magazine that teenagers enjoy, never grey, gloomy, foggy or blue-tinted. ")
+        + f"Feature {accent} prominently as a real object or surface colour in the scene. "
         "One single seamless photograph filling the whole frame — no borders, panels, strips, collage or inset images. "
         "Avoid the cliché of a lone person seen from behind gazing at a skyline. "
         "Absolutely NO text anywhere in the image: no words, letters, numbers or symbols on signs, "

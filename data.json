@@ -2,209 +2,663 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/345001/CK-Asset-to-rebuild-three-towers-in-scandal-hit-Anderson-Road-residential-project",
-      "published_date": "8 October 2026",
-      "headline": "CK Asset to Demolish and Rebuild Three Towers at Scandal-Hit Starter Homes Project",
-      "category": "urban",
-      "summary_html": "<p>CK Asset Holdings has confirmed that three residential towers at its Starter Homes development on Anderson Road, Kwun Tong, will be <span class=\"bw\">demolished and rebuilt from scratch<span class=\"tip\"><span class=\"tip-en\">torn down completely and constructed again</span><span class=\"tip-zh\">徹底拆卸並重新興建</span></span></span>, after investigators found that steel reinforcement bars across all six blocks had <span class=\"bw\">deviated significantly<span class=\"tip\"><span class=\"tip-en\">departed by a large margin from a standard</span><span class=\"tip-zh\">嚴重偏離標準</span></span></span> from government-approved plans. The Buildings Department has <span class=\"bw\">given the green light<span class=\"tip\"><span class=\"tip-en\">granted official approval</span><span class=\"tip-zh\">批准放行</span></span></span> to remediation proposals for the remaining three towers, allowing structural repair work to proceed without full demolition, though it has yet to receive a formal application to begin tearing down the other blocks.</p><p>The scandal first surfaced last year, prompting the government to launch <span class=\"bw\">legal proceedings<span class=\"tip\"><span class=\"tip-en\">formal court action</span><span class=\"tip-zh\">法律程序</span></span></span> against the original contractor, with 205 prosecutions filed to date. Ten people connected to the project have also been arrested on <span class=\"bw\">suspicion of bribery<span class=\"tip\"><span class=\"tip-en\">believed to have offered or accepted illegal payments</span><span class=\"tip-zh\">涉嫌行賄</span></span></span> and related offences. CK Asset has appointed a new main contractor to oversee the rebuilding, arguing that starting from scratch would prove the most <span class=\"bw\">cost-effective<span class=\"tip\"><span class=\"tip-en\">giving the best value for money spent</span><span class=\"tip-zh\">符合成本效益</span></span></span> solution, even though it means a longer wait for buyers who had already put down deposits on homes sold under a scheme meant to offer first-time buyers flats below market price.</p><p>The episode has reignited concerns about quality control in subsidised housing, with commentators warning that repeated scandals risk further <span class=\"bw\">eroding public trust<span class=\"tip\"><span class=\"tip-en\">gradually wearing away people's confidence</span><span class=\"tip-zh\">侵蝕公眾信任</span></span></span> at a time when the government is counting on Starter Homes to <span class=\"bw\">widen the property ladder<span class=\"tip\"><span class=\"tip-en\">create more routes into home ownership</span><span class=\"tip-zh\">擴闊置業階梯</span></span></span> for middle-income families priced out of the private market. Analysts say the case also highlights the broader challenge of policing construction quality, given the scale of building activity the city needs to meet its long-term housing targets. For hundreds of households still waiting to move in, the rebuilding timeline remains the most pressing question, with officials yet to confirm when the demolished towers will be ready for a fresh round of structural approval.</p>",
-      "summary_zh_html": "<p>長江實業集團（CK Asset）證實，位於九龍觀塘安達臣道的「首置」項目中，有三座住宅大廈將會<span class=\"bwz\">推倒重建</span>，原因是調查人員發現全部六座大廈的鋼筋均<span class=\"bwz\">嚴重偏離</span>政府批核的圖則標準。屋宇署已就其餘三座大廈的修復方案<span class=\"bwz\">開綠燈</span>，容許結構修復工程繼續進行，毋須全面拆卸，不過署方表示至今仍未收到正式申請，以展開拆卸其餘大廈的工程。</p><p>這宗醜聞早於去年曝光，促使政府對原承建商展開<span class=\"bwz\">法律程序</span>，至今已提出二百零五宗檢控。另有十人因涉及該項目而被捕，<span class=\"bwz\">涉嫌行賄</span>及其他相關罪行。長實已委任新的主要承建商負責重建工程，並指從頭興建才是最<span class=\"bwz\">符合成本效益</span>的做法，儘管這意味著已經支付訂金的買家須等候更長時間——這批單位原本是在資助計劃下，以低於市價出售予首次置業人士。</p><p>事件再次引發公眾對資助房屋質量監管的關注，評論指類似醜聞一再發生，恐怕會進一步<span class=\"bwz\">侵蝕公眾信任</span>，尤其政府正寄望透過「首置」計劃為被私人市場拒諸門外的中產家庭<span class=\"bwz\">擴闊置業階梯</span>。分析人士指出，事件亦突顯當局在監管建築質量上面對的更大挑戰，因為要達到長遠房屋目標，本港仍需維持龐大的建築工程量。對仍在輪候入伙的數百個家庭而言，重建時間表才是最逼切的問題，官員至今仍未確認拆卸後的大廈何時能完成新一輪結構審批。</p>",
-      "image_scene": "Construction workers in hard hats standing beside a half-built residential tower wrapped in green scaffolding netting on a hillside in Kwun Tong, with a yellow demolition crane nearby and stacks of steel reinforcement bars lying on bare ground; overcast sky, completed public housing blocks visible in the distance.",
-      "cover_text": {
-        "zh_kicker": "安達臣道",
-        "zh_title": ["3座爛尾揭發", "鋼筋唔達標"],
-        "zh_hl": "鋼筋唔達標",
-        "zh_sub": "長實拆卸重建三座",
-        "en": "CK Asset to rebuild three towers after steel scandal"
-      },
-      "vocab": [
-        {"phrase": "steel reinforcement bar", "zh": "鋼筋", "sample": "Engineers found that the steel reinforcement bar used in the project was thinner than the approved design required."},
-        {"phrase": "rebar deviation", "zh": "鋼筋偏差", "sample": "Inspectors said the rebar deviation found on site was far beyond any acceptable margin of error."},
-        {"phrase": "building code", "zh": "建築規例", "sample": "Developers who ignore the building code put future residents at serious risk."},
-        {"phrase": "subsidised housing scheme", "zh": "資助房屋計劃", "sample": "The subsidised housing scheme was designed to help first-time buyers who could not afford private flats."},
-        {"phrase": "first-time buyer", "zh": "首次置業人士", "sample": "The flats were originally marketed at a discount to attract first-time buyer applicants."},
-        {"phrase": "structural remediation", "zh": "結構修復", "sample": "The Buildings Department confirmed that structural remediation work could begin on the three repaired towers."},
-        {"phrase": "remediation proposal", "zh": "修復方案", "sample": "The Buildings Department approved the remediation proposal for three of the six towers."},
-        {"phrase": "criminal prosecution", "zh": "刑事檢控", "sample": "The government pursued criminal prosecution against several individuals involved in falsifying the inspection records."},
-        {"phrase": "buyer's deposit", "zh": "買家訂金", "sample": "Families who had already paid a buyer's deposit now face years of uncertainty over their new home."},
-        {"phrase": "handover date", "zh": "收樓日期", "sample": "The rebuilding work means the original handover date can no longer be met."},
-        {"phrase": "cost overrun", "zh": "超支", "sample": "Demolishing and rebuilding from scratch will almost certainly cause a significant cost overrun."},
-        {"phrase": "forensic sampling", "zh": "法證取樣", "sample": "Forensic sampling across the site repeatedly found rebar thinner than the approved design."}
-      ],
-      "phrases": [
-        {"en": "a litany of safety lapses", "zh": "一連串的安全疏忽", "sample": "Investigators uncovered a litany of safety lapses stretching back to the earliest stage of construction."},
-        {"en": "shore up public confidence", "zh": "鞏固公眾信心", "sample": "The developer hopes the new contractor will help shore up public confidence in the project."},
-        {"en": "cut corners on compliance", "zh": "在合規上偷工減料", "sample": "The report concluded that the original contractor had cut corners on compliance to save time and money."},
-        {"en": "hold developers accountable", "zh": "追究發展商責任", "sample": "Campaigners say the government must hold developers accountable whenever public safety is compromised."},
-        {"en": "tighten regulatory oversight", "zh": "加強監管", "sample": "Lawmakers are now calling on the Buildings Department to tighten regulatory oversight of subsidised housing projects."},
-        {"en": "compromise structural safety", "zh": "危害結構安全", "sample": "Substandard steel bars can compromise structural safety in ways that are not visible until years later."},
-        {"en": "restore buyer confidence", "zh": "恢復買家信心", "sample": "A transparent rebuilding timeline would go a long way toward restoring buyer confidence."},
-        {"en": "a cautionary tale for the industry", "zh": "業界的警世故事", "sample": "The Anderson Road case has become a cautionary tale for the industry about the cost of cutting corners."},
-        {"en": "bear the brunt of delays", "zh": "首當其衝承受延誤", "sample": "Ordinary families who had already paid deposits are left to bear the brunt of delays."},
-        {"en": "close the loophole", "zh": "堵塞漏洞", "sample": "Officials promised new legislation to close the loophole that allowed falsified inspection reports to pass unnoticed."},
-        {"en": "set a troubling precedent", "zh": "開下令人憂慮的先例", "sample": "Allowing repeat offenders to keep winning public contracts would set a troubling precedent."},
-        {"en": "safeguard housing quality", "zh": "保障房屋質素", "sample": "Stronger site inspections are essential to safeguard housing quality across all future subsidised projects."},
-        {"en": "widen the property ladder", "zh": "擴闊置業階梯", "sample": "The scheme was meant to widen the property ladder for middle-income families, not expose them to construction risk."},
-        {"en": "keep developers on a tight leash", "zh": "嚴格監管發展商", "sample": "Some lawmakers argue the only solution is to keep developers on a tight leash through heavier penalties."},
-        {"en": "rebuild from the ground up", "zh": "從地基重新建造", "sample": "Engineers decided it was safer to rebuild from the ground up than attempt a partial repair."}
-      ]
-    },
-    {
       "source_name": "HK01",
-      "source_url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398029/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E6%B6%89%E4%BA%8B%E5%AE%B6%E5%BA%AD%E8%A2%AB%E6%8C%87%E6%BF%AB%E7%94%A8%E7%B6%9C%E6%8F%B4-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E6%AD%A3%E6%AA%A2%E8%A6%96%E5%80%8B%E6%A1%88%E6%9C%89%E5%90%A6%E9%81%95%E8%A6%8F",
-      "published_date": "9 October 2026",
-      "headline": "Viral Video of Girl Carrying Beer Cans Sparks Welfare Fraud Probe in Tuen Mun",
-      "category": "social",
-      "summary_html": "<p>A video showing a young girl in Tuen Mun's Fu Tai Estate <span class=\"bw\">carrying beer cans<span class=\"tip\"><span class=\"tip-en\">holding several tins of beer</span><span class=\"tip-zh\">攜帶啤酒罐</span></span></span> and a <span class=\"bw\">worn-out schoolbag<span class=\"tip\"><span class=\"tip-en\">a bag damaged from heavy use</span><span class=\"tip-zh\">破舊書包</span></span></span> has gone viral online, triggering a child-welfare investigation and a wider debate about the city's <span class=\"bw\">welfare safety net<span class=\"tip\"><span class=\"tip-en\">the system of support meant to protect the needy</span><span class=\"tip-zh\">福利安全網</span></span></span>. Her parents were arrested on <span class=\"bw\">suspicion of child abuse<span class=\"tip\"><span class=\"tip-en\">believed to have mistreated a child</span><span class=\"tip-zh\">涉嫌虐兒</span></span></span> and have since been released on bail, while the girl and her two younger siblings have been placed in <span class=\"bw\">temporary institutional care<span class=\"tip\"><span class=\"tip-en\">short-term housing in a care facility rather than at home</span><span class=\"tip-zh\">臨時院舍照顧</span></span></span> pending a full assessment.</p><p>The case took a further turn after social media users accused the family of <span class=\"bw\">abusing welfare payments<span class=\"tip\"><span class=\"tip-en\">misusing financial assistance meant for the needy</span><span class=\"tip-zh\">濫用綜援</span></span></span>, pointing to reports that the household — which receives roughly eighteen thousand dollars a month under the Comprehensive Social Security Assistance scheme — had travelled overseas and visited a theme park. Secretary for Labour and Welfare Chris Sun confirmed that the Social Welfare Department is <span class=\"bw\">reviewing the family's eligibility<span class=\"tip\"><span class=\"tip-en\">checking whether they still qualify for support</span><span class=\"tip-zh\">檢視家庭領取資格</span></span></span>, and said that if serious irregularities are uncovered, the case could be <span class=\"bw\">referred to the police<span class=\"tip\"><span class=\"tip-en\">passed on for criminal investigation</span><span class=\"tip-zh\">轉介警方</span></span></span> for criminal follow-up.</p><p>Officials say a multi-disciplinary case conference involving social workers, doctors and police will decide whether to seek a court protection order, while commentators warn that the public's rush to <span class=\"bw\">pass judgement online<span class=\"tip\"><span class=\"tip-en\">criticise someone publicly before all facts are known</span><span class=\"tip-zh\">網上妄下判斷</span></span></span> risks overshadowing the more complicated question of whether the city's welfare system has the resources to properly <span class=\"bw\">safeguard vulnerable children<span class=\"tip\"><span class=\"tip-en\">protect children who are at risk of harm</span><span class=\"tip-zh\">保障弱勢兒童</span></span></span>. Child-welfare groups have urged the public to consider kinship care options before any long-term removal from the family.</p>",
-      "summary_zh_html": "<p>一段在屯門富泰邨拍攝的片段在網上瘋傳，片中一名女童<span class=\"bwz\">攜帶啤酒罐</span>及一個<span class=\"bwz\">破舊書包</span>，事件觸發一宗兒童福利調查，並引發社會對本港<span class=\"bwz\">福利安全網</span>的廣泛討論。女童父母因<span class=\"bwz\">涉嫌虐兒</span>被捕，其後獲准保釋候查，而女童與她的兩名年幼弟妹則已被安排<span class=\"bwz\">臨時院舍照顧</span>，以待社署作全面評估。</p><p>事件其後再起波瀾，有網民指責該家庭<span class=\"bwz\">濫用綜援</span>，並指該家庭每月領取約一萬八千元綜援金，卻被揭發曾多次外遊及到主題樂園遊玩。勞工及福利局局長孫玉菡證實，社會福利署正<span class=\"bwz\">檢視家庭領取資格</span>，並表示若發現嚴重違規情況，個案不排除會<span class=\"bwz\">轉介警方</span>循刑事方向跟進。</p><p>官員表示，一個由社工、醫生及警方組成的多專業個案會議，將會決定是否需要向法庭申請保護令，而評論則警告，公眾急於<span class=\"bwz\">網上妄下判斷</span>，恐怕會掩蓋一個更複雜的問題——本港福利制度是否具備足夠資源，真正<span class=\"bwz\">保障弱勢兒童</span>。兒童福利機構呼籲公眾，在考慮長期安置之前，應優先考慮由親屬照顧的可能。</p>",
-      "image_scene": "A quiet corridor in a Hong Kong public housing estate, washing lines and potted plants outside flat doors, a social worker with a clipboard speaking calmly to an estate management staff member at a reception desk; overcast afternoon light, no people in distress visible, no children shown.",
+      "source_url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398160/%E5%85%AC%E5%8B%99%E5%93%A1%E8%B7%B3point%E8%A6%81-%E6%8B%89curve-%E9%A6%96%E6%9C%9F%E6%B6%B5100%E8%81%B7%E7%B3%BB-%E6%B6%89%E7%B4%844-1%E8%90%AC%E4%BA%BA",
+      "published_date": "10 October 2026",
+      "headline": "Hong Kong Rolls Out 'Forced Curve' Performance Ranking for 41,000 Civil Servants",
+      "category": "career",
+      "summary_html": "<p>Hong Kong's Secretary for the Civil Service, Ingrid Yeung Ho Poi-yan, has unveiled the first phase of a <span class=\"bw\">performance assessment mechanism<span class=\"tip\"><span class=\"tip-en\">a system for rating how well staff are doing their jobs</span><span class=\"tip-zh\">評核表現的制度</span></span></span>, rating some 41,000 officers across roughly 100 job grades against a <span class=\"bw\">forced distribution<span class=\"tip\"><span class=\"tip-en\">a system requiring a fixed proportion of staff to be ranked in each category</span><span class=\"tip-zh\">強制分佈制度</span></span></span> for the first time. The bureau's own four general grades will act as a <span class=\"bw\">demonstration grade<span class=\"tip\"><span class=\"tip-en\">a group chosen to go first and set an example for others</span><span class=\"tip-zh\">示範職系</span></span></span>, setting a precedent before other departments follow.</p><p>Roughly five per cent of staff in each grade are expected to land in the bottom bands, delaying their <span class=\"bw\">salary increment<span class=\"tip\"><span class=\"tip-en\">a regular rise in pay added to one’s existing salary</span><span class=\"tip-zh\">薪酬增幅</span></span></span>. Yeung stressed department heads face no rigid <span class=\"bw\">departmental quota<span class=\"tip\"><span class=\"tip-en\">a fixed number or proportion that a department must meet</span><span class=\"tip-zh\">部門配額</span></span></span>: a small or unusually strong grade can be adjusted through careful <span class=\"bw\">assessment calibration<span class=\"tip\"><span class=\"tip-en\">fine-tuning a rating system so it reflects reality fairly</span><span class=\"tip-zh\">評核校準</span></span></span> given a reasonable explanation. She also rejected fears that 60,000 staff already at the top of their pay scale would be unfairly used to \"make up the numbers\", insisting no sensible manager would mark them down merely for lacking further <span class=\"bw\">promotion prospects<span class=\"tip\"><span class=\"tip-en\">the likelihood of being promoted to a higher position</span><span class=\"tip-zh\">晉升機會</span></span></span>.</p><p>Staff who disagree with a rating may object at the <span class=\"bw\">appraisal interview<span class=\"tip\"><span class=\"tip-en\">a meeting in which a supervisor discusses an employee’s performance rating with them</span><span class=\"tip-zh\">評核面談</span></span></span>. After two full cycles, the bureau will review the scheme before a staggered rollout reaches every remaining grade within two to three years, part of a wider push to build a stronger accountability culture across the civil service.</p>",
+      "summary_zh_html": "<p>公務員事務局局長楊何蓓茵宣布政府籌劃已久的<span class=\"bwz\">評核表現的制度</span>將推行第一期，約100個職系、合共4.1萬名公務員將首次按<span class=\"bwz\">強制分佈制度</span>接受評級。公務員事務局轄下的四個一般職系獲選作為<span class=\"bwz\">示範職系</span>，當局希望此舉能為其他部門樹立榜樣，然後再將政策推展至更廣泛範圍。</p><p>在新機制下，每個參與職系約有百分之五的員工預料會被評為最低三級，結果可能延遲他們的<span class=\"bwz\">薪酬增幅</span>。楊何蓓茵強調，部門首長並非受制於嚴格的<span class=\"bwz\">部門配額</span>：如某職系人數太少，或整體表現特別出色，主管可提出合理解釋，再經仔細<span class=\"bwz\">評核校準</span>調整評級。她亦回應外界對約六萬名已處於薪酬頂點的公務員可能被用作「交人頭」的憂慮，強調精明的部門首長不會單憑該批員工已無<span class=\"bwz\">晉升機會</span>便將他們評為最低等級。</p><p>當局承諾，任何不認同評級的員工均可在<span class=\"bwz\">評核面談</span>中提出異議。經過兩個完整評核周期後，當局計劃檢討方案，再分階段將機制擴展至其餘職系，預計兩至三年內完成，作為加強香港公務員問責文化的一部分。</p>",
+      "image_scene": "A bright, modern open-plan government office in Tamar with anonymous civil servants in business attire working quietly at rows of desks; through a glass-walled meeting room, a supervisor sits across a small table from an employee reviewing a document, suggesting a performance appraisal meeting in progress.",
       "cover_text": {
-        "zh_kicker": "富泰邨",
-        "zh_title": ["女童拎啤酒", "揭綜援疑雲"],
-        "zh_hl": "綜援疑雲",
-        "zh_sub": "孫玉菡：違規轉介警方",
-        "en": "Viral video sparks welfare fraud investigation in Tuen Mun"
+        "zh_kicker": "公僕評核",
+        "zh_title": [
+          "公僕評核",
+          "首期4.1萬人"
+        ],
+        "zh_hl": "4.1萬人",
+        "zh_sub": "首階段涵蓋100職系",
+        "en": "Hong Kong launches performance ranking system for 41,000 civil servants"
       },
       "vocab": [
-        {"phrase": "welfare fraud", "zh": "福利詐騙", "sample": "The department said it takes every report of welfare fraud seriously, however small the sum involved."},
-        {"phrase": "means-tested benefit", "zh": "經濟審查福利", "sample": "CSSA is a means-tested benefit, so applicants must declare their full income and assets."},
-        {"phrase": "child protection order", "zh": "保護兒童令", "sample": "A court can issue a child protection order if it believes a child is at risk at home."},
-        {"phrase": "foster care", "zh": "寄養服務", "sample": "Some children are placed in foster care while social workers assess their family situation."},
-        {"phrase": "kinship care", "zh": "親屬照顧", "sample": "Experts argue that kinship care should be considered before a child is sent to an institution."},
-        {"phrase": "financial declaration", "zh": "經濟狀況申報", "sample": "CSSA recipients must submit a financial declaration whenever their household circumstances change."},
-        {"phrase": "media glare", "zh": "輿論關注", "sample": "The family has remained under intense media glare since the video began circulating."},
-        {"phrase": "doxxing", "zh": "起底", "sample": "Online users were warned against doxxing the family while the investigation is still ongoing."},
-        {"phrase": "welfare dependency", "zh": "福利依賴", "sample": "Some commentators worry that long-term welfare dependency can trap families in a cycle of hardship."},
-        {"phrase": "asset declaration", "zh": "資產申報", "sample": "Investigators are checking whether the family's asset declaration matched its actual spending."},
-        {"phrase": "case conference", "zh": "個案會議", "sample": "A case conference will bring together social workers, doctors and police to decide the children's future."},
-        {"phrase": "moral judgement", "zh": "道德判斷", "sample": "It is easy to pass moral judgement online without knowing the full details of a family's circumstances."}
+        {
+          "phrase": "forced distribution",
+          "zh": "強制分佈制度",
+          "sample": "Some managers dislike a forced distribution because it can penalise a genuinely excellent team."
+        },
+        {
+          "phrase": "performance appraisal",
+          "zh": "表現評核",
+          "sample": "The new performance appraisal is meant to make pay rises fairer across the civil service."
+        },
+        {
+          "phrase": "salary increment",
+          "zh": "薪酬增幅",
+          "sample": "Staff rated in the lowest band may see their salary increment delayed by a full year."
+        },
+        {
+          "phrase": "job grade",
+          "zh": "職系",
+          "sample": "Each job grade in the civil service has its own entry requirements and promotion path."
+        },
+        {
+          "phrase": "demonstration grade",
+          "zh": "示範職系",
+          "sample": "Officials chose a small demonstration grade to iron out problems before a wider rollout."
+        },
+        {
+          "phrase": "departmental quota",
+          "zh": "部門配額",
+          "sample": "Critics feared a rigid departmental quota would force supervisors to penalise innocent staff."
+        },
+        {
+          "phrase": "assessment calibration",
+          "zh": "評核校準",
+          "sample": "Assessment calibration across departments is meant to stop one supervisor from grading more harshly than another."
+        },
+        {
+          "phrase": "salary point cap",
+          "zh": "薪酬頂點",
+          "sample": "Officers who have already hit the salary point cap have little financial incentive left besides promotion."
+        },
+        {
+          "phrase": "promotion prospects",
+          "zh": "晉升機會",
+          "sample": "Weak promotion prospects should not be used as an excuse to mark a loyal officer down."
+        },
+        {
+          "phrase": "accountability culture",
+          "zh": "問責文化",
+          "sample": "The reform is billed as part of a wider effort to build an accountability culture in government."
+        },
+        {
+          "phrase": "appraisal interview",
+          "zh": "評核面談",
+          "sample": "She plans to raise her objection to the rating directly at the appraisal interview."
+        },
+        {
+          "phrase": "staggered rollout",
+          "zh": "分階段推行",
+          "sample": "A staggered rollout allows officials to fix flaws before the scheme reaches every department."
+        }
       ],
       "phrases": [
-        {"en": "strike a balance between privacy and accountability", "zh": "在私隱與問責之間取得平衡", "sample": "Officials must strike a balance between privacy and accountability when investigating welfare cases."},
-        {"en": "rush to judgement", "zh": "妄下判斷", "sample": "Commentators warned the public against a rush to judgement before the facts were confirmed."},
-        {"en": "fall through the cracks of the system", "zh": "被制度遺漏", "sample": "Vulnerable families can fall through the cracks of the system long before a crisis becomes public."},
-        {"en": "shield vulnerable children from harm", "zh": "保護兒童免受傷害", "sample": "The department's first duty is to shield vulnerable children from harm, not to punish their parents."},
-        {"en": "tighten eligibility checks", "zh": "收緊資格審查", "sample": "Lawmakers have called on the department to tighten eligibility checks for high-value claims."},
-        {"en": "spark a public backlash", "zh": "引發公眾反彈", "sample": "The footage quickly sparked a public backlash against the family on social media."},
-        {"en": "weaponise public shaming", "zh": "把公開羞辱當作武器", "sample": "Critics say some online users weaponise public shaming long before any wrongdoing is proven."},
-        {"en": "proceed with due diligence", "zh": "審慎行事", "sample": "Social workers say they must proceed with due diligence whenever a child's safety is in doubt."},
-        {"en": "undermine public confidence in welfare", "zh": "削弱公眾對福利制度的信心", "sample": "Repeated scandals, even unproven ones, can undermine public confidence in welfare spending."},
-        {"en": "navigate a family crisis", "zh": "應對家庭危機", "sample": "Social workers are trained to help a household navigate a family crisis without rushing to separate it."},
-        {"en": "hold the line between compassion and accountability", "zh": "在同情與問責之間堅守原則", "sample": "The department insists it can hold the line between compassion and accountability in difficult cases."},
-        {"en": "expose systemic gaps", "zh": "揭示制度缺口", "sample": "The case has helped expose systemic gaps in how welfare reviews are triggered."},
-        {"en": "protect a child's best interests", "zh": "保障兒童的最佳利益", "sample": "Any final decision must protect a child's best interests above all other considerations."},
-        {"en": "trigger an online pile-on", "zh": "引發網絡圍攻", "sample": "A single short clip was enough to trigger an online pile-on against the family."},
-        {"en": "restore faith in social services", "zh": "重建對社會服務的信心", "sample": "A transparent review process could help restore faith in social services among sceptical taxpayers."}
+        {
+          "en": "introduce a rigorous mechanism to assess",
+          "zh": "引入嚴謹機制以評核",
+          "sample": "The bureau decided to introduce a rigorous mechanism to assess staff performance fairly."
+        },
+        {
+          "en": "holds public servants accountable for",
+          "zh": "讓公務員為……負責",
+          "sample": "Supporters say the scheme finally holds public servants accountable for the quality of their work."
+        },
+        {
+          "en": "strikes a balance between fairness and flexibility",
+          "zh": "在公平與彈性之間取得平衡",
+          "sample": "Officials insist the policy strikes a balance between fairness and flexibility for smaller teams."
+        },
+        {
+          "en": "risks demoralising conscientious staff",
+          "zh": "可能打擊盡責員工的士氣",
+          "sample": "A blunt quota system risks demoralising conscientious staff who happen to work in a strong team."
+        },
+        {
+          "en": "a culture of complacency",
+          "zh": "因循怠惰的文化",
+          "sample": "Reformers argue lifetime job security has fostered a culture of complacency in some departments."
+        },
+        {
+          "en": "incentivise proactive performance",
+          "zh": "激勵員工主動表現",
+          "sample": "The government hopes visible rankings will incentivise proactive performance among junior staff."
+        },
+        {
+          "en": "subject to legitimate concerns that",
+          "zh": "受到合理質疑，指……",
+          "sample": "The plan remains subject to legitimate concerns that senior staff could be unfairly singled out."
+        },
+        {
+          "en": "a trial phase before full implementation",
+          "zh": "全面實行前的試行階段",
+          "sample": "Officials describe the first 100 grades as a trial phase before full implementation."
+        },
+        {
+          "en": "safeguard against arbitrary rankings",
+          "zh": "防止評級流於武斷",
+          "sample": "Calibration meetings are meant to safeguard against arbitrary rankings between departments."
+        },
+        {
+          "en": "undermine staff morale",
+          "zh": "損害員工士氣",
+          "sample": "A poorly explained quota could undermine staff morale rather than motivate better work."
+        },
+        {
+          "en": "a meaningful shift in workplace culture",
+          "zh": "工作文化上有意義的轉變",
+          "sample": "Analysts see the reform as a meaningful shift in workplace culture rather than a cosmetic change."
+        },
+        {
+          "en": "ensure resources are allocated fairly",
+          "zh": "確保資源公平分配",
+          "sample": "The appeal process is designed to ensure resources are allocated fairly across similar roles."
+        },
+        {
+          "en": "open to legitimate scrutiny",
+          "zh": "須接受合理的監察",
+          "sample": "Public sector pay decisions should always remain open to legitimate scrutiny."
+        },
+        {
+          "en": "a long-overdue reform",
+          "zh": "早該推行的改革",
+          "sample": "Some commentators welcome the change as a long-overdue reform of a rigid promotion system."
+        },
+        {
+          "en": "a calculated risk worth taking",
+          "zh": "值得承擔的計算過的風險",
+          "sample": "Officials frame the pilot scheme as a calculated risk worth taking to modernise the civil service."
+        }
       ]
     },
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/politics/article/3370401/hong-kong-lawmakers-back-5-year-plan-firms-urged-align-blueprint",
-      "published_date": "9 October 2026",
-      "headline": "Lawmakers Back Hong Kong's First Five-Year Plan as Firms Urged to Align Strategies",
-      "category": "econ",
-      "summary_html": "<p>Hong Kong's Legislative Council has formally <span class=\"bw\">thrown its weight behind<span class=\"tip\"><span class=\"tip-en\">given firm support to</span><span class=\"tip-zh\">全力支持</span></span></span> the city's first-ever Five-Year Plan, passing both a government motion on the blueprint and a <span class=\"bw\">motion of thanks<span class=\"tip\"><span class=\"tip-en\">a formal vote expressing gratitude for a policy speech</span><span class=\"tip-zh\">致謝議案</span></span></span> for Chief Executive John Lee's latest Policy Address at the close of a three-day joint debate. The plan, covering 2026 to 2030, sets out <span class=\"bw\">twenty-two headline indicators<span class=\"tip\"><span class=\"tip-en\">twenty-two key measures used to track progress</span><span class=\"tip-zh\">二十二項主要指標</span></span></span>, only five of which are binding targets — mostly concentrated on environmental goals — with the remaining seventeen serving as <span class=\"bw\">aspirational benchmarks<span class=\"tip\"><span class=\"tip-en\">goals to aim for without a strict legal requirement</span><span class=\"tip-zh\">願景性指標</span></span></span> rather than hard commitments.</p><p>Supporting lawmaker Junius Ho said the document was <span class=\"bw\">long on substance but short on specifics<span class=\"tip\"><span class=\"tip-en\">detailed in content but vague on concrete details</span><span class=\"tip-zh\">內容豐富但缺乏具體目標</span></span></span>, urging officials to show greater resolve in turning broad ambitions into measurable outcomes. Beijing's top representative in the city went further, calling on mainland enterprises operating in Hong Kong to <span class=\"bw\">fall in step with<span class=\"tip\"><span class=\"tip-en\">act in coordination with</span><span class=\"tip-zh\">配合</span></span></span> the government's blueprint as part of a wider push to integrate the city's development with national priorities.</p><p>Not every intervention focused on macro-strategy: several lawmakers used the debate to press for more immediate <span class=\"bw\">cost-of-living relief<span class=\"tip\"><span class=\"tip-en\">financial help to ease daily expenses</span><span class=\"tip-zh\">紓緩生活成本的措施</span></span></span>, including a fresh round of consumption vouchers worth at least a thousand dollars per adult resident, while others called for a rethink of the government's <span class=\"bw\">childbirth incentive<span class=\"tip\"><span class=\"tip-en\">financial encouragement for having children</span><span class=\"tip-zh\">鼓勵生育的措施</span></span></span> spending and a revamp of ageing shopping streets in the New Territories. Business groups, meanwhile, welcomed the plan's <span class=\"bw\">policy continuity<span class=\"tip\"><span class=\"tip-en\">consistency of government direction over time</span><span class=\"tip-zh\">政策持續性</span></span></span>, saying a clearer long-term framework would help firms <span class=\"bw\">calibrate investment decisions<span class=\"tip\"><span class=\"tip-en\">fine-tune choices about where to invest money</span><span class=\"tip-zh\">調整投資決策</span></span></span> that are typically mapped out three to five years in advance.</p>",
-      "summary_zh_html": "<p>香港立法會在一連三日的聯合辯論結束時，正式<span class=\"bwz\">全力支持</span>本港首份五年規劃，先後通過政府提出的五年規劃議案，以及就行政長官李家超最新一份《施政報告》提出的<span class=\"bwz\">致謝議案</span>。這份涵蓋二零二六至二零三零年的規劃，列出<span class=\"bwz\">二十二項主要指標</span>，當中只有五項屬具約束力的指標，且大多集中於環保範疇，其餘十七項則屬於<span class=\"bwz\">願景性指標</span>，而非硬性承諾。</p><p>支持議案的議員何君堯表示，文件<span class=\"bwz\">內容豐富但缺乏具體目標</span>，促請官員展現更大決心，將宏大願景轉化為可量度的成果。中央政府駐港最高代表更進一步，呼籲在港經營的內地企業<span class=\"bwz\">配合</span>政府的藍圖，作為推動本港發展與國家整體方向接軌的一部分。</p><p>並非所有發言都聚焦於宏觀策略：多名議員在辯論中要求政府提供更即時的<span class=\"bwz\">紓緩生活成本的措施</span>，包括向每名成年居民發放至少一千元的新一輪消費券，亦有議員要求當局重新檢討<span class=\"bwz\">鼓勵生育的措施</span>的開支，並建議翻新新界多條老化購物街道。與此同時，商界則歡迎規劃帶來的<span class=\"bwz\">政策持續性</span>，指出更清晰的長遠框架，有助企業<span class=\"bwz\">調整投資決策</span>——而企業的投資部署一般都以三至五年為一個周期。</p>",
-      "image_scene": "The Legislative Council chamber, a wide shot of rows of seated lawmakers raising their hands to vote, a large digital voting tally board glowing on the wall behind the podium, Victoria Harbour and distant skyscrapers visible through floor-to-ceiling windows in the late afternoon light.",
-      "cover_text": {
-        "zh_kicker": "首份五年規劃",
-        "zh_title": ["22指標", "僅5項硬性"],
-        "zh_hl": "22指標",
-        "zh_sub": "立會通過致謝議案",
-        "en": "Lawmakers pass motions backing Hong Kong's first five-year plan"
-      },
-      "vocab": [
-        {"phrase": "five-year blueprint", "zh": "五年規劃", "sample": "The five-year blueprint sets out the government's priorities for the next stage of development."},
-        {"phrase": "environmental indicator", "zh": "環保指標", "sample": "Most of the plan's binding goals are an environmental indicator, such as waste reduction targets."},
-        {"phrase": "anticipatory goal", "zh": "願景目標", "sample": "An anticipatory goal gives officials direction without creating a legal obligation to meet it."},
-        {"phrase": "Liaison Office", "zh": "中聯辦", "sample": "The Liaison Office urged mainland firms in Hong Kong to align their plans with the blueprint."},
-        {"phrase": "consumption voucher", "zh": "消費券", "sample": "Several lawmakers argued that a new round of consumption vouchers would help struggling households."},
-        {"phrase": "natalist policy", "zh": "催生政策", "sample": "Officials defended the natalist policy as necessary given the city's falling birth rate."},
-        {"phrase": "fiscal relief", "zh": "財政紓困", "sample": "Opposition voices want more fiscal relief measures included in the next budget."},
-        {"phrase": "strategic planning horizon", "zh": "策略規劃期", "sample": "Companies typically work to a strategic planning horizon of three to five years."},
-        {"phrase": "macroeconomic indicator", "zh": "宏觀經濟指標", "sample": "Economists will watch several macroeconomic indicators to judge whether the plan is on track."},
-        {"phrase": "legislative motion", "zh": "立法會議案", "sample": "The legislative motion passed with strong support from pro-establishment lawmakers."},
-        {"phrase": "investment calibration", "zh": "投資部署", "sample": "Clearer policy signals make investment calibration easier for long-term investors."},
-        {"phrase": "policy blueprint", "zh": "政策藍圖", "sample": "Business chambers said the policy blueprint gave them more certainty for future planning."}
-      ],
-      "phrases": [
-        {"en": "chart a long-term course", "zh": "訂立長遠方向", "sample": "The plan is meant to chart a long-term course for the city's economic development."},
-        {"en": "translate ambition into action", "zh": "將願景化為行動", "sample": "Lawmakers pressed officials to translate ambition into action rather than rely on slogans."},
-        {"en": "anchor investor confidence", "zh": "穩定投資者信心", "sample": "A clear five-year framework can help anchor investor confidence during uncertain times."},
-        {"en": "bridge the gap between rhetoric and results", "zh": "彌合言論與成果之間的差距", "sample": "Critics say the government must bridge the gap between rhetoric and results before the next review."},
-        {"en": "align with national priorities", "zh": "配合國家發展方向", "sample": "The blueprint was designed to align with national priorities while preserving local flexibility."},
-        {"en": "cushion the cost-of-living squeeze", "zh": "紓緩生活成本壓力", "sample": "Several lawmakers wanted more done to cushion the cost-of-living squeeze on families."},
-        {"en": "set binding benchmarks", "zh": "訂立具約束力的指標", "sample": "Some critics wished the plan had chosen to set binding benchmarks across more policy areas."},
-        {"en": "avoid empty sloganeering", "zh": "避免流於空喊口號", "sample": "Officials insisted the plan was built on data, not an attempt to avoid empty sloganeering."},
-        {"en": "map out a five-year horizon", "zh": "規劃五年藍圖", "sample": "Hong Kong has chosen to map out a five-year horizon for the first time in its history."},
-        {"en": "hold officials to account for delivery", "zh": "要求官員為落實問責", "sample": "Lawmakers promised to hold officials to account for delivery at each annual review."},
-        {"en": "inject fiscal stimulus", "zh": "注入財政刺激", "sample": "Some members wanted the government to inject fiscal stimulus directly into households."},
-        {"en": "future-proof economic strategy", "zh": "具前瞻性的經濟策略", "sample": "Business leaders called the plan a step towards a more future-proof economic strategy."},
-        {"en": "keep policy on an even keel", "zh": "保持政策穩定", "sample": "Officials argued the plan would keep policy on an even keel regardless of leadership changes."},
-        {"en": "court business confidence", "zh": "爭取商界信心", "sample": "The government is keen to court business confidence ahead of next year's budget."},
-        {"en": "set the tone for the next five years", "zh": "定下未來五年的基調", "sample": "This week's debate was widely seen as setting the tone for the next five years of policymaking."}
-      ]
-    },
-    {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/344612/Kai-Tak-Hospital-opens-in-phases-specialist-clinics-to-start-Oct-26",
+      "source_name": "Hong Kong Free Press",
+      "source_url": "https://hongkongfp.com/2026/10/08/hong-kong-police-arrest-parents-of-11-year-old-girl-filmed-carrying-dozens-of-beer-cans/",
       "published_date": "8 October 2026",
-      "headline": "Kai Tak Hospital to Expand Specialist Clinics From October 26",
-      "category": "health",
-      "summary_html": "<p>Kai Tak Hospital, now <span class=\"bw\">Hong Kong's largest public hospital<span class=\"tip\"><span class=\"tip-en\">the biggest government-run hospital in the city</span><span class=\"tip-zh\">全港最大公立醫院</span></span></span>, is set to take its next step in a <span class=\"bw\">phased opening<span class=\"tip\"><span class=\"tip-en\">a gradual launch carried out in stages</span><span class=\"tip-zh\">分階段啟用</span></span></span> when specialist outpatient clinics begin receiving patients on October 26, according to hospital chief executive Dr Eric Cheung. The facility opened its doors on October 5 with a Family Medicine Integrated Centre handling around 350 consultations a day, and officials say the coming phase will mark a significant <span class=\"bw\">scaling-up of clinical capacity<span class=\"tip\"><span class=\"tip-en\">a large increase in how many patients can be treated</span><span class=\"tip-zh\">擴大臨床服務量</span></span></span>.</p><p>Under the new arrangement, <span class=\"bw\">follow-up patients<span class=\"tip\"><span class=\"tip-en\">patients returning for a repeat consultation</span><span class=\"tip-zh\">覆診病人</span></span></span> from surgery, neurosurgery and clinical oncology will be the first to be <span class=\"bw\">transferred from Queen Elizabeth Hospital<span class=\"tip\"><span class=\"tip-en\">moved from the older hospital in Yau Ma Tei</span><span class=\"tip-zh\">由伊利沙伯醫院轉介</span></span></span>, with around 500 specialist attendances expected each day once the phase begins. A further expansion covering medicine clinics is due by mid-November, and the Hospital Authority projects that daily follow-up attendances across all specialties could reach roughly 1,800 by the end of the year as the <span class=\"bw\">caseload migrates<span class=\"tip\"><span class=\"tip-en\">the volume of patients gradually shifts elsewhere</span><span class=\"tip-zh\">服務量轉移</span></span></span> from the ageing Queen Elizabeth site.</p><p>Health officials say the staggered rollout is designed to avoid overwhelming new staff and systems while the hospital beds down its operations, though some clinicians have questioned whether the timeline leaves enough <span class=\"bw\">buffer capacity<span class=\"tip\"><span class=\"tip-en\">spare capacity kept in reserve for unexpected demand</span><span class=\"tip-zh\">緩衝量</span></span></span> for unexpected surges in demand. For patients used to attending Queen Elizabeth Hospital for years, the transfer also means adjusting to an unfamiliar campus, prompting calls for clearer travel information to ease the <span class=\"bw\">transition period<span class=\"tip\"><span class=\"tip-en\">the time during which a change is being carried out</span><span class=\"tip-zh\">過渡期</span></span></span> as services gradually relocate to Kai Tak.</p>",
-      "summary_zh_html": "<p>啟德醫院現為<span class=\"bwz\">全港最大公立醫院</span>，院方正準備踏入<span class=\"bwz\">分階段啟用</span>的下一步，專科門診將於十月二十六日開始接收病人，院長張偉麟醫生表示。醫院已於十月五日率先啟用普通科╱家庭醫學綜合中心，每日提供約三百五十個診症名額，院方指即將展開的新階段，將意味著<span class=\"bwz\">擴大臨床服務量</span>的重要一步。</p><p>在新安排下，外科、神經外科及臨床腫瘤科的<span class=\"bwz\">覆診病人</span>將會是首批<span class=\"bwz\">由伊利沙伯醫院轉介</span>的病人，預計新階段展開後，每日將有約五百個專科門診診症名額。另一波涵蓋內科門診的擴展，預計於十一月中展開，醫院管理局預測，隨著<span class=\"bwz\">服務量轉移</span>離開老化的伊利沙伯醫院舊址，到年底各專科的每日覆診人次或可達約一千八百人次。</p><p>衛生官員表示，分階段推行是為免新員工及系統在短時間內不勝負荷，讓醫院逐步穩定運作，不過部分臨床醫生質疑，這個時間表是否留有足夠<span class=\"bwz\">緩衝量</span>，以應付需求突然激增的情況。對於多年來習慣到伊利沙伯醫院求診的病人而言，轉介亦意味著需要適應一個陌生的院址，有意見促請當局提供更清晰的交通資訊，以紓緩服務逐步遷往啟德期間的<span class=\"bwz\">過渡期</span>。</p>",
-      "image_scene": "A bright, modern hospital corridor at Kai Tak, medical staff in scrubs walking briskly past an empty reception desk, a nurse wheeling medical equipment towards a row of consultation room doors; large windows show construction cranes still working outside in the calm, orderly morning light.",
+      "headline": "Parents Arrested After Tuen Mun Girl Filmed Struggling Under Dozens of Beer Cans",
+      "category": "family",
+      "summary_html": "<p>A disturbing video has prompted Hong Kong police to arrest a couple on suspicion of <span class=\"bw\">ill-treatment<span class=\"tip\"><span class=\"tip-en\">cruel or abusive treatment of someone in one’s care</span><span class=\"tip-zh\">虐待</span></span></span> after <span class=\"bw\">viral footage<span class=\"tip\"><span class=\"tip-en\">video that spreads rapidly online and is viewed by huge numbers of people</span><span class=\"tip-zh\">在網上瘋傳的片段</span></span></span> showed their 10-year-old daughter struggling along a Tuen Mun footpath under roughly two dozen beer cans in a torn backpack. Passers-by offered to help, but she refused, saying she feared her father would scold her.</p><p>The 38-year-old father and 32-year-old mother were both taken into custody, and the Social Welfare Department has convened a <span class=\"bw\">multidisciplinary case conference<span class=\"tip\"><span class=\"tip-en\">a meeting bringing together professionals from different fields to assess a family’s needs</span><span class=\"tip-zh\">跨專業個案會議</span></span></span>, with recommendations due within two weeks. Sympathy curdled into anger once the parents revealed on television that they rely on <span class=\"bw\">Comprehensive Social Security Assistance<span class=\"tip\"><span class=\"tip-en\">a government welfare payment for Hong Kong residents in financial need</span><span class=\"tip-zh\">綜合社會保障援助</span></span></span>, prompting questions over how a welfare family could afford several overseas holidays a year.</p><p>Facing <span class=\"bw\">intense scrutiny<span class=\"tip\"><span class=\"tip-en\">very close and critical public attention</span><span class=\"tip-zh\">嚴厲的審視</span></span></span> online, Secretary for Labour and Welfare Chris Sun pledged a strict review of the family's <span class=\"bw\">welfare payments<span class=\"tip\"><span class=\"tip-en\">regular financial support provided by the government to those in need</span><span class=\"tip-zh\">福利援助金</span></span></span> and of how officials verify a claimant's <span class=\"bw\">household income<span class=\"tip\"><span class=\"tip-en\">the total money earned by everyone living in one home</span><span class=\"tip-zh\">家庭總收入</span></span></span>. Both parents were <span class=\"bw\">bailed pending investigation<span class=\"tip\"><span class=\"tip-en\">released from custody on the condition that they return while the case is still being looked into</span><span class=\"tip-zh\">獲准保釋候查</span></span></span>, the mother briefly hospitalised after feeling unwell. The case has reopened debate on whether earlier <span class=\"bw\">social worker intervention<span class=\"tip\"><span class=\"tip-en\">support or action taken by a trained welfare professional to help a family</span><span class=\"tip-zh\">社工介入</span></span></span> could have caught the trouble sooner, and whether eligibility checks are strict enough.</p>",
+      "summary_zh_html": "<p>一段令人不安的影片促使香港警方拘捕一對夫婦，懷疑他們<span class=\"bwz\">虐待</span>或疏忽照顧子女，片段顯示他們十歲的女兒在屯門富泰花園一條行人路上，吃力地揹著一個破爛背囊及手提著膠袋，內藏約二十四罐啤酒。據目擊者稱，<span class=\"bwz\">在網上瘋傳的片段</span>拍下女童步履艱難的一刻，數名途人曾主動提出代她搬運，惟女童拒絕，並解釋若未能完成任務，恐怕會被父親責罵。</p><p>38歲父親及32歲母親雙雙被捕，社會福利署已就此召開<span class=\"bwz\">跨專業個案會議</span>，評估家庭需要，初步建議預計一至兩星期內公布。夫婦另外三名子女已被送往醫院檢查，並暫時留院觀察以策安全。然而，公眾對這家庭的同情迅速轉為憤怒，皆因父母在電視訪問中透露他們正領取<span class=\"bwz\">綜合社會保障援助</span>，令人質疑一個領取福利援助的家庭何以仍能每年多次出外旅遊。</p><p>面對社交媒體上的<span class=\"bwz\">嚴厲的審視</span>，勞工及福利局局長孫玉菡承諾嚴格檢視這家庭的<span class=\"bwz\">福利援助金</span>，並更廣泛地檢討當局如何核實申領人的<span class=\"bwz\">家庭總收入</span>及開支。兩名家長事後均<span class=\"bwz\">獲准保釋候查</span>，母親則因自稱感到不適而短暫送院。無論結果如何，此案再次引發社會辯論，討論更早的<span class=\"bwz\">社工介入</span>能否及早發現這家庭的困難，以及現行福利資格審查程序是否足夠嚴謹，在防止制度被濫用的同時，仍能保護真正有需要的兒童。</p>",
+      "image_scene": "A quiet Hong Kong public housing estate courtyard at dusk, loose beer cans and a torn backpack left on a pavement beside a bus-stop bench; a social worker holding a clipboard stands a respectful distance away, speaking calmly to two anonymous adults with their backs turned, a residential tower block in the background.",
       "cover_text": {
-        "zh_kicker": "啟德醫院",
-        "zh_title": ["專科門診", "10.26接症"],
-        "zh_hl": "10.26",
-        "zh_sub": "外科腫瘤科率先轉介",
-        "en": "Kai Tak Hospital to open specialist clinics from October 26"
+        "zh_kicker": "屯門涉虐",
+        "zh_title": [
+          "女童揹",
+          "廿四罐啤酒"
+        ],
+        "zh_hl": "廿四罐",
+        "zh_sub": "父母涉虐兒被捕",
+        "en": "Parents arrested after girl filmed carrying two dozen beer cans"
       },
       "vocab": [
-        {"phrase": "specialist follow-up slot", "zh": "專科覆診名額", "sample": "The hospital will offer around 500 specialist follow-up slots a day once the new phase begins."},
-        {"phrase": "clinical oncology", "zh": "臨床腫瘤科", "sample": "Patients under clinical oncology will be among the first transferred to the new hospital."},
-        {"phrase": "neurosurgery", "zh": "神經外科", "sample": "The neurosurgery department will relocate its follow-up clinics before its operating theatres move."},
-        {"phrase": "patient caseload", "zh": "病人服務量", "sample": "Officials expect the patient caseload to rise steadily over the coming months."},
-        {"phrase": "staggered launch", "zh": "錯峰推出", "sample": "Hospital managers opted for a staggered launch to avoid overwhelming new staff on day one."},
-        {"phrase": "hospital capacity", "zh": "醫院服務容量", "sample": "The new wing was designed to boost hospital capacity for the whole eastern Kowloon region."},
-        {"phrase": "follow-up consultation", "zh": "覆診", "sample": "Many patients will attend their next follow-up consultation at the new site instead of the old one."},
-        {"phrase": "healthcare transition", "zh": "醫療過渡安排", "sample": "Officials admitted the healthcare transition would take time to settle into a smooth routine."},
-        {"phrase": "service relocation", "zh": "服務遷移", "sample": "The service relocation from Yau Ma Tei to Kai Tak will happen gradually over several years."},
-        {"phrase": "frontline clinician", "zh": "前線醫護人員", "sample": "Every frontline clinician involved had to learn new systems before the first patients arrived."},
-        {"phrase": "patient transfer", "zh": "病人轉介", "sample": "The hospital set up a dedicated hotline to handle questions about patient transfer arrangements."},
-        {"phrase": "surge in demand", "zh": "需求激增", "sample": "Planners built in extra staff rotations in case of a sudden surge in demand."}
+        {
+          "phrase": "ill-treatment",
+          "zh": "虐待",
+          "sample": "Police are investigating the couple on suspicion of ill-treatment of a child."
+        },
+        {
+          "phrase": "neglect",
+          "zh": "疏忽照顧",
+          "sample": "Social workers must decide whether the case amounts to neglect rather than a one-off mistake."
+        },
+        {
+          "phrase": "viral footage",
+          "zh": "瘋傳片段",
+          "sample": "Viral footage of the incident spread across local social media within hours."
+        },
+        {
+          "phrase": "welfare payments",
+          "zh": "福利援助金",
+          "sample": "Officials promised a full review of the family's welfare payments after the controversy."
+        },
+        {
+          "phrase": "multidisciplinary case conference",
+          "zh": "跨專業個案會議",
+          "sample": "A multidisciplinary case conference will decide what support, if any, the family still needs."
+        },
+        {
+          "phrase": "Comprehensive Social Security Assistance",
+          "zh": "綜合社會保障援助",
+          "sample": "The family confirmed they receive Comprehensive Social Security Assistance each month."
+        },
+        {
+          "phrase": "intense scrutiny",
+          "zh": "嚴厲的審視",
+          "sample": "The couple's spending habits came under intense scrutiny once the video went viral."
+        },
+        {
+          "phrase": "household income",
+          "zh": "家庭總收入",
+          "sample": "Caseworkers are reviewing the family's declared household income against their actual spending."
+        },
+        {
+          "phrase": "child-abuse investigation unit",
+          "zh": "虐待兒童調查組",
+          "sample": "The case was eventually passed to a dedicated child-abuse investigation unit."
+        },
+        {
+          "phrase": "bailed pending investigation",
+          "zh": "獲准保釋候查",
+          "sample": "Both parents were bailed pending investigation while police gather more evidence."
+        },
+        {
+          "phrase": "social worker intervention",
+          "zh": "社工介入",
+          "sample": "Earlier social worker intervention might have identified the family's struggles sooner."
+        },
+        {
+          "phrase": "welfare eligibility review",
+          "zh": "福利資格審查",
+          "sample": "The scandal has triggered a wider welfare eligibility review across similar cases."
+        }
       ],
       "phrases": [
-        {"en": "ease the strain on an ageing hospital", "zh": "紓緩老化醫院的壓力", "sample": "Shifting patients to Kai Tak is meant to ease the strain on an ageing hospital nearby."},
-        {"en": "phase in new services cautiously", "zh": "審慎分階段推行新服務", "sample": "Officials chose to phase in new services cautiously rather than open everything at once."},
-        {"en": "bed down new operations", "zh": "讓新運作穩定下來", "sample": "Staff need time to bed down new operations before the hospital reaches full capacity."},
-        {"en": "absorb a surge in caseload", "zh": "消化服務量激增", "sample": "Even a well-staffed clinic can struggle to absorb a surge in caseload overnight."},
-        {"en": "smooth the transition for patients", "zh": "為病人緩衝過渡", "sample": "Clearer signage and shuttle buses are meant to smooth the transition for patients."},
-        {"en": "stretch frontline resources", "zh": "令前線資源百上加斤", "sample": "An unexpected spike in attendances could stretch frontline resources at the new site."},
-        {"en": "future-proof healthcare capacity", "zh": "為醫療容量未雨綢繆", "sample": "Planners say the new hospital was built to future-proof healthcare capacity for decades."},
-        {"en": "retire an ageing facility", "zh": "淘汰老化設施", "sample": "The eventual goal is to retire an ageing facility that has served the district for over sixty years."},
-        {"en": "recalibrate patient flow", "zh": "重新調配病人流向", "sample": "Hospital managers had to recalibrate patient flow across two campuses during the handover."},
-        {"en": "guard against service bottlenecks", "zh": "防範服務樽頸", "sample": "Extra clinic slots were added to guard against service bottlenecks in the first few months."},
-        {"en": "build public confidence in a new facility", "zh": "建立公眾對新設施的信心", "sample": "A smooth first month is seen as essential to build public confidence in a new facility."},
-        {"en": "manage expectations around waiting times", "zh": "妥善管理對輪候時間的期望", "sample": "Officials tried to manage expectations around waiting times during the handover period."},
-        {"en": "roll out services in measured stages", "zh": "有序地分階段推行服務", "sample": "The hospital chose to roll out services in measured stages rather than risk early failures."},
-        {"en": "close the gap in specialist capacity", "zh": "填補專科服務容量的缺口", "sample": "The new clinics are expected to close the gap in specialist capacity across eastern Kowloon."},
-        {"en": "keep continuity of care intact", "zh": "保持醫療服務的連貫性", "sample": "Doctors stressed that patient records were transferred carefully to keep continuity of care intact."}
+        {
+          "en": "raises serious questions about parental responsibility",
+          "zh": "引起對父母責任的嚴重質疑",
+          "sample": "The footage raises serious questions about parental responsibility and judgement."
+        },
+        {
+          "en": "exposes gaps in the social safety net",
+          "zh": "暴露社會安全網的漏洞",
+          "sample": "Commentators say the case exposes gaps in the social safety net meant to protect children."
+        },
+        {
+          "en": "prompted a swift welfare review",
+          "zh": "促使當局迅速檢討福利制度",
+          "sample": "Public anger prompted a swift welfare review of how benefits are verified."
+        },
+        {
+          "en": "the child's best interests must come first",
+          "zh": "兒童的最佳利益必須放在首位",
+          "sample": "Officials insisted that the child's best interests must come first in any decision."
+        },
+        {
+          "en": "sparked a wave of public outrage",
+          "zh": "引發一連串公眾怒火",
+          "sample": "The video sparked a wave of public outrage within hours of being posted online."
+        },
+        {
+          "en": "highlights the need for closer monitoring",
+          "zh": "突顯加強監察的必要",
+          "sample": "The case highlights the need for closer monitoring of at-risk households."
+        },
+        {
+          "en": "a cautionary tale about child safety",
+          "zh": "有關兒童安全的警世故事",
+          "sample": "Parenting forums are treating the story as a cautionary tale about child safety."
+        },
+        {
+          "en": "reignited debate over welfare eligibility",
+          "zh": "重新引發有關福利資格的爭論",
+          "sample": "The scandal has reignited debate over welfare eligibility and means-testing."
+        },
+        {
+          "en": "calls for stricter means-testing",
+          "zh": "要求更嚴格的經濟審查",
+          "sample": "Lawmakers are now making calls for stricter means-testing of welfare recipients."
+        },
+        {
+          "en": "placed under temporary protective custody",
+          "zh": "被暫時安排接受保護性照顧",
+          "sample": "The siblings were placed under temporary protective custody while the case was reviewed."
+        },
+        {
+          "en": "the family's circumstances warrant further investigation",
+          "zh": "這家庭的狀況值得進一步調查",
+          "sample": "Social workers agreed that the family's circumstances warrant further investigation."
+        },
+        {
+          "en": "a stark reminder of at-risk households",
+          "zh": "赤裸裸地提醒社會有高風險家庭存在",
+          "sample": "The case stands as a stark reminder of at-risk households hiding in plain sight."
+        },
+        {
+          "en": "public sympathy was quickly overshadowed by anger",
+          "zh": "公眾的同情很快被憤怒蓋過",
+          "sample": "Public sympathy was quickly overshadowed by anger once the welfare claims emerged."
+        },
+        {
+          "en": "erodes trust in the welfare system",
+          "zh": "削弱公眾對福利制度的信任",
+          "sample": "Cases like this erode trust in the welfare system among ordinary taxpayers."
+        },
+        {
+          "en": "demands a coordinated response from multiple agencies",
+          "zh": "需要多個機構協調應對",
+          "sample": "Protecting vulnerable children demands a coordinated response from multiple agencies."
+        }
+      ]
+    },
+    {
+      "source_name": "South China Morning Post",
+      "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370076/abby-choi-gave-hk2m-waffle-shop-bootlicker-ex-brother-law-trial-told",
+      "published_date": "7 October 2026",
+      "headline": "Abby Choi Gave HK$2m for Waffle Shop to Ex-Brother-in-Law, Murder Trial Told",
+      "category": "law",
+      "summary_html": "<p>The murder trial of Hong Kong model and influencer Abby Choi Tin-fung entered its third week with <span class=\"bw\">testimony<span class=\"tip\"><span class=\"tip-en\">a formal statement given as evidence in court</span><span class=\"tip-zh\">證供</span></span></span> from her mother, Cheung Yin-fa, who told the court that her daughter had lent roughly HK$2 million to her former brother-in-law, Anthony Kwong, to open an egg-waffle shop while he claimed to be jobless. <span class=\"bw\">defence counsel<span class=\"tip\"><span class=\"tip-en\">the lawyer representing the accused in a criminal case</span><span class=\"tip-zh\">辯方律師</span></span></span> suggested during <span class=\"bw\">cross-examination<span class=\"tip\"><span class=\"tip-en\">the questioning of a witness by the opposing side in a trial</span><span class=\"tip-zh\">盤問</span></span></span> the true figure was closer to HK$800,000, and the pandemic-hit business never turned a profit.</p><p>Anthony Kwong is one of three defendants on trial, alongside her ex-husband Alex Kwong and his father, Kwong Kau; all three have entered a <span class=\"bw\">not guilty plea<span class=\"tip\"><span class=\"tip-en\">a formal statement to the court denying the criminal charge</span><span class=\"tip-zh\">不認罪的答辯</span></span></span>. Prosecutors allege the killing grew out of a bitter <span class=\"bw\">financial feud<span class=\"tip\"><span class=\"tip-en\">a long-running, bitter dispute over money</span><span class=\"tip-zh\">財務糾紛</span></span></span> over a proposed sale of a HK$72 million Ho Man Tin flat that Kwong Kau was said to have fiercely opposed. Cheung's account from the <span class=\"bw\">witness stand<span class=\"tip\"><span class=\"tip-en\">the place in a courtroom where a witness stands or sits to give evidence</span><span class=\"tip-zh\">證人台</span></span></span> painted a family bound by generosity and resentment alike, long before the dispute turned violent.</p><p>With the trial expected to run into December, jurors must weigh a mass of <span class=\"bw\">trial proceedings<span class=\"tip\"><span class=\"tip-en\">the formal process and events that take place during a court case</span><span class=\"tip-zh\">審訊過程</span></span></span> to decide whether the alleged <span class=\"bw\">motive<span class=\"tip\"><span class=\"tip-en\">the reason behind a person’s action, especially a crime</span><span class=\"tip-zh\">動機</span></span></span> of greed is enough to establish guilt. The case, which has gripped public attention since 2023, keeps exposing how swiftly a <span class=\"bw\">family estrangement<span class=\"tip\"><span class=\"tip-en\">a breakdown in relationships between family members</span><span class=\"tip-zh\">家庭疏離</span></span></span> rooted in money can curdle into tragedy.</p>",
+      "summary_zh_html": "<p>香港名模兼社交媒體紅人蔡天鳳的謀殺審訊進入第三週，其母張艶芬在庭上提供<span class=\"bwz\">證供</span>，指女兒曾借出約二百萬港元給前夫的弟弟郭丙江，助他在自稱失業期間開設雞蛋仔店。張艶芬稱，蔡天鳳出於家人情誼亦聘用郭丙江為司機，惟<span class=\"bwz\">辯方律師</span>在<span class=\"bwz\">盤問</span>時指出，實際金額應較接近八十萬港元，而該店因受疫情限制重創，從未賺取利潤。</p><p>郭丙江是三名受審被告之一，其餘兩人為蔡天鳳的前夫郭兆恒及其父郭永樂；三人均已作出<span class=\"bwz\">不認罪的答辯</span>。檢方指控，二零二三年二月的這場殺機，源於家族內一場激烈的<span class=\"bwz\">財務糾紛</span>，核心是一間位於何文田、估值七千二百萬港元的住宅物業出售計劃，郭永樂據稱強烈反對。張艶芬在<span class=\"bwz\">證人台</span>上的描述，呈現出一個同時被慷慨與怨恨牽繫的家庭，遠在糾紛演變成暴力之前已經埋下種子。</p><p>審訊預料將延至十二月，陪審團仍須消化大量<span class=\"bwz\">審訊過程</span>與證供，以裁定涉及物業與金錢的貪念<span class=\"bwz\">動機</span>是否足以在毫無合理疑點下確立罪責。這宗案件自蔡天鳳二零二三年遺體被發現以來，一直牽動公眾注意力，亦持續揭示一場源於金錢的<span class=\"bwz\">家庭疏離</span>可以如何迅速演變成悲劇，為任何認為親屬間的經濟援助毫無風險的人，提供一個令人警醒的案例。</p>",
+      "image_scene": "The exterior of Hong Kong's High Court building in Admiralty on an overcast morning; anonymous lawyers in black court robes carry document folders up the front steps as a court usher holds open a heavy wooden door, with Victoria Harbour visible in the distance.",
+      "cover_text": {
+        "zh_kicker": "家族命案",
+        "zh_title": [
+          "母親作證",
+          "兩百萬開舖"
+        ],
+        "zh_hl": "兩百萬",
+        "zh_sub": "蔡天鳳謀殺案審訊",
+        "en": "Mother testifies HK$2 million funded waffle shop before killing"
+      },
+      "vocab": [
+        {
+          "phrase": "premeditated",
+          "zh": "預謀的",
+          "sample": "Prosecutors must prove the killing was premeditated rather than a sudden act of rage."
+        },
+        {
+          "phrase": "testimony",
+          "zh": "證供",
+          "sample": "The mother's testimony gave jurors a rare glimpse into the family's finances."
+        },
+        {
+          "phrase": "defence counsel",
+          "zh": "辯方律師",
+          "sample": "Defence counsel challenged the prosecution's account of the loan during cross-examination."
+        },
+        {
+          "phrase": "cross-examination",
+          "zh": "盤問",
+          "sample": "The witness grew visibly uncomfortable under intense cross-examination."
+        },
+        {
+          "phrase": "estate dispute",
+          "zh": "物業糾紛",
+          "sample": "The estate dispute over the Ho Man Tin flat is central to the prosecution's case."
+        },
+        {
+          "phrase": "financial feud",
+          "zh": "財務糾紛",
+          "sample": "A long-running financial feud between in-laws can poison an entire family."
+        },
+        {
+          "phrase": "witness stand",
+          "zh": "證人台",
+          "sample": "She appeared calm on the witness stand despite the emotional subject matter."
+        },
+        {
+          "phrase": "not guilty plea",
+          "zh": "不認罪的答辯",
+          "sample": "All three defendants entered a not guilty plea at the start of the trial."
+        },
+        {
+          "phrase": "corroborating evidence",
+          "zh": "佐證證據",
+          "sample": "Prosecutors are still gathering corroborating evidence to support the mother's account."
+        },
+        {
+          "phrase": "family estrangement",
+          "zh": "家庭疏離",
+          "sample": "Years of family estrangement can make a sudden reconciliation attempt dangerous."
+        },
+        {
+          "phrase": "trial proceedings",
+          "zh": "審訊過程",
+          "sample": "Trial proceedings are expected to continue well into December."
+        },
+        {
+          "phrase": "motive",
+          "zh": "動機",
+          "sample": "Establishing a clear motive is often essential to securing a murder conviction."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "lays bare the darker side of family relationships",
+          "zh": "揭露家庭關係中陰暗的一面",
+          "sample": "The trial lays bare the darker side of family relationships built on money."
+        },
+        {
+          "en": "a chilling reminder of how disputes can escalate",
+          "zh": "令人心寒地提醒糾紛可如何升級",
+          "sample": "The case is a chilling reminder of how disputes can escalate into violence."
+        },
+        {
+          "en": "the case has gripped public attention",
+          "zh": "此案牽動公眾注意力",
+          "sample": "The case has gripped public attention since the victim's remains were first found."
+        },
+        {
+          "en": "raises difficult questions about trust within families",
+          "zh": "引起對家庭內信任的艱難質疑",
+          "sample": "The testimony raises difficult questions about trust within families when money is involved."
+        },
+        {
+          "en": "the prosecution's case rests on",
+          "zh": "檢方的論據建基於",
+          "sample": "The prosecution's case rests on proving a clear financial motive for the killing."
+        },
+        {
+          "en": "casts a long shadow over",
+          "zh": "為……投下長長的陰影",
+          "sample": "The scandal casts a long shadow over what was once seen as a close-knit family."
+        },
+        {
+          "en": "the full truth may never come to light",
+          "zh": "真相未必能完全曝光",
+          "sample": "Some observers fear the full truth may never come to light given conflicting testimony."
+        },
+        {
+          "en": "underscores the importance of due process",
+          "zh": "凸顯恪守正當程序的重要性",
+          "sample": "A trial this complex underscores the importance of due process for every defendant."
+        },
+        {
+          "en": "a protracted legal battle",
+          "zh": "一場曠日持久的法律爭訟",
+          "sample": "Legal experts predict a protracted legal battle given the volume of evidence involved."
+        },
+        {
+          "en": "financial disputes can turn toxic",
+          "zh": "財務糾紛可演變得極具破壞性",
+          "sample": "The case shows how quickly financial disputes can turn toxic between relatives."
+        },
+        {
+          "en": "the verdict will be closely watched",
+          "zh": "裁決將備受關注",
+          "sample": "Given the public interest, the verdict will be closely watched across Hong Kong."
+        },
+        {
+          "en": "exposes the fragility of family bonds",
+          "zh": "暴露家庭關係的脆弱",
+          "sample": "The trial exposes the fragility of family bonds when large sums of money are at stake."
+        },
+        {
+          "en": "driven by greed and resentment",
+          "zh": "由貪念與怨恨所驅使",
+          "sample": "Prosecutors argue the killing was driven by greed and resentment over shared property."
+        },
+        {
+          "en": "the wheels of justice turn slowly",
+          "zh": "司法程序進展緩慢",
+          "sample": "With the trial likely to last months, the wheels of justice turn slowly in complex cases."
+        },
+        {
+          "en": "a sobering illustration of broken trust",
+          "zh": "一個令人警醒的、關於信任破裂的例子",
+          "sample": "The whole saga stands as a sobering illustration of broken trust between relatives."
+        }
+      ]
+    },
+    {
+      "source_name": "South China Morning Post",
+      "source_url": "https://www.scmp.com/business/banking-finance/article/3370203/amid-battle-ai-edge-hong-kong-presses-hsbc-over-singapore-hub-decision-sources",
+      "published_date": "8 October 2026",
+      "headline": "Amid Battle for AI Edge, Hong Kong Presses HSBC Over Singapore Hub Decision",
+      "category": "tech",
+      "summary_html": "<p>Hong Kong's banking regulator has pressed HSBC for an explanation after the lender chose Singapore, rather than its largest market, as the base for a new global <span class=\"bw\">AI centre of excellence<span class=\"tip\"><span class=\"tip-en\">a dedicated unit bringing together the best staff and resources in a particular technology</span><span class=\"tip-zh\">人工智能卓越中心</span></span></span>, sources say. The HKMA approached HSBC in recent months over the decision, which will see the bank hire over 100 AI specialists and 100 wealth managers in the city-state by year end, as both hubs compete for the region's thin pool of AI talent.</p><p>HSBC's Singapore team will focus on <span class=\"bw\">agentic AI<span class=\"tip\"><span class=\"tip-en\">artificial intelligence systems that can act and make decisions with little human guidance</span><span class=\"tip-zh\">具自主行動能力的人工智能</span></span></span> tools that automate banking tasks, on personalising <span class=\"bw\">wealth management<span class=\"tip\"><span class=\"tip-en\">professional services that manage a client’s investments and assets</span><span class=\"tip-zh\">財富管理</span></span></span> advice, and on expanding <span class=\"bw\">digital payment capabilities<span class=\"tip\"><span class=\"tip-en\">the technical ability to process payments electronically</span><span class=\"tip-zh\">數碼支付能力</span></span></span> across Asia. The announcement came weeks after HSBC agreed to sell its Singaporean insurance arm to Allianz, leading some to suggest the move was partly meant to <span class=\"bw\">reassure<span class=\"tip\"><span class=\"tip-en\">to restore someone’s confidence or remove their doubts</span><span class=\"tip-zh\">重新讓……安心</span></span></span> Singapore rather than a purely <span class=\"bw\">strategic allocation<span class=\"tip\"><span class=\"tip-en\">a deliberate decision about where to place resources for long-term advantage</span><span class=\"tip-zh\">策略性資源分配</span></span></span> of resources.</p><p>The episode has reignited concerns that Hong Kong risks losing its <span class=\"bw\">first-mover advantage<span class=\"tip\"><span class=\"tip-en\">the edge gained by being the first to act in a market or field</span><span class=\"tip-zh\">先行者優勢</span></span></span> as the region's dominant <span class=\"bw\">financial hub<span class=\"tip\"><span class=\"tip-en\">a city that serves as a centre for banking and financial services</span><span class=\"tip-zh\">金融中心</span></span></span> if banks look elsewhere for technology investment. The HKMA is also reported to have urged HSBC and Standard Chartered to shift senior roles back to the city, sharpening a fierce <span class=\"bw\">talent competition<span class=\"tip\"><span class=\"tip-en\">rivalry between places or companies to attract skilled workers</span><span class=\"tip-zh\">人才競爭</span></span></span> with Singapore. HSBC declined to comment.</p>",
+      "summary_zh_html": "<p>據知情人士透露，香港的銀行業監管機構已要求滙豐銀行解釋，為何選擇新加坡而非其最大市場，作為新設全球<span class=\"bwz\">人工智能卓越中心</span>的基地。據悉，香港金融管理局近月已就此決定向滙豐查詢，該決定將令滙豐於年底前在這個城邦國家增聘逾一百名人工智能專才及一百名財富管理人員，令兩個金融中心同時爭奪區內有限的人工智能人才。</p><p>滙豐在新加坡的團隊預料將專注於<span class=\"bwz\">具自主行動能力的人工智能</span>工具，用以自動處理複雜銀行事務，並為客戶提供更個人化的<span class=\"bwz\">財富管理</span>建議，以及擴展該行在亞洲的<span class=\"bwz\">數碼支付能力</span>。據知悉討論內情的人士透露，滙豐宣布此決定僅在同意將新加坡的人壽及醫療保險業務出售予德國安聯之後數週，因此有人認為，這項人工智能投資部分是為了<span class=\"bwz\">重新讓新加坡政府安心</span>，顯示銀行對該市場的持續承諾，而非純粹的<span class=\"bwz\">策略性資源分配</span>。</p><p>事件再次引發外界憂慮，香港作為區內主導<span class=\"bwz\">金融中心</span>的<span class=\"bwz\">先行者優勢</span>可能逐漸流失，因為環球銀行在尖端科技投資上愈來愈傾向另覓他處。另外，據報金管局亦促請滙豐及渣打將更多高級管理職位調回香港，令香港與新加坡之間本已激烈的<span class=\"bwz\">人才競爭</span>進一步升溫。滙豐拒絕評論與監管機構的討論內容，金管局則只表示一直與認可機構就廣泛事宜保持溝通，外界則須自行判斷這次決定對香港的影響應有多大。</p>",
+      "image_scene": "A sleek bank headquarters lobby at night in Central, Hong Kong, glass walls reflecting neon skyline lights; anonymous office workers walk past a wall-mounted digital display showing abstract data graphics, with Victoria Harbour visible through floor-to-ceiling windows.",
+      "cover_text": {
+        "zh_kicker": "AI中心",
+        "zh_title": [
+          "滙豐AI",
+          "中心設新加坡"
+        ],
+        "zh_hl": "新加坡",
+        "zh_sub": "金管局質疑滙豐決定",
+        "en": "HKMA questions HSBC's decision to base AI hub in Singapore"
+      },
+      "vocab": [
+        {
+          "phrase": "financial hub",
+          "zh": "金融中心",
+          "sample": "Hong Kong has long marketed itself as Asia's leading financial hub."
+        },
+        {
+          "phrase": "talent competition",
+          "zh": "人才競爭",
+          "sample": "Talent competition between Hong Kong and Singapore has intensified in the AI era."
+        },
+        {
+          "phrase": "regulatory scrutiny",
+          "zh": "監管審視",
+          "sample": "Major banks now face closer regulatory scrutiny over where they base new technology teams."
+        },
+        {
+          "phrase": "wealth management",
+          "zh": "財富管理",
+          "sample": "The new AI tools are designed to make wealth management advice more personalised."
+        },
+        {
+          "phrase": "agentic AI",
+          "zh": "具自主行動能力的人工智能",
+          "sample": "Agentic AI can complete multi-step banking tasks with minimal human input."
+        },
+        {
+          "phrase": "relocate",
+          "zh": "調遷",
+          "sample": "Regulators want the bank to relocate more senior roles back to Hong Kong."
+        },
+        {
+          "phrase": "strategic allocation",
+          "zh": "策略性資源分配",
+          "sample": "Executives insisted the decision was a strategic allocation of resources, not a retreat."
+        },
+        {
+          "phrase": "first-mover advantage",
+          "zh": "先行者優勢",
+          "sample": "Hong Kong risks losing its first-mover advantage in regional fintech investment."
+        },
+        {
+          "phrase": "AI centre of excellence",
+          "zh": "人工智能卓越中心",
+          "sample": "The new AI centre of excellence will bring together specialists from across the bank."
+        },
+        {
+          "phrase": "cross-border rivalry",
+          "zh": "跨境競爭",
+          "sample": "The dispute highlights the cross-border rivalry between Hong Kong and Singapore."
+        },
+        {
+          "phrase": "digital payment capabilities",
+          "zh": "數碼支付能力",
+          "sample": "Expanding digital payment capabilities is a priority for banks across Asia."
+        },
+        {
+          "phrase": "reassure",
+          "zh": "令……安心",
+          "sample": "The investment was partly meant to reassure Singapore of the bank's long-term commitment."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "threatens to erode Hong Kong's competitive edge",
+          "zh": "可能削弱香港的競爭優勢",
+          "sample": "Losing major AI investment threatens to erode Hong Kong's competitive edge in finance."
+        },
+        {
+          "en": "a wake-up call for policymakers",
+          "zh": "給政策制定者的警號",
+          "sample": "Analysts called the decision a wake-up call for policymakers worried about talent flight."
+        },
+        {
+          "en": "raises uncomfortable questions about the city's appeal",
+          "zh": "引起對本市吸引力的尷尬質疑",
+          "sample": "The snub raises uncomfortable questions about the city's appeal to global tech investors."
+        },
+        {
+          "en": "intensifies the regional race for AI talent",
+          "zh": "加劇區內爭奪人工智能人才的競賽",
+          "sample": "The announcement intensifies the regional race for AI talent between rival hubs."
+        },
+        {
+          "en": "casts doubt on Hong Kong's status as a financial hub",
+          "zh": "令人質疑香港作為金融中心的地位",
+          "sample": "Repeated setbacks like this cast doubt on Hong Kong's status as a financial hub."
+        },
+        {
+          "en": "a strategic snub that cannot be ignored",
+          "zh": "一次不容忽視的策略性冷落",
+          "sample": "Officials reportedly treated the decision as a strategic snub that cannot be ignored."
+        },
+        {
+          "en": "highlights the urgency of regulatory reform",
+          "zh": "凸顯監管改革的緊迫性",
+          "sample": "The episode highlights the urgency of regulatory reform to keep banks invested locally."
+        },
+        {
+          "en": "underscores the stakes of the AI race",
+          "zh": "凸顯這場人工智能競賽的重要性",
+          "sample": "The dispute underscores the stakes of the AI race between Asia's financial centres."
+        },
+        {
+          "en": "a symbolic blow to local ambitions",
+          "zh": "對本地野心的一次象徵性打擊",
+          "sample": "Losing the AI centre is seen as a symbolic blow to local ambitions in fintech."
+        },
+        {
+          "en": "prompted swift intervention from regulators",
+          "zh": "促使監管機構迅速介入",
+          "sample": "Concerns over the decision prompted swift intervention from regulators."
+        },
+        {
+          "en": "reflects shifting corporate priorities",
+          "zh": "反映企業優次的轉變",
+          "sample": "The relocation reflects shifting corporate priorities within global banking groups."
+        },
+        {
+          "en": "the decision speaks volumes about",
+          "zh": "這個決定充分反映了……",
+          "sample": "The decision speaks volumes about how banks now weigh talent pools against tradition."
+        },
+        {
+          "en": "a litmus test for the city's ambitions",
+          "zh": "對本市野心的一次試驗",
+          "sample": "How Hong Kong responds will serve as a litmus test for the city's ambitions in AI."
+        },
+        {
+          "en": "exposes vulnerabilities in the city's talent pipeline",
+          "zh": "暴露本市人才供應的弱點",
+          "sample": "The dispute exposes vulnerabilities in the city's talent pipeline for emerging technologies."
+        }
       ]
     }
   ],
   "trends": [
     {
-      "platforms": ["tiktok", "ig"],
-      "headline": "🎃 Hong Kong's First-Ever Citywide 'Halloween Month' Takes Over IG",
-      "summary_html": "<p>Hong Kong's social feeds are filling up with countdown posts for the city's first-ever citywide \"Hong Kong Halloween Month,\" a Tourism Board initiative built around three Saturday-night street parties — in Lan Kwai Fong and several other districts — on October 17, 24 and 31.</p><p>Under the tagline \"Make the Streets Your Runway,\" organisers are blending classic Halloween costumes with local touches such as red minibuses and Cantopop references, while shoppers flock to costume hotspots like Central's Pottinger Street and Sham Shui Po's Fuk Wing Street to find outfits before the parades begin.</p><p>For many young Hongkongers, posting outfit-of-the-day previews and shopping hauls has become its own pre-event ritual, turning the lead-up to the parties into as much of a social media moment as the parades themselves.</p>",
-      "summary_zh_html": "<p>香港的社交平台近日湧現大批倒數帖文，迎接全港首次舉辦的「香港萬聖節月」——由旅遊發展局主辦，核心活動是三場周六晚街頭派對，分別在蘭桂坊及其他多個地區舉行，日期為十月十七日、二十四日及三十一日。</p><p>活動以「讓街道成為你的天橋」為主題，將經典萬聖節造型與本地元素結合，例如紅色小巴及廣東歌文化，而不少市民亦趕在派對前到中環砵典乍街及深水埗福榮街等服裝熱點搜羅戰衣。</p><p>對不少香港年輕人而言，提前在社交媒體上載「今日穿搭」預告及戰利品照，已成為活動前的指定動作，令派對前的準備過程本身也成為一場社交媒體盛事。</p>",
+      "platforms": [
+        "threads",
+        "ig"
+      ],
+      "headline": "🐱 Ron Ng & Kelly Cheung's 'Shared Cat' Clues Spark Romance Frenzy",
+      "summary_html": "<p>Hong Kong social media has been buzzing after actors Ron Ng Cheuk-hei and Kelly Cheung Hei-man appeared together at a press conference for their new TVB drama, their first joint public appearance since rumours of a romance began circulating. Rather than confirming or denying anything, the pair repeatedly tried to <span class=\"bw\">deflect<span class=\"tip\"><span class=\"tip-en\">to turn attention away from a sensitive topic</span><span class=\"tip-zh\">轉移視線</span></span></span> questions back to the show itself, yet eagle-eyed fans online pointed to a shared cat the two have each posted on their own accounts as supposed proof of a secret relationship.</p><p>Cheung, who has described herself as a single mother, said she remained open to new romance, while Ng called her the <span class=\"bw\">ideal match<span class=\"tip\"><span class=\"tip-en\">someone who fits a particular set of expectations unusually well</span><span class=\"tip-zh\">理想對象</span></span></span> for a girlfriend without quite admitting they were dating. Clips of their flustered, giggling exchange have since been dissected frame by frame across Threads and Instagram, turning an ordinary promotional event into one of the week's most discussed local topics.</p>",
+      "summary_zh_html": "<p>吳卓羲與張曦雯為新劇舉行記者會，是兩人傳出緋聞後首次同場亮相，事件在香港社交媒體上掀起熱議。二人未有正面承認或否認戀情，吳卓羲多次嘗試將問題<span class=\"bwz\">轉移視線</span>回劇集本身，惟網民眼利，指出二人各自帳戶上曾分享同一隻貓的照片，視之為二人暗中拍拖的「證據」。</p><p>自稱單親媽媽的張曦雯表示對新戀情持開放態度，吳卓羲則形容她是「做女朋友梗係冇得頂」的<span class=\"bwz\">理想對象</span>，但始終未正式承認拍拖。二人略帶尷尬、不時傻笑的互動片段，隨後在Threads及Instagram上被網民逐格分析，令一場原本屬宣傳性質的活動，變成本週香港最熱議的話題之一。</p>",
       "causes": [
-        {"label": "Lan Kwai Fong's Halloween economy boost", "text": "Bars, costume shops and restaurants around Lan Kwai Fong are gearing up for one of their busiest nights of the year, with past Halloweens delivering sharp turnover increases for the district. A Paper 2 essay could weigh how a single themed weekend props up small businesses, while asking whether such spikes merely paper over quieter months the rest of the year."},
-        {"label": "Red minibuses as a Halloween costume motif", "text": "By folding red minibuses and Cantopop references into a Western festival, organisers are testing whether a borrowed tradition can still feel distinctly local. Students could explore whether this kind of playful localisation strengthens a shared sense of Hong Kong identity, or whether it simply repackages a global trend with a thin layer of local decoration."},
-        {"label": "Costume spending leaves lower-income teens on the sidelines", "text": "Elaborate costumes, makeup and props can cost hundreds of dollars, putting the full experience out of reach for students from lower-income households even as the event is marketed as a citywide celebration open to everyone. This raises a question worth exploring in Paper 2 about who a 'citywide' festival really includes, and who is left watching from the sidelines."},
-        {"label": "A government-choreographed festival versus organic street culture", "text": "Critics argue that a Tourism-Board-run 'Halloween Month,' complete with official branding and scheduled parades, risks replacing the spontaneous, bottom-up energy that once made Lan Kwai Fong's Halloween famous among locals. A counter-argument worth exploring is whether official packaging drains authenticity from grassroots celebrations even as it makes them safer and better organised."}
+        {
+          "label": "Rumour Dressed Up as Confirmed News",
+          "text": "Neither celebrity actually confirmed the relationship, yet headlines and social posts widely treated the romance as established fact. Students could examine how quickly an ambiguous press conference gets reshaped into a definite story once shared and reshared, and what responsibility readers bear for checking a claim before passing it on."
+        },
+        {
+          "label": "A Single Mother's Private Life Turned Into Content",
+          "text": "Cheung's disclosure that she is a single mother became fodder for tabloid speculation rather than being treated with basic discretion. This raises questions about whether entertainment coverage respects the dignity of public figures who are also parents, or whether personal vulnerability is simply repackaged for clicks and engagement."
+        },
+        {
+          "label": "Fans as Amateur Investigators",
+          "text": "Online users combed through both stars' old posts to find the matching cat photo, essentially building a case from publicly available but never-intended-for-this-purpose data. It is worth asking whether such crowd-sourced digging crosses a line between harmless fan curiosity and an uncomfortable invasion of someone's ordinary daily life."
+        },
+        {
+          "label": "Noise That Crowds Out Substantive News",
+          "text": "Sceptics would argue that an unconfirmed celebrity rumour hardly deserves the volume of attention it received this week, especially when genuine policy and community issues compete for the same limited space in people's news feeds. Measured against its actual significance, the frenzy says more about online boredom than about anything newsworthy."
+        }
       ]
     }
   ]

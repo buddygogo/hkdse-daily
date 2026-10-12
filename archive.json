@@ -19543,6 +19543,650 @@
    ],
    "date": "2026-10-11",
    "id": "acef3e42b"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/345111/Hong-Kong-Cyclothon-returns-with-new-Central-Kowloon-Bypass-section",
+   "published_date": "11 October 2026",
+   "headline": "Hong Kong Cyclothon Returns With New Central Kowloon Bypass Route",
+   "category": "sports",
+   "summary_html": "<p>Hong Kong's cycling calendar reached a milestone on Sunday when the Sun Hung Kai Properties Hong Kong Cyclothon drew more than 6,000 riders for a <span class=\"bw\">mass-participation sporting event<span class=\"tip\"><span class=\"tip-en\">a sports event designed for large numbers of ordinary participants, not just elite athletes</span><span class=\"tip-zh\">大型群眾參與體育活動</span></span></span> that, for the first time, sent cyclists along a stretch of the Central Kowloon Bypass. All four rides began and ended at the West Kowloon Cultural District, with the signature 56-kilometre challenge setting off at 5.15am over what organisers called a \"five-tunnel, three-bridge\" course.</p><p>The bypass section, opened to motor traffic only in recent years, required extensive <span class=\"bw\">road closures<span class=\"tip\"><span class=\"tip-en\">the temporary shutting of roads to normal traffic for an event</span><span class=\"tip-zh\">封路</span></span></span> and coordination between the organiser and the Transport Department. Riders who completed the stretch described it as the most demanding part of the route, citing its narrow carriageway, <span class=\"bw\">gentle inclines<span class=\"tip\"><span class=\"tip-en\">slight upward slopes that still tire riders over distance</span><span class=\"tip-zh\">緩坡</span></span></span> and confined airflow inside the tunnels, which trapped heat and left little room to overtake.</p><p>For the government and event sponsors, folding a strategic road project into a cycling festival carries value well beyond a single Sunday. It lets planners <span class=\"bw\">showcase infrastructure<span class=\"tip\"><span class=\"tip-en\">to present a public facility to the public in a favourable light</span><span class=\"tip-zh\">展示基建設施</span></span></span> built at public expense and lean on the Cyclothon's established following to build <span class=\"bw\">cycling tourism<span class=\"tip\"><span class=\"tip-en\">travel motivated specifically by the chance to cycle in a destination</span><span class=\"tip-zh\">單車旅遊</span></span></span> around Hong Kong. Officials have in recent years cast such mass-participation races as a way to extend the <span class=\"bw\">legacy value<span class=\"tip\"><span class=\"tip-en\">the lasting benefit a piece of infrastructure or event continues to provide after its original purpose</span><span class=\"tip-zh\">延續價值</span></span></span> of transport projects, pairing an everyday commuter route with a once-a-year spectacle that draws both local riders and overseas entrants eager to test a course unlike any other in the region.</p>",
+   "summary_zh_html": "<p>「新鴻基地產香港單車節」於星期日吸引超過六千名車手參與,是本港單車活動的一大里程碑,成為一項<span class=\"bwz\">大型群眾參與體育活動</span>,首次讓車手駛經中九龍幹線的一段路段。四項賽事均以西九文化區為起點及終點,其中最矚目的56公里挑戰賽於早上5時15分出發,途經主辦單位稱為「五隧三橋」的賽道。</p><p>中九龍幹線近年才開放予車輛使用,這次活動需要大範圍<span class=\"bwz\">封路</span>,並須與運輸署緊密協調。完成該路段的車手形容這是全程最艱辛的部分,指路面狹窄、<span class=\"bwz\">緩坡</span>不斷,加上隧道內空氣不流通,熱氣難以散去,亦難以超車。</p><p>對政府及活動贊助商而言,將一項策略性道路工程融入單車節,其價值遠超一個星期日的意義。這讓規劃者得以<span class=\"bwz\">向公眾展示以公帑興建的基建</span>,並借助單車節既有的號召力推動<span class=\"bwz\">單車旅遊</span>發展。近年官員一直將此類大型群眾參與賽事視為延伸交通基建<span class=\"bwz\">延續價值</span>的方法,將日常通勤路線與一年一度的盛事結合,既吸引本地車手,亦吸引渴望挑戰區內獨有賽道的海外參賽者。</p>",
+   "image_scene": "A long line of cyclists in colourful matching jerseys and helmets riding through a brightly lit highway tunnel at dawn, support marshals in high-visibility vests standing along the barrier-lined route, with the Hong Kong skyline and harbour faintly visible beyond the tunnel's far exit.",
+   "cover_text": {
+    "zh_kicker": "單車節",
+    "zh_title": [
+     "六千車手",
+     "闖中九龍幹線"
+    ],
+    "zh_hl": "六千",
+    "zh_sub": "首次開放予單車活動",
+    "en": "Over 6,000 cyclists ride Hong Kong's new highway bypass"
+   },
+   "vocab": [
+    {
+     "phrase": "cycling fraternity",
+     "zh": "單車界",
+     "sample": "Members of Hong Kong's cycling fraternity welcomed the new bypass route as proof the sport is finally being taken seriously."
+    },
+    {
+     "phrase": "stage marshal",
+     "zh": "賽道工作人員",
+     "sample": "A stage marshal waved riders through the tunnel junction to prevent any bottleneck forming at the narrowest point."
+    },
+    {
+     "phrase": "carriageway",
+     "zh": "行車道",
+     "sample": "The bypass carriageway proved far narrower than most riders expected, leaving little room for faster cyclists to pass."
+    },
+    {
+     "phrase": "tailwind",
+     "zh": "順風",
+     "sample": "A brief tailwind on the harbourfront stretch helped slower riders claw back time lost in the tunnels."
+    },
+    {
+     "phrase": "gradient",
+     "zh": "坡度",
+     "sample": "Even a modest gradient inside the tunnel was enough to exhaust riders who had already covered forty kilometres."
+    },
+    {
+     "phrase": "support vehicle",
+     "zh": "支援車輛",
+     "sample": "A support vehicle trailed the final group of riders in case anyone suffered a mechanical failure on the new route."
+    },
+    {
+     "phrase": "mass cycling event",
+     "zh": "大型單車賽事",
+     "sample": "Organisers say the mass cycling event has grown steadily since it first introduced closed-road racing a decade ago."
+    },
+    {
+     "phrase": "feeder road",
+     "zh": "輔助道路",
+     "sample": "A feeder road near West Kowloon was closed overnight so that marshals could set up barriers before dawn."
+    },
+    {
+     "phrase": "pace line",
+     "zh": "破風隊形",
+     "sample": "Several club riders formed a pace line through the tunnel to share the effort of cutting through the still air."
+    },
+    {
+     "phrase": "finish gantry",
+     "zh": "終點拱門",
+     "sample": "Exhausted riders punched the air as they passed under the finish gantry at West Kowloon Cultural District."
+    },
+    {
+     "phrase": "hydration station",
+     "zh": "補水站",
+     "sample": "Volunteers at the hydration station handed out water to riders overheating inside the enclosed tunnel section."
+    },
+    {
+     "phrase": "overnight road diversion",
+     "zh": "通宵臨時改道",
+     "sample": "An overnight road diversion let crews seal off the bypass safely before the first wave of cyclists set off."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "repurpose public infrastructure for recreational use",
+     "zh": "將公共基建改作康樂用途",
+     "sample": "Closing a highway for a single morning lets planners repurpose public infrastructure for recreational use without any permanent cost."
+    },
+    {
+     "en": "extend the legacy of a transport project",
+     "zh": "延伸交通工程的長遠價值",
+     "sample": "A once-a-year cycling race can extend the legacy of a transport project long after its ribbon-cutting ceremony is forgotten."
+    },
+    {
+     "en": "cultivate a culture of mass participation sport",
+     "zh": "培養大眾參與體育的文化",
+     "sample": "Hong Kong has worked for years to cultivate a culture of mass participation sport rather than one centred only on elite athletes."
+    },
+    {
+     "en": "strike a balance between competitive and recreational cycling",
+     "zh": "在競技與休閒單車活動之間取得平衡",
+     "sample": "Offering both a timed race and a leisurely ride helps organisers strike a balance between competitive and recreational cycling."
+    },
+    {
+     "en": "leverage an event's established following",
+     "zh": "借助活動既有的號召力",
+     "sample": "Tourism officials hope to leverage an event's established following to draw more overseas visitors to future editions."
+    },
+    {
+     "en": "showcase a city's readiness to host international sport",
+     "zh": "展現城市承辦國際體育賽事的能力",
+     "sample": "A smoothly run cyclothon helps showcase a city's readiness to host international sport on an even larger scale."
+    },
+    {
+     "en": "justify the public expenditure behind large-scale infrastructure",
+     "zh": "證明大型基建公共開支的合理性",
+     "sample": "Finding extra uses for a highway, however briefly, helps justify the public expenditure behind large-scale infrastructure."
+    },
+    {
+     "en": "foster a sense of communal achievement",
+     "zh": "培養社區共同成就感",
+     "sample": "Crossing the finish line alongside thousands of strangers can foster a sense of communal achievement rarely felt in daily life."
+    },
+    {
+     "en": "test the limits of urban road design",
+     "zh": "考驗城市道路設計的極限",
+     "sample": "Routing thousands of cyclists through a motorway tunnel really did test the limits of urban road design."
+    },
+    {
+     "en": "position a city as a cycling-friendly destination",
+     "zh": "將城市定位為單車友善旅遊目的地",
+     "sample": "Adding a signature route each year helps position a city as a cycling-friendly destination for overseas enthusiasts."
+    },
+    {
+     "en": "balance motorists' needs against recreational demand",
+     "zh": "平衡駕駛者需要與康樂活動需求",
+     "sample": "Any road closure of this scale forces officials to balance motorists' needs against recreational demand for the day."
+    },
+    {
+     "en": "underscore the versatility of a single piece of infrastructure",
+     "zh": "凸顯單一基建設施的多功能性",
+     "sample": "A commuter tunnel doubling as a race course helps underscore the versatility of a single piece of infrastructure."
+    },
+    {
+     "en": "galvanise grassroots interest in a sport",
+     "zh": "激發普羅大眾對該運動的興趣",
+     "sample": "A record turnout like this can galvanise grassroots interest in a sport that still struggles for sponsorship."
+    },
+    {
+     "en": "capitalise on a signature sporting event",
+     "zh": "善用具標誌性的體育盛事",
+     "sample": "Hotels and restaurants nearby hope to capitalise on a signature sporting event that brings thousands of visitors into the district."
+    },
+    {
+     "en": "safeguard rider safety amid logistical complexity",
+     "zh": "在複雜的統籌安排下保障車手安全",
+     "sample": "Marshals stationed every few hundred metres were tasked with safeguarding rider safety amid logistical complexity inside the tunnels."
+    }
+   ],
+   "date": "2026-10-12",
+   "id": "a070253fe"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/345114/New-Huanggang-Port-to-open-Monday-with-initial-50000-daily-travelers",
+   "published_date": "11 October 2026",
+   "headline": "New Huanggang Port Opens Monday With Initial 50,000 Daily Travellers",
+   "category": "urban",
+   "summary_html": "<p>Hong Kong's border infrastructure took a historic step forward at 6.30am on Monday, when the revamped Huanggang Port opened its Joint Inspection Building, replacing the ageing facility that had served cross-boundary travellers for nearly three decades. Shenzhen officials expect an initial <span class=\"bw\">passenger throughput<span class=\"tip\"><span class=\"tip-en\">the number of people a facility can process within a given time</span><span class=\"tip-zh\">客流量</span></span></span> of 50,000 trips a day, climbing towards 100,000 to 200,000 as travellers adjust, before eventually exceeding 300,000 once a planned rail spur line is completed.</p><p>The port's signature feature is a <span class=\"bw\">joint clearance arrangement<span class=\"tip\"><span class=\"tip-en\">a system in which officials from two jurisdictions check travellers together at a single checkpoint instead of two separate ones</span><span class=\"tip-zh\">聯合查驗安排</span></span></span> letting Hong Kong and mainland officers check documents side by side in one building, rather than at separate checkpoints. Authorities say this should cut clearance times from roughly 30 minutes to about five, a change resting on smooth coordination between two systems that have rarely shared a roof. More than 160,000 residents pre-registered through the Immigration Department's e-Channel app, and shuttle buses linking the old port to Lok Ma Chau for nearly thirty years made their final runs on Sunday night.</p><p>Security officials, wary a surge of curious first-time users could overwhelm the facility, ran large-scale <span class=\"bw\">stress tests<span class=\"tip\"><span class=\"tip-en\">trial runs that push a system to near its limits to check it can cope before real use</span><span class=\"tip-zh\">壓力測試</span></span></span> involving tens of thousands of participants beforehand and activated a command centre to monitor opening-day <span class=\"bw\">congestion<span class=\"tip\"><span class=\"tip-en\">the state of being overcrowded, especially with people or traffic</span><span class=\"tip-zh\">擁塞</span></span></span>. Officials have urged agencies marketing early tours to hold back, framing the port as a step in <span class=\"bw\">regional integration<span class=\"tip\"><span class=\"tip-en\">the process of bringing separate places closer together, especially economically and administratively</span><span class=\"tip-zh\">區域融合</span></span></span> rather than a one-off attraction, as planners <span class=\"bw\">phase out<span class=\"tip\"><span class=\"tip-en\">to gradually withdraw something from use over a period of time</span><span class=\"tip-zh\">逐步淘汰</span></span></span> older crossings for a single, higher-capacity gateway.</p>",
+   "summary_zh_html": "<p>香港邊境基建踏入歷史性一步,全新皇崗口岸的聯合驗放大樓於星期一早上6時30分正式啟用,取代服務跨境旅客近三十年的舊有口岸設施。深圳當局預計首日<span class=\"bwz\">客流量</span>約為五萬人次,並預計隨著旅客逐漸適應新口岸,數字將攀升至十萬至二十萬人次之間,待日後鐵路支線通車後,長遠更有望突破三十萬人次。</p><p>新口岸的標誌性設計是<span class=\"bwz\">聯合查驗安排</span>,讓兩地關員在同一座建築內並排查核旅客證件,而非像以往般分設於邊界兩側。當局表示,新安排可將一般通關時間由約三十分鐘縮短至約五分鐘,但成效取決於兩套甚少共用同一屋頂的出入境系統能否順暢協調。啟用前數日,逾十六萬名市民已透過入境處的e-道手機應用程式預先登記使用新服務;連接舊皇崗口岸與落馬洲近三十年的穿梭巴士,亦已在星期日晚上完成最後一班車,正式退役。</p><p>保安當局憂慮大批市民因好奇而首日湧往新設施,或令系統不勝負荷,因此在啟用前數星期進行大型<span class=\"bwz\">壓力測試</span>,動用數以萬計人員參與,並啟動應急指揮中心監察啟用首日的<span class=\"bwz\">擁塞</span>情況。官員亦呼籲早前推銷「搶閒」口岸團的旅行社暫緩行程,強調新口岸是推動香港與內地<span class=\"bwz\">區域融合</span>的長遠一步,而非一時的新鮮景點,並會隨規劃者<span class=\"bwz\">逐步淘汰</span>舊有口岸,改以單一、更高產能的通道取而代之。</p>",
+   "image_scene": "Travellers wheeling suitcases through a vast, brightly lit new border hall with rows of immigration counters and overhead directional signage, officers checking documents on both sides of a shared counter, large glass windows showing coaches and shuttle buses waiting outside at dawn.",
+   "cover_text": {
+    "zh_kicker": "皇崗口岸",
+    "zh_title": [
+     "新口岸啟用",
+     "日均五萬人次"
+    ],
+    "zh_hl": "五萬",
+    "zh_sub": "聯合查驗五分鐘過關",
+    "en": "New Huanggang Port opens with 50,000 daily passenger capacity"
+   },
+   "vocab": [
+    {
+     "phrase": "cross-boundary crossing",
+     "zh": "跨境口岸",
+     "sample": "The new cross-boundary crossing is designed to handle far more daily traffic than the facility it replaces."
+    },
+    {
+     "phrase": "e-Channel registration",
+     "zh": "e-道登記",
+     "sample": "Residents who completed e-Channel registration in advance avoided the longer queues that formed on opening day."
+    },
+    {
+     "phrase": "immigration checkpoint",
+     "zh": "出入境檢查站",
+     "sample": "Officers at the immigration checkpoint worked side by side for the first time under the new joint arrangement."
+    },
+    {
+     "phrase": "border infrastructure",
+     "zh": "邊境基建",
+     "sample": "Investment in border infrastructure like this is meant to support decades of future cross-boundary growth."
+    },
+    {
+     "phrase": "rail spur line",
+     "zh": "鐵路支線",
+     "sample": "Capacity is expected to rise further once the planned rail spur line connects directly to the new port."
+    },
+    {
+     "phrase": "round-the-clock clearance",
+     "zh": "全天候通關",
+     "sample": "Round-the-clock clearance means travellers can now cross the boundary at any hour of the night."
+    },
+    {
+     "phrase": "traffic diversion",
+     "zh": "交通改道",
+     "sample": "A temporary traffic diversion routed vehicles away from the old crossing in the final hours before it closed."
+    },
+    {
+     "phrase": "capacity expansion",
+     "zh": "產能擴充",
+     "sample": "Officials describe the project as a capacity expansion rather than a simple replacement of old facilities."
+    },
+    {
+     "phrase": "command centre",
+     "zh": "指揮中心",
+     "sample": "Staff inside the command centre watched live camera feeds for any sign of overcrowding on the first morning."
+    },
+    {
+     "phrase": "peak-hour bottleneck",
+     "zh": "繁忙時段樽頸",
+     "sample": "Planners hope the wider hall design will prevent the peak-hour bottleneck that plagued the old checkpoint for years."
+    },
+    {
+     "phrase": "shuttle bus retirement",
+     "zh": "穿梭巴士退役",
+     "sample": "The shuttle bus retirement marked the quiet end of a service that generations of commuters once relied on."
+    },
+    {
+     "phrase": "first-day teething problems",
+     "zh": "啟用首日的小問題",
+     "sample": "Despite weeks of rehearsal, a few first-day teething problems still slowed some travellers at the new counters."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "ease the strain on an overburdened checkpoint",
+     "zh": "緩解超負荷檢查站的壓力",
+     "sample": "A second, larger facility should ease the strain on an overburdened checkpoint that travellers had complained about for years."
+    },
+    {
+     "en": "streamline document checks between two jurisdictions",
+     "zh": "簡化兩地的證件查核程序",
+     "sample": "Placing officers under one roof helps streamline document checks between two jurisdictions that once worked entirely apart."
+    },
+    {
+     "en": "absorb a sudden spike in demand",
+     "zh": "應付需求的突然急升",
+     "sample": "Engineers designed the hall with extra counters so it could absorb a sudden spike in demand on launch day."
+    },
+    {
+     "en": "underpin closer economic ties across the boundary",
+     "zh": "支撐邊界兩地更緊密的經濟聯繫",
+     "sample": "Faster clearance is meant to underpin closer economic ties across the boundary as commuting between the two cities grows."
+    },
+    {
+     "en": "retire ageing infrastructure in favour of a unified gateway",
+     "zh": "淘汰老舊設施並以統一通道取代",
+     "sample": "The government chose to retire ageing infrastructure in favour of a unified gateway rather than patch up the old site."
+    },
+    {
+     "en": "manage public expectations during a rollout",
+     "zh": "在推行期間妥善管理公眾期望",
+     "sample": "Officials tried to manage public expectations during a rollout that inevitably came with a few opening-day delays."
+    },
+    {
+     "en": "avert opening-day chaos through rehearsal",
+     "zh": "透過演練避免開幕日的混亂",
+     "sample": "Weeks of rehearsal helped avert opening-day chaos that many had feared given the scale of the new crossing."
+    },
+    {
+     "en": "reconfigure cross-boundary travel patterns",
+     "zh": "重塑跨境出行模式",
+     "sample": "A faster, bigger port is likely to reconfigure cross-boundary travel patterns that have stayed largely unchanged for decades."
+    },
+    {
+     "en": "future-proof a border facility against rising demand",
+     "zh": "讓邊境設施能應付日後需求增長",
+     "sample": "Designers built in spare capacity to future-proof a border facility against rising demand over the next twenty years."
+    },
+    {
+     "en": "coordinate two immigration systems under one roof",
+     "zh": "協調兩套出入境系統在同一屋頂下運作",
+     "sample": "It takes months of planning to coordinate two immigration systems under one roof without creating confusion for travellers."
+    },
+    {
+     "en": "temper enthusiasm for a newly opened attraction",
+     "zh": "為新啟用設施的熱潮降溫",
+     "sample": "Officials tried to temper enthusiasm for a newly opened attraction by asking tour groups to wait a few weeks."
+    },
+    {
+     "en": "anchor Hong Kong's role in regional connectivity",
+     "zh": "鞏固香港在區域聯通中的角色",
+     "sample": "A higher-capacity crossing helps anchor Hong Kong's role in regional connectivity across the wider Pearl River Delta."
+    },
+    {
+     "en": "phase in a new clearance model cautiously",
+     "zh": "審慎地逐步推行新的通關模式",
+     "sample": "Rather than switching overnight, planners chose to phase in a new clearance model cautiously over several weeks."
+    },
+    {
+     "en": "mitigate congestion risk at a flagship project",
+     "zh": "減低旗艦項目出現擁塞的風險",
+     "sample": "Extra marshals and signage were deployed to mitigate congestion risk at a flagship project under intense public scrutiny."
+    },
+    {
+     "en": "signal long-term commitment over short-term novelty",
+     "zh": "顯示長遠承擔而非一時新鮮感",
+     "sample": "The government's messaging tried to signal long-term commitment over short-term novelty when describing the new port."
+    }
+   ],
+   "date": "2026-10-12",
+   "id": "a12f3a166"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/345177/Malaysian-woman-arrested-at-HK-airport-with-54m-of-ketamine-hidden-in-coffee-powder",
+   "published_date": "12 October 2026",
+   "headline": "Malaysian Woman Held at Hong Kong Airport With HK$5.4m of Ketamine Hidden in Coffee Powder",
+   "category": "law",
+   "summary_html": "<p>Hong Kong Customs officers arrested a 28-year-old Malaysian woman at the airport on Sunday after finding about 15 kilograms of suspected ketamine, worth roughly HK$5.4 million, hidden inside packages of coffee powder in her checked suitcase. She had flown in from Paris via Taipei and was intercepted as a <span class=\"bw\">transit passenger<span class=\"tip\"><span class=\"tip-en\">a traveller passing through an airport on the way to a final destination, rather than ending their journey there</span><span class=\"tip-zh\">過境旅客</span></span></span>, prompting officers to pull her aside for a closer inspection.</p><p>Coffee powder is a long-favoured <span class=\"bw\">concealment method<span class=\"tip\"><span class=\"tip-en\">a technique for hiding something, here used to disguise illegal drugs from detection</span><span class=\"tip-zh\">藏毒手法</span></span></span> among traffickers because its strong smell is thought to throw off sniffer dogs and mask the chemical odour of the drug beneath it. Customs said her travel pattern fit a profile long associated with couriers working for international syndicates, and that officers had relied on <span class=\"bw\">risk profiling<span class=\"tip\"><span class=\"tip-en\">the practice of assessing which travellers are more likely to be involved in illegal activity, based on patterns seen in past cases</span><span class=\"tip-zh\">風險分析</span></span></span> alongside routine screening to flag her.</p><p>The force described her as a suspected <span class=\"bw\">drug mule<span class=\"tip\"><span class=\"tip-en\">a low-level courier paid to carry illegal drugs across borders on behalf of a larger criminal network</span><span class=\"tip-zh\">運毒者</span></span></span> rather than an organiser, reflecting how <span class=\"bw\">trafficking network<span class=\"tip\"><span class=\"tip-en\">an organised group that coordinates the movement and sale of illegal drugs across multiple locations</span><span class=\"tip-zh\">販毒網絡</span></span></span>s increasingly rely on travellers with no criminal record to move product through hubs like Hong Kong's airport. Investigators are tracing her point of origin and intended buyers, and Customs reiterated that drug trafficking carries a <span class=\"bw\">maximum penalty<span class=\"tip\"><span class=\"tip-en\">the harshest punishment the law allows for a given offence</span><span class=\"tip-zh\">最高刑罰</span></span></span> of a HK$5 million fine and life imprisonment, however minor a courier's role might seem.</p>",
+   "summary_zh_html": "<p>香港海關人員星期日在香港國際機場拘捕一名28歲馬來西亞女子,並在她的寄艙行李中搜獲以咖啡粉包裝藏起的懷疑氯胺酮(K仔),約重15公斤,估計市值約540萬港元。該名女子由巴黎經台北轉機抵港,以<span class=\"bwz\">過境旅客</span>身份入境時被截查,其後遭關員抽查行李。</p><p>咖啡粉向來是販毒者慣用的<span class=\"bwz\">藏毒手法</span>,因其氣味濃烈,被認為可混淆緝毒犬的嗅覺,並掩蓋藏於粉末下方毒品的化學氣味。海關表示,該名女子的行程模式及所乘搭的航線,與過往多宗涉及國際販毒集團「運毒」案件的特徵相似,關員結合<span class=\"bwz\">風險分析</span>與日常行李檢查,才將她截查。</p><p>警方形容她為涉嫌<span class=\"bwz\">運毒者</span>,而非幕後主腦,反映<span class=\"bwz\">販毒網絡</span>日益傾向利用沒有犯罪紀錄的旅客,經香港機場等主要交通樞紐運送毒品。調查人員正追查其毒品來源及目標買家,海關及稅務署重申,販毒罪<span class=\"bwz\">最高刑罰</span>為罰款500萬港元及終身監禁,不論毒品以何種方式藏起,或「運毒者」角色看似多麼次要。</p>",
+   "image_scene": "Customs officers in uniform examining an open suitcase on a stainless-steel inspection table at an airport arrival hall, packets of coffee powder and sealed evidence bags laid out beside an X-ray scanning machine, anonymous travellers pulling luggage trolleys past in the background.",
+   "cover_text": {
+    "zh_kicker": "機場毒品案",
+    "zh_title": [
+     "咖啡粉藏毒",
+     "搜出15公斤"
+    ],
+    "zh_hl": "15公斤",
+    "zh_sub": "馬來西亞女子被捕",
+    "en": "Malaysian woman held with HK$5.4m of ketamine at airport"
+   },
+   "vocab": [
+    {
+     "phrase": "checked suitcase",
+     "zh": "寄艙行李",
+     "sample": "Officers found the packages hidden inside the lining of her checked suitcase during a routine scan."
+    },
+    {
+     "phrase": "sniffer dog",
+     "zh": "緝毒犬",
+     "sample": "A sniffer dog initially failed to detect the drugs because the coffee powder masked their smell so effectively."
+    },
+    {
+     "phrase": "customs screening",
+     "zh": "海關檢查",
+     "sample": "Tighter customs screening on flights from certain routes has led to a rise in seizures this year."
+    },
+    {
+     "phrase": "point of origin",
+     "zh": "來源地",
+     "sample": "Investigators are still trying to confirm the drug's true point of origin before it reached Paris."
+    },
+    {
+     "phrase": "syndicate",
+     "zh": "犯罪集團",
+     "sample": "Officers believe a syndicate operating across several countries arranged the woman's flights and payment."
+    },
+    {
+     "phrase": "street value",
+     "zh": "市值",
+     "sample": "The seized ketamine carried an estimated street value of about HK$5.4 million."
+    },
+    {
+     "phrase": "intercept",
+     "zh": "截查",
+     "sample": "Officers moved quickly to intercept the woman before she could leave the arrivals hall."
+    },
+    {
+     "phrase": "low-level courier",
+     "zh": "低層次信差",
+     "sample": "Prosecutors argued she was a low-level courier recruited precisely because she had no prior record."
+    },
+    {
+     "phrase": "baggage x-ray",
+     "zh": "行李X光檢查",
+     "sample": "An unusual density on the baggage x-ray image first drew the attention of customs staff."
+    },
+    {
+     "phrase": "life imprisonment",
+     "zh": "終身監禁",
+     "sample": "Drug trafficking in Hong Kong can carry a sentence of life imprisonment regardless of the courier's role."
+    },
+    {
+     "phrase": "repeat offender",
+     "zh": "重犯",
+     "sample": "Customs said she was not a known repeat offender, which made the detection even more significant."
+    },
+    {
+     "phrase": "evidence trail",
+     "zh": "證據線索",
+     "sample": "Her phone records are expected to provide an evidence trail linking her to other members of the network."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "exploit vulnerable couriers to evade detection",
+     "zh": "利用易受擺弄的信差逃避偵查",
+     "sample": "Syndicates often exploit vulnerable couriers to evade detection rather than risk moving drugs themselves."
+    },
+    {
+     "en": "disguise contraband within everyday goods",
+     "zh": "將違禁品藏於日常用品中",
+     "sample": "Traffickers regularly disguise contraband within everyday goods like coffee, spices or cosmetics to confuse inspectors."
+    },
+    {
+     "en": "tighten screening protocols at transport hubs",
+     "zh": "加強交通樞紐的檢查程序",
+     "sample": "Customs has promised to tighten screening protocols at transport hubs following a string of similar arrests."
+    },
+    {
+     "en": "dismantle an international smuggling operation",
+     "zh": "瓦解跨國走私集團",
+     "sample": "Officers hope this arrest is the first step towards dismantling an international smuggling operation."
+    },
+    {
+     "en": "weigh the deterrent effect of harsh sentencing",
+     "zh": "衡量重判的阻嚇作用",
+     "sample": "Lawmakers continue to weigh the deterrent effect of harsh sentencing against the fact that couriers are easily replaced."
+    },
+    {
+     "en": "trace a shipment back to its source",
+     "zh": "追查貨物來源",
+     "sample": "Investigators are working to trace a shipment back to its source somewhere outside Hong Kong."
+    },
+    {
+     "en": "recruit low-level operatives to shoulder the risk",
+     "zh": "招募低層人員承擔風險",
+     "sample": "Syndicates recruit low-level operatives to shoulder the risk while the organisers stay far removed from any arrest."
+    },
+    {
+     "en": "undermine a syndicate's supply chain",
+     "zh": "削弱犯罪集團的供應鏈",
+     "sample": "Seizing an entire shipment can undermine a syndicate's supply chain for weeks at a time."
+    },
+    {
+     "en": "flag suspicious travel patterns for further scrutiny",
+     "zh": "將可疑的行程模式標記作進一步審查",
+     "sample": "Analysts flag suspicious travel patterns for further scrutiny long before a passenger even reaches the counter."
+    },
+    {
+     "en": "hold couriers accountable regardless of their rank",
+     "zh": "不論角色高低都追究信差的責任",
+     "sample": "Hong Kong's courts hold couriers accountable regardless of their rank within a wider criminal network."
+    },
+    {
+     "en": "stay one step ahead of smuggling techniques",
+     "zh": "搶先一步應對走私手法",
+     "sample": "Customs officers must constantly adapt to stay one step ahead of smuggling techniques that keep evolving."
+    },
+    {
+     "en": "balance enforcement resources against rising caseloads",
+     "zh": "在執法資源與日增的案件量之間取得平衡",
+     "sample": "The department must balance enforcement resources against rising caseloads at an increasingly busy airport."
+    },
+    {
+     "en": "expose the human cost behind drug trafficking",
+     "zh": "揭示販毒背後的人命代價",
+     "sample": "Cases like this expose the human cost behind drug trafficking, since couriers often face the harshest penalties."
+    },
+    {
+     "en": "reinforce a port's reputation as a secure gateway",
+     "zh": "鞏固口岸作為安全通道的聲譽",
+     "sample": "A string of successful seizures helps reinforce a port's reputation as a secure gateway for legitimate travellers."
+    },
+    {
+     "en": "deter repeat offences through consistent sentencing",
+     "zh": "透過劃一判刑阻嚇再犯",
+     "sample": "Judges argue that consistent sentencing helps deter repeat offences more effectively than occasional leniency."
+    }
+   ],
+   "date": "2026-10-12",
+   "id": "a428a2b14"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/345075/Hong-Kong-universities-secure-record-rankings-in-latest-Stanford-top-scientists-list",
+   "published_date": "11 October 2026",
+   "headline": "Hong Kong Universities Secure Record Rankings in Latest Stanford Top Scientists List",
+   "category": "school",
+   "summary_html": "<p>Hong Kong's universities posted their strongest-ever showing in Stanford University's closely watched World's Top 2% Scientists list, a <span class=\"bw\">citation-based ranking<span class=\"tip\"><span class=\"tip-en\">a ranking system that measures a researcher's influence by counting how often other scholars cite their published work</span><span class=\"tip-zh\">以引用次數為基礎的排名</span></span></span> updated annually to track career-long and single-year scholarly impact across every discipline. Lingnan University, the Chinese University of Hong Kong and the Hong Kong University of Science and Technology led the city's showing, though the result drawing the most attention came from Lingnan, a university historically known for the humanities rather than the sciences.</p><p>Lingnan's tally of listed scholars rose to 54 this year from 43 previously, with more than twenty researchers placing within the top 100 globally in their fields. President S. Joe Qin retained his position as the top-ranked scholar from China and Hong Kong in industrial engineering and automation. The jump reflects a deliberate strategy among smaller institutions to build <span class=\"bw\">niche specialisation<span class=\"tip\"><span class=\"tip-en\">a strategy of concentrating resources on a narrow research area rather than spreading effort across many fields</span><span class=\"tip-zh\">專科化策略</span></span></span>s rather than compete head-on with larger, better-funded rivals across every discipline at once.</p><p>Supporters argue that <span class=\"bw\">global visibility<span class=\"tip\"><span class=\"tip-en\">the degree to which a person or institution is recognised and noticed internationally</span><span class=\"tip-zh\">全球知名度</span></span></span> on such rankings helps universities attract funding and sharpens their appeal in <span class=\"bw\">faculty recruitment<span class=\"tip\"><span class=\"tip-en\">the process of hiring academic staff, especially senior researchers</span><span class=\"tip-zh\">教職招聘</span></span></span>, particularly when competing against Singapore, mainland China and the West for the same talent. Critics counter that an overly <span class=\"bw\">metric-driven culture<span class=\"tip\"><span class=\"tip-en\">an environment in which numerical measurements are treated as the main measure of success, sometimes at the expense of other considerations</span><span class=\"tip-zh\">唯指標主導的文化</span></span></span> risks pushing scholars towards <span class=\"bw\">research output<span class=\"tip\"><span class=\"tip-en\">the total volume of papers, data and other scholarly work a researcher produces</span><span class=\"tip-zh\">研究產出</span></span></span> that is easy to cite rather than original, a tension local universities must manage as rankings shape recruitment and funding.</p>",
+   "summary_zh_html": "<p>香港各大學在史丹福大學備受關注的「全球首2%科學家」榜單中,取得歷來最佳成績。這項<span class=\"bwz\">以引用次數為基礎的排名</span>每年更新一次,追蹤學者在各學術領域的長期及單年度影響力。今年榜單中,嶺南大學、香港中文大學及香港科技大學在本港院校中表現領先,但最受關注的結果來自嶺南大學——一所傳統上以人文學科見稱,而非以理科著稱的院校。</p><p>嶺南大學上榜學者人數由上一屆的43人增至今年的54人,當中逾二十人在其學科領域躋身全球首100位。校長冉世雄(S. Joe Qin)繼續保持中國及香港在工業工程及自動化學科的首位排名。這次躍升反映部分規模較小的院校採取有意識的策略,集中發展<span class=\"bwz\">專科化策略</span>,而非在每個學科上與資源更豐厚的大型研究型大學全面競爭。</p><p>支持榜單的人士認為,在此類排名中取得<span class=\"bwz\">全球知名度</span>有助大學爭取研究資助,並在<span class=\"bwz\">教職招聘</span>上更具優勢,尤其是在與新加坡、中國內地及西方院校爭奪同一批人才之際。批評者則反駁,過度<span class=\"bwz\">唯指標主導的文化</span>可能令學者傾向產出容易被引用、而非真正具原創性的<span class=\"bwz\">研究產出</span>,而這正是本港各大學日後若進一步倚賴排名作為招聘及資助工具時,必須處理的張力。</p>",
+   "image_scene": "A university campus courtyard at dusk with anonymous researchers in formal academic gowns walking past a modern glass-fronted library building, a large outdoor digital screen nearby displaying abstract data charts and a rotating globe graphic suggesting international academic rankings.",
+   "cover_text": {
+    "zh_kicker": "科學家榜",
+    "zh_title": [
+     "嶺大飆升",
+     "54人上榜"
+    ],
+    "zh_hl": "54人",
+    "zh_sub": "全球首2%科學家榜單",
+    "en": "Lingnan University leads Hong Kong's record Stanford scientist rankings"
+   },
+   "vocab": [
+    {
+     "phrase": "peer-reviewed journal",
+     "zh": "同行評審期刊",
+     "sample": "Most of the citations behind this ranking come from papers published in peer-reviewed journals."
+    },
+    {
+     "phrase": "h-index",
+     "zh": "h指數",
+     "sample": "A scholar's h-index is often used alongside citation counts to measure sustained research impact."
+    },
+    {
+     "phrase": "research grant",
+     "zh": "研究資助",
+     "sample": "A higher ranking can make it easier for a department to win a competitive research grant."
+    },
+    {
+     "phrase": "academic discipline",
+     "zh": "學術學科",
+     "sample": "The list covers scholars across every academic discipline, from physics to public health."
+    },
+    {
+     "phrase": "scholarly impact",
+     "zh": "學術影響力",
+     "sample": "Universities increasingly treat scholarly impact as a measurable asset rather than an abstract reputation."
+    },
+    {
+     "phrase": "league table",
+     "zh": "排名榜",
+     "sample": "Hong Kong universities now feature prominently in several international league tables, not just Stanford's list."
+    },
+    {
+     "phrase": "tenure-track position",
+     "zh": "終身教席軌道職位",
+     "sample": "A strong citation record can strengthen an academic's case for a tenure-track position."
+    },
+    {
+     "phrase": "bibliometric dataset",
+     "zh": "文獻計量數據",
+     "sample": "Researchers compiled a vast bibliometric dataset covering millions of published papers to build this year's list."
+    },
+    {
+     "phrase": "self-citation",
+     "zh": "自我引用",
+     "sample": "Analysts adjusted the rankings to limit the effect of self-citation inflating any single scholar's score."
+    },
+    {
+     "phrase": "research funding body",
+     "zh": "研究資助機構",
+     "sample": "A research funding body may use such rankings as one factor when deciding where to direct grants."
+    },
+    {
+     "phrase": "publish-or-perish culture",
+     "zh": "「不發表就淘汰」文化",
+     "sample": "Some academics blame a publish-or-perish culture for encouraging quantity over careful, original work."
+    },
+    {
+     "phrase": "benchmark against rivals",
+     "zh": "與對手比較基準",
+     "sample": "University leaders use the list to benchmark against rivals in Singapore and mainland China."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "stake a claim to international recognition",
+     "zh": "爭取獲得國際認可",
+     "sample": "A record showing on the list lets a smaller university stake a claim to international recognition it rarely receives."
+    },
+    {
+     "en": "punch above one's weight in a crowded field",
+     "zh": "在競爭激烈的領域中表現超乎預期",
+     "sample": "Lingnan's researchers have managed to punch above their weight in a crowded field dominated by far larger institutions."
+    },
+    {
+     "en": "carve out a research niche",
+     "zh": "開拓獨特的研究領域",
+     "sample": "Rather than compete everywhere at once, the university chose to carve out a research niche in a handful of fields."
+    },
+    {
+     "en": "attract top-tier talent through prestige",
+     "zh": "憑聲譽吸納頂尖人才",
+     "sample": "A strong ranking helps a department attract top-tier talent through prestige rather than salary alone."
+    },
+    {
+     "en": "guard against gaming a ranking system",
+     "zh": "防止有人操控排名制度",
+     "sample": "Compilers must guard against gaming a ranking system, since some scholars inflate scores through excessive self-citation."
+    },
+    {
+     "en": "diversify a university's research portfolio",
+     "zh": "拓展大學的研究組合",
+     "sample": "Hiring across several unrelated fields helps diversify a university's research portfolio against any single discipline's decline."
+    },
+    {
+     "en": "vie for the same shrinking pool of funding",
+     "zh": "爭奪日益縮減的資助資源",
+     "sample": "Universities across the region vie for the same shrinking pool of funding as government budgets tighten."
+    },
+    {
+     "en": "validate years of sustained investment in research",
+     "zh": "印證多年來對研究的持續投入",
+     "sample": "This year's result helps validate years of sustained investment in research that took time to show results."
+    },
+    {
+     "en": "reduce complex scholarship to a single number",
+     "zh": "將複雜的學術成就簡化為單一數字",
+     "sample": "Critics warn that any league table risks reducing complex scholarship to a single number that hides real nuance."
+    },
+    {
+     "en": "cement a university's standing in its field",
+     "zh": "鞏固大學在該領域的地位",
+     "sample": "A second consecutive strong showing would help cement a university's standing in its field for years to come."
+    },
+    {
+     "en": "reward quantity over genuine originality",
+     "zh": "獎勵數量而非真正的原創性",
+     "sample": "Some scholars argue that citation-based rankings reward quantity over genuine originality in research."
+    },
+    {
+     "en": "benchmark local institutions against global rivals",
+     "zh": "將本地院校與全球對手比較基準",
+     "sample": "The list gives policymakers an easy way to benchmark local institutions against global rivals every year."
+    },
+    {
+     "en": "translate citation counts into institutional prestige",
+     "zh": "將引用次數轉化為院校聲譽",
+     "sample": "Universities are increasingly skilled at translating citation counts into institutional prestige for prospective students."
+    },
+    {
+     "en": "shore up a department's recruitment pitch",
+     "zh": "鞏固學系招聘時的說服力",
+     "sample": "A strong ranking can shore up a department's recruitment pitch when competing for the same handful of scholars."
+    },
+    {
+     "en": "question what rankings fail to capture",
+     "zh": "質疑排名未能反映的部分",
+     "sample": "Humanities scholars often question what rankings fail to capture, since citation patterns vary widely between disciplines."
+    }
+   ],
+   "date": "2026-10-12",
+   "id": "a7a137e73"
   }
  ],
  "trends": [
@@ -20506,6 +21150,36 @@
    ],
    "date": "2026-10-11",
    "id": "t3997fdae"
+  },
+  {
+   "platforms": [
+    "threads",
+    "ig",
+    "facebook"
+   ],
+   "headline": "👻 Anita Mui's Missing Ashes Urn Still Haunts Fans Three Months On",
+   "summary_html": "<p>Three months after Cantopop legend Anita Mui's ashes urn vanished from its niche at Po Lin Monastery on Lantau Island, her family and fan club broke their silence on what would have been her 63rd birthday, posting an emotional appeal across Threads, Instagram and Facebook for any information that might lead to its return. The urn had sat undisturbed for over two decades until a fan visiting in July noticed the niche door's screws had been loosened and the urn was gone.</p><p>Police have classified the case only as a request for assistance, with the Lantau district crime squad confirming no arrests and, by the family's account, no real progress after three months. No ransom demand has surfaced and no other urns at the columbarium were reported disturbed, leaving fans across social media to swap theories ranging from superstition-driven theft to a personal grudge, none of which investigators have confirmed.</p>",
+   "summary_zh_html": "<p>樂壇傳奇梅艷芳的骨灰罈,在大嶼山寶蓮寺失蹤三個月後,其家人及歌迷會終於在她本應63歲生日當天打破沉默,透過Threads、Instagram及Facebook發出情緒激動的呼籲,希望任何人提供線索,協助尋回骨灰罈。該骨灰罈原本安放在靈灰位逾二十年未被打擾,直至七月有歌迷到訪時發現靈灰位門上的螺絲被鬆開,骨灰罈已不知所終。</p><p>警方將案件列為「求助」個案處理,大嶼山刑事調查隊確認暫未有人被捕,而據家人所述,三個月來調查亦未有實質進展。暫時未有人提出贖金要求,靈灰閣內亦沒有其他骨灰罈被發現異樣,令社交媒體上的歌迷紛紛猜測各種理論,從帶有迷信色彩的盜竊動機,到私人恩怨糾紛,但這些說法均未獲調查人員證實。</p>",
+   "causes": [
+    {
+     "label": "Anita Mui's ashes as a relic of 1980s Hong Kong identity",
+     "text": "For many longtime fans, Mui's music and screen career embody a confident, boundary-pushing Hong Kong identity from the 1980s and 1990s that feels increasingly distant from the city today. A student could argue the missing urn symbolises anxiety that this cultural memory, much like the physical relic itself, risks being lost or forgotten entirely."
+    },
+    {
+     "label": "Violating a grave as a moral line that fame cannot erase",
+     "text": "Regardless of how famous someone was in life, a resting place is traditionally treated as sacred and off-limits, and this case tests whether that norm still holds when a target's celebrity status might tempt thieves seeking profit or notoriety. An essay could weigh whether society punishes such desecration consistently, famous victim or not."
+    },
+    {
+     "label": "Fan theories outrunning a stalled police investigation",
+     "text": "With police confirming only that no arrests have been made, speculation has filled the vacuum across Threads and Instagram, from superstition-driven motives to rumours about personal grudges within Mui's inner circle, none of it verified. A Paper 2 response could explore how unchecked online speculation can harden into accepted fact long before any confirmation."
+    },
+    {
+     "label": "Why a celebrity's missing urn shouldn't crowd out ordinary unsolved cases",
+     "text": "Critics note that an A-list celebrity's missing possession draws police resources, media coverage and public sympathy that routine crimes affecting ordinary families rarely receive, even when the harm to those families is comparable or greater. A counter-argument essay could question whether this imbalance in attention reflects a fair allocation of investigative priority."
+    }
+   ],
+   "date": "2026-10-12",
+   "id": "ta368ca95"
   }
  ]
 }

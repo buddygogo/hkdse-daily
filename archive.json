@@ -20831,6 +20831,590 @@
    ],
    "date": "2026-10-13",
    "id": "a0444d233"
+  },
+  {
+   "source_name": "HKFP",
+   "source_url": "https://hongkongfp.com/2026/10/14/van-gogh-work-unseen-in-public-for-60-years-on-show-in-hong-kong",
+   "published_date": "14 October 2026",
+   "headline": "Unseen Van Gogh Painting Draws Crowds in Hong Kong Ahead of Record Auction",
+   "category": "arts",
+   "summary_html": "<p>Hundreds of visitors queued outside Sotheby's Maison in Central this week for a rare glimpse of a Vincent van Gogh landscape that had <span class=\"bw\">not been put on public display<span class=\"tip\"><span class=\"tip-en\">not shown to ordinary visitors, kept instead in storage or in a private place</span><span class=\"tip-zh\">未曾公開展示</span></span></span> for more than sixty years. \"Chestnut Trees in Blossom,\" painted in 1890 during the final months of the artist's life, arrived in the city as part of a <span class=\"bw\">travelling preview<span class=\"tip\"><span class=\"tip-en\">a short public viewing of items ahead of a sale, held in several cities before the actual auction</span><span class=\"tip-zh\">巡迴預展</span></span></span> ahead of a November sale in New York, where auctioneers expect it to <span class=\"bw\">fetch a record price<span class=\"tip\"><span class=\"tip-en\">to sell for an amount of money higher than any previous sale of its kind</span><span class=\"tip-zh\">創下破紀錄高價</span></span></span> of around US$180 million.</p><p>The painting formed part of the <span class=\"bw\">estate<span class=\"tip\"><span class=\"tip-en\">the total property and possessions left behind by someone after their death</span><span class=\"tip-zh\">遺產</span></span></span> of the late Argentine collectors Nelly Arrieta de Blaquier and Carlos Pedro Blaquier, who had quietly built a collection that also included works by Monet, Pissarro and Cézanne. Twelve pieces from the collection have now been <span class=\"bw\">consigned to auction<span class=\"tip\"><span class=\"tip-en\">formally handed over to an auction house to be sold on the owner's behalf</span><span class=\"tip-zh\">委託拍賣</span></span></span>, and houses such as Sotheby's increasingly treat the works' <span class=\"bw\">provenance<span class=\"tip\"><span class=\"tip-en\">the documented history of who has owned an artwork over time</span><span class=\"tip-zh\">來源紀錄</span></span></span> as part of the sales pitch itself, since a respected ownership history can add considerably to a painting's value.</p><p>For many in Tuesday's queue, though, the appeal lay less in the <span class=\"bw\">saleroom<span class=\"tip\"><span class=\"tip-en\">the room or hall in which items are publicly sold at auction</span><span class=\"tip-zh\">拍賣廳</span></span></span> arithmetic than in the rare chance to stand before a canvas that usually sits in a <span class=\"bw\">private collection<span class=\"tip\"><span class=\"tip-en\">a group of artworks owned by an individual rather than displayed in a public museum</span><span class=\"tip-zh\">私人收藏</span></span></span>, unseen by the public for an entire generation. The stop in Hong Kong also underlines the city's growing role in the <span class=\"bw\">blue-chip art market<span class=\"tip\"><span class=\"tip-en\">the trade in works by famous, highly valued artists that are seen as a safe, prestigious investment</span><span class=\"tip-zh\">頂級藝術市場</span></span></span>, as international auction houses increasingly use the city to court Asian collectors before a work ever reaches the saleroom floor.</p>",
+   "summary_zh_html": "<p>本週,數百名參觀者在中環蘇富比藝術空間外排隊等候,只為一睹梵高一幅風景畫的真跡,該畫作<span class=\"bwz\">逾六十年來從未公開展示</span>。《盛放的栗樹》繪於1890年,即畫家生命最後數月的作品,今次作為紐約拍賣前的<span class=\"bwz\">巡迴預展</span>的一站來到本港,拍賣行預期該畫將於十一月拍賣中<span class=\"bwz\">創下破紀錄高價</span>,成交價料達約1.8億美元。</p><p>這幅畫作屬於已故阿根廷收藏家內莉·阿列塔·德·布拉基耶與卡洛斯·佩德羅·布拉基耶夫婦<span class=\"bwz\">遺產</span>的一部分,二人生前默默建立的收藏亦包括莫內、畢沙羅及塞尚的作品。該批收藏中有十二件作品現已<span class=\"bwz\">委託拍賣</span>,而蘇富比等拍賣行亦日益將作品的<span class=\"bwz\">來源紀錄</span>本身視為銷售賣點之一,因為一段備受肯定的收藏歷史,往往能大幅提升畫作的價值。</p><p>然而,對於週二排隊的許多人而言,吸引力與其說是<span class=\"bwz\">拍賣廳</span>裡的數字,不如說是難得一見的機會,能親身站在一幅平日藏於<span class=\"bwz\">私人收藏</span>、整整一代人未曾得見的畫作面前。是次在香港停留,亦印證了本港在<span class=\"bwz\">頂級藝術市場</span>中日益吃重的角色,國際拍賣行正愈趨利用本港,在作品踏上拍賣廳地板之前,搶先吸引亞洲收藏家垂青。</p>",
+   "image_scene": "Inside a bright, minimalist art gallery in Central, Hong Kong, a single framed Impressionist landscape painting of blossoming trees hangs on a plain white wall under a soft spotlight. A queue of anonymous visitors in smart-casual clothing waits patiently behind a velvet rope, phones held up to photograph the canvas from a respectful distance.",
+   "cover_text": {
+    "zh_kicker": "梵高真跡",
+    "zh_title": [
+     "消失60年",
+     "梵高現身港"
+    ],
+    "zh_hl": "60年",
+    "zh_sub": "拍賣料破18億",
+    "en": "Rare Van Gogh painting previewed in Hong Kong before auction"
+   },
+   "vocab": [
+    {
+     "phrase": "condition report",
+     "zh": "狀況報告",
+     "sample": "A condition report lists any cracks, retouching or damage a painting has sustained over time."
+    },
+    {
+     "phrase": "estate (of a collector)",
+     "zh": "遺產",
+     "sample": "The gallery is auctioning several paintings from the late collector's estate this autumn."
+    },
+    {
+     "phrase": "consignment",
+     "zh": "委託拍賣",
+     "sample": "The family placed the painting on consignment with a major auction house in London."
+    },
+    {
+     "phrase": "reserve price",
+     "zh": "底價",
+     "sample": "The painting failed to reach its reserve price and was withdrawn from sale."
+    },
+    {
+     "phrase": "buyer's premium",
+     "zh": "買家佣金",
+     "sample": "The buyer's premium added nearly twenty percent on top of the final bid."
+    },
+    {
+     "phrase": "trophy artwork",
+     "zh": "標誌性藏品",
+     "sample": "Collectors often compete hardest for a single trophy artwork that can anchor an entire sale."
+    },
+    {
+     "phrase": "connoisseurship",
+     "zh": "鑑賞力",
+     "sample": "Years of connoisseurship allowed the curator to spot a forged signature at a glance."
+    },
+    {
+     "phrase": "touring preview",
+     "zh": "巡迴預展",
+     "sample": "The gallery organised a touring preview across three cities before the painting's final sale."
+    },
+    {
+     "phrase": "authentication",
+     "zh": "真偽鑑定",
+     "sample": "Authentication of the canvas took several months of pigment analysis and archival research."
+    },
+    {
+     "phrase": "private collector",
+     "zh": "私人收藏家",
+     "sample": "A private collector eventually outbid two museums for the rare landscape."
+    },
+    {
+     "phrase": "masterwork",
+     "zh": "傑作",
+     "sample": "Critics consider the painting one of the artist's late masterworks."
+    },
+    {
+     "phrase": "appraisal",
+     "zh": "估值",
+     "sample": "An independent appraisal valued the painting far above its original purchase price."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "command eye-watering sums at auction",
+     "zh": "以驚人天價成交",
+     "sample": "Works by major Impressionists can command eye-watering sums at auction."
+    },
+    {
+     "en": "draw crowds eager for a fleeting glimpse",
+     "zh": "吸引大批渴望一睹的群眾",
+     "sample": "The rare painting drew crowds eager for a fleeting glimpse before it vanished into a private vault again."
+    },
+    {
+     "en": "pass quietly through generations of private hands",
+     "zh": "靜靜地在私人手中代代相傳",
+     "sample": "For six decades the canvas passed quietly through generations of private hands."
+    },
+    {
+     "en": "resurface after decades out of public view",
+     "zh": "在隱世多年後重現於公眾面前",
+     "sample": "The masterpiece resurfaced after decades out of public view, igniting fresh interest among scholars."
+    },
+    {
+     "en": "straddle the line between commerce and culture",
+     "zh": "遊走於商業與文化之間",
+     "sample": "A blockbuster auction preview inevitably straddles the line between commerce and culture."
+    },
+    {
+     "en": "turn a preview into a cultural event in its own right",
+     "zh": "使預展本身變成一場文化盛事",
+     "sample": "Savvy auction houses turn a simple preview into a cultural event in its own right."
+    },
+    {
+     "en": "bolster a city's standing as a regional art hub",
+     "zh": "鞏固城市作為區域藝術樞紐的地位",
+     "sample": "Hosting high-profile previews helps bolster a city's standing as a regional art hub."
+    },
+    {
+     "en": "place a premium on rarity and documented history",
+     "zh": "格外重視稀有性與有記錄可查的歷史",
+     "sample": "Serious collectors place a premium on rarity and documented history over sheer size or colour."
+    },
+    {
+     "en": "remain locked away from public view",
+     "zh": "一直深藏不露,未曾公開",
+     "sample": "The painting remained locked away from public view for most of the collector's lifetime."
+    },
+    {
+     "en": "court wealthy buyers before a single lot is sold",
+     "zh": "在任何一件拍品售出前已爭相拉攏富裕買家",
+     "sample": "International auction houses now court wealthy buyers before a single lot is sold."
+    },
+    {
+     "en": "offer the public a rare window onto a private world",
+     "zh": "為公眾提供窺探私人世界的難得機會",
+     "sample": "The free preview offered the public a rare window onto a private world of elite collecting."
+    },
+    {
+     "en": "anchor a city's reputation among serious collectors",
+     "zh": "鞏固城市在認真收藏家心目中的聲譽",
+     "sample": "Blockbuster previews like this one help anchor the city's reputation among serious collectors."
+    }
+   ],
+   "date": "2026-10-15",
+   "id": "ac2aa8d23"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370472/hong-kong-finance-chief-highlights-4-priorities-ahead-apec-meeting-month",
+   "published_date": "13 October 2026",
+   "headline": "Hong Kong Gears Up to Host Its First APEC Finance Ministers' Meeting",
+   "category": "global",
+   "summary_html": "<p>Hong Kong will next week host the Asia-Pacific Economic Cooperation Finance Ministers' Meeting for the first time, bringing roughly five hundred officials from the <span class=\"bw\">grouping's twenty-one member economies<span class=\"tip\"><span class=\"tip-en\">the twenty-one Pacific Rim economies that together make up the APEC forum</span><span class=\"tip-zh\">亞太經合組織二十一個成員體</span></span></span> to the Convention and Exhibition Centre in Wan Chai. Financial Secretary Paul Chan has framed the gathering as a chance to showcase the city's <span class=\"bw\">convening power<span class=\"tip\"><span class=\"tip-en\">a place or institution's ability to bring together influential people or organisations to discuss shared issues</span><span class=\"tip-zh\">號召各方匯聚的能力</span></span></span>, even as regional economies navigate persistent trade tensions.</p><p>Ahead of the two-day meeting on October 20 and 21, Chan outlined four priorities he hopes the forum will address: <span class=\"bw\">fiscal policies that safeguard ordinary livelihoods<span class=\"tip\"><span class=\"tip-en\">government tax and spending decisions designed to protect the everyday financial wellbeing of citizens</span><span class=\"tip-zh\">保障民生的財政政策</span></span></span>, financing for digital infrastructure, <span class=\"bw\">inclusive finance<span class=\"tip\"><span class=\"tip-en\">financial services made accessible and affordable to groups who are usually excluded, such as the poor or small businesses</span><span class=\"tip-zh\">普惠金融</span></span></span>, and the cultivation of young financial talent. He argued Hong Kong is well placed to contribute on each front, citing the city's experience in <span class=\"bw\">green bond issuance<span class=\"tip\"><span class=\"tip-en\">the sale of bonds whose proceeds are reserved for environmentally friendly projects</span><span class=\"tip-zh\">綠色債券發行</span></span></span> and its ambition to deepen regional cooperation on artificial intelligence.</p><p>Officials describe the meeting as more than a diplomatic formality: it is also meant to reinforce Hong Kong's claim to remain a <span class=\"bw\">credible financial intermediary<span class=\"tip\"><span class=\"tip-en\">a trusted institution or city that channels money and deals between different parties</span><span class=\"tip-zh\">可信的金融中介</span></span></span> even as supply chains and capital flows realign around shifting tariffs. Whether the city can translate a successful hosting into lasting <span class=\"bw\">policy influence<span class=\"tip\"><span class=\"tip-en\">the power to shape the decisions and rules that governments or institutions eventually adopt</span><span class=\"tip-zh\">政策影響力</span></span></span>, rather than simply a diplomatic photo opportunity, is likely to be judged over the months that follow.</p>",
+   "summary_zh_html": "<p>香港下週將首次主辦亞太經合組織財長會議,屆時將有約五百名官員,來自<span class=\"bwz\">組織屬下二十一個成員體</span>,雲集灣仔香港會議展覽中心。財政司司長陳茂波將是次聚會形容為一個機會,藉以展現本港的<span class=\"bwz\">號召各方匯聚的能力</span>,即使區內經濟體仍須應對持續的貿易緊張局勢。</p><p>在十月二十及二十一日為期兩天的會議舉行前,陳茂波提出四項他寄望會議能夠處理的優先事項:<span class=\"bwz\">保障民生的財政政策</span>、數碼基建融資、<span class=\"bwz\">普惠金融</span>,以及培育年青金融人才。他認為香港在每一方面均具備優勢,並舉出本港在<span class=\"bwz\">綠色債券發行</span>方面的經驗,以及深化區域人工智能合作的雄心。</p><p>官員形容是次會議不僅僅是一場外交禮節:其目的亦在於鞏固香港作為<span class=\"bwz\">可信的金融中介</span>的地位,即使供應鏈與資金流向正隨關稅變化而重新調整。至於香港能否將是次成功主辦,轉化為持久的<span class=\"bwz\">政策影響力</span>,而非僅屬一次外交層面的擺拍機會,相信須待日後數月方能見真章。</p>",
+   "image_scene": "A modern glass-walled convention centre beside Victoria Harbour, its entrance hung with rows of national flags from Asia-Pacific economies; anonymous delegates in formal suits walk toward the doors pulling wheeled luggage, harbour water and distant skyline visible behind them, no readable signage or logos.",
+   "cover_text": {
+    "zh_kicker": "APEC峰會",
+    "zh_title": [
+     "香港首辦",
+     "APEC財長會"
+    ],
+    "zh_hl": "首辦",
+    "zh_sub": "陳茂波揭四大重點",
+    "en": "Hong Kong to host first APEC finance ministers' meeting"
+   },
+   "vocab": [
+    {
+     "phrase": "ministerial gathering",
+     "zh": "部長級聚會",
+     "sample": "A ministerial gathering of this scale rarely comes to a mid-sized financial centre."
+    },
+    {
+     "phrase": "member economy",
+     "zh": "成員體",
+     "sample": "Each member economy sends its own finance minister to the annual meeting."
+    },
+    {
+     "phrase": "public purse",
+     "zh": "公共財政",
+     "sample": "Officials were cautious about committing more of the public purse to new subsidies."
+    },
+    {
+     "phrase": "inclusive finance",
+     "zh": "普惠金融",
+     "sample": "Mobile banking has extended inclusive finance to rural communities once ignored by banks."
+    },
+    {
+     "phrase": "green bond",
+     "zh": "綠色債券",
+     "sample": "The city issued a record volume of green bonds to fund renewable energy projects."
+    },
+    {
+     "phrase": "digital infrastructure",
+     "zh": "數碼基建",
+     "sample": "Reliable digital infrastructure underpins everything from online banking to remote work."
+    },
+    {
+     "phrase": "financial intermediary",
+     "zh": "金融中介",
+     "sample": "A trusted financial intermediary helps channel savings towards productive investment."
+    },
+    {
+     "phrase": "trade tension",
+     "zh": "貿易緊張局勢",
+     "sample": "Rising trade tension between major economies has disrupted global shipping routes."
+    },
+    {
+     "phrase": "capital flow",
+     "zh": "資金流向",
+     "sample": "Investors watch capital flow data closely for early signs of a market shift."
+    },
+    {
+     "phrase": "supply chain realignment",
+     "zh": "供應鏈重組",
+     "sample": "Supply chain realignment has pushed some manufacturers to relocate factories closer to home."
+    },
+    {
+     "phrase": "policy influence",
+     "zh": "政策影響力",
+     "sample": "Hosting international summits can translate into real policy influence over time."
+    },
+    {
+     "phrase": "regional cooperation",
+     "zh": "區域合作",
+     "sample": "Deeper regional cooperation on standards could make cross-border trade far more efficient."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "serve as a credible bridge between East and West",
+     "zh": "作為連繫東西方的可信橋樑",
+     "sample": "Hong Kong has long positioned itself to serve as a credible bridge between East and West."
+    },
+    {
+     "en": "translate a successful hosting into lasting influence",
+     "zh": "將成功主辦轉化為持久影響力",
+     "sample": "Officials hope to translate a successful hosting into lasting influence over regional policy."
+    },
+    {
+     "en": "safeguard ordinary livelihoods amid economic headwinds",
+     "zh": "在經濟逆風中保障民眾生計",
+     "sample": "Governments are under pressure to safeguard ordinary livelihoods amid economic headwinds."
+    },
+    {
+     "en": "showcase a city's convening power on the world stage",
+     "zh": "在國際舞台上展現城市的號召力",
+     "sample": "The summit was designed to showcase the city's convening power on the world stage."
+    },
+    {
+     "en": "navigate persistent trade tensions",
+     "zh": "應對持續的貿易緊張局勢",
+     "sample": "Smaller economies must navigate persistent trade tensions between the region's two largest powers."
+    },
+    {
+     "en": "deepen cooperation on emerging technologies",
+     "zh": "深化在新興科技上的合作",
+     "sample": "Finance ministers agreed to deepen cooperation on emerging technologies such as AI."
+    },
+    {
+     "en": "channel capital towards productive ends",
+     "zh": "將資金導向具生產力的用途",
+     "sample": "A healthy financial system should channel capital towards productive ends rather than speculation."
+    },
+    {
+     "en": "reinforce a city's claim to financial relevance",
+     "zh": "鞏固城市在金融領域的地位主張",
+     "sample": "Hosting the summit helps reinforce Hong Kong's claim to financial relevance in the region."
+    },
+    {
+     "en": "amount to more than a diplomatic formality",
+     "zh": "不僅僅是一場外交禮節",
+     "sample": "Officials insist the gathering amounts to more than a diplomatic formality."
+    },
+    {
+     "en": "extend financial access to underserved groups",
+     "zh": "將金融服務擴展至服務不足的群體",
+     "sample": "Mobile payment platforms have helped extend financial access to underserved groups across Asia."
+    },
+    {
+     "en": "cultivate the next generation of financial talent",
+     "zh": "培育新一代金融人才",
+     "sample": "Universities and regulators are working together to cultivate the next generation of financial talent."
+    },
+    {
+     "en": "realign around shifting tariff regimes",
+     "zh": "隨關稅制度轉變而重新調整",
+     "sample": "Global supply chains have had to realign around shifting tariff regimes in recent years."
+    }
+   ],
+   "date": "2026-10-15",
+   "id": "a5144afd3"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/finance/article/345330/HKIC-launches-first-full-time-internship-program-applications-close-November-3",
+   "published_date": "13 October 2026",
+   "headline": "Hong Kong Investment Corporation Launches First Full-Time Internship Scheme",
+   "category": "career",
+   "summary_html": "<p>The Hong Kong Investment Corporation has opened applications for its first full-time internship programme, a scheme the government-backed fund says is designed to give students <span class=\"bw\">hands-on exposure<span class=\"tip\"><span class=\"tip-en\">direct, practical experience of real work rather than only classroom theory</span><span class=\"tip-zh\">親身實務體驗</span></span></span> to how a <span class=\"bw\">strategic investment fund<span class=\"tip\"><span class=\"tip-en\">a government-linked fund that invests public money in important industries to support long-term economic goals</span><span class=\"tip-zh\">策略性投資基金</span></span></span> actually operates. Applications close on November 3, with the programme itself due to <span class=\"bw\">run over four to six weeks<span class=\"tip\"><span class=\"tip-en\">continue for a period lasting between four and six weeks</span><span class=\"tip-zh\">為期四至六星期</span></span></span>, starting in December.</p><p>The scheme is open to both undergraduate and postgraduate students, with <span class=\"bw\">priority given to<span class=\"tip\"><span class=\"tip-en\">preference shown towards one group over others when places or resources are limited</span><span class=\"tip-zh\">優先考慮</span></span></span> those enrolled at local tertiary institutions. Successful applicants will be placed in one of three divisions — investment, risk and compliance, or legal — and paid a <span class=\"bw\">fixed monthly stipend<span class=\"tip\"><span class=\"tip-en\">a set amount of money paid regularly to someone such as a student or trainee, rather than a wage that varies</span><span class=\"tip-zh\">固定月津貼</span></span></span> of HK$11,800. Chief executive Clara Chan described the programme as a way for students to help shape the territory's finance and innovation development while gaining a realistic sense of the sector.</p><p>The launch comes as Hong Kong's graduate job market remains under strain, with entry-level vacancies in several sectors squeezed by automation and cautious hiring. A structured scheme offering <span class=\"bw\">a clear path into a competitive sector<span class=\"tip\"><span class=\"tip-en\">a defined, realistic way for someone to enter an industry where places are limited and demand is high</span><span class=\"tip-zh\">進入競爭激烈行業的明確途徑</span></span></span> may therefore carry weight beyond its modest size, both as a <span class=\"bw\">recruitment pipeline<span class=\"tip\"><span class=\"tip-en\">a steady, structured route that supplies an organisation with new recruits over time</span><span class=\"tip-zh\">人才招聘渠道</span></span></span> for the fund itself and as a signal of how the government hopes to <span class=\"bw\">cushion graduates against a tightening labour market<span class=\"tip\"><span class=\"tip-en\">protect or soften the impact on new graduates facing a job market with fewer available positions</span><span class=\"tip-zh\">緩衝畢業生面對收緊的就業市場</span></span></span>.</p>",
+   "summary_zh_html": "<p>香港投資管理有限公司(港投公司)現已開放申請,推出其首個全職實習計劃,這個由政府支持的基金表示,計劃旨在讓學生<span class=\"bwz\">親身實務體驗</span>一個<span class=\"bwz\">策略性投資基金</span>實際上如何運作。申請將於十一月三日截止,計劃本身則<span class=\"bwz\">為期四至六星期</span>,預計十二月展開。</p><p>計劃面向本科生及研究生開放,並<span class=\"bwz\">優先考慮</span>本地專上院校的學生。獲取錄的申請人將被分配至投資、風險及合規,或法律三個部門之一,並獲發每月<span class=\"bwz\">固定月津貼</span>一萬一千八百港元。行政總裁陳慧女士形容,計劃讓學生在對行業建立真實認知之餘,亦能參與塑造本港金融及創新發展的工作。</p><p>計劃推出之際,正值本港畢業生就業市場持續承壓,多個行業的入門職位因自動化及審慎招聘而收緊。因此,一個提供<span class=\"bwz\">進入競爭激烈行業的明確途徑</span>的結構化計劃,其意義或遠超其規模本身——既是基金自身的<span class=\"bwz\">人才招聘渠道</span>,亦顯示政府如何寄望<span class=\"bwz\">緩衝畢業生面對收緊的就業市場</span>所帶來的衝擊。</p>",
+   "image_scene": "Inside a modern open-plan office in Hong Kong's Central business district, floor-to-ceiling windows overlook the harbour as a small group of anonymous young interns in smart office wear sit around a glass meeting table reviewing documents and laptops, a senior colleague gesturing while explaining a chart.",
+   "cover_text": {
+    "zh_kicker": "港投實習",
+    "zh_title": [
+     "港投招募",
+     "首批實習生"
+    ],
+    "zh_hl": "首批",
+    "zh_sub": "月薪11800元",
+    "en": "HKIC launches first full-time internship programme for students"
+   },
+   "vocab": [
+    {
+     "phrase": "stipend",
+     "zh": "津貼",
+     "sample": "The fellowship offers a modest monthly stipend to cover living costs."
+    },
+    {
+     "phrase": "junior role",
+     "zh": "初級職位",
+     "sample": "Junior roles in finance have become harder to land as firms automate routine analysis."
+    },
+    {
+     "phrase": "recruitment pipeline",
+     "zh": "人才招聘渠道",
+     "sample": "A strong internship programme doubles as a recruitment pipeline for future full-time hires."
+    },
+    {
+     "phrase": "campus recruitment",
+     "zh": "校園招聘",
+     "sample": "The fund relies on campus recruitment to identify promising students early."
+    },
+    {
+     "phrase": "work placement",
+     "zh": "實習安排",
+     "sample": "Her placement in the risk division gave her a close-up view of how the fund screens deals."
+    },
+    {
+     "phrase": "compliance division",
+     "zh": "合規部門",
+     "sample": "The compliance division checks that every investment follows regulatory rules."
+    },
+    {
+     "phrase": "job seeker",
+     "zh": "求職者",
+     "sample": "Job seekers with strong data skills have an edge in today's finance recruitment market."
+    },
+    {
+     "phrase": "government-backed fund",
+     "zh": "政府支持的基金",
+     "sample": "The government-backed fund was set up to attract strategic enterprises to the city."
+    },
+    {
+     "phrase": "graduate scheme",
+     "zh": "畢業生計劃",
+     "sample": "The bank's graduate scheme accepts fewer than one in twenty applicants each year."
+    },
+    {
+     "phrase": "automation-driven restructuring",
+     "zh": "自動化驅動的職位重組",
+     "sample": "Automation-driven restructuring has eliminated many routine clerical roles."
+    },
+    {
+     "phrase": "competitive sector",
+     "zh": "競爭激烈的行業",
+     "sample": "Finance remains one of the most competitive sectors for fresh graduates to break into."
+    },
+    {
+     "phrase": "internship cohort",
+     "zh": "實習生屆別",
+     "sample": "The first internship cohort will begin work in December."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "offer students hands-on exposure to real decision-making",
+     "zh": "讓學生親身體驗實際決策過程",
+     "sample": "The scheme offers students hands-on exposure to real decision-making inside a major fund."
+    },
+    {
+     "en": "serve as a recruitment pipeline for future hires",
+     "zh": "作為未來招聘的人才渠道",
+     "sample": "Many firms design internships to serve as a recruitment pipeline for future hires."
+    },
+    {
+     "en": "give priority to local tertiary students",
+     "zh": "優先考慮本地專上學生",
+     "sample": "The programme gives priority to local tertiary students over overseas applicants."
+    },
+    {
+     "en": "cushion graduates against a tightening job market",
+     "zh": "緩衝畢業生面對收緊的就業市場",
+     "sample": "Targeted schemes aim to cushion graduates against a tightening job market."
+    },
+    {
+     "en": "carry weight beyond its modest size",
+     "zh": "其意義遠超其規模本身",
+     "sample": "A single well-designed scheme can carry weight beyond its modest size."
+    },
+    {
+     "en": "offer a clear path into a competitive sector",
+     "zh": "提供進入競爭激烈行業的明確途徑",
+     "sample": "Structured internships offer students a clear path into a competitive sector."
+    },
+    {
+     "en": "gain a realistic sense of an industry",
+     "zh": "對行業建立真實的認知",
+     "sample": "Short placements let students gain a realistic sense of an industry before committing to it."
+    },
+    {
+     "en": "squeeze entry-level vacancies across sectors",
+     "zh": "令各行業的入門職位空缺收緊",
+     "sample": "Automation has squeezed entry-level vacancies across several sectors at once."
+    },
+    {
+     "en": "signal how a government hopes to respond to a problem",
+     "zh": "顯示政府寄望如何應對問題",
+     "sample": "The new scheme signals how the government hopes to respond to graduate unemployment."
+    },
+    {
+     "en": "build a sustainable talent pipeline",
+     "zh": "建立可持續的人才梯隊",
+     "sample": "Employers and universities are working together to build a sustainable talent pipeline."
+    },
+    {
+     "en": "shape a sector's long-term development",
+     "zh": "塑造行業的長遠發展",
+     "sample": "Interns are told their work can help shape the sector's long-term development."
+    },
+    {
+     "en": "remain under strain despite policy support",
+     "zh": "儘管獲政策支持仍持續承壓",
+     "sample": "The graduate job market remains under strain despite repeated rounds of policy support."
+    }
+   ],
+   "date": "2026-10-15",
+   "id": "a6ca2f7e3"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/entertainment/article/345453/Joey-Yung-adds-January-18-date-to-Kai-Tak-concert-breaks-down-in-tears-during-livestream",
+   "published_date": "13 October 2026",
+   "headline": "Joey Yung Adds Extra Kai Tak Show, Breaks Down in Tears Announcing Solo Stadium Dream",
+   "category": "pop",
+   "summary_html": "<p>Cantopop veteran Joey Yung Tso-yi choked up during a live-streamed announcement on Tuesday night, telling fans she had added a third date, January 18, 2027, to her forthcoming \"AURA\" concert series at Kai Tak Stadium. The additional show joins two dates already pencilled in for January 22 and 23, and came only hours before tickets for the <span class=\"bw\">original run<span class=\"tip\"><span class=\"tip-en\">the dates for a show that were first announced or scheduled, before any extra ones were added</span><span class=\"tip-zh\">原定場次</span></span></span> went on general sale.</p><p>For Yung, the moment carries weight beyond a simple scheduling update. The singer had spoken publicly as far back as last year about her hope of one day <span class=\"bw\">headlining a solo stadium show<span class=\"tip\"><span class=\"tip-en\">being the main performer of an entire concert held in a large stadium venue, rather than sharing the bill with others</span><span class=\"tip-zh\">獨挑大樑主演體育館演唱會</span></span></span> at Kai Tak, having previously appeared there only as part of a <span class=\"bw\">joint bill<span class=\"tip\"><span class=\"tip-en\">a concert programme shared between several different performers rather than led by just one</span><span class=\"tip-zh\">聯合演出場次</span></span></span> with other Emperor Entertainment artists. Seeing an additional date added within hours of the original announcement appeared to confirm a level of fan demand she had clearly hoped for but could not guarantee.</p><p>Tickets for the three shows are priced between HK$680 and HK$1,680, and Yung suggested further dates were possible should <span class=\"bw\">momentum hold<span class=\"tip\"><span class=\"tip-en\">if the current strong level of public interest or demand continues without slowing down</span><span class=\"tip-zh\">熱度持續不減</span></span></span>. The episode also reflects a wider pattern in Hong Kong's concert economy, where <span class=\"bw\">stadium-scale bookings<span class=\"tip\"><span class=\"tip-en\">concerts large enough to fill an entire sports stadium rather than a smaller indoor arena</span><span class=\"tip-zh\">體育館規模的演出檔期</span></span></span> at the 50,000-seat venue have become a yardstick local singers use to measure their own <span class=\"bw\">drawing power<span class=\"tip\"><span class=\"tip-en\">a performer's ability to attract a large paying audience</span><span class=\"tip-zh\">號召力</span></span></span> against international acts.</p>",
+   "summary_zh_html": "<p>樂壇常青樹容祖兒週二晚在直播公布加場消息時一度哽咽,向歌迷透露將於「AURA」演唱會系列加開第三場,日期定於二零二七年一月十八日,地點同樣設於啟德體育園。新增場次是在原定一月二十二及二十三日兩場之上再加開,而公布時間僅在<span class=\"bwz\">原定場次</span>門票正式公開發售前數小時。</p><p>對容祖兒而言,這一刻的意義遠超一次單純的檔期更新。她早於去年已曾公開表示,希望終有一天能在啟德<span class=\"bwz\">獨挑大樑主演體育館演唱會</span>,因為她過往在該處演出,僅限於與英皇娛樂旗下其他藝人同台的<span class=\"bwz\">聯合演出場次</span>。在原定公布後僅數小時便需要加場,似乎印證了她一直盼望、卻未敢完全確信的歌迷熱度。</p><p>三場演唱會的門票定價介乎680至1680港元,容祖兒亦表示,若<span class=\"bwz\">熱度持續不減</span>,不排除會再加開場次。這次加場亦反映香港演唱會市場的一個更廣泛現象:在這個可容納五萬人的場館舉行<span class=\"bwz\">體育館規模的演出檔期</span>,已成為本地歌手用以衡量自身<span class=\"bwz\">號召力</span>、與國際級藝人一較高下的指標。</p>",
+   "image_scene": "A packed stadium concert at night, countless anonymous fans in the stands holding glowing phone lights toward a brightly lit empty stage with a large curved screen, confetti drifting in coloured spotlight beams, Hong Kong's skyline faintly visible beyond the open stadium roof.",
+   "cover_text": {
+    "zh_kicker": "啟德加場",
+    "zh_title": [
+     "容祖兒",
+     "啟德再加場"
+    ],
+    "zh_hl": "加場",
+    "zh_sub": "一月十八日開騷",
+    "en": "Joey Yung adds third Kai Tak stadium show date"
+   },
+   "vocab": [
+    {
+     "phrase": "stadium-scale concert",
+     "zh": "體育館規模演唱會",
+     "sample": "A stadium-scale concert can sell tens of thousands of tickets in a single night."
+    },
+    {
+     "phrase": "drawing power",
+     "zh": "票房號召力",
+     "sample": "Critics question whether ageing acts still have the drawing power to fill a stadium."
+    },
+    {
+     "phrase": "joint bill",
+     "zh": "聯合演出",
+     "sample": "The two singers appeared on a joint bill rather than headlining separate nights."
+    },
+    {
+     "phrase": "headliner",
+     "zh": "壓軸主演",
+     "sample": "Becoming the headliner of a stadium show is a milestone many singers chase for years."
+    },
+    {
+     "phrase": "general sale",
+     "zh": "公開發售",
+     "sample": "Tickets for the general sale sold out within minutes of going live."
+    },
+    {
+     "phrase": "ticket tier",
+     "zh": "票價層級",
+     "sample": "The venue offered four ticket tiers ranging from standing room to premium seating."
+    },
+    {
+     "phrase": "encore date",
+     "zh": "加場",
+     "sample": "Organisers added an encore date after the first two nights sold out."
+    },
+    {
+     "phrase": "fan demand",
+     "zh": "歌迷需求",
+     "sample": "Fan demand for the reunion tour far exceeded the promoter's original expectations."
+    },
+    {
+     "phrase": "live-streamed announcement",
+     "zh": "直播公布",
+     "sample": "The band made their comeback official through a live-streamed announcement."
+    },
+    {
+     "phrase": "concert economy",
+     "zh": "演唱會經濟",
+     "sample": "Hong Kong's concert economy has grown rapidly since the stadium opened."
+    },
+    {
+     "phrase": "full house",
+     "zh": "滿座",
+     "sample": "Promoters are confident of a full house for all three nights at the stadium."
+    },
+    {
+     "phrase": "box office milestone",
+     "zh": "票房里程碑",
+     "sample": "Selling out three stadium nights would mark a new box office milestone for the singer."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "choke up while making an announcement",
+     "zh": "公布消息時一度哽咽",
+     "sample": "The singer choked up while making the announcement, visibly moved by fan reactions online."
+    },
+    {
+     "en": "add a date within hours of going on sale",
+     "zh": "開售後數小時內即加場",
+     "sample": "Promoters added a date within hours of going on sale after tickets vanished instantly."
+    },
+    {
+     "en": "headline a stadium in one's own right",
+     "zh": "獨力壓軸主演體育館演出",
+     "sample": "Few local singers get the chance to headline a stadium in their own right."
+    },
+    {
+     "en": "confirm a level of demand one had hoped for",
+     "zh": "印證一直盼望的需求水平",
+     "sample": "The rapid sellout confirmed a level of demand the organisers had hoped for but could not guarantee."
+    },
+    {
+     "en": "serve as a yardstick for a performer's drawing power",
+     "zh": "作為衡量歌手號召力的指標",
+     "sample": "Stadium bookings increasingly serve as a yardstick for a performer's drawing power."
+    },
+    {
+     "en": "measure success against international acts",
+     "zh": "以國際級藝人作為成功的量度標準",
+     "sample": "Local singers now measure success against international acts performing at the same venue."
+    },
+    {
+     "en": "ride a wave of momentum",
+     "zh": "乘着勢頭",
+     "sample": "The singer is riding a wave of momentum after her acclaimed reunion show."
+    },
+    {
+     "en": "leave further dates open to demand",
+     "zh": "視乎需求決定是否加開場次",
+     "sample": "Organisers left further dates open to demand rather than committing early."
+    },
+    {
+     "en": "mark a personal milestone after years of waiting",
+     "zh": "標誌着多年期盼後的個人里程碑",
+     "sample": "The solo stadium show marks a personal milestone after years of waiting in the wings."
+    },
+    {
+     "en": "sell out within hours of release",
+     "zh": "門票發售後數小時內售罄",
+     "sample": "Tickets for the additional show sold out within hours of release."
+    },
+    {
+     "en": "reflect a broader shift in the live music market",
+     "zh": "反映現場音樂市場的更廣泛轉變",
+     "sample": "The rush for tickets reflects a broader shift in the live music market towards bigger venues."
+    },
+    {
+     "en": "anchor a tour around a single landmark venue",
+     "zh": "以單一地標場館作為巡演核心",
+     "sample": "The tour was built to anchor around a single landmark venue rather than multiple smaller stops."
+    }
+   ],
+   "date": "2026-10-15",
+   "id": "a70667970"
   }
  ],
  "trends": [
@@ -21854,6 +22438,35 @@
    ],
    "date": "2026-10-13",
    "id": "tcbfa976f"
+  },
+  {
+   "platforms": [
+    "threads",
+    "facebook"
+   ],
+   "headline": "🥊🚇 'MTR MMA' Clip Has Hongkongers Joking About a City on Edge",
+   "summary_html": "<p>A shaky video of two men trading punches inside a crowded MTR carriage has become this week's go-to shorthand for Hong Kong's fraying nerves, racking up shares across Threads and Facebook groups since Tuesday. Neither the cause of the fight nor its exact time and station are known, but the footage shows one passenger pinning the other to the floor by the neck before continuing to throw punches, while the rest of the carriage reportedly stood by and watched without intervening.</p><p>What turned a short, ugly clip into a proper talking point was less the violence itself than the reaction underneath it: commenters joked that the city should \"just hold an MMA tournament on the MTR already,\" turning a real physical assault into a punchline about how short-tempered public life has become. Others focused less on the joke and more on the silence of the surrounding passengers, several of whom appear in the footage filming on their phones rather than stepping in.</p>",
+   "summary_zh_html": "<p>一段兩名男子在擠逼港鐵車廂內大打出手的手震影片,自週二起在Threads及Facebook群組瘋傳,成為本週香港人用以形容集體情緒緊繃的最佳寫照。打鬥起因、確實時間及車站均不得而知,惟片段顯示其中一名乘客將對方按在地上、以手臂扣頸後仍繼續揮拳施襲,而車廂內其餘乘客據報均在旁觀望,無人上前勸阻或制止。</p><p>令這段短促而難堪的片段變成熱門話題的,與其說是暴力本身,不如說是片段下方的網民反應:有留言打趣指,本港「不如索性喺港鐵度搞返個MMA比賽」,將一宗真實的人身襲擊事件,轉化成調侃本港公共生活日漸火爆、人人一觸即發的笑話。亦有人的焦點不在於玩笑本身,而在於周遭乘客的沉默——片段中多名乘客似乎只顧舉機拍攝,而非上前制止。</p>",
+   "causes": [
+    {
+     "label": "Bystander apathy in a packed carriage",
+     "text": "When dozens of passengers watch an assault unfold without intervening, a writer can ask what makes people freeze rather than help: fear of injury, uncertainty about legal protection for good samaritans, or simply diffusion of responsibility in a crowd where everyone assumes someone else will act first."
+    },
+    {
+     "label": "Short public fuses as a stress barometer",
+     "text": "Repeated viral fight videos can be read less as isolated incidents than as a rough barometer of collective stress, inviting an essay on how cramped housing, long working hours and a high cost of living might leave residents with less patience for the friction of daily commuting."
+    },
+    {
+     "label": "Weak on-the-spot deterrence under public order law",
+     "text": "Hong Kong law already punishes fighting in a public place, yet videos like this keep circulating, prompting a Paper 2 argument about whether existing penalties are too rarely enforced in real time to actually deter commuters from losing their tempers in a crowded carriage."
+    },
+    {
+     "label": "Counter-argument: turning real violence into a punchline",
+     "text": "A student could push back against the joke itself, arguing that treating a genuine assault as comic material trivialises the victim's experience and lets viewers enjoy the spectacle from a safe distance instead of asking why public spaces increasingly feel unsafe."
+    }
+   ],
+   "date": "2026-10-15",
+   "id": "t5b88a0b8"
   }
  ]
 }

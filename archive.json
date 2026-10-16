@@ -21415,6 +21415,590 @@
    ],
    "date": "2026-10-15",
    "id": "a70667970"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/arts-and-culture/article/345631/A-weekend-of-craft-and-culture-Hong-Kong-heritage-comes-alive-this-November",
+   "published_date": "15 October 2026",
+   "headline": "Hong Kong's Intangible Cultural Heritage Mart Returns for Three Days of Craft and Performance in November",
+   "category": "arts",
+   "summary_html": "<p>Hong Kong's Earthpulse Society has confirmed that a dedicated mart devoted to the city's <span class=\"bw\">intangible cultural heritage<span class=\"tip\"><span class=\"tip-en\">cultural practices, skills and knowledge — such as crafts, performance and festivals — that are passed down between generations rather than kept as physical objects</span><span class=\"tip-zh\">非物質文化遺產</span></span></span> will return to the Hong Kong Cultural Centre's open piazzas from November 6 to 8, giving residents a free, three-day opportunity to encounter traditions that rarely reach a mainstream stage. Staged under the banner “Crafts in Connection, Tradition in Continuation,” the event forms part of the wider Hong Kong Culture Festival and Muse Fest 2026, and is intended to bring <span class=\"bw\">grassroots cultural groups<span class=\"tip\"><span class=\"tip-en\">small, community-based organisations that promote local traditions, usually without major institutional funding</span><span class=\"tip-zh\">草根文化團體</span></span></span> into direct contact with the public rather than leaving their work confined to specialist circles.</p><p>Among the headline attractions is a <span class=\"bw\">curated programme<span class=\"tip\"><span class=\"tip-en\">a selection of performances or exhibits carefully chosen and arranged by an organiser around a theme</span><span class=\"tip-zh\">精心策劃的節目</span></span></span> combining the Hung Shing Choi Lee Fat Fist fighting style with lion dance and lion drumming, arranged by the Chiu Man On Martial Art Association to show how a single <span class=\"bw\">martial arts lineage<span class=\"tip\"><span class=\"tip-en\">an unbroken line of teachers and students through which a particular style of martial arts has been passed down over generations</span><span class=\"tip-zh\">武術傳承</span></span></span> can support several performing traditions at once; commentary accompanying the routines will explain the footwork and drumming patterns to spectators unfamiliar with the art form. The Hong Kong Chaoren Culture & Arts Promotion Association will contribute a set of Chiu Chow music, while a five-piece ensemble performs traditional Guangdong instrumental pieces alongside a lion dance adapted for young children.</p><p>Organisers say the free admission policy is meant to widen <span class=\"bw\">public appreciation<span class=\"tip\"><span class=\"tip-en\">a broader recognition and valuing of something among ordinary people, not just specialists</span><span class=\"tip-zh\">大眾的欣賞與重視</span></span></span> of practices that depend on <span class=\"bw\">intergenerational transmission<span class=\"tip\"><span class=\"tip-en\">the passing of skills, knowledge or customs from older generations to younger ones</span><span class=\"tip-zh\">跨代傳承</span></span></span> for their survival, at a time when many of Hong Kong's folk crafts struggle to recruit apprentices. By scheduling veteran practitioners alongside children's performances on the same programme, the mart hopes to show that <span class=\"bw\">cultural continuity<span class=\"tip\"><span class=\"tip-en\">the unbroken persistence of a cultural practice across successive generations</span><span class=\"tip-zh\">文化延續性</span></span></span> need not mean standing still, but can instead be sustained by making tradition accessible to a new generation of Hongkongers.</p>",
+   "summary_zh_html": "<p>香港「地球脈信會」(Earthpulse Society) 證實,一個專門展示本港<span class=\"bwz\">非物質文化遺產</span>的墟市,將於十一月六日至八日一連三日,在香港文化中心露天廣場免費舉行,讓市民有機會接觸鮮少登上主流舞台的傳統文化。活動以「工藝相連,傳統延續」為主題,屬香港文化節及「藝萃2026」的一部分,旨在讓<span class=\"bwz\">草根文化團體</span>直接與公眾接觸,而非只局限於小圈子之中。</p><p>是次活動的焦點節目之一,是由「趙萬年國術會」編排的一個<span class=\"bwz\">精心策劃的節目</span>,將洪勝蔡李佛拳與醒獅、獅鼓表演結合,展現單一<span class=\"bwz\">武術傳承</span>如何同時承載多種表演藝術;表演期間亦設有旁述,向不熟悉此武術的觀眾講解步法與鼓點編排。「香港潮人文化藝術推廣會」將帶來一場潮州音樂表演,另有一個五人傳統廣東音樂組合,配合專為小朋友而設的醒獅表演。</p><p>主辦方表示,免費入場的安排旨在擴大<span class=\"bwz\">大眾的欣賞與重視</span>,讓更多市民重視依靠<span class=\"bwz\">跨代傳承</span>方能延續的技藝,因為現時不少本地民間工藝都面臨招募學徒困難的問題。透過將資深師傅與兒童表演安排在同一節目之中,墟市希望證明<span class=\"bwz\">文化延續性</span>不代表原地不動,而是可以透過令傳統貼近新一代香港人而得以延續。</p>",
+   "image_scene": "Performers in a colourful lion dance costume mid-leap on an open-air piazza outside a modern cultural centre building, a small drum troupe beside them, with Victoria Harbour and a clock tower visible behind; families and children sit on portable chairs watching, late-afternoon sunlight, no text, signs or logos.",
+   "cover_text": {
+    "zh_kicker": "文化墟市",
+    "zh_title": [
+     "非遺墟市",
+     "免費三日"
+    ],
+    "zh_hl": "免費",
+    "zh_sub": "文化中心任賞傳統技藝",
+    "en": "Free three-day heritage mart returns to Cultural Centre"
+   },
+   "vocab": [
+    {
+     "phrase": "lion dance",
+     "zh": "醒獅",
+     "sample": "The lion dance is often performed at festivals to bring good fortune."
+    },
+    {
+     "phrase": "lion drumming",
+     "zh": "獅鼓",
+     "sample": "Lion drumming sets the rhythm that guides every leap in the performance."
+    },
+    {
+     "phrase": "martial arts association",
+     "zh": "國術會",
+     "sample": "The martial arts association has trained students in the style for three generations."
+    },
+    {
+     "phrase": "folk craft",
+     "zh": "民間工藝",
+     "sample": "Many folk crafts in Hong Kong are kept alive by just a handful of elderly masters."
+    },
+    {
+     "phrase": "apprentice",
+     "zh": "學徒",
+     "sample": "The master is still searching for an apprentice willing to learn the full routine."
+    },
+    {
+     "phrase": "heritage custodian",
+     "zh": "傳承人",
+     "sample": "Without a heritage custodian willing to teach, the routine could vanish within a decade."
+    },
+    {
+     "phrase": "traditional ensemble",
+     "zh": "傳統樂團",
+     "sample": "The traditional ensemble performed on instruments rarely seen outside heritage festivals."
+    },
+    {
+     "phrase": "community outreach",
+     "zh": "社區推廣",
+     "sample": "The mart's community outreach brought the performance to families who rarely visit a theatre."
+    },
+    {
+     "phrase": "cultural festival",
+     "zh": "文化節",
+     "sample": "The cultural festival runs for several weeks across multiple venues in the city."
+    },
+    {
+     "phrase": "veteran practitioner",
+     "zh": "資深師傅",
+     "sample": "A veteran practitioner demonstrated techniques that take decades to master."
+    },
+    {
+     "phrase": "open-air piazza",
+     "zh": "露天廣場",
+     "sample": "Performers gathered on the open-air piazza as crowds began to form."
+    },
+    {
+     "phrase": "live demonstration",
+     "zh": "現場示範",
+     "sample": "The live demonstration let visitors watch the technique step by step."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "keep a craft from dying out with its last master",
+     "zh": "讓技藝不致隨末代師傅失傳",
+     "sample": "Scholarships for apprentices are designed to keep a craft from dying out with its last master."
+    },
+    {
+     "en": "recruit apprentices willing to commit years to a single skill",
+     "zh": "招募願意花多年鑽研單一技藝的學徒",
+     "sample": "Few organisations manage to recruit apprentices willing to commit years to a single skill."
+    },
+    {
+     "en": "stage tradition alongside performances aimed at children",
+     "zh": "將傳統與針對兒童的表演並置呈現",
+     "sample": "Organisers chose to stage tradition alongside performances aimed at children to widen its appeal."
+    },
+    {
+     "en": "treat a folk practice as a living art rather than a museum piece",
+     "zh": "將民間技藝視為活的藝術而非博物館展品",
+     "sample": "The programme treats a folk practice as a living art rather than a museum piece."
+    },
+    {
+     "en": "lower the barrier between specialist circles and the general public",
+     "zh": "拉近專業圈子與普羅大眾之間的距離",
+     "sample": "Free admission is one way to lower the barrier between specialist circles and the general public."
+    },
+    {
+     "en": "rely on volunteer associations rather than government funding",
+     "zh": "依靠義務團體而非政府資助支撐",
+     "sample": "Many heritage events still rely on volunteer associations rather than government funding."
+    },
+    {
+     "en": "pass a lineage down through direct instruction",
+     "zh": "透過親身教授將傳承延續下去",
+     "sample": "Martial arts schools pass a lineage down through direct instruction rather than written manuals."
+    },
+    {
+     "en": "risk fading from public memory within a generation",
+     "zh": "面臨在一代人之內被公眾淡忘的風險",
+     "sample": "Without new audiences, niche crafts risk fading from public memory within a generation."
+    },
+    {
+     "en": "give a niche tradition a mainstream stage",
+     "zh": "讓小眾傳統登上主流舞台",
+     "sample": "The mart aims to give a niche tradition a mainstream stage it would not otherwise reach."
+    },
+    {
+     "en": "accompany a performance with explanatory commentary",
+     "zh": "為表演配上解說旁述",
+     "sample": "Organisers accompanied the performance with explanatory commentary so newcomers could follow the techniques."
+    },
+    {
+     "en": "weave heritage programming into a wider arts festival",
+     "zh": "將文化遺產節目編排進更廣泛的藝術節之中",
+     "sample": "The mart weaves heritage programming into a wider arts festival rather than standing alone."
+    },
+    {
+     "en": "test whether free entry alone can sustain public interest",
+     "zh": "測試單靠免費入場能否維持公眾的興趣",
+     "sample": "Critics question whether free entry alone can sustain public interest in the long run."
+    }
+   ],
+   "date": "2026-10-16",
+   "id": "aed63f86c"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371050/hong-kong-carry-out-24-hour-patrols-near-apec-meeting-venue-and-delegate-hotels",
+   "published_date": "16 October 2026",
+   "headline": "Hong Kong Police to Mount Round-the-Clock Patrols Ahead of First APEC Finance Ministers' Meeting",
+   "category": "global",
+   "summary_html": "<p>Hong Kong police have begun mounting <span class=\"bw\">round-the-clock patrols<span class=\"tip\"><span class=\"tip-en\">continuous patrols kept up 24 hours a day without a break</span><span class=\"tip-zh\">24小時不間斷巡邏</span></span></span> around the Wan Chai harbourfront ahead of the city's first Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting, due to run from October 19 to 21 at the Hong Kong Convention and Exhibition Centre. Sources familiar with the operation say hundreds of officers from the force's tactical unit will watch over both the venue itself and a cluster of nearby hotels, including the Grand Hyatt and the Renaissance Harbour View, where visiting <span class=\"bw\">delegations<span class=\"tip\"><span class=\"tip-en\">official groups of representatives sent by a government or organisation to attend a meeting or event</span><span class=\"tip-zh\">代表團</span></span></span> are expected to stay.</p><p>Security Secretary Chris Tang has said the arrangements must cover hotel security, venue security and transport for a <span class=\"bw\">high-level gathering<span class=\"tip\"><span class=\"tip-en\">a meeting attended by senior officials or leaders rather than lower-ranking staff</span><span class=\"tip-zh\">高層會議</span></span></span> of finance ministers and senior officials from the bloc's 21 member economies, with roughly 500 guests expected in total. He added that the force has drawn up <span class=\"bw\">contingency plans<span class=\"tip\"><span class=\"tip-en\">plans prepared in advance to deal with an emergency or an unexpected situation</span><span class=\"tip-zh\">應變計劃</span></span></span> for possible terrorist or cyberattack threats, and that specialist teams will run cyber patrols alongside the physical presence on the ground, reflecting how summit security now spans both streets and servers.</p><p>Officials have stressed that the <span class=\"bw\">heightened security<span class=\"tip\"><span class=\"tip-en\">security measures that have been increased beyond their usual, everyday level</span><span class=\"tip-zh\">加強保安</span></span></span> is not intended to cut Wan Chai off from ordinary life, insisting that <span class=\"bw\">diplomatic protocol<span class=\"tip\"><span class=\"tip-en\">the formal rules and customs that govern how officials and dignitaries are received and treated</span><span class=\"tip-zh\">外交禮節</span></span></span> can be observed without unduly inconveniencing residents or commuters passing through the district. For a city keen to present itself as a reliable <span class=\"bw\">host city<span class=\"tip\"><span class=\"tip-en\">the place chosen to stage and organise an international event or meeting</span><span class=\"tip-zh\">主辦城市</span></span></span> for international finance, how smoothly the meeting runs may matter almost as much as what is decided inside the venue.</p>",
+   "summary_zh_html": "<p>香港警方已開始在灣仔海濱一帶部署<span class=\"bwz\">24小時不間斷巡邏</span>,為本港首次主辦的亞太經合組織(APEC)財長會議做好準備,會議預計於十月十九日至二十一日假香港會議展覽中心舉行。據了解行動安排的消息人士透露,警隊將派出數百名機動部隊人員,同時駐守會場本身及鄰近多間酒店,包括君悅酒店及港麗酒店,預料到訪的<span class=\"bwz\">代表團</span>將入住該處。</p><p>保安局局長鄧炳強表示,有關安排須涵蓋酒店保安、會場保安及交通安排,以應付這場雲集來自二十一個成員體財長及高級官員的<span class=\"bwz\">高層會議</span>,預計總共約有五百名賓客出席。他補充指,警方已制定<span class=\"bwz\">應變計劃</span>,以應付可能出現的恐怖襲擊或網絡攻擊威脅,而專責小組亦會同步進行網絡巡查,反映現今的峰會保安工作已由街頭延伸至網絡系統。</p><p>官員強調,<span class=\"bwz\">加強保安</span>並非要將灣仔與日常生活隔絕,並堅稱在不過度影響居民或途經該區通勤人士的情況下,仍可妥善遵守<span class=\"bwz\">外交禮節</span>。對於一直希望展現自己是可靠的國際金融<span class=\"bwz\">主辦城市</span>的香港而言,會議能否順利進行,其重要性或許不亞於會上所作出的決定。</p>",
+   "image_scene": "Uniformed police officers in tactical gear patrolling in pairs along a harbourfront promenade at dusk, a large convention centre with a glass facade in the background, black SUVs parked near a hotel entrance, Victoria Harbour visible behind; no text, signs or logos shown.",
+   "cover_text": {
+    "zh_kicker": "APEC保安",
+    "zh_title": [
+     "灣仔佈防",
+     "24小時巡邏"
+    ],
+    "zh_hl": "24小時",
+    "zh_sub": "APEC財長會議十九日開幕",
+    "en": "Police to run 24-hour patrols for Hong Kong's APEC meeting"
+   },
+   "vocab": [
+    {
+     "phrase": "tactical unit",
+     "zh": "機動部隊",
+     "sample": "Members of the tactical unit were stationed outside the convention centre."
+    },
+    {
+     "phrase": "convention centre",
+     "zh": "會議展覽中心",
+     "sample": "The convention centre has hosted international meetings for decades."
+    },
+    {
+     "phrase": "finance minister",
+     "zh": "財政部長",
+     "sample": "Each member economy sent its finance minister to the meeting."
+    },
+    {
+     "phrase": "accredited delegate",
+     "zh": "認可代表",
+     "sample": "Only accredited delegates were allowed past the first checkpoint."
+    },
+    {
+     "phrase": "cyberattack",
+     "zh": "網絡攻擊",
+     "sample": "Officials warned that a cyberattack could disrupt the meeting's systems."
+    },
+    {
+     "phrase": "terrorist threat",
+     "zh": "恐怖主義威脅",
+     "sample": "Police said they take every terrorist threat seriously during major events."
+    },
+    {
+     "phrase": "diplomatic delegation",
+     "zh": "外交代表團",
+     "sample": "A diplomatic delegation arrived a day early to inspect the venue."
+    },
+    {
+     "phrase": "harbourfront",
+     "zh": "海濱",
+     "sample": "The harbourfront was unusually quiet before the morning patrols began."
+    },
+    {
+     "phrase": "security briefing",
+     "zh": "保安簡報會",
+     "sample": "Officers attended a security briefing before taking up their positions."
+    },
+    {
+     "phrase": "checkpoint",
+     "zh": "檢查站",
+     "sample": "Several checkpoints were set up around the hotel entrance."
+    },
+    {
+     "phrase": "credential check",
+     "zh": "證件核實",
+     "sample": "Every visitor to the venue had to pass a credential check."
+    },
+    {
+     "phrase": "exclusion zone",
+     "zh": "禁區",
+     "sample": "A small exclusion zone was marked out around the delegates' hotel."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "ring a venue with round-the-clock security",
+     "zh": "為場館佈下24小時保安網",
+     "sample": "Officers will ring the venue with round-the-clock security throughout the three-day meeting."
+    },
+    {
+     "en": "draw up contingency plans for worst-case scenarios",
+     "zh": "為最壞情況制定應變計劃",
+     "sample": "Planners drew up contingency plans for worst-case scenarios months before the delegates arrived."
+    },
+    {
+     "en": "extend security cover from the streets to cyberspace",
+     "zh": "將保安範圍由街頭延伸至網絡空間",
+     "sample": "Modern summits extend security cover from the streets to cyberspace."
+    },
+    {
+     "en": "play host to a gathering of international officials",
+     "zh": "接待一場國際官員雲集的會議",
+     "sample": "The city is playing host to a gathering of international officials for the first time."
+    },
+    {
+     "en": "balance security needs against daily inconvenience to residents",
+     "zh": "在保安需要與居民日常不便之間取得平衡",
+     "sample": "Authorities must balance security needs against daily inconvenience to residents during the meeting."
+    },
+    {
+     "en": "showcase a city's capacity to stage major diplomatic events",
+     "zh": "展現城市主辦重大外交活動的能力",
+     "sample": "A smoothly run meeting would showcase the city's capacity to stage major diplomatic events."
+    },
+    {
+     "en": "coordinate security across venues, hotels and transport links",
+     "zh": "統籌場館、酒店及交通網絡的保安工作",
+     "sample": "Officers had to coordinate security across venues, hotels and transport links simultaneously."
+    },
+    {
+     "en": "deploy specialist units rather than relying on routine policing",
+     "zh": "調派專責部隊而非依賴日常警務",
+     "sample": "The scale of the meeting required deploying specialist units rather than relying on routine policing."
+    },
+    {
+     "en": "signal a city's standing within a regional bloc",
+     "zh": "彰顯城市在區域組織中的地位",
+     "sample": "Hosting the meeting for the first time signals the city's standing within the regional bloc."
+    },
+    {
+     "en": "guard against both physical and digital threats",
+     "zh": "同時防範實體及網絡威脅",
+     "sample": "Security teams must guard against both physical and digital threats during a high-profile summit."
+    },
+    {
+     "en": "accommodate a high-level delegation without disrupting daily life",
+     "zh": "在不干擾日常生活的情況下接待高層代表團",
+     "sample": "Officials insisted they could accommodate the high-level delegation without disrupting daily life in the district."
+    },
+    {
+     "en": "treat a summit's smooth running as a diplomatic achievement in itself",
+     "zh": "將峰會順利舉行本身視為外交上的成就",
+     "sample": "Some observers treat a summit's smooth running as a diplomatic achievement in itself."
+    }
+   ],
+   "date": "2026-10-16",
+   "id": "ae21cf3e6"
+  },
+  {
+   "source_name": "HKFP",
+   "source_url": "https://hongkongfp.com/2026/10/15/dozens-of-hong-kong-christian-groups-petition-against-tourism-bodys-halloween-month-campaign/",
+   "published_date": "15 October 2026",
+   "headline": "Dozens of Christian Groups Petition Against Tourism Board's First 'Halloween Month' Campaign",
+   "category": "social",
+   "summary_html": "<p>A coalition calling itself Yeshua Families Built in Love has submitted an <span class=\"bw\">online petition<span class=\"tip\"><span class=\"tip-en\">a formal written request, usually gathered and signed through a website, calling on authorities to take or reverse an action</span><span class=\"tip-zh\">網上聯署</span></span></span> to Hong Kong's legislature and government departments, urging authorities to scrap the Hong Kong Tourism Board's first-ever month-long “Halloween Month” campaign before weekend street parties begin this Saturday. The petition's Google Form had gathered around 70 signatures by Wednesday, most of them from other Christian organisations rather than individual residents, and it frames the <span class=\"bw\">secular celebration<span class=\"tip\"><span class=\"tip-en\">a celebration with no religious character, intended for the general public rather than any particular faith</span><span class=\"tip-zh\">世俗慶典</span></span></span> running throughout October as something closer to a spiritual threat than a harmless seasonal promotion.</p><p>In their submission, signatories describe the festival as being “filled with the worship… of death, evil spirits, curses, and the dark world,” arguing that an occasion with such origins should not receive official backing, let alone be funded with <span class=\"bw\">public funds<span class=\"tip\"><span class=\"tip-en\">money collected and controlled by the government, intended to serve the whole community rather than private interests</span><span class=\"tip-zh\">公共資金</span></span></span> intended to serve the whole community. Their target is less the private celebration of Halloween, which has taken place in bars and clubs for years, than the Tourism Board's active promotion of it through a coordinated <span class=\"bw\">tourism strategy<span class=\"tip\"><span class=\"tip-en\">a deliberate plan devised by an official body to attract visitors and boost tourist spending</span><span class=\"tip-zh\">旅遊推廣策略</span></span></span>: citywide cosplay street parties, electronic music events and free tram rides offered to costumed visitors who clear a set <span class=\"bw\">spending threshold<span class=\"tip\"><span class=\"tip-en\">a minimum amount of money a customer must spend before becoming eligible for an offer or reward</span><span class=\"tip-zh\">消費門檻</span></span></span> at partner venues.</p><p>The campaign itself traces back to February's budget speech, in which officials signalled an intent to promote festivals that carry less weight on the mainland as a way of diversifying Hong Kong's calendar of tourist draws. Whether the government responds to this <span class=\"bw\">religious objection<span class=\"tip\"><span class=\"tip-en\">opposition to something based specifically on religious beliefs or teachings</span><span class=\"tip-zh\">宗教上的反對</span></span></span> with any changes before the first parties begin on October 17 remains unclear, but the episode illustrates a recurring tension in a <span class=\"bw\">cultural import<span class=\"tip\"><span class=\"tip-en\">a custom or practice adopted from another country or culture, as opposed to one that originated locally</span><span class=\"tip-zh\">外來文化</span></span></span> once confined to nightlife districts now being turned into official, publicly promoted entertainment.</p>",
+   "summary_zh_html": "<p>一個名為「以馬內利愛家」(Yeshua Families Built in Love) 的團體,向香港立法會及多個政府部門遞交<span class=\"bwz\">網上聯署</span>,要求當局在本週六街頭派對開始前,撤回香港旅遊發展局首次舉辦的全月「香港萬聖節月」活動。截至週三,聯署所用的Google表單已收集約七十個簽名,當中大部分來自其他基督教團體而非個人市民,並將這個貫穿整個十月的<span class=\"bwz\">世俗慶典</span>形容為帶有靈性威脅,而非單純無害的季節性推廣活動。</p><p>聯署人在意見書中形容該節日「充斥着對死亡、邪靈、咒詛及黑暗世界的崇拜」,認為一個有此淵源的節日不應獲官方背書,更不應動用本應服務全體市民的<span class=\"bwz\">公共資金</span>予以資助。他們針對的,與其說是多年來一直在酒吧及夜店舉行的私人萬聖節慶祝活動,不如說是旅發局透過一套協調一致的<span class=\"bwz\">旅遊推廣策略</span>積極推動此節日:全城性的扮裝街頭派對、電子音樂活動,以及向達到指定<span class=\"bwz\">消費門檻</span>的扮裝旅客提供免費電車乘搭優惠。</p><p>該活動的構思可追溯至二月的財政預算案演辭,當時官員表明有意推廣在內地較少受重視的節日,藉以豐富香港的旅遊節慶日曆。政府會否因應這次<span class=\"bwz\">宗教上的反對</span>,在十月十七日首場派對開始前作出任何調整,目前仍不清楚;但事件反映出,一種一度只局限於夜生活場所的<span class=\"bwz\">外來文化</span>,如今正被轉化為官方公開推廣的娛樂活動,其中所存在的持續張力。</p>",
+   "image_scene": "A stretch of a Hong Kong shopping street at dusk with orange and black Halloween bunting strung overhead and bare shopfronts, a small group of anonymous passers-by walking past an open church entrance nearby; a tram passes in the background, no signs or logos visible.",
+   "cover_text": {
+    "zh_kicker": "萬聖爭議",
+    "zh_title": [
+     "教會聯署",
+     "反萬聖月"
+    ],
+    "zh_hl": "萬聖月",
+    "zh_sub": "七十個團體聯署反對",
+    "en": "Christian groups petition against HKTB's Halloween Month"
+   },
+   "vocab": [
+    {
+     "phrase": "petition",
+     "zh": "聯署",
+     "sample": "The petition was addressed to lawmakers and several government bureaus."
+    },
+    {
+     "phrase": "congregation",
+     "zh": "會眾",
+     "sample": "Members of several congregations signed the same online form."
+    },
+    {
+     "phrase": "petition drive",
+     "zh": "聯署行動",
+     "sample": "The petition drive attracted signatories from across the city within days."
+    },
+    {
+     "phrase": "cosplay",
+     "zh": "動漫扮裝",
+     "sample": "Visitors in cosplay were offered free rides on themed trams."
+    },
+    {
+     "phrase": "street party",
+     "zh": "街頭派對",
+     "sample": "The street party drew large crowds despite the midweek timing."
+    },
+    {
+     "phrase": "signatory",
+     "zh": "簽署人",
+     "sample": "Most signatories listed a church or fellowship rather than their own name."
+    },
+    {
+     "phrase": "evil spirit",
+     "zh": "邪靈",
+     "sample": "The petition describes the festival as honouring evil spirits."
+    },
+    {
+     "phrase": "government bureau",
+     "zh": "政府部門",
+     "sample": "Copies of the petition were sent to several government bureaus."
+    },
+    {
+     "phrase": "budget speech",
+     "zh": "財政預算案演辭",
+     "sample": "The campaign was first mentioned in February's budget speech."
+    },
+    {
+     "phrase": "promotional campaign",
+     "zh": "推廣活動",
+     "sample": "The promotional campaign includes free tram rides for costumed visitors."
+    },
+    {
+     "phrase": "nightlife district",
+     "zh": "夜生活區",
+     "sample": "Halloween parties have long been associated with the city's nightlife districts."
+    },
+    {
+     "phrase": "faith-based group",
+     "zh": "宗教背景團體",
+     "sample": "Several faith-based groups coordinated their response within a single week."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "frame a secular event as a spiritual threat",
+     "zh": "將世俗活動定性為靈性威脅",
+     "sample": "The petition frames a secular event as a spiritual threat rather than harmless fun."
+    },
+    {
+     "en": "object to public money funding a specific worldview",
+     "zh": "反對公帑資助特定世界觀",
+     "sample": "Critics object to public money funding a specific worldview they do not share."
+    },
+    {
+     "en": "import a foreign festival into the official tourism calendar",
+     "zh": "將外來節日納入官方旅遊日曆",
+     "sample": "The board chose to import a foreign festival into the official tourism calendar this year."
+    },
+    {
+     "en": "dangle a spending threshold to win over costumed visitors",
+     "zh": "以消費門檻吸引扮裝旅客",
+     "sample": "Free tram rides dangle a spending threshold to win over costumed visitors."
+    },
+    {
+     "en": "diversify a city's calendar of tourist draws",
+     "zh": "豐富城市的旅遊節慶組合",
+     "sample": "Officials hope new festivals will diversify the city's calendar of tourist draws."
+    },
+    {
+     "en": "mobilise congregations behind a single cause",
+     "zh": "動員教會會眾支持單一議題",
+     "sample": "Organisers managed to mobilise congregations behind a single cause within days."
+    },
+    {
+     "en": "draw a line between private celebration and official promotion",
+     "zh": "劃分私人慶祝與官方推廣的界線",
+     "sample": "The petition tries to draw a line between private celebration and official promotion."
+    },
+    {
+     "en": "cite scripture to oppose a public policy",
+     "zh": "引用經文反對公共政策",
+     "sample": "Several signatories cited scripture to oppose a public policy they viewed as harmful."
+    },
+    {
+     "en": "repackage nightlife culture as family-friendly tourism",
+     "zh": "將夜生活文化重新包裝為老少咸宜的旅遊活動",
+     "sample": "The campaign repackages nightlife culture as family-friendly tourism for visiting families."
+    },
+    {
+     "en": "gather signatures within days of a campaign's launch",
+     "zh": "在活動推出後數日內收集到聯署簽名",
+     "sample": "The group gathered signatures within days of the campaign's launch."
+    },
+    {
+     "en": "weigh religious sensitivities against commercial ambitions",
+     "zh": "在宗教顧慮與商業野心之間取得平衡",
+     "sample": "Officials must weigh religious sensitivities against commercial ambitions when picking which festivals to promote."
+    },
+    {
+     "en": "turn a subculture into a headline tourism product",
+     "zh": "將次文化轉化為旗艦旅遊產品",
+     "sample": "The board is trying to turn a subculture into a headline tourism product."
+    }
+   ],
+   "date": "2026-10-16",
+   "id": "a3ac27801"
+  },
+  {
+   "source_name": "HKFP",
+   "source_url": "https://hongkongfp.com/2026/10/14/smog-persists-across-hong-kong-on-wed-after-authorities-warn-of-serious-health-risk/",
+   "published_date": "14 October 2026",
+   "headline": "Smog Lingers Over Hong Kong as 'Serious' Health Risk Warning Follows Weak Winds",
+   "category": "env",
+   "summary_html": "<p>Hong Kong's Environmental Protection Department recorded a “serious” rating — the top tier of its <span class=\"bw\">Air Quality Health Index<span class=\"tip\"><span class=\"tip-en\">the government's official scale for communicating how harmful the air is to breathe at a given time and place</span><span class=\"tip-zh\">空氣質素健康指數</span></span></span> — at several monitoring stations from Tuesday afternoon, and unhealthy pollution persisted into Wednesday across large parts of the city. Causeway Bay's Air Quality Index reached 154 on Wednesday morning, a level classified as unhealthy for the general public, while most other districts registered levels rated unhealthy for <span class=\"bw\">sensitive groups<span class=\"tip\"><span class=\"tip-en\">people more likely to suffer harm from a given condition, such as children, the elderly or those with existing heart or lung disease</span><span class=\"tip-zh\">敏感人群</span></span></span> rather than the population as a whole.</p><p>Forecasters attributed the episode to a now-familiar combination: <span class=\"bw\">weak winds<span class=\"tip\"><span class=\"tip-en\">air movement of unusually low speed, which allows pollutants to accumulate instead of dispersing</span><span class=\"tip-zh\">偏弱的風力</span></span></span> settling over the city alongside unusually strong sunshine, conditions that together favour the formation of <span class=\"bw\">photochemical smog<span class=\"tip\"><span class=\"tip-en\">a type of air pollution created when sunlight reacts chemically with existing pollutants to generate ozone and fine particles</span><span class=\"tip-zh\">光化煙霧</span></span></span>. Intense sunlight accelerates the reactions that turn vehicle exhaust and industrial emissions into <span class=\"bw\">ground-level ozone<span class=\"tip\"><span class=\"tip-en\">ozone gas formed near the earth's surface, a key component of smog and harmful to breathe, unlike the protective ozone layer high in the atmosphere</span><span class=\"tip-zh\">地面臭氧</span></span></span> and <span class=\"bw\">fine particulate matter<span class=\"tip\"><span class=\"tip-en\">extremely small airborne particles, often written as PM2.5, that are small enough to penetrate deep into the lungs</span><span class=\"tip-zh\">微細懸浮粒子</span></span></span>, both of which build up fastest across the wider Pearl River Delta when air stagnates in this way.</p><p>The Hong Kong Observatory has forecast some relief, saying a fresh <span class=\"bw\">easterly airstream<span class=\"tip\"><span class=\"tip-en\">a current of air moving in from the east, which can help disperse accumulated pollution</span><span class=\"tip-zh\">偏東氣流</span></span></span> reaching the Guangdong coast later in the week should gradually help clear the haze. Until then, authorities have repeated their now-routine advice: residents with existing respiratory or heart conditions should limit time outdoors, while otherwise healthy Hongkongers are being reminded that repeated episodes like this one are becoming an unwelcome fixture of the city's autumn weather pattern, rather than a rare exception.</p>",
+   "summary_zh_html": "<p>香港環境保護署自週二下午起,在多個監測站錄得<span class=\"bwz\">空氣質素健康指數</span>「嚴重」級別的讀數,而不健康的污染水平一直持續至週三,影響本港大部分地區。銅鑼灣的空氣質素指數週三早上錄得154,屬對整體市民「不健康」的級別,而其他大部分地區的污染水平則被評為對<span class=\"bwz\">敏感人群</span>「不健康」,未及影響全體市民的程度。</p><p>預報人員將此次事件歸咎於一個現已頗為熟悉的組合:<span class=\"bwz\">偏弱的風力</span>籠罩全市,同時陽光異常猛烈,兩者結合正正有利於<span class=\"bwz\">光化煙霧</span>的形成。強烈日照會加速化學反應,將車輛廢氣及工業排放物轉化為<span class=\"bwz\">地面臭氧</span>及<span class=\"bwz\">微細懸浮粒子</span>,而當空氣像現時般停滯不動時,兩者在整個珠江三角洲地區的累積速度都會特別快。</p><p>香港天文台預測情況將有所緩和,指一股清新的<span class=\"bwz\">偏東氣流</span>將於本週稍後抵達廣東沿岸,有助逐步驅散煙霞。在此之前,當局重複了近乎例行的建議:已患有呼吸系統或心臟疾病的居民應減少戶外活動時間,而身體健康的市民則被提醒,類似事件一再出現,已逐漸成為本港秋季天氣中一個令人不快的常見現象,而非罕見例外。</p>",
+   "image_scene": "A hazy, grey-brown skyline of Hong Kong Island viewed across the harbour at midday, tall buildings fading into smog with the sun a dim glow overhead; a few anonymous pedestrians wearing face masks walking along a promenade, no text, signs or logos visible.",
+   "cover_text": {
+    "zh_kicker": "煙霞籠罩",
+    "zh_title": [
+     "煙霞連日",
+     "健康風險嚴重"
+    ],
+    "zh_hl": "嚴重",
+    "zh_sub": "銅鑼灣空氣指數達154",
+    "en": "Serious air pollution lingers across Hong Kong this week"
+   },
+   "vocab": [
+    {
+     "phrase": "Air Quality Health Index",
+     "zh": "空氣質素健康指數",
+     "sample": "The Air Quality Health Index reached its top category on Tuesday afternoon."
+    },
+    {
+     "phrase": "monitoring station",
+     "zh": "監測站",
+     "sample": "Several monitoring stations recorded unhealthy readings at the same time."
+    },
+    {
+     "phrase": "haze",
+     "zh": "煙霞",
+     "sample": "Thick haze reduced visibility across the harbour for much of the day."
+    },
+    {
+     "phrase": "ozone",
+     "zh": "臭氧",
+     "sample": "Ozone levels tend to rise on days with strong sunshine and little wind."
+    },
+    {
+     "phrase": "PM2.5",
+     "zh": "微細懸浮粒子",
+     "sample": "PM2.5 readings stayed high throughout the episode."
+    },
+    {
+     "phrase": "respiratory illness",
+     "zh": "呼吸系統疾病",
+     "sample": "People with respiratory illness were advised to stay indoors."
+    },
+    {
+     "phrase": "Pearl River Delta",
+     "zh": "珠江三角洲",
+     "sample": "Pollution across the Pearl River Delta tends to rise and fall together."
+    },
+    {
+     "phrase": "stagnant air",
+     "zh": "滯留空氣",
+     "sample": "Stagnant air allowed pollutants to build up over several days."
+    },
+    {
+     "phrase": "air quality reading",
+     "zh": "空氣質素讀數",
+     "sample": "The air quality reading climbed steadily throughout Tuesday afternoon."
+    },
+    {
+     "phrase": "emission",
+     "zh": "排放物",
+     "sample": "Vehicle emissions are one of the main local sources of pollution."
+    },
+    {
+     "phrase": "weather forecast",
+     "zh": "天氣預報",
+     "sample": "The weather forecast suggested conditions would improve by the weekend."
+    },
+    {
+     "phrase": "health advisory",
+     "zh": "健康提示",
+     "sample": "The department issued a health advisory urging caution outdoors."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "trap pollutants close to the ground",
+     "zh": "將污染物困在近地面",
+     "sample": "Weak winds trap pollutants close to the ground instead of letting them disperse."
+    },
+    {
+     "en": "accelerate a chemical reaction that forms smog",
+     "zh": "加速形成煙霧的化學反應",
+     "sample": "Strong sunlight accelerates the chemical reaction that forms smog over the region."
+    },
+    {
+     "en": "push an index into the 'serious' category",
+     "zh": "將指數推高至「嚴重」級別",
+     "sample": "Weak winds pushed the index into the 'serious' category for the first time this month."
+    },
+    {
+     "en": "settle over a region without dispersing",
+     "zh": "停滯於一個地區而不散開",
+     "sample": "Pollutants settled over the Pearl River Delta without dispersing for two days."
+    },
+    {
+     "en": "advise vulnerable residents to limit outdoor activity",
+     "zh": "建議易受影響的居民減少戶外活動",
+     "sample": "Health officials advised vulnerable residents to limit outdoor activity during the episode."
+    },
+    {
+     "en": "treat a pollution spike as part of a seasonal pattern",
+     "zh": "將污染高峰視為季節性模式的一部分",
+     "sample": "Meteorologists now treat this pollution spike as part of a seasonal pattern rather than a one-off."
+    },
+    {
+     "en": "rely on an incoming airstream to clear the air",
+     "zh": "依靠新一股氣流吹散污染",
+     "sample": "The city is relying on an incoming airstream to clear the air later this week."
+    },
+    {
+     "en": "link vehicle exhaust to ground-level ozone formation",
+     "zh": "將車輛廢氣與地面臭氧的形成聯繫起來",
+     "sample": "Scientists link vehicle exhaust directly to ground-level ozone formation on still, sunny days."
+    },
+    {
+     "en": "stretch a pollution episode across several administrative boundaries",
+     "zh": "令污染事件橫跨多個行政界線",
+     "sample": "The haze stretched the pollution episode across several administrative boundaries in the region."
+    },
+    {
+     "en": "downplay a warning as merely routine",
+     "zh": "將警示淡化為例行公事",
+     "sample": "Some residents downplay the warning as merely routine, despite repeated serious readings."
+    },
+    {
+     "en": "measure risk differently for different groups of people",
+     "zh": "為不同群組分別衡量風險程度",
+     "sample": "The index measures risk differently for different groups of people, from children to healthy adults."
+    },
+    {
+     "en": "blame stagnant air rather than any single polluter",
+     "zh": "歸咎於滯留的空氣而非單一污染源",
+     "sample": "Officials blamed stagnant air rather than any single polluter for the latest spike."
+    }
+   ],
+   "date": "2026-10-16",
+   "id": "a2d801aaa"
   }
  ],
  "trends": [
@@ -22467,6 +23051,35 @@
    ],
    "date": "2026-10-15",
    "id": "t5b88a0b8"
+  },
+  {
+   "platforms": [
+    "facebook",
+    "x"
+   ],
+   "headline": "🍺 Viral Video of Girl Carrying Beer Cans Sparks Debate on Child Welfare and Online Shaming",
+   "summary_html": "<p>A video showing a child struggling to carry two bulging bags of canned beer through a Tuen Mun housing estate has become one of the most discussed clips on Hong Kong social media this month, after it was shared on Facebook and quickly reposted across other platforms. Viewers who could not identify the child by name nonetheless debated her situation at length, and within days police had arrested her parents on suspicion of ill-treatment, with the case referred to a dedicated child abuse investigation unit.</p><p>The family's own explanation — that the exercise was meant to build the ten-year-old's muscles and improve her coordination — did little to settle the argument. If anything, it opened a second front: once commentators learned the household receives welfare support, attention shifted from the girl's wellbeing to scrutiny of her parents' spending, turning a child-protection case into a wider, more uncomfortable conversation about poverty, judgement and how much the public is entitled to know about a stranger's home life before a single video goes viral.</p>",
+   "summary_zh_html": "<p>一段片段顯示,一名女童在屯門一個公共屋邨內,艱難地拖着兩大袋脹鼓鼓的罐裝啤酒前行,片段在Facebook上載後迅速被轉發至其他平台,成為本月香港社交媒體上最熱門的討論話題之一。即使未能知悉女童的姓名,網民仍就其處境爭論不休;數日之內,警方以涉嫌對女童疏忽照顧或虐待拘捕其父母,案件已轉交專責的虐待兒童調查組跟進。</p><p>一家人的解釋——指該安排旨在幫助這名十歲女童訓練肌肉及改善協調能力——未能平息爭議,反而掀起另一輪討論:當網民得悉該家庭正領取社會福利援助後,輿論焦點便由女童的福祉,轉移至其父母的消費方式,一宗兒童保護事件,因而演變成一場更廣泛、亦更令人不安的對話,探討貧窮、社會評判,以及公眾在一段影片爆紅之前,究竟有多大「權利」去窺探陌生人的家庭生活。</p>",
+   "causes": [
+    {
+     "label": "Filming a child without consent before judging the parents",
+     "text": "Before any welfare concern was raised, a stranger's camera turned a struggling child into unwitting content, letting millions scrutinise her face and home life without consent. A Paper 2 essay could ask whether online justice depends on first violating the very child it claims to protect, and whether platforms should restrict footage identifying minors altogether."
+    },
+    {
+     "label": "CSSA scrutiny turning poverty into public spectacle",
+     "text": "Once commentators learned the family received welfare payments, debate shifted from the girl's safety to whether poor parents deserve public sympathy at all, with some accusing them of squandering aid on beer. A student could argue this reveals a harsher standard applied to low-income families than to wealthier ones caught in similar disputes."
+    },
+    {
+     "label": "Child protection reporting thresholds under the spotlight",
+     "text": "The case only reached a formal child abuse unit after a video had already spread online, raising the question of how many similar situations go unreported without viral exposure. A writer could examine whether Hong Kong's current thresholds for intervention rely too heavily on public visibility rather than routine welfare checks."
+    },
+    {
+     "label": "Counter-argument: viral outrage as a crude stand-in for child-welfare law",
+     "text": "A student could push back against treating the backlash itself as a victory, arguing that a short clip cannot capture years of context a social worker would assess, and that trial-by-comment-section risks punishing parents based on appearances rather than evidence, while leaving the underlying welfare system no better equipped for the next case."
+    }
+   ],
+   "date": "2026-10-16",
+   "id": "t67a5621c"
   }
  ]
 }

@@ -437,6 +437,16 @@ def _cover_html(article: dict, image_url: str | None, img_cls: str, wrap_fallbac
     )
 
 
+def _actions_html(uid: str) -> str:
+    """Print / share buttons shown at the bottom of each article."""
+    return f"""
+      <div class="article-actions">
+        <button class="act-btn" onclick="printArticle('{uid}', 'both')">🖨 Print English + 中文</button>
+        <button class="act-btn" onclick="printArticle('{uid}', 'en')">🖨 Print English only</button>
+        <button class="act-btn act-share" onclick="shareArticle('{uid}')">Share</button>
+      </div>"""
+
+
 def _nice_date(iso: str) -> str:
     try:
         return date.fromisoformat(iso).strftime("%-d %b %Y") if os.name != "nt" else date.fromisoformat(iso).strftime("%#d %b %Y")
@@ -619,12 +629,12 @@ def build_hero_html(article: dict, image_url: str | None, uid: str) -> str:
           {f'<span class="hero-dot">·</span><span class="hero-pub">{pub}</span>' if pub else ''}
         </div>
         <p class="hero-excerpt">{_excerpt(article.get('summary_html', ''), 60)}</p>
-        <button class="read-more-btn hero-read" onclick="openFull('{uid}')">Read in English + 中文</button>
       </div>
     </div>
     <div class="hero-body" id="body-{uid}">
       {_bilingual_html(article.get('summary_html',''), article.get('summary_zh_html',''))}
       {study}
+      {_actions_html(uid)}
     </div>
   </article>"""
 
@@ -659,12 +669,12 @@ def build_article_card_html(article: dict, image_url: str | None, uid: str, lazy
     full_body = (
         _bilingual_html(article.get('summary_html', ''), article.get('summary_zh_html', ''), 'card-summary news-body')
         + _study_notes_html(article, uid)
+        + _actions_html(uid)
     )
     if lazy:
         _FRAGMENTS[uid] = full_body
         body_html = (f'<div id="body-{uid}" data-src="a/{uid}.html">'
-                     f'<p class="card-summary card-excerpt">{_excerpt(article.get("summary_html", ""))}</p>'
-                     f'<button class="read-more-btn" onclick="openFull(\'{uid}\')">Read in English + 中文</button></div>')
+                     f'<p class="card-summary card-excerpt" onclick="openFull(\'{uid}\')">{_excerpt(article.get("summary_html", ""))}</p></div>')
     else:
         body_html = f'<div id="body-{uid}">{full_body}</div>'
     date_chip = f'<span class="card-dot">·</span><span class="card-pub">{_nice_date(article["date"])}</span>' if lazy and article.get("date") else (
@@ -697,7 +707,7 @@ def build_trend_sidebar_html(trend: dict, idx: int) -> str:
         f'<li><strong>{c.get("label","")}:</strong> {c.get("text","")}</li>'
         for c in trend.get("causes", [])
     )
-    uid = f"strend-{idx}"  # 'strend' = sidebar trend (avoid ID collision with main feed trends)
+    uid = "s" + (trend.get("id") or f"trend-{idx}")  # 's' prefix: sidebar copy, avoids ID clash with the main feed
     return f"""
   <div class="trend-item" data-cat="social pop">
     <div class="trend-item-platforms">{plat_html}</div>
@@ -713,6 +723,7 @@ def build_trend_sidebar_html(trend: dict, idx: int) -> str:
           <div class="causes-title">DSE writing angles</div>
           <ul class="causes-list">{causes_html}</ul>
         </div>
+        {_actions_html(uid)}
       </div>
     </div>
   </div>"""
@@ -724,7 +735,7 @@ def build_trend_main_html(trends: list[dict]) -> str:
         return ""
     items_html = ""
     for idx, trend in enumerate(trends):
-        uid = f"trend-{idx}"
+        uid = trend.get("id") or f"trend-{idx}"
         plat_html = "".join(
             f'<span class="platform-tag {_PLATFORM_META.get(p, ("pt-fb",""))[0]}">'
             f'{_PLATFORM_META.get(p, ("pt-fb", p.upper()))[1]}</span>'
@@ -745,6 +756,7 @@ def build_trend_main_html(trends: list[dict]) -> str:
         <div class="causes-title">DSE writing angles</div>
         <ul class="causes-list">{causes_html}</ul>
       </div>
+      {_actions_html(uid)}
     </div>
     <button class="read-more-btn" onclick="openFull('{uid}')">Read trend + 4 essay angles</button>
   </div>"""
@@ -1850,6 +1862,39 @@ CSS = """
       .hero-head { padding: 1.2rem; }
     }
 
+    /* Print + share bar at the bottom of each article */
+    .article-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.4rem;
+                       padding-top: 1.1rem; border-top: 1px solid var(--border); }
+    .act-btn { font-family: var(--f-ui); font-weight: 600; font-size: 0.88rem; cursor: pointer;
+               background: var(--surface); color: var(--ink); border: 1px solid var(--border);
+               border-radius: 999px; padding: 0.5rem 1rem; }
+    .act-btn:hover { border-color: var(--ink); }
+    .act-share { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+    .act-share:hover { opacity: 0.88; }
+    .card-excerpt { cursor: pointer; }
+
+    /* Share menu */
+    .share-sheet { position: fixed; inset: 0; z-index: 10001; background: rgba(10, 12, 18, 0.55);
+                   display: flex; align-items: flex-end; justify-content: center; padding: 1rem; }
+    .share-sheet[hidden] { display: none !important; }
+    .share-box { background: var(--surface); color: var(--ink); width: 100%; max-width: 460px;
+                 border-radius: 16px; padding: 1.3rem 1.3rem 1rem; box-shadow: var(--shadow-md);
+                 margin-bottom: max(1rem, env(safe-area-inset-bottom)); }
+    @media (min-width: 700px) { .share-sheet { align-items: center; } }
+    .share-label { font-family: var(--f-ui); font-size: 0.8rem; color: var(--muted); font-weight: 600; }
+    .share-head { font-family: var(--f-ui); font-weight: 700; font-size: 1.02rem; line-height: 1.3;
+                  margin: 0.25rem 0 1rem; text-wrap: balance; }
+    .share-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.5rem; }
+    .share-opt { font-family: var(--f-ui); font-weight: 600; font-size: 0.9rem; text-align: center;
+                 text-decoration: none; color: var(--ink); background: var(--faint); border: 1px solid var(--border);
+                 border-radius: 10px; padding: 0.7rem 0.5rem; cursor: pointer; }
+    .share-opt:hover { border-color: var(--ink); }
+    .share-native { grid-column: 1 / -1; background: var(--ink); color: var(--surface); border-color: var(--ink); }
+    .share-status { min-height: 1.3em; font-size: 0.85rem; color: var(--accent); margin-top: 0.7rem; }
+    .share-close { width: 100%; margin-top: 0.4rem; font-family: var(--f-ui); font-weight: 600; cursor: pointer;
+                   background: none; border: 1px solid var(--border); border-radius: 999px; padding: 0.55rem;
+                   color: var(--ink); }
+
     /* Mobile */
     @media (max-width: 1080px) {
       .site-body { grid-template-columns: 1fr; }
@@ -2000,17 +2045,213 @@ JS = """
     if (overlay.classList.contains('open')) renderSavedPanel();
   }
 
-  function printSavedVocab() {
-    renderSavedPanel();
-    document.body.classList.add('print-saved-mode');
-    // make overlay temporarily visible for print
-    var overlay = document.getElementById('saved-panel-overlay');
-    if (overlay) overlay.classList.add('open');
-    window.print();
-    setTimeout(function(){
-      document.body.classList.remove('print-saved-mode');
-    }, 500);
+  // ── PRINT / SAVE AS PDF ───────────────────────────────────────────────────
+  // Builds a clean, separate print page (works in Chrome, Safari, Edge, phones),
+  // instead of printing the whole website.
+  var PRINT_CSS = [
+    '@page { size: A4; margin: 16mm 14mm; }',
+    'body { font-family: "Source Serif 4", Georgia, "Noto Serif HK", serif; color: #111; margin: 0; font-size: 11.5pt; line-height: 1.6; }',
+    'h1 { font-family: Archivo, Arial, sans-serif; font-size: 20pt; line-height: 1.15; margin: 0 0 4pt; }',
+    '.brand { font-family: Archivo, Arial, sans-serif; font-size: 9pt; color: #555; border-bottom: 2px solid #111; padding-bottom: 4pt; margin-bottom: 10pt; display: flex; justify-content: space-between; }',
+    '.meta { font-family: Archivo, Arial, sans-serif; font-size: 9.5pt; color: #555; margin: 0 0 12pt; }',
+    'table.bi { width: 100%; border-collapse: collapse; table-layout: fixed; }',
+    'table.bi td { vertical-align: top; padding: 0 8pt; }',
+    'table.bi td.en { border-right: 1px solid #bbb; padding-left: 0; }',
+    'table.bi td.zh { font-family: "Noto Serif HK", "Noto Sans HK", serif; font-size: 11pt; line-height: 1.85; padding-right: 0; }',
+    '.colhead { font-family: Archivo, Arial, sans-serif; font-size: 8.5pt; color: #666; margin-bottom: 4pt; }',
+    'p { margin: 0 0 8pt; orphans: 3; widows: 3; }',
+    '.bw, .bwz { font-weight: 700; background: #fff3a8; -webkit-print-color-adjust: exact; print-color-adjust: exact; }',
+    '.tip { display: none; }',
+    'h2 { font-family: Archivo, Arial, sans-serif; font-size: 13pt; margin: 16pt 0 6pt; border-top: 1px solid #999; padding-top: 8pt; }',
+    '.vocab-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6pt 14pt; }',
+    '.vocab-item { break-inside: avoid; border: 1px solid #ccc; padding: 5pt 7pt; }',
+    '.vocab-phrase { font-weight: 700; }',
+    '.vocab-num { display: none; }',
+    '.vocab-zh { font-family: "Noto Serif HK", serif; color: #333; }',
+    '.vocab-sample { font-style: italic; color: #333; font-size: 10pt; }',
+    'table.phrase-table, table.vlist { width: 100%; border-collapse: collapse; font-size: 10pt; }',
+    'table.phrase-table th, table.phrase-table td, table.vlist th, table.vlist td { border: 1px solid #bbb; padding: 4pt 6pt; text-align: left; vertical-align: top; }',
+    'table.phrase-table tr, table.vlist tr { break-inside: avoid; }',
+    '.vocab-section-label, .causes-title { font-family: Archivo, Arial, sans-serif; font-weight: 700; margin: 10pt 0 4pt; }',
+    '.causes-list li { margin-bottom: 5pt; }',
+    '.footer { margin-top: 18pt; font-family: Archivo, Arial, sans-serif; font-size: 8.5pt; color: #777; border-top: 1px solid #ccc; padding-top: 4pt; }',
+    '.hint { font-family: Arial, sans-serif; background: #fffbe6; border: 1px solid #e5d27a; padding: 8pt 10pt; margin-bottom: 12pt; font-size: 10pt; }',
+    '@media print { .hint { display: none; } }'
+  ].join(' ');
+  var PRINT_FONTS = 'https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=Source+Serif+4:wght@400;700&family=Noto+Serif+HK:wght@400;700&display=swap';
+
+  function _esc(t) {
+    return String(t || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
+
+  // Open the print tab straight away (inside the click) so pop-up blockers allow it
+  function _openPrintWindow() {
+    var w = window.open('', '_blank');
+    if (!w) {
+      alert('Your browser blocked the print page. Allow pop-ups for this site, then press Print again.');
+      return null;
+    }
+    w.document.write('<p style="font-family:Arial,sans-serif;padding:2rem">Preparing your printout…</p>');
+    return w;
+  }
+
+  function _fillPrintWindow(w, title, inner) {
+    var today = new Date().toLocaleDateString('en-HK', { year: 'numeric', month: 'long', day: 'numeric' });
+    w.document.open();
+    w.document.write('<!doctype html><html lang="en"><head><meta charset="utf-8">' +
+      '<meta name="viewport" content="width=device-width, initial-scale=1">' +
+      '<title>' + _esc(title) + '</title><link rel="stylesheet" href="' + PRINT_FONTS + '">' +
+      '<style>' + PRINT_CSS + '</style></head><body>' +
+      '<div class="hint">To save a PDF, choose <b>Save as PDF</b> (or Microsoft Print to PDF) as the printer.</div>' +
+      '<div class="brand"><span>HKDSE Daily 每日英語</span><span>' + _esc(today) + '</span></div>' +
+      inner +
+      '<div class="footer">buddygogo.github.io/hkdse-daily · For educational use</div>' +
+      '</body></html>');
+    w.document.close();
+    var go = function() { try { w.focus(); w.print(); } catch (e) {} };
+    if (w.document.fonts && w.document.fonts.ready) {
+      w.document.fonts.ready.then(function() { setTimeout(go, 250); });
+    } else {
+      setTimeout(go, 900);
+    }
+  }
+
+  // Library articles keep their full text in a/<id>.html until needed
+  function _ensureLoaded(uid) {
+    var src = document.getElementById('body-' + uid);
+    if (!src) return Promise.reject(new Error('missing'));
+    if (!src.dataset.src || src.dataset.loaded) return Promise.resolve(src);
+    return fetch(src.dataset.src).then(function(r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.text();
+    }).then(function(html) {
+      src.innerHTML = html;
+      src.dataset.loaded = '1';
+      if (window._applyUserState) window._applyUserState(src);
+      return src;
+    });
+  }
+
+  function printArticle(uid, mode) {
+    var w = _openPrintWindow();
+    if (!w) return;
+    _ensureLoaded(uid).then(function(src) {
+      var head = (document.getElementById('hl-' + uid) || {}).textContent || 'HKDSE Daily';
+      var metaEl = document.getElementById('meta-' + uid);
+      var meta = metaEl ? metaEl.innerText.trim() : '';
+
+      var enEl = src.querySelector('.bi-en') || src.querySelector('.news-body, .trend-body, .card-summary');
+      var zhEl = src.querySelector('.bi-zh');
+      var en = enEl ? enEl.cloneNode(true) : document.createElement('div');
+      en.querySelectorAll('.bi-label, .tip').forEach(function(x) { x.remove(); });
+      var zh = zhEl ? zhEl.cloneNode(true) : null;
+      if (zh) zh.querySelectorAll('.bi-label').forEach(function(x) { x.remove(); });
+
+      var body;
+      if (mode === 'both' && zh) {
+        body = '<table class="bi"><tr><td class="en"><div class="colhead">English</div>' + en.innerHTML +
+               '</td><td class="zh"><div class="colhead">中文翻譯</div>' + zh.innerHTML + '</td></tr></table>';
+      } else {
+        body = '<div class="en">' + en.innerHTML + '</div>';
+      }
+
+      // study notes: vocabulary, phrases, writing angles (no buttons or personal notes)
+      var notes = '';
+      var dr = src.querySelector('.study-drawer');
+      if (dr) {
+        var c = dr.cloneNode(true);
+        c.querySelectorAll('.bi-grid, .article-note-section, .article-actions, .causes-block, button, .tip').forEach(function(x) { x.remove(); });
+        if (c.textContent.trim()) notes += c.innerHTML;
+      }
+      var cb = src.querySelector('.causes-block');
+      if (cb) notes += cb.outerHTML;
+      if (notes) notes = '<h2>Study notes</h2>' + notes;
+
+      _fillPrintWindow(w, head, '<h1>' + _esc(head) + '</h1><p class="meta">' + _esc(meta) + '</p>' + body + notes);
+    }).catch(function() {
+      w.close();
+      alert('Could not load this article. Check your connection and try again.');
+    });
+  }
+
+  function printSavedVocab() {
+    var list = _loadSaved();
+    if (!list.length) { alert('Your saved list is empty. Tap 💾 next to any word or phrase to save it.'); return; }
+    var w = _openPrintWindow();
+    if (!w) return;
+    var rows = list.map(function(it, i) {
+      return '<tr><td>' + (i + 1) + '</td><td><b>' + _esc(it.phrase) + '</b></td><td class="zh">' + _esc(it.zh) +
+             '</td><td><i>' + _esc(it.sample) + '</i></td></tr>';
+    }).join('');
+    _fillPrintWindow(w, 'My saved vocabulary',
+      '<h1>My saved vocabulary</h1><p class="meta">' + list.length + ' words and phrases</p>' +
+      '<table class="vlist"><tr><th>#</th><th>Word / phrase</th><th>中文</th><th>Example sentence</th></tr>' + rows + '</table>');
+  }
+
+  // ── SHARE ─────────────────────────────────────────────────────────────────
+  function _articleUrl(uid) {
+    return location.origin + location.pathname + '#' + encodeURIComponent(uid);
+  }
+
+  function shareArticle(uid) {
+    var head = ((document.getElementById('hl-' + uid) || {}).textContent || 'HKDSE Daily').trim();
+    var url = _articleUrl(uid);
+    var text = head + ' | HKDSE Daily 每日英語';
+    var u = encodeURIComponent(url), t = encodeURIComponent(text);
+    var links = [
+      ['WhatsApp', 'https://wa.me/?text=' + t + '%20' + u],
+      ['Facebook', 'https://www.facebook.com/sharer/sharer.php?u=' + u],
+      ['Threads', 'https://www.threads.net/intent/post?text=' + t + '%20' + u],
+      ['X', 'https://twitter.com/intent/tweet?text=' + t + '&url=' + u],
+      ['Telegram', 'https://t.me/share/url?url=' + u + '&text=' + t],
+      ['LINE', 'https://social-plugins.line.me/lineit/share?url=' + u],
+      ['Email', 'mailto:?subject=' + t + '&body=' + t + '%0A%0A' + u]
+    ];
+    var grid = document.getElementById('share-grid');
+    var sheet = document.getElementById('share-sheet');
+    var status = document.getElementById('share-status');
+    if (!grid || !sheet) return;
+    grid.innerHTML = '';
+    if (navigator.share) {
+      var more = document.createElement('button');
+      more.className = 'share-opt share-native';
+      more.textContent = 'Share via phone…';
+      more.onclick = function() { navigator.share({ title: head, text: text, url: url }).catch(function(){}); };
+      grid.appendChild(more);
+    }
+    links.forEach(function(l) {
+      var a = document.createElement('a');
+      a.className = 'share-opt';
+      a.href = l[1];
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = l[0];
+      grid.appendChild(a);
+    });
+    var copy = document.createElement('button');
+    copy.className = 'share-opt';
+    copy.textContent = 'Copy link';
+    copy.onclick = function() {
+      var done = function() { status.textContent = 'Link copied. Paste it into Instagram, WeChat or any chat.'; };
+      if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function() { window.prompt('Copy this link:', url); });
+      else window.prompt('Copy this link:', url);
+    };
+    grid.appendChild(copy);
+    status.textContent = '';
+    document.getElementById('share-head').textContent = head;
+    sheet.hidden = false;
+  }
+
+  function closeShare() {
+    var sheet = document.getElementById('share-sheet');
+    if (sheet) sheet.hidden = true;
+  }
+
+  // Shared links (…/#<article id>) open that article directly
+  window.addEventListener('load', function() {
+    var id = decodeURIComponent(location.hash.replace(/^#/, ''));
+    if (id && document.getElementById('body-' + id)) openFull(id);
+  });
 
   // On load: mark already-saved buttons and sync badge
   (function() {
@@ -2323,7 +2564,6 @@ HTML_TEMPLATE = """\
       <button class="btn-open-saved" onclick="toggleSavedPanel()" title="My saved vocab list">
         💾 My Vocab <span class="saved-count-badge" id="saved-count-badge"></span>
       </button>
-      <button class="btn-print-page" onclick="window.print()" title="Print today's brief">🖨️ Print</button>
     </div>
   </div>
 </header>
@@ -2347,6 +2587,17 @@ HTML_TEMPLATE = """\
     <div class="saved-panel-body" id="saved-panel-body">
       <div class="saved-empty">💡 Tap 💾 on any vocab or phrase to save it here for revision.<br><br>Your saved list is stored in this browser — no account needed.</div>
     </div>
+  </div>
+</div>
+
+<!-- SHARE MENU -->
+<div class="share-sheet" id="share-sheet" hidden onclick="if(event.target===this)closeShare()">
+  <div class="share-box" role="dialog" aria-labelledby="share-head">
+    <div class="share-label">Share this article</div>
+    <div class="share-head" id="share-head"></div>
+    <div class="share-grid" id="share-grid"></div>
+    <div class="share-status" id="share-status" aria-live="polite"></div>
+    <button class="share-close" onclick="closeShare()">Close</button>
   </div>
 </div>
 

@@ -2,578 +2,638 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/arts-and-culture/article/345631/A-weekend-of-craft-and-culture-Hong-Kong-heritage-comes-alive-this-November",
-      "published_date": "15 October 2026",
-      "headline": "Hong Kong's Intangible Cultural Heritage Mart Returns for Three Days of Craft and Performance in November",
-      "category": "arts",
-      "summary_html": "<p>Hong Kong's Earthpulse Society has confirmed that a dedicated mart devoted to the city's <span class=\"bw\">intangible cultural heritage<span class=\"tip\"><span class=\"tip-en\">cultural practices, skills and knowledge — such as crafts, performance and festivals — that are passed down between generations rather than kept as physical objects</span><span class=\"tip-zh\">非物質文化遺產</span></span></span> will return to the Hong Kong Cultural Centre's open piazzas from November 6 to 8, giving residents a free, three-day opportunity to encounter traditions that rarely reach a mainstream stage. Staged under the banner “Crafts in Connection, Tradition in Continuation,” the event forms part of the wider Hong Kong Culture Festival and Muse Fest 2026, and is intended to bring <span class=\"bw\">grassroots cultural groups<span class=\"tip\"><span class=\"tip-en\">small, community-based organisations that promote local traditions, usually without major institutional funding</span><span class=\"tip-zh\">草根文化團體</span></span></span> into direct contact with the public rather than leaving their work confined to specialist circles.</p><p>Among the headline attractions is a <span class=\"bw\">curated programme<span class=\"tip\"><span class=\"tip-en\">a selection of performances or exhibits carefully chosen and arranged by an organiser around a theme</span><span class=\"tip-zh\">精心策劃的節目</span></span></span> combining the Hung Shing Choi Lee Fat Fist fighting style with lion dance and lion drumming, arranged by the Chiu Man On Martial Art Association to show how a single <span class=\"bw\">martial arts lineage<span class=\"tip\"><span class=\"tip-en\">an unbroken line of teachers and students through which a particular style of martial arts has been passed down over generations</span><span class=\"tip-zh\">武術傳承</span></span></span> can support several performing traditions at once; commentary accompanying the routines will explain the footwork and drumming patterns to spectators unfamiliar with the art form. The Hong Kong Chaoren Culture & Arts Promotion Association will contribute a set of Chiu Chow music, while a five-piece ensemble performs traditional Guangdong instrumental pieces alongside a lion dance adapted for young children.</p><p>Organisers say the free admission policy is meant to widen <span class=\"bw\">public appreciation<span class=\"tip\"><span class=\"tip-en\">a broader recognition and valuing of something among ordinary people, not just specialists</span><span class=\"tip-zh\">大眾的欣賞與重視</span></span></span> of practices that depend on <span class=\"bw\">intergenerational transmission<span class=\"tip\"><span class=\"tip-en\">the passing of skills, knowledge or customs from older generations to younger ones</span><span class=\"tip-zh\">跨代傳承</span></span></span> for their survival, at a time when many of Hong Kong's folk crafts struggle to recruit apprentices. By scheduling veteran practitioners alongside children's performances on the same programme, the mart hopes to show that <span class=\"bw\">cultural continuity<span class=\"tip\"><span class=\"tip-en\">the unbroken persistence of a cultural practice across successive generations</span><span class=\"tip-zh\">文化延續性</span></span></span> need not mean standing still, but can instead be sustained by making tradition accessible to a new generation of Hongkongers.</p>",
-      "summary_zh_html": "<p>香港「地球脈信會」(Earthpulse Society) 證實,一個專門展示本港<span class=\"bwz\">非物質文化遺產</span>的墟市,將於十一月六日至八日一連三日,在香港文化中心露天廣場免費舉行,讓市民有機會接觸鮮少登上主流舞台的傳統文化。活動以「工藝相連,傳統延續」為主題,屬香港文化節及「藝萃2026」的一部分,旨在讓<span class=\"bwz\">草根文化團體</span>直接與公眾接觸,而非只局限於小圈子之中。</p><p>是次活動的焦點節目之一,是由「趙萬年國術會」編排的一個<span class=\"bwz\">精心策劃的節目</span>,將洪勝蔡李佛拳與醒獅、獅鼓表演結合,展現單一<span class=\"bwz\">武術傳承</span>如何同時承載多種表演藝術;表演期間亦設有旁述,向不熟悉此武術的觀眾講解步法與鼓點編排。「香港潮人文化藝術推廣會」將帶來一場潮州音樂表演,另有一個五人傳統廣東音樂組合,配合專為小朋友而設的醒獅表演。</p><p>主辦方表示,免費入場的安排旨在擴大<span class=\"bwz\">大眾的欣賞與重視</span>,讓更多市民重視依靠<span class=\"bwz\">跨代傳承</span>方能延續的技藝,因為現時不少本地民間工藝都面臨招募學徒困難的問題。透過將資深師傅與兒童表演安排在同一節目之中,墟市希望證明<span class=\"bwz\">文化延續性</span>不代表原地不動,而是可以透過令傳統貼近新一代香港人而得以延續。</p>",
-      "image_scene": "Performers in a colourful lion dance costume mid-leap on an open-air piazza outside a modern cultural centre building, a small drum troupe beside them, with Victoria Harbour and a clock tower visible behind; families and children sit on portable chairs watching, late-afternoon sunlight, no text, signs or logos.",
-      "cover_text": {
-        "zh_kicker": "文化墟市",
-        "zh_title": [
-          "非遺墟市",
-          "免費三日"
-        ],
-        "zh_hl": "免費",
-        "zh_sub": "文化中心任賞傳統技藝",
-        "en": "Free three-day heritage mart returns to Cultural Centre"
-      },
-      "vocab": [
-        {
-          "phrase": "lion dance",
-          "zh": "醒獅",
-          "sample": "The lion dance is often performed at festivals to bring good fortune."
-        },
-        {
-          "phrase": "lion drumming",
-          "zh": "獅鼓",
-          "sample": "Lion drumming sets the rhythm that guides every leap in the performance."
-        },
-        {
-          "phrase": "martial arts association",
-          "zh": "國術會",
-          "sample": "The martial arts association has trained students in the style for three generations."
-        },
-        {
-          "phrase": "folk craft",
-          "zh": "民間工藝",
-          "sample": "Many folk crafts in Hong Kong are kept alive by just a handful of elderly masters."
-        },
-        {
-          "phrase": "apprentice",
-          "zh": "學徒",
-          "sample": "The master is still searching for an apprentice willing to learn the full routine."
-        },
-        {
-          "phrase": "heritage custodian",
-          "zh": "傳承人",
-          "sample": "Without a heritage custodian willing to teach, the routine could vanish within a decade."
-        },
-        {
-          "phrase": "traditional ensemble",
-          "zh": "傳統樂團",
-          "sample": "The traditional ensemble performed on instruments rarely seen outside heritage festivals."
-        },
-        {
-          "phrase": "community outreach",
-          "zh": "社區推廣",
-          "sample": "The mart's community outreach brought the performance to families who rarely visit a theatre."
-        },
-        {
-          "phrase": "cultural festival",
-          "zh": "文化節",
-          "sample": "The cultural festival runs for several weeks across multiple venues in the city."
-        },
-        {
-          "phrase": "veteran practitioner",
-          "zh": "資深師傅",
-          "sample": "A veteran practitioner demonstrated techniques that take decades to master."
-        },
-        {
-          "phrase": "open-air piazza",
-          "zh": "露天廣場",
-          "sample": "Performers gathered on the open-air piazza as crowds began to form."
-        },
-        {
-          "phrase": "live demonstration",
-          "zh": "現場示範",
-          "sample": "The live demonstration let visitors watch the technique step by step."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "keep a craft from dying out with its last master",
-          "zh": "讓技藝不致隨末代師傅失傳",
-          "sample": "Scholarships for apprentices are designed to keep a craft from dying out with its last master."
-        },
-        {
-          "en": "recruit apprentices willing to commit years to a single skill",
-          "zh": "招募願意花多年鑽研單一技藝的學徒",
-          "sample": "Few organisations manage to recruit apprentices willing to commit years to a single skill."
-        },
-        {
-          "en": "stage tradition alongside performances aimed at children",
-          "zh": "將傳統與針對兒童的表演並置呈現",
-          "sample": "Organisers chose to stage tradition alongside performances aimed at children to widen its appeal."
-        },
-        {
-          "en": "treat a folk practice as a living art rather than a museum piece",
-          "zh": "將民間技藝視為活的藝術而非博物館展品",
-          "sample": "The programme treats a folk practice as a living art rather than a museum piece."
-        },
-        {
-          "en": "lower the barrier between specialist circles and the general public",
-          "zh": "拉近專業圈子與普羅大眾之間的距離",
-          "sample": "Free admission is one way to lower the barrier between specialist circles and the general public."
-        },
-        {
-          "en": "rely on volunteer associations rather than government funding",
-          "zh": "依靠義務團體而非政府資助支撐",
-          "sample": "Many heritage events still rely on volunteer associations rather than government funding."
-        },
-        {
-          "en": "pass a lineage down through direct instruction",
-          "zh": "透過親身教授將傳承延續下去",
-          "sample": "Martial arts schools pass a lineage down through direct instruction rather than written manuals."
-        },
-        {
-          "en": "risk fading from public memory within a generation",
-          "zh": "面臨在一代人之內被公眾淡忘的風險",
-          "sample": "Without new audiences, niche crafts risk fading from public memory within a generation."
-        },
-        {
-          "en": "give a niche tradition a mainstream stage",
-          "zh": "讓小眾傳統登上主流舞台",
-          "sample": "The mart aims to give a niche tradition a mainstream stage it would not otherwise reach."
-        },
-        {
-          "en": "accompany a performance with explanatory commentary",
-          "zh": "為表演配上解說旁述",
-          "sample": "Organisers accompanied the performance with explanatory commentary so newcomers could follow the techniques."
-        },
-        {
-          "en": "weave heritage programming into a wider arts festival",
-          "zh": "將文化遺產節目編排進更廣泛的藝術節之中",
-          "sample": "The mart weaves heritage programming into a wider arts festival rather than standing alone."
-        },
-        {
-          "en": "test whether free entry alone can sustain public interest",
-          "zh": "測試單靠免費入場能否維持公眾的興趣",
-          "sample": "Critics question whether free entry alone can sustain public interest in the long run."
-        }
-      ]
-    },
-    {
       "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371050/hong-kong-carry-out-24-hour-patrols-near-apec-meeting-venue-and-delegate-hotels",
-      "published_date": "16 October 2026",
-      "headline": "Hong Kong Police to Mount Round-the-Clock Patrols Ahead of First APEC Finance Ministers' Meeting",
-      "category": "global",
-      "summary_html": "<p>Hong Kong police have begun mounting <span class=\"bw\">round-the-clock patrols<span class=\"tip\"><span class=\"tip-en\">continuous patrols kept up 24 hours a day without a break</span><span class=\"tip-zh\">24小時不間斷巡邏</span></span></span> around the Wan Chai harbourfront ahead of the city's first Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting, due to run from October 19 to 21 at the Hong Kong Convention and Exhibition Centre. Sources familiar with the operation say hundreds of officers from the force's tactical unit will watch over both the venue itself and a cluster of nearby hotels, including the Grand Hyatt and the Renaissance Harbour View, where visiting <span class=\"bw\">delegations<span class=\"tip\"><span class=\"tip-en\">official groups of representatives sent by a government or organisation to attend a meeting or event</span><span class=\"tip-zh\">代表團</span></span></span> are expected to stay.</p><p>Security Secretary Chris Tang has said the arrangements must cover hotel security, venue security and transport for a <span class=\"bw\">high-level gathering<span class=\"tip\"><span class=\"tip-en\">a meeting attended by senior officials or leaders rather than lower-ranking staff</span><span class=\"tip-zh\">高層會議</span></span></span> of finance ministers and senior officials from the bloc's 21 member economies, with roughly 500 guests expected in total. He added that the force has drawn up <span class=\"bw\">contingency plans<span class=\"tip\"><span class=\"tip-en\">plans prepared in advance to deal with an emergency or an unexpected situation</span><span class=\"tip-zh\">應變計劃</span></span></span> for possible terrorist or cyberattack threats, and that specialist teams will run cyber patrols alongside the physical presence on the ground, reflecting how summit security now spans both streets and servers.</p><p>Officials have stressed that the <span class=\"bw\">heightened security<span class=\"tip\"><span class=\"tip-en\">security measures that have been increased beyond their usual, everyday level</span><span class=\"tip-zh\">加強保安</span></span></span> is not intended to cut Wan Chai off from ordinary life, insisting that <span class=\"bw\">diplomatic protocol<span class=\"tip\"><span class=\"tip-en\">the formal rules and customs that govern how officials and dignitaries are received and treated</span><span class=\"tip-zh\">外交禮節</span></span></span> can be observed without unduly inconveniencing residents or commuters passing through the district. For a city keen to present itself as a reliable <span class=\"bw\">host city<span class=\"tip\"><span class=\"tip-en\">the place chosen to stage and organise an international event or meeting</span><span class=\"tip-zh\">主辦城市</span></span></span> for international finance, how smoothly the meeting runs may matter almost as much as what is decided inside the venue.</p>",
-      "summary_zh_html": "<p>香港警方已開始在灣仔海濱一帶部署<span class=\"bwz\">24小時不間斷巡邏</span>,為本港首次主辦的亞太經合組織(APEC)財長會議做好準備,會議預計於十月十九日至二十一日假香港會議展覽中心舉行。據了解行動安排的消息人士透露,警隊將派出數百名機動部隊人員,同時駐守會場本身及鄰近多間酒店,包括君悅酒店及港麗酒店,預料到訪的<span class=\"bwz\">代表團</span>將入住該處。</p><p>保安局局長鄧炳強表示,有關安排須涵蓋酒店保安、會場保安及交通安排,以應付這場雲集來自二十一個成員體財長及高級官員的<span class=\"bwz\">高層會議</span>,預計總共約有五百名賓客出席。他補充指,警方已制定<span class=\"bwz\">應變計劃</span>,以應付可能出現的恐怖襲擊或網絡攻擊威脅,而專責小組亦會同步進行網絡巡查,反映現今的峰會保安工作已由街頭延伸至網絡系統。</p><p>官員強調,<span class=\"bwz\">加強保安</span>並非要將灣仔與日常生活隔絕,並堅稱在不過度影響居民或途經該區通勤人士的情況下,仍可妥善遵守<span class=\"bwz\">外交禮節</span>。對於一直希望展現自己是可靠的國際金融<span class=\"bwz\">主辦城市</span>的香港而言,會議能否順利進行,其重要性或許不亞於會上所作出的決定。</p>",
-      "image_scene": "Uniformed police officers in tactical gear patrolling in pairs along a harbourfront promenade at dusk, a large convention centre with a glass facade in the background, black SUVs parked near a hotel entrance, Victoria Harbour visible behind; no text, signs or logos shown.",
+      "source_url": "https://www.scmp.com/sport/other-sport/article/3371669/asian-para-games-hong-kong-boccia-player-secures-first-gold-athletes-boost-medal-haul",
+      "published_date": "21 October 2026",
+      "headline": "Hong Kong Claims First Gold of Asian Para Games as Boccia Star Vivian Lau Triumphs in Nagoya",
+      "category": "sports",
+      "summary_html": "<p>Hong Kong secured the first gold medal of its campaign at the 2026 Asian Para Games in Nagoya on Wednesday, after boccia player Vivian Lau Wai-yan defeated her own <span class=\"bw\">compatriot<span class=\"tip\"><span class=\"tip-en\">a fellow citizen from the same country or territory, here used of a teammate from the same delegation</span><span class=\"tip-zh\">同胞（此處指同一代表隊的隊友）</span></span></span> Cheung Yuen in an all-Hong Kong final. <span class=\"bw\">Boccia<span class=\"tip\"><span class=\"tip-en\">a Paralympic precision ball sport in which players release soft balls toward a target, designed for athletes with severe impairments affecting motor control</span><span class=\"tip-zh\">硬地滾球（殘奧會的一項講求準繩度的球類運動）</span></span></span> is a precision sport designed for athletes with severe impairments affecting motor control, in which competitors roll or release soft leather balls toward a target ball from a fixed position on court. The sport operates under a <span class=\"bw\">classification system<span class=\"tip\"><span class=\"tip-en\">a framework that groups para-athletes into categories based on the type and severity of their impairment, so that competitors face others with comparable abilities</span><span class=\"tip-zh\">殘疾分級制度</span></span></span> that groups players by the degree of physical impairment, ensuring that athletes with comparable support needs compete against one another rather than against the field as a whole.</p><p>The gold formed part of a strong day for the Hong Kong delegation, which added four silver and four bronze medals across several disciplines, lifting the city's overall <span class=\"bw\">medal tally<span class=\"tip\"><span class=\"tip-en\">the running total of medals won by a team or country during a multi-sport event</span><span class=\"tip-zh\">獎牌總數</span></span></span> at the Games to 21 — one gold, eight silver and twelve bronze — and placing Hong Kong 17th in the <span class=\"bw\">medal standings<span class=\"tip\"><span class=\"tip-en\">the ranking of countries or teams according to the number and type of medals they have won</span><span class=\"tip-zh\">獎牌榜排名</span></span></span>. The Games, running from 18 to 24 October across venues in Aichi and Nagoya, mark the fifth edition of the regional competition, held three years after Hong Kong's <span class=\"bw\">elite training squad<span class=\"tip\"><span class=\"tip-en\">a specially selected group of top-performing athletes who train together at the highest competitive level</span><span class=\"tip-zh\">精英訓練隊</span></span></span> returned from the 2023 Hangzhou Games with a then-record 47 medals.</p><p>Local sports officials have pointed to Wednesday's results as evidence that sustained <span class=\"bw\">parasports funding<span class=\"tip\"><span class=\"tip-en\">financial support, usually from government or sports bodies, dedicated to training and competition for athletes with disabilities</span><span class=\"tip-zh\">殘疾人士體育資助</span></span></span> and improved training facilities are beginning to pay off, with Hong Kong's para-athletes increasingly rivalling their able-bodied counterparts for public attention. Advocates for disability sport argue that each <span class=\"bw\">podium appearance<span class=\"tip\"><span class=\"tip-en\">an occasion on which an athlete finishes among the top three and is honoured on the winners' platform</span><span class=\"tip-zh\">登上頒獎台</span></span></span> helps normalise the presence of athletes with impairments in mainstream sporting narratives, rather than confining their achievements to a separate, lower-profile category. With three days of competition remaining, officials have not ruled out further medals from a squad many regard as deeper and more competitive than in previous editions.</p>",
+      "summary_zh_html": "<p>香港代表團周三在名古屋舉行的2026年亞洲殘疾人運動會中,贏得今屆賽事首金——硬地滾球選手劉慧茵在全港內部對決的決賽中,擊敗同為代表隊的<span class=\"bwz\">同胞</span>隊友Cheung Yuen。<span class=\"bwz\">硬地滾球</span>是專為肢體活動能力嚴重受限的運動員而設的講求準繩度的運動項目,參賽者須從場上固定位置,將軟身皮球擲向或滾向目標球。該項運動設有<span class=\"bwz\">殘疾分級制度</span>,按運動員肢體損傷的嚴重程度分組,確保支援需要相若的選手彼此對壘,而非與所有選手一概比較。</p><p>這面金牌是香港代表團表現出色的一天的縮影——當日港隊在多個項目中再添四銀四銅,令代表團在今屆運動會的<span class=\"bwz\">獎牌總數</span>增至21面(一金、八銀、十二銅),在<span class=\"bwz\">獎牌榜排名</span>中位列第十七。本屆賽事為期自10月18日至24日,在愛知及名古屋多個場館舉行,是這項地區性賽事的第五屆,距離港隊<span class=\"bwz\">精英訓練隊</span>在2023年杭州亞殘運創下當時破紀錄的47面獎牌,僅三年之隔。</p><p>本地體育官員指,周三的成績證明持續的<span class=\"bwz\">殘疾人士體育資助</span>及訓練設施的改善,正逐漸見到成效,香港殘疾運動員在公眾關注度上,正日益追上健全運動員。殘疾體育的支持者認為,每一次<span class=\"bwz\">登上頒獎台</span>的機會,都有助令傷殘運動員的身影,更自然地融入主流體育敘事之中,而非被局限於另一個較少受關注的類別。隨着賽事尚餘三日,官員未排除港隊這支普遍被視為陣容更深厚、競爭力更強的隊伍,能再添獎牌。</p>",
+      "image_scene": "A quiet indoor boccia court in Nagoya, Japan, with a female athlete in a sports wheelchair carefully releasing a soft leather ball down a ramp toward a cluster of coloured balls on a marked court; teammates and officials watch from the sidelines, a small Hong Kong flag resting on her chair, bright overhead gymnasium lighting, no text or logos visible.",
       "cover_text": {
-        "zh_kicker": "APEC保安",
+        "zh_kicker": "名古屋賽場",
         "zh_title": [
-          "灣仔佈防",
-          "24小時巡邏"
+          "劉慧茵奪金",
+          "港隊添四銀四銅"
         ],
-        "zh_hl": "24小時",
-        "zh_sub": "APEC財長會議十九日開幕",
-        "en": "Police to run 24-hour patrols for Hong Kong's APEC meeting"
+        "zh_hl": "奪金",
+        "zh_sub": "殘亞運港隊累積21獎牌",
+        "en": "Boccia star Vivian Lau wins Hong Kong's first gold"
       },
       "vocab": [
         {
-          "phrase": "tactical unit",
-          "zh": "機動部隊",
-          "sample": "Members of the tactical unit were stationed outside the convention centre."
+          "phrase": "boccia",
+          "zh": "硬地滾球",
+          "sample": "Boccia requires intense concentration as players roll leather balls as close as possible to a target ball."
         },
         {
-          "phrase": "convention centre",
-          "zh": "會議展覽中心",
-          "sample": "The convention centre has hosted international meetings for decades."
+          "phrase": "compatriot",
+          "zh": "同胞",
+          "sample": "Lau's closest rival in the final turned out to be her own compatriot."
         },
         {
-          "phrase": "finance minister",
-          "zh": "財政部長",
-          "sample": "Each member economy sent its finance minister to the meeting."
+          "phrase": "medal tally",
+          "zh": "獎牌總數",
+          "sample": "Hong Kong's medal tally climbed to 21 after Wednesday's results."
         },
         {
-          "phrase": "accredited delegate",
-          "zh": "認可代表",
-          "sample": "Only accredited delegates were allowed past the first checkpoint."
+          "phrase": "classification system",
+          "zh": "殘疾分級制度",
+          "sample": "Boccia's classification system groups athletes by the severity of their impairment."
         },
         {
-          "phrase": "cyberattack",
-          "zh": "網絡攻擊",
-          "sample": "Officials warned that a cyberattack could disrupt the meeting's systems."
+          "phrase": "podium",
+          "zh": "頒獎台",
+          "sample": "Lau stood on the podium as the Hong Kong flag was raised."
         },
         {
-          "phrase": "terrorist threat",
-          "zh": "恐怖主義威脅",
-          "sample": "Police said they take every terrorist threat seriously during major events."
+          "phrase": "parasports funding",
+          "zh": "殘疾人士體育資助",
+          "sample": "Advocates say greater parasports funding helped produce Wednesday's results."
         },
         {
-          "phrase": "diplomatic delegation",
-          "zh": "外交代表團",
-          "sample": "A diplomatic delegation arrived a day early to inspect the venue."
+          "phrase": "host venue",
+          "zh": "主辦場館",
+          "sample": "Nagoya's host venue welcomed thousands of visiting athletes and officials."
         },
         {
-          "phrase": "harbourfront",
-          "zh": "海濱",
-          "sample": "The harbourfront was unusually quiet before the morning patrols began."
+          "phrase": "elite training squad",
+          "zh": "精英訓練隊",
+          "sample": "Lau trains alongside Hong Kong's elite training squad for boccia."
         },
         {
-          "phrase": "security briefing",
-          "zh": "保安簡報會",
-          "sample": "Officers attended a security briefing before taking up their positions."
+          "phrase": "para-sport pathway",
+          "zh": "殘疾人體育發展路徑",
+          "sample": "A clear para-sport pathway from school to elite level has been credited for the rise in medals."
         },
         {
-          "phrase": "checkpoint",
-          "zh": "檢查站",
-          "sample": "Several checkpoints were set up around the hotel entrance."
+          "phrase": "precision sport",
+          "zh": "講求準繩度的運動",
+          "sample": "Boccia is a precision sport that rewards a steady hand and sharp focus."
         },
         {
-          "phrase": "credential check",
-          "zh": "證件核實",
-          "sample": "Every visitor to the venue had to pass a credential check."
+          "phrase": "disability-inclusive facilities",
+          "zh": "共融無障礙設施",
+          "sample": "Disability-inclusive facilities at the training centre allowed Lau to practise year-round."
         },
         {
-          "phrase": "exclusion zone",
-          "zh": "禁區",
-          "sample": "A small exclusion zone was marked out around the delegates' hotel."
+          "phrase": "mainstream sporting narrative",
+          "zh": "主流體育敘事",
+          "sample": "Officials hope each medal brings para-athletes further into the mainstream sporting narrative."
         }
       ],
       "phrases": [
         {
-          "en": "ring a venue with round-the-clock security",
-          "zh": "為場館佈下24小時保安網",
-          "sample": "Officers will ring the venue with round-the-clock security throughout the three-day meeting."
+          "en": "underscore what sustained investment in para-sport can achieve",
+          "zh": "凸顯持續投資殘疾體育所能帶來的成果",
+          "sample": "Wednesday's results underscore what sustained investment in para-sport can achieve."
         },
         {
-          "en": "draw up contingency plans for worst-case scenarios",
-          "zh": "為最壞情況制定應變計劃",
-          "sample": "Planners drew up contingency plans for worst-case scenarios months before the delegates arrived."
+          "en": "chip away at the stigma once attached to disability sport",
+          "zh": "逐步消除昔日附加於殘疾體育的標籤",
+          "sample": "Each televised final chips away at the stigma once attached to disability sport."
         },
         {
-          "en": "extend security cover from the streets to cyberspace",
-          "zh": "將保安範圍由街頭延伸至網絡空間",
-          "sample": "Modern summits extend security cover from the streets to cyberspace."
+          "en": "turn a training-ground routine into a podium moment",
+          "zh": "將日常訓練化為頒獎台上的一刻",
+          "sample": "Years of repetition finally turned a training-ground routine into a podium moment."
         },
         {
-          "en": "play host to a gathering of international officials",
-          "zh": "接待一場國際官員雲集的會議",
-          "sample": "The city is playing host to a gathering of international officials for the first time."
+          "en": "broaden the public's definition of sporting excellence",
+          "zh": "擴闊公眾對體育卓越表現的定義",
+          "sample": "Her victory helps broaden the public's definition of sporting excellence."
         },
         {
-          "en": "balance security needs against daily inconvenience to residents",
-          "zh": "在保安需要與居民日常不便之間取得平衡",
-          "sample": "Authorities must balance security needs against daily inconvenience to residents during the meeting."
+          "en": "give disabled athletes the visibility they have long been denied",
+          "zh": "讓殘疾運動員獲得他們一直缺乏的關注",
+          "sample": "Prime-time coverage finally gives disabled athletes the visibility they have long been denied."
         },
         {
-          "en": "showcase a city's capacity to stage major diplomatic events",
-          "zh": "展現城市主辦重大外交活動的能力",
-          "sample": "A smoothly run meeting would showcase the city's capacity to stage major diplomatic events."
+          "en": "translate funding into tangible results on the world stage",
+          "zh": "將資助轉化為國際賽場上實質的成果",
+          "sample": "Officials say the medals translate funding into tangible results on the world stage."
         },
         {
-          "en": "coordinate security across venues, hotels and transport links",
-          "zh": "統籌場館、酒店及交通網絡的保安工作",
-          "sample": "Officers had to coordinate security across venues, hotels and transport links simultaneously."
+          "en": "set a benchmark for the rest of the squad to chase",
+          "zh": "為隊中其他選手訂立追趕的標準",
+          "sample": "Lau's gold sets a benchmark for the rest of the squad to chase."
         },
         {
-          "en": "deploy specialist units rather than relying on routine policing",
-          "zh": "調派專責部隊而非依賴日常警務",
-          "sample": "The scale of the meeting required deploying specialist units rather than relying on routine policing."
+          "en": "challenge assumptions about what disabled athletes can achieve",
+          "zh": "挑戰外界對殘疾運動員能力的既有假設",
+          "sample": "Such performances challenge assumptions about what disabled athletes can achieve."
         },
         {
-          "en": "signal a city's standing within a regional bloc",
-          "zh": "彰顯城市在區域組織中的地位",
-          "sample": "Hosting the meeting for the first time signals the city's standing within the regional bloc."
+          "en": "shine a spotlight on an often-overlooked corner of local sport",
+          "zh": "為本地體育中常被忽略的一環帶來關注",
+          "sample": "The Games shine a spotlight on an often-overlooked corner of local sport."
         },
         {
-          "en": "guard against both physical and digital threats",
-          "zh": "同時防範實體及網絡威脅",
-          "sample": "Security teams must guard against both physical and digital threats during a high-profile summit."
+          "en": "reward years of unglamorous, behind-the-scenes training",
+          "zh": "回報多年來不為人知的刻苦訓練",
+          "sample": "The gold rewards years of unglamorous, behind-the-scenes training."
         },
         {
-          "en": "accommodate a high-level delegation without disrupting daily life",
-          "zh": "在不干擾日常生活的情況下接待高層代表團",
-          "sample": "Officials insisted they could accommodate the high-level delegation without disrupting daily life in the district."
+          "en": "strengthen the case for continued government backing",
+          "zh": "強化持續爭取政府支持的理據",
+          "sample": "Success at this level strengthens the case for continued government backing."
         },
         {
-          "en": "treat a summit's smooth running as a diplomatic achievement in itself",
-          "zh": "將峰會順利舉行本身視為外交上的成就",
-          "sample": "Some observers treat a summit's smooth running as a diplomatic achievement in itself."
+          "en": "show that success in para-sport is no accident",
+          "zh": "證明殘疾體育上的成功絕非偶然",
+          "sample": "Consistent medal hauls show that success in para-sport is no accident."
+        },
+        {
+          "en": "inspire a new generation of young disabled athletes",
+          "zh": "激勵新一代年輕殘疾運動員",
+          "sample": "Coaches hope the win will inspire a new generation of young disabled athletes."
+        },
+        {
+          "en": "prove that classification need not limit ambition",
+          "zh": "證明分級制度無損運動員的志向",
+          "sample": "Lau's career proves that classification need not limit ambition."
+        },
+        {
+          "en": "cement Hong Kong's growing reputation in para-sport",
+          "zh": "鞏固香港在殘疾體育上日漸提升的聲譽",
+          "sample": "A deep squad has helped cement Hong Kong's growing reputation in para-sport."
+        }
+      ]
+    },
+    {
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/346110/Star-Ferry-fares-to-rise-by-up-to-1-on-weekdays-180-on-weekends",
+      "published_date": "21 October 2026",
+      "headline": "Star Ferry Fares to Rise Again as Executive Council Approves Smaller Increase Than Sought",
+      "category": "urban",
+      "summary_html": "<p>Hong Kong's <span class=\"bw\">Executive Council<span class=\"tip\"><span class=\"tip-en\">the body of senior officials that advises Hong Kong's Chief Executive and approves major government decisions, including regulated fare changes</span><span class=\"tip-zh\">行政會議</span></span></span> approved a new round of fare increases for the Star Ferry on Wednesday, meaning passengers on the operator's two <span class=\"bw\">franchised routes<span class=\"tip\"><span class=\"tip-en\">ferry or bus routes operated under an exclusive government licence, which also regulates the fares charged</span><span class=\"tip-zh\">專營航線</span></span></span> will pay up to HK$1 more per journey on weekdays and up to HK$1.80 more on weekends and public holidays from 25 January next year. Under the approved schedule, weekday single-trip fares will rise by 60 cents to HK$1, capping the adult upper-deck fare at HK$6, while weekend and holiday fares will increase by HK$1 to HK$1.80, bringing the top fare to HK$8.30. The price of a monthly ticket will remain unchanged at HK$190.</p><p>The approved rise is noticeably smaller than what the ferry operator had originally sought in its <span class=\"bw\">fare increase application<span class=\"tip\"><span class=\"tip-en\">a formal request submitted by a transport operator asking the government to approve higher fares</span><span class=\"tip-zh\">加價申請</span></span></span>, which proposed increases of between 80 cents and HK$2 per trip, equivalent to an average rise of about 30 percent on both the Central–Tsim Sha Tsui and Wan Chai–Tsim Sha Tsui crossings. Officials said the government had <span class=\"bw\">moderated the increase<span class=\"tip\"><span class=\"tip-en\">reduced a proposed change to a smaller, less severe version before approving it</span><span class=\"tip-zh\">調低加幅</span></span></span> after weighing the ferry's financial difficulties against concerns, raised repeatedly by lawmakers, that ordinary commuters should not bear the full cost of keeping a century-old service afloat. The revised fare schedule must still pass through <span class=\"bw\">negative vetting<span class=\"tip\"><span class=\"tip-en\">a legislative procedure in which a regulation automatically takes effect unless lawmakers vote to block it within a set period</span><span class=\"tip-zh\">先訂立後審議程序</span></span></span> at the Legislative Council next Wednesday before it can take effect.</p><p>The Transport and Logistics Bureau said the adjustment was necessary because the Star Ferry recorded <span class=\"bw\">operating losses<span class=\"tip\"><span class=\"tip-en\">the amount by which a company's running costs exceed its income from normal business activities</span><span class=\"tip-zh\">經營虧損</span></span></span> exceeding HK$100 million between 2018 and 2023, and has since relied on <span class=\"bw\">debt financing<span class=\"tip\"><span class=\"tip-en\">raising money by borrowing, such as through loans, rather than through revenue or investment</span><span class=\"tip-zh\">債務融資</span></span></span> simply to maintain its franchised service. The last fare increase, approved in January 2023, raised prices by more than 50 percent, yet the operator argues that rising costs and falling patronage since the pandemic have continued to erode its finances. Commuter groups have urged the government to explore alternative subsidies rather than repeatedly passing costs onto fare-paying passengers.</p>",
+      "summary_zh_html": "<p>香港<span class=\"bwz\">行政會議</span>周三批准天星小輪新一輪加價,意味渡輪兩條<span class=\"bwz\">專營航線</span>的乘客,由明年1月25日起,平日每程最多加價1元,假日及周末每程最多加價1.8元。根據獲批的新收費表,平日單程票價將上調6角至1元,成人上層票價上限為6元;周末及公眾假期票價則上調1元至1.8元,最高票價為8.3元。月票價格維持不變,仍為190元。</p><p>獲批的加幅,明顯低於渡輪公司原先在<span class=\"bwz\">加價申請</span>中提出的幅度——該申請要求兩條航線(中環至尖沙咀,以及灣仔至尖沙咀)每程加價8角至2元,平均加幅約30%。官員表示,政府在衡量渡輪公司的財政困難,與議員多次提出、不應由普通乘客全數承擔維持這項逾百年歷史服務所需開支的訴求後,<span class=\"bwz\">調低加幅</span>。修訂後的收費表仍須於下周三提交立法會,經<span class=\"bwz\">先訂立後審議程序</span>,方可正式生效。</p><p>運輸及物流局表示,有必要調整收費,因天星小輪在2018年至2023年間錄得超過1億元的<span class=\"bwz\">經營虧損</span>,其後僅靠<span class=\"bwz\">債務融資</span>維持其專營服務運作。上一次加價於2023年1月批准,加幅超過五成,但渡輪公司指,疫情後成本上升及客流下跌,持續侵蝕其財政狀況。多個關注團體促請政府研究其他資助方案,而非一再將成本轉嫁予付費乘客。</p>",
+      "image_scene": "A classic green-and-white Star Ferry boat crossing Victoria Harbour on a clear afternoon, Hong Kong Island's skyline and the Tsim Sha Tsui clock tower visible on either side; anonymous commuters in business attire queuing at a pier turnstile in the foreground, a ticket booth nearby, no text, signs or logos visible.",
+      "cover_text": {
+        "zh_kicker": "小輪加價",
+        "zh_title": [
+          "天星小輪",
+          "明年加價"
+        ],
+        "zh_hl": "加價",
+        "zh_sub": "行會通過明年1月生效",
+        "en": "Star Ferry fares to rise again from January 2027"
+      },
+      "vocab": [
+        {
+          "phrase": "fare adjustment",
+          "zh": "票價調整",
+          "sample": "The fare adjustment takes effect in January next year."
+        },
+        {
+          "phrase": "franchise",
+          "zh": "專營權",
+          "sample": "Star Ferry has held its cross-harbour franchise for over a century."
+        },
+        {
+          "phrase": "ferry operator",
+          "zh": "渡輪公司",
+          "sample": "The ferry operator says it can no longer absorb rising costs alone."
+        },
+        {
+          "phrase": "patronage",
+          "zh": "客流量",
+          "sample": "Patronage on the two routes has not fully recovered since the pandemic."
+        },
+        {
+          "phrase": "subsidy",
+          "zh": "資助",
+          "sample": "Commuter groups want the government to consider a direct subsidy instead."
+        },
+        {
+          "phrase": "upper deck",
+          "zh": "上層船艙",
+          "sample": "An upper-deck single ticket will now cost six dollars on weekdays."
+        },
+        {
+          "phrase": "commuter",
+          "zh": "通勤者",
+          "sample": "Daily commuters will feel the fare rise most on weekday mornings."
+        },
+        {
+          "phrase": "legislative scrutiny",
+          "zh": "立法監察",
+          "sample": "The new fares must survive legislative scrutiny before taking effect."
+        },
+        {
+          "phrase": "transport bureau",
+          "zh": "運輸局",
+          "sample": "The transport bureau defended the increase as unavoidable."
+        },
+        {
+          "phrase": "cross-harbour route",
+          "zh": "過海航線",
+          "sample": "The cross-harbour route remains one of the cheapest ways to see the skyline."
+        },
+        {
+          "phrase": "revenue shortfall",
+          "zh": "收入短缺",
+          "sample": "Falling patronage has left the company facing a persistent revenue shortfall."
+        },
+        {
+          "phrase": "fare schedule",
+          "zh": "收費表",
+          "sample": "The revised fare schedule lists separate prices for weekdays and weekends."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "strike a balance between commercial viability and affordability",
+          "zh": "在商業可行性與可負擔性之間取得平衡",
+          "sample": "Regulators must strike a balance between commercial viability and affordability."
+        },
+        {
+          "en": "shift the financial burden from the operator onto commuters",
+          "zh": "將財政負擔由營運者轉移至通勤者身上",
+          "sample": "Critics say the fare rise shifts the financial burden from the operator onto commuters."
+        },
+        {
+          "en": "keep a historic mode of transport financially afloat",
+          "zh": "維持一項歷史悠久的交通工具的財政運作",
+          "sample": "The increase is meant to keep a historic mode of transport financially afloat."
+        },
+        {
+          "en": "add to the mounting cost-of-living pressures facing residents",
+          "zh": "加劇居民面對日益沉重的生活成本壓力",
+          "sample": "Another fare rise adds to the mounting cost-of-living pressures facing residents."
+        },
+        {
+          "en": "draw scrutiny from lawmakers wary of repeated fare rises",
+          "zh": "招致對連番加價持審慎態度的議員關注",
+          "sample": "The proposal drew scrutiny from lawmakers wary of repeated fare rises."
+        },
+        {
+          "en": "reflect the rising cost of running an ageing fleet",
+          "zh": "反映維持老化船隻運作的成本上升",
+          "sample": "Officials say the rise reflects the rising cost of running an ageing fleet."
+        },
+        {
+          "en": "fall short of covering years of accumulated losses",
+          "zh": "仍未能彌補多年累積的虧損",
+          "sample": "Even the approved increase may fall short of covering years of accumulated losses."
+        },
+        {
+          "en": "spark renewed debate over public transport subsidies",
+          "zh": "重新引發有關公共交通資助的討論",
+          "sample": "The decision has sparked renewed debate over public transport subsidies."
+        },
+        {
+          "en": "weigh commuters' interests against an operator's survival",
+          "zh": "在通勤者利益與營運者的生存之間作出取捨",
+          "sample": "The government must weigh commuters' interests against an operator's survival."
+        },
+        {
+          "en": "avoid passing the full cost onto fare-paying passengers",
+          "zh": "避免將全部成本轉嫁至繳費乘客身上",
+          "sample": "Campaigners want the government to avoid passing the full cost onto fare-paying passengers."
+        },
+        {
+          "en": "preserve a beloved harbour crossing for future generations",
+          "zh": "為後代保留這條深受喜愛的過海航線",
+          "sample": "Supporters argue the fare rise helps preserve a beloved harbour crossing for future generations."
+        },
+        {
+          "en": "undergo close scrutiny before taking legal effect",
+          "zh": "在正式生效前須經仔細審議",
+          "sample": "The new fares must undergo close scrutiny before taking legal effect."
+        },
+        {
+          "en": "balance heritage value against hard commercial realities",
+          "zh": "在文化價值與嚴峻的商業現實之間取得平衡",
+          "sample": "The debate forces the city to balance heritage value against hard commercial realities."
+        },
+        {
+          "en": "erode public goodwill if increases become too frequent",
+          "zh": "若加價過於頻密將削弱公眾的信任",
+          "sample": "Repeated rises risk eroding public goodwill if increases become too frequent."
+        },
+        {
+          "en": "set a precedent for how other franchised services are priced",
+          "zh": "為其他專營服務的定價方式樹立先例",
+          "sample": "The decision may set a precedent for how other franchised services are priced."
+        }
+      ]
+    },
+    {
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/346085/Court-hears-Kwong-Kau-received-697m-rebate-on-Kadoorie-Hill-flat-funded-by-Abby-Choi",
+      "published_date": "21 October 2026",
+      "headline": "Property Agent Tells Abby Choi Murder Trial Ex-Father-in-Law Pocketed HK$6.97 Million Flat Rebate",
+      "category": "law",
+      "summary_html": "<p>An <span class=\"bw\">estate agent<span class=\"tip\"><span class=\"tip-en\">a licensed professional who arranges and negotiates property sales on behalf of buyers, sellers or developers</span><span class=\"tip-zh\">地產代理</span></span></span> told the High Court on Wednesday that Abby Choi's former father-in-law, Kwong Kau, personally asked for and received a <span class=\"bw\">cash rebate<span class=\"tip\"><span class=\"tip-en\">a sum of money paid back to a buyer after a purchase, often deducted from a commission or the sale price</span><span class=\"tip-zh\">現金回贈</span></span></span> of roughly HK$6.97 million after the purchase of a Kadoorie Hill flat funded by the slain socialite. Marco Wong Tak-sing, giving evidence on the 20th day of the murder trial, said his agency earned about HK$8.18 million in <span class=\"bw\">sales commission<span class=\"tip\"><span class=\"tip-en\">a fee, usually a percentage of the sale price, paid to an agent for arranging a transaction</span><span class=\"tip-zh\">銷售佣金</span></span></span> from the flat's developer, and that most of that sum was then passed back to Kwong, the flat's <span class=\"bw\">registered owner<span class=\"tip\"><span class=\"tip-en\">the person or entity whose name legally appears on a property's title documents</span><span class=\"tip-zh\">登記業主</span></span></span>, at his own request.</p><p>Wong told the court that a <span class=\"bw\">deposit cheque<span class=\"tip\"><span class=\"tip-en\">a cheque used to pay the initial, partial payment required to secure a property purchase</span><span class=\"tip-zh\">訂金支票</span></span></span> worth HK$3.74 million had been drawn directly on Choi's own bank account, and that Kwong explained at the time that his daughter-in-law had provided the funds. Under <span class=\"bw\">cross-examination<span class=\"tip\"><span class=\"tip-en\">the questioning of a witness by the opposing side in a trial, used to test or challenge their evidence</span><span class=\"tip-zh\">盤問</span></span></span>, Wong was pressed on why the buyer's correspondence address listed on the <span class=\"bw\">tender document<span class=\"tip\"><span class=\"tip-en\">the formal paperwork submitted when bidding to purchase a property through a sealed-bid process</span><span class=\"tip-zh\">投標文件</span></span></span> was his own agency's address rather than Kwong's, and replied that the arrangement was meant to stop the purchaser from contacting the developer directly — a point Kwong is said to have agreed to at the time.</p><p>The testimony adds financial detail to the prosecution's broader case, which alleges that Kwong Kau held the flat only in a <span class=\"bw\">beneficial ownership<span class=\"tip\"><span class=\"tip-en\">the right to enjoy the benefits of an asset even though it is legally registered in someone else's name</span><span class=\"tip-zh\">實益擁有權</span></span></span> arrangement on Choi's behalf, and that his resentment over her eventual decision to sell it helped drive the killing. Kwong, 68, is on trial alongside his sons Alex and Anthony Kwong, all of whom deny murdering the 28-year-old influencer in 2023; the two sons have separately pleaded guilty to preventing her lawful burial, a charge their father continues to contest.</p>",
+      "summary_zh_html": "<p>一名<span class=\"bwz\">地產代理</span>周三在高等法院作證指,名模Abby Choi的前家翁鄺球,在以Choi出資購入嘉道理山一個單位後,曾親自要求並取得約697萬元的<span class=\"bwz\">現金回贈</span>。黃德誠(譯名)在謀殺審訊第20日作供時表示,其代理行就該單位的買賣,從發展商處收取約818萬元<span class=\"bwz\">銷售佣金</span>,其中大部分款項隨後按鄺球本人的要求,回贈予身為單位<span class=\"bwz\">登記業主</span>的他。</p><p>黃又向法庭表示,一張金額374萬元的<span class=\"bwz\">訂金支票</span>,直接從Choi本人的銀行帳戶支取,鄺球當時解釋,款項是由其媳婦提供。在<span class=\"bwz\">盤問</span>環節中,黃被追問為何<span class=\"bwz\">投標文件</span>上所列的買家聯絡地址,是其代理行的地址,而非鄺球本人的地址,他回應指,此安排是為免買家直接聯絡發展商——而鄺球當時據稱亦同意此做法。</p><p>今次證供,為控方更廣泛的案情增添財務細節——控方指,鄺球僅以<span class=\"bwz\">實益擁有權</span>的安排,代表Choi持有該單位,而他對Choi最終決定出售單位心存不滿,正是促使這宗謀殺案發生的原因之一。68歲的鄺球,與其兩名兒子Alex Kwong及Anthony Kwong一同受審,三人均否認於2023年謀殺這名28歲網絡紅人;兩名兒子已就妨礙合法埋葬罪另行認罪,惟其父則繼續否認該項控罪。</p>",
+      "image_scene": "The exterior of Hong Kong's High Court building on an overcast morning, its grey stone facade and tall windows prominent; anonymous people in business suits climbing the front steps carrying briefcases and document folders, a cluster of press photographers with cameras waiting near the entrance railing, no text, signs or logos visible.",
+      "cover_text": {
+        "zh_kicker": "謀殺審訊",
+        "zh_title": [
+          "經紀供稱",
+          "鄺球回贈697萬"
+        ],
+        "zh_hl": "697萬",
+        "zh_sub": "佐證控方指控家翁套取利益",
+        "en": "Agent testifies ex-father-in-law took $7m flat rebate"
+      },
+      "vocab": [
+        {
+          "phrase": "estate agent",
+          "zh": "地產代理",
+          "sample": "The estate agent handled every stage of the flat's sale on the developer's behalf."
+        },
+        {
+          "phrase": "sales commission",
+          "zh": "銷售佣金",
+          "sample": "The agency's sales commission from the developer ran into the millions."
+        },
+        {
+          "phrase": "cash rebate",
+          "zh": "現金回贈",
+          "sample": "The buyer asked for a cash rebate once the deal had gone through."
+        },
+        {
+          "phrase": "deposit cheque",
+          "zh": "訂金支票",
+          "sample": "The deposit cheque was drawn on an account that was not the buyer's own."
+        },
+        {
+          "phrase": "registered owner",
+          "zh": "登記業主",
+          "sample": "The flat's registered owner was not necessarily the person who paid for it."
+        },
+        {
+          "phrase": "tender document",
+          "zh": "投標文件",
+          "sample": "The tender document listed a correspondence address that raised questions in court."
+        },
+        {
+          "phrase": "beneficial ownership",
+          "zh": "實益擁有權",
+          "sample": "Prosecutors argued the arrangement was one of beneficial ownership rather than true ownership."
+        },
+        {
+          "phrase": "remit funds",
+          "zh": "匯出款項",
+          "sample": "Bank records showed exactly when the funds were remitted."
+        },
+        {
+          "phrase": "stamp duty",
+          "zh": "印花稅",
+          "sample": "Registering the flat under a relative's name was said to save on stamp duty."
+        },
+        {
+          "phrase": "conveyancing",
+          "zh": "物業轉易手續",
+          "sample": "The conveyancing process left a detailed paper trail for investigators to follow."
+        },
+        {
+          "phrase": "flat purchase",
+          "zh": "物業購置",
+          "sample": "The flat purchase was financed entirely by Choi, the court heard."
+        },
+        {
+          "phrase": "cashier's order",
+          "zh": "銀行本票",
+          "sample": "Part of the payment was eventually settled by cashier's order."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "paint a detailed picture of how the deal was structured",
+          "zh": "詳細描繪整宗交易的結構安排",
+          "sample": "The agent's testimony helped paint a detailed picture of how the deal was structured."
+        },
+        {
+          "en": "raise fresh questions about who truly controlled the family's assets",
+          "zh": "引發對誰真正掌控家族資產的新疑問",
+          "sample": "The rebate detail raises fresh questions about who truly controlled the family's assets."
+        },
+        {
+          "en": "complicate the defence's account of events",
+          "zh": "令辯方對事件的說法更趨複雜",
+          "sample": "The paper trail complicates the defence's account of events."
+        },
+        {
+          "en": "expose irregularities buried in routine paperwork",
+          "zh": "揭露隱藏於日常文書工作中的異常之處",
+          "sample": "Cross-examination exposed irregularities buried in routine paperwork."
+        },
+        {
+          "en": "corroborate the prosecution's narrative of financial control",
+          "zh": "佐證控方有關財務操控的說法",
+          "sample": "The agent's evidence appears to corroborate the prosecution's narrative of financial control."
+        },
+        {
+          "en": "lay the groundwork for the jury to draw its own conclusions",
+          "zh": "為陪審團日後自行判斷奠定基礎",
+          "sample": "Such detailed testimony lays the groundwork for the jury to draw its own conclusions."
+        },
+        {
+          "en": "add another layer to an already complex financial trail",
+          "zh": "為本已錯綜複雜的財務脈絡再添一層",
+          "sample": "The rebate adds another layer to an already complex financial trail."
+        },
+        {
+          "en": "undercut claims of financial independence",
+          "zh": "削弱有關財政獨立的說法",
+          "sample": "The evidence undercuts claims of financial independence made earlier in the trial."
+        },
+        {
+          "en": "bring technical banking details into sharp focus",
+          "zh": "令繁瑣的銀行交易細節成為焦點",
+          "sample": "The hearing brought technical banking details into sharp focus."
+        },
+        {
+          "en": "test the credibility of competing explanations",
+          "zh": "考驗各方說法的可信程度",
+          "sample": "Cross-examination is designed to test the credibility of competing explanations."
+        },
+        {
+          "en": "highlight how easily paper trails can be manipulated",
+          "zh": "突顯文書紀錄何以輕易遭人操控",
+          "sample": "The case highlights how easily paper trails can be manipulated."
+        },
+        {
+          "en": "deepen the jury's understanding of the family's finances",
+          "zh": "加深陪審團對這家族財務狀況的理解",
+          "sample": "Each witness has helped deepen the jury's understanding of the family's finances."
+        },
+        {
+          "en": "reveal the lengths to which parties went to mask ownership",
+          "zh": "揭示各方為掩飾擁有權所採取的種種手段",
+          "sample": "The tender address detail reveals the lengths to which parties went to mask ownership."
+        },
+        {
+          "en": "sharpen scrutiny of how the transaction was financed",
+          "zh": "加強對交易資金來源的審視",
+          "sample": "The rebate revelation has sharpened scrutiny of how the transaction was financed."
+        },
+        {
+          "en": "underline the forensic value of financial records in court",
+          "zh": "凸顯財務紀錄在法庭上的偵查價值",
+          "sample": "The testimony underlines the forensic value of financial records in court."
         }
       ]
     },
     {
       "source_name": "HKFP",
-      "source_url": "https://hongkongfp.com/2026/10/15/dozens-of-hong-kong-christian-groups-petition-against-tourism-bodys-halloween-month-campaign/",
-      "published_date": "15 October 2026",
-      "headline": "Dozens of Christian Groups Petition Against Tourism Board's First 'Halloween Month' Campaign",
-      "category": "social",
-      "summary_html": "<p>A coalition calling itself Yeshua Families Built in Love has submitted an <span class=\"bw\">online petition<span class=\"tip\"><span class=\"tip-en\">a formal written request, usually gathered and signed through a website, calling on authorities to take or reverse an action</span><span class=\"tip-zh\">網上聯署</span></span></span> to Hong Kong's legislature and government departments, urging authorities to scrap the Hong Kong Tourism Board's first-ever month-long “Halloween Month” campaign before weekend street parties begin this Saturday. The petition's Google Form had gathered around 70 signatures by Wednesday, most of them from other Christian organisations rather than individual residents, and it frames the <span class=\"bw\">secular celebration<span class=\"tip\"><span class=\"tip-en\">a celebration with no religious character, intended for the general public rather than any particular faith</span><span class=\"tip-zh\">世俗慶典</span></span></span> running throughout October as something closer to a spiritual threat than a harmless seasonal promotion.</p><p>In their submission, signatories describe the festival as being “filled with the worship… of death, evil spirits, curses, and the dark world,” arguing that an occasion with such origins should not receive official backing, let alone be funded with <span class=\"bw\">public funds<span class=\"tip\"><span class=\"tip-en\">money collected and controlled by the government, intended to serve the whole community rather than private interests</span><span class=\"tip-zh\">公共資金</span></span></span> intended to serve the whole community. Their target is less the private celebration of Halloween, which has taken place in bars and clubs for years, than the Tourism Board's active promotion of it through a coordinated <span class=\"bw\">tourism strategy<span class=\"tip\"><span class=\"tip-en\">a deliberate plan devised by an official body to attract visitors and boost tourist spending</span><span class=\"tip-zh\">旅遊推廣策略</span></span></span>: citywide cosplay street parties, electronic music events and free tram rides offered to costumed visitors who clear a set <span class=\"bw\">spending threshold<span class=\"tip\"><span class=\"tip-en\">a minimum amount of money a customer must spend before becoming eligible for an offer or reward</span><span class=\"tip-zh\">消費門檻</span></span></span> at partner venues.</p><p>The campaign itself traces back to February's budget speech, in which officials signalled an intent to promote festivals that carry less weight on the mainland as a way of diversifying Hong Kong's calendar of tourist draws. Whether the government responds to this <span class=\"bw\">religious objection<span class=\"tip\"><span class=\"tip-en\">opposition to something based specifically on religious beliefs or teachings</span><span class=\"tip-zh\">宗教上的反對</span></span></span> with any changes before the first parties begin on October 17 remains unclear, but the episode illustrates a recurring tension in a <span class=\"bw\">cultural import<span class=\"tip\"><span class=\"tip-en\">a custom or practice adopted from another country or culture, as opposed to one that originated locally</span><span class=\"tip-zh\">外來文化</span></span></span> once confined to nightlife districts now being turned into official, publicly promoted entertainment.</p>",
-      "summary_zh_html": "<p>一個名為「以馬內利愛家」(Yeshua Families Built in Love) 的團體,向香港立法會及多個政府部門遞交<span class=\"bwz\">網上聯署</span>,要求當局在本週六街頭派對開始前,撤回香港旅遊發展局首次舉辦的全月「香港萬聖節月」活動。截至週三,聯署所用的Google表單已收集約七十個簽名,當中大部分來自其他基督教團體而非個人市民,並將這個貫穿整個十月的<span class=\"bwz\">世俗慶典</span>形容為帶有靈性威脅,而非單純無害的季節性推廣活動。</p><p>聯署人在意見書中形容該節日「充斥着對死亡、邪靈、咒詛及黑暗世界的崇拜」,認為一個有此淵源的節日不應獲官方背書,更不應動用本應服務全體市民的<span class=\"bwz\">公共資金</span>予以資助。他們針對的,與其說是多年來一直在酒吧及夜店舉行的私人萬聖節慶祝活動,不如說是旅發局透過一套協調一致的<span class=\"bwz\">旅遊推廣策略</span>積極推動此節日:全城性的扮裝街頭派對、電子音樂活動,以及向達到指定<span class=\"bwz\">消費門檻</span>的扮裝旅客提供免費電車乘搭優惠。</p><p>該活動的構思可追溯至二月的財政預算案演辭,當時官員表明有意推廣在內地較少受重視的節日,藉以豐富香港的旅遊節慶日曆。政府會否因應這次<span class=\"bwz\">宗教上的反對</span>,在十月十七日首場派對開始前作出任何調整,目前仍不清楚;但事件反映出,一種一度只局限於夜生活場所的<span class=\"bwz\">外來文化</span>,如今正被轉化為官方公開推廣的娛樂活動,其中所存在的持續張力。</p>",
-      "image_scene": "A stretch of a Hong Kong shopping street at dusk with orange and black Halloween bunting strung overhead and bare shopfronts, a small group of anonymous passers-by walking past an open church entrance nearby; a tram passes in the background, no signs or logos visible.",
+      "source_url": "https://hongkongfp.com/2026/10/21/parents-sue-hospital-authority-over-death-of-5-year-old-girl-following-stitching-procedure/",
+      "published_date": "21 October 2026",
+      "headline": "Parents of Girl, 5, Who Died After Stitching Procedure Sue Hospital Authority for Negligence",
+      "category": "family",
+      "summary_html": "<p>The parents of a girl who died after a medical procedure at a public hospital have filed a <span class=\"bw\">civil suit<span class=\"tip\"><span class=\"tip-en\">a legal case brought by one private party against another, or a public body, seeking compensation rather than criminal punishment</span><span class=\"tip-zh\">民事訴訟</span></span></span> against the Hospital Authority, alleging negligence that led to their daughter's death nearly a year after the original incident. According to a <span class=\"bw\">writ of summons<span class=\"tip\"><span class=\"tip-en\">the formal document that officially starts a civil lawsuit in court</span><span class=\"tip-zh\">傳訊令狀</span></span></span> filed at the <span class=\"bw\">District Court<span class=\"tip\"><span class=\"tip-en\">a Hong Kong court that handles civil claims above a certain value and some criminal cases, ranking below the High Court</span><span class=\"tip-zh\">區域法院</span></span></span> last Thursday, Lai Sum-yuet, then aged four, was taken to Yan Chai Hospital in Tsuen Wan in May 2024 to have a head wound from a fall treated, a routine <span class=\"bw\">suturing procedure<span class=\"tip\"><span class=\"tip-en\">a medical procedure in which stitches are used to close a wound</span><span class=\"tip-zh\">縫合程序</span></span></span> expected to take only a few minutes.</p><p>The writ states that once the brief procedure was completed, a nurse found that the child had lost consciousness and had no pulse, and that medical staff spent 18 minutes performing resuscitation before restoring her heartbeat following a <span class=\"bw\">cardiac arrest<span class=\"tip\"><span class=\"tip-en\">a sudden stop in effective heart function, cutting off blood flow to the body</span><span class=\"tip-zh\">心臟停頓</span></span></span>. Lai never fully recovered and died in February this year, at the age of five. Her family has previously said they witnessed hospital staff pressing the girl's head firmly against a pillow during the procedure, a claim at the centre of separate criminal proceedings in which two medical staff members have been charged with the <span class=\"bw\">ill-treatment or neglect of a child<span class=\"tip\"><span class=\"tip-en\">a criminal offence covering wilful cruelty or culpable failure to care for a child in one's charge</span><span class=\"tip-zh\">對兒童虐待或忽略罪</span></span></span>.</p><p>The Hospital Authority has apologised for the family's loss but has maintained that staff followed <span class=\"bw\">established protocols<span class=\"tip\"><span class=\"tip-en\">the official, standard procedures that staff are trained and expected to follow</span><span class=\"tip-zh\">既定程序</span></span></span> throughout the procedure, a position the lawsuit now directly challenges. The case has also been referred to the <span class=\"bw\">Coroner's Court<span class=\"tip\"><span class=\"tip-en\">a court that formally investigates the cause and circumstances of an unexplained or unnatural death</span><span class=\"tip-zh\">死因裁判法庭</span></span></span> for a separate inquest into the circumstances of the child's death, running alongside both the criminal case and the newly filed civil claim. The writ does not specify the amount of damages being sought, but it marks the family's latest step in a long pursuit of accountability for what they describe as an entirely preventable tragedy.</p>",
+      "summary_zh_html": "<p>一名女童在公立醫院接受醫療程序後死亡,其父母已就院方疏忽,向醫院管理局提出<span class=\"bwz\">民事訴訟</span>,事件發生近一年後終告上法庭。根據上周四提交的<span class=\"bwz\">傳訊令狀</span>,案件已於<span class=\"bwz\">區域法院</span>展開法律程序。令狀指,黎心悅(譯名)在2024年5月,當時年僅四歲,因跌傷頭部被送往荃灣仁濟醫院,接受一項原本預計僅需數分鐘的常規<span class=\"bwz\">縫合程序</span>。</p><p>令狀指出,該簡短程序完成後,護士發現女童已失去知覺並無脈搏,醫護人員經過18分鐘的搶救,方令她在一次<span class=\"bwz\">心臟停頓</span>後恢復心跳。黎心悅自此未能完全康復,並於今年2月,年僅五歲時離世。其家人早前表示,曾目擊院方職員在進行程序期間,用力將女童的頭按向枕頭,此說法正是另一宗刑事案件的爭議核心——兩名醫護人員已被控<span class=\"bwz\">對兒童虐待或忽略</span>罪。</p><p>醫院管理局已就該家庭的喪女之痛致歉,但一直堅稱職員在整個程序中均遵從<span class=\"bwz\">既定程序</span>,而今次民事訴訟,正正直接挑戰這一說法。案件亦已轉交<span class=\"bwz\">死因裁判法庭</span>另行展開死因調查,與刑事案件及今次新提出的民事索償同步進行。令狀並未指明索償金額,但事件標誌着這家庭在追究一場他們形容為完全可以避免的悲劇責任路上,邁出的最新一步。</p>",
+      "image_scene": "The quiet exterior of a Hong Kong public hospital in Tsuen Wan on an overcast afternoon, its entrance canopy and ambulance bay empty of people; a single potted plant and an informational signboard blank of text near the doorway, a small bouquet of flowers left respectfully on a nearby bench, no people, text or logos visible.",
       "cover_text": {
-        "zh_kicker": "萬聖爭議",
+        "zh_kicker": "醫療事故",
         "zh_title": [
-          "教會聯署",
-          "反萬聖月"
+          "女童縱逝",
+          "父母告醫管局"
         ],
-        "zh_hl": "萬聖月",
-        "zh_sub": "七十個團體聯署反對",
-        "en": "Christian groups petition against HKTB's Halloween Month"
+        "zh_hl": "醫管局",
+        "zh_sub": "縫合程序後心臟停頓死亡",
+        "en": "Parents sue Hospital Authority over daughter's 2025 death"
       },
       "vocab": [
         {
-          "phrase": "petition",
-          "zh": "聯署",
-          "sample": "The petition was addressed to lawmakers and several government bureaus."
+          "phrase": "civil suit",
+          "zh": "民事訴訟",
+          "sample": "The family filed a civil suit nearly a year after the incident."
         },
         {
-          "phrase": "congregation",
-          "zh": "會眾",
-          "sample": "Members of several congregations signed the same online form."
+          "phrase": "writ of summons",
+          "zh": "傳訊令狀",
+          "sample": "The writ of summons set out the family's claim of negligence."
         },
         {
-          "phrase": "petition drive",
-          "zh": "聯署行動",
-          "sample": "The petition drive attracted signatories from across the city within days."
+          "phrase": "negligence claim",
+          "zh": "疏忽索償",
+          "sample": "The negligence claim centres on what happened during a routine procedure."
         },
         {
-          "phrase": "cosplay",
-          "zh": "動漫扮裝",
-          "sample": "Visitors in cosplay were offered free rides on themed trams."
+          "phrase": "cardiac arrest",
+          "zh": "心臟停頓",
+          "sample": "She suffered a cardiac arrest shortly after the procedure ended."
         },
         {
-          "phrase": "street party",
-          "zh": "街頭派對",
-          "sample": "The street party drew large crowds despite the midweek timing."
+          "phrase": "resuscitation efforts",
+          "zh": "搶救",
+          "sample": "Resuscitation efforts lasted 18 minutes before her heartbeat returned."
         },
         {
-          "phrase": "signatory",
-          "zh": "簽署人",
-          "sample": "Most signatories listed a church or fellowship rather than their own name."
+          "phrase": "coroner's inquest",
+          "zh": "死因裁判法庭調查",
+          "sample": "A coroner's inquest will examine the exact circumstances of her death."
         },
         {
-          "phrase": "evil spirit",
-          "zh": "邪靈",
-          "sample": "The petition describes the festival as honouring evil spirits."
+          "phrase": "ill-treatment charge",
+          "zh": "虐待兒童控罪",
+          "sample": "Two staff members face an ill-treatment charge over the same incident."
         },
         {
-          "phrase": "government bureau",
-          "zh": "政府部門",
-          "sample": "Copies of the petition were sent to several government bureaus."
+          "phrase": "hospital protocol",
+          "zh": "醫院既定程序",
+          "sample": "The Hospital Authority insists hospital protocol was followed throughout."
         },
         {
-          "phrase": "budget speech",
-          "zh": "財政預算案演辭",
-          "sample": "The campaign was first mentioned in February's budget speech."
+          "phrase": "damages sought",
+          "zh": "索償金額",
+          "sample": "The writ does not specify the amount of damages sought."
         },
         {
-          "phrase": "promotional campaign",
-          "zh": "推廣活動",
-          "sample": "The promotional campaign includes free tram rides for costumed visitors."
+          "phrase": "criminal proceedings",
+          "zh": "刑事訴訟程序",
+          "sample": "Criminal proceedings against the two staff members continue separately."
         },
         {
-          "phrase": "nightlife district",
-          "zh": "夜生活區",
-          "sample": "Halloween parties have long been associated with the city's nightlife districts."
+          "phrase": "hospital cluster",
+          "zh": "醫院聯網",
+          "sample": "The hospital cluster overseeing Yan Chai Hospital expressed condolences to the family."
         },
         {
-          "phrase": "faith-based group",
-          "zh": "宗教背景團體",
-          "sample": "Several faith-based groups coordinated their response within a single week."
+          "phrase": "medical negligence",
+          "zh": "醫療疏忽",
+          "sample": "Medical negligence is difficult to prove without detailed hospital records."
         }
       ],
       "phrases": [
         {
-          "en": "frame a secular event as a spiritual threat",
-          "zh": "將世俗活動定性為靈性威脅",
-          "sample": "The petition frames a secular event as a spiritual threat rather than harmless fun."
+          "en": "seek accountability for a preventable tragedy",
+          "zh": "就一場本可避免的悲劇追究責任",
+          "sample": "The family says the lawsuit is simply about seeking accountability for a preventable tragedy."
         },
         {
-          "en": "object to public money funding a specific worldview",
-          "zh": "反對公帑資助特定世界觀",
-          "sample": "Critics object to public money funding a specific worldview they do not share."
+          "en": "reopen a wound that has never fully healed for the family",
+          "zh": "重新揭開這家庭從未真正癒合的傷痛",
+          "sample": "Each new hearing reopens a wound that has never fully healed for the family."
         },
         {
-          "en": "import a foreign festival into the official tourism calendar",
-          "zh": "將外來節日納入官方旅遊日曆",
-          "sample": "The board chose to import a foreign festival into the official tourism calendar this year."
+          "en": "run parallel to an ongoing criminal investigation",
+          "zh": "與仍在進行的刑事調查同步展開",
+          "sample": "The civil suit runs parallel to an ongoing criminal investigation."
         },
         {
-          "en": "dangle a spending threshold to win over costumed visitors",
-          "zh": "以消費門檻吸引扮裝旅客",
-          "sample": "Free tram rides dangle a spending threshold to win over costumed visitors."
+          "en": "shake public confidence in routine medical procedures",
+          "zh": "動搖公眾對日常醫療程序的信心",
+          "sample": "Cases like this can shake public confidence in routine medical procedures."
         },
         {
-          "en": "diversify a city's calendar of tourist draws",
-          "zh": "豐富城市的旅遊節慶組合",
-          "sample": "Officials hope new festivals will diversify the city's calendar of tourist draws."
+          "en": "demand answers that an apology alone cannot provide",
+          "zh": "要求單憑一句道歉無法提供的答案",
+          "sample": "The family says they demand answers that an apology alone cannot provide."
         },
         {
-          "en": "mobilise congregations behind a single cause",
-          "zh": "動員教會會眾支持單一議題",
-          "sample": "Organisers managed to mobilise congregations behind a single cause within days."
+          "en": "highlight the gap between protocol and practice",
+          "zh": "揭示既定程序與實際執行之間的落差",
+          "sample": "The allegations highlight the gap between protocol and practice."
         },
         {
-          "en": "draw a line between private celebration and official promotion",
-          "zh": "劃分私人慶祝與官方推廣的界線",
-          "sample": "The petition tries to draw a line between private celebration and official promotion."
+          "en": "turn private grief into a prolonged legal battle",
+          "zh": "將私人的傷痛轉化為一場漫長的法律爭訟",
+          "sample": "The case has turned private grief into a prolonged legal battle."
         },
         {
-          "en": "cite scripture to oppose a public policy",
-          "zh": "引用經文反對公共政策",
-          "sample": "Several signatories cited scripture to oppose a public policy they viewed as harmful."
+          "en": "test whether an apology can substitute for compensation",
+          "zh": "考驗一句道歉能否取代實質賠償",
+          "sample": "The lawsuit effectively tests whether an apology can substitute for compensation."
         },
         {
-          "en": "repackage nightlife culture as family-friendly tourism",
-          "zh": "將夜生活文化重新包裝為老少咸宜的旅遊活動",
-          "sample": "The campaign repackages nightlife culture as family-friendly tourism for visiting families."
+          "en": "keep a family's search for justice in the public eye",
+          "zh": "令這家庭追求公義的過程持續受公眾關注",
+          "sample": "Media coverage has kept the family's search for justice in the public eye."
         },
         {
-          "en": "gather signatures within days of a campaign's launch",
-          "zh": "在活動推出後數日內收集到聯署簽名",
-          "sample": "The group gathered signatures within days of the campaign's launch."
+          "en": "underscore how quickly a routine procedure can turn fatal",
+          "zh": "凸顯一項常規程序可以何等迅速演變成致命事故",
+          "sample": "The case underscores how quickly a routine procedure can turn fatal."
         },
         {
-          "en": "weigh religious sensitivities against commercial ambitions",
-          "zh": "在宗教顧慮與商業野心之間取得平衡",
-          "sample": "Officials must weigh religious sensitivities against commercial ambitions when picking which festivals to promote."
+          "en": "add legal weight to a family's long-standing allegations",
+          "zh": "為這家庭一直以來的指控增添法律份量",
+          "sample": "The writ adds legal weight to a family's long-standing allegations."
         },
         {
-          "en": "turn a subculture into a headline tourism product",
-          "zh": "將次文化轉化為旗艦旅遊產品",
-          "sample": "The board is trying to turn a subculture into a headline tourism product."
-        }
-      ]
-    },
-    {
-      "source_name": "HKFP",
-      "source_url": "https://hongkongfp.com/2026/10/14/smog-persists-across-hong-kong-on-wed-after-authorities-warn-of-serious-health-risk/",
-      "published_date": "14 October 2026",
-      "headline": "Smog Lingers Over Hong Kong as 'Serious' Health Risk Warning Follows Weak Winds",
-      "category": "env",
-      "summary_html": "<p>Hong Kong's Environmental Protection Department recorded a “serious” rating — the top tier of its <span class=\"bw\">Air Quality Health Index<span class=\"tip\"><span class=\"tip-en\">the government's official scale for communicating how harmful the air is to breathe at a given time and place</span><span class=\"tip-zh\">空氣質素健康指數</span></span></span> — at several monitoring stations from Tuesday afternoon, and unhealthy pollution persisted into Wednesday across large parts of the city. Causeway Bay's Air Quality Index reached 154 on Wednesday morning, a level classified as unhealthy for the general public, while most other districts registered levels rated unhealthy for <span class=\"bw\">sensitive groups<span class=\"tip\"><span class=\"tip-en\">people more likely to suffer harm from a given condition, such as children, the elderly or those with existing heart or lung disease</span><span class=\"tip-zh\">敏感人群</span></span></span> rather than the population as a whole.</p><p>Forecasters attributed the episode to a now-familiar combination: <span class=\"bw\">weak winds<span class=\"tip\"><span class=\"tip-en\">air movement of unusually low speed, which allows pollutants to accumulate instead of dispersing</span><span class=\"tip-zh\">偏弱的風力</span></span></span> settling over the city alongside unusually strong sunshine, conditions that together favour the formation of <span class=\"bw\">photochemical smog<span class=\"tip\"><span class=\"tip-en\">a type of air pollution created when sunlight reacts chemically with existing pollutants to generate ozone and fine particles</span><span class=\"tip-zh\">光化煙霧</span></span></span>. Intense sunlight accelerates the reactions that turn vehicle exhaust and industrial emissions into <span class=\"bw\">ground-level ozone<span class=\"tip\"><span class=\"tip-en\">ozone gas formed near the earth's surface, a key component of smog and harmful to breathe, unlike the protective ozone layer high in the atmosphere</span><span class=\"tip-zh\">地面臭氧</span></span></span> and <span class=\"bw\">fine particulate matter<span class=\"tip\"><span class=\"tip-en\">extremely small airborne particles, often written as PM2.5, that are small enough to penetrate deep into the lungs</span><span class=\"tip-zh\">微細懸浮粒子</span></span></span>, both of which build up fastest across the wider Pearl River Delta when air stagnates in this way.</p><p>The Hong Kong Observatory has forecast some relief, saying a fresh <span class=\"bw\">easterly airstream<span class=\"tip\"><span class=\"tip-en\">a current of air moving in from the east, which can help disperse accumulated pollution</span><span class=\"tip-zh\">偏東氣流</span></span></span> reaching the Guangdong coast later in the week should gradually help clear the haze. Until then, authorities have repeated their now-routine advice: residents with existing respiratory or heart conditions should limit time outdoors, while otherwise healthy Hongkongers are being reminded that repeated episodes like this one are becoming an unwelcome fixture of the city's autumn weather pattern, rather than a rare exception.</p>",
-      "summary_zh_html": "<p>香港環境保護署自週二下午起,在多個監測站錄得<span class=\"bwz\">空氣質素健康指數</span>「嚴重」級別的讀數,而不健康的污染水平一直持續至週三,影響本港大部分地區。銅鑼灣的空氣質素指數週三早上錄得154,屬對整體市民「不健康」的級別,而其他大部分地區的污染水平則被評為對<span class=\"bwz\">敏感人群</span>「不健康」,未及影響全體市民的程度。</p><p>預報人員將此次事件歸咎於一個現已頗為熟悉的組合:<span class=\"bwz\">偏弱的風力</span>籠罩全市,同時陽光異常猛烈,兩者結合正正有利於<span class=\"bwz\">光化煙霧</span>的形成。強烈日照會加速化學反應,將車輛廢氣及工業排放物轉化為<span class=\"bwz\">地面臭氧</span>及<span class=\"bwz\">微細懸浮粒子</span>,而當空氣像現時般停滯不動時,兩者在整個珠江三角洲地區的累積速度都會特別快。</p><p>香港天文台預測情況將有所緩和,指一股清新的<span class=\"bwz\">偏東氣流</span>將於本週稍後抵達廣東沿岸,有助逐步驅散煙霞。在此之前,當局重複了近乎例行的建議:已患有呼吸系統或心臟疾病的居民應減少戶外活動時間,而身體健康的市民則被提醒,類似事件一再出現,已逐漸成為本港秋季天氣中一個令人不快的常見現象,而非罕見例外。</p>",
-      "image_scene": "A hazy, grey-brown skyline of Hong Kong Island viewed across the harbour at midday, tall buildings fading into smog with the sun a dim glow overhead; a few anonymous pedestrians wearing face masks walking along a promenade, no text, signs or logos visible.",
-      "cover_text": {
-        "zh_kicker": "煙霞籠罩",
-        "zh_title": [
-          "煙霞連日",
-          "健康風險嚴重"
-        ],
-        "zh_hl": "嚴重",
-        "zh_sub": "銅鑼灣空氣指數達154",
-        "en": "Serious air pollution lingers across Hong Kong this week"
-      },
-      "vocab": [
-        {
-          "phrase": "Air Quality Health Index",
-          "zh": "空氣質素健康指數",
-          "sample": "The Air Quality Health Index reached its top category on Tuesday afternoon."
+          "en": "scrutinise whether hospital safeguards failed a vulnerable child",
+          "zh": "審視醫院的保障措施有否未能保護一名脆弱的孩子",
+          "sample": "The court will scrutinise whether hospital safeguards failed a vulnerable child."
         },
         {
-          "phrase": "monitoring station",
-          "zh": "監測站",
-          "sample": "Several monitoring stations recorded unhealthy readings at the same time."
+          "en": "prolong a grieving family's wait for closure",
+          "zh": "延長一個傷心家庭等待事件終結的時間",
+          "sample": "Parallel legal processes may prolong a grieving family's wait for closure."
         },
         {
-          "phrase": "haze",
-          "zh": "煙霞",
-          "sample": "Thick haze reduced visibility across the harbour for much of the day."
+          "en": "put the burden of proof back on the authorities",
+          "zh": "將舉證責任重新放回當局身上",
+          "sample": "A civil suit puts the burden of proof back on the authorities."
         },
         {
-          "phrase": "ozone",
-          "zh": "臭氧",
-          "sample": "Ozone levels tend to rise on days with strong sunshine and little wind."
-        },
-        {
-          "phrase": "PM2.5",
-          "zh": "微細懸浮粒子",
-          "sample": "PM2.5 readings stayed high throughout the episode."
-        },
-        {
-          "phrase": "respiratory illness",
-          "zh": "呼吸系統疾病",
-          "sample": "People with respiratory illness were advised to stay indoors."
-        },
-        {
-          "phrase": "Pearl River Delta",
-          "zh": "珠江三角洲",
-          "sample": "Pollution across the Pearl River Delta tends to rise and fall together."
-        },
-        {
-          "phrase": "stagnant air",
-          "zh": "滯留空氣",
-          "sample": "Stagnant air allowed pollutants to build up over several days."
-        },
-        {
-          "phrase": "air quality reading",
-          "zh": "空氣質素讀數",
-          "sample": "The air quality reading climbed steadily throughout Tuesday afternoon."
-        },
-        {
-          "phrase": "emission",
-          "zh": "排放物",
-          "sample": "Vehicle emissions are one of the main local sources of pollution."
-        },
-        {
-          "phrase": "weather forecast",
-          "zh": "天氣預報",
-          "sample": "The weather forecast suggested conditions would improve by the weekend."
-        },
-        {
-          "phrase": "health advisory",
-          "zh": "健康提示",
-          "sample": "The department issued a health advisory urging caution outdoors."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "trap pollutants close to the ground",
-          "zh": "將污染物困在近地面",
-          "sample": "Weak winds trap pollutants close to the ground instead of letting them disperse."
-        },
-        {
-          "en": "accelerate a chemical reaction that forms smog",
-          "zh": "加速形成煙霧的化學反應",
-          "sample": "Strong sunlight accelerates the chemical reaction that forms smog over the region."
-        },
-        {
-          "en": "push an index into the 'serious' category",
-          "zh": "將指數推高至「嚴重」級別",
-          "sample": "Weak winds pushed the index into the 'serious' category for the first time this month."
-        },
-        {
-          "en": "settle over a region without dispersing",
-          "zh": "停滯於一個地區而不散開",
-          "sample": "Pollutants settled over the Pearl River Delta without dispersing for two days."
-        },
-        {
-          "en": "advise vulnerable residents to limit outdoor activity",
-          "zh": "建議易受影響的居民減少戶外活動",
-          "sample": "Health officials advised vulnerable residents to limit outdoor activity during the episode."
-        },
-        {
-          "en": "treat a pollution spike as part of a seasonal pattern",
-          "zh": "將污染高峰視為季節性模式的一部分",
-          "sample": "Meteorologists now treat this pollution spike as part of a seasonal pattern rather than a one-off."
-        },
-        {
-          "en": "rely on an incoming airstream to clear the air",
-          "zh": "依靠新一股氣流吹散污染",
-          "sample": "The city is relying on an incoming airstream to clear the air later this week."
-        },
-        {
-          "en": "link vehicle exhaust to ground-level ozone formation",
-          "zh": "將車輛廢氣與地面臭氧的形成聯繫起來",
-          "sample": "Scientists link vehicle exhaust directly to ground-level ozone formation on still, sunny days."
-        },
-        {
-          "en": "stretch a pollution episode across several administrative boundaries",
-          "zh": "令污染事件橫跨多個行政界線",
-          "sample": "The haze stretched the pollution episode across several administrative boundaries in the region."
-        },
-        {
-          "en": "downplay a warning as merely routine",
-          "zh": "將警示淡化為例行公事",
-          "sample": "Some residents downplay the warning as merely routine, despite repeated serious readings."
-        },
-        {
-          "en": "measure risk differently for different groups of people",
-          "zh": "為不同群組分別衡量風險程度",
-          "sample": "The index measures risk differently for different groups of people, from children to healthy adults."
-        },
-        {
-          "en": "blame stagnant air rather than any single polluter",
-          "zh": "歸咎於滯留的空氣而非單一污染源",
-          "sample": "Officials blamed stagnant air rather than any single polluter for the latest spike."
+          "en": "renew public debate over paediatric care standards",
+          "zh": "重新引發有關兒科護理水平的公眾討論",
+          "sample": "The case has renewed public debate over paediatric care standards."
         }
       ]
     }
@@ -581,28 +641,28 @@
   "trends": [
     {
       "platforms": [
-        "facebook",
-        "x"
+        "threads",
+        "ig"
       ],
-      "headline": "🍺 Viral Video of Girl Carrying Beer Cans Sparks Debate on Child Welfare and Online Shaming",
-      "summary_html": "<p>A video showing a child struggling to carry two bulging bags of canned beer through a Tuen Mun housing estate has become one of the most discussed clips on Hong Kong social media this month, after it was shared on Facebook and quickly reposted across other platforms. Viewers who could not identify the child by name nonetheless debated her situation at length, and within days police had arrested her parents on suspicion of ill-treatment, with the case referred to a dedicated child abuse investigation unit.</p><p>The family's own explanation — that the exercise was meant to build the ten-year-old's muscles and improve her coordination — did little to settle the argument. If anything, it opened a second front: once commentators learned the household receives welfare support, attention shifted from the girl's wellbeing to scrutiny of her parents' spending, turning a child-protection case into a wider, more uncomfortable conversation about poverty, judgement and how much the public is entitled to know about a stranger's home life before a single video goes viral.</p>",
-      "summary_zh_html": "<p>一段片段顯示,一名女童在屯門一個公共屋邨內,艱難地拖着兩大袋脹鼓鼓的罐裝啤酒前行,片段在Facebook上載後迅速被轉發至其他平台,成為本月香港社交媒體上最熱門的討論話題之一。即使未能知悉女童的姓名,網民仍就其處境爭論不休;數日之內,警方以涉嫌對女童疏忽照顧或虐待拘捕其父母,案件已轉交專責的虐待兒童調查組跟進。</p><p>一家人的解釋——指該安排旨在幫助這名十歲女童訓練肌肉及改善協調能力——未能平息爭議,反而掀起另一輪討論:當網民得悉該家庭正領取社會福利援助後,輿論焦點便由女童的福祉,轉移至其父母的消費方式,一宗兒童保護事件,因而演變成一場更廣泛、亦更令人不安的對話,探討貧窮、社會評判,以及公眾在一段影片爆紅之前,究竟有多大「權利」去窺探陌生人的家庭生活。</p>",
+      "headline": "😡📱 Viral 'Family Discipline' Alley Beating Clip Ignites Vigilante Justice Debate",
+      "summary_html": "<p>A short video showing a teenager being knocked to the ground and repeatedly slapped in a Hong Kong alley, while three bystanders stood by and did nothing, has become one of the most argued-over clips on local social media this week. The man seen attacking the teenager wore a cap and struck him both with an open hand and on the head, all while shouting at him; the person who uploaded the footage gave no account of when or where it happened, captioning it only as ‘time for family discipline’ — language that immediately split opinion between viewers who assumed it showed a parent disciplining a wayward child and those who saw nothing but an unprovoked assault dressed up in more acceptable-sounding words.</p><p>The ambiguity is precisely what has kept the clip circulating. Commenters have pressed the uploader to explain who the attacker was and whether anyone had reported the incident to police, while others have pointed out that filming and sharing an assault, rather than intervening or calling for help, risks turning real violence into entertainment. With neither the people involved nor the exact circumstances ever confirmed, the clip has become less a single verified incident than a mirror for whatever assumptions viewers already hold about discipline, masculinity and family authority in Hong Kong.</p>",
+      "summary_zh_html": "<p>一段片段顯示,一名少年在香港一條後巷內被推倒在地並遭多次掌摑,三名途人在場卻無人阻止,片段近日在本地社交媒體上引起熾熱爭論。片中一名戴着帽子的男子衝向少年,用手掌及拳頭擊打其頭部,同時高聲喝罵;上載片段者並未透露事發的時間或地點,僅以「教仔」(家庭教訓)作為描述——這種說法,立即令網民意見兩極:有人假設片中情景只是家長教訓頑劣子女,亦有人則認為,這純粹是一宗以較「順耳」字眼包裝的無故襲擊事件。</p><p>正是這種模糊性,令片段持續被轉發。有網民追問上載者,片中施襲者的身份,以及事件有否已經報警;另有網民則指出,目擊襲擊卻只顧拍片上載、而非上前阻止或求助,恐會令真實的暴力行為淪為娛樂內容。由於片中人物身份及事發經過始終未獲證實,這段片段與其說是一宗經核實的單一事件,倒更似一塊鏡子,映照出香港社會對「教養」、「男子氣概」與「家長權威」各自既有的假設與想像。</p>",
       "causes": [
         {
-          "label": "Filming a child without consent before judging the parents",
-          "text": "Before any welfare concern was raised, a stranger's camera turned a struggling child into unwitting content, letting millions scrutinise her face and home life without consent. A Paper 2 essay could ask whether online justice depends on first violating the very child it claims to protect, and whether platforms should restrict footage identifying minors altogether."
+          "label": "Filming an assault instead of stopping it",
+          "text": "Three onlookers watched the beating unfold yet none intervened or called for help; the footage exists only because someone chose to film rather than act. A Paper 2 essay could ask whether smartphones have quietly replaced a moral duty to help a stranger with a reflex to document them instead, and what that substitution costs a community."
         },
         {
-          "label": "CSSA scrutiny turning poverty into public spectacle",
-          "text": "Once commentators learned the family received welfare payments, debate shifted from the girl's safety to whether poor parents deserve public sympathy at all, with some accusing them of squandering aid on beer. A student could argue this reveals a harsher standard applied to low-income families than to wealthier ones caught in similar disputes."
+          "label": "'Family discipline' as a euphemism that reframes violence",
+          "text": "Calling the beating 'family discipline' let the uploader present unverified, uncontextualised violence as something socially acceptable, without ever confirming who the people involved were. Students could explore how a single caption can steer thousands of viewers toward forgiving, or even endorsing, an act they would otherwise condemn, and why audiences rarely demand evidence before reacting."
         },
         {
-          "label": "Child protection reporting thresholds under the spotlight",
-          "text": "The case only reached a formal child abuse unit after a video had already spread online, raising the question of how many similar situations go unreported without viral exposure. A writer could examine whether Hong Kong's current thresholds for intervention rely too heavily on public visibility rather than routine welfare checks."
+          "label": "Calling it discipline doesn't exempt it from assault law",
+          "text": "However the clip was captioned, repeatedly striking a minor's head in public meets the legal threshold for assault, regardless of any claimed disciplinary motive. An essay could examine why online audiences debated the footage for days while seemingly few considered reporting it, and what that says about public reliance on formal authorities."
         },
         {
-          "label": "Counter-argument: viral outrage as a crude stand-in for child-welfare law",
-          "text": "A student could push back against treating the backlash itself as a victory, arguing that a short clip cannot capture years of context a social worker would assess, and that trial-by-comment-section risks punishing parents based on appearances rather than evidence, while leaving the underlying welfare system no better equipped for the next case."
+          "label": "Counter-argument: online outrage can misfire and punish the wrong person",
+          "text": "Without confirmed identities, a wave of comments demanding the attacker be named risks misdirecting anger at an innocent bystander wrongly assumed to be him, a pattern seen in past Hong Kong cases of mistaken online identification. A sharper essay might argue that collective fury, however well-intentioned, is a poor substitute for a verified police investigation and due process."
         }
       ]
     }

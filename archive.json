@@ -23287,6 +23287,605 @@
    ],
    "date": "2026-10-23",
    "id": "a80df78d0"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/magazines/style/luxury/luxury-news/article/3371881/style-edit-hermes-brings-its-history-stage-hong-kongs-west-kowloon",
+   "published_date": "23 October 2026",
+   "headline": "Hermès Turns West Kowloon Freespace into Free Stage for 140-Year House Story",
+   "category": "arts",
+   "summary_html": "<p>French luxury house Hermès has turned the Freespace <span class=\"bw\">black-box theatre<span class=\"tip\"><span class=\"tip-en\">a simple, flexible performance space with plain walls, used for experimental staging</span><span class=\"tip-zh\">黑盒劇場（簡約多用途表演場地）</span></span></span> at the West Kowloon Cultural District into a free venue for <span class=\"bw\">heritage storytelling<span class=\"tip\"><span class=\"tip-en\">using history and tradition as the basis of a narrative to inform or persuade an audience</span><span class=\"tip-zh\">以傳統歷史為題材的敘事</span></span></span>, staging a short play about its own 140-year history alongside a standalone exhibition of archival objects. Running from 24 October to 8 November, the production, “Hermèstories”, was written by Pauline Bayle and directed by Joe Hufton under the house's corporate foundation, and forms part of a wider pattern of <span class=\"bw\">corporate patronage<span class=\"tip\"><span class=\"tip-en\">support, especially financial, given by a company to the arts or another cause</span><span class=\"tip-zh\">企業贊助文化活動</span></span></span> of public cultural venues in Hong Kong.</p><p>Suitable for audiences aged seven and above, the roughly 50-minute performance traces the maison's origins as a saddlery and its <span class=\"bw\">craftsmanship heritage<span class=\"tip\"><span class=\"tip-en\">a legacy of skilled, traditional methods of making things by hand</span><span class=\"tip-zh\">工藝傳承</span></span></span> in leatherwork, while the accompanying exhibition can be visited independently during the day. Admission is free, though organisers recommend <span class=\"bw\">advance booking<span class=\"tip\"><span class=\"tip-en\">the act of reserving a place or ticket before the day of the event</span><span class=\"tip-zh\">預先訂座</span></span></span> given limited seating, with walk-in visitors admitted only when places remain. The project is not staged on 26 October or 2 November, when Freespace reverts to its usual public programming.</p><p>The collaboration illustrates the growing use of <span class=\"bw\">cultural placemaking<span class=\"tip\"><span class=\"tip-en\">the use of arts and cultural activity to shape the character and identity of a public space</span><span class=\"tip-zh\">以文化活動塑造地方特色</span></span></span> by international brands seeking to deepen their presence in the <span class=\"bw\">flagship cultural district<span class=\"tip\"><span class=\"tip-en\">the principal, most prominent cultural zone representing a city's cultural ambitions</span><span class=\"tip-zh\">旗艦文化區</span></span></span>, raising a familiar question for commentators: whether such sponsored programming genuinely enriches the public's access to the arts or risks <span class=\"bw\">blurring the distinction between commerce and culture<span class=\"tip\"><span class=\"tip-en\">making the difference between business promotion and genuine cultural activity less clear</span><span class=\"tip-zh\">模糊商業與文化的分界</span></span></span>. For many Hong Kong families, however, free admission lowers a financial barrier that commercial galleries and ticketed exhibitions elsewhere in the district do not.</p>",
+   "summary_zh_html": "<p>法國奢侈品牌愛馬仕將西九文化區的自由空間<span class=\"bwz\">黑盒劇場</span>變成免費場地，透過<span class=\"bwz\">以傳統歷史為題材的敘事</span>方式，上演一個關於品牌一百四十年歷史的短劇，並同場設有獨立的典藏品展覽。製作名為《愛馬仕故事》（Hermèstories），由十月二十四日至十一月八日舉行，劇本由寶琳·貝爾（Pauline Bayle）撰寫，祖·赫夫頓（Joe Hufton）執導，由品牌企業基金會主辦，屬<span class=\"bwz\">企業贊助文化活動</span>的最新例子，反映此類合作在香港日益普遍。</p><p>這套約五十分鐘的演出適合七歲或以上觀眾，追溯品牌由馬具工場起家、以及皮革製作的<span class=\"bwz\">工藝傳承</span>；附設展覽則可於日間獨立參觀，無須觀看演出。活動免費入場，但主辦方建議觀眾<span class=\"bwz\">預先訂座</span>，因座位有限，現場候補名額視乎剩餘座位而定。十月二十六日及十一月二日休演，期間自由空間將回復一般公眾節目。</p><p>這次合作反映國際品牌日益透過<span class=\"bwz\">以文化活動塑造地方特色</span>手法，加深其在這個<span class=\"bwz\">旗艦文化區</span>的存在感，亦引來論者慣常提出的疑問：這類由品牌贊助的節目，究竟是真正拓寬大眾接觸藝術的機會，還是有<span class=\"bwz\">模糊商業與文化的分界</span>之虞。然而對不少香港家庭而言，免費入場畢竟消除了區內其他商業畫廊及收費展覽所設下的經濟門檻。</p>",
+   "image_scene": "Inside a minimalist white theatre pavilion at West Kowloon's waterfront Freespace, a small seated audience of anonymous adults and children watches two performers acting out a scene among vintage leather saddles and travel trunks displayed on pedestals; floor-to-ceiling glass doors behind them reveal Victoria Harbour and the Hong Kong Island skyline at dusk.",
+   "cover_text": {
+    "zh_kicker": "西九藝術",
+    "zh_title": [
+     "愛馬仕開騷",
+     "免費入場"
+    ],
+    "zh_hl": "免費",
+    "zh_sub": "免費展演至11.8",
+    "en": "Hermès brings free heritage theatre and exhibition to West Kowloon"
+   },
+   "vocab": [
+    {
+     "phrase": "heritage storytelling",
+     "zh": "歷史敘事",
+     "sample": "By combining heritage storytelling with live performance, the brand invited visitors to experience its history rather than simply read about it."
+    },
+    {
+     "phrase": "corporate patronage",
+     "zh": "企業贊助",
+     "sample": "Corporate patronage of public cultural venues has become increasingly common as brands seek goodwill among local audiences."
+    },
+    {
+     "phrase": "black-box theatre",
+     "zh": "黑盒劇場",
+     "sample": "The black-box theatre's bare walls allowed the designers to transform the space into a workshop scene within minutes."
+    },
+    {
+     "phrase": "craftsmanship heritage",
+     "zh": "工藝傳承",
+     "sample": "The exhibition celebrated the maison's craftsmanship heritage, tracing each stitch back to techniques used over a century ago."
+    },
+    {
+     "phrase": "advance booking",
+     "zh": "預先訂座",
+     "sample": "Visitors were advised to make an advance booking, as free tickets to the limited sessions were expected to run out quickly."
+    },
+    {
+     "phrase": "cultural placemaking",
+     "zh": "文化場域塑造",
+     "sample": "Cultural placemaking projects like this one aim to give a waterfront district a distinct artistic identity."
+    },
+    {
+     "phrase": "flagship cultural district",
+     "zh": "旗艦文化區",
+     "sample": "As Hong Kong's flagship cultural district, West Kowloon has become a magnet for international brands seeking visibility."
+    },
+    {
+     "phrase": "brand-sponsored programming",
+     "zh": "品牌贊助節目",
+     "sample": "Some critics worry that brand-sponsored programming could gradually crowd out independent local productions."
+    },
+    {
+     "phrase": "archival exhibition",
+     "zh": "典藏展覽",
+     "sample": "The archival exhibition displayed objects spanning the company's entire history, from its earliest workshop tools to recent designs."
+    },
+    {
+     "phrase": "immersive performance",
+     "zh": "沉浸式演出",
+     "sample": "The immersive performance placed the audience among the props, making them feel part of the unfolding story."
+    },
+    {
+     "phrase": "public access to the arts",
+     "zh": "大眾接觸藝術的機會",
+     "sample": "Free admission widened public access to the arts for families who might otherwise avoid ticketed exhibitions."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "lower the financial threshold for cultural participation",
+     "zh": "降低參與文化活動的經濟門檻",
+     "sample": "Free admission lowers the financial threshold for cultural participation, letting low-income families enjoy exhibitions they might otherwise skip."
+    },
+    {
+     "en": "blur the line between commerce and culture",
+     "zh": "模糊商業與文化的分界",
+     "sample": "When a fashion house stages its own theatre production, it inevitably blurs the line between commerce and culture."
+    },
+    {
+     "en": "lend prestige to a public venue",
+     "zh": "為公共場地增添聲望",
+     "sample": "Hosting an internationally recognised brand can lend prestige to a public venue still building its reputation."
+    },
+    {
+     "en": "serve as a stage for brand storytelling",
+     "zh": "成為品牌敘事的舞台",
+     "sample": "The theatre came to serve as a stage for brand storytelling rather than purely independent artistic expression."
+    },
+    {
+     "en": "deepen a brand's cultural footprint",
+     "zh": "加深品牌的文化足跡",
+     "sample": "Sponsoring exhibitions abroad helps a luxury house deepen its cultural footprint in markets it wishes to grow."
+    },
+    {
+     "en": "risk crowding out homegrown productions",
+     "zh": "有可能排擠本地製作",
+     "sample": "Critics warn that an influx of brand-funded shows could risk crowding out homegrown productions competing for the same venues."
+    },
+    {
+     "en": "broaden access to the arts regardless of income",
+     "zh": "不論收入高低都能擴闊藝術的接觸面",
+     "sample": "Free, ticketless events broaden access to the arts regardless of income, which ticketed museum shows rarely manage."
+    },
+    {
+     "en": "strike a balance between commercial interest and artistic integrity",
+     "zh": "在商業利益與藝術本質之間取得平衡",
+     "sample": "Programmers must strike a balance between commercial interest and artistic integrity when accepting brand sponsorship."
+    },
+    {
+     "en": "capitalise on the prestige of a world-class venue",
+     "zh": "利用世界級場地的聲望",
+     "sample": "Luxury brands often capitalise on the prestige of a world-class venue to reach audiences who might never enter their stores."
+    },
+    {
+     "en": "raise the profile of a cultural district",
+     "zh": "提升文化區的知名度",
+     "sample": "High-profile brand events can raise the profile of a cultural district among international visitors."
+    },
+    {
+     "en": "turn a public space into an extension of marketing",
+     "zh": "將公共空間變成市場推廣的延伸",
+     "sample": "Sceptics argue that such partnerships turn a public space into an extension of marketing rather than a neutral cultural platform."
+    },
+    {
+     "en": "root a modern campaign in a company's own history",
+     "zh": "將現代宣傳扣連企業自身歷史",
+     "sample": "The play roots a modern marketing campaign in the company's own history, giving it an air of authenticity."
+    },
+    {
+     "en": "invite the public to experience heritage firsthand",
+     "zh": "邀請大眾親身體驗傳統",
+     "sample": "Rather than simply displaying objects, the exhibition invites the public to experience heritage firsthand through performance."
+    }
+   ],
+   "date": "2026-10-24",
+   "id": "a19bce6f7"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/finance/article/346114/John-Lee-meets-Chinas-finance-minister-after-APEC-meeting-in-Hong-Kong",
+   "published_date": "22 October 2026",
+   "headline": "Hong Kong Hosts APEC Finance Chiefs for First Time as Lee Pitches City as 'Super Connector'",
+   "category": "global",
+   "summary_html": "<p>Hong Kong this week hosted the APEC Finance Ministers' Meeting for the first time, bringing finance chiefs from across the Asia-Pacific to the city as part of the broader APEC China 2026 calendar ahead of next month's APEC Economic Leaders' Meeting in Shenzhen. Addressing the gathering, Chief Executive John Lee Ka-chiu described Hong Kong as a <span class=\"bw\">super connector<span class=\"tip\"><span class=\"tip-en\">a place that links different economies or systems together, facilitating flows of trade, capital and people</span><span class=\"tip-zh\">超級聯繫人</span></span></span> and “super value-adder” between the Chinese mainland and the rest of the world, pointing to the city's <span class=\"bw\">common-law system<span class=\"tip\"><span class=\"tip-en\">a legal system based on judicial precedent and case law rather than solely on statutes</span><span class=\"tip-zh\">普通法制度</span></span></span>, low taxes and zero tariffs as evidence of its continued relevance as an international <span class=\"bw\">financial hub<span class=\"tip\"><span class=\"tip-en\">a city that serves as a major centre for banking, investment and other financial services</span><span class=\"tip-zh\">金融中心</span></span></span>.</p><p>The two-day <span class=\"bw\">ministerial-level meeting<span class=\"tip\"><span class=\"tip-en\">a formal gathering attended by government ministers rather than lower-ranking officials</span><span class=\"tip-zh\">部長級會議</span></span></span> concluded on Wednesday with the release of the 2026 APEC Finance Ministers' <span class=\"bw\">joint statement<span class=\"tip\"><span class=\"tip-en\">an official declaration issued and agreed upon by multiple parties</span><span class=\"tip-zh\">聯合聲明</span></span></span>, in which members pledged closer cooperation on economic resilience amid wider global uncertainty, though it offered few new specifics. After the formal session, Lee and senior officials met the mainland's finance minister, Lan Fo'an, at Government House to exchange views on the economic and financial development of the mainland and Hong Kong.</p><p>Speaking separately, Financial Secretary Paul Chan struck a more cautious tone, warning that the global economy's resilience remained uneven and that the outlook carried significant <span class=\"bw\">downside risk<span class=\"tip\"><span class=\"tip-en\">the possibility that an economic outcome will turn out worse than expected</span><span class=\"tip-zh\">下行風險</span></span></span>, driven by persistent <span class=\"bw\">geopolitical tensions<span class=\"tip\"><span class=\"tip-en\">strained relations between countries or regions arising from political, strategic or territorial disputes</span><span class=\"tip-zh\">地緣政治緊張局勢</span></span></span> and continuing <span class=\"bw\">trade uncertainty<span class=\"tip\"><span class=\"tip-en\">a lack of predictability about the future rules, tariffs or flows of international trade</span><span class=\"tip-zh\">貿易前景不確定性</span></span></span>. His remarks underscored the balancing act facing Hong Kong: showcasing itself as an open, rules-based financial centre at a summit built around a freshly signed joint statement, while navigating a global order increasingly shaped by great-power rivalry rather than multilateral consensus.</p>",
+   "summary_zh_html": "<p>香港本週首次主辦亞太經合組織（APEC）財長會議，吸引區內多國財金首長來港出席，是「APEC中國2026」系列活動之一，為下月在深圳舉行的APEC經濟領袖會議作準備。行政長官李家超在會上致辭，形容香港是中國內地與世界之間的<span class=\"bwz\">超級聯繫人</span>，亦是「超級增值人」，並指出本港的<span class=\"bwz\">普通法制度</span>、低稅率及零關稅，正正體現香港作為國際<span class=\"bwz\">金融中心</span>的持續價值。</p><p>這場為期兩天的<span class=\"bwz\">部長級會議</span>於星期三閉幕，並發表二零二六年APEC財長<span class=\"bwz\">聯合聲明</span>，各成員承諾在環球局勢不穩下加強經濟韌性方面的合作，但聲明內容未見太多新猶。會議結束後，李家超與一眾高級官員在禮賓府會見國家財政部部長藍佛安，就內地與香港的經濟金融發展交換意見。</p><p>財政司司長陳茂波則語氣較為謹慎，他表示環球經濟的韌力參差不齊，前景的<span class=\"bwz\">下行風險</span>較大，原因是<span class=\"bwz\">地緣政治緊張局勢</span>持續，加上<span class=\"bwz\">貿易前景不確定性</span>未見緩和。他的言論反映香港所面對的兩難：一方面要在簽署聯合聲明的峰會上，展現自己作為開放、具規則基礎的金融中心的形象；另一方面則要在一個日益由大國競逐、而非多邊共識主導的國際秩序中尋找定位。</p>",
+   "image_scene": "Inside a grand conference hall overlooking Victoria Harbour, rows of anonymous delegates in business suits sit behind nameplate-free desks arranged in a horseshoe, interpreters' booths visible along one wall; through floor-to-ceiling windows, container ships and the Hong Kong Island skyline are visible under a hazy afternoon sky, large screens at the front showing abstract graphics.",
+   "cover_text": {
+    "zh_kicker": "香港揸旗",
+    "zh_title": [
+     "自稱超級聯繫人",
+     "APEC財長訪港"
+    ],
+    "zh_hl": "超級聯繫人",
+    "zh_sub": "陳茂波警告下行風險",
+    "en": "Hong Kong hosts APEC finance ministers as 'super connector'"
+   },
+   "vocab": [
+    {
+     "phrase": "super connector",
+     "zh": "超級聯繫人",
+     "sample": "Officials repeatedly called Hong Kong a super connector, linking mainland capital with international investors."
+    },
+    {
+     "phrase": "offshore financial centre",
+     "zh": "離岸金融中心",
+     "sample": "As an offshore financial centre, Hong Kong lets mainland and international investors trade outside the mainland's capital controls."
+    },
+    {
+     "phrase": "common-law system",
+     "zh": "普通法制度",
+     "sample": "Hong Kong's common-law system, inherited from its colonial past, continues to reassure foreign investors."
+    },
+    {
+     "phrase": "ministerial-level meeting",
+     "zh": "部長級會議",
+     "sample": "A ministerial-level meeting carries more diplomatic weight than a gathering of mid-ranking officials."
+    },
+    {
+     "phrase": "joint statement",
+     "zh": "聯合聲明",
+     "sample": "The joint statement was carefully worded to avoid singling out any one member economy."
+    },
+    {
+     "phrase": "downside risk",
+     "zh": "下行風險",
+     "sample": "Analysts flagged downside risk to growth forecasts as trade tensions dragged on."
+    },
+    {
+     "phrase": "regional power rivalry",
+     "zh": "地區大國角力",
+     "sample": "Analysts said regional power rivalry made it harder for mid-sized economies to remain neutral."
+    },
+    {
+     "phrase": "trade uncertainty",
+     "zh": "貿易前景不確定性",
+     "sample": "Persistent trade uncertainty has discouraged some firms from committing to long-term investment."
+    },
+    {
+     "phrase": "multilateral cooperation",
+     "zh": "多邊合作",
+     "sample": "The joint statement called for greater multilateral cooperation to withstand future economic shocks."
+    },
+    {
+     "phrase": "rules-based system",
+     "zh": "具規則基礎的制度",
+     "sample": "Hong Kong markets itself as part of a rules-based system that gives investors legal certainty."
+    },
+    {
+     "phrase": "diplomatic weight",
+     "zh": "外交分量",
+     "sample": "Hosting a ministerial summit adds diplomatic weight to a city's claim to global relevance."
+    },
+    {
+     "phrase": "value-adder",
+     "zh": "增值角色",
+     "sample": "Lee described Hong Kong not just as a connector but as a value-adder within the Chinese economy."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "position itself as a bridge between East and West",
+     "zh": "將自己定位為東西方之間的橋樑",
+     "sample": "Hong Kong has long sought to position itself as a bridge between East and West in global finance."
+    },
+    {
+     "en": "navigate a fracturing global order",
+     "zh": "在日趨分裂的國際秩序中尋找出路",
+     "sample": "Smaller economies must learn to navigate a fracturing global order shaped by rival blocs."
+    },
+    {
+     "en": "hedge against the risk of over-reliance on a single market",
+     "zh": "規避過度依賴單一市場的風險",
+     "sample": "Diversifying trading partners helps a city hedge against the risk of over-reliance on a single market."
+    },
+    {
+     "en": "reassure investors of regulatory stability",
+     "zh": "向投資者保證監管環境穩定",
+     "sample": "Officials sought to reassure investors of regulatory stability despite shifting global trade rules."
+    },
+    {
+     "en": "leverage its unique constitutional status",
+     "zh": "利用其獨特的憲制地位",
+     "sample": "The city continues to leverage its unique constitutional status to attract capital unavailable to purely mainland markets."
+    },
+    {
+     "en": "weather a turbulent external environment",
+     "zh": "應對動盪的外圍環境",
+     "sample": "Smaller trading economies must find ways to weather a turbulent external environment without sacrificing growth."
+    },
+    {
+     "en": "shoulder a disproportionate share of geopolitical risk",
+     "zh": "承受不成比例的地緣政治風險",
+     "sample": "As a trade-dependent economy, Hong Kong shoulders a disproportionate share of geopolitical risk."
+    },
+    {
+     "en": "cement its credentials as an international venue",
+     "zh": "鞏固其作為國際場地的地位",
+     "sample": "Hosting high-profile summits helps a city cement its credentials as an international venue for diplomacy."
+    },
+    {
+     "en": "signal continuity amid political uncertainty",
+     "zh": "在政治不確定下顯示延續性",
+     "sample": "Officials used the summit to signal continuity amid political uncertainty surrounding the city's future."
+    },
+    {
+     "en": "translate diplomatic access into economic opportunity",
+     "zh": "將外交渠道轉化為經濟機遇",
+     "sample": "Analysts questioned whether Hong Kong could translate diplomatic access into economic opportunity for ordinary businesses."
+    },
+    {
+     "en": "temper optimism with caution over external headwinds",
+     "zh": "在樂觀情緒中加入對外圍逆風的謹慎",
+     "sample": "Even as leaders celebrated the summit, finance officials tempered optimism with caution over external headwinds."
+    },
+    {
+     "en": "avoid being caught between rival powers",
+     "zh": "避免被捲入大國之間的角力",
+     "sample": "Trade-dependent cities often struggle to avoid being caught between rival powers competing for influence."
+    },
+    {
+     "en": "underscore its relevance on the world stage",
+     "zh": "彰顯其在國際舞台上的重要性",
+     "sample": "The summit was meant to underscore Hong Kong's relevance on the world stage despite years of political upheaval."
+    }
+   ],
+   "date": "2026-10-24",
+   "id": "aa31c52d3"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/346321/Two-arrested-after-11-year-old-girls-viral-plea-for-help-exposes-alleged-child-abuse-in-Wong-Tai-Sin",
+   "published_date": "23 October 2026",
+   "headline": "Viral Video of Girl, 11, Pleading for Help Sparks Child Abuse Probe in Wong Tai Sin",
+   "category": "social",
+   "summary_html": "<p>A disturbing video of an 11-year-old girl tearfully <span class=\"bw\">pleading for help<span class=\"tip\"><span class=\"tip-en\">asking urgently and emotionally for assistance</span><span class=\"tip-zh\">哭著求助</span></span></span> while being scolded by family members in Wong Tai Sin <span class=\"bw\">went viral<span class=\"tip\"><span class=\"tip-en\">spread rapidly online as many people shared it</span><span class=\"tip-zh\">在網上瘋傳</span></span></span> on social media this week, prompting police and welfare officials to open an investigation into suspected child abuse. According to local reports, the footage, which circulated widely on Thursday, showed the girl, who has <span class=\"bw\">special educational needs<span class=\"tip\"><span class=\"tip-en\">additional learning support requirements arising from a disability or learning difficulty</span><span class=\"tip-zh\">特殊教育需要</span></span></span>, visibly distressed inside a flat, with an older male relative also appearing in one of the clips.</p><p>Police subsequently arrested the girl's 61-year-old grandmother and a 43-year-old domestic helper on suspicion of <span class=\"bw\">ill-treatment or neglect<span class=\"tip\"><span class=\"tip-en\">causing harm to a child, or failing to care for them properly</span><span class=\"tip-zh\">虐待或忽視</span></span></span> of a child, and both remain <span class=\"bw\">held for questioning<span class=\"tip\"><span class=\"tip-en\">kept in custody while investigators gather information about a case</span><span class=\"tip-zh\">扣留調查</span></span></span> as investigators piece together what happened inside the household. The child was first taken to Queen Elizabeth Hospital and later transferred to the Hong Kong Children's Hospital for further assessment, where doctors reportedly found <span class=\"bw\">redness and swelling<span class=\"tip\"><span class=\"tip-en\">visible marks on the skin indicating recent injury or rough handling</span><span class=\"tip-zh\">紅腫</span></span></span> on her arms and legs, though officers have not yet determined precisely how the injuries occurred.</p><p><span class=\"bw\">Social welfare authorities<span class=\"tip\"><span class=\"tip-en\">government bodies responsible for child and family welfare services</span><span class=\"tip-zh\">社會福利機構</span></span></span> said they were following up on the case, and the girl's school has also mobilised social workers to support her given her existing support needs. Police have indicated that <span class=\"bw\">further arrests<span class=\"tip\"><span class=\"tip-en\">the likelihood that more people will be taken into custody as an investigation continues</span><span class=\"tip-zh\">進一步拘捕</span></span></span> have not been ruled out as the investigation continues, while the episode has reignited public debate over how effectively Hong Kong's <span class=\"bw\">child protection<span class=\"tip\"><span class=\"tip-en\">measures taken to safeguard children from harm or abuse</span><span class=\"tip-zh\">保護兒童</span></span></span> system identifies at-risk children before, rather than only after, a video forces the issue into public view.</p>",
+   "summary_zh_html": "<p>本週有一段令人不安的短片在黃大仙區拍到，片中一名十一歲女童一邊<span class=\"bwz\">哭著求助</span>，一邊被家人責罵，片段在社交媒體上<span class=\"bwz\">在網上瘋傳</span>，促使警方與福利部門展開涉嫌虐兒調查。據本地報道，片段於星期四廣泛流傳，顯示該名有<span class=\"bwz\">特殊教育需要</span>的女童在家中情緒明顯激動，其中一段片亦見一名年長男性親屬在場。</p><p>警方其後以涉嫌對兒童<span class=\"bwz\">虐待或忽視</span>為由，拘捕女童六十一歲的外婆及一名四十三歲印傭，兩人現正被<span class=\"bwz\">扣留調查</span>，警方正了解事件在家中發生的經過。女童先被送往伊利沙伯醫院，再轉往香港兒童醫院接受進一步檢查，據報醫生發現她手腳有<span class=\"bwz\">紅腫</span>痕跡，惟警方暫未確定傷勢成因。</p><p><span class=\"bwz\">社會福利機構</span>表示正跟進事件，女童學校亦已動用學校社工，按其既有的支援需要提供協助。警方表示不排除有<span class=\"bwz\">進一步拘捕</span>行動，調查仍在進行；事件亦再次引發公眾討論，質疑本港<span class=\"bwz\">保護兒童</span>的機制，能否在片段逼使事件曝光之前，及早識別高風險兒童。</p>",
+   "image_scene": "Outside a tall 1980s public housing block in Wong Tai Sin on a quiet overcast afternoon, an anonymous uniformed police officer and a social worker carrying a folder walk together toward the building's entrance, past a row of parked bicycles and potted plants; Lion Rock is visible in the hazy distance behind the estate.",
+   "cover_text": {
+    "zh_kicker": "黃大仙",
+    "zh_title": [
+     "女童求助片瘋傳",
+     "兩人涉虐兒被捕"
+    ],
+    "zh_hl": "被捕",
+    "zh_sub": "社署跟進個案",
+    "en": "Viral video of girl's plea leads to two arrests"
+   },
+   "vocab": [
+    {
+     "phrase": "went viral",
+     "zh": "在網上瘋傳",
+     "sample": "The footage went viral within hours, prompting thousands of concerned comments from the public."
+    },
+    {
+     "phrase": "special educational needs",
+     "zh": "特殊教育需要",
+     "sample": "Children with special educational needs often require extra support that extends beyond the classroom."
+    },
+    {
+     "phrase": "ill-treatment or neglect",
+     "zh": "虐待或忽視",
+     "sample": "The two suspects were arrested on suspicion of ill-treatment or neglect of a child in their care."
+    },
+    {
+     "phrase": "held for questioning",
+     "zh": "扣留調查",
+     "sample": "Both suspects were held for questioning while officers examined the circumstances inside the home."
+    },
+    {
+     "phrase": "visible injuries",
+     "zh": "明顯傷勢",
+     "sample": "Doctors documented the child's visible injuries before she was transferred for further assessment."
+    },
+    {
+     "phrase": "social welfare authorities",
+     "zh": "社會福利機構",
+     "sample": "Social welfare authorities said they would continue monitoring the family after the investigation concludes."
+    },
+    {
+     "phrase": "at-risk children",
+     "zh": "高風險兒童",
+     "sample": "Teachers are often the first adults to notice warning signs in at-risk children."
+    },
+    {
+     "phrase": "child protection mechanism",
+     "zh": "保護兒童機制",
+     "sample": "Campaigners argue the city's child protection mechanism still relies too heavily on the public to report abuse."
+    },
+    {
+     "phrase": "domestic helper",
+     "zh": "家庭傭工",
+     "sample": "The domestic helper was among two people arrested after the video surfaced online."
+    },
+    {
+     "phrase": "intervene before harm occurs",
+     "zh": "在傷害發生前介入",
+     "sample": "Social workers are trained to intervene before harm occurs, not merely to respond after the fact."
+    },
+    {
+     "phrase": "mandatory reporting",
+     "zh": "強制舉報",
+     "sample": "Some lawmakers have called for mandatory reporting rules requiring professionals to flag suspected abuse."
+    },
+    {
+     "phrase": "custody arrangement",
+     "zh": "照顧安排",
+     "sample": "The investigation also raised questions about the family's custody arrangement for the child."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "expose a hidden pattern of abuse",
+     "zh": "揭露隱藏已久的虐待模式",
+     "sample": "The viral clip exposed a hidden pattern of abuse that neighbours said had gone unreported for months."
+    },
+    {
+     "en": "rely on bystanders to sound the alarm",
+     "zh": "依賴旁觀者發出警號",
+     "sample": "Without a formal reporting system, the city still relies on bystanders to sound the alarm."
+    },
+    {
+     "en": "fall through the cracks of the welfare system",
+     "zh": "在福利制度的縫隙中被忽略",
+     "sample": "Vulnerable children can fall through the cracks of the welfare system if no single agency takes charge of their case."
+    },
+    {
+     "en": "trigger a public outcry over child safety",
+     "zh": "引發公眾對兒童安全的強烈反應",
+     "sample": "The footage triggered a public outcry over child safety that lawmakers could not ignore."
+    },
+    {
+     "en": "shift from reactive to preventive intervention",
+     "zh": "由被動應對轉向主動介入",
+     "sample": "Experts urge a shift from reactive to preventive intervention, rather than waiting for a crisis to unfold."
+    },
+    {
+     "en": "place additional strain on an already stretched system",
+     "zh": "對本已緊張的系統造成額外壓力",
+     "sample": "A rising number of referrals places additional strain on an already stretched child welfare system."
+    },
+    {
+     "en": "hold caregivers accountable for a child's wellbeing",
+     "zh": "要求照顧者對兒童福祉負責",
+     "sample": "The case renewed calls to hold caregivers accountable for a child's wellbeing, regardless of their relationship to the family."
+    },
+    {
+     "en": "spark renewed scrutiny of domestic arrangements",
+     "zh": "引發對家庭照顧安排的重新審視",
+     "sample": "The arrests sparked renewed scrutiny of domestic arrangements involving multiple caregivers under one roof."
+    },
+    {
+     "en": "balance family privacy against a child's safety",
+     "zh": "在家庭私隱與兒童安全之間取得平衡",
+     "sample": "Social workers must balance family privacy against a child's safety when deciding whether to intervene."
+    },
+    {
+     "en": "amplify a private tragedy into a public debate",
+     "zh": "將私人悲劇放大成公眾議題",
+     "sample": "Social media can amplify a private tragedy into a public debate within hours of a clip being posted."
+    },
+    {
+     "en": "underscore the limits of informal caregiving networks",
+     "zh": "凸顯非正式照顧網絡的局限",
+     "sample": "The case underscores the limits of informal caregiving networks that lack professional oversight."
+    },
+    {
+     "en": "prompt calls for tighter safeguarding rules",
+     "zh": "促使社會要求收緊保護措施",
+     "sample": "Advocacy groups used the incident to prompt calls for tighter safeguarding rules in domestic settings."
+    },
+    {
+     "en": "leave lasting scars beyond the physical",
+     "zh": "留下不止於身體傷痛的長久陰影",
+     "sample": "Child psychologists warn that such experiences can leave lasting scars beyond the physical injuries involved."
+    }
+   ],
+   "date": "2026-10-24",
+   "id": "a16505473"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/health-environment/article/3371910/hong-kong-marks-hottest-frost-solar-term-record-321-degrees-celsius",
+   "published_date": "23 October 2026",
+   "headline": "Hong Kong Logs Hottest 'Frost' Solar Term on Record as Heatwave Lingers into Late October",
+   "category": "env",
+   "summary_html": "<p>Hong Kong recorded its hottest “Frost” <span class=\"bw\">solar term<span class=\"tip\"><span class=\"tip-en\">one of 24 traditional divisions of the Chinese calendar year marking seasonal changes</span><span class=\"tip-zh\">節氣</span></span></span> since records began in 1884, with the mercury reaching 32.3 degrees Celsius at the Observatory's Tsim Sha Tsui headquarters on Friday afternoon, comfortably eclipsing the previous benchmark of 31 degrees set in 2006. The reading came just two days after the Observatory issued its latest-ever <span class=\"bw\">Very Hot Weather Warning<span class=\"tip\"><span class=\"tip-en\">an official Observatory alert issued when temperatures are expected to reach a high threshold</span><span class=\"tip-zh\">酷熱天氣警告</span></span></span>, raised at 6.45am on Wednesday and beating a record previously set in October 2024, as the city sweltered through 33.8 degrees that day.</p><p>Explaining the unusual persistence of heat so late in the year, Chinese University atmospheric scientist Amos Tai pointed to three overlapping factors: <span class=\"bw\">subsiding air<span class=\"tip\"><span class=\"tip-en\">air that is sinking and warming as it descends, often suppressing cloud formation</span><span class=\"tip-zh\">下沉氣流</span></span></span> left behind by Super Typhoon Champi, a <span class=\"bw\">super El Niño<span class=\"tip\"><span class=\"tip-en\">an unusually strong occurrence of the El Niño climate pattern, which involves warmer-than-usual Pacific waters</span><span class=\"tip-zh\">超強厄爾尼諾現象</span></span></span> that has weakened the <span class=\"bw\">northeast monsoon<span class=\"tip\"><span class=\"tip-en\">the seasonal wind pattern that normally brings cooler, drier air to southern China in autumn and winter</span><span class=\"tip-zh\">東北季候風</span></span></span> normally responsible for cooling the city in autumn, and the city's own <span class=\"bw\">long-term warming trend<span class=\"tip\"><span class=\"tip-en\">a gradual rise in temperatures observed over many years, often linked to climate change</span><span class=\"tip-zh\">長期變暖趨勢</span></span></span>. With less cool air flowing down from the north, Hong Kong has effectively been left trapped under a lingering summer-like air mass well into late October.</p><p>The Observatory has separately warned of a very dry weekend ahead, with a wide <span class=\"bw\">day-night temperature gap<span class=\"tip\"><span class=\"tip-en\">the difference between daytime highs and nighttime lows</span><span class=\"tip-zh\">日夜溫差</span></span></span> expected as clear skies allow heat to escape rapidly after dark. Tai cautioned that if the current El Niño episode persists into spring, the city could face one of its warmest winters on record, extending a string of <span class=\"bw\">weather-related records<span class=\"tip\"><span class=\"tip-en\">instances in which a measured meteorological value surpasses all previous recorded values</span><span class=\"tip-zh\">天氣紀錄</span></span></span> that has characterised 2026 and adding to concerns that Hong Kong's climate is shifting further away from its traditional four-season rhythm.</p>",
+   "summary_zh_html": "<p>香港錄得自一八八四年有紀錄以來最熾熱的「霜降」<span class=\"bwz\">節氣</span>，天文台尖沙咀總部星期五下午錄得攝氏三十二點三度高溫，較二零零六年訂下的三十一度紀錄明顯高出。這個紀錄出現僅兩天前，天文台已於星期三早上六時四十五分發出歷來最遲的<span class=\"bwz\">酷熱天氣警告</span>，打破二零二四年十月訂下的紀錄，當日本港氣溫更高見三十三點八度。</p><p>中文大學大氣科學學者戴沛權解釋，今年入秋後暑熱持續不退，與三個因素互相重疊有關：其一是超強颱風「薔琵」過後留下的<span class=\"bwz\">下沉氣流</span>；其二是<span class=\"bwz\">超強厄爾尼諾現象</span>，令本應為本港帶來降溫的<span class=\"bwz\">東北季候風</span>轉弱；其三則是本港自身的<span class=\"bwz\">長期變暖趨勢</span>。由於北方冷空氣未能有效南下，香港十月下旬仍彷如停留在近似盛夏的氣團之下。</p><p>天文台另外預告週末天氣將非常乾燥，預料天色晴朗導致熱量在日落後迅速流失，造成顯著的<span class=\"bwz\">日夜溫差</span>。戴沛權警告，若今次厄爾尼諾現象持續至明年春季，本港有可能迎來歷來最暖的其中一個冬季，延續二零二六年以來一連串的<span class=\"bwz\">天氣紀錄</span>，亦令人憂慮香港的氣候正進一步偏離傳統四季分明的規律。</p>",
+   "image_scene": "A hazy, sun-bleached Hong Kong Island skyline seen across Victoria Harbour on a cloudless afternoon, heat shimmer rising from the water; on the promenade in the foreground, anonymous office workers in short sleeves shelter under umbrellas and a tree's thin shade, one fanning himself with a hand fan, no clouds anywhere in the pale sky.",
+   "cover_text": {
+    "zh_kicker": "破紀錄",
+    "zh_title": [
+     "霜降破紀錄",
+     "32.3度新高"
+    ],
+    "zh_hl": "32.3度",
+    "zh_sub": "打破2006年紀錄",
+    "en": "Hong Kong records hottest 'Frost' solar term since 1884"
+   },
+   "vocab": [
+    {
+     "phrase": "solar term",
+     "zh": "節氣",
+     "sample": "The Frost solar term usually signals the start of cooler autumn weather in southern China."
+    },
+    {
+     "phrase": "Very Hot Weather Warning",
+     "zh": "酷熱天氣警告",
+     "sample": "The Observatory issued a Very Hot Weather Warning at an unusually late point in the year."
+    },
+    {
+     "phrase": "subsiding air",
+     "zh": "下沉氣流",
+     "sample": "Subsiding air left behind by the typhoon suppressed cloud formation and allowed temperatures to climb."
+    },
+    {
+     "phrase": "super El Niño",
+     "zh": "超強厄爾尼諾現象",
+     "sample": "Forecasters linked the unusual autumn heat partly to a developing super El Niño in the Pacific."
+    },
+    {
+     "phrase": "northeast monsoon",
+     "zh": "東北季候風",
+     "sample": "The northeast monsoon normally brings a welcome drop in temperature to Hong Kong each October."
+    },
+    {
+     "phrase": "unseasonable autumn heat",
+     "zh": "反常的秋季高溫",
+     "sample": "Forecasters described the spell as unseasonable autumn heat rather than a normal seasonal variation."
+    },
+    {
+     "phrase": "day-night temperature gap",
+     "zh": "日夜溫差",
+     "sample": "Clear skies this weekend are expected to produce a wide day-night temperature gap."
+    },
+    {
+     "phrase": "weather-related record",
+     "zh": "天氣紀錄",
+     "sample": "This year has already produced several weather-related records, from record rainfall to record heat."
+    },
+    {
+     "phrase": "heat shimmer",
+     "zh": "熱浪折射現象",
+     "sample": "Heat shimmer rose visibly off the pavement outside the Observatory's headquarters."
+    },
+    {
+     "phrase": "atmospheric scientist",
+     "zh": "大氣科學學者",
+     "sample": "An atmospheric scientist at Chinese University explained the three factors behind the unusual heat."
+    },
+    {
+     "phrase": "seasonal rhythm",
+     "zh": "季節規律",
+     "sample": "Residents joked that the city's seasonal rhythm had been thrown entirely off balance."
+    },
+    {
+     "phrase": "climate variability",
+     "zh": "氣候變化的波動",
+     "sample": "Climate variability linked to El Niño can temporarily mask or exaggerate the effects of long-term warming."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "defy the usual seasonal pattern",
+     "zh": "偏離慣常的季節規律",
+     "sample": "This October's heat defied the usual seasonal pattern that residents have come to expect."
+    },
+    {
+     "en": "push a weather record further out of reach",
+     "zh": "使天氣紀錄進一步被刷新",
+     "sample": "Each new heatwave pushes the previous weather record further out of reach of future comparison."
+    },
+    {
+     "en": "compound the effects of a changing climate",
+     "zh": "加劇氣候變化帶來的影響",
+     "sample": "A strong El Niño can compound the effects of a changing climate, producing extremes rarely seen before."
+    },
+    {
+     "en": "erode the predictability of the seasons",
+     "zh": "削弱季節的可預測性",
+     "sample": "Scientists warn that persistent heatwaves erode the predictability of the seasons that farmers once relied on."
+    },
+    {
+     "en": "strain the city's cooling infrastructure",
+     "zh": "對城市的降溫設施造成壓力",
+     "sample": "Late-season heat strains the city's cooling infrastructure just as many buildings switch off air-conditioning for winter."
+    },
+    {
+     "en": "mask a longer-term trend behind short-term noise",
+     "zh": "以短期波動掩蓋長期趨勢",
+     "sample": "A single hot October can mask a longer-term trend behind short-term noise unless viewed over decades."
+    },
+    {
+     "en": "heighten the risk of heat-related illness",
+     "zh": "增加與高溫相關疾病的風險",
+     "sample": "Prolonged autumn heat heightens the risk of heat-related illness among elderly residents still expecting cooler weather."
+    },
+    {
+     "en": "chip away at the city's traditional four seasons",
+     "zh": "逐漸侵蝕本港傳統的四季分明",
+     "sample": "Each unseasonable heatwave chips away at the city's traditional four seasons a little further."
+    },
+    {
+     "en": "complicate long-range weather forecasting",
+     "zh": "使長期天氣預測更趨複雜",
+     "sample": "Overlapping climate factors complicate long-range weather forecasting for the coming winter."
+    },
+    {
+     "en": "serve as an early warning of a warmer future",
+     "zh": "成為未來更暖天氣的早期警示",
+     "sample": "Climatologists view such anomalies as an early warning of a warmer future rather than a one-off fluke."
+    },
+    {
+     "en": "undercut assumptions built into infrastructure planning",
+     "zh": "削弱基建規劃原有的假設",
+     "sample": "Rising extremes undercut assumptions built into infrastructure planning decades ago, when such heat was unthinkable."
+    },
+    {
+     "en": "leave little room for seasonal relief",
+     "zh": "使季節性降溫的空間所剩無幾",
+     "sample": "Back-to-back records leave little room for seasonal relief before the next heatwave arrives."
+    },
+    {
+     "en": "widen the gap between record and average",
+     "zh": "擴闊紀錄與平均值之間的差距",
+     "sample": "This heatwave widens the gap between the record and the historical average more than any event in decades."
+    }
+   ],
+   "date": "2026-10-24",
+   "id": "ae12b5c10"
   }
  ],
  "trends": [
@@ -26475,6 +27074,136 @@
    "date": "2026-10-23",
    "id": "t7738834d",
    "needs_backfill": true
+  },
+  {
+   "platforms": [
+    "facebook"
+   ],
+   "headline": "🐀 Rat Pack Caught on Camera at Tai Kok Tsui Park Sparks Clean-Up Demand",
+   "summary_html": "<p>A short clip showing about ten rats scurrying around Cherry Street Park in Tai Kok Tsui went viral on local Facebook groups this week, reigniting complaints about a <span class=\"bw\">rodent infestation<span class=\"tip\"><span class=\"tip-en\">a situation in which an area is overrun by rats or mice</span><span class=\"tip-zh\">鼠患</span></span></span> that residents say has lingered for years. Neighbours in the clip's comments blamed the <span class=\"bw\">illegal feeding of pigeons<span class=\"tip\"><span class=\"tip-en\">giving food to pigeons in a public place where it is prohibited by law</span><span class=\"tip-zh\">違例餵飼野鳩</span></span></span> inside the park for leaving behind food scraps that, they argued, continue to attract rats despite repeated complaints to the district's environmental hygiene office.</p><p>After the video spread, the Food and Environmental Hygiene Department inspected the park alongside a district councillor and confirmed signs of rat activity, including several burrows found in the park's flower beds, which officials described as a <span class=\"bw\">health hazard<span class=\"tip\"><span class=\"tip-en\">a condition or object that poses a risk of illness or injury</span><span class=\"tip-zh\">衞生隱患</span></span></span>. The department issued a formal <span class=\"bw\">notice to abate<span class=\"tip\"><span class=\"tip-en\">an official order requiring someone to remove or correct a nuisance within a set time</span><span class=\"tip-zh\">消除蟲鼠通知</span></span></span> under the Public Health and Municipal Services Ordinance, giving its <span class=\"bw\">pest control contractor<span class=\"tip\"><span class=\"tip-en\">a company hired to remove or control insects, rodents or other unwanted creatures</span><span class=\"tip-zh\">滅鼠承辦商</span></span></span> until 3 November to eliminate conditions conducive to rats, warning that a default notice would follow if the work was unsatisfactory, given the park's status as a <span class=\"bw\">known black spot<span class=\"tip\"><span class=\"tip-en\">a location officially recognised as having a recurring or severe version of a particular problem</span><span class=\"tip-zh\">已知黑點</span></span></span> for rodents since at least 2024.</p>",
+   "summary_zh_html": "<p>一段短片顯示約十隻老鼠在大角咀櫻桃街公園內四處走動，本週在本地Facebook社區群組瘋傳，再次引起居民對公園內<span class=\"bwz\">鼠患</span>問題的不滿，指情況已持續多年。片段留言區有街坊指出，公園內有人<span class=\"bwz\">違例餵飼野鳩</span>，遺下大量食物殘渣，認為這正是即使屢次向區內環境衞生部門投訴，老鼠仍不斷聚集的原因。</p><p>短片流傳後，食物環境衞生署聯同區議員一同巡查公園，確認有老鼠出現的跡象，包括在多個花槽發現鼠洞，署方形容情況構成<span class=\"bwz\">衞生隱患</span>。食環署根據《公眾衞生及市政條例》發出正式的<span class=\"bwz\">消除蟲鼠通知</span>，要求其<span class=\"bwz\">滅鼠承辦商</span>在十一月三日前除去可致鼠患的因素，並警告若表現不理想，將發出失責通知書；該公園自二零二四年區議會資料顯示起，已被列為鼠患的<span class=\"bwz\">已知黑點</span>。</p>",
+   "causes": [
+    {
+     "label": "Reactive, video-driven enforcement",
+     "label_zh": "由短片驅動的被動執法",
+     "text": "The department only inspected Cherry Street Park once the clip had gathered public attention, despite the area being flagged as a rodent black spot in 2024 district council papers. Enforcement that follows viral exposure, rather than scheduled monitoring, raises doubts about whether known problem sites receive adequate routine attention before residents feel compelled to film evidence themselves.",
+     "text_zh": "食環署僅在短片引起公眾關注後，才對櫻桃街公園展開巡查，儘管該處早於二零二四年區議會文件中已被列為鼠患黑點。這種待短片引起關注才執法、而非定期監察的做法，令人質疑已知的問題地點，在居民被迫自行拍片曝光之前，是否得到足夠的日常跟進。"
+    },
+    {
+     "label": "Blame falls on anonymous pigeon-feeders, not shared upkeep",
+     "label_zh": "責任歸咎於匿名餵鳥者而非共同維護責任",
+     "text": "Online commenters quickly singled out unnamed pigeon-feeders as the sole cause of the rat problem, rather than treating the park's upkeep as a shared neighbourhood responsibility. Framing the issue around a convenient, faceless villain lets residents vent frustration without confronting harder questions about littering, irregular refuse collection, or whether anyone reports problems early enough to prevent them escalating.",
+     "text_zh": "網上留言迅速將責任全歸咎於不知名的餵鳥者，而非將公園的維護視為社區共同的責任。將問題簡化為一個方便、不具名的「元兇」，讓居民得以宣洩不滿，卻無需面對更棘手的問題，例如亂拋垃圾、垃圾收集安排是否不定時，或者居民是否有及早舉報問題，以免事件惡化。"
+    },
+    {
+     "label": "Rats beside a children's play area raise a disease risk",
+     "label_zh": "鼠患與兒童遊樂設施相鄰帶來的衞生風險",
+     "text": "Cherry Street Park includes play equipment used daily by young children, and rodents are known carriers of diseases such as leptospirosis, spread through contaminated soil or surfaces. A rat colony nesting in flower beds metres from where children play turns an apparent nuisance into a genuine public-health concern deserving faster action than a single clean-up notice.",
+     "text_zh": "櫻桃街公園設有供兒童日常使用的遊樂設施，而老鼠是鈎端螺旋體病等疾病的已知傳播者，可透過受污染的泥土或表面傳播。鼠群在距離兒童遊玩地點僅數米的花槽築巢，令看似輕微的滋擾，變成需要比一張清理通知更迅速處理的真正公共衞生隱患。"
+    },
+    {
+     "label": "A ten-second clip may overstate a routine, already-managed problem",
+     "label_zh": "十秒短片或誇大了一個本已受控的日常問題",
+     "text": "A brief video filmed from one angle cannot show how often the park is normally inspected, and the department's swift response suggests existing monitoring was not entirely absent. Treating every viral clip as proof of official neglect risks diverting limited pest-control resources toward whichever problem trends online that week, rather than toward the locations that genuinely pose the greatest risk.",
+     "text_zh": "一段從單一角度拍攝的短片，並不能反映公園日常巡查的頻率，而食環署迅速回應亦顯示現行監察並非完全缺失。若將每段瘋傳短片都視為官方失職的證據，有可能令本已有限的滅鼠資源，被導向當週網上熱議的地點，而非真正風險最高的地方。"
+    }
+   ],
+   "vocab": [
+    {
+     "phrase": "rodent infestation",
+     "zh": "鼠患",
+     "sample": "Residents said the rodent infestation in the park had never been fully resolved despite years of complaints."
+    },
+    {
+     "phrase": "illegal feeding",
+     "zh": "違例餵飼",
+     "sample": "Illegal feeding of pigeons in public parks often leaves behind scraps that attract other pests."
+    },
+    {
+     "phrase": "health hazard",
+     "zh": "衞生隱患",
+     "sample": "Officials described the uncontrolled rat activity as a genuine health hazard to park visitors."
+    },
+    {
+     "phrase": "notice to abate",
+     "zh": "消除蟲鼠通知",
+     "sample": "The department issued a notice to abate, giving the contractor a strict deadline to clear the rat burrows."
+    },
+    {
+     "phrase": "pest control contractor",
+     "zh": "滅鼠承辦商",
+     "sample": "The pest control contractor was ordered to remove anything likely to attract rats within two weeks."
+    },
+    {
+     "phrase": "known black spot",
+     "zh": "已知黑點",
+     "sample": "The park has been a known black spot for rats since at least 2024, according to district council records."
+    },
+    {
+     "phrase": "flower bed burrow",
+     "zh": "花槽鼠洞",
+     "sample": "Inspectors found several flower bed burrows after walking through the park with a district councillor."
+    },
+    {
+     "phrase": "statutory ordinance",
+     "zh": "法定條例",
+     "sample": "The notice was issued under a statutory ordinance that allows the department to compel action from contractors."
+    },
+    {
+     "phrase": "default notice",
+     "zh": "失責通知書",
+     "sample": "A default notice would follow if the contractor failed to meet the clean-up deadline."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "force an overdue response from officials",
+     "zh": "迫使官方作出遲來的回應",
+     "sample": "The viral clip forced an overdue response from officials who had ignored earlier complaints."
+    },
+    {
+     "en": "expose a long-standing blind spot in municipal upkeep",
+     "zh": "揭露市政管理長期存在的盲點",
+     "sample": "The footage exposed a long-standing blind spot in municipal upkeep that routine inspections had missed."
+    },
+    {
+     "en": "hold a contractor to a firm deadline",
+     "zh": "要求承辦商遵守明確限期",
+     "sample": "Authorities moved to hold the contractor to a firm deadline rather than accept vague assurances."
+    },
+    {
+     "en": "turn a neighbourhood nuisance into a viral story",
+     "zh": "將社區滋擾問題變成網上熱話",
+     "sample": "A single short video can turn a neighbourhood nuisance into a viral story within hours."
+    },
+    {
+     "en": "underline the gap between policy and practice",
+     "zh": "凸顯政策與實際執行之間的差距",
+     "sample": "Repeated complaints before the video surfaced underline the gap between policy and practice at district level."
+    },
+    {
+     "en": "shift blame onto an unnamed culprit",
+     "zh": "將責任轉嫁至不知名的人",
+     "sample": "Commenters were quick to shift blame onto an unnamed culprit feeding the pigeons rather than examine wider upkeep failures."
+    },
+    {
+     "en": "treat social media exposure as a substitute for routine inspection",
+     "zh": "將社交媒體曝光視為日常巡查的替代品",
+     "sample": "Critics argue the city should not treat social media exposure as a substitute for routine inspection."
+    },
+    {
+     "en": "settle for a short-term fix rather than a lasting solution",
+     "zh": "滿足於短期應急措施而非長遠解決方案",
+     "sample": "Residents fear the department will settle for a short-term fix rather than a lasting solution to the rat problem."
+    },
+    {
+     "en": "test public trust in the agency responsible",
+     "zh": "考驗公眾對負責部門的信任",
+     "sample": "Each recurrence of the same problem further tests public trust in the agency responsible for hygiene enforcement."
+    }
+   ],
+   "date": "2026-10-24",
+   "id": "t6c4e32a6"
   }
  ]
 }

@@ -4,10 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <meta name="theme-color" content="#111418" />
+  <meta name="build" content="1792849338" />
   <title>HKDSE Daily Brief</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&family=Archivo:wdth,wght@100..125,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&family=Noto+Serif+HK:wght@400;600&family=Noto+Sans+HK:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&family=Oswald:wght@600;700&family=Archivo:wdth,wght@100..125,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&family=Noto+Serif+HK:wght@400;600&family=Noto+Sans+HK:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>
     /* ── TOKENS — LIGHT (default) ── */
     :root {
@@ -1412,6 +1413,61 @@
       .article-actions { grid-template-columns: 1fr 1fr; }
     }
     @media (prefers-reduced-motion: reduce) { .tick-run { animation: none; } .mag-feature-img, .mag-card-img { transition: none; } }
+
+    /* ══ ARTICLE SLIDES (Instagram-carousel style) ══════════════════════════ */
+    .slides { position: relative; max-width: 520px; margin: 0 auto 1.6rem; }
+    .sl-track { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; border-radius: 18px;
+                scrollbar-width: none; -webkit-overflow-scrolling: touch; box-shadow: 0 10px 30px rgba(0,0,0,0.14); }
+    .sl-track::-webkit-scrollbar { display: none; }
+    .sl { flex: 0 0 100%; scroll-snap-align: start; aspect-ratio: 4 / 5; position: relative; display: flex; flex-direction: column;
+          background: #EEF0F3; color: #111; overflow: hidden; }
+    .sl-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .sl-band { position: relative; height: 30%; flex: 0 0 auto; background-size: cover; background-position: center 30%;
+               display: flex; flex-direction: column; justify-content: flex-end; padding: 0 7% 4%; }
+    .sl-band-tall { height: 46%; }
+    .sl-brand { position: absolute; top: 7%; left: 50%; transform: translateX(-50%); background: #fff; color: #111;
+                font: 800 clamp(0.6rem, 2.6vw, 0.82rem) var(--f-ui); letter-spacing: 0.08em; padding: 0.25em 1.1em; border-radius: 999px; white-space: nowrap; }
+    .sl-title { font-family: 'Oswald', 'Archivo', Impact, sans-serif; font-weight: 700; color: #fff; letter-spacing: 0.01em;
+                font-size: clamp(1.9rem, 9.5vw, 3.3rem); line-height: 0.95; text-shadow: 0 3px 14px rgba(0,0,0,0.35); }
+    .sl-paper { flex: 1 1 auto; position: relative; margin-top: -4%; border-radius: 6% 6% 0 0 / 4% 4% 0 0;
+                padding: 4.5% 7% 3%; overflow: hidden;
+                background: radial-gradient(circle at 20% 15%, #fff 0, transparent 55%), radial-gradient(circle at 85% 80%, #e4e7ec 0, transparent 50%), #EEF0F3; }
+    .sl-hz { display: inline-block; font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; font-size: clamp(1.25rem, 6vw, 2rem); line-height: 1.15;
+             background: linear-gradient(transparent 55%, #FFF3A0 55%); padding: 0 0.15em; margin: 0.3em 0 0.25em; }
+    .sl-sub { font-family: var(--f-ui); font-weight: 800; font-size: clamp(0.95rem, 4.3vw, 1.35rem); margin: 0.35em 0 0.1em; }
+    .sl-en { font-family: var(--f-ui); font-weight: 700; font-size: clamp(0.95rem, 4.3vw, 1.32rem); line-height: 1.3; margin: 0 0 0.45em; }
+    .sl-en-big { font-size: clamp(1.15rem, 5.4vw, 1.7rem); }
+    .sl-zh { font-family: 'Noto Sans HK', var(--f-zh); font-size: clamp(0.78rem, 3.4vw, 1rem); line-height: 1.6; color: #333; margin: 0 0 0.7em;
+             padding-left: 0.8em; border-left: 4px solid #3B5BDB; }
+    .sl-bar-red { border-left-color: #C92A2A; } .sl-bar-pink { border-left-color: #D6336C; }
+    .sl-zh-big { font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; font-size: clamp(1.05rem, 5vw, 1.55rem); line-height: 1.45; margin: 0.4em 0 0; }
+    .sl-blue { color: #3B5BDB; } .sl-red { color: #C92A2A; } .sl-pink { color: #D6336C; }
+    .sl-vocab { list-style: none; margin: 0.2em 0 0; padding: 0; display: flex; flex-direction: column; gap: 0.55em; }
+    .sl-vocab li { display: flex; gap: 0.6em; align-items: flex-start; }
+    .sl-vn { flex: 0 0 auto; width: 1.55em; height: 1.55em; border-radius: 50%; background: #3B5BDB; color: #fff;
+             display: grid; place-items: center; font: 700 clamp(0.75rem, 3.4vw, 0.95rem) var(--f-ui); margin-top: 0.15em; }
+    .sl-vw b { display: block; font-family: var(--f-ui); color: #3B5BDB; font-size: clamp(1rem, 4.7vw, 1.45rem); line-height: 1.15; }
+    .sl-vzh { font-family: var(--f-zh); font-size: clamp(0.85rem, 3.8vw, 1.1rem); letter-spacing: 0.2em; }
+    .sl-q { position: absolute; right: 6%; bottom: 4%; font: 900 clamp(5rem, 28vw, 9rem)/1 var(--f-ui); color: #3B5BDB; opacity: 0.25; }
+    .sl-foot { flex: 0 0 auto; display: flex; gap: 0.9em; align-items: center; background: #1F3A73; padding: 3% 6%; white-space: nowrap; overflow: hidden; }
+    .sl-foot-zh { font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; color: #fff; font-size: clamp(0.8rem, 3.6vw, 1.05rem); letter-spacing: 0.06em; }
+    .sl-foot-en { font-family: 'Oswald', var(--f-ui); font-weight: 600; color: #FFD43B; font-size: clamp(0.8rem, 3.6vw, 1.05rem);
+                  overflow: hidden; text-overflow: ellipsis; }
+    .sl-count { position: absolute; top: 3%; right: 4%; background: rgba(20,20,20,0.6); color: #fff; font: 600 0.85rem var(--f-ui);
+                padding: 0.25em 0.7em; border-radius: 999px; pointer-events: none; }
+    .sl-nav { position: absolute; top: 50%; transform: translateY(-50%); width: 36px; height: 36px; border-radius: 50%; border: 0;
+              background: rgba(255,255,255,0.9); color: #111; font-size: 1.4rem; line-height: 1; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+    .sl-prev { left: -14px; } .sl-next { right: -14px; }
+    .sl-dots { display: flex; justify-content: center; gap: 6px; margin-top: 0.7rem; }
+    .sl-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--border); transition: background 0.2s, transform 0.2s; }
+    .sl-dot.on { background: #3B5BDB; transform: scale(1.25); }
+    .full-cover.has-slides { display: none; }
+    @media (max-width: 640px) {
+      .slides { margin: 0 0 1.4rem; }
+      .sl-track { border-radius: 0; box-shadow: none; margin: 0 -1.1rem; }
+      .sl-nav { display: none; }
+    }
+    @media print { .slides { display: none !important; } }
 </style>
 </head>
 <body>
@@ -13738,6 +13794,30 @@
     }
   }
 
+  function slideScroll(track) {
+    var box = track.parentNode, n = track.children.length;
+    var i = Math.round(track.scrollLeft / Math.max(1, track.clientWidth));
+    var c = box.querySelector('.sl-count'); if (c) c.textContent = (i + 1) + '/' + n;
+    box.querySelectorAll('.sl-dot').forEach(function(d, k) { d.classList.toggle('on', k === i); });
+  }
+  function slideGo(btn, dir) {
+    var t = btn.parentNode.querySelector('.sl-track');
+    if (t) t.scrollBy({ left: dir * t.clientWidth, behavior: 'smooth' });
+  }
+
+  // Phones keep an old copy of the page for a while; reload when a newer version is published
+  (function() {
+    var mine = document.querySelector('meta[name="build"]');
+    if (!mine || !window.fetch) return;
+    fetch(location.pathname + '?b=' + Date.now(), { cache: 'no-store' }).then(function(r) { return r.text(); }).then(function(t) {
+      var m = t.match(/<meta name="build" content="([0-9]+)"/);
+      if (m && m[1] !== mine.content && !sessionStorage.getItem('reloaded-' + m[1])) {
+        sessionStorage.setItem('reloaded-' + m[1], '1');
+        location.reload();
+      }
+    }).catch(function() {});
+  })();
+
   function scrollRail(dir) {
     var r = document.getElementById('mag-rail');
     if (r) r.scrollBy({ left: dir * r.clientWidth * 0.8, behavior: 'smooth' });
@@ -14172,6 +14252,8 @@
       bodyEl.innerHTML = '';
       bodyEl.appendChild(clone);
       setLang(_lang);
+      var cov = document.getElementById('full-cover');
+      if (cov) cov.classList.toggle('has-slides', !!clone.querySelector('.slides'));
       if (window._applyUserState) window._applyUserState(clone);
     }
 

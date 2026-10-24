@@ -18,6 +18,7 @@ For GitHub Actions automation, see .github/workflows/daily.yml
 """
 
 import os
+import time
 import sys
 import json
 import re
@@ -2233,6 +2234,61 @@ CSS = """
       .article-actions { grid-template-columns: 1fr 1fr; }
     }
     @media (prefers-reduced-motion: reduce) { .tick-run { animation: none; } .mag-feature-img, .mag-card-img { transition: none; } }
+
+    /* ══ ARTICLE SLIDES (Instagram-carousel style) ══════════════════════════ */
+    .slides { position: relative; max-width: 520px; margin: 0 auto 1.6rem; }
+    .sl-track { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; border-radius: 18px;
+                scrollbar-width: none; -webkit-overflow-scrolling: touch; box-shadow: 0 10px 30px rgba(0,0,0,0.14); }
+    .sl-track::-webkit-scrollbar { display: none; }
+    .sl { flex: 0 0 100%; scroll-snap-align: start; aspect-ratio: 4 / 5; position: relative; display: flex; flex-direction: column;
+          background: #EEF0F3; color: #111; overflow: hidden; }
+    .sl-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .sl-band { position: relative; height: 30%; flex: 0 0 auto; background-size: cover; background-position: center 30%;
+               display: flex; flex-direction: column; justify-content: flex-end; padding: 0 7% 4%; }
+    .sl-band-tall { height: 46%; }
+    .sl-brand { position: absolute; top: 7%; left: 50%; transform: translateX(-50%); background: #fff; color: #111;
+                font: 800 clamp(0.6rem, 2.6vw, 0.82rem) var(--f-ui); letter-spacing: 0.08em; padding: 0.25em 1.1em; border-radius: 999px; white-space: nowrap; }
+    .sl-title { font-family: 'Oswald', 'Archivo', Impact, sans-serif; font-weight: 700; color: #fff; letter-spacing: 0.01em;
+                font-size: clamp(1.9rem, 9.5vw, 3.3rem); line-height: 0.95; text-shadow: 0 3px 14px rgba(0,0,0,0.35); }
+    .sl-paper { flex: 1 1 auto; position: relative; margin-top: -4%; border-radius: 6% 6% 0 0 / 4% 4% 0 0;
+                padding: 4.5% 7% 3%; overflow: hidden;
+                background: radial-gradient(circle at 20% 15%, #fff 0, transparent 55%), radial-gradient(circle at 85% 80%, #e4e7ec 0, transparent 50%), #EEF0F3; }
+    .sl-hz { display: inline-block; font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; font-size: clamp(1.25rem, 6vw, 2rem); line-height: 1.15;
+             background: linear-gradient(transparent 55%, #FFF3A0 55%); padding: 0 0.15em; margin: 0.3em 0 0.25em; }
+    .sl-sub { font-family: var(--f-ui); font-weight: 800; font-size: clamp(0.95rem, 4.3vw, 1.35rem); margin: 0.35em 0 0.1em; }
+    .sl-en { font-family: var(--f-ui); font-weight: 700; font-size: clamp(0.95rem, 4.3vw, 1.32rem); line-height: 1.3; margin: 0 0 0.45em; }
+    .sl-en-big { font-size: clamp(1.15rem, 5.4vw, 1.7rem); }
+    .sl-zh { font-family: 'Noto Sans HK', var(--f-zh); font-size: clamp(0.78rem, 3.4vw, 1rem); line-height: 1.6; color: #333; margin: 0 0 0.7em;
+             padding-left: 0.8em; border-left: 4px solid #3B5BDB; }
+    .sl-bar-red { border-left-color: #C92A2A; } .sl-bar-pink { border-left-color: #D6336C; }
+    .sl-zh-big { font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; font-size: clamp(1.05rem, 5vw, 1.55rem); line-height: 1.45; margin: 0.4em 0 0; }
+    .sl-blue { color: #3B5BDB; } .sl-red { color: #C92A2A; } .sl-pink { color: #D6336C; }
+    .sl-vocab { list-style: none; margin: 0.2em 0 0; padding: 0; display: flex; flex-direction: column; gap: 0.55em; }
+    .sl-vocab li { display: flex; gap: 0.6em; align-items: flex-start; }
+    .sl-vn { flex: 0 0 auto; width: 1.55em; height: 1.55em; border-radius: 50%; background: #3B5BDB; color: #fff;
+             display: grid; place-items: center; font: 700 clamp(0.75rem, 3.4vw, 0.95rem) var(--f-ui); margin-top: 0.15em; }
+    .sl-vw b { display: block; font-family: var(--f-ui); color: #3B5BDB; font-size: clamp(1rem, 4.7vw, 1.45rem); line-height: 1.15; }
+    .sl-vzh { font-family: var(--f-zh); font-size: clamp(0.85rem, 3.8vw, 1.1rem); letter-spacing: 0.2em; }
+    .sl-q { position: absolute; right: 6%; bottom: 4%; font: 900 clamp(5rem, 28vw, 9rem)/1 var(--f-ui); color: #3B5BDB; opacity: 0.25; }
+    .sl-foot { flex: 0 0 auto; display: flex; gap: 0.9em; align-items: center; background: #1F3A73; padding: 3% 6%; white-space: nowrap; overflow: hidden; }
+    .sl-foot-zh { font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; color: #fff; font-size: clamp(0.8rem, 3.6vw, 1.05rem); letter-spacing: 0.06em; }
+    .sl-foot-en { font-family: 'Oswald', var(--f-ui); font-weight: 600; color: #FFD43B; font-size: clamp(0.8rem, 3.6vw, 1.05rem);
+                  overflow: hidden; text-overflow: ellipsis; }
+    .sl-count { position: absolute; top: 3%; right: 4%; background: rgba(20,20,20,0.6); color: #fff; font: 600 0.85rem var(--f-ui);
+                padding: 0.25em 0.7em; border-radius: 999px; pointer-events: none; }
+    .sl-nav { position: absolute; top: 50%; transform: translateY(-50%); width: 36px; height: 36px; border-radius: 50%; border: 0;
+              background: rgba(255,255,255,0.9); color: #111; font-size: 1.4rem; line-height: 1; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+    .sl-prev { left: -14px; } .sl-next { right: -14px; }
+    .sl-dots { display: flex; justify-content: center; gap: 6px; margin-top: 0.7rem; }
+    .sl-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--border); transition: background 0.2s, transform 0.2s; }
+    .sl-dot.on { background: #3B5BDB; transform: scale(1.25); }
+    .full-cover.has-slides { display: none; }
+    @media (max-width: 640px) {
+      .slides { margin: 0 0 1.4rem; }
+      .sl-track { border-radius: 0; box-shadow: none; margin: 0 -1.1rem; }
+      .sl-nav { display: none; }
+    }
+    @media print { .slides { display: none !important; } }
 """
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -2291,6 +2347,30 @@ JS = """
       setTimeout(function(){ document.querySelectorAll('.tab').forEach(function(t){ t.classList.toggle('on', t.id === 'tab-home'); }); }, 400);
     }
   }
+
+  function slideScroll(track) {
+    var box = track.parentNode, n = track.children.length;
+    var i = Math.round(track.scrollLeft / Math.max(1, track.clientWidth));
+    var c = box.querySelector('.sl-count'); if (c) c.textContent = (i + 1) + '/' + n;
+    box.querySelectorAll('.sl-dot').forEach(function(d, k) { d.classList.toggle('on', k === i); });
+  }
+  function slideGo(btn, dir) {
+    var t = btn.parentNode.querySelector('.sl-track');
+    if (t) t.scrollBy({ left: dir * t.clientWidth, behavior: 'smooth' });
+  }
+
+  // Phones keep an old copy of the page for a while; reload when a newer version is published
+  (function() {
+    var mine = document.querySelector('meta[name="build"]');
+    if (!mine || !window.fetch) return;
+    fetch(location.pathname + '?b=' + Date.now(), { cache: 'no-store' }).then(function(r) { return r.text(); }).then(function(t) {
+      var m = t.match(/<meta name="build" content="([0-9]+)"/);
+      if (m && m[1] !== mine.content && !sessionStorage.getItem('reloaded-' + m[1])) {
+        sessionStorage.setItem('reloaded-' + m[1], '1');
+        location.reload();
+      }
+    }).catch(function() {});
+  })();
 
   function scrollRail(dir) {
     var r = document.getElementById('mag-rail');
@@ -2726,6 +2806,8 @@ JS = """
       bodyEl.innerHTML = '';
       bodyEl.appendChild(clone);
       setLang(_lang);
+      var cov = document.getElementById('full-cover');
+      if (cov) cov.classList.toggle('has-slides', !!clone.querySelector('.slides'));
       if (window._applyUserState) window._applyUserState(clone);
     }
 
@@ -2950,10 +3032,11 @@ HTML_TEMPLATE = """\
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <meta name="theme-color" content="#111418" />
+  <meta name="build" content="{build}" />
   <title>HKDSE Daily Brief</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&family=Archivo:wdth,wght@100..125,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&family=Noto+Serif+HK:wght@400;600&family=Noto+Sans+HK:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&family=Oswald:wght@600;700&family=Archivo:wdth,wght@100..125,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&family=Noto+Serif+HK:wght@400;600&family=Noto+Sans+HK:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>{css}</style>
 </head>
 <body>
@@ -3098,10 +3181,154 @@ def _cat_label(a: dict) -> str:
     return _TAG_META.get(_first_cat(a), ("", "News"))[1]
 
 
+# ── ARTICLE SLIDES (Instagram-carousel style: Cover / Background / Both sides /
+#    Vocabulary / Further thought). Built from text, so always sharp and correct.
+
+def _plain(html: str) -> str:
+    t = re.sub(r'<span class="tip">.*?</span></span>', "", html or "", flags=re.S)
+    return " ".join(re.sub(r"<[^>]+>", " ", t).split())
+
+
+def _paras(html: str) -> list[str]:
+    return [_plain(p) for p in re.findall(r"<p[^>]*>(.*?)</p>", html or "", flags=re.S) if _plain(p)]
+
+
+def _first_sentence(text: str, lang: str = "en") -> str:
+    """First sentence, trimmed so it fits on a slide (≈26 words / 60 characters)."""
+    if lang == "zh":
+        m = re.match(r"(.+?[。！？])", text)
+        t = m.group(1) if m else text
+        return t if len(t) <= 62 else t[:60].rstrip("，、；") + "……"
+    m = re.match(r"(.+?[.!?])(\s|$)", text)
+    t = m.group(1) if m else text
+    words = t.split()
+    return t if len(words) <= 26 else " ".join(words[:24]).rstrip(",;") + "…"
+
+
+def _mark(text: str, phrase: str, cls: str) -> str:
+    """Colour the key phrase inside a sentence (HTML-escaped)."""
+    import html as _h
+    t = _h.escape(text)
+    if phrase:
+        p = _h.escape(phrase)
+        i = t.lower().find(p.lower())
+        if i >= 0:
+            return t[:i] + f'<span class="{cls}">' + t[i:i + len(p)] + "</span>" + t[i + len(p):]
+    return t
+
+
+def _slide_data(a: dict) -> dict:
+    """Use the routine's 'slides' field; fall back to the article text for older items."""
+    s = dict(a.get("slides") or {})
+    en_p, zh_p = _paras(a.get("summary_html", "")), _paras(a.get("summary_zh_html", ""))
+    bw = [_plain(m) for m in re.findall(r'<span class="bw">(.*?)<span class="tip">', a.get("summary_html", ""), flags=re.S)]
+    if not s.get("background_en") and en_p:
+        s["background_en"] = _first_sentence(en_p[0])
+        s["background_zh"] = _first_sentence(zh_p[0], "zh") if zh_p else ""
+        s["background_hl"] = next((b for b in bw if b.lower() in s["background_en"].lower()), "")
+    if not s.get("analysis_en") and len(en_p) > 1:
+        s["analysis_en"] = _first_sentence(en_p[1])
+        s["analysis_zh"] = _first_sentence(zh_p[1], "zh") if len(zh_p) > 1 else ""
+        s["analysis_hl"] = next((b for b in bw if b.lower() in s["analysis_en"].lower()), "")
+    if not s.get("vocab5"):
+        s["vocab5"] = [{"en": v.get("phrase", ""), "zh": v.get("zh", "")} for v in a.get("vocab", [])[:5]]
+    if not s.get("topic_en"):
+        s["topic_en"] = (a.get("cover_text") or {}).get("en") or a.get("headline", "")
+    return s
+
+
+def _slides_html(a: dict, uid: str) -> str:
+    s = _slide_data(a)
+    cat = _first_cat(a)
+    c1, c2 = _COVER_GRADIENTS.get(cat, ("#1e293b", "#475569"))
+    photo = a.get("cover")
+    # the band uses the text-free version of the AI photo, so titles stay readable
+    bg_rel = f"covers/bg/{a.get('id')}.jpg"
+    band_photo = bg_rel if os.path.exists(bg_rel) else None
+    band_bg = (f"background-image:linear-gradient(180deg,rgba(10,20,60,0.1),rgba(10,20,60,0.55)),url('{band_photo}');"
+               if band_photo else f"background-image:linear-gradient(135deg,{c1},{c2});")
+    foot = (f'<div class="sl-foot"><span class="sl-foot-zh">DSE英文時事議題</span>'
+            f'<span class="sl-foot-en">{_h_esc(s.get("topic_en", ""))}</span></div>')
+
+    def frame(title_en: str, inner: str, tall_band: bool = False) -> str:
+        return f"""
+        <div class="sl">
+          <div class="sl-band{' sl-band-tall' if tall_band else ''}" style="{band_bg}">
+            <span class="sl-brand">HKDSE DAILY 每日英語</span>
+            <div class="sl-title">{title_en}</div>
+          </div>
+          <div class="sl-paper">{inner}</div>
+          {foot}
+        </div>"""
+
+    slides = []
+    # 1 · cover
+    if photo:
+        slides.append(f'<div class="sl sl-cover"><img src="{photo}" alt="" loading="lazy"></div>')
+    else:
+        ct = a.get("cover_text") or {}
+        slides.append(frame("TODAY'S STORY", f"""
+            <div class="sl-hz">{_h_esc(' '.join(ct.get('zh_title', [])) or _cat_label(a))}</div>
+            <p class="sl-en sl-en-big">{_h_esc(a.get('headline', ''))}</p>""", tall_band=True))
+    # 2 · background + analysis
+    if s.get("background_en"):
+        inner = f"""
+            <div class="sl-hz">事件背景</div>
+            <p class="sl-en">{_mark(s['background_en'], s.get('background_hl', ''), 'sl-blue')}</p>
+            {f'<p class="sl-zh sl-bar-blue">{_h_esc(s.get("background_zh", ""))}</p>' if s.get('background_zh') else ''}"""
+        if s.get("analysis_en"):
+            inner += f"""
+            <div class="sl-hz">事件分析</div>
+            <p class="sl-en">{_mark(s['analysis_en'], s.get('analysis_hl', ''), 'sl-red')}</p>
+            {f'<p class="sl-zh sl-bar-red">{_h_esc(s.get("analysis_zh", ""))}</p>' if s.get('analysis_zh') else ''}"""
+        slides.append(frame("BACKGROUND", inner))
+    # 3 · both sides
+    if s.get("support_en") and s.get("oppose_en"):
+        slides.append(frame("BOTH SIDES", f"""
+            <div class="sl-hz">支持及反對原因</div>
+            <div class="sl-sub">SUPPORT 支持原因</div>
+            <p class="sl-en">{_mark(s['support_en'], s.get('support_hl', ''), 'sl-blue')}</p>
+            <p class="sl-zh sl-bar-blue">{_h_esc(s.get('support_zh', ''))}</p>
+            <div class="sl-sub">OPPOSITION 反對原因</div>
+            <p class="sl-en">{_mark(s['oppose_en'], s.get('oppose_hl', ''), 'sl-pink')}</p>
+            <p class="sl-zh sl-bar-pink">{_h_esc(s.get('oppose_zh', ''))}</p>"""))
+    # 4 · vocabulary
+    if s.get("vocab5"):
+        items = "".join(
+            f'<li><span class="sl-vn">{i}</span><span class="sl-vw"><b>{_h_esc(v.get("en", ""))}</b>'
+            f'<span class="sl-vzh">{_h_esc(v.get("zh", ""))}</span></span></li>'
+            for i, v in enumerate(s["vocab5"][:5], 1))
+        slides.append(frame("VOCABULARY", f'<div class="sl-hz">必學高分詞彙</div><ol class="sl-vocab">{items}</ol>'))
+    # 5 · further thought
+    if s.get("question_en"):
+        slides.append(frame("FURTHER THOUGHT", f"""
+            <div class="sl-hz">延伸思考</div>
+            <p class="sl-en sl-en-big">{_mark(s['question_en'], s.get('question_hl', ''), 'sl-red')}</p>
+            <p class="sl-zh-big">{_h_esc(s.get('question_zh', ''))}</p>
+            <div class="sl-q" aria-hidden="true">?</div>""", tall_band=True))
+
+    n = len(slides)
+    dots = "".join(f'<span class="sl-dot{" on" if i == 0 else ""}"></span>' for i in range(n))
+    return f"""
+      <div class="slides" data-n="{n}">
+        <div class="sl-track" onscroll="slideScroll(this)">{''.join(slides)}</div>
+        <span class="sl-count">1/{n}</span>
+        <button class="sl-nav sl-prev" onclick="slideGo(this,-1)" aria-label="Previous slide">‹</button>
+        <button class="sl-nav sl-next" onclick="slideGo(this,1)" aria-label="Next slide">›</button>
+        <div class="sl-dots">{dots}</div>
+      </div>"""
+
+
+def _h_esc(t: str) -> str:
+    import html as _h
+    return _h.escape(t or "")
+
+
 def _hidden_body(a: dict, uid: str) -> str:
     """Full article (EN + 中文 + notes + actions) loads on demand from a/<uid>.html."""
     _FRAGMENTS[uid] = (
-        _bilingual_html(a.get("summary_html", ""), a.get("summary_zh_html", ""), "news-body")
+        _slides_html(a, uid)
+        + _bilingual_html(a.get("summary_html", ""), a.get("summary_zh_html", ""), "news-body")
         + _study_notes_html(a, uid)
         + _actions_html(uid)
     )
@@ -3349,6 +3576,7 @@ def build_page(data: dict) -> str:
         trends_main=build_trend_main_html(trends),
         library=library_html,
         countdown_sidebar=countdown_html,
+        build=str(int(time.time())),
     )
 
 

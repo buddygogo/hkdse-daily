@@ -74,6 +74,19 @@ def check(articles, trends, archive, skip_ids=()):
         errs += pair_errors(a, name)
         if len((a.get("image_scene") or "").split()) < 15:
             errs.append(f"[{name}] image_scene missing or too short (describe literally what the cover picture shows, 40–70 words)")
+        sl = a.get("slides") or {}
+        need = ["topic_en", "background_en", "background_zh", "support_en", "support_zh", "oppose_en", "oppose_zh", "question_en", "question_zh"]
+        miss = [k for k in need if not sl.get(k)]
+        if miss:
+            errs.append(f"[{name}] slides missing: {', '.join(miss)}")
+        for k in ("background", "analysis", "support", "oppose", "question"):
+            hl, en = sl.get(k + "_hl"), sl.get(k + "_en", "")
+            if hl and hl.lower() not in en.lower():
+                errs.append(f"[{name}] slides.{k}_hl must appear inside slides.{k}_en")
+            if len(en.split()) > 30:
+                errs.append(f"[{name}] slides.{k}_en is too long for a slide (max 25 words)")
+        if len(sl.get("vocab5", [])) < 5:
+            errs.append(f"[{name}] slides.vocab5 needs 5 items")
         ct = a.get("cover_text") or {}
         if not ct.get("zh_title") or not ct.get("en"):
             errs.append(f"[{name}] cover_text missing (needs zh_title and en)")

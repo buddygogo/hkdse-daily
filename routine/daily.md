@@ -36,6 +36,7 @@ Exact structure (valid JSON, no comments):
       "summary_html": "<p>...</p><p>...</p><p>...</p>",
       "summary_zh_html": "<p>...</p><p>...</p><p>...</p>",
       "image_scene": "...",
+      "slides": {"topic_en": "...", "background_en": "...", "background_zh": "...", "background_hl": "...", "analysis_en": "...", "analysis_zh": "...", "analysis_hl": "...", "support_en": "...", "support_zh": "...", "support_hl": "...", "oppose_en": "...", "oppose_zh": "...", "oppose_hl": "...", "vocab5": [{"en": "...", "zh": "..."}], "question_en": "...", "question_zh": "...", "question_hl": "..."},
       "cover_text": {"zh_kicker": "...", "zh_title": ["...", "..."], "zh_hl": "...", "zh_sub": "...", "en": "..."},
       "vocab":   [ {"phrase": "...", "zh": "...", "sample": "..."} ],
       "phrases": [ {"en": "...", "zh": "...", "sample": "..."} ]
@@ -67,6 +68,15 @@ CONTENT RULES
      "en": "English key message, 6–10 words, plain and factual"}
   Traditional Chinese only (Hong Kong usage). Accurate to the article — no exaggeration or clickbait that the story does not support.
 - image_scene: 1–2 sentences (40–70 words) describing LITERALLY what the cover picture should show for THIS story, so a reader understands the news at a glance: the real Hong Kong place or venue, what is happening, who is involved (as anonymous people — no named or recognisable individuals) and the key objects. Concrete and visual, not symbolic. Example for a hospital opening: "Elderly residents with walking sticks waiting at a bus stop outside a huge brand-new public hospital in Kai Tak, a green minibus pulling up; Victoria Harbour behind." For sad or sensitive stories (deaths, abuse, arrests, self-harm) describe a calm, respectful setting related to the story and never show harm, injuries, victims or children in distress. No text, signs or logos in the scene.
+- slides: short text for the 5-slide carousel shown at the top of each article (Instagram "DSE英文時事議題" style). Keep every English line ≤ 25 words and every Chinese line ≤ 45 characters so it fits on a phone slide:
+    {"topic_en": "3–6 word topic title, e.g. AI Idols and Anti-drug Campaign",
+     "background_en": "1 sentence: what happened", "background_zh": "its Traditional Chinese translation", "background_hl": "key phrase from background_en to colour",
+     "analysis_en": "1 sentence: why it matters / the debate", "analysis_zh": "...", "analysis_hl": "...",
+     "support_en": "1 sentence: the strongest argument FOR", "support_zh": "...", "support_hl": "...",
+     "oppose_en": "1 sentence: the strongest argument AGAINST", "oppose_zh": "...", "oppose_hl": "...",
+     "vocab5": [{"en": "...", "zh": "..."}  ×5 — the five most useful expressions for a Paper 2 essay on this topic],
+     "question_en": "1 open discussion question for students", "question_zh": "...", "question_hl": "key phrase to colour"}
+  Every *_hl must appear exactly inside its English sentence.
 - vocab: 10–12 items, specific to THIS story's subject matter (e.g. for a sports story: "podium finish", "grassroots development"). zh = Traditional Chinese only. sample = a full DSE-quality sentence about this topic.
 - phrases: 10–15 reusable Paper 2 expressions that fit THIS article's argument and topic — e.g. ways to discuss sports funding, heritage conservation, or AI in the workplace. Each article must teach a DIFFERENT set. Never use generic stock connectives. These are banned: "It is widely argued that", "Critics contend that", "Nevertheless", "By the same token", "play a pivotal role in", "It is widely reported that", "digital literacy", "foster critical thinking".
 - Trends get the SAME treatment as articles: summary_html 150–200 words with 5–8 <span class="bw"> highlights (same tooltip format), a complete summary_zh_html translation with matching <span class="bwz"> marks (same count, same order), vocab (8–10 items) and phrases (8–10 items) specific to the trend — all unique against the library, like articles.

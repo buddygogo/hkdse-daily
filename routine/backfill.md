@@ -20,6 +20,7 @@ For an ARTICLE (id starts with "a"):
     {"zh_kicker": "2–6 character tag", "zh_title": ["≤8 chars", "≤8 chars"], "zh_hl": "striking part of a title line (must appear inside it)",
      "zh_sub": "≤14 character supporting line", "en": "6–10 word English key message"}. Traditional Chinese, accurate to the article, no clickbait.
   "image_scene": 1–2 sentences describing literally what the cover picture should show for this story (real Hong Kong place, what is happening, anonymous people, key objects; calm and respectful for sensitive stories; no text or logos).
+  "slides": carousel text for the article (see routine/daily.md "slides" for the exact fields and length limits) — always include for articles that lack it.
   "vocab": only include this key if check_data.py flags a vocab item — then supply a full replacement list of 10–12 topic-specific items.
 
 For a TREND (id starts with "t") — give it the same toolkit as articles:

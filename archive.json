@@ -148,7 +148,8 @@
     "zh_hl": "AI股",
     "zh_sub": "南向資金追捧港股AI",
     "en": "Mainland funds pivot into Hong Kong AI stocks"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -298,7 +299,8 @@
     "zh_hl": "瘀傷",
     "zh_sub": "學生質疑涉迎新迫害",
     "en": "CityU hazing scandal exposes bruised students"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -448,7 +450,8 @@
     "zh_hl": "鬥犬",
     "zh_sub": "打鼓嶺奪命案後修法",
     "en": "Hong Kong tightens checks on fighting-breed dogs"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -598,7 +601,8 @@
     "zh_hl": "假疫苗",
     "zh_sub": "搜查無人曾注射WT1",
     "en": "Health raids find no one received WT1 jab"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -748,7 +752,8 @@
     "zh_hl": "告吹",
     "zh_sub": "樂迷錯愕促加強保障",
     "en": "Post Malone postpones Hong Kong stadium show"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -898,7 +903,8 @@
     "zh_hl": "地王",
     "zh_sub": "港鐵招標吸引龍頭爭奪",
     "en": "MTR's Tuen Mun site draws top developers' bids"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -1048,7 +1054,8 @@
     "zh_hl": "國際味",
     "zh_sub": "廿地花燈齊聚維園",
     "en": "Hong Kong's first international lantern spectacular"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -1198,7 +1205,8 @@
     "zh_hl": "AI",
     "zh_sub": "兩年觸及五萬打工仔",
     "en": "Hong Kong launches HK$50m AI upskilling scheme"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -1348,7 +1356,8 @@
     "zh_hl": "合併",
     "zh_sub": "出生率創新低",
     "en": "Eight zero-class schools approved to merge"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -1498,7 +1507,8 @@
     "zh_hl": "4月升",
     "zh_sub": "中小企籲設能源補貼",
     "en": "Hong Kong power surcharge rises for fourth month"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Dim Sum Daily",
@@ -1648,7 +1658,8 @@
     "zh_hl": "嚴重",
     "zh_sub": "籲及早打針防爆發",
     "en": "Severe child flu cases prompt vaccination appeal"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -1798,7 +1809,8 @@
     "zh_hl": "淘汰",
     "zh_sub": "畢業生職缺跌六成",
     "en": "Hong Kong admits AI will displace some jobs"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -1948,7 +1960,8 @@
     "zh_hl": "押後",
     "zh_sub": "啟德首秀告吹惹不滿",
     "en": "Post Malone postpones entire Asia stadium tour"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -2098,7 +2111,8 @@
     "zh_hl": "舞火龍",
     "zh_sub": "國際花燈共慶團圓",
     "en": "Victoria Park doubles up for Mid-Autumn Festival"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -2248,7 +2262,8 @@
     "zh_hl": "AI實驗室",
     "zh_sub": "300學生駐校研習AI",
     "en": "HKU opens AI labs at expanded Shanghai campus"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -2388,7 +2403,8 @@
     "zh_hl": "減弱",
     "zh_sub": "熱帶低氣壓減弱消散",
     "en": "Hong Kong cancels all signals as storm weakens"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -2533,7 +2549,8 @@
     "zh_hl": "風波",
     "zh_sub": "校方完成紀律調查",
     "en": "CityU concludes probe into orientation camp scandal"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -2678,7 +2695,8 @@
     "zh_hl": "蟲患",
     "zh_sub": "酷熱暴雨夾擊露宿者",
     "en": "Pests and heat compound health risks for Hong Kong's homeless"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -2823,7 +2841,8 @@
     "zh_hl": "故障",
     "zh_sub": "承建商被停牌調查",
     "en": "Hong Kong suspends contractors over hospital lift defects"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Sunday Guardian Live",
@@ -2968,7 +2987,8 @@
     "zh_hl": "油價升溫",
     "zh_sub": "通脹陰霾籠罩港股",
     "en": "Rising oil prices reignite inflation fears, pressuring Hong Kong stocks."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "OpenGov Asia",
@@ -3113,7 +3133,8 @@
     "zh_hl": "智能試驗",
     "zh_sub": "校園人工智能先行先試",
     "en": "Hong Kong pilots AI privacy safeguards in schools."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -3258,7 +3279,8 @@
     "zh_hl": "花燈節",
     "zh_sub": "維園賞燈迎中秋",
     "en": "Hong Kong hosts its first international lantern festival this Mid-Autumn."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -3403,7 +3425,8 @@
     "zh_hl": "啟德開騷",
     "zh_sub": "韓流本地樂壇並駕齊驅",
     "en": "Kai Tak Stadium cements Hong Kong's live music status."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Media OutReach Newswire",
@@ -3548,7 +3571,8 @@
     "zh_hl": "同行時刻",
     "zh_sub": "藝人同行談育兒情緒",
     "en": "New campaign urges adults to notice children's emotional distress early."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -3693,7 +3717,8 @@
     "zh_hl": "259檢控",
     "zh_sub": "九個月後終提檢控",
     "en": "Buildings Department charges six over deadly Wang Fuk Court fire."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -3838,7 +3863,8 @@
     "zh_hl": "酷熱風險",
     "zh_sub": "四成長者居高危地區",
     "en": "Nearly 40% of elderly residents face serious heat risk."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -3983,7 +4009,8 @@
     "zh_hl": "童年之殤",
     "zh_sub": "學者促校媒負責任",
     "en": "Child suicide rate triples, researchers urge schools to act."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "PR Newswire",
@@ -4128,7 +4155,8 @@
     "zh_hl": "氣候峰會",
     "zh_sub": "各界共商落實氣候行動",
     "en": "ReThink HK 2026 gathers global leaders to accelerate climate action."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -4273,7 +4301,8 @@
     "zh_hl": "智能浪潮",
     "zh_sub": "局長警告衝擊超工業革命",
     "en": "Hong Kong's tech chief warns AI will reshape every industry."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -4418,7 +4447,8 @@
     "zh_hl": "花燈盛事",
     "zh_sub": "維園上演國際花燈",
     "en": "Hong Kong Tourism Board unveils its first international lantern spectacular."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "AsiaWorld-Expo",
@@ -4563,7 +4593,8 @@
     "zh_hl": "女團開騷",
     "zh_sub": "亞博館再掀韓流熱潮",
     "en": "NMIXX brings its first world tour to Hong Kong fans."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "China Daily (Hong Kong Edition)",
@@ -4708,7 +4739,8 @@
     "zh_hl": "智能轉型",
     "zh_sub": "初級職位首當其衝",
     "en": "AI adoption reshapes Hong Kong's labour market and graduate hiring."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -4853,7 +4885,8 @@
     "zh_hl": "矛盾現象",
     "zh_sub": "社交媒體加劇風險",
     "en": "HKU researchers link social media use to rising child suicide."
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -4998,7 +5031,8 @@
     "zh_hl": "斷津貼",
     "zh_sub": "演唱會門票引發福利爭論",
     "en": "Concert trip costs family their welfare subsidy"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -5143,7 +5177,8 @@
     "zh_hl": "拒分錢",
     "zh_sub": "三千萬六合彩款被凍結",
     "en": "Man allegedly refuses to share lottery jackpot winnings"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -5288,7 +5323,8 @@
     "zh_hl": "未達標",
     "zh_sub": "房署下令加做強度測試",
     "en": "Housing Authority orders extra concrete tests at Tung Chung"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -5433,7 +5469,8 @@
     "zh_hl": "花燈薈萃",
     "zh_sub": "維園三千花燈賀中秋",
     "en": "Hong Kong hosts first international lantern festival for Mid-Autumn"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -5578,7 +5615,8 @@
     "zh_hl": "升級",
     "zh_sub": "陳茂波推AI技能計劃",
     "en": "Government launches AI upskilling programme for Hong Kong workers"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "HKU Press Office",
@@ -5723,7 +5761,8 @@
     "zh_hl": "必修",
     "zh_sub": "新生須完成AI基礎課",
     "en": "HKU makes AI literacy compulsory for all new students"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -5868,7 +5907,8 @@
     "zh_hl": "36.9度",
     "zh_sub": "天文台錄得史上最熱一天",
     "en": "Hong Kong records hottest day ever amid Typhoon Dolphin"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -6018,7 +6058,8 @@
     "zh_hl": "打針",
     "zh_sub": "兒童高燒不退住院增",
     "en": "Health authorities urge parents to vaccinate children against flu"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -6168,7 +6209,8 @@
     "zh_hl": "買一送一",
     "zh_sub": "三大超市促銷惹質疑",
     "en": "Consumer Council questions real value of supermarket discounts"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Dim Sum Daily",
@@ -6318,7 +6360,8 @@
     "zh_hl": "紅館",
     "zh_sub": "相隔十一年重返紅館",
     "en": "Alan Tam returns to Hong Kong Coliseum after eleven years"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -6468,7 +6511,8 @@
     "zh_hl": "需補救",
     "zh_sub": "房署要求額外抗壓測試",
     "en": "Housing Department orders repairs to Tung Chung concrete blocks"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "GovHK / Education Bureau",
@@ -6618,7 +6662,8 @@
     "zh_hl": "核心價值",
     "zh_sub": "新學年起全港學校推行",
     "en": "Education Bureau unveils values framework for all schools"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Manila Times (Media Outreach Newswire)",
@@ -6768,7 +6813,8 @@
     "zh_hl": "大灣區",
     "zh_sub": "黑客松九成參賽者感興趣",
     "en": "Hackathon links European tech talent to Greater Bay Area"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -6918,7 +6964,8 @@
     "zh_hl": "利東街",
     "zh_sub": "大坑舞火龍三晚登場",
     "en": "Lantern festival and fire dragon dance mark Mid-Autumn Festival"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Green Week / HKMA",
@@ -7063,7 +7110,8 @@
     "zh_hl": "氣候韌性",
     "zh_sub": "民間資本能否補資金缺口",
     "en": "Hong Kong eyes green finance hub status amid funding gaps"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -7208,7 +7256,8 @@
     "zh_hl": "五年規劃",
     "zh_sub": "增長與房屋出生率措施並重",
     "en": "Hong Kong unveils first Five-Year Plan with accountability pledges"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "OpenGov Asia",
@@ -7353,7 +7402,8 @@
     "zh_hl": "大刀闊斧",
     "zh_sub": "擴容縮時推數碼轉型",
     "en": "Hospital Authority unveils reforms to expand capacity, cut waits"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -7498,7 +7548,8 @@
     "zh_hl": "焦慮創新高",
     "zh_sub": "沉默文化阻礙學生求助",
     "en": "Student anxiety hits five-year high amid mounting academic pressure"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -7633,7 +7684,8 @@
     "zh_hl": "開騷",
     "zh_sub": "20周年世界巡演回歸香港",
     "en": "BIGBANG's anniversary tour brings three sold-out nights to Hong Kong"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -7805,7 +7857,8 @@
     "zh_hl": "翻倍",
     "zh_sub": "百億注資帶動市場四百億",
     "en": "Hong Kong nearly doubles innovation spending target under new plan"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -7977,7 +8030,8 @@
     "zh_hl": "合併誘因",
     "zh_sub": "收生不足與出生率雙重夾擊",
     "en": "Hong Kong widens school merger incentives amid falling enrolment"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -8149,7 +8203,8 @@
     "zh_hl": "濕地保護",
     "zh_sub": "北部都會區發展惹保育爭議",
     "en": "Greenpeace says Northern Metropolis plan lacks binding wetland targets"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -8316,7 +8371,8 @@
     "zh_hl": "花燈節",
     "zh_sub": "廿國花燈齊聚添新意",
     "en": "Victoria Park hosts first international lantern festival for Mid-Autumn"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -8483,7 +8539,8 @@
     "zh_hl": "企業須自強",
     "zh_sub": "李家超籲企業提升競爭力",
     "en": "Lee urges firms to strive for competitiveness despite state support"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -8650,7 +8707,8 @@
     "zh_hl": "外地護理員",
     "zh_sub": "先導計劃應對人口老化",
     "en": "Hong Kong to pay new foreign elderly carers higher wages"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -8817,7 +8875,8 @@
     "zh_hl": "及早接種",
     "zh_sub": "醫管局購130萬劑疫苗",
     "en": "Hospital Authority urges early flu jabs as infections climb"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -8984,7 +9043,8 @@
     "zh_hl": "尖沙咀",
     "zh_sub": "千人提前通宵排隊等候",
     "en": "BABYMONSTER draws over 1,000 fans to Tsim Sha Tsui event"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -9129,7 +9189,8 @@
     "zh_hl": "重安全",
     "zh_sub": "創科突破須配合監管規範",
     "en": "Hong Kong leader vows to balance AI growth with safety"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -9274,7 +9335,8 @@
     "zh_hl": "合併潮",
     "zh_sub": "資源整合或犧牲學校特色",
     "en": "Hong Kong turns to school mergers as enrolment keeps falling"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Bloomberg",
@@ -9419,7 +9481,8 @@
     "zh_hl": "漂綠",
     "zh_sub": "金管局擬加強氣候披露要求",
     "en": "Hong Kong considers stricter climate disclosure rules for banks"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -9564,7 +9627,8 @@
     "zh_hl": "花燈盛會",
     "zh_sub": "匯聚各地花燈慶團圓",
     "en": "Victoria Park hosts Hong Kong's first international lantern festival"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Sunday Examiner",
@@ -9709,7 +9773,8 @@
     "zh_hl": "七童自殺",
     "zh_sub": "考試文化下的心理健康警號",
     "en": "Hong Kong confronts a deepening student mental health crisis"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -9854,7 +9919,8 @@
     "zh_hl": "39師生不適",
     "zh_sub": "課室分餐模式惹交叉污染疑慮",
     "en": "Food poisoning cluster at Sha Tin school raises supplier scrutiny"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -9994,7 +10060,8 @@
     "zh_hl": "CEPA",
     "zh_sub": "外資如同本地商戶享內地准入",
     "en": "Hong Kong gives foreign firms equal mainland market access"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Time",
@@ -10139,7 +10206,8 @@
     "zh_hl": "走出去",
     "zh_sub": "本地復甦對比全球系統輸出",
     "en": "Cantopop quietly revives while K-pop dominates the world stage"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -10279,7 +10347,8 @@
     "zh_hl": "大坑火龍",
     "zh_sub": "百年儀式驅疫傳承至今",
     "en": "Tai Hang's fire dragon dance returns for Mid-Autumn Festival"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -10424,7 +10493,8 @@
     "zh_hl": "雙刃",
     "zh_sub": "警方警告AI構成國安威脅",
     "en": "Hong Kong police warn AI poses growing national security threat"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -10569,7 +10639,8 @@
     "zh_hl": "氣候論述",
     "zh_sub": "廿二指標難凝聚綠色共識",
     "en": "Hong Kong's climate targets lack a narrative to unite them"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -10714,7 +10785,8 @@
     "zh_hl": "AI素養",
     "zh_sub": "每校獲資助推AI教育",
     "en": "Hong Kong schools must build AI literacy under new blueprint"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -10859,7 +10931,8 @@
     "zh_hl": "何詩蓓",
     "zh_sub": "主場掀熱潮惟基層待扶持",
     "en": "Siobhan Haughey wins silver to reach four Asian Games medals"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -10999,7 +11072,8 @@
     "zh_hl": "醫療創新",
     "zh_sub": "癌症大會宣示生物科技雄心",
     "en": "John Lee outlines plan for medical innovation hub"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -11144,7 +11218,8 @@
     "zh_hl": "恒指急挫",
     "zh_sub": "全球債市拋售波及港股表現",
     "en": "Hang Seng Index falls as global bond sell-off hits markets"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -11289,7 +11364,8 @@
     "zh_hl": "未見突破",
     "zh_sub": "象徵意義大 實質進展少",
     "en": "Trump and Xi meet, but no major breakthroughs emerge"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -11434,7 +11510,8 @@
     "zh_hl": "火龍",
     "zh_sub": "港鐵電車巴士延長服務",
     "en": "Hong Kong extends night transport for Fire Dragon Festival"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -11579,7 +11656,8 @@
     "zh_hl": "零薪酬",
     "zh_sub": "收生荒下幼師通宵籌辦活動",
     "en": "Kindergarten teachers work unpaid overtime amid enrolment crunch"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -11724,7 +11802,8 @@
     "zh_hl": "紙漿",
     "zh_sub": "本地處理減海外依賴",
     "en": "Hong Kong to process all recovered paper locally from October"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "OpenGov Asia",
@@ -11869,7 +11948,8 @@
     "zh_hl": "科研合作",
     "zh_sub": "本港拓展人工智能夥伴網絡",
     "en": "Hong Kong seeks deeper AI ties with Austria"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -12019,7 +12099,8 @@
     "zh_hl": "啓德",
     "zh_sub": "承諾無縫過渡迎啓德",
     "en": "Queen Elizabeth Hospital's move to Kai Tak begins next month"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -12164,7 +12245,8 @@
     "zh_hl": "港燈減",
     "zh_sub": "地緣局勢左右電費走向",
     "en": "HK Electric cuts charge while CLP raises its rate"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Sunday Examiner",
@@ -12309,7 +12391,8 @@
     "zh_hl": "身心",
     "zh_sub": "社評呼籲學校家庭同心支援",
     "en": "Editorial calls for renewed focus on student mental health"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Time Out Hong Kong",
@@ -12454,7 +12537,8 @@
     "zh_hl": "啓德",
     "zh_sub": "BigBang連開四場演唱會",
     "en": "BigBang returns to Hong Kong for four-night Cosmos tour"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -12599,7 +12683,8 @@
     "zh_hl": "AI人才",
     "zh_sub": "出口大增 盼育成AI專才",
     "en": "Hong Kong needs more AI talent to drive growth"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -12744,7 +12829,8 @@
     "zh_hl": "合併",
     "zh_sub": "集中資源 非單為小校解困",
     "en": "School merger scheme aims to pool resources, not just rescue"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "HKFP",
@@ -12889,7 +12975,8 @@
     "zh_hl": "氣候",
     "zh_sub": "酷熱日增四倍 暴雨紀錄頻破",
     "en": "Hong Kong's hot days have quadrupled over two decades"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Zolima CityMag",
@@ -13036,7 +13123,8 @@
     "zh_sub": "萬人圍觀 非遺薪火相傳",
     "en": "Tai Hang's fire dragon lights up Mid-Autumn"
    },
-   "summary_zh_html": "<p>香港今年的中秋慶祝活動,在大坑舞火龍——這項傳統已踏入第147屆——再次穿梭於銅鑾灣狹窄街巷之際,迎來高潮。一條長67米、插滿逾一萬二千支燃亮線香的火龍,由約三百名舞者高舉,連續三晚沿浣紗街及銅鑾灣道蜈蚣式舞動,吸引大批市民前來觀賞這項自1880年起大致保持不變的傳統。</p><p>普遍相信,這項已列入國家級<span class=\"bwz\">非物質文化遺產</span>名錄的儀式,最初是因應多年前一場瘟疫侵襲村落而設,目的是<span class=\"bwz\">驅除厄運</span>。然而,這項傳統在過去數十年間經歷不少演變,今年更以一場<span class=\"bwz\">壓軸巡遊</span>進駐維多利亞公園作結,火龍與首次在該場地舉行的國際花燈展同場亮相。壓軸路段的預留座位門票<span class=\"bwz\">早已售罄</span>,但主辦方確保街頭觀賞依然免費開放予所有人。</p><p>同樣地,這個節慶亦凸顯出香港在保存古老習俗與迎合現代旅遊需求之間,須取得的<span class=\"bwz\">微妙平衡</span>。社區長老認為,<span class=\"bwz\">跨代參與</span>——讓兒童手持LED迷你火龍,與資深舞者並肩同行——是讓這些傳承習俗得以延續,而非<span class=\"bwz\">逐漸式微並被淘汰</span>的關鍵。對於正在研習香港文化身份的學生而言,舞火龍提供了一個生動的案例,說明傳統如何能靠積極的社區參與,而非單純懷舊之情,得以延續下去。</p>"
+   "summary_zh_html": "<p>香港今年的中秋慶祝活動,在大坑舞火龍——這項傳統已踏入第147屆——再次穿梭於銅鑾灣狹窄街巷之際,迎來高潮。一條長67米、插滿逾一萬二千支燃亮線香的火龍,由約三百名舞者高舉,連續三晚沿浣紗街及銅鑾灣道蜈蚣式舞動,吸引大批市民前來觀賞這項自1880年起大致保持不變的傳統。</p><p>普遍相信,這項已列入國家級<span class=\"bwz\">非物質文化遺產</span>名錄的儀式,最初是因應多年前一場瘟疫侵襲村落而設,目的是<span class=\"bwz\">驅除厄運</span>。然而,這項傳統在過去數十年間經歷不少演變,今年更以一場<span class=\"bwz\">壓軸巡遊</span>進駐維多利亞公園作結,火龍與首次在該場地舉行的國際花燈展同場亮相。壓軸路段的預留座位門票<span class=\"bwz\">早已售罄</span>,但主辦方確保街頭觀賞依然免費開放予所有人。</p><p>同樣地,這個節慶亦凸顯出香港在保存古老習俗與迎合現代旅遊需求之間,須取得的<span class=\"bwz\">微妙平衡</span>。社區長老認為,<span class=\"bwz\">跨代參與</span>——讓兒童手持LED迷你火龍,與資深舞者並肩同行——是讓這些傳承習俗得以延續,而非<span class=\"bwz\">逐漸式微並被淘汰</span>的關鍵。對於正在研習香港文化身份的學生而言,舞火龍提供了一個生動的案例,說明傳統如何能靠積極的社區參與,而非單純懷舊之情,得以延續下去。</p>",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -13181,7 +13269,8 @@
     "zh_hl": "北都",
     "zh_sub": "九區同步動工五年規劃啟動",
     "en": "Policy Address unveils Northern Metropolis and AI City Brain"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "OpenGov Asia",
@@ -13326,7 +13415,8 @@
     "zh_hl": "啟用",
     "zh_sub": "盼緩解伊利沙伯醫院壓力",
     "en": "Kai Tak Hospital opens in phases from October"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -13471,7 +13561,8 @@
     "zh_hl": "水電費飆升",
     "zh_sub": "住戶開支壓力漸增",
     "en": "Inflation holds steady as utility bills surge"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -13616,7 +13707,8 @@
     "zh_hl": "精神科病房",
     "zh_sub": "葵涌醫院重建後啟用",
     "en": "Hong Kong opens first youth psychiatric ward"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -13761,7 +13853,8 @@
     "zh_hl": "視AI為助力",
     "zh_sub": "入門職位恐首當其衝",
     "en": "Most HK employers see AI boosting jobs, not cutting them"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -13906,7 +13999,8 @@
     "zh_hl": "爆大型鬥殴",
     "zh_sub": "涉太空油市場爭奪",
     "en": "Gang brawl over drug turf renews public concern"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "Dim Sum Daily",
@@ -14051,7 +14145,8 @@
     "zh_hl": "煙花耀維港",
     "zh_sub": "逾三萬一千枚煙火彈",
     "en": "Hong Kong marks National Day with harbour fireworks"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -14198,7 +14293,8 @@
     "zh_sub": "發展局：區內配套不足",
     "en": "Public flats dropped at Pak Shek Kok rail site"
    },
-   "summary_zh_html": "<p>發展局確認就白石角新鐵路站計劃作出臨門<span class=\"bwz\">大轉變</span>後，再次受到社會審視——公屋悄悄被剔出該地段，改由私人樓宇取代。發展局常任秘書長何珮玲星期五向記者表示，該車站屬東鐵綫延線工程的一部分，<span class=\"bwz\">預留</span>最早於二零三三年通車，將改以允許項目發展商在周邊土地興建及出售私人住宅的方式融資。</p><p>普遍認為，此類政策逆轉會削弱公眾對長遠規劃的信心，但官員堅稱這項決定純屬務實考量，並非政治決定。何珮玲解釋，建議車站周邊地區目前缺乏<span class=\"bwz\">必需</span>的社區設施——學校、診所及交通連接——未能支援規模可觀的公共房屋項目，而純粹興建私人樓宇則更能與該區現有發展<span class=\"bwz\">配合</span>。然而，議員已追問發展局，為何未有兌現原來承諾提供部分資助房屋的混合用途規劃藍圖。</p><p>同樣道理，政府亦急於<span class=\"bwz\">緩解</span>公眾對全港房屋供應的憂慮。官員強調，經修訂的建議不會<span class=\"bwz\">危害</span>政府在二零三六年前提供四十二萬個單位（包括二十九萬四千個公共單位）的十年目標，因為據報已在其他地點<span class=\"bwz\">確保</span>足夠土地以達標。然而，評論者認為，像這次的<span class=\"bwz\">臨時</span>調整有可能削弱公眾對北部都會區整體策略的信心，並要求當局在決定此類房屋取捨時提高<span class=\"bwz\">透明度</span>。</p>"
+   "summary_zh_html": "<p>發展局確認就白石角新鐵路站計劃作出臨門<span class=\"bwz\">大轉變</span>後，再次受到社會審視——公屋悄悄被剔出該地段，改由私人樓宇取代。發展局常任秘書長何珮玲星期五向記者表示，該車站屬東鐵綫延線工程的一部分，<span class=\"bwz\">預留</span>最早於二零三三年通車，將改以允許項目發展商在周邊土地興建及出售私人住宅的方式融資。</p><p>普遍認為，此類政策逆轉會削弱公眾對長遠規劃的信心，但官員堅稱這項決定純屬務實考量，並非政治決定。何珮玲解釋，建議車站周邊地區目前缺乏<span class=\"bwz\">必需</span>的社區設施——學校、診所及交通連接——未能支援規模可觀的公共房屋項目，而純粹興建私人樓宇則更能與該區現有發展<span class=\"bwz\">配合</span>。然而，議員已追問發展局，為何未有兌現原來承諾提供部分資助房屋的混合用途規劃藍圖。</p><p>同樣道理，政府亦急於<span class=\"bwz\">緩解</span>公眾對全港房屋供應的憂慮。官員強調，經修訂的建議不會<span class=\"bwz\">危害</span>政府在二零三六年前提供四十二萬個單位（包括二十九萬四千個公共單位）的十年目標，因為據報已在其他地點<span class=\"bwz\">確保</span>足夠土地以達標。然而，評論者認為，像這次的<span class=\"bwz\">臨時</span>調整有可能削弱公眾對北部都會區整體策略的信心，並要求當局在決定此類房屋取捨時提高<span class=\"bwz\">透明度</span>。</p>",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -14343,7 +14439,8 @@
     "zh_hl": "只顧高風險",
     "zh_sub": "顧問籲擴至全體學生",
     "en": "Adviser urges wider mental health support for youth"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -14490,7 +14587,8 @@
     "zh_sub": "專家：大學生要提早轉型",
     "en": "Graduates face a job market reshaped by AI"
    },
-   "summary_zh_html": "<p>香港的新畢業生正面對日益不明朗的<span class=\"bwz\">勞動市場</span>，因為人工智能正逐步取代昔日曾作為踏入全職事業<span class=\"bwz\">踏腳石</span>的常規工作。據勞動市場專家指出，適合大學畢業生的全職職位空缺數目，已由二零二二年約八萬個，<span class=\"bwz\">急劇下跌</span>至去年僅三萬一千個，這一跌幅普遍被歸因於全城各辦公室迅速採用人工智能工具。</p><p>普遍認為，行政支援、文書工作及其他<span class=\"bwz\">入門級</span>職位——向來是年輕求職者最容易踏入職場的途徑——正被自動化系統性取代。一名專家直言警告：「年輕人願意學習及努力工作，已不再必然能夠找到工作」，凸顯職場上有關<span class=\"bwz\">精英制度</span>的傳統假設正受到考驗。勞工顧問委員會一名成員進一步警告，僱主日益重視即時生產力，令許多機構不願意為缺乏經驗的新人投資<span class=\"bwz\">在職培訓</span>。</p><p>然而，並非所有聲音都偏向悲觀。正如自動化威脅著某些職位，它同時亦正在將需求轉向新的技能組合：一項全球調查發現，僱主日益重視批判思考、數據分析及<span class=\"bwz\">合乎道德的決策</span>，多於單純的常規能力。評論者則認為，若缺乏針對性的再培訓計劃及政府支援，即使入門機會持續消失，亦可能出現經驗豐富的本地人才<span class=\"bwz\">持續短缺</span>的情況。</p>"
+   "summary_zh_html": "<p>香港的新畢業生正面對日益不明朗的<span class=\"bwz\">勞動市場</span>，因為人工智能正逐步取代昔日曾作為踏入全職事業<span class=\"bwz\">踏腳石</span>的常規工作。據勞動市場專家指出，適合大學畢業生的全職職位空缺數目，已由二零二二年約八萬個，<span class=\"bwz\">急劇下跌</span>至去年僅三萬一千個，這一跌幅普遍被歸因於全城各辦公室迅速採用人工智能工具。</p><p>普遍認為，行政支援、文書工作及其他<span class=\"bwz\">入門級</span>職位——向來是年輕求職者最容易踏入職場的途徑——正被自動化系統性取代。一名專家直言警告：「年輕人願意學習及努力工作，已不再必然能夠找到工作」，凸顯職場上有關<span class=\"bwz\">精英制度</span>的傳統假設正受到考驗。勞工顧問委員會一名成員進一步警告，僱主日益重視即時生產力，令許多機構不願意為缺乏經驗的新人投資<span class=\"bwz\">在職培訓</span>。</p><p>然而，並非所有聲音都偏向悲觀。正如自動化威脅著某些職位，它同時亦正在將需求轉向新的技能組合：一項全球調查發現，僱主日益重視批判思考、數據分析及<span class=\"bwz\">合乎道德的決策</span>，多於單純的常規能力。評論者則認為，若缺乏針對性的再培訓計劃及政府支援，即使入門機會持續消失，亦可能出現經驗豐富的本地人才<span class=\"bwz\">持續短缺</span>的情況。</p>",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -14635,7 +14733,8 @@
     "zh_hl": "蔡德銓接任",
     "zh_sub": "留任顧問一年助過渡",
     "en": "Hang Lung names new CEO as Weber Lo departs"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -14790,7 +14889,8 @@
     "zh_hl": "歷史雙金",
     "zh_sub": "香港金牌數破雙位數",
     "en": "Hong Kong windsurfers win historic double gold"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "HK01",
@@ -14945,7 +15045,8 @@
     "zh_hl": "工資上調",
     "zh_sub": "加至每月五千二百二十元",
     "en": "Hong Kong raises minimum wage for domestic helpers"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "HK01",
@@ -15100,7 +15201,8 @@
     "zh_hl": "謀殺有預謀",
     "zh_sub": "開審揭連日購物細節",
     "en": "Prosecution alleges premeditated plan in Abby Choi trial"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -15255,7 +15357,8 @@
     "zh_hl": "爭議未息",
     "zh_sub": "盧寵茂籲以事實為本",
     "en": "Nursing job market dispute deepens in Hong Kong"
-   }
+   },
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -15410,7 +15513,8 @@
     }
    ],
    "date": "2026-10-04",
-   "id": "a91aae56d"
+   "id": "a91aae56d",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -15565,7 +15669,8 @@
     }
    ],
    "date": "2026-10-04",
-   "id": "ac27a648f"
+   "id": "ac27a648f",
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -15720,7 +15825,8 @@
     }
    ],
    "date": "2026-10-04",
-   "id": "a397ffcc8"
+   "id": "a397ffcc8",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -15875,7 +15981,8 @@
     }
    ],
    "date": "2026-10-04",
-   "id": "a1d4c2ff5"
+   "id": "a1d4c2ff5",
+   "needs_backfill": true
   },
   {
    "source_name": "HK01",
@@ -16021,7 +16128,8 @@
    ],
    "date": "2026-10-05",
    "id": "a2c609bdc",
-   "image_scene": "A sold-out K-pop concert at the Kai Tak Sports Park Arena: four performers on a huge bright stage seen from deep in the crowd, thousands of fans waving light sticks, pastel stage lights and falling confetti."
+   "image_scene": "A sold-out K-pop concert at the Kai Tak Sports Park Arena: four performers on a huge bright stage seen from deep in the crowd, thousands of fans waving light sticks, pastel stage lights and falling confetti.",
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -16167,7 +16275,8 @@
    ],
    "date": "2026-10-05",
    "id": "acbecabdd",
-   "image_scene": "A small independent newsroom in Hong Kong at dusk: an empty reporter's desk with a press card, notebook, voice recorder and an open laptop, a folded umbrella leaning against the chair, city lights outside the window. Calm, neutral documentary tone."
+   "image_scene": "A small independent newsroom in Hong Kong at dusk: an empty reporter's desk with a press card, notebook, voice recorder and an open laptop, a folded umbrella leaning against the chair, city lights outside the window. Calm, neutral documentary tone.",
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -16312,7 +16421,8 @@
     }
    ],
    "date": "2026-10-05",
-   "id": "a77debbaf"
+   "id": "a77debbaf",
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -16457,7 +16567,8 @@
     }
    ],
    "date": "2026-10-05",
-   "id": "a54f26cc3"
+   "id": "a54f26cc3",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -16608,7 +16719,8 @@
    ],
    "date": "2026-10-06",
    "id": "afbc4a69a",
-   "image_scene": "Elderly Hong Kong residents with walking sticks and shopping trolleys waiting at a bus stop outside a huge brand-new modern public hospital complex in Kai Tak, a green minibus pulling up; Victoria Harbour and the Kowloon skyline behind."
+   "image_scene": "Elderly Hong Kong residents with walking sticks and shopping trolleys waiting at a bus stop outside a huge brand-new modern public hospital complex in Kai Tak, a green minibus pulling up; Victoria Harbour and the Kowloon skyline behind.",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -16759,7 +16871,8 @@
    ],
    "date": "2026-10-06",
    "id": "a90b42f90",
-   "image_scene": "A scorching hot, dry September afternoon in Hong Kong: cracked dry earth and a low water line at the edge of a half-empty reservoir, harsh bright sunlight and heat haze over green hills and high-rise blocks in the distance, a few people shading themselves with umbrellas on the dam path."
+   "image_scene": "A scorching hot, dry September afternoon in Hong Kong: cracked dry earth and a low water line at the edge of a half-empty reservoir, harsh bright sunlight and heat haze over green hills and high-rise blocks in the distance, a few people shading themselves with umbrellas on the dam path.",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -16905,7 +17018,8 @@
    ],
    "date": "2026-10-06",
    "id": "af8eece42",
-   "image_scene": "Hong Kong sailors racing small sailing dinghies on sparkling blue sea at the Asian Games, sails filled with wind and spray flying, with a podium and gold, silver and bronze medals glinting in the foreground."
+   "image_scene": "Hong Kong sailors racing small sailing dinghies on sparkling blue sea at the Asian Games, sails filled with wind and spray flying, with a podium and gold, silver and bronze medals glinting in the foreground.",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -17051,7 +17165,8 @@
    ],
    "date": "2026-10-06",
    "id": "aff98d4f5",
-   "image_scene": "A bustling Hong Kong shopping street during the Golden Week holiday: crowds of tourists with shopping bags and rolling suitcases, packed restaurants with diners at every table, bright shop windows and a busy hotel entrance."
+   "image_scene": "A bustling Hong Kong shopping street during the Golden Week holiday: crowds of tourists with shopping bags and rolling suitcases, packed restaurants with diners at every table, bright shop windows and a busy hotel entrance.",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -17207,7 +17322,8 @@
    ],
    "date": "2026-10-08",
    "id": "abd69f77e",
-   "image_scene": "A bright counselling room in a Hong Kong secondary school: a school social worker's small round table with two chairs facing each other, a box of tissues, a potted plant and a rack of support leaflets, morning sun through the window; a young student's small school backpack rests on one chair. The feeling is support and care for younger students."
+   "image_scene": "A bright counselling room in a Hong Kong secondary school: a school social worker's small round table with two chairs facing each other, a box of tissues, a potted plant and a rack of support leaflets, morning sun through the window; a young student's small school backpack rests on one chair. The feeling is support and care for younger students.",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -17358,7 +17474,8 @@
    ],
    "date": "2026-10-08",
    "id": "a8f7a3447",
-   "image_scene": "Inside a Hong Kong subsidised flat being divided into tiny rooms: new thin partition walls half-built, a narrow corridor, a cramped room just big enough for a bunk bed, a housing inspector's clipboard and tape measure on the floor; through the window, rows of public-housing estate blocks."
+   "image_scene": "Inside a Hong Kong subsidised flat being divided into tiny rooms: new thin partition walls half-built, a narrow corridor, a cramped room just big enough for a bunk bed, a housing inspector's clipboard and tape measure on the floor; through the window, rows of public-housing estate blocks.",
+   "needs_backfill": true
   },
   {
    "source_name": "HKFP",
@@ -17514,7 +17631,8 @@
    ],
    "date": "2026-10-08",
    "id": "aae3853e9",
-   "image_scene": "A quiet Hong Kong street outside a small corner convenience store: a stack of heavy beer crates on the pavement next to a child-sized pink school bag, seen from a respectful distance; a smartphone resting on a ledge hints at the video that spread online. No child is shown."
+   "image_scene": "A quiet Hong Kong street outside a small corner convenience store: a stack of heavy beer crates on the pavement next to a child-sized pink school bag, seen from a respectful distance; a smartphone resting on a ledge hints at the video that spread online. No child is shown.",
+   "needs_backfill": true
   },
   {
    "source_name": "HK01",
@@ -17670,7 +17788,8 @@
    ],
    "date": "2026-10-08",
    "id": "a45493c4b",
-   "image_scene": "The packed Hong Kong Coliseum during a Cantopop concert: the four-sided stage in the centre of the arena lit by warm golden spotlights, a singer in silhouette at the microphone, thousands of fans in the tiered seats all around holding glowing light sticks."
+   "image_scene": "The packed Hong Kong Coliseum during a Cantopop concert: the four-sided stage in the centre of the arena lit by warm golden spotlights, a singer in silhouette at the microphone, thousands of fans in the tiered seats all around holding glowing light sticks.",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -17826,7 +17945,8 @@
     }
    ],
    "date": "2026-10-09",
-   "id": "aa18bcf00"
+   "id": "aa18bcf00",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -17967,7 +18087,8 @@
     }
    ],
    "date": "2026-10-09",
-   "id": "ae41a8cfb"
+   "id": "ae41a8cfb",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -18113,7 +18234,8 @@
     }
    ],
    "date": "2026-10-09",
-   "id": "af8dfbc1f"
+   "id": "af8dfbc1f",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -18259,7 +18381,8 @@
     }
    ],
    "date": "2026-10-09",
-   "id": "a3fbd5aed"
+   "id": "a3fbd5aed",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -18420,7 +18543,8 @@
     }
    ],
    "date": "2026-10-10",
-   "id": "ab4fbe533"
+   "id": "ab4fbe533",
+   "needs_backfill": true
   },
   {
    "source_name": "HK01",
@@ -18581,7 +18705,8 @@
     }
    ],
    "date": "2026-10-10",
-   "id": "a3ca09666"
+   "id": "a3ca09666",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -18742,7 +18867,8 @@
     }
    ],
    "date": "2026-10-10",
-   "id": "a82f43866"
+   "id": "a82f43866",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -18903,7 +19029,8 @@
     }
    ],
    "date": "2026-10-10",
-   "id": "a587acf80"
+   "id": "a587acf80",
+   "needs_backfill": true
   },
   {
    "source_name": "HK01",
@@ -19064,7 +19191,8 @@
     }
    ],
    "date": "2026-10-11",
-   "id": "aba78a000"
+   "id": "aba78a000",
+   "needs_backfill": true
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -19225,7 +19353,8 @@
     }
    ],
    "date": "2026-10-11",
-   "id": "af2631aef"
+   "id": "af2631aef",
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -19386,7 +19515,8 @@
     }
    ],
    "date": "2026-10-11",
-   "id": "aa1ac5987"
+   "id": "aa1ac5987",
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -19542,7 +19672,8 @@
     }
    ],
    "date": "2026-10-11",
-   "id": "acef3e42b"
+   "id": "acef3e42b",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -19703,7 +19834,8 @@
     }
    ],
    "date": "2026-10-12",
-   "id": "a070253fe"
+   "id": "a070253fe",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -19864,7 +19996,8 @@
     }
    ],
    "date": "2026-10-12",
-   "id": "a12f3a166"
+   "id": "a12f3a166",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -20025,7 +20158,8 @@
     }
    ],
    "date": "2026-10-12",
-   "id": "a428a2b14"
+   "id": "a428a2b14",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -20186,7 +20320,8 @@
     }
    ],
    "date": "2026-10-12",
-   "id": "a7a137e73"
+   "id": "a7a137e73",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -20347,7 +20482,8 @@
     }
    ],
    "date": "2026-10-13",
-   "id": "abcaca527"
+   "id": "abcaca527",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -20508,7 +20644,8 @@
     }
    ],
    "date": "2026-10-13",
-   "id": "ad67acc30"
+   "id": "ad67acc30",
+   "needs_backfill": true
   },
   {
    "source_name": "South China Morning Post",
@@ -20669,7 +20806,8 @@
     }
    ],
    "date": "2026-10-13",
-   "id": "af12ca81d"
+   "id": "af12ca81d",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -20830,7 +20968,8 @@
     }
    ],
    "date": "2026-10-13",
-   "id": "a0444d233"
+   "id": "a0444d233",
+   "needs_backfill": true
   },
   {
    "source_name": "HKFP",
@@ -20976,7 +21115,8 @@
     }
    ],
    "date": "2026-10-15",
-   "id": "ac2aa8d23"
+   "id": "ac2aa8d23",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -21122,7 +21262,8 @@
     }
    ],
    "date": "2026-10-15",
-   "id": "a5144afd3"
+   "id": "a5144afd3",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -21268,7 +21409,8 @@
     }
    ],
    "date": "2026-10-15",
-   "id": "a6ca2f7e3"
+   "id": "a6ca2f7e3",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -21414,7 +21556,8 @@
     }
    ],
    "date": "2026-10-15",
-   "id": "a70667970"
+   "id": "a70667970",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -21560,7 +21703,8 @@
     }
    ],
    "date": "2026-10-16",
-   "id": "aed63f86c"
+   "id": "aed63f86c",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -21706,7 +21850,8 @@
     }
    ],
    "date": "2026-10-16",
-   "id": "ae21cf3e6"
+   "id": "ae21cf3e6",
+   "needs_backfill": true
   },
   {
    "source_name": "HKFP",
@@ -21852,7 +21997,8 @@
     }
    ],
    "date": "2026-10-16",
-   "id": "a3ac27801"
+   "id": "a3ac27801",
+   "needs_backfill": true
   },
   {
    "source_name": "HKFP",
@@ -21998,7 +22144,8 @@
     }
    ],
    "date": "2026-10-16",
-   "id": "a2d801aaa"
+   "id": "a2d801aaa",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -22159,7 +22306,8 @@
     }
    ],
    "date": "2026-10-22",
-   "id": "aa492fbb7"
+   "id": "aa492fbb7",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -22320,7 +22468,8 @@
     }
    ],
    "date": "2026-10-22",
-   "id": "a2260ff78"
+   "id": "a2260ff78",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -22481,7 +22630,8 @@
     }
    ],
    "date": "2026-10-22",
-   "id": "a7e386367"
+   "id": "a7e386367",
+   "needs_backfill": true
   },
   {
    "source_name": "HKFP",
@@ -22642,7 +22792,8 @@
     }
    ],
    "date": "2026-10-22",
-   "id": "a614d63f3"
+   "id": "a614d63f3",
+   "needs_backfill": true
   },
   {
    "source_name": "RTHK",
@@ -22803,7 +22954,8 @@
     }
    ],
    "date": "2026-10-23",
-   "id": "ab4a11cd2"
+   "id": "ab4a11cd2",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -22964,7 +23116,8 @@
     }
    ],
    "date": "2026-10-23",
-   "id": "af529a047"
+   "id": "af529a047",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -23125,7 +23278,8 @@
     }
    ],
    "date": "2026-10-23",
-   "id": "a18225cc3"
+   "id": "a18225cc3",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -23286,7 +23440,8 @@
     }
    ],
    "date": "2026-10-23",
-   "id": "a80df78d0"
+   "id": "a80df78d0",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -23432,7 +23587,8 @@
     }
    ],
    "date": "2026-10-24",
-   "id": "a19bce6f7"
+   "id": "a19bce6f7",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -23583,7 +23739,8 @@
     }
    ],
    "date": "2026-10-24",
-   "id": "aa31c52d3"
+   "id": "aa31c52d3",
+   "needs_backfill": true
   },
   {
    "source_name": "The Standard",
@@ -23734,7 +23891,8 @@
     }
    ],
    "date": "2026-10-24",
-   "id": "a16505473"
+   "id": "a16505473",
+   "needs_backfill": true
   },
   {
    "source_name": "SCMP",
@@ -23885,7 +24043,8 @@
     }
    ],
    "date": "2026-10-24",
-   "id": "ae12b5c10"
+   "id": "ae12b5c10",
+   "needs_backfill": true
   }
  ],
  "trends": [

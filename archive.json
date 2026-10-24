@@ -149,7 +149,47 @@
     "zh_sub": "南向資金追捧港股AI",
     "en": "Mainland funds pivot into Hong Kong AI stocks"
    },
-   "needs_backfill": true
+   "image_scene": "A busy Central district street at dusk, office workers in suits walking past a glass-fronted trading floor where large wall screens show rising stock-price line graphs in green and red; the IFC tower and Victoria Harbour visible in the background, conveying excitement mixed with financial uncertainty.",
+   "slides": {
+    "topic_en": "Mainland Money Chases Hong Kong AI Stocks",
+    "background_en": "Mainland investors poured a record HK$10.6 billion into AI start-up MiniMax in August, pulling back from traditional financial stocks.",
+    "background_zh": "內地投資者今年八月向人工智能初創企業MiniMax注入破紀錄的106億港元,同時撤出傳統金融股。",
+    "background_hl": "a record HK$10.6 billion",
+    "analysis_en": "The rally suggests investors now see Hong Kong's market less as banks and property, more as a gateway to cutting-edge technology.",
+    "analysis_zh": "這股熱潮反映投資者視香港市場為通往尖端科技的門戶,而非僅限於銀行與地產。",
+    "analysis_hl": "a gateway to cutting-edge technology",
+    "support_en": "Backers argue the shift cements Hong Kong's status as a major hub for innovative AI listings in Asia.",
+    "support_zh": "支持者認為,這一轉變鞏固香港作為亞洲創新AI上市樞紐的地位。",
+    "support_hl": "cements Hong Kong's status",
+    "oppose_en": "Sceptics warn that such a concentrated bet on one young sector could turn volatile once lock-up periods expire.",
+    "oppose_zh": "懷疑者警告,一旦禁售期屆滿,集中押注單一新興行業的做法可能變得反覆無常。",
+    "oppose_hl": "concentrated bet on one young sector",
+    "vocab5": [
+     {
+      "en": "paradigm shift",
+      "zh": "範式轉移"
+     },
+     {
+      "en": "reallocate capital",
+      "zh": "重新分配資金"
+     },
+     {
+      "en": "cement one's status",
+      "zh": "鞏固地位"
+     },
+     {
+      "en": "lock-up period",
+      "zh": "禁售期"
+     },
+     {
+      "en": "inextricably linked",
+      "zh": "密不可分"
+     }
+    ],
+    "question_en": "Should young investors chase AI stock rallies, or is such a concentrated bet too risky for a single sector?",
+    "question_zh": "年輕投資者應該追逐人工智能股市升浪,還是集中押注單一行業風險過高?",
+    "question_hl": "chase AI stock rallies"
+   }
   },
   {
    "source_name": "The Standard",
@@ -300,7 +340,47 @@
     "zh_sub": "學生質疑涉迎新迫害",
     "en": "CityU hazing scandal exposes bruised students"
    },
-   "needs_backfill": true
+   "image_scene": "A quiet university campus courtyard at dawn, empty of people, with a locked noticeboard outside an administration building and a single banner stand folded away; the mood is sombre and institutional, hinting at an unfolding investigation rather than showing any students or injuries.",
+   "slides": {
+    "topic_en": "CityU Orientation Camp Hazing Scandal",
+    "background_en": "Fresh photos of bruised CityU students surfaced days after a viral hazing video, deepening an orientation camp scandal.",
+    "background_zh": "CityU迎新營醜聞持續發酵,繼早前瘋傳的影片後,近日再有學生身上帶傷的照片曝光。",
+    "background_hl": "bruised CityU students surfaced",
+    "analysis_en": "The student union behind the camp dissolved itself, but critics say this does little to fix the entrenched hazing culture.",
+    "analysis_zh": "負責籌辦迎新營的學生會委員會隨後宣布解散,但批評者指這無助根除根深蒂固的迎新迫害文化。",
+    "analysis_hl": "does little to fix the entrenched hazing culture",
+    "support_en": "Supporters of swift action say disbanding the committee sends a clear signal that such abuse will not be tolerated.",
+    "support_zh": "支持迅速行動者認為,解散委員會清楚傳達校方不會容忍此類迫害行為的信息。",
+    "support_hl": "sends a clear signal",
+    "oppose_en": "Critics argue dissolving one committee is mere damage control unless universities adopt binding codes of conduct and independent oversight.",
+    "oppose_zh": "批評者則認為,除非大學訂立具約束力的行為守則及獨立監察機制,否則解散委員會只是表面的危機處理。",
+    "oppose_hl": "mere damage control",
+    "vocab5": [
+     {
+      "en": "hazing",
+      "zh": "迎新迫害；欺凌式迎新"
+     },
+     {
+      "en": "foster camaraderie",
+      "zh": "培養情誼"
+     },
+     {
+      "en": "contain the fallout",
+      "zh": "控制事件的後果"
+     },
+     {
+      "en": "disciplinary investigation",
+      "zh": "紀律調查"
+     },
+     {
+      "en": "code of conduct",
+      "zh": "行為守則"
+     }
+    ],
+    "question_en": "Can universities preserve the bonding spirit of orientation camps while fully eliminating practices that cross into hazing?",
+    "question_zh": "大學能否在保留迎新營聯誼精神的同時,完全杜絕演變成欺凌式迫害的行為?",
+    "question_hl": "cross into hazing"
+   }
   },
   {
    "source_name": "RTHK",
@@ -451,7 +531,47 @@
     "zh_sub": "打鼓嶺奪命案後修法",
     "en": "Hong Kong tightens checks on fighting-breed dogs"
    },
-   "needs_backfill": true
+   "image_scene": "An AFCD veterinary inspection counter inside a Hong Kong animal licensing office, a vet in uniform examining a medium-sized dog on a table beside a kennel owner holding a leash, vaccination record cards and a measuring tape visible on the counter; calm, clinical lighting.",
+   "slides": {
+    "topic_en": "Pet Dogs May Be Reclassified as Fighting Breeds",
+    "background_en": "Hong Kong officials may reclassify pet dogs as fighting breeds during routine licence and rabies vaccination checks.",
+    "background_zh": "香港當局可能在為寵物狗進行例行領牌及狂犬病疫苗接種時,將其重新分類為鬥犬。",
+    "background_hl": "reclassify pet dogs as fighting breeds",
+    "analysis_en": "The move follows a fatal mauling at a licensed shelter, prompting officials to tighten enforcement after the tragedy.",
+    "analysis_zh": "事件源於一宗發生在合法狗舍的致命咬傷事故,促使當局在悲劇後收緊執法。",
+    "analysis_hl": "tighten enforcement after the tragedy",
+    "support_en": "Supporters say checking dogs at routine renewal offers a practical, low-cost way to close a dangerous regulatory loophole.",
+    "support_zh": "支持者指出,在例行續牌時檢查愛犬,是堵塞危險監管漏洞的實際而低成本方法。",
+    "support_hl": "close a dangerous regulatory loophole",
+    "oppose_en": "Critics argue that subjective visual assessment could disproportionately affect mixed-breed dogs whose ancestry cannot be determined at a glance.",
+    "oppose_zh": "批評者認為,主觀的目測評估可能對血統難以一眼判定的混種狗造成不公平的影響。",
+    "oppose_hl": "disproportionately affect mixed-breed dogs",
+    "vocab5": [
+     {
+      "en": "reclassify",
+      "zh": "重新分類"
+     },
+     {
+      "en": "visual assessment",
+      "zh": "目測評估"
+     },
+     {
+      "en": "inconsistent outcomes",
+      "zh": "不一致的結果"
+     },
+     {
+      "en": "galvanise change",
+      "zh": "激勵改變"
+     },
+     {
+      "en": "regulatory tightening",
+      "zh": "監管收緊"
+     }
+    ],
+    "question_en": "Is visual breed assessment a fair basis for reclassifying a pet, or should Hong Kong adopt a more objective standard?",
+    "question_zh": "以目測方式評估犬種是否足以作為重新分類寵物的公平依據,還是香港應採用更客觀的標準?",
+    "question_hl": "fair basis for reclassifying a pet"
+   }
   },
   {
    "source_name": "RTHK",
@@ -602,7 +722,47 @@
     "zh_sub": "搜查無人曾注射WT1",
     "en": "Health raids find no one received WT1 jab"
    },
-   "needs_backfill": true
+   "image_scene": "The exterior of a small Hong Kong private clinic on a street level shopfront, its shutters pulled halfway down, with a health inspector in a vest and face mask standing outside holding a clipboard beside a sealed evidence box; no visible patients, calm documentary tone.",
+   "slides": {
+    "topic_en": "Crackdown on Unregistered WT1 Cancer Jabs",
+    "background_en": "Health officers raided fourteen premises and seized hundreds of vaccine vials in a probe into an unproven WT1 cancer jab.",
+    "background_zh": "衛生人員搜查十四個地點,檢獲數百瓶疫苗,調查未經證實的WT1防癌針事件。",
+    "background_hl": "seized hundreds of vaccine vials",
+    "analysis_en": "No evidence surfaced that WT1 had actually been administered, yet the raids exposed a wider underground market for unregistered injections.",
+    "analysis_zh": "雖然無證據顯示WT1曾被實際注射,但搜查揭示了未經註冊注射劑的龐大地下市場。",
+    "analysis_hl": "a wider underground market for unregistered injections",
+    "support_en": "Officials say the operation sends a clear warning that buyers of unverified treatments are putting their lives at risk.",
+    "support_zh": "當局指行動清楚警告,購買未經核實療法的人等同將自己的生命置於危險之中。",
+    "support_hl": "putting their lives at risk",
+    "oppose_en": "Sceptics note that the lack of any confirmed patient suggests public panic may have outpaced the actual scale of the danger.",
+    "oppose_zh": "懷疑者指出,至今未有確診病人,顯示公眾恐慌可能已超越了實際危險的規模。",
+    "oppose_hl": "public panic may have outpaced the actual scale of the danger",
+    "vocab5": [
+     {
+      "en": "unregistered injection",
+      "zh": "未經註冊的注射劑"
+     },
+     {
+      "en": "cautionary tale",
+      "zh": "警世故事"
+     },
+     {
+      "en": "lured by exaggerated claims",
+      "zh": "被誇大的說法吸引"
+     },
+     {
+      "en": "underground market",
+      "zh": "地下市場"
+     },
+     {
+      "en": "verify authenticity",
+      "zh": "核實真偽"
+     }
+    ],
+    "question_en": "Why might consumers be drawn to unverified treatments despite the clear risks, and how can regulators restore public trust?",
+    "question_zh": "為何消費者會在明知風險的情況下仍被未經證實的療法吸引,監管機構又可如何重建公眾信任?",
+    "question_hl": "drawn to unverified treatments despite the clear risks"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -753,7 +913,47 @@
     "zh_sub": "樂迷錯愕促加強保障",
     "en": "Post Malone postpones Hong Kong stadium show"
    },
-   "needs_backfill": true
+   "image_scene": "The empty concourse outside Kai Tak Stadium at night, a closed ticket booth with its shutter down, a few ticket holders in casual clothes checking their phones with disappointed expressions near the entrance gates, stadium floodlights visible but switched off against a dark sky.",
+   "slides": {
+    "topic_en": "Post Malone Postpones Kai Tak Stadium Show",
+    "background_en": "Post Malone postponed his Hong Kong stadium concert indefinitely with no explanation, leaving thousands of ticket holders in the lurch.",
+    "background_zh": "Post Malone無限期推遲香港演唱會,主辦方未有交代原因,令數千名持票人感到徬徨無助。",
+    "background_hl": "postponed his Hong Kong stadium concert indefinitely",
+    "analysis_en": "Every other Asian stop on his tour was also shelved, suggesting a broader logistical difficulty rather than a local failure.",
+    "analysis_zh": "他亞洲巡演的其他站次同樣被擱置,反映問題源於整體後勤困難,而非香港獨有的失誤。",
+    "analysis_hl": "a broader logistical difficulty rather than a local failure",
+    "support_en": "Organisers say automatic full refunds within 30 working days show a responsible effort to absorb the financial fallout for fans.",
+    "support_zh": "主辦方表示三十個工作日內自動全額退款,顯示有負責任地為樂迷承擔財政後果。",
+    "support_hl": "absorb the financial fallout for fans",
+    "oppose_en": "Critics argue the late notice and silence over the cause dent public confidence in Hong Kong's fledgling mega-event industry.",
+    "oppose_zh": "批評者認為,事發突然且未有交代原因,削弱公眾對香港新興大型活動產業的信心。",
+    "oppose_hl": "dent public confidence in Hong Kong's fledgling mega-event industry",
+    "vocab5": [
+     {
+      "en": "postpone indefinitely",
+      "zh": "無限期推遲"
+     },
+     {
+      "en": "leave fans in the lurch",
+      "zh": "令樂迷徬徨無助"
+     },
+     {
+      "en": "fledgling industry",
+      "zh": "新興行業"
+     },
+     {
+      "en": "contingency planning",
+      "zh": "應變計劃"
+     },
+     {
+      "en": "come to light",
+      "zh": "曝光；為人所知"
+     }
+    ],
+    "question_en": "What should venues and promoters do to protect fan confidence when a major international concert is suddenly postponed?",
+    "question_zh": "當大型國際演唱會突然延期時,場館及主辦方應如何做才能保護樂迷的信心?",
+    "question_hl": "protect fan confidence"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -904,7 +1104,47 @@
     "zh_sub": "港鐵招標吸引龍頭爭奪",
     "en": "MTR's Tuen Mun site draws top developers' bids"
    },
-   "needs_backfill": true
+   "image_scene": "A construction hoarding beside a Tuen Mun MTR station entrance in the New Territories, with an architect's rendering board showing tower outlines behind glass, commuters with briefcases walking past the station concourse, cranes visible on the skyline in the distance.",
+   "slides": {
+    "topic_en": "Developers Rush for MTR Tuen Mun Tender",
+    "background_en": "Four bids, including a four-company consortium, were submitted for MTR's large Tuen Mun A16 property tender above a transport interchange.",
+    "background_zh": "港鐵屯門A16站物業招標吸引四份標書,包括一個由四家公司組成的財團,項目建於交通交匯處上方。",
+    "background_hl": "Four bids, including a four-company consortium",
+    "analysis_en": "The strong response suggests rail-plus-property projects still command premium interest even as the wider property market stays subdued.",
+    "analysis_zh": "熾熱反應顯示,即使整體樓市疲弱,鐵路加物業項目仍能引起濃厚興趣。",
+    "analysis_hl": "command premium interest",
+    "support_en": "Supporters say guaranteed footfall from commuters helps lock in demand and could ease Hong Kong's long-standing housing shortage.",
+    "support_zh": "支持者指保證的人流有助鎖定需求,並可紓緩香港長期的房屋短缺問題。",
+    "support_hl": "lock in demand",
+    "oppose_en": "Analysts caution the enthusiasm should not be taken at face value, since smaller or less well-located tenders have sometimes attracted no bids at all.",
+    "oppose_zh": "分析師警告不應照字面接受這份熾熱反應,因較小或地點欠佳的招標有時全無符合規格的標書。",
+    "oppose_hl": "should not be taken at face value",
+    "vocab5": [
+     {
+      "en": "rail-plus-property model",
+      "zh": "鐵路加物業發展模式"
+     },
+     {
+      "en": "draw keen interest",
+      "zh": "引起濃厚興趣"
+     },
+     {
+      "en": "subdued market",
+      "zh": "市況疲弱"
+     },
+     {
+      "en": "conforming tender",
+      "zh": "符合規格的標書"
+     },
+     {
+      "en": "housing shortage",
+      "zh": "房屋短缺"
+     }
+    ],
+    "question_en": "Does strong demand for one flagship rail-linked site prove the wider property market is recovering, or is it a special case?",
+    "question_zh": "單一鐵路物業旗艦項目的熾熱需求,能否證明整體樓市正在復甦,還是只屬個別情況?",
+    "question_hl": "prove the wider property market is recovering"
+   }
   },
   {
    "source_name": "The Standard",
@@ -1055,7 +1295,47 @@
     "zh_sub": "廿地花燈齊聚維園",
     "en": "Hong Kong's first international lantern spectacular"
    },
-   "needs_backfill": true
+   "image_scene": "Victoria Park at dusk during Mid-Autumn, illuminated lantern displays of various shapes glowing softly along a park path, families and couples strolling past with silhouettes against the coloured light, no readable signage or logos, a calm festive atmosphere.",
+   "slides": {
+    "topic_en": "HKTB's First International Lantern Festival",
+    "background_en": "The Tourism Board will stage Hong Kong's first international lantern festival at Victoria Park, showcasing over 3,000 lanterns from 20 places.",
+    "background_zh": "旅發局將於維多利亞公園舉辦香港首個國際燈籠節,展示來自二十個地區的三千多個燈籠。",
+    "background_hl": "showcasing over 3,000 lanterns from 20 places",
+    "analysis_en": "The expanded, internationally themed display reflects an effort to reinvigorate cultural tourism, though it departs from more traditional past carnivals.",
+    "analysis_zh": "這個國際主題的擴大展覽反映為文化旅遊注入新活力的努力,但亦有別於過往較傳統的綵燈會。",
+    "analysis_hl": "reinvigorate cultural tourism",
+    "support_en": "Supporters argue showcasing world lantern traditions alongside local crafts can attract a more internationally minded crowd to Mid-Autumn events.",
+    "support_zh": "支持者認為,將世界各地燈籠傳統與本地工藝並列展出,能吸引更多具國際視野的遊客參與中秋活動。",
+    "support_hl": "attract a more internationally minded crowd",
+    "oppose_en": "Critics worry that filling the festival with international exhibits risks diluting the local flavour that makes Mid-Autumn celebrations distinctive.",
+    "oppose_zh": "批評者擔心,加入過多國際元素的展覽可能會淡化令中秋節別具特色的本地風味。",
+    "oppose_hl": "risks diluting the local flavour",
+    "vocab5": [
+     {
+      "en": "reinvigorate",
+      "zh": "為……注入新活力"
+     },
+     {
+      "en": "intangible cultural heritage",
+      "zh": "非物質文化遺產"
+     },
+     {
+      "en": "time-honoured custom",
+      "zh": "歷史悠久的習俗"
+     },
+     {
+      "en": "nostalgic atmosphere",
+      "zh": "懷舊氣氛"
+     },
+     {
+      "en": "cultural tourism",
+      "zh": "文化旅遊"
+     }
+    ],
+    "question_en": "Can a centuries-old custom like the lantern festival embrace international elements without losing its local cultural meaning?",
+    "question_zh": "像燈籠節這種歷史悠久的習俗,能否在加入國際元素的同時不失其本地文化意義?",
+    "question_hl": "embrace international elements without losing its local cultural meaning"
+   }
   },
   {
    "source_name": "RTHK",
@@ -1206,7 +1486,47 @@
     "zh_sub": "兩年觸及五萬打工仔",
     "en": "Hong Kong launches HK$50m AI upskilling scheme"
    },
-   "needs_backfill": true
+   "image_scene": "A bright training room at a Hong Kong technology park, adult workers of various ages sitting at laptops in a classroom setting, an instructor pointing at a large wall screen displaying abstract data charts, Cyberport-style glass building visible through the window.",
+   "slides": {
+    "topic_en": "HK$50 Million 'AI for All' Upskilling Drive",
+    "background_en": "Paul Chan launched a HK$50 million 'AI for All' scheme pairing the Employees Retraining Board with tech firms to train workers.",
+    "background_zh": "陳茂波推出五千萬港元的「AI fo All」計劃,由僱員再培訓局與科技公司合作為在職人士提供培訓。",
+    "background_hl": "a HK$50 million 'AI for All' scheme",
+    "analysis_en": "The drive aims to future-proof the labour force, but critics say it reaches only a small fraction of the whole workforce.",
+    "analysis_zh": "計劃旨在為勞動力的未來做好準備,但批評者指它只能觸及整體勞動人口的一小部分。",
+    "analysis_hl": "future-proof the labour force",
+    "support_en": "Supporters see the public-private partnership as a meaningful step towards continuous, lifelong learning rather than one-off vocational courses.",
+    "support_zh": "支持者視這個官民合作計劃為邁向持續終身學習,而非單次職業培訓的重要一步。",
+    "support_hl": "a meaningful step towards continuous, lifelong learning",
+    "oppose_en": "Sceptics warn Hong Kong risks lagging behind if reskilling efforts fail to keep pace with how fast AI is spreading across industries.",
+    "oppose_zh": "懷疑者警告,若再培訓步伐追不上人工智能在各行業擴散的速度,香港將有落後的風險。",
+    "oppose_hl": "risks lagging behind",
+    "vocab5": [
+     {
+      "en": "reskilling",
+      "zh": "技能再培訓"
+     },
+     {
+      "en": "future-proof",
+      "zh": "為未來做好準備"
+     },
+     {
+      "en": "lifelong learning",
+      "zh": "終身學習"
+     },
+     {
+      "en": "technological disruption",
+      "zh": "科技帶來的衝擊"
+     },
+     {
+      "en": "a central plank of",
+      "zh": "……的核心支柱"
+     }
+    ],
+    "question_en": "Is a HK$50 million scheme enough to prepare Hong Kong's workforce for AI-driven change, or is far more investment needed?",
+    "question_zh": "五千萬港元的計劃是否足以為香港勞動力應對人工智能帶來的轉變,還是需要更多投資?",
+    "question_hl": "Is a HK$50 million scheme enough"
+   }
   },
   {
    "source_name": "The Standard",
@@ -1357,7 +1677,47 @@
     "zh_sub": "出生率創新低",
     "en": "Eight zero-class schools approved to merge"
    },
-   "needs_backfill": true
+   "image_scene": "A small Hong Kong primary school building with an empty playground, a 'For Merger' style notice board partly visible outside the gate, two parents with school bags standing and talking quietly nearby, overcast light suggesting an uncertain mood; no children shown.",
+   "slides": {
+    "topic_en": "'Zero-Class' Primary Schools Approved for Merger",
+    "background_en": "Eight primary schools that failed to secure a Primary One class will merge with neighbours, as Hong Kong's birth rate hits a record low.",
+    "background_zh": "八間未能開辦小一班的小學將與鄰近學校合併,正值香港出生率跌至歷來最低。",
+    "background_hl": "Hong Kong's birth rate hits a record low",
+    "analysis_en": "The bureau offers merged schools a three-year grace period, but critics call this a stopgap rather than a real demographic solution.",
+    "analysis_zh": "教育局給予合併學校三年寬限期,但批評者指這只是權宜之計,並非解決人口問題的真正方案。",
+    "analysis_hl": "a stopgap rather than a real demographic solution",
+    "support_en": "Supporters argue the grace period helps cushion the impact, giving schools time to align curriculum and settle staff arrangements smoothly.",
+    "support_zh": "支持者認為寬限期有助緩衝影響,讓學校有時間理順課程及人手安排。",
+    "support_hl": "helps cushion the impact",
+    "oppose_en": "Critics warn that merging schools overnight risks eroding decades of institutional identity and the alumni ties pupils and teachers hold dear.",
+    "oppose_zh": "批評者警告,倉促合併學校可能侵蝕數十年的機構身份認同,以及師生珍視的校友情懷。",
+    "oppose_hl": "risks eroding decades of institutional identity",
+    "vocab5": [
+     {
+      "en": "record-low birth rate",
+      "zh": "歷來最低出生率"
+     },
+     {
+      "en": "phase out",
+      "zh": "逐步淘汰"
+     },
+     {
+      "en": "cushion the impact",
+      "zh": "緩衝影響"
+     },
+     {
+      "en": "predicament",
+      "zh": "困境"
+     },
+     {
+      "en": "institutional identity",
+      "zh": "機構身份認同"
+     }
+    ],
+    "question_en": "Are school mergers a genuine solution to falling birth rates, or merely a way to postpone harder decisions about school closures?",
+    "question_zh": "學校合併是否能真正解決出生率下降的問題,還是只是推遲更艱難的學校停辦決定?",
+    "question_hl": "merely a way to postpone harder decisions"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -1508,7 +1868,47 @@
     "zh_sub": "中小企籲設能源補貼",
     "en": "Hong Kong power surcharge rises for fourth month"
    },
-   "needs_backfill": true
+   "image_scene": "The inside of a small Hong Kong noodle shop at closing time, the owner behind the counter looking at an electricity bill under bright fluorescent lights, air-conditioning unit visible on the wall, stacked plastic chairs suggesting a quiet, cost-conscious small business.",
+   "slides": {
+    "topic_en": "Power Fuel Surcharges Squeeze HK Households",
+    "background_en": "HK Electric's fuel clause charge rose for a fourth straight month, pushing average tariffs up and squeezing households and small businesses.",
+    "background_zh": "港燈燃料條款收費連續第四個月上升,推高平均電費,令家庭及小商戶百上加斤。",
+    "background_hl": "rose for a fourth straight month",
+    "analysis_en": "Power companies blame volatile global fuel prices, while business groups warn smaller operators could be pushed toward closure.",
+    "analysis_zh": "電力公司歸咎於波動的全球燃料價格,商界則警告小商戶或會被迫結業。",
+    "analysis_hl": "could be pushed toward closure",
+    "support_en": "Power companies argue the surcharges simply pass on volatile international fuel costs and note their rebate schemes ease the strain on households.",
+    "support_zh": "電力公司認為加價只是轉嫁波動的國際燃料成本,並指其回贈計劃有助紓緩家庭壓力。",
+    "support_hl": "ease the strain on households",
+    "oppose_en": "Critics demand greater transparency in tariff-setting, warning that repeated hikes disproportionately burden small businesses with already-thin margins.",
+    "oppose_zh": "批評者要求電費釐定機制更透明,並警告連番加價令利潤微薄的小商戶承受不成比例的負擔。",
+    "oppose_hl": "disproportionately burden small businesses",
+    "vocab5": [
+     {
+      "en": "fuel clause charge",
+      "zh": "燃料條款收費"
+     },
+     {
+      "en": "disproportionate burden",
+      "zh": "不成比例的負擔"
+     },
+     {
+      "en": "alleviate the strain",
+      "zh": "紓緩壓力"
+     },
+     {
+      "en": "cost of living",
+      "zh": "生活成本"
+     },
+     {
+      "en": "knock-on effect",
+      "zh": "連鎖反應"
+     }
+    ],
+    "question_en": "Should the government regulate fuel clause charges more tightly, or should power companies be left to pass on genuine cost increases?",
+    "question_zh": "政府應否更嚴格監管燃料條款收費,還是應讓電力公司自行轉嫁實際成本上升?",
+    "question_hl": "regulate fuel clause charges more tightly"
+   }
   },
   {
    "source_name": "Dim Sum Daily",
@@ -1659,7 +2059,47 @@
     "zh_sub": "籲及早打針防爆發",
     "en": "Severe child flu cases prompt vaccination appeal"
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong paediatric clinic waiting room, a parent holding a young child's hand while a nurse in a mask prepares a vaccination syringe at a side table, informational posters about flu prevention on the wall, calm and reassuring lighting, no distress shown.",
+   "slides": {
+    "topic_en": "Severe Child Flu Cases Prompt Vaccination Appeal",
+    "background_en": "Three more severe paediatric flu cases, all previously healthy children, pushed officials to renew their appeal for early vaccination.",
+    "background_zh": "再有三宗嚴重兒童流感病例,患者均一向健康,促使當局再次呼籲市民及早接種疫苗。",
+    "background_hl": "renew their appeal for early vaccination",
+    "analysis_en": "With flu season arriving earlier and overlapping the new school term, health officials warn activity levels show no sign of abating.",
+    "analysis_zh": "流感季節提前到來並與開學季重疊,衛生官員警告疫情活躍程度居高不下。",
+    "analysis_hl": "show no sign of abating",
+    "support_en": "Officials say stepping up school disinfection and monitoring can contain a localised cluster before it escalates into a wider outbreak.",
+    "support_zh": "官員指加強學校消毒及監察,有助在個案演變成大規模爆發前控制局部群組。",
+    "support_hl": "contain a localised cluster",
+    "oppose_en": "Some parents worry that repeated appeals alone cannot address a healthcare system already strained by a stubbornly high caseload.",
+    "oppose_zh": "部分家長擔心,單靠反覆呼籲無法解決一個已因居高不下的病例數而承受壓力的醫療系統問題。",
+    "oppose_hl": "a healthcare system already strained",
+    "vocab5": [
+     {
+      "en": "incubation period",
+      "zh": "潛伏期"
+     },
+     {
+      "en": "stubbornly high",
+      "zh": "居高不下"
+     },
+     {
+      "en": "remain vigilant",
+      "zh": "保持警惕"
+     },
+     {
+      "en": "school outbreak",
+      "zh": "學校爆發"
+     },
+     {
+      "en": "previously healthy",
+      "zh": "一向健康"
+     }
+    ],
+    "question_en": "Should schools require flu vaccination before the term starts, or is relying on public appeals for vaccination still sufficient?",
+    "question_zh": "學校應否在開學前強制要求接種流感疫苗,還是單靠公眾呼籲接種已經足夠?",
+    "question_hl": "require flu vaccination before the term starts"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -1810,7 +2250,47 @@
     "zh_sub": "畢業生職缺跌六成",
     "en": "Hong Kong admits AI will displace some jobs"
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong university careers fair hall, rows of recent graduates in smart casual clothes queuing at company booths with AI-themed banners in the background, a career counsellor handing a leaflet to a young jobseeker, bright indoor lighting.",
+   "slides": {
+    "topic_en": "AI Upskilling Drive Amid Job Displacement Fears",
+    "background_en": "The government launched an AI upskilling drive while conceding that automation will displace some jobs, as graduate vacancies have plunged.",
+    "background_zh": "政府推出人工智能技能提升計劃,同時承認自動化將令部分職位消失,而應屆畢業生職位空缺已急跌。",
+    "background_hl": "automation will displace some jobs",
+    "analysis_en": "Critics argue the scheme reaches only about one per cent of the workforce even as AI job postings rise sharply year-on-year.",
+    "analysis_zh": "批評者指出,即使人工智能職位招聘按年顯著上升,計劃仍只觸及約百分之一的勞動人口。",
+    "analysis_hl": "reaches only about one per cent of the workforce",
+    "support_en": "Officials say government-led upskilling is just one prong of a wider strategy, with employers also expected to retrain their own staff.",
+    "support_zh": "官員指政府主導的培訓只是整體策略的一環,僱主亦應肩負培訓自身員工的責任。",
+    "support_hl": "just one prong of a wider strategy",
+    "oppose_en": "Young jobseekers argue that shrinking entry-level vacancies leave graduates competing for fewer openings regardless of how many courses they complete.",
+    "oppose_zh": "年輕求職者認為,初級職位空缺萎縮,令畢業生即使完成再多課程仍須爭奪僅餘的機會。",
+    "oppose_hl": "competing for fewer openings",
+    "vocab5": [
+     {
+      "en": "automation-driven displacement",
+      "zh": "自動化帶動的職位流失"
+     },
+     {
+      "en": "entry-level vacancy",
+      "zh": "初級職位空缺"
+     },
+     {
+      "en": "qualification mismatch",
+      "zh": "學歷與職位不相稱"
+     },
+     {
+      "en": "core transferable skill",
+      "zh": "核心可轉移技能"
+     },
+     {
+      "en": "long-term employability",
+      "zh": "長遠就業能力"
+     }
+    ],
+    "question_en": "Who should bear the main responsibility for preparing workers for an AI-driven job market: the government, employers, or individuals themselves?",
+    "question_zh": "誰應承擔為人工智能主導的就業市場做準備的主要責任:政府、僱主,還是個人?",
+    "question_hl": "bear the main responsibility"
+   }
   },
   {
    "source_name": "SCMP",
@@ -1961,7 +2441,47 @@
     "zh_sub": "啟德首秀告吹惹不滿",
     "en": "Post Malone postpones entire Asia stadium tour"
    },
-   "needs_backfill": true
+   "image_scene": "A travel agency shopfront window in Mong Kok displaying a cancelled-concert notice reflected faintly in the glass, two young fans in casual clothes checking their phones outside with disappointed expressions, Kai Tak Stadium's distant silhouette visible under a cloudy sky.",
+   "slides": {
+    "topic_en": "Post Malone Stadium Show Postponed Indefinitely",
+    "background_en": "Post Malone's Kai Tak Stadium concert was postponed indefinitely with no explanation, and the entire Asia leg of his tour was also shelved.",
+    "background_zh": "Post Malone在啟德體育館的演唱會無限期推遲,主辦方未有解釋,其亞洲巡演各站同告擱置。",
+    "background_hl": "postponed indefinitely with no explanation",
+    "analysis_en": "The disruption spans multiple time zones and venues, suggesting a touring-wide logistical challenge rather than a problem specific to Hong Kong.",
+    "analysis_zh": "事件影響多個時區及場館,反映問題源於巡演整體的後勤挑戰,而非香港獨有的問題。",
+    "analysis_hl": "a touring-wide logistical challenge",
+    "support_en": "Industry observers note postponements like this are a recurring feature of global touring and do not reflect poorly on Hong Kong's capacity to host events.",
+    "support_zh": "業內人士指出,這類延期在全球巡演中屢見不鮮,並不代表香港欠缺主辦活動的能力。",
+    "support_hl": "a recurring feature of global touring",
+    "oppose_en": "Fans argue the lack of explanation and compensation for non-ticket costs expose real gaps in consumer safeguards within the ticketing industry.",
+    "oppose_zh": "樂迷則認為,缺乏解釋及未能彌補非門票損失的做法,暴露票務行業消費者保障的缺口。",
+    "oppose_hl": "expose real gaps in consumer safeguards",
+    "vocab5": [
+     {
+      "en": "non-refundable booking",
+      "zh": "不可退款的預訂"
+     },
+     {
+      "en": "multi-city itinerary",
+      "zh": "多城巡演行程"
+     },
+     {
+      "en": "compensation claim",
+      "zh": "索償"
+     },
+     {
+      "en": "fan backlash",
+      "zh": "樂迷的反彈"
+     },
+     {
+      "en": "short-notice cancellation",
+      "zh": "臨時取消"
+     }
+    ],
+    "question_en": "Should concert promoters be legally required to compensate fans for indirect losses such as flights and hotels when a show is postponed?",
+    "question_zh": "當演唱會延期時,主辦方應否被法律要求為樂迷因機票及酒店等間接損失作出賠償?",
+    "question_hl": "legally required to compensate fans for indirect losses"
+   }
   },
   {
    "source_name": "The Standard",
@@ -2112,7 +2632,47 @@
     "zh_sub": "國際花燈共慶團圓",
     "en": "Victoria Park doubles up for Mid-Autumn Festival"
    },
-   "needs_backfill": true
+   "image_scene": "Victoria Park and the nearby Tai Hang neighbourhood lanes at night during Mid-Autumn, one wide shot of glowing lantern displays in the park and one narrow street scene of a fire dragon figure made of straw and lit incense winding past old low-rise buildings, crowds of anonymous onlookers.",
+   "slides": {
+    "topic_en": "Expanded Mid-Autumn Lantern and Fire Dragon Events",
+    "background_en": "Victoria Park's Lantern Carnival now runs alongside a new International Lantern Spectacular, while Tai Hang marks its 147th Fire Dragon Dance.",
+    "background_zh": "維園花燈晚會今年與全新的國際燈籠節同場舉行,大坑亦舉行第一百四十七屆舞火龍。",
+    "background_hl": "its 147th Fire Dragon Dance",
+    "analysis_en": "Pairing homegrown tradition with international lantern craftsmanship aims to boost cultural tourism while still honouring local heritage.",
+    "analysis_zh": "將本地傳統與海外燈籠工藝結合,旨在提升文化旅遊吸引力,同時尊重本地傳承。",
+    "analysis_hl": "boost cultural tourism while still honouring local heritage",
+    "support_en": "Free admission to both lantern events signals an effort to foster inclusivity so residents of all income levels can join the festivities.",
+    "support_zh": "兩個燈籠活動均免費入場,顯示當局致力培養包容性,讓各階層市民皆可參與節慶。",
+    "support_hl": "foster inclusivity",
+    "oppose_en": "Some heritage advocates warn that commercialising traditional festivals for tourism risks diluting their original spiritual and communal significance.",
+    "oppose_zh": "部分文物保育人士警告,將傳統節慶商業化以吸引旅客,可能削弱其原有的精神及社區意義。",
+    "oppose_hl": "risks diluting their original spiritual and communal significance",
+    "vocab5": [
+     {
+      "en": "fire dragon dance",
+      "zh": "舞火龍"
+     },
+     {
+      "en": "national heritage list",
+      "zh": "國家級遺產名錄"
+     },
+     {
+      "en": "free admission policy",
+      "zh": "免費入場政策"
+     },
+     {
+      "en": "neighbourhood ritual",
+      "zh": "社區儀式"
+     },
+     {
+      "en": "overseas craftsmanship",
+      "zh": "海外工藝"
+     }
+    ],
+    "question_en": "Can Hong Kong grow Mid-Autumn events into major tourist attractions without hollowing out their original cultural and spiritual meaning?",
+    "question_zh": "香港能否將中秋節活動發展成主要旅遊景點,而不掏空其原有的文化及精神意義?",
+    "question_hl": "without hollowing out their original cultural and spiritual meaning"
+   }
   },
   {
    "source_name": "SCMP",
@@ -2263,7 +2823,47 @@
     "zh_sub": "300學生駐校研習AI",
     "en": "HKU opens AI labs at expanded Shanghai campus"
    },
-   "needs_backfill": true
+   "image_scene": "A modern university laboratory on a Shanghai campus, rows of students at computer workstations with large monitors showing abstract data visualisations, an instructor demonstrating equipment at the front, glass walls showing a tech-park style building outside.",
+   "slides": {
+    "topic_en": "HKU Opens AI Labs at Shanghai Campus",
+    "background_en": "HKU partnered with tech firms to open AI labs at its expanded Shanghai campus, which welcomed over 300 students this term.",
+    "background_zh": "港大與科技公司合作,於擴建後的上海校園開設人工智能實驗室,本學期已迎來逾三百名學生。",
+    "background_hl": "open AI labs at its expanded Shanghai campus",
+    "analysis_en": "The move aims to bridge the gap between academic theory and workplace-ready skills amid a national push for AI commercialisation.",
+    "analysis_zh": "此舉旨在彌合學術理論與職場所需技能之間的差距,配合國家推動人工智能商業化的政策。",
+    "analysis_hl": "bridge the gap between academic theory and workplace-ready skills",
+    "support_en": "Supporters say hands-on labs give students a distinct competitive advantage as regional demand for AI talent continues to intensify.",
+    "support_zh": "支持者認為,實踐實驗室讓學生在區域人工智能人才需求日增下取得明顯競爭優勢。",
+    "support_hl": "a distinct competitive advantage",
+    "oppose_en": "Some educators caution that impressive facilities must be matched by enough teaching capacity, or students may graduate with exposure but limited real opportunity.",
+    "oppose_zh": "部分教育工作者警告,先進設施須配合足夠的教學能力,否則學生可能只有接觸經驗而缺乏實質機會。",
+    "oppose_hl": "limited real opportunity",
+    "vocab5": [
+     {
+      "en": "artificial intelligence laboratory",
+      "zh": "人工智能實驗室"
+     },
+     {
+      "en": "hands-on experience",
+      "zh": "實踐經驗"
+     },
+     {
+      "en": "workplace-ready skills",
+      "zh": "職場所需技能"
+     },
+     {
+      "en": "cross-border collaboration",
+      "zh": "跨境合作"
+     },
+     {
+      "en": "tangible outcome",
+      "zh": "實質成果"
+     }
+    ],
+    "question_en": "Does opening AI labs at an overseas campus genuinely prepare students for employment, or mainly boost a university's international image?",
+    "question_zh": "在海外校園開設人工智能實驗室,是否真正能為學生的就業做好準備,還是主要提升大學的國際形象?",
+    "question_hl": "genuinely prepare students for employment"
+   }
   },
   {
    "source_name": "RTHK",
@@ -2404,7 +3004,47 @@
     "zh_sub": "熱帶低氣壓減弱消散",
     "en": "Hong Kong cancels all signals as storm weakens"
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong harbourfront promenade shortly after a storm, overcast grey sky with the tropical cyclone warning signal display board switched off, a few office workers in raincoats folding umbrellas and walking briskly back to work, puddles reflecting the sky, no visible text or logos.",
+   "slides": {
+    "topic_en": "Tropical Depression Saudel Signals Cancelled",
+    "background_en": "Hong Kong cancelled all storm signals as Tropical Depression Saudel weakened into a low pressure area over inland Guangdong.",
+    "background_zh": "熱帶低氣壓蘇達在廣東內陸減弱為低壓區後,香港已取消所有熱帶氣旋警告信號。",
+    "background_hl": "cancelled all storm signals",
+    "analysis_en": "The storm was one of several systems this unusually active September, prompting concern over a climatic shift in the western Pacific.",
+    "analysis_zh": "這是今年異常活躍的九月所出現的其中一個風暴系統,令人關注西太平洋的氣候轉變。",
+    "analysis_hl": "a climatic shift in the western Pacific",
+    "support_en": "Officials say swift signal cancellations let economic activity resume quickly and minimise disruption to daily life and business.",
+    "support_zh": "官員指迅速取消信號有助經濟活動盡快恢復,減少對日常生活及營商活動的干擾。",
+    "support_hl": "minimise disruption to daily life",
+    "oppose_en": "Critics argue public preparedness for sudden signal changes remains uneven, especially for outdoor workers caught off guard at short notice.",
+    "oppose_zh": "批評者認為,公眾對突然轉變信號的應變準備仍不足,尤其是戶外工作者常在短時間內措手不及。",
+    "oppose_hl": "caught off guard at short notice",
+    "vocab5": [
+     {
+      "en": "tropical cyclone warning signal",
+      "zh": "熱帶氣旋警告信號"
+     },
+     {
+      "en": "climatic shift",
+      "zh": "氣候轉變"
+     },
+     {
+      "en": "public preparedness",
+      "zh": "應變準備"
+     },
+     {
+      "en": "climate resilience",
+      "zh": "氣候韌性"
+     },
+     {
+      "en": "early-warning system",
+      "zh": "預警系統"
+     }
+    ],
+    "question_en": "As short-lived tropical storms become more frequent, is Hong Kong's current warning signal system still adequate for public safety?",
+    "question_zh": "隨著短暫的熱帶風暴日漸頻繁,香港現行的警告信號系統是否仍足以保障公眾安全?",
+    "question_hl": "still adequate for public safety"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -2550,7 +3190,47 @@
     "zh_sub": "校方完成紀律調查",
     "en": "CityU concludes probe into orientation camp scandal"
    },
-   "needs_backfill": true
+   "image_scene": "A City University of Hong Kong campus corridor outside a student affairs office, a closed noticeboard with a removed poster leaving a faint outline, two students in university polo shirts walking past quietly with serious expressions, overcast light through tall windows; no visible injuries or distress.",
+   "slides": {
+    "topic_en": "CityU Concludes Orientation Camp Hazing Probe",
+    "background_en": "CityU concluded its disciplinary probe after a viral video and bruise photos from an orientation camp sparked public outrage.",
+    "background_zh": "城大就一段迎新營瘋傳影片及傷痕照片引發的公眾憤怒,完成紀律調查。",
+    "background_hl": "concluded its disciplinary probe",
+    "analysis_en": "The organising society dissolved its committee, but critics say this fails to explain why such hazing excesses resurface year after year.",
+    "analysis_zh": "主辦學會已解散執行委員會,但批評者指此舉未能解釋為何迎新迫害事件年復一年重演。",
+    "analysis_hl": "resurface year after year",
+    "support_en": "Supporters of the university's response say withholding specific sanctions protects student privacy while still ensuring real accountability.",
+    "support_zh": "支持校方做法者認為,不公開具體處分既能保障學生私隱,亦確保真正的問責。",
+    "support_hl": "protects student privacy while still ensuring real accountability",
+    "oppose_en": "Critics argue dissolving one committee is a token gesture unless universities overhaul the supervisory mechanisms governing student-run events.",
+    "oppose_zh": "批評者認為,除非大學徹底改革監管學生活動的機制,否則解散委員會只是表面姿態。",
+    "oppose_hl": "a token gesture",
+    "vocab5": [
+     {
+      "en": "hazing ritual",
+      "zh": "迎新虐待儀式"
+     },
+     {
+      "en": "disciplinary panel",
+      "zh": "紀律委員會"
+     },
+     {
+      "en": "zero tolerance",
+      "zh": "零容忍"
+     },
+     {
+      "en": "accountability",
+      "zh": "問責"
+     },
+     {
+      "en": "supervisory mechanism",
+      "zh": "監督機制"
+     }
+    ],
+    "question_en": "Why do hazing incidents keep recurring at university orientation camps despite repeated promises of reform, and how can this cycle be broken?",
+    "question_zh": "為何大學迎新營的迫害事件在多番承諾改革後仍不斷重演,這個循環又應如何打破?",
+    "question_hl": "keep recurring"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -2696,7 +3376,47 @@
     "zh_sub": "酷熱暴雨夾擊露宿者",
     "en": "Pests and heat compound health risks for Hong Kong's homeless"
    },
-   "needs_backfill": true
+   "image_scene": "An underpass or footbridge in Hong Kong at dusk, a rolled-up sleeping mat and a small bag neatly placed against the wall near a bench, an NGO outreach worker in a vest crouching to speak with a seated figure shown only from behind, humid haze in the air; respectful, no close-up of any person's face or injuries.",
+   "slides": {
+    "topic_en": "Pests and Heat Worsen Risks for HK's Homeless",
+    "background_en": "An NGO survey found cockroach and rat infestation rates of up to 83 percent at sites used by Hong Kong's homeless.",
+    "background_zh": "一項NGO調查發現,香港露宿者棲身地點的蟑螂及老鼠侵擾比率高達百分之八十三。",
+    "background_hl": "infestation rates of up to 83 percent",
+    "analysis_en": "Campaigners say pests, record heat and inadequate shelter compound one another, turning an overlooked issue into a vicious cycle of deprivation.",
+    "analysis_zh": "倡導者指蟲害、破紀錄高溫與不足的居所互相加劇,令被忽視的問題變成匱乏的惡性循環。",
+    "analysis_hl": "a vicious cycle of deprivation",
+    "support_en": "Advocates argue the findings prove this is an issue of social equity that demands urgent intervention, not a minor environmental footnote.",
+    "support_zh": "倡導者認為,調查結果證明這是關乎社會公平的議題,需要緊急介入,而非次要的環境問題。",
+    "support_hl": "an issue of social equity that demands urgent intervention",
+    "oppose_en": "Sceptics note that respondents in hostels reported far fewer pest problems, suggesting the real gap lies in access to shelter, not pests alone.",
+    "oppose_zh": "懷疑者指出,留宿宿舍的受訪者蟲害問題明顯較少,顯示真正的差距在於居所的可及性,而非蟲害本身。",
+    "oppose_hl": "the real gap lies in access to shelter",
+    "vocab5": [
+     {
+      "en": "infestation",
+      "zh": "蟲害；侵擾"
+     },
+     {
+      "en": "rough sleeper",
+      "zh": "露宿者"
+     },
+     {
+      "en": "precarious circumstances",
+      "zh": "朝不保夕的處境"
+     },
+     {
+      "en": "social equity",
+      "zh": "社會公平"
+     },
+     {
+      "en": "outreach service",
+      "zh": "外展服務"
+     }
+    ],
+    "question_en": "Should tackling pest infestation among the homeless be treated as a public health priority, or mainly as a housing policy issue?",
+    "question_zh": "處理露宿者的蟲害問題,應被視為公共衛生的優先事項,還是主要屬於房屋政策議題?",
+    "question_hl": "a public health priority"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -2842,7 +3562,47 @@
     "zh_sub": "承建商被停牌調查",
     "en": "Hong Kong suspends contractors over hospital lift defects"
    },
-   "needs_backfill": true
+   "image_scene": "An unfinished hospital clinical block exterior at Queen Mary Hospital, scaffolding partly removed near the entrance, a lift shaft door sealed with yellow hazard tape, a maintenance worker in a hard hat inspecting a control panel beside the lift lobby; calm, documentary tone.",
+   "slides": {
+    "topic_en": "Queen Mary Hospital Lift Defects Suspend Contractors",
+    "background_en": "Authorities suspended a contractor and its lift subcontractor after 24 of 28 lifts in a new Queen Mary Hospital block proved unreliable.",
+    "background_zh": "瑪麗醫院新臨床大樓二十八部升降機中有二十四部故障,當局已暫停主承建商及其升降機分判商的投標資格。",
+    "background_hl": "suspended a contractor and its lift subcontractor",
+    "analysis_en": "The defects further delay a HK$15.15 billion project already years behind schedule, raising questions about quality control on public works.",
+    "analysis_zh": "故障令造價一百五十一億五千萬港元的項目延誤更甚,原已落後多年的進度再添疑慮,引起對公共工程品質管制的質疑。",
+    "analysis_hl": "raising questions about quality control",
+    "support_en": "Officials say the responsible firms must bear the full cost of remedial works, which they argue holds contractors properly accountable.",
+    "support_zh": "官員表示責任公司須承擔全部補救工程費用,認為此舉能令承建商切實問責。",
+    "support_hl": "bear the full cost of remedial works",
+    "oppose_en": "Critics argue assurances of a fourth-quarter completion ring hollow to patients and staff who have already waited years for the redevelopment.",
+    "oppose_zh": "批評者認為,對已等候重建多年的病人及員工而言,承諾第四季完工的說法顯得空洞。",
+    "oppose_hl": "ring hollow",
+    "vocab5": [
+     {
+      "en": "quality control",
+      "zh": "品質管制"
+     },
+     {
+      "en": "rectification work",
+      "zh": "補救工程"
+     },
+     {
+      "en": "project oversight",
+      "zh": "項目監督"
+     },
+     {
+      "en": "safety-critical",
+      "zh": "關乎安全的"
+     },
+     {
+      "en": "patient welfare",
+      "zh": "病人福祉"
+     }
+    ],
+    "question_en": "Should contractors on safety-critical public projects like hospitals face tougher penalties than those on ordinary infrastructure works?",
+    "question_zh": "對於醫院等關乎安全的公共工程項目,承建商應否面對比一般基建工程更嚴厲的懲處?",
+    "question_hl": "face tougher penalties"
+   }
   },
   {
    "source_name": "Sunday Guardian Live",
@@ -2988,7 +3748,47 @@
     "zh_sub": "通脹陰霾籠罩港股",
     "en": "Rising oil prices reignite inflation fears, pressuring Hong Kong stocks."
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong bank branch window displaying a stock index board with abstract red and green arrow graphics (no readable numbers or logos), an office worker in a suit pausing to glance at it while walking past on a busy Central pavement, grey overcast sky overhead.",
+   "slides": {
+    "topic_en": "Hang Seng Index Falls on Oil-Driven Inflation Fears",
+    "background_en": "The Hang Seng Index fell for a second straight session as surging oil prices and geopolitical tension unsettled regional investors.",
+    "background_zh": "恒生指數連續第二個交易日下跌,油價急升及地緣政治緊張局勢令區內投資者不安。",
+    "background_hl": "fell for a second straight session",
+    "analysis_en": "Analysts say pricier crude could seep into broader inflation expectations, complicating central banks' plans to ease interest rates further.",
+    "analysis_zh": "分析師指,油價上升或會滲入更廣泛的通脹預期,令央行進一步減息的計劃更加複雜。",
+    "analysis_hl": "complicating central banks' plans to ease interest rates",
+    "support_en": "Some strategists point out that softer bond yields have offered regional markets a cushioning effect against the worst of the volatility.",
+    "support_zh": "部分策略師指出,較軟的債券孳息率為區內市場帶來緩衝作用,減輕了最嚴重的波動。",
+    "support_hl": "a cushioning effect",
+    "oppose_en": "Economists warn that Hong Kong, whose currency is pegged to the US dollar, remains highly sensitive to these external headwinds regardless of domestic growth.",
+    "oppose_zh": "經濟學者警告,港元與美元掛鈎,即使本地增長理想,香港仍對這些外圍逆風高度敏感。",
+    "oppose_hl": "highly sensitive to these external headwinds",
+    "vocab5": [
+     {
+      "en": "inflationary pressure",
+      "zh": "通脹壓力"
+     },
+     {
+      "en": "currency peg",
+      "zh": "貨幣掛鈎"
+     },
+     {
+      "en": "external headwinds",
+      "zh": "外圍逆風"
+     },
+     {
+      "en": "borrowing costs",
+      "zh": "借貸成本"
+     },
+     {
+      "en": "risk appetite",
+      "zh": "風險胃納"
+     }
+    ],
+    "question_en": "How exposed should a small, open economy like Hong Kong's be to global oil price swings given its currency peg to the US dollar?",
+    "question_zh": "鑑於港元與美元掛鈎,像香港這樣細小而開放的經濟體,應在多大程度上承受全球油價波動的影響?",
+    "question_hl": "exposed should a small, open economy"
+   }
   },
   {
    "source_name": "OpenGov Asia",

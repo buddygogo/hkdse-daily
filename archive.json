@@ -3934,7 +3934,47 @@
     "zh_sub": "校園人工智能先行先試",
     "en": "Hong Kong pilots AI privacy safeguards in schools."
    },
-   "needs_backfill": true
+   "image_scene": "Inside a Hong Kong secondary school classroom, students sit at desks using tablets while a teacher moves between rows pointing at a screen, and a technician quietly adjusts a laptop at the back of the room; morning light through the windows and the Hong Kong skyline faintly visible outside convey a calm, carefully supervised trial rather than a chaotic rollout.",
+   "slides": {
+    "topic_en": "AI Privacy Sandbox for Schools",
+    "background_en": "Hong Kong launched an AI Privacy Sandbox letting fifteen schools trial AI tools under supervision.",
+    "background_zh": "香港推出人工智能私隱沙盒,讓十五所學校在監管下試用AI工具。",
+    "background_hl": "AI Privacy Sandbox",
+    "analysis_en": "The scheme tests how far schools can use AI tools while still protecting students' personal data.",
+    "analysis_zh": "計劃測試學校可在多大程度上使用AI工具,同時保障學生的個人資料。",
+    "analysis_hl": "protecting students' personal data",
+    "support_en": "Supporters say a cautious, phased trial builds public trust before AI reaches every classroom.",
+    "support_zh": "支持者指審慎分階段的試驗,有助在AI普及每個課室前建立公眾信任。",
+    "support_hl": "builds public trust",
+    "oppose_en": "Critics argue six months is too short to judge AI's long-term effects on students.",
+    "oppose_zh": "批評者認為六個月時間太短,難以判斷AI對學生的長遠影響。",
+    "oppose_hl": "too short to judge",
+    "vocab5": [
+     {
+      "en": "pilot scheme",
+      "zh": "試驗計劃"
+     },
+     {
+      "en": "data protection",
+      "zh": "資料保障"
+     },
+     {
+      "en": "regulatory sandbox",
+      "zh": "監管沙盒"
+     },
+     {
+      "en": "long-term implications",
+      "zh": "長遠影響"
+     },
+     {
+      "en": "phased rollout",
+      "zh": "分階段推行"
+     }
+    ],
+    "question_en": "Should schools wait for perfect safeguards, or learn responsible AI use by trying it first?",
+    "question_zh": "學校應等待完善的保障措施,還是應先嘗試以學習負責任地使用AI?",
+    "question_hl": "learn responsible AI use by trying"
+   }
   },
   {
    "source_name": "The Standard",
@@ -4080,7 +4120,47 @@
     "zh_sub": "維園賞燈迎中秋",
     "en": "Hong Kong hosts its first international lantern festival this Mid-Autumn."
    },
-   "needs_backfill": true
+   "image_scene": "Victoria Park at night during Mid-Autumn Festival, rows of brightly lit lanterns of varied international designs lining a walkway beside a lotus pond, families and couples strolling and looking up at a tall banyan-tree-shaped lantern centrepiece; Hong Kong high-rises glowing softly in the background, no readable signage.",
+   "slides": {
+    "topic_en": "Hong Kong's First International Lantern Festival",
+    "background_en": "Victoria Park is hosting Hong Kong's first International Lantern Spectacular for Mid-Autumn Festival.",
+    "background_zh": "維多利亞公園舉行香港首屆國際花燈節,慶祝中秋佳節。",
+    "background_hl": "first International Lantern Spectacular",
+    "analysis_en": "Pairing twenty countries' lanterns with the Tai Hang Fire Dragon Dance raises how far heritage should adapt to tourism.",
+    "analysis_zh": "將二十個國家的花燈與大坑舞火龍結合,引發傳統應否因旅遊而改變的討論。",
+    "analysis_hl": "how far heritage should adapt to tourism",
+    "support_en": "Organisers say international elements can revitalise interest in Mid-Autumn traditions among young people.",
+    "support_zh": "主辦方指加入國際元素,有助為年輕人重新注入對中秋傳統的興趣。",
+    "support_hl": "revitalise interest",
+    "oppose_en": "Heritage advocates warn that large-scale tourism promotion risks diluting a custom's original meaning.",
+    "oppose_zh": "文化保育人士警告,大規模旅遊推廣或會沖淡傳統習俗的原本意義。",
+    "oppose_hl": "diluting a custom's original meaning",
+    "vocab5": [
+     {
+      "en": "intangible cultural heritage",
+      "zh": "非物質文化遺產"
+     },
+     {
+      "en": "time-honoured tradition",
+      "zh": "歷史悠久的傳統"
+     },
+     {
+      "en": "cultural roots",
+      "zh": "文化根源"
+     },
+     {
+      "en": "living tradition",
+      "zh": "活的傳統"
+     },
+     {
+      "en": "tourism promotion",
+      "zh": "旅遊推廣"
+     }
+    ],
+    "question_en": "Can adding international spectacle keep a local tradition alive without changing what it means?",
+    "question_zh": "加入國際化的盛大元素,能否在不改變意義的情況下讓本地傳統延續下去?",
+    "question_hl": "without changing what it means"
+   }
   },
   {
    "source_name": "The Standard",
@@ -4226,7 +4306,47 @@
     "zh_sub": "韓流本地樂壇並駕齊驅",
     "en": "Kai Tak Stadium cements Hong Kong's live music status."
    },
-   "needs_backfill": true
+   "image_scene": "Inside Kai Tak Stadium at night during a concert, a packed stadium crowd with raised phone lights facing a brightly lit stage and large screens, performers as small distant silhouetted figures under coloured stage lighting; the stadium's open roof structure visible above against the dark sky, no readable text or logos.",
+   "slides": {
+    "topic_en": "Kai Tak Stadium and Hong Kong's Live Music Boom",
+    "background_en": "Kai Tak Stadium has quickly become a magnet for major K-pop concerts and a resurgent Cantopop scene.",
+    "background_zh": "啟德體育園迅速成為大型韓流演唱會及復甦中的廣東流行音樂的焦點。",
+    "background_hl": "a magnet for major K-pop concerts",
+    "analysis_en": "The venue's rise raises whether importing global acts helps or overshadows homegrown Cantopop artists.",
+    "analysis_zh": "場館的崛起,引發外國巨星是否有助或掩蓋本地粵語歌手的討論。",
+    "analysis_hl": "helps or overshadows homegrown Cantopop artists",
+    "support_en": "Organisers argue a mix of local and global acts gives Hong Kong audiences unprecedented access to world-class shows.",
+    "support_zh": "主辦方指本地與國際歌手並存,讓香港觀眾前所未有地接觸世界級演出。",
+    "support_hl": "unprecedented access to world-class shows",
+    "oppose_en": "Critics worry heavy reliance on imported acts could gradually overshadow local artists' visibility.",
+    "oppose_zh": "批評者擔心過度依賴外國歌手,或會逐漸令本地藝人的能見度降低。",
+    "oppose_hl": "overshadow local artists' visibility",
+    "vocab5": [
+     {
+      "en": "regional entertainment hub",
+      "zh": "地區娛樂樞紐"
+     },
+     {
+      "en": "touring act",
+      "zh": "巡迴演出藝人"
+     },
+     {
+      "en": "homegrown talent",
+      "zh": "本土人才"
+     },
+     {
+      "en": "fan loyalty",
+      "zh": "粉絲忠誠度"
+     },
+     {
+      "en": "stadium capacity",
+      "zh": "場館容量"
+     }
+    ],
+    "question_en": "As Hong Kong courts world tours, how can the city keep local Cantopop artists in the spotlight?",
+    "question_zh": "香港吸引世界巡演之際,如何讓本地粵語歌手仍能保持受關注的地位?",
+    "question_hl": "keep local Cantopop artists in the spotlight"
+   }
   },
   {
    "source_name": "Media OutReach Newswire",
@@ -4372,7 +4492,47 @@
     "zh_sub": "藝人同行談育兒情緒",
     "en": "New campaign urges adults to notice children's emotional distress early."
    },
-   "needs_backfill": true
+   "image_scene": "A warm, softly lit living room in a Hong Kong flat where a parent sits on a sofa gently talking with a primary-school-aged child, a school backpack by the door and a calendar on the wall marking the start of term; both figures shown from behind or at an angle so faces are not identifiable, conveying a quiet, caring conversation.",
+   "slides": {
+    "topic_en": "Supporting Children's Mental Health Back at School",
+    "background_en": "Save the Children Hong Kong launched \"Every Moment Matters\" to raise awareness of children's emotional wellbeing.",
+    "background_zh": "救助兒童會香港發起「珍活」計劃,提高社會對兒童情緒健康的關注。",
+    "background_hl": "raise awareness of children's emotional wellbeing",
+    "analysis_en": "Using celebrities to discuss parenting raises how far public campaigns can address a private, complex issue.",
+    "analysis_zh": "借助名人談論育兒,引發公眾運動能否處理私人而複雜議題的討論。",
+    "analysis_hl": "address a private, complex issue",
+    "support_en": "Organisers say public figures can destigmatise conversations, making it easier for families to talk openly.",
+    "support_zh": "主辦方指公眾人物有助消除污名化,讓家庭更容易坦誠對話。",
+    "support_hl": "destigmatise conversations",
+    "oppose_en": "Psychologists caution that celebrity-led campaigns cannot replace sustained school counselling and family support.",
+    "oppose_zh": "心理學家提醒,名人主導的宣傳無法取代持續的學校輔導及家庭支援。",
+    "oppose_hl": "cannot replace sustained school counselling",
+    "vocab5": [
+     {
+      "en": "emotional wellbeing",
+      "zh": "情緒健康"
+     },
+     {
+      "en": "recognise the signs",
+      "zh": "識別徵兆"
+     },
+     {
+      "en": "destigmatise",
+      "zh": "消除污名化"
+     },
+     {
+      "en": "school counselling",
+      "zh": "學校輔導"
+     },
+     {
+      "en": "safe space",
+      "zh": "安全的空間"
+     }
+    ],
+    "question_en": "Is a celebrity-fronted campaign enough to change how Hong Kong families talk about feelings?",
+    "question_zh": "單靠名人參與的宣傳活動,足以改變香港家庭談論情緒的方式嗎?",
+    "question_hl": "change how Hong Kong families talk about feelings"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -4518,7 +4678,47 @@
     "zh_sub": "九個月後終提檢控",
     "en": "Buildings Department charges six over deadly Wang Fuk Court fire."
    },
-   "needs_backfill": true
+   "image_scene": "A quiet exterior view of a Hong Kong public housing estate tower block in daylight, scaffolding and green netting still covering part of the facade, a few residents with umbrellas walking past at a distance; subdued grey sky, no close-up of damage or distressed people, conveying a calm, respectful tone appropriate to a tragedy.",
+   "slides": {
+    "topic_en": "Prosecutions Over the Wang Fuk Court Fire",
+    "background_en": "The Buildings Department has launched 259 prosecutions over renovation failings linked to the deadly Wang Fuk Court fire.",
+    "background_zh": "屋宇署就宏福苑致命火災中涉及的翻新工程缺失,展開259項檢控。",
+    "background_hl": "259 prosecutions",
+    "analysis_en": "The scale of charges raises whether the fire resulted from systemic failings rather than a single mistake.",
+    "analysis_zh": "檢控規模引發討論,火災是否源於制度性缺失,而非單一失誤。",
+    "analysis_hl": "systemic failings rather than a single mistake",
+    "support_en": "Officials say pursuing accountability, however long it takes, sends a clear signal to the construction industry.",
+    "support_zh": "官員指無論需時多久,追究問責都向建造業發出明確信息。",
+    "support_hl": "sends a clear signal",
+    "oppose_en": "Bereaved families want the case to bring lasting reform, not stop short of real institutional change.",
+    "oppose_zh": "遇難者家屬希望案件能帶來持久改革,而非未能達到真正的制度變革。",
+    "oppose_hl": "not stop short of real institutional change",
+    "vocab5": [
+     {
+      "en": "substandard materials",
+      "zh": "不合規格物料"
+     },
+     {
+      "en": "accountability",
+      "zh": "問責"
+     },
+     {
+      "en": "building safety enforcement",
+      "zh": "建築安全執法"
+     },
+     {
+      "en": "root-and-branch review",
+      "zh": "全面檢討"
+     },
+     {
+      "en": "institutional reform",
+      "zh": "制度改革"
+     }
+    ],
+    "question_en": "Beyond prosecutions, what lasting reforms would restore public confidence in building safety oversight?",
+    "question_zh": "除了檢控,還需要怎樣的持久改革才能重建公眾對建築安全監管的信心?",
+    "question_hl": "lasting reforms"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -4664,7 +4864,47 @@
     "zh_sub": "四成長者居高危地區",
     "en": "Nearly 40% of elderly residents face serious heat risk."
    },
-   "needs_backfill": true
+   "image_scene": "An older Hong Kong public housing neighbourhood on a scorching afternoon, an elderly resident with a walking stick sitting on a bench in the shade of a small bus shelter, fanning themselves beside an ageing low-rise building with few trees around; heat haze visible over the pavement, conveying quiet struggle rather than distress.",
+   "slides": {
+    "topic_en": "Hong Kong's Elderly Face Rising Heat Risk",
+    "background_en": "A Greenpeace study found nearly 40% of elderly residents live in districts facing serious heat risk.",
+    "background_zh": "綠色和平研究發現,近四成長者居住在面臨嚴重酷熱風險的地區。",
+    "background_hl": "serious heat risk",
+    "analysis_en": "The findings raise why some districts lack enough heat shelters and green space to protect residents.",
+    "analysis_zh": "研究結果引發討論,為何部分地區缺乏足夠的避暑設施及綠化空間保護居民。",
+    "analysis_hl": "lack enough heat shelters and green space",
+    "support_en": "Officials point to existing heat shelter schemes as evidence that support is already in place.",
+    "support_zh": "官員指現有的避暑中心計劃,已證明相關支援措施存在。",
+    "support_hl": "already in place",
+    "oppose_en": "Greenpeace argues isolated shelters cannot replace long-term planning to cool entire neighbourhoods.",
+    "oppose_zh": "綠色和平認為,個別避暑中心無法取代長遠規劃,為整個社區降溫。",
+    "oppose_hl": "cannot replace long-term planning",
+    "vocab5": [
+     {
+      "en": "heat shelter",
+      "zh": "避暑中心"
+     },
+     {
+      "en": "vulnerable resident",
+      "zh": "易受影響的居民"
+     },
+     {
+      "en": "urban heat",
+      "zh": "城市熱島"
+     },
+     {
+      "en": "reactive measure",
+      "zh": "被動應對措施"
+     },
+     {
+      "en": "green space coverage",
+      "zh": "綠化空間覆蓋率"
+     }
+    ],
+    "question_en": "Should the government prioritise more heat shelters or long-term redesign of high-risk neighbourhoods?",
+    "question_zh": "政府應優先增設避暑中心,還是長遠重新規劃高風險社區?",
+    "question_hl": "long-term redesign of high-risk neighbourhoods"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -4810,7 +5050,47 @@
     "zh_sub": "學者促校媒負責任",
     "en": "Child suicide rate triples, researchers urge schools to act."
    },
-   "needs_backfill": true
+   "image_scene": "A quiet Hong Kong secondary school corridor in late afternoon light, a school counsellor's office door slightly open with a soft lamp glowing inside, a single backpack left on a bench outside; the scene is calm and empty of people, conveying concern and care rather than distress, with no visible text on any door or poster.",
+   "slides": {
+    "topic_en": "Child Suicide Rate Triples in Hong Kong",
+    "background_en": "HKU researchers found the suicide rate among children under 15 tripled last year.",
+    "background_zh": "港大研究人員發現,去年十五歲以下兒童的自殺率上升至三倍。",
+    "background_hl": "tripled last year",
+    "analysis_en": "Most warning signs appeared only in digital messages, raising how early schools must learn to notice distress.",
+    "analysis_zh": "大部分徵兆僅見於網上訊息,引發學校應多早識別情緒困擾的討論。",
+    "analysis_hl": "appeared only in digital messages",
+    "support_en": "Officials say counselling resources have expanded significantly in recent years to meet the need.",
+    "support_zh": "官員指近年輔導資源已大幅增加,以應付相關需要。",
+    "support_hl": "expanded significantly",
+    "oppose_en": "Advocates argue resourcing alone fails unless teachers are trained to recognise digital signs of distress.",
+    "oppose_zh": "倡議人士指若教師未獲訓練識別網上求助徵兆,單靠資源並不足夠。",
+    "oppose_hl": "resourcing alone fails",
+    "vocab5": [
+     {
+      "en": "early warning signs",
+      "zh": "早期警號"
+     },
+     {
+      "en": "suicidal ideation",
+      "zh": "自殺意念"
+     },
+     {
+      "en": "responsible reporting",
+      "zh": "負責任的報導"
+     },
+     {
+      "en": "mental wellbeing",
+      "zh": "精神健康"
+     },
+     {
+      "en": "digital distress",
+      "zh": "網上求助訊號"
+     }
+    ],
+    "question_en": "Who should be responsible for noticing a child's hidden distress: schools, families, or platforms?",
+    "question_zh": "誰應負責察覺兒童隱藏的情緒困擾:學校、家庭,還是網絡平台?",
+    "question_hl": "noticing a child's hidden distress"
+   }
   },
   {
    "source_name": "PR Newswire",
@@ -4956,7 +5236,47 @@
     "zh_sub": "各界共商落實氣候行動",
     "en": "ReThink HK 2026 gathers global leaders to accelerate climate action."
    },
-   "needs_backfill": true
+   "image_scene": "The exterior forecourt of the Hong Kong Convention and Exhibition Centre on a clear day, Victoria Harbour and skyline behind it, delegates in business attire walking toward the entrance carrying lanyards and tote bags, a line of national flags from different countries fluttering along the plaza; busy but orderly, no readable signage.",
+   "slides": {
+    "topic_en": "ReThink HK 2026 Climate Summit",
+    "background_en": "ReThink HK 2026 convened over 10,000 global leaders at HKCEC to accelerate climate action.",
+    "background_zh": "ReThink HK 2026於香港會議展覽中心召集逾萬名環球領袖,推動氣候行動。",
+    "background_hl": "accelerate climate action",
+    "analysis_en": "Organising the summit around five thematic zones reflects an attempt to turn climate pledges into real results.",
+    "analysis_zh": "峰會以五大主題區劃分,反映試圖將氣候承諾轉化為實際成果。",
+    "analysis_hl": "turn climate pledges into real results",
+    "support_en": "Supporters say Hong Kong is well placed to be a regional hub linking mainland and global markets.",
+    "support_zh": "支持者指香港具備優勢,可成為連接內地與國際市場的區域樞紐。",
+    "support_hl": "a regional hub",
+    "oppose_en": "Sceptics warn large conferences risk becoming exercises in rhetoric without measurable follow-through.",
+    "oppose_zh": "質疑者警告,大型會議若缺乏可量度的跟進,或會流於空談。",
+    "oppose_hl": "exercises in rhetoric",
+    "vocab5": [
+     {
+      "en": "circular economy",
+      "zh": "循環經濟"
+     },
+     {
+      "en": "sustainability disclosure",
+      "zh": "可持續發展披露"
+     },
+     {
+      "en": "measurable follow-through",
+      "zh": "可量度的跟進"
+     },
+     {
+      "en": "operational results",
+      "zh": "實際成效"
+     },
+     {
+      "en": "climate commitment",
+      "zh": "氣候承諾"
+     }
+    ],
+    "question_en": "Do large climate summits drive real change, or mainly produce talk without lasting action?",
+    "question_zh": "大型氣候峰會能帶來真正改變,還是僅流於空談而缺乏持久行動?",
+    "question_hl": "without lasting action"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -5102,7 +5422,47 @@
     "zh_sub": "局長警告衝擊超工業革命",
     "en": "Hong Kong's tech chief warns AI will reshape every industry."
    },
-   "needs_backfill": true
+   "image_scene": "A conference hall stage at a Hong Kong technology forum, a speaker at a podium addressing rows of seated attendees, large screens behind showing abstract blue data visuals with no legible text, Science Park-style glass buildings suggested through a window; a serious, formal atmosphere conveying a major policy announcement.",
+   "slides": {
+    "topic_en": "Hong Kong Warns AI Will Reshape Every Industry",
+    "background_en": "Hong Kong's tech chief warned AI will cause disruption exceeding every past industrial revolution.",
+    "background_zh": "香港科技首長警告,人工智能帶來的衝擊將超越歷來所有工業革命。",
+    "background_hl": "exceeding every past industrial revolution",
+    "analysis_en": "The warning raises whether retraining schemes can keep pace with how fast AI is reshaping jobs.",
+    "analysis_zh": "警告引發討論,再培訓計劃能否追上人工智能改變職位的速度。",
+    "analysis_hl": "keep pace with how fast AI is reshaping jobs",
+    "support_en": "Officials point to new funding, a supercomputing centre and over 800 AI firms as proof of readiness.",
+    "support_zh": "官員指新資助、超算中心及逾800家AI企業,證明政府已作好準備。",
+    "support_hl": "proof of readiness",
+    "oppose_en": "Critics say reskilling schemes currently reach barely one percent of the workforce, far too little.",
+    "oppose_zh": "批評者指再培訓計劃目前僅觸及約一成勞動人口,遠遠不足。",
+    "oppose_hl": "far too little",
+    "vocab5": [
+     {
+      "en": "industrial revolution",
+      "zh": "工業革命"
+     },
+     {
+      "en": "reskilling scheme",
+      "zh": "再培訓計劃"
+     },
+     {
+      "en": "clustering effect",
+      "zh": "聚集效應"
+     },
+     {
+      "en": "inevitable outcome",
+      "zh": "必然結果"
+     },
+     {
+      "en": "labour market",
+      "zh": "勞動市場"
+     }
+    ],
+    "question_en": "How should Hong Kong prepare students for careers in a labour market reshaped by AI?",
+    "question_zh": "香港應如何為學生準備投身一個被人工智能重塑的勞動市場?",
+    "question_hl": "reshaped by AI"
+   }
   },
   {
    "source_name": "The Standard",
@@ -5248,7 +5608,47 @@
     "zh_sub": "維園上演國際花燈",
     "en": "Hong Kong Tourism Board unveils its first international lantern spectacular."
    },
-   "needs_backfill": true
+   "image_scene": "Victoria Park at dusk during Mid-Autumn Festival, visitors walking along a lantern-lined boulevard past an eight-metre tree-shaped lantern glowing at the entrance, a distant fire-dragon performance with trails of incense smoke visible over Tai Hang's narrow streets in the background; warm lantern light against a darkening sky, no readable text.",
+   "slides": {
+    "topic_en": "Hong Kong's First International Lantern Spectacular",
+    "background_en": "Victoria Park will host over 3,000 lanterns from twenty countries for Hong Kong's first lantern spectacular.",
+    "background_zh": "維多利亞公園將展出來自二十個國家逾三千盞花燈,為香港首個國際花燈節。",
+    "background_hl": "first lantern spectacular",
+    "analysis_en": "The festival raises whether treating heritage as a tourism asset helps or risks hollowing it out.",
+    "analysis_zh": "活動引發討論,將傳統包裝成旅遊資產,是幫助還是削弱其本質。",
+    "analysis_hl": "helps or risks hollowing it out",
+    "support_en": "Supporters say the initiative harnesses heritage to boost tourism rather than treating the two as separate.",
+    "support_zh": "支持者指計劃善用文化遺產帶動旅遊,而非將兩者割裂看待。",
+    "support_hl": "harnesses heritage to boost tourism",
+    "oppose_en": "Commentators caution that packaging rituals for visitors risks letting commercial appeal override meaning.",
+    "oppose_zh": "評論者警告,為遊客包裝儀式或令商業考慮凌駕原有意義。",
+    "oppose_hl": "override meaning",
+    "vocab5": [
+     {
+      "en": "cultural heritage",
+      "zh": "文化遺產"
+     },
+     {
+      "en": "tourism asset",
+      "zh": "旅遊資產"
+     },
+     {
+      "en": "spiritual significance",
+      "zh": "精神意義"
+     },
+     {
+      "en": "living heritage",
+      "zh": "活的遺產"
+     },
+     {
+      "en": "folk craft",
+      "zh": "民間工藝"
+     }
+    ],
+    "question_en": "Can a centuries-old ritual stay meaningful once it is packaged as a major tourist attraction?",
+    "question_zh": "當百年傳統儀式被包裝成大型旅遊景點,它還能保持原有意義嗎?",
+    "question_hl": "packaged as a major tourist attraction"
+   }
   },
   {
    "source_name": "AsiaWorld-Expo",
@@ -5394,7 +5794,47 @@
     "zh_sub": "亞博館再掀韓流熱潮",
     "en": "NMIXX brings its first world tour to Hong Kong fans."
    },
-   "needs_backfill": true
+   "image_scene": "The exterior of AsiaWorld-Expo at night, a long queue of young fans holding light sticks and banners waiting near the entrance under glowing venue lights, airport control tower lights faintly visible in the distance; an atmosphere of excitement and anticipation before a concert, no readable logos or band names.",
+   "slides": {
+    "topic_en": "K-pop's Hong Kong Concert Boom",
+    "background_en": "NMIXX's first world tour stop in Hong Kong joins a packed September of major K-pop concerts.",
+    "background_zh": "NMIXX首次世界巡演來港,加入九月本地韓流演唱會的密集檔期。",
+    "background_hl": "a packed September of major K-pop concerts",
+    "analysis_en": "AsiaWorld-Expo's rise as a concert hub rests on infrastructure and fans willing to travel, not just novelty.",
+    "analysis_zh": "亞博館成為演唱會樞紐,靠的是基礎設施和願意跨境的粉絲,而非單憑新鮮感。",
+    "analysis_hl": "infrastructure and fans willing to travel",
+    "support_en": "Promoters say strong ticket demand and transport links keep drawing acts back to the same venue.",
+    "support_zh": "主辦方指強勁票務需求及便利交通,令藝人持續選擇同一場館。",
+    "support_hl": "strong ticket demand",
+    "oppose_en": "Some observers note K-pop's pervasive presence has pushed it well beyond a niche subculture.",
+    "oppose_zh": "有觀察者指韓流無處不在,早已超越小眾文化的範疇。",
+    "oppose_hl": "well beyond a niche subculture",
+    "vocab5": [
+     {
+      "en": "world tour",
+      "zh": "世界巡演"
+     },
+     {
+      "en": "venue capacity",
+      "zh": "場館容量"
+     },
+     {
+      "en": "ticket demand",
+      "zh": "票務需求"
+     },
+     {
+      "en": "de facto centre",
+      "zh": "事實上的中心"
+     },
+     {
+      "en": "mainstream soundtrack",
+      "zh": "主流配樂"
+     }
+    ],
+    "question_en": "Has K-pop become part of Hong Kong's everyday culture, or does it remain a passing fan trend?",
+    "question_zh": "韓流是否已融入香港日常文化,還是仍只是一時的粉絲潮流?",
+    "question_hl": "part of Hong Kong's everyday culture"
+   }
   },
   {
    "source_name": "China Daily (Hong Kong Edition)",
@@ -5540,7 +5980,47 @@
     "zh_sub": "初級職位首當其衝",
     "en": "AI adoption reshapes Hong Kong's labour market and graduate hiring."
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong open-plan office in daytime, a mix of young and older employees at desks with computer screens showing abstract charts, one empty desk with a chair pushed in near a row of occupied ones; a Central district skyline visible through floor-to-ceiling windows, conveying a workplace quietly being reshaped by change.",
+   "slides": {
+    "topic_en": "AI Reshapes Hong Kong's Job Market",
+    "background_en": "AI use among Hong Kong employers has tripled in a year, reshaping what skills jobs demand.",
+    "background_zh": "香港僱主使用AI的比例一年內升至三倍,重新定義職場所需技能。",
+    "background_hl": "reshaping what skills jobs demand",
+    "analysis_en": "The shift raises whether AI mainly creates opportunity or mainly shrinks entry-level jobs for graduates.",
+    "analysis_zh": "轉變引發討論,AI主要帶來機會,還是主要削減應屆畢業生的入門職位。",
+    "analysis_hl": "mainly shrinks entry-level jobs for graduates",
+    "support_en": "Backers note AI-related exports and new company setups show the technology is fuelling real growth.",
+    "support_zh": "支持者指AI相關出口及新公司設立,顯示技術正帶動實質增長。",
+    "support_hl": "fuelling real growth",
+    "oppose_en": "Critics point out graduate vacancies have fallen roughly sixty percent since 2022, hitting entry roles hardest.",
+    "oppose_zh": "批評者指畢業生職位空缺自2022年已跌約六成,入門職位受創最深。",
+    "oppose_hl": "hitting entry roles hardest",
+    "vocab5": [
+     {
+      "en": "workforce shift",
+      "zh": "勞動力轉型"
+     },
+     {
+      "en": "entry-level role",
+      "zh": "入門職位"
+     },
+     {
+      "en": "headcount reduction",
+      "zh": "削減人手"
+     },
+     {
+      "en": "baseline expectation",
+      "zh": "基本要求"
+     },
+     {
+      "en": "economic momentum",
+      "zh": "經濟動力"
+     }
+    ],
+    "question_en": "If AI skills become a baseline expectation, how should schools rethink career preparation now?",
+    "question_zh": "若AI技能成為基本要求,學校現在應如何重新思考職業準備教育?",
+    "question_hl": "rethink career preparation"
+   }
   },
   {
    "source_name": "SCMP",
@@ -5686,7 +6166,47 @@
     "zh_sub": "社交媒體加劇風險",
     "en": "HKU researchers link social media use to rising child suicide."
    },
-   "needs_backfill": true
+   "image_scene": "A dim bedroom at night in a Hong Kong flat, a young student's silhouette seated on a bed scrolling a glowing phone screen, homework left unfinished on a desk nearby, curtains letting in faint streetlight from outside; the face is not shown, conveying quiet isolation rather than any explicit distress.",
+   "slides": {
+    "topic_en": "Social Media and Rising Child Suicide Risk",
+    "background_en": "HKU research found child suicide rates hit a decade high even as the overall rate declined.",
+    "background_zh": "港大研究發現兒童自殺率創十年新高,與整體自殺率下跌的趨勢相反。",
+    "background_hl": "a decade high",
+    "analysis_en": "The paradox raises why younger children face rising risk while the rest of the city improves.",
+    "analysis_zh": "這矛盾現象引發討論,為何年幼兒童風險上升,而全港整體卻見改善。",
+    "analysis_hl": "why younger children face rising risk",
+    "support_en": "Researchers say stronger teacher-student rapport can act as a protective factor against distress.",
+    "support_zh": "研究人員指加強師生關係,可成為減低情緒困擾風險的保護因素。",
+    "support_hl": "a protective factor",
+    "oppose_en": "Others stress that social media activity strongly predicted cases, pointing to online harm as a driver.",
+    "oppose_zh": "亦有意見指社交媒體活動與自殺案例密切相關,反映網上傷害是主因之一。",
+    "oppose_hl": "online harm as a driver",
+    "vocab5": [
+     {
+      "en": "decade-high rate",
+      "zh": "十年新高"
+     },
+     {
+      "en": "protective factor",
+      "zh": "保護因素"
+     },
+     {
+      "en": "holistic approach",
+      "zh": "全面方法"
+     },
+     {
+      "en": "undue strain",
+      "zh": "過度壓力"
+     },
+     {
+      "en": "emerging crisis",
+      "zh": "新現危機"
+     }
+    ],
+    "question_en": "Should platforms, schools or families bear the greatest responsibility for children's online safety?",
+    "question_zh": "平台、學校還是家庭,應承擔最大責任保障兒童的網絡安全?",
+    "question_hl": "greatest responsibility for children's online safety"
+   }
   },
   {
    "source_name": "SCMP",
@@ -5832,7 +6352,47 @@
     "zh_sub": "演唱會門票引發福利爭論",
     "en": "Concert trip costs family their welfare subsidy"
    },
-   "needs_backfill": true
+   "image_scene": "A long-distance coach or cross-border bus interior at dusk, a teenage passenger shown from behind looking out the window toward distant city lights, a concert light stick resting on the empty seat beside her; a quiet, reflective mood with no visible faces, logos or signage.",
+   "slides": {
+    "topic_en": "A Concert Ticket Costs a Family Its Welfare Subsidy",
+    "background_en": "A mainland teen's Hong Kong concert trip led authorities to cut her family's welfare allowance.",
+    "background_zh": "一名內地少女來港看演唱會,令當局取消其家庭的生活津貼。",
+    "background_hl": "cut her family's welfare allowance",
+    "analysis_en": "The case raises how welfare rules should treat a single discretionary expense by a low-income family.",
+    "analysis_zh": "事件引發討論,福利制度應如何看待低收入家庭一次性的非必要消費。",
+    "analysis_hl": "a single discretionary expense",
+    "support_en": "Officials argue the rules must apply consistently to prevent abuse of a scheme meant for essential needs.",
+    "support_zh": "官員指規則必須始終如一執行,以防止用於基本需要的計劃被濫用。",
+    "support_hl": "apply consistently to prevent abuse",
+    "oppose_en": "Many netizens say penalising a family over one ticket is disproportionate given their health needs.",
+    "oppose_zh": "不少網民認為,因一張門票而懲罰家庭並不合理,忽略其健康需要。",
+    "oppose_hl": "disproportionate",
+    "vocab5": [
+     {
+      "en": "welfare subsidy",
+      "zh": "福利津貼"
+     },
+     {
+      "en": "discretionary spending",
+      "zh": "非必要消費"
+     },
+     {
+      "en": "household eligibility",
+      "zh": "家庭資格"
+     },
+     {
+      "en": "nuanced reality",
+      "zh": "複雜現實"
+     },
+     {
+      "en": "fan culture",
+      "zh": "追星文化"
+     }
+    ],
+    "question_en": "How can welfare systems balance strict rules with compassion for individual family circumstances?",
+    "question_zh": "福利制度應如何在嚴格規則與體恤個別家庭情況之間取得平衡?",
+    "question_hl": "balance strict rules with compassion"
+   }
   },
   {
    "source_name": "SCMP",
@@ -5978,7 +6538,47 @@
     "zh_sub": "三千萬六合彩款被凍結",
     "en": "Man allegedly refuses to share lottery jackpot winnings"
    },
-   "needs_backfill": true
+   "image_scene": "A small Hong Kong corner newsstand or convenience-store counter at street level displaying Mark Six lottery betting slips, a customer's hand placing coins on the counter, neon shop signs blurred in the background at dusk; an everyday, slightly tense atmosphere, no readable text or winning numbers shown.",
+   "slides": {
+    "topic_en": "A HK$30 Million Lottery Dispute Among Colleagues",
+    "background_en": "A man was arrested after allegedly refusing to share a HK$30 million jackpot with fourteen colleagues.",
+    "background_zh": "一名男子涉嫌拒絕與十四名同事平分三千萬元彩票獎金,遭警方拘捕。",
+    "background_hl": "refusing to share a HK$30 million jackpot",
+    "analysis_en": "The case highlights how informal money-pooling agreements often carry little legal weight.",
+    "analysis_zh": "事件突顯非正式集資協議在法律上往往缺乏約束力。",
+    "analysis_hl": "little legal weight",
+    "support_en": "Supporters of caution say the dispute shows why written agreements matter even among trusted colleagues.",
+    "support_zh": "謹慎者指事件顯示即使同事互信,訂立書面協議仍然重要。",
+    "support_hl": "written agreements matter",
+    "oppose_en": "Others argue that demanding contracts for every informal group bet is impractical and erodes trust.",
+    "oppose_zh": "亦有人認為,要求每次集體投注都訂立合約並不實際,更會侵蝕互信。",
+    "oppose_hl": "erodes trust",
+    "vocab5": [
+     {
+      "en": "pool money together",
+      "zh": "集資"
+     },
+     {
+      "en": "verbal agreement",
+      "zh": "口頭協議"
+     },
+     {
+      "en": "legal grey area",
+      "zh": "法律灰色地帶"
+     },
+     {
+      "en": "freeze an account",
+      "zh": "凍結戶口"
+     },
+     {
+      "en": "cautionary tale",
+      "zh": "警世故事"
+     }
+    ],
+    "question_en": "Should friends and colleagues always put informal money-sharing arrangements in writing?",
+    "question_zh": "朋友或同事之間的非正式分錢安排,是否應該一律以書面訂立?",
+    "question_hl": "always put informal money-sharing arrangements in writing"
+   }
   },
   {
    "source_name": "SCMP",
@@ -6124,7 +6724,47 @@
     "zh_sub": "房署下令加做強度測試",
     "en": "Housing Authority orders extra concrete tests at Tung Chung"
    },
-   "needs_backfill": true
+   "image_scene": "A public housing construction site in Tung Chung on an overcast day, scaffolding covering several unfinished tower blocks, a worker in a hard hat examining a core sample from a drilled section of grey concrete wall, construction barriers in the foreground; a cautious, inspection-focused mood, no readable text or logos.",
+   "slides": {
+    "topic_en": "Concrete Quality Concerns at a Tung Chung Housing Site",
+    "background_en": "Engineers found concrete in three Tung Chung public housing blocks did not meet quality benchmarks.",
+    "background_zh": "工程人員發現東涌三座公屋大廈的混凝土未達到品質標準。",
+    "background_hl": "did not meet quality benchmarks",
+    "analysis_en": "Repeated quality lapses raise serious questions about oversight across the construction industry.",
+    "analysis_zh": "一再出現的品質問題,引發對建築業監督制度的嚴重質疑。",
+    "analysis_hl": "serious questions about oversight",
+    "support_en": "Officials stress no flats will be handed over until the concrete's quality is fully verified.",
+    "support_zh": "官員強調在混凝土品質完全獲核實前,不會交付任何單位。",
+    "support_hl": "fully verified",
+    "oppose_en": "Critics say transparency and stricter accountability for contractors are urgently needed, not reassurances.",
+    "oppose_zh": "批評者指業界亟需更高透明度及更嚴格問責,而非僅靠安撫言辭。",
+    "oppose_hl": "urgently needed, not reassurances",
+    "vocab5": [
+     {
+      "en": "structural integrity",
+      "zh": "結構完整性"
+     },
+     {
+      "en": "quality benchmark",
+      "zh": "品質標準"
+     },
+     {
+      "en": "accountability measure",
+      "zh": "問責措施"
+     },
+     {
+      "en": "housing shortage",
+      "zh": "房屋短缺"
+     },
+     {
+      "en": "rigorous enforcement",
+      "zh": "嚴格執法"
+     }
+    ],
+    "question_en": "Can Hong Kong speed up public housing supply without repeating these quality control failures?",
+    "question_zh": "香港能否在加快公屋供應的同時,避免重複出現品質監管失誤?",
+    "question_hl": "without repeating these quality control failures"
+   }
   },
   {
    "source_name": "The Standard",
@@ -6270,7 +6910,47 @@
     "zh_sub": "維園三千花燈賀中秋",
     "en": "Hong Kong hosts first international lantern festival for Mid-Autumn"
    },
-   "needs_backfill": true
+   "image_scene": "Victoria Park at night filled with glowing lanterns of varied international styles along a lit walkway, crowds of families and tourists admiring a giant traditional lantern centrepiece, a few craftsmen's lantern stalls visible further along the path; warm festive lighting against a dark sky, no readable text or signage.",
+   "slides": {
+    "topic_en": "Hong Kong's First International Lantern Festival",
+    "background_en": "Hong Kong is hosting its first International Lantern Spectacular, with 3,000 lanterns from 20 regions.",
+    "background_zh": "香港首辦國際花燈節,展出來自二十個國家及地區共三千盞花燈。",
+    "background_hl": "first International Lantern Spectacular",
+    "analysis_en": "Inviting overseas artisans to a local festival raises whether it broadens or dilutes Hong Kong's heritage.",
+    "analysis_zh": "邀請海外工匠參與本地節慶,引發討論這會擴闊還是削弱香港的文化遺產。",
+    "analysis_hl": "broadens or dilutes Hong Kong's heritage",
+    "support_en": "Supporters say exposing younger generations to traditional lantern-making may rekindle interest in heritage.",
+    "support_zh": "支持者指讓年輕一代接觸傳統花燈工藝,或有助重燃對文化遺產的興趣。",
+    "support_hl": "rekindle interest in heritage",
+    "oppose_en": "Critics warn such large-scale festivities risk turning a solemn family occasion into a tourist spectacle.",
+    "oppose_zh": "批評者警告,大型盛事或會將莊重的家庭節日變成純粹的旅遊盛事。",
+    "oppose_hl": "a tourist spectacle",
+    "vocab5": [
+     {
+      "en": "citywide celebration",
+      "zh": "全市性慶祝活動"
+     },
+     {
+      "en": "cultural crossroads",
+      "zh": "文化交匯點"
+     },
+     {
+      "en": "diluting authenticity",
+      "zh": "削弱真確性"
+     },
+     {
+      "en": "age-old custom",
+      "zh": "古老習俗"
+     },
+     {
+      "en": "set a precedent",
+      "zh": "開創先例"
+     }
+    ],
+    "question_en": "Does blending international art with Mid-Autumn traditions strengthen or weaken their original meaning?",
+    "question_zh": "將國際藝術元素融入中秋傳統,是鞏固還是削弱其原本意義?",
+    "question_hl": "strengthen or weaken their original meaning"
+   }
   },
   {
    "source_name": "RTHK",
@@ -6416,7 +7096,47 @@
     "zh_sub": "陳茂波推AI技能計劃",
     "en": "Government launches AI upskilling programme for Hong Kong workers"
    },
-   "needs_backfill": true
+   "image_scene": "A modern training room in Hong Kong with adult workers of varied ages seated at laptops during an AI workshop, an instructor standing beside a large screen showing abstract diagrams with no legible text, a cityscape of office towers visible through the window; a focused, professional learning atmosphere.",
+   "slides": {
+    "topic_en": "A HK$50 Million AI Upskilling Drive",
+    "background_en": "Paul Chan unveiled a HK$50 million plan to train 50,000 workers in AI skills over two years.",
+    "background_zh": "陳茂波公布五千萬元計劃,兩年內培訓五萬名打工仔的人工智能技能。",
+    "background_hl": "train 50,000 workers in AI skills",
+    "analysis_en": "The scheme raises whether modest funding can keep pace with how fast AI is disrupting every sector.",
+    "analysis_zh": "計劃引發討論,有限資金能否追上人工智能衝擊各行各業的速度。",
+    "analysis_hl": "keep pace with how fast AI is disrupting every sector",
+    "support_en": "Supporters say AI literacy is becoming as foundational as digital literacy was a decade ago.",
+    "support_zh": "支持者指人工智能素養正如十年前的數碼素養般,成為基礎能力。",
+    "support_hl": "as foundational as digital literacy",
+    "oppose_en": "Critics argue the funding is modest in scale given the disruption AI is expected to bring workers.",
+    "oppose_zh": "批評者指相對於人工智能帶來的衝擊,此筆撥款規模仍然有限。",
+    "oppose_hl": "modest in scale",
+    "vocab5": [
+     {
+      "en": "upskilling drive",
+      "zh": "提升技能行動"
+     },
+     {
+      "en": "foundational competency",
+      "zh": "基礎能力"
+     },
+     {
+      "en": "vulnerable sector",
+      "zh": "易受影響的行業"
+     },
+     {
+      "en": "caught off guard",
+      "zh": "措手不及"
+     },
+     {
+      "en": "AI readiness",
+      "zh": "人工智能準備程度"
+     }
+    ],
+    "question_en": "Is retraining existing workers enough, or does Hong Kong also need deeper curriculum reform?",
+    "question_zh": "單靠再培訓現有勞動人口是否足夠,還是香港需要更深層的課程改革?",
+    "question_hl": "deeper curriculum reform"
+   }
   },
   {
    "source_name": "HKU Press Office",
@@ -6562,7 +7282,47 @@
     "zh_sub": "新生須完成AI基礎課",
     "en": "HKU makes AI literacy compulsory for all new students"
    },
-   "needs_backfill": true
+   "image_scene": "A university lecture hall at HKU with new undergraduates seated attentively, a lecturer at the front gesturing toward a screen displaying abstract network-style diagrams with no legible text, campus buildings visible through tall windows behind; a bright, orderly first-day-of-term atmosphere.",
+   "slides": {
+    "topic_en": "HKU Makes AI Literacy a Compulsory Course",
+    "background_en": "HKU became the first Hong Kong university to make AI literacy compulsory for all new students.",
+    "background_zh": "港大成為香港首間將人工智能素養列為必修課的大學,所有新生均須修讀。",
+    "background_hl": "make AI literacy compulsory",
+    "analysis_en": "The move raises whether one mandatory course is enough to build genuine critical engagement with AI.",
+    "analysis_zh": "此舉引發討論,一門必修課是否足以培養學生對人工智能的真正思辨能力。",
+    "analysis_hl": "genuine critical engagement with AI",
+    "support_en": "Supporters say almost every profession now needs at least a working understanding of AI's limits.",
+    "support_zh": "支持者指幾乎所有行業都需要對人工智能的能力與限制有基本了解。",
+    "support_hl": "a working understanding of AI's limits",
+    "oppose_en": "Critics warn such courses risk becoming tokenistic without sustained investment in teaching capacity.",
+    "oppose_zh": "批評者警告,若缺乏持續的教學資源投入,課程或會流於形式。",
+    "oppose_hl": "becoming tokenistic",
+    "vocab5": [
+     {
+      "en": "compulsory component",
+      "zh": "必修部分"
+     },
+     {
+      "en": "multidisciplinary course",
+      "zh": "跨學科課程"
+     },
+     {
+      "en": "ethical dilemma",
+      "zh": "道德難題"
+     },
+     {
+      "en": "discerning generation",
+      "zh": "有辨別能力的一代"
+     },
+     {
+      "en": "test case",
+      "zh": "試驗案例"
+     }
+    ],
+    "question_en": "Should every university student, regardless of major, be required to study AI ethics and literacy?",
+    "question_zh": "不論主修什麼,所有大學生是否都應必修人工智能道德與素養課程?",
+    "question_hl": "required to study AI ethics and literacy"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -6708,7 +7468,47 @@
     "zh_sub": "天文台錄得史上最熱一天",
     "en": "Hong Kong records hottest day ever amid Typhoon Dolphin"
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong street at midday under a blazing sun, heat haze shimmering above the asphalt, a delivery worker in a cap wiping sweat while pausing beside a parked scooter, shoppers hurrying into an air-conditioned mall entrance nearby; bright glaring sunlight conveying extreme heat, no readable signage.",
+   "slides": {
+    "topic_en": "Hong Kong Logs Its Hottest Day on Record",
+    "background_en": "Hong Kong recorded its hottest day ever at 36.9°C, with Sheung Shui reaching 39.8°C.",
+    "background_zh": "香港錄得有紀錄以來最熱一天,天文台報36.9度,上水更錄得39.8度。",
+    "background_hl": "hottest day ever",
+    "analysis_en": "The record raises whether current heat warnings and work guidelines can keep pace with worsening extremes.",
+    "analysis_zh": "破紀錄高溫引發討論,現有酷熱警示及工作指引能否追上日益嚴重的極端天氣。",
+    "analysis_hl": "keep pace with worsening extremes",
+    "support_en": "Environmental groups say the record heat should be a wake-up call to speed up carbon neutrality plans.",
+    "support_zh": "環保團體指破紀錄高溫應成為警號,促使政府加快推動碳中和計劃。",
+    "support_hl": "a wake-up call",
+    "oppose_en": "Sceptics caution that one weather record alone cannot justify sweeping policy change without more data.",
+    "oppose_zh": "質疑者提醒,單一天氣紀錄在缺乏更多數據下,不足以支持大規模政策改變。",
+    "oppose_hl": "cannot justify sweeping policy change",
+    "vocab5": [
+     {
+      "en": "record-breaking heat",
+      "zh": "破紀錄酷熱"
+     },
+     {
+      "en": "discernible pattern",
+      "zh": "明顯規律"
+     },
+     {
+      "en": "disproportionately exposed",
+      "zh": "承受不成比例的影響"
+     },
+     {
+      "en": "carbon neutrality",
+      "zh": "碳中和"
+     },
+     {
+      "en": "outdoor worker",
+      "zh": "戶外工作者"
+     }
+    ],
+    "question_en": "How should Hong Kong redesign public health and infrastructure for increasingly extreme summers?",
+    "question_zh": "香港應如何重新設計公共衛生及基建系統,以應對日益極端的夏季?",
+    "question_hl": "redesign public health and infrastructure"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",

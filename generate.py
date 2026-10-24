@@ -437,12 +437,33 @@ def _cover_html(article: dict, image_url: str | None, img_cls: str, wrap_fallbac
     )
 
 
+def _causes_html(causes: list[dict]) -> str:
+    """DSE writing angles: English label + text with 🔊, Chinese translation underneath."""
+    items = ""
+    for c in causes:
+        label, text = c.get("label", ""), c.get("text", "")
+        lzh, tzh = c.get("label_zh", ""), c.get("text_zh", "")
+        items += f"""
+          <li class="angle">
+            <div class="angle-head"><strong>{label}</strong>
+              <button class="speak-btn" onclick="speak('{_speak(label + '. ' + text)}')" title="Listen">🔊</button>
+              {f'<span class="angle-zh-label">{lzh}</span>' if lzh else ''}</div>
+            <div class="angle-text">{text}</div>
+            {f'<div class="angle-zh" lang="zh-Hant">{tzh}</div>' if tzh else ''}
+          </li>"""
+    return f"""
+        <div class="causes-block">
+          <div class="causes-title">DSE writing angles 寫作角度</div>
+          <ul class="causes-list">{items}</ul>
+        </div>"""
+
+
 def _actions_html(uid: str) -> str:
     """Print / share buttons shown at the bottom of each article."""
     return f"""
       <div class="article-actions">
-        <button class="act-btn" onclick="printArticle('{uid}', 'both')">🖨 Print English + 中文</button>
-        <button class="act-btn" onclick="printArticle('{uid}', 'en')">🖨 Print English only</button>
+        <button class="act-btn" onclick="printArticle('{uid}', 'both')">🖨 Print</button>
+        <button class="act-btn" onclick="listenArticle('{uid}', this)">🔊 Listen</button>
         <button class="act-btn act-share" onclick="shareArticle('{uid}')">Share</button>
       </div>"""
 
@@ -696,6 +717,13 @@ def build_article_card_html(article: dict, image_url: str | None, uid: str, lazy
   </article>"""
 
 
+def _trend_notes(trend: dict, uid: str) -> str:
+    """Trends get the same study notes as articles once they have vocab/phrases."""
+    if not (trend.get("vocab") or trend.get("phrases")):
+        return ""
+    return _study_notes_html(trend, uid + "-n")
+
+
 def build_trend_sidebar_html(trend: dict, idx: int) -> str:
     """Trend rendered as a compact sidebar item."""
     plat_html = "".join(
@@ -719,10 +747,8 @@ def build_trend_sidebar_html(trend: dict, idx: int) -> str:
     <div id="body-{uid}">
       <div class="study-drawer" id="drawer-{uid}">
         {_bilingual_html(trend.get('summary_html',''), trend.get('summary_zh_html',''), 'trend-body')}
-        <div class="causes-block">
-          <div class="causes-title">DSE writing angles</div>
-          <ul class="causes-list">{causes_html}</ul>
-        </div>
+        {_causes_html(trend.get("causes", []))}
+        {_trend_notes(trend, uid)}
         {_actions_html(uid)}
       </div>
     </div>
@@ -752,10 +778,8 @@ def build_trend_main_html(trends: list[dict]) -> str:
     <div class="card-meta" id="meta-{uid}"><span>Social Trend</span>{f'<span class="card-dot">·</span><span class="card-pub">{_nice_date(trend.get("date",""))}</span>' if trend.get("date") else ''}</div>
     <div id="body-{uid}">
       {_bilingual_html(trend.get('summary_html',''), trend.get('summary_zh_html',''), 'trend-body')}
-      <div class="causes-block">
-        <div class="causes-title">DSE writing angles</div>
-        <ul class="causes-list">{causes_html}</ul>
-      </div>
+      {_causes_html(trend.get("causes", []))}
+      {_trend_notes(trend, uid)}
       {_actions_html(uid)}
     </div>
     <button class="read-more-btn" onclick="openFull('{uid}')">Read trend + 4 essay angles</button>
@@ -1862,6 +1886,38 @@ CSS = """
       .hero-head { padding: 1.2rem; }
     }
 
+    /* Article view sits below the sticky top bar + topic strip */
+    .full-overlay { top: 150px; z-index: 80; }
+    .full-overlay-inner { padding-top: 1rem; }
+
+    /* Easier-to-read study notes */
+    .vocab-phrase { font-size: 1.05rem; }
+    .vocab-zh { font-size: 0.98rem; }
+    .vocab-sample { font-size: 0.98rem; line-height: 1.6; }
+    .phrase-table { font-size: 0.98rem; }
+    .phrase-table td { padding: 0.6rem 0.8rem; }
+    .phrase-table .zh-col { font-family: var(--f-zh); }
+    .writing-angle-label { font-size: 1.05rem; }
+    .writing-angle-text { font-size: 1rem; line-height: 1.7; }
+    .note-textarea { font-size: 1rem; }
+
+    /* DSE writing angles: larger, bilingual */
+    .causes-block { margin-top: 1.4rem; }
+    .causes-title { font-size: 1.15rem !important; margin-bottom: 0.6rem; }
+    .causes-list { gap: 0.9rem; }
+    .causes-list li.angle { padding-left: 0; }
+    .causes-list li.angle::before { content: none; }
+    .angle { border-left: 4px solid var(--accent); padding: 0.2rem 0 0.2rem 0.9rem !important; }
+    .angle-head { display: flex; align-items: center; flex-wrap: wrap; gap: 0.45rem; font-size: 1.08rem; color: var(--ink); }
+    .angle-zh-label { font-family: var(--f-zh); font-weight: 600; color: var(--sub); font-size: 1rem; }
+    .angle-text { font-family: var(--f-read); font-size: 1.05rem; line-height: 1.7; color: var(--sub); margin-top: 0.25rem; }
+    .angle-zh { font-family: var(--f-zh); font-size: 1rem; line-height: 1.85; color: var(--muted); margin-top: 0.3rem; }
+    .trend-body { font-size: 1.02rem; }
+
+    /* trend cards stay short previews; everything shows in the article view */
+    .trends-grid .study-toggle, .trends-grid .study-drawer, .trends-grid .article-actions { display: none; }
+    .full-body .study-drawer { display: block !important; }
+
     /* Print + share bar at the bottom of each article */
     .article-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.4rem;
                        padding-top: 1.1rem; border-top: 1px solid var(--border); }
@@ -1911,6 +1967,272 @@ CSS = """
     @media (prefers-reduced-motion: reduce) {
       * { transition: none !important; scroll-behavior: auto !important; }
     }
+
+    /* ══ MAGAZINE + APP LAYOUT ══════════════════════════════════════════════ */
+    :root {
+      --f-ui: 'Titillium Web', 'Noto Sans HK', system-ui, sans-serif;
+      --accent: #157A5B; --accent-hover: #0F5E45; --accent-light: #E3F2EC;
+      --bg: #F4F5F7; --radius: 16px;
+    }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #4FC79C; --accent-hover: #7DDBB8; --accent-light: #12352A; } }
+    :root[data-theme="dark"] { --accent: #4FC79C; --accent-hover: #7DDBB8; --accent-light: #12352A; }
+    html { -webkit-text-size-adjust: 100%; }
+    body { font-family: var(--f-ui); }
+
+    /* header: dark bar + topic pills */
+    .site-header { position: sticky; top: 0; z-index: 90; }
+    .route-strip { display: none !important; }
+    .topbar { background: #111418; border-bottom: 0; }
+    .topbar .logo-name { color: #fff; font-family: var(--f-ui); font-stretch: normal; font-weight: 700; font-size: 1.3rem; letter-spacing: -0.01em; }
+    .topbar .logo-zh { color: #FFD43B; font-family: var(--f-zh); }
+    .topbar .topbar-date strong { color: #A9B0BC; }
+    .topbar .btn-open-saved { background: transparent; color: #fff; border-color: #3A404B; }
+    .topbar .auth-login-btn { background: #fff; color: #111418; }
+    .topbar .auth-login-btn svg path { fill: #111418; }
+    .topbar .auth-user-pill { background: #22272F; border-color: #3A404B; }
+    .topbar .auth-user-name { color: #fff; }
+    .topic-nav { background: #111418; border-top: 1px solid #22272F; }
+    .topic-inner { max-width: 1240px; margin: 0 auto; display: flex; gap: 0.4rem; overflow-x: auto;
+                   padding: 0.55rem 1.25rem 0.7rem; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+    .topic-inner::-webkit-scrollbar { display: none; }
+    .topic-nav .line-stop { flex: 0 0 auto; display: inline-block; min-width: 0; padding: 0.42rem 0.95rem; border-radius: 999px;
+                            border: 1px solid #3A404B; background: transparent; color: #D6DAE1; font-family: var(--f-ui);
+                            font-weight: 600; font-size: 0.92rem; cursor: pointer; white-space: nowrap; }
+    .topic-nav .line-stop::before { content: none; }
+    .topic-nav .line-stop:hover { border-color: #fff; color: #fff; }
+    .topic-nav .line-stop.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+    /* news update ticker */
+    .news-update { display: flex; align-items: center; gap: 0.9rem; max-width: 1240px; margin: 1rem auto 0;
+                   padding: 0.55rem 1rem; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+    .nu-label { flex: 0 0 auto; color: #D7261E; font-weight: 700; font-size: 0.92rem; }
+    .tick-track { display: flex; overflow: hidden; flex: 1; min-width: 0; -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent); }
+    .tick-run { display: flex; flex: 0 0 auto; gap: 2rem; padding-right: 2rem; animation: tick 70s linear infinite; }
+    .news-update:hover .tick-run { animation-play-state: paused; }
+    .tick-item { background: none; border: 0; padding: 0; font: 500 0.92rem var(--f-ui); color: var(--ink); white-space: nowrap; cursor: pointer; }
+    .tick-item::before { content: "●"; color: #D7261E; font-size: 0.55rem; margin-right: 0.6rem; vertical-align: middle; }
+    @keyframes tick { from { transform: translateX(0); } to { transform: translateX(-100%); } }
+
+    /* page */
+    .mag { max-width: 1240px; margin: 0 auto; padding: 1.2rem 1.25rem 3rem; }
+    .mag-section { margin-top: 2.4rem; }
+    .mag-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; }
+    .mag-h2 { --line: var(--accent); font-family: var(--f-ui); font-weight: 700; font-size: 1.45rem; color: var(--ink);
+              margin: 0; padding-left: 0.7rem; border-left: 4px solid var(--line); line-height: 1.15; }
+    .mag-dot { width: 3px; height: 3px; border-radius: 50%; background: currentColor; opacity: 0.5; display: inline-block; }
+    .mag-pill { --line: #151922; display: inline-block; font: 600 0.78rem var(--f-ui); color: #fff; background: var(--line);
+                padding: 0.25rem 0.7rem; border-radius: 999px; line-height: 1.3; }
+    .mag-pill-glass { background: rgba(255,255,255,0.18); backdrop-filter: blur(6px); border: 1px solid rgba(255,255,255,0.35); }
+    .mag-meta { display: flex; align-items: center; gap: 0.45rem; font-size: 0.86rem; color: var(--muted); }
+    .mag-src { font-weight: 600; color: var(--ink); }
+    .mag-excerpt { font-size: 0.98rem; line-height: 1.6; color: var(--sub); margin: 0; cursor: pointer;
+                   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .cover-mag { position: absolute; inset: 0; display: block; color: #fff; }
+    .cover-mag .cover-label { display: none; }
+    .cover-mag .cover-emoji { position: absolute; top: 14%; right: 9%; font-size: clamp(2.4rem, 9vw, 4.2rem); opacity: 0.9; }
+    .mag-list-thumb .cover-mag .cover-emoji, .mag-card-media .cover-mag .cover-emoji { top: 50%; left: 50%; right: auto;
+      transform: translate(-50%, -50%); font-size: 2.6rem; }
+
+    /* hero */
+    .mag-hero { position: relative; border-radius: 20px; overflow: hidden; background: #1b1f26; min-height: 520px; display: flex; flex-direction: column; justify-content: flex-end; }
+    .mag-hero-media { position: absolute; inset: 0; cursor: pointer; }
+    .mag-hero-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1; }
+    .mag-hero-shade { position: absolute; inset: 0; z-index: 2; pointer-events: none;
+                      background: linear-gradient(90deg, rgba(8,10,14,0.85) 0%, rgba(8,10,14,0.55) 45%, rgba(8,10,14,0.1) 80%),
+                                  linear-gradient(0deg, rgba(8,10,14,0.7) 0%, rgba(8,10,14,0) 45%); }
+    .mag-hero-text { position: relative; z-index: 3; padding: 2.4rem 2.6rem 1.6rem; max-width: 760px; color: #fff; }
+    .mag-hero-pills { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .mag-hero-title { font-family: var(--f-ui); font-weight: 700; color: #fff; font-size: clamp(1.9rem, 4.2vw, 3.3rem);
+                      line-height: 1.08; letter-spacing: -0.01em; margin: 0.9rem 0 1.1rem; text-wrap: balance; cursor: pointer; }
+    .mag-hero-read { display: flex; align-items: center; gap: 0.6rem; font-size: 0.95rem; }
+    .mag-read-btn { width: 42px; height: 42px; border-radius: 50%; border: 1.5px solid rgba(255,255,255,0.7); background: transparent;
+                    color: #fff; font-size: 1.1rem; cursor: pointer; }
+    .mag-read-btn:hover { background: #fff; color: #111; }
+    .mag-meta-hero { color: rgba(255,255,255,0.8); margin-top: 0.8rem; }
+    .mag-meta-hero .mag-src { color: #fff; }
+    .mag-hero-strip { position: relative; z-index: 3; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.7rem;
+                      padding: 1rem 2.6rem 1.6rem; border-top: 1px solid rgba(255,255,255,0.15); background: rgba(8,10,14,0.35); }
+    .hero-next { display: flex; align-items: center; gap: 0.7rem; text-align: left; background: rgba(255,255,255,0.1);
+                 border: 1px solid rgba(255,255,255,0.18); border-radius: 12px; padding: 0.6rem 0.8rem; color: #fff;
+                 font: 600 0.88rem/1.3 var(--f-ui); cursor: pointer; backdrop-filter: blur(6px); }
+    .hero-next:hover { background: rgba(255,255,255,0.2); }
+    .hero-next span:last-child { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .hero-next-num { flex: 0 0 auto; width: 30px; height: 30px; border-radius: 50%; border: 1.5px solid rgba(255,255,255,0.6);
+                     display: grid; place-items: center; font-size: 0.85rem; }
+
+    /* featured rail */
+    .mag-arrows { display: flex; gap: 0.4rem; }
+    .mag-arrow { width: 38px; height: 38px; border-radius: 50%; border: 1px solid var(--border); background: var(--surface);
+                 color: var(--ink); cursor: pointer; font-size: 1rem; }
+    .mag-arrow:hover { border-color: var(--ink); }
+    .mag-rail { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(220px, 1fr); gap: 1rem;
+                overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 0.4rem; scrollbar-width: none; }
+    .mag-rail::-webkit-scrollbar { display: none; }
+    @media (min-width: 1100px) { .mag-rail { grid-auto-columns: calc((100% - 4rem) / 5); } }
+    .mag-feature { position: relative; aspect-ratio: 4 / 5.4; border-radius: var(--radius); overflow: hidden; scroll-snap-align: start;
+                   cursor: pointer; background: #1b1f26; }
+    .mag-feature-media { position: absolute; inset: 0; }
+    .mag-feature-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1; transition: transform 0.4s ease; }
+    .mag-feature:hover .mag-feature-img { transform: scale(1.04); }
+    .mag-feature-shade { position: absolute; inset: 0; z-index: 2; background: linear-gradient(0deg, rgba(8,10,14,0.9) 0%, rgba(8,10,14,0.25) 55%, rgba(8,10,14,0) 75%); }
+    .mag-feature > .mag-pill { position: absolute; top: 0.8rem; left: 0.8rem; z-index: 3; }
+    .mag-feature-text { position: absolute; left: 0; right: 0; bottom: 0; z-index: 3; padding: 1rem; }
+    .mag-feature-title { color: #fff; font: 700 1.08rem/1.25 var(--f-ui); margin: 0 0 0.45rem; text-wrap: pretty; }
+    .mag-meta-light { color: rgba(255,255,255,0.75); font-size: 0.8rem; }
+    .mag-meta-light .mag-src { color: #fff; }
+
+    /* latest + trending */
+    .mag-split { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 2rem; align-items: start; }
+    .mag-split.topic-view { grid-template-columns: 1fr; }
+    .mag-list-item { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 1.1rem; padding: 1rem 0; border-bottom: 1px solid var(--border); }
+    .mag-list-thumb { position: relative; aspect-ratio: 4 / 4.2; border-radius: 12px; overflow: hidden; cursor: pointer; background: var(--faint); }
+    .mag-list-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1; }
+    .mag-list-text { display: flex; flex-direction: column; gap: 0.45rem; min-width: 0; }
+    .mag-list-title { font: 700 1.15rem/1.3 var(--f-ui); color: var(--ink); margin: 0; cursor: pointer; }
+    .mag-list-foot { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; font-size: 0.84rem; color: var(--muted); margin-top: auto; }
+    .mag-side { position: sticky; top: 140px; display: flex; flex-direction: column; gap: 1.2rem; margin-top: 2.4rem; }
+    .trending-box { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.2rem 1.2rem 0.6rem; }
+    .trending-h { border-left-color: #F38B00; margin-bottom: 0.6rem; }
+    .trend-row { display: flex; gap: 0.8rem; width: 100%; text-align: left; background: none; border: 0; border-top: 1px solid var(--border);
+                 padding: 0.85rem 0; cursor: pointer; font-family: var(--f-ui); color: var(--ink); }
+    .trend-row:first-of-type { border-top: 0; }
+    .trend-num { font-weight: 700; font-size: 1.5rem; color: var(--border); line-height: 1; min-width: 2.2rem; }
+    .trend-row:hover .trend-num { color: #F38B00; }
+    .trend-row-text { display: flex; flex-direction: column; gap: 0.3rem; }
+    .trend-row-title { font-weight: 600; font-size: 1rem; line-height: 1.35; }
+    .trend-row-meta { display: flex; align-items: center; gap: 0.4rem; font-size: 0.8rem; color: var(--muted); }
+
+    /* topic grids */
+    .mag-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.6rem 1.4rem; }
+    .mag-card { display: flex; flex-direction: column; gap: 0.55rem; }
+    .mag-card-media { position: relative; aspect-ratio: 4 / 3.3; border-radius: 14px; overflow: hidden; cursor: pointer; background: var(--faint); }
+    .mag-card-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 30%; z-index: 1; transition: transform 0.4s ease; }
+    .mag-card:hover .mag-card-img { transform: scale(1.03); }
+    .mag-card-title { font: 700 1.2rem/1.3 var(--f-ui); color: var(--ink); margin: 0; cursor: pointer; text-wrap: pretty; }
+    .mag-card-foot { display: flex; align-items: center; gap: 0.45rem; font-size: 0.85rem; color: var(--muted); }
+    .mag-cat-text { --line: var(--accent); color: var(--line); font-weight: 600; }
+    .mag-trends .main-section-head { margin: 0 0 1rem; }
+    .mag-trends .main-section-head h2 { font-family: var(--f-ui); font-weight: 700; font-size: 1.45rem; padding-left: 0.7rem; border-left: 4px solid #F38B00; }
+
+    /* footer */
+    .mag-footer { background: #111418; color: #A9B0BC; margin-top: 3rem; padding: 2.4rem 1.25rem 6rem; }
+    .mag-footer-inner { max-width: 1240px; margin: 0 auto; display: grid; grid-template-columns: 1.4fr 1fr; gap: 2rem; }
+    .mag-footer-brand { color: #fff; font-weight: 700; font-size: 1.3rem; }
+    .mag-footer-brand span { color: #FFD43B; font-family: var(--f-zh); }
+    .mag-footer p { max-width: 46ch; line-height: 1.6; }
+    .mag-footer-tips { display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.92rem; }
+    .mag-footer-tips b { color: #fff; }
+    .mag-footer-small { max-width: 1240px; margin: 1.6rem auto 0; font-size: 0.8rem; border-top: 1px solid #22272F; padding-top: 1rem; }
+
+    /* article view */
+    .full-cover { position: relative; margin: 0 0 1.2rem; border-radius: var(--radius); overflow: hidden; max-height: 460px; }
+    .full-cover img { display: block; width: 100%; height: 100%; max-height: 460px; object-fit: cover; }
+    .full-cover:empty { display: none; }
+    .lang-switch { display: inline-flex; background: var(--faint); border: 1px solid var(--border); border-radius: 999px; padding: 3px; margin: 0 0 1rem; }
+    .lang-switch button { font: 600 0.92rem var(--f-ui); border: 0; background: transparent; color: var(--sub); padding: 0.4rem 0.95rem; border-radius: 999px; cursor: pointer; }
+    .lang-switch button.on { background: var(--surface); color: var(--ink); box-shadow: 0 1px 3px rgba(0,0,0,0.12); }
+    .full-body.lang-en .bi-zh, .full-body.lang-zh .bi-en { display: none !important; }
+    .full-body.lang-en .bi-grid, .full-body.lang-zh .bi-grid { grid-template-columns: 1fr !important; }
+    .full-body.lang-zh .bi-zh { border: 0 !important; padding: 0 !important; }
+    .full-body .news-body, .full-body .trend-body, .full-body .bi-en { font-size: 1.12rem; line-height: 1.8; }
+    .full-body .bi-zh { font-size: 1.08rem; line-height: 2; }
+
+    /* bottom tab bar (phones) */
+    .tabbar { display: none; }
+
+    /* ── PHONES & SMALL TABLETS ───────────────────────────────────────────── */
+    @media (max-width: 900px) {
+      .mag-split { grid-template-columns: 1fr; }
+      .mag-side { position: static; margin-top: 1.6rem; }
+      .mag-footer-inner { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 640px) {
+      body { font-size: 17px; }
+      .topbar-inner { padding: 0.55rem 1rem; }
+      .topbar-right .btn-open-saved, .topbar-right .auth-login-btn, .topbar-right .auth-user-pill, .topbar-date { display: none !important; }
+      .topbar .logo-name { font-size: 1.2rem; }
+      .topic-inner { padding: 0.45rem 1rem 0.6rem; }
+      .topic-nav .line-stop { font-size: 0.95rem; padding: 0.45rem 1rem; }
+      .news-update { margin: 0.8rem 1rem 0; }
+      .mag { padding: 0.9rem 1rem 2rem; }
+      .mag-section { margin-top: 1.8rem; }
+      .mag-h2 { font-size: 1.3rem; }
+
+      .mag-hero { min-height: 0; border-radius: 18px; }
+      .mag-hero-media { position: relative; inset: auto; aspect-ratio: 4 / 4.6; }
+      .mag-hero-shade { background: linear-gradient(0deg, rgba(8,10,14,0.92) 0%, rgba(8,10,14,0.5) 40%, rgba(8,10,14,0) 62%); }
+      .mag-hero-text { position: absolute; left: 0; right: 0; bottom: 0; padding: 1.1rem 1.1rem 1rem; }
+      .mag-hero-title { font-size: clamp(1.5rem, 7vw, 2rem); margin: 0.6rem 0 0.7rem; }
+      .mag-hero-read { font-size: 0.9rem; }
+      .mag-read-btn { width: 36px; height: 36px; }
+      .mag-meta-hero { display: none; }
+      .mag-hero-strip { display: none; }
+
+      .mag-arrows { display: none; }
+      .mag-rail { grid-auto-columns: 76%; gap: 0.8rem; margin: 0 -1rem; padding: 0 1rem 0.3rem; scroll-padding: 0 1rem; }
+      .mag-feature-title { font-size: 1.12rem; }
+
+      .mag-list-item { grid-template-columns: 112px minmax(0, 1fr); gap: 0.85rem; padding: 0.85rem 0; }
+      .mag-list-thumb { aspect-ratio: 1 / 1.05; }
+      .mag-list-title { font-size: 1.05rem; }
+      .mag-list-item .mag-excerpt { display: none; }
+
+      .mag-grid { grid-template-columns: 1fr; gap: 1.4rem; }
+      .mag-card-title { font-size: 1.15rem; }
+
+      /* article view: cover on top, text on a rounded sheet, large type */
+      .full-overlay { top: 0 !important; z-index: 95; }
+      .full-overlay-inner { padding: 0 0 7rem !important; }
+      .full-overlay-topbar { position: sticky; top: 0; z-index: 3; padding: 0.6rem 1rem; margin: 0;
+                             background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(10px); }
+      .full-close-btn { font-size: 1rem; padding: 0.45rem 0.9rem; }
+      .full-cover { border-radius: 0; margin: 0; max-height: none; }
+      .full-cover img { max-height: 62vh; }
+      .full-headline { font-size: 1.6rem !important; padding: 1.1rem 1.1rem 0; margin: -1.2rem 0 0; position: relative;
+                       background: var(--bg); border-radius: 22px 22px 0 0; }
+      .full-meta { padding: 0 1.1rem; }
+      .lang-switch { margin: 0 1.1rem 0.9rem; }
+      .full-body { padding: 0 1.1rem; }
+      .full-body .bi-grid { display: block !important; padding: 0 !important; border: 0 !important; background: none !important; }
+      .full-body .bi-zh { padding: 1rem 0 0 !important; margin-top: 1rem; border-left: 0 !important; border-top: 1px solid var(--border) !important; }
+      .full-body .news-body, .full-body .trend-body, .full-body .bi-en { font-size: 1.15rem; line-height: 1.8; }
+      .full-body .bi-zh { font-size: 1.12rem; line-height: 2; }
+      .bw .tip { width: min(260px, 80vw); }
+
+      /* study notes: stacked, larger */
+      .vocab-grid { grid-template-columns: 1fr !important; }
+      .vocab-phrase { font-size: 1.12rem; }
+      .vocab-zh, .vocab-sample { font-size: 1.02rem; }
+      .phrase-table thead { display: none; }
+      .phrase-table, .phrase-table tbody, .phrase-table tr, .phrase-table td { display: block; width: 100%; }
+      .phrase-table tr { border: 1px solid var(--border); border-radius: 12px; padding: 0.7rem 0.85rem; margin-bottom: 0.7rem; background: var(--surface); }
+      .phrase-table td { border: 0 !important; padding: 0.15rem 0 !important; font-size: 1.02rem; background: none !important; }
+      .phrase-table .en-col { font-weight: 700; }
+      .angle-head { font-size: 1.1rem; }
+      .angle-text { font-size: 1.08rem; }
+      .angle-zh { font-size: 1.04rem; }
+      .article-actions { display: grid; grid-template-columns: 1fr 1fr 1fr; }
+      .act-btn { padding: 0.75rem 0.4rem; font-size: 0.95rem; text-align: center; }
+      .speak-btn, .save-vocab-btn { min-width: 36px; min-height: 36px; }
+      .note-textarea { font-size: 16px; }   /* 16px+ stops iPhone zooming the page */
+
+      /* app-style bottom tab bar */
+      .tabbar { display: grid; grid-template-columns: repeat(4, 1fr); position: fixed; left: 0.7rem; right: 0.7rem;
+                bottom: calc(0.6rem + env(safe-area-inset-bottom)); z-index: 120; background: var(--surface);
+                border: 1px solid var(--border); border-radius: 22px; box-shadow: 0 8px 28px rgba(0,0,0,0.16); padding: 0.35rem; }
+      .tab { display: flex; flex-direction: column; align-items: center; gap: 0.1rem; border: 0; background: none; color: var(--muted);
+             font: 600 0.72rem var(--f-ui); padding: 0.35rem 0; border-radius: 16px; cursor: pointer; }
+      .tab-ico { font-size: 1.2rem; line-height: 1.2; }
+      .tab.on { background: var(--accent); color: #fff; }
+      .mag-footer { padding-bottom: 7rem; }
+      .saved-panel { width: 100% !important; }
+    }
+    @media (max-width: 360px) {
+      .mag-hero-title { font-size: 1.4rem; }
+      .mag-list-item { grid-template-columns: 92px minmax(0, 1fr); }
+      .article-actions { grid-template-columns: 1fr 1fr; }
+    }
+    @media (prefers-reduced-motion: reduce) { .tick-run { animation: none; } .mag-feature-img, .mag-card-img { transition: none; } }
 """
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -1927,15 +2249,52 @@ JS = """
 
   // Sidebar & tab filter
   function filterCards(cat, el) {
+    if (typeof closeFull === 'function') closeFull();
     document.querySelectorAll('.line-stop[data-cat]').forEach(function(b) {
       b.classList.toggle('active', b.dataset.cat === cat);
     });
+    var home = cat === 'all';
+    document.querySelectorAll('.home-only').forEach(function(x) { x.style.display = home ? '' : 'none'; });
     document.querySelectorAll('[data-cat]').forEach(function(c) {
       if (c.classList.contains('line-stop')) return;
-      c.style.display = (cat === 'all' || c.dataset.cat.split(' ').includes(cat)) ? '' : 'none';
+      c.style.display = (home || c.dataset.cat.split(' ').indexOf(cat) !== -1) ? '' : 'none';
     });
-    var main = document.querySelector('.main-content');
-    if (main && cat !== 'all') window.scrollTo({ top: main.offsetTop - 120, behavior: 'smooth' });
+    document.querySelectorAll('.mag-section').forEach(function(sec) {
+      if (home) { sec.style.display = ''; return; }
+      var any = Array.prototype.some.call(sec.querySelectorAll('[data-cat]'), function(c) { return c.style.display !== 'none'; });
+      sec.style.display = any ? '' : 'none';
+    });
+    document.querySelectorAll('.mag-split').forEach(function(x) {
+      x.classList.toggle('topic-view', !home);
+    });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  var _lang = 'both';
+  try { _lang = localStorage.getItem('hkdse_lang') || (window.innerWidth < 640 ? 'en' : 'both'); } catch (e) {}
+  function setLang(lang, btn) {
+    _lang = lang;
+    try { localStorage.setItem('hkdse_lang', lang); } catch (e) {}
+    var body = document.getElementById('full-body');
+    if (body) { body.classList.remove('lang-both', 'lang-en', 'lang-zh'); body.classList.add('lang-' + lang); }
+    document.querySelectorAll('.lang-switch button').forEach(function(b) { b.classList.toggle('on', b.dataset.lang === lang); });
+  }
+
+  function tabTo(where, btn) {
+    document.querySelectorAll('.tab').forEach(function(t) { t.classList.toggle('on', t === btn); });
+    if (where === 'home') { filterCards('all'); }
+    else if (where === 'topics') { closeFull(); window.scrollTo({ top: 0, behavior: 'smooth' });
+      var nav = document.querySelector('.topic-inner'); if (nav) { nav.scrollLeft = 0; nav.classList.add('pulse'); setTimeout(function(){ nav.classList.remove('pulse'); }, 900); } }
+    else if (where === 'vocab') { toggleSavedPanel(); setTimeout(function(){ document.querySelectorAll('.tab').forEach(function(t){ t.classList.toggle('on', t.id === 'tab-home'); }); }, 400); }
+    else if (where === 'me') {
+      if (window._fb && window._fb.auth.currentUser) signOutGoogle(); else signInWithGoogle();
+      setTimeout(function(){ document.querySelectorAll('.tab').forEach(function(t){ t.classList.toggle('on', t.id === 'tab-home'); }); }, 400);
+    }
+  }
+
+  function scrollRail(dir) {
+    var r = document.getElementById('mag-rail');
+    if (r) r.scrollBy({ left: dir * r.clientWidth * 0.8, behavior: 'smooth' });
   }
 
   // Study notes accordion
@@ -2072,7 +2431,9 @@ JS = """
     'table.phrase-table, table.vlist { width: 100%; border-collapse: collapse; font-size: 10pt; }',
     'table.phrase-table th, table.phrase-table td, table.vlist th, table.vlist td { border: 1px solid #bbb; padding: 4pt 6pt; text-align: left; vertical-align: top; }',
     'table.phrase-table tr, table.vlist tr { break-inside: avoid; }',
-    '.vocab-section-label, .causes-title { font-family: Archivo, Arial, sans-serif; font-weight: 700; margin: 10pt 0 4pt; }',
+    '.vocab-section-label, .causes-title, h2 { font-family: Archivo, Arial, sans-serif; font-weight: 700; margin: 10pt 0 4pt; break-after: avoid; page-break-after: avoid; }',
+    '.angle-zh, .angle-zh-label { font-family: "Noto Serif HK", serif; color: #333; }',
+    '.angle { margin-bottom: 6pt; break-inside: avoid; }',
     '.causes-list li { margin-bottom: 5pt; }',
     '.footer { margin-top: 18pt; font-family: Archivo, Arial, sans-serif; font-size: 8.5pt; color: #777; border-top: 1px solid #ccc; padding-top: 4pt; }',
     '.hint { font-family: Arial, sans-serif; background: #fffbe6; border: 1px solid #e5d27a; padding: 8pt 10pt; margin-bottom: 12pt; font-size: 10pt; }',
@@ -2188,6 +2549,32 @@ JS = """
       '<table class="vlist"><tr><th>#</th><th>Word / phrase</th><th>中文</th><th>Example sentence</th></tr>' + rows + '</table>');
   }
 
+  // ── LISTEN (read the English article aloud) ─────────────────────────────
+  var _listenBtn = null;
+  function listenArticle(uid, btn) {
+    if (!window.speechSynthesis) { alert('Your browser does not support reading aloud.'); return; }
+    if (_listenBtn) {  // second tap stops
+      var was = _listenBtn;
+      window.speechSynthesis.cancel();
+      _listenBtn.textContent = '🔊 Listen';
+      _listenBtn = null;
+      if (was === btn) return;
+    }
+    _ensureLoaded(uid).then(function(src) {
+      var en = src.querySelector('.bi-en') || src.querySelector('.news-body, .trend-body, .card-summary');
+      if (!en) return;
+      var c = en.cloneNode(true);
+      c.querySelectorAll('.tip, .bi-label').forEach(function(x) { x.remove(); });
+      var u = new SpeechSynthesisUtterance(c.innerText);
+      u.lang = 'en-GB'; u.rate = 0.9;
+      u.onend = function() { if (_listenBtn) { _listenBtn.textContent = '🔊 Listen'; _listenBtn = null; } };
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(u);
+      _listenBtn = btn;
+      btn.textContent = '⏹ Stop';
+    });
+  }
+
   // ── SHARE ─────────────────────────────────────────────────────────────────
   function _articleUrl(uid) {
     return location.origin + location.pathname + '#' + encodeURIComponent(uid);
@@ -2292,8 +2679,15 @@ JS = """
     _openFullNow(uid);
   }
 
+  var _scrollBeforeFull = 0;
   function _openFullNow(uid) {
     var overlay = document.getElementById('full-overlay');
+    if (overlay && !overlay.classList.contains('open')) {
+      _scrollBeforeFull = window.scrollY;
+      window.scrollTo(0, 0);
+    }
+    var strip = document.querySelector('.site-header');
+    if (overlay && strip) overlay.style.top = Math.round(strip.getBoundingClientRect().bottom) + 'px';
     var headEl  = document.getElementById('full-headline');
     var metaEl  = document.getElementById('full-meta');
     var bodyEl  = document.getElementById('full-body');
@@ -2305,6 +2699,16 @@ JS = """
     var srcBody = document.getElementById('body-' + uid);
 
     headEl.textContent = srcHead ? srcHead.textContent : '';
+    var coverEl = document.getElementById('full-cover');
+    if (coverEl) {
+      coverEl.innerHTML = '';
+      var holder = srcHead && srcHead.closest('article, section');
+      var img = holder && holder.querySelector('img');
+      if (img && img.getAttribute('src')) {
+        var im = document.createElement('img'); im.src = img.getAttribute('src'); im.alt = '';
+        coverEl.appendChild(im);
+      }
+    }
     metaEl.innerHTML   = srcMeta ? srcMeta.innerHTML   : '';
 
     if (srcBody) {
@@ -2318,6 +2722,7 @@ JS = """
       clone.querySelectorAll('[id]').forEach(function(el){ el.id = 'full-' + el.id; });
       bodyEl.innerHTML = '';
       bodyEl.appendChild(clone);
+      setLang(_lang);
       if (window._applyUserState) window._applyUserState(clone);
     }
 
@@ -2327,8 +2732,11 @@ JS = """
 
   function closeFull() {
     var overlay = document.getElementById('full-overlay');
+    var wasOpen = overlay && overlay.classList.contains('open');
     if (overlay) overlay.classList.remove('open');
     document.body.style.overflow = '';
+    if (wasOpen) window.scrollTo(0, _scrollBeforeFull);
+    if (window.speechSynthesis && _listenBtn) { window.speechSynthesis.cancel(); _listenBtn.textContent = '🔊 Listen'; _listenBtn = null; }
   }
 
   // Paired highlights: English phrase N <-> Chinese phrase N within the same article
@@ -2392,6 +2800,8 @@ JS = """
             if (av) av.textContent = (user.displayName || user.email || '?').trim().charAt(0).toUpperCase();
             if (nm) nm.textContent = user.displayName || user.email;
           }
+          var tm = document.getElementById('tab-me');
+          if (tm) tm.lastChild.textContent = 'Sign out';
           _loadCloudVocab(user.uid);
           _loadCloudNotes(user.uid);
         } else {
@@ -2535,21 +2945,23 @@ HTML_TEMPLATE = """\
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#111418" />
   <title>HKDSE Daily Brief</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&family=Noto+Serif+HK:wght@400;600&family=Noto+Sans+HK:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&family=Archivo:wdth,wght@100..125,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&family=Noto+Serif+HK:wght@400;600&family=Noto+Sans+HK:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>{css}</style>
 </head>
 <body>
 
+<div class="site-header">
 <!-- TOP BAR -->
 <header class="topbar">
   <div class="topbar-inner">
     <div class="logo">
       <div class="logo-mark">📰</div>
-      <span class="logo-name">HKDSE Daily</span><span class="logo-zh">每日英語</span>
+      <span class="logo-name" onclick="closeFull()" style="cursor:pointer">HKDSE Daily</span><span class="logo-zh">每日英語</span>
     </div>
     <div class="topbar-right">
       <div class="topbar-date"><strong id="today-date">Loading…</strong></div>
@@ -2568,10 +2980,9 @@ HTML_TEMPLATE = """\
   </div>
 </header>
 
-<!-- TOPIC LINES (MTR-style route strip) -->
-<nav class="route-strip" aria-label="Topics">
-  <div class="route-inner">{route_strip}</div>
-</nav>
+<nav class="topic-nav" aria-label="Topics"><div class="topic-inner">{topic_nav}</div></nav>
+</div>
+<div class="news-update"><span class="nu-label">News update</span>{ticker}</div>
 
 <!-- SAVED VOCAB PANEL -->
 <div class="saved-panel-overlay" id="saved-panel-overlay" onclick="if(event.target===this)toggleSavedPanel()">
@@ -2607,44 +3018,61 @@ HTML_TEMPLATE = """\
     <div class="full-overlay-topbar">
       <button class="full-close-btn" onclick="closeFull()">← Back</button>
     </div>
+    <div class="full-cover" id="full-cover"></div>
     <h2 class="full-headline" id="full-headline"></h2>
     <div class="full-meta" id="full-meta"></div>
+    <div class="lang-switch" role="group" aria-label="Language">
+      <button class="on" data-lang="both" onclick="setLang('both', this)">Both</button>
+      <button data-lang="en" onclick="setLang('en', this)">English</button>
+      <button data-lang="zh" onclick="setLang('zh', this)">中文</button>
+    </div>
     <div class="full-body" id="full-body"></div>
   </div>
 </div>
 
-<div class="site-body">
+<main class="mag">
+  {hero}
 
-
-  <!-- MAIN CONTENT -->
-  <main class="main-content">
-    <div class="main-section-head today-head">
-      <h2>Today's brief</h2>
-      <span class="section-see-all">{today_label}</span>
+  <section class="mag-section">
+    <div class="mag-head">
+      <h2 class="mag-h2">Featured stories</h2>
+      <div class="mag-arrows home-only">
+        <button class="mag-arrow" onclick="scrollRail(-1)" aria-label="Previous stories">←</button>
+        <button class="mag-arrow" onclick="scrollRail(1)" aria-label="Next stories">→</button>
+      </div>
     </div>
-    {hero}
-    <div class="articles-grid">
-      {articles_grid}
+    <div class="mag-rail" id="mag-rail">{featured}
     </div>
-    {trends_main}
-    {library}
-  </main>
+  </section>
 
-  <!-- RIGHT SIDEBAR -->
-  <aside class="right-sidebar">
-    <div class="sidebar-widget-head">
-      <h3>Trending on Social</h3>
-      <span class="sidebar-see-all">📲</span>
-    </div>
-    {trends_sidebar}
-    {countdown_sidebar}
-  </aside>
+  <div class="mag-split">
+    <section class="mag-section mag-latest">
+      <div class="mag-head"><h2 class="mag-h2">The latest</h2></div>
+      {latest}
+    </section>
+    <aside class="mag-side home-only">
+      {trending}
+      {countdown_sidebar}
+    </aside>
+  </div>
 
-</div><!-- .site-body -->
+  <div class="mag-section mag-trends">{trends_main}</div>
+  {library}
+</main>
 
-<footer>
-  HKDSE Daily Brief · 每日英語精華 &nbsp;|&nbsp; For educational use only &nbsp;·&nbsp;
-  Hover <strong style="color:var(--accent)">blue words</strong> for definitions · Click 🔊 to hear pronunciation
+<nav class="tabbar" aria-label="App navigation">
+  <button class="tab on" id="tab-home" onclick="tabTo('home', this)"><span class="tab-ico">⌂</span>Home</button>
+  <button class="tab" onclick="tabTo('topics', this)"><span class="tab-ico">☰</span>Topics</button>
+  <button class="tab" onclick="tabTo('vocab', this)"><span class="tab-ico">💾</span>My Vocab</button>
+  <button class="tab" id="tab-me" onclick="tabTo('me', this)"><span class="tab-ico">👤</span>Sign in</button>
+</nav>
+<footer class="mag-footer">
+  <div class="mag-footer-inner">
+    <div><div class="mag-footer-brand">HKDSE Daily <span>每日英語</span></div>
+      <p>Real Hong Kong news, written for HKDSE English Paper 2. Every article in English and 中文, with vocabulary, phrases and essay angles.</p></div>
+    <div class="mag-footer-tips"><b>How to use</b><span>Hover or tap highlighted words for meanings</span><span>🔊 to hear pronunciation · 💾 to save words</span><span>🖨 Print any article for revision</span></div>
+  </div>
+  <div class="mag-footer-small">For educational use only</div>
 </footer>
 
 <!-- Firebase SDKs (compat version — works without bundler) -->
@@ -2654,6 +3082,144 @@ HTML_TEMPLATE = """\
 <script>{js}</script>
 </body>
 </html>"""
+
+
+# ── MAGAZINE HOMEPAGE (layout modelled on the user's reference designs) ─────
+
+def _read_time(a: dict) -> str:
+    words = len(re.sub(r"<[^>]+>", " ", a.get("summary_html", "")).split())
+    return f"{max(1, round(words / 200))} min read"
+
+
+def _cat_label(a: dict) -> str:
+    return _TAG_META.get(_first_cat(a), ("", "News"))[1]
+
+
+def _hidden_body(a: dict, uid: str) -> str:
+    """Full article (EN + 中文 + notes + actions) loads on demand from a/<uid>.html."""
+    _FRAGMENTS[uid] = (
+        _bilingual_html(a.get("summary_html", ""), a.get("summary_zh_html", ""), "news-body")
+        + _study_notes_html(a, uid)
+        + _actions_html(uid)
+    )
+    return f'<div id="body-{uid}" data-src="a/{uid}.html" hidden></div>'
+
+
+def _meta_html(a: dict, uid: str, cls: str = "mag-meta") -> str:
+    src = a.get("source_name", "")
+    day = _nice_date(a.get("date", "")) or a.get("published_date", "")
+    return (f'<div class="{cls}" id="meta-{uid}"><span class="mag-src">{src}</span>'
+            f'<span class="mag-dot"></span><span>{day}</span></div>')
+
+
+def _pill(a: dict) -> str:
+    col = _LINE_COLOURS.get(_first_cat(a), "#151922")
+    return f'<span class="mag-pill" style="--line:{col}">{_cat_label(a)}</span>'
+
+
+def _img(a: dict, cls: str) -> str:
+    return _cover_html(a, None, cls, "cover-mag")
+
+
+def build_hero_mag(a: dict, others: list[dict]) -> str:
+    uid = a.get("id") or "hero"
+    hl = a.get("headline", "")
+    strip = "".join(
+        f'<button class="hero-next" onclick="openFull(\'{o.get("id")}\')">'
+        f'<span class="hero-next-num">{i}</span><span>{o.get("headline", "")}</span></button>'
+        for i, o in enumerate(others[:4], 2)
+    )
+    media = (f'<img class="mag-hero-img" src="{a["banner"]}" alt="" onerror="this.remove()">'
+             if a.get("banner") else _img(a, "mag-hero-img"))
+    return f"""
+  <section class="mag-hero" data-cat="{' '.join((a.get('category') or 'social').split())}">
+    <div class="mag-hero-media" onclick="openFull('{uid}')">{media}</div>
+    <div class="mag-hero-shade"></div>
+    <div class="mag-hero-text">
+      <div class="mag-hero-pills"><span class="mag-pill mag-pill-glass">Today's top story</span>{_pill(a)}</div>
+      <h1 class="mag-hero-title clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{hl}</h1>
+      <div class="mag-hero-read">
+        <button class="mag-read-btn" onclick="openFull('{uid}')" aria-label="Read story">→</button>
+        <span>Read story</span><span class="mag-dot"></span><span>{_read_time(a)}</span>
+      </div>
+      {_meta_html(a, uid, "mag-meta mag-meta-hero")}
+    </div>
+    {f'<div class="mag-hero-strip home-only">{strip}</div>' if strip else ''}
+    {_hidden_body(a, uid)}
+  </section>"""
+
+
+def _feature_card(a: dict) -> str:
+    uid = a.get("id")
+    return f"""
+      <article class="mag-feature" data-cat="{' '.join((a.get('category') or 'social').split())}" onclick="openFull('{uid}')">
+        <div class="mag-feature-media">{_img(a, "mag-feature-img")}</div>
+        <div class="mag-feature-shade"></div>
+        {_pill(a)}
+        <div class="mag-feature-text">
+          <h3 class="mag-feature-title" id="hl-{uid}">{a.get('headline', '')}</h3>
+          {_meta_html(a, uid, "mag-meta mag-meta-light")}
+        </div>
+        {_hidden_body(a, uid)}
+      </article>"""
+
+
+def _list_item(a: dict) -> str:
+    uid = a.get("id")
+    return f"""
+      <article class="mag-list-item" data-cat="{' '.join((a.get('category') or 'social').split())}">
+        <div class="mag-list-thumb" onclick="openFull('{uid}')">{_img(a, "mag-list-img")}</div>
+        <div class="mag-list-text">
+          <h3 class="mag-list-title clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{a.get('headline', '')}</h3>
+          <p class="mag-excerpt" onclick="openFull('{uid}')">{_excerpt(a.get('summary_html', ''), 26)}</p>
+          <div class="mag-list-foot">{_pill(a)}<span>{_nice_date(a.get('date', ''))}</span><span class="mag-dot"></span><span>{_read_time(a)}</span></div>
+          <div hidden>{_meta_html(a, uid)}</div>
+        </div>
+        {_hidden_body(a, uid)}
+      </article>"""
+
+
+def _grid_card(a: dict) -> str:
+    uid = a.get("id")
+    return f"""
+      <article class="mag-card" data-cat="{' '.join((a.get('category') or 'social').split())}">
+        <div class="mag-card-media" onclick="openFull('{uid}')">{_img(a, "mag-card-img")}</div>
+        {_meta_html(a, uid)}
+        <h3 class="mag-card-title clickable-headline" id="hl-{uid}" onclick="openFull('{uid}')">{a.get('headline', '')}</h3>
+        <p class="mag-excerpt" onclick="openFull('{uid}')">{_excerpt(a.get('summary_html', ''), 30)}</p>
+        <div class="mag-card-foot"><span class="mag-cat-text" style="--line:{_LINE_COLOURS.get(_first_cat(a), '#151922')}">{_cat_label(a)}</span><span class="mag-dot"></span><span>{_read_time(a)}</span></div>
+        {_hidden_body(a, uid)}
+      </article>"""
+
+
+def build_topic_nav(articles: list[dict], trends: list[dict]) -> str:
+    have = {_first_cat(a) for a in articles}
+    items = ['<button class="line-stop active" data-cat="all" onclick="filterCards(\'all\',this)">Home</button>']
+    if trends:
+        items.append('<button class="line-stop" data-cat="trends" onclick="filterCards(\'trends\',this)">Social trends</button>')
+    for cat in _CAT_ORDER:
+        if cat in have:
+            items.append(f'<button class="line-stop" data-cat="{cat}" onclick="filterCards(\'{cat}\',this)" '
+                         f'style="--line:{_LINE_COLOURS[cat]}">{_TAG_META.get(cat, ("", cat))[1]}</button>')
+    return "".join(items)
+
+
+def build_ticker(articles: list[dict]) -> str:
+    items = "".join(
+        f'<button class="tick-item" onclick="openFull(\'{a.get("id")}\')">{a.get("headline", "")}</button>'
+        for a in articles[:8]
+    )
+    return f'<div class="tick-track"><div class="tick-run">{items}</div><div class="tick-run" aria-hidden="true">{items}</div></div>'
+
+
+def build_trending(trends: list[dict]) -> str:
+    rows = "".join(
+        f'<button class="trend-row" onclick="openFull(\'{t.get("id")}\')"><span class="trend-num">#{i}</span>'
+        f'<span class="trend-row-text"><span class="trend-row-title">{t.get("headline", "")}</span>'
+        f'<span class="trend-row-meta">{_nice_date(t.get("date", ""))}<span class="mag-dot"></span>4 essay angles</span></span></button>'
+        for i, t in enumerate(trends[:6], 1)
+    )
+    return f'<div class="trending-box"><h2 class="mag-h2 trending-h">On trending 🔥</h2>{rows}</div>'
 
 
 ARCHIVE_FILE = "archive.json"
@@ -2727,84 +3293,61 @@ def _sorted_newest(items: list[dict]) -> list[dict]:
 
 
 def build_page(data: dict) -> str:
-    """Assemble the complete HTML page. `data` is the archive (or one day's data.json)."""
+    """Assemble the magazine-style homepage. `data` is the archive."""
     exam_date, _, is_estimated = get_next_exam_date()
     raw_exam = data.get("exam_date")
     if raw_exam and raw_exam != "null":
         try:
             found = date.fromisoformat(raw_exam)
             if found > date.today():
-                exam_date    = found
-                is_estimated = False
+                exam_date, is_estimated = found, False
         except ValueError:
             pass
 
     articles = data.get("articles", [])
-    latest = max((a.get("date", "") for a in articles), default="")
-    today_arts = [a for a in articles if a.get("date", "") == latest]
-    older = _sorted_newest([a for a in articles if a.get("date", "") != latest])
+    newest = _sorted_newest(articles)
+    latest = newest[0].get("date", "") if newest else ""
+    today = [a for a in articles if a.get("date", "") == latest]
+    older = [a for a in newest if a.get("date", "") != latest]
 
-    if today_arts:
-        hero_html = build_hero_html(today_arts[0], None, today_arts[0].get("id") or "a0")
-        grid_html = "".join(
-            build_article_card_html(a, None, a.get("id") or f"a{i+1}", lazy=True) for i, a in enumerate(today_arts[1:])
-        )
-    else:
-        hero_html = grid_html = ""
+    hero = build_hero_mag(today[0], today[1:]) if today else ""
+    featured = today[1:] + older[:8]
+    latest_list = older[8:14]
+    rest = older[14:]
 
-    # Library: one section per topic, newest first
+    featured_html = "".join(_feature_card(a) for a in featured)
+    latest_html = "".join(_list_item(a) for a in latest_list)
+
     library_html = ""
-    uid_n = 0
     for cat in _CAT_ORDER:
-        items = [a for a in older if _first_cat(a) == cat]
+        items = [a for a in rest if _first_cat(a) == cat]
         if not items:
             continue
-        cards = ""
-        for a in items:
-            cards += build_article_card_html(a, None, a.get("id") or f"x{uid_n}", lazy=True)
-            uid_n += 1
-        em = _TAG_EMOJI.get(cat, "📰")
         lbl = _TAG_META.get(cat, ("", cat))[1]
-        plural = "s" if len(items) != 1 else ""
         library_html += f"""
-  <section class="library-section" data-cat="{cat}" style="--line:{_LINE_COLOURS.get(cat, '#151922')}">
-    <div class="main-section-head line-head">
-      <h2>{lbl}</h2>
-    </div>
-    <div class="articles-grid">{cards}
+  <section class="mag-section">
+    <div class="mag-head"><h2 class="mag-h2" style="--line:{_LINE_COLOURS.get(cat, '#151922')}">{lbl}</h2></div>
+    <div class="mag-grid">{''.join(_grid_card(a) for a in items)}
     </div>
   </section>"""
-    if library_html:
-        library_html = f"""
-  <div class="library-intro" data-cat="all">
-    <h2>Article library</h2>
-    <p>Every past brief, grouped by topic. Tap a topic in the strip above to see just that line.</p>
-  </div>{library_html}"""
 
     trends = _sorted_newest(data.get("trends", []))
-    latest_t = trends[0].get("date", "") if trends else ""
-    side_trends = [t for t in trends if t.get("date", "") == latest_t] or trends[:2]
-    trends_html = "".join(build_trend_sidebar_html(t, i) for i, t in enumerate(side_trends))
-    trends_main_html = build_trend_main_html(trends)
-
     countdown_html = build_countdown_widget_html(exam_date, is_estimated)
 
     return HTML_TEMPLATE.format(
         css=CSS,
         js=JS,
-        hero=hero_html,
-        articles_grid=grid_html,
+        topic_nav=build_topic_nav(articles, trends),
+        ticker=build_ticker(newest),
+        hero=hero,
+        featured=featured_html,
+        latest=latest_html,
+        trending=build_trending(trends),
+        trends_main=build_trend_main_html(trends),
         library=library_html,
-        trends_main=trends_main_html,
-        trends_sidebar=trends_html,
         countdown_sidebar=countdown_html,
-        today_label=_nice_date(latest),
-        route_strip=build_route_strip(articles, data.get("trends", [])),
-        total_count=len(articles),
     )
 
-
-# ── MAIN ─────────────────────────────────────────────────────────────────────
 
 def _write_index(arc: dict) -> None:
     _FRAGMENTS.clear()

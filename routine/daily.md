@@ -47,7 +47,9 @@ Exact structure (valid JSON, no comments):
       "headline": "Emoji + trend headline",
       "summary_html": "<p>...</p>",
       "summary_zh_html": "<p>...</p>",
-      "causes": [ {"label": "...", "text": "..."} ]
+      "causes": [ {"label": "...", "label_zh": "...", "text": "...", "text_zh": "..."} ],
+      "vocab":   [ {"phrase": "...", "zh": "...", "sample": "..."} ],
+      "phrases": [ {"en": "...", "zh": "...", "sample": "..."} ]
     }
   ]
 }
@@ -67,6 +69,8 @@ CONTENT RULES
 - image_scene: 1–2 sentences (40–70 words) describing LITERALLY what the cover picture should show for THIS story, so a reader understands the news at a glance: the real Hong Kong place or venue, what is happening, who is involved (as anonymous people — no named or recognisable individuals) and the key objects. Concrete and visual, not symbolic. Example for a hospital opening: "Elderly residents with walking sticks waiting at a bus stop outside a huge brand-new public hospital in Kai Tak, a green minibus pulling up; Victoria Harbour behind." For sad or sensitive stories (deaths, abuse, arrests, self-harm) describe a calm, respectful setting related to the story and never show harm, injuries, victims or children in distress. No text, signs or logos in the scene.
 - vocab: 10–12 items, specific to THIS story's subject matter (e.g. for a sports story: "podium finish", "grassroots development"). zh = Traditional Chinese only. sample = a full DSE-quality sentence about this topic.
 - phrases: 10–15 reusable Paper 2 expressions that fit THIS article's argument and topic — e.g. ways to discuss sports funding, heritage conservation, or AI in the workplace. Each article must teach a DIFFERENT set. Never use generic stock connectives. These are banned: "It is widely argued that", "Critics contend that", "Nevertheless", "By the same token", "play a pivotal role in", "It is widely reported that", "digital literacy", "foster critical thinking".
+- Trends get the SAME treatment as articles: summary_html 150–200 words with 5–8 <span class="bw"> highlights (same tooltip format), a complete summary_zh_html translation with matching <span class="bwz"> marks (same count, same order), vocab (8–10 items) and phrases (8–10 items) specific to the trend — all unique against the library, like articles.
+- Every writing angle (cause) also needs label_zh (Traditional Chinese translation of the label) and text_zh (complete Traditional Chinese translation of the text).
 - Trend causes (DSE writing angles): exactly 4, each from a DIFFERENT analytical lens, chosen to suit this trend. Lenses to choose from: economic impact on local businesses; generational divide; Hong Kong identity and belonging; ethics and responsibility; mental health and wellbeing; government policy and regulation; environmental cost; commercialisation of grassroots culture; heritage vs globalisation; media literacy and misinformation; equity and access; safety and risk; implications for schools and learning; community and social cohesion; privacy and data; long-term sustainability of the trend; a counter-argument that challenges the trend's value. At least one of the 4 must be a counter-argument. Each label must be specific to this trend (e.g. "Cha chaan teng nostalgia as identity", not "Cultural identity"). Each text: 40–60 words, giving an argument a student could build a Paper 2 paragraph around. Never use the labels "Psychological appeal", "Social media influence" or "Consumer culture".
 - Escape any double quote inside a JSON string as \" (or use “ ” curly quotes).
 - category must be one of: tech/school/env/hk/pop/social/econ/health/global/urban/law/career/sports/arts/family

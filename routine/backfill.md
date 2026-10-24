@@ -22,7 +22,11 @@ For an ARTICLE (id starts with "a"):
   "image_scene": 1–2 sentences describing literally what the cover picture should show for this story (real Hong Kong place, what is happening, anonymous people, key objects; calm and respectful for sensitive stories; no text or logos).
   "vocab": only include this key if check_data.py flags a vocab item — then supply a full replacement list of 10–12 topic-specific items.
 
-For a TREND (id starts with "t"):
+For a TREND (id starts with "t") — give it the same toolkit as articles:
+  "summary_html": only if it has fewer than 5 <span class="bw"> highlights — rewrite it keeping the facts, 150–200 words, 5–8 highlights in the exact tooltip format.
+  "vocab": 8–10 trend-specific items {"phrase","zh","sample"}; "phrases": 8–10 trend-specific Paper 2 expressions {"en","zh","sample"} — unique against the library.
+  Keep the existing causes' wording but add "label_zh" and "text_zh" (complete Traditional Chinese translations) to each — return the full "causes" list.
+  Also (as below):
   "summary_zh_html": complete Traditional Chinese translation of summary_html, with <span class="bwz">…</span> around the Chinese for each English <span class="bw"> phrase (same count, same order).
   "causes": exactly 4 DSE writing angles, each from a DIFFERENT analytical lens suited to this trend — choose from: economic impact on local businesses; generational divide; Hong Kong identity and belonging; ethics and responsibility; mental health and wellbeing; government policy and regulation; environmental cost; commercialisation of grassroots culture; heritage vs globalisation; media literacy and misinformation; equity and access; safety and risk; implications for schools; community and social cohesion; privacy and data; long-term sustainability; a counter-argument challenging the trend's value. At least one must be a counter-argument. Labels specific to this trend (not generic), each text 40–60 words. Never use "Psychological appeal", "Social media influence" or "Consumer culture".
 

@@ -106,6 +106,21 @@ def check(articles, trends, archive, skip_ids=()):
         if len(CJK.findall(t.get("summary_zh_html", ""))) < 80:
             errs.append(f"[trend {name}] summary_zh_html missing or too short")
         errs += pair_errors(t, "trend " + name)
+        if len(t.get("vocab", [])) < 8 or len(t.get("phrases", [])) < 8:
+            errs.append(f"[trend {name}] needs 8+ vocab and 8+ phrases (same toolkit as articles)")
+        for c in t.get("causes", []):
+            if not c.get("label_zh") or len(CJK.findall(c.get("text_zh", ""))) < 20:
+                errs.append(f"[trend {name}] angle '{c.get('label')}' needs label_zh and a full text_zh translation")
+        for v in t.get("vocab", []):
+            k = norm(v.get("phrase"))
+            if k in vocab:
+                errs.append(f"[trend {name}] vocab '{v.get('phrase')}' already used in '{vocab[k]}'")
+            vocab.setdefault(k, name)
+        for ph in t.get("phrases", []):
+            k = norm(ph.get("en"))
+            if k in BANNED or k in phrases:
+                errs.append(f"[trend {name}] phrase '{ph.get('en')}' is a stock or repeated phrase")
+            phrases.setdefault(k, name)
         cs = t.get("causes", [])
         if len(cs) < MIN_ANGLES:
             errs.append(f"[trend {name}] only {len(cs)} writing angles (need {MIN_ANGLES}+)")

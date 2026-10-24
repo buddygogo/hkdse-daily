@@ -2717,6 +2717,9 @@ JS = """
       clone.querySelectorAll('.study-drawer').forEach(function(d){ d.style.display = 'block'; });
       // Hide toggle buttons — content is always visible in full view
       clone.querySelectorAll('.study-toggle, .trend-study-toggle').forEach(function(t){ t.style.display = 'none'; });
+      // The stored copy is hidden on the homepage; the reading view must show it
+      clone.hidden = false;
+      clone.removeAttribute('hidden');
       // Avoid duplicate IDs: the overlay copy gets its own
       clone.removeAttribute('id');
       clone.querySelectorAll('[id]').forEach(function(el){ el.id = 'full-' + el.id; });

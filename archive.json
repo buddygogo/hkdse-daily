@@ -11555,7 +11555,47 @@
     "zh_sub": "創科突破須配合監管規範",
     "en": "Hong Kong leader vows to balance AI growth with safety"
    },
-   "needs_backfill": true
+   "image_scene": "Inside a formal Hong Kong government briefing hall, an unnamed official in a dark suit stands at a podium addressing seated reporters who hold notebooks and raise phones to record; a large wall screen behind glows with abstract blue circuit-line patterns suggesting digital technology; the room is softly lit and orderly.",
+   "slides": {
+    "topic_en": "AI Growth and Safety Regulation",
+    "background_en": "Chief Executive John Lee pledged to grow Hong Kong's AI sector while strengthening safety oversight.",
+    "background_zh": "行政長官李家超承諾發展香港人工智能產業，同時加強安全監管。",
+    "background_hl": "grow Hong Kong's AI sector",
+    "analysis_en": "Officials want innovation and regulation to advance together as AI reshapes jobs and daily life.",
+    "analysis_zh": "官員希望創新與監管並行推進，應對人工智能對職場及生活帶來的轉變。",
+    "analysis_hl": "innovation and regulation to advance together",
+    "support_en": "Faster AI investment could secure Hong Kong's competitiveness and open new career paths for graduates.",
+    "support_zh": "加快人工智能投資可鞏固香港競爭力，為畢業生開拓新的就業機會。",
+    "support_hl": "secure Hong Kong's competitiveness",
+    "oppose_en": "Without strict oversight, AI rollout could outpace safeguards against misinformation and data misuse.",
+    "oppose_zh": "若缺乏嚴格監管，人工智能的推行速度可能超越保障措施，難以防範失實資訊及資料濫用。",
+    "oppose_hl": "outpace safeguards",
+    "vocab5": [
+     {
+      "en": "algorithmic accountability",
+      "zh": "演算法問責"
+     },
+     {
+      "en": "deepfake",
+      "zh": "深偽技術"
+     },
+     {
+      "en": "automation",
+      "zh": "自動化"
+     },
+     {
+      "en": "employability",
+      "zh": "就業能力"
+     },
+     {
+      "en": "misinformation",
+      "zh": "失實資訊"
+     }
+    ],
+    "question_en": "Should Hong Kong prioritise rapid AI development or stricter regulation first?",
+    "question_zh": "香港應優先推動人工智能快速發展，還是先加強監管？",
+    "question_hl": "rapid AI development"
+   }
   },
   {
    "source_name": "RTHK",
@@ -11701,7 +11741,47 @@
     "zh_sub": "資源整合或犧牲學校特色",
     "en": "Hong Kong turns to school mergers as enrolment keeps falling"
    },
-   "needs_backfill": true
+   "image_scene": "A quiet Hong Kong primary school playground on an ordinary weekday morning, with half-empty bicycle racks and a caretaker sweeping near a noticeboard; in the background, a small group of uniformed students walk toward a classroom block; the scene is calm and orderly, hinting at a smaller-than-usual student body.",
+   "slides": {
+    "topic_en": "School Mergers Amid Falling Enrolment",
+    "background_en": "The Education Bureau will let small schools merge from the 2027/28 year as enrolment keeps falling.",
+    "background_zh": "教育局將從2027/28學年起容許小型學校合併，以應對收生持續下跌。",
+    "background_hl": "let small schools merge",
+    "analysis_en": "The scheme aims to pool resources, but critics fear it may erode schools' distinct character.",
+    "analysis_zh": "計劃旨在整合資源，但批評者擔心會削弱學校的獨特特色。",
+    "analysis_hl": "pool resources",
+    "support_en": "Merging under-enrolled schools could free up funding for a broader, better-resourced curriculum.",
+    "support_zh": "合併收生不足的學校可釋放資源，提供更全面及資源充足的課程。",
+    "support_hl": "free up funding",
+    "oppose_en": "Hasty mergers risk disrupting students' learning and erasing decades of community identity.",
+    "oppose_zh": "倉促合併可能影響學生學習，並抹去學校累積數十年的社區情懷。",
+    "oppose_hl": "erasing decades of community identity",
+    "vocab5": [
+     {
+      "en": "school sponsoring body",
+      "zh": "辦學團體"
+     },
+     {
+      "en": "enrolment",
+      "zh": "收生人數"
+     },
+     {
+      "en": "transitional support",
+      "zh": "過渡支援"
+     },
+     {
+      "en": "sustainability",
+      "zh": "可持續性"
+     },
+     {
+      "en": "eligibility criteria",
+      "zh": "資格準則"
+     }
+    ],
+    "question_en": "Should struggling schools be merged, or supported to keep operating independently?",
+    "question_zh": "面臨收生困難的學校應該合併，還是應獲支援繼續獨立營運？",
+    "question_hl": "merged"
+   }
   },
   {
    "source_name": "Bloomberg",
@@ -11847,7 +11927,47 @@
     "zh_sub": "金管局擬加強氣候披露要求",
     "en": "Hong Kong considers stricter climate disclosure rules for banks"
    },
-   "needs_backfill": true
+   "image_scene": "The glass lobby of a Hong Kong Central business-district bank tower, with an unnamed employee at a reception desk and office workers walking past carrying tablets; through floor-to-ceiling windows, construction cranes and green rooftop gardens are visible across the skyline, suggesting sustainable urban development.",
+   "slides": {
+    "topic_en": "Climate Disclosure Rules for Banks",
+    "background_en": "Hong Kong's regulator is exploring rules requiring banks to disclose more about their climate-related financing.",
+    "background_zh": "香港金融監管機構正研究新規則，要求銀行披露更多有關氣候相關融資的資料。",
+    "background_hl": "disclose more about their climate-related financing",
+    "analysis_en": "Tighter rules aim to curb greenwashing, but banks warn compliance costs could rise sharply.",
+    "analysis_zh": "收緊規則旨在遏止漂綠現象，但銀行警告合規成本可能大幅上升。",
+    "analysis_hl": "curb greenwashing",
+    "support_en": "Mandatory, standardised reporting would let investors verify green claims and restore public trust.",
+    "support_zh": "強制性及標準化匯報可讓投資者核實環保聲稱，重建公眾信任。",
+    "support_hl": "restore public trust",
+    "oppose_en": "Overly strict disclosure rules could raise compliance costs and push smaller lenders out of green finance.",
+    "oppose_zh": "過於嚴格的披露規定可能增加合規成本，使小型銀行退出綠色金融市場。",
+    "oppose_hl": "push smaller lenders out of green finance",
+    "vocab5": [
+     {
+      "en": "greenwashing",
+      "zh": "漂綠"
+     },
+     {
+      "en": "disclosure",
+      "zh": "披露"
+     },
+     {
+      "en": "compliance cost",
+      "zh": "合規成本"
+     },
+     {
+      "en": "investor confidence",
+      "zh": "投資者信心"
+     },
+     {
+      "en": "economic resilience",
+      "zh": "經濟韌性"
+     }
+    ],
+    "question_en": "Should regulators prioritise stricter climate disclosure over lower compliance costs for banks?",
+    "question_zh": "監管機構應優先推行更嚴格的氣候披露，還是為銀行減輕合規成本？",
+    "question_hl": "stricter climate disclosure"
+   }
   },
   {
    "source_name": "The Standard",
@@ -11993,7 +12113,47 @@
     "zh_sub": "匯聚各地花燈慶團圓",
     "en": "Victoria Park hosts Hong Kong's first international lantern festival"
    },
-   "needs_backfill": true
+   "image_scene": "Victoria Park at night during Mid-Autumn Festival, illuminated by dozens of colourful lantern displays shaped like animals and local snacks strung along pathways; families and visitors stroll among the lanterns holding mobile phones to take photos, with the Hong Kong skyline glowing faintly in the background.",
+   "slides": {
+    "topic_en": "Victoria Park's International Lantern Show",
+    "background_en": "Victoria Park hosts over 3,000 lanterns from 20 countries for its first International Lantern Spectacular.",
+    "background_zh": "維多利亞公園舉辦首屆國際花燈盛會，展出來自20個國家及地區逾3,000個花燈。",
+    "background_hl": "first International Lantern Spectacular",
+    "analysis_en": "The event blends global craftsmanship with local flavour to keep Mid-Autumn traditions relevant to young people.",
+    "analysis_zh": "活動融合世界各地花燈工藝與本地特色，讓中秋傳統更貼近年輕一代。",
+    "analysis_hl": "keep Mid-Autumn traditions relevant to young people",
+    "support_en": "Large, shareable displays like this can draw young people back to heritage customs they might otherwise ignore.",
+    "support_zh": "這類盛大而易於分享的展覽能吸引年輕人重新關注原本可能忽略的傳統習俗。",
+    "support_hl": "draw young people back to heritage customs",
+    "oppose_en": "Turning heritage festivals into photo-friendly spectacles risks reducing deep traditions to shallow entertainment.",
+    "oppose_zh": "將傳統節慶變成適合拍照的盛會，可能令深厚的文化傳統淪為膚淺的娛樂。",
+    "oppose_hl": "reducing deep traditions to shallow entertainment",
+    "vocab5": [
+     {
+      "en": "lantern craftsmanship",
+      "zh": "花燈工藝"
+     },
+     {
+      "en": "collective identity",
+      "zh": "集體身份認同"
+     },
+     {
+      "en": "heritage practice",
+      "zh": "傳統習俗"
+     },
+     {
+      "en": "togetherness",
+      "zh": "團聚之情"
+     },
+     {
+      "en": "public consciousness",
+      "zh": "公眾意識"
+     }
+    ],
+    "question_en": "Do large tourist-style festivals strengthen or dilute the meaning of traditional celebrations?",
+    "question_zh": "大型旅遊式節慶活動會強化還是削弱傳統慶典的意義？",
+    "question_hl": "strengthen or dilute"
+   }
   },
   {
    "source_name": "Sunday Examiner",
@@ -12139,7 +12299,47 @@
     "zh_sub": "考試文化下的心理健康警號",
     "en": "Hong Kong confronts a deepening student mental health crisis"
    },
-   "needs_backfill": true
+   "image_scene": "An empty, sunlit secondary school corridor early in the morning before classes begin, with a quiet counselling room door left ajar revealing a comfortable armchair and a low table with a box of tissues; the corridor is calm, orderly and respectful, with no students or staff visible.",
+   "slides": {
+    "topic_en": "Youth Mental Health Crisis in Schools",
+    "background_en": "At least seven student self-harm cases were reported in Hong Kong within the first week of term.",
+    "background_zh": "開學首週，香港至少錄得七宗學生自殘個案。",
+    "background_hl": "seven student self-harm cases",
+    "analysis_en": "Experts link the crisis to an exam-oriented culture where academic success feels tied to personal worth.",
+    "analysis_zh": "專家指危機源於以考試為導向的文化，學業成績被視為個人價值的指標。",
+    "analysis_hl": "exam-oriented culture",
+    "support_en": "Schools' emergency mechanisms allow earlier identification of at-risk students and faster referral to counselling.",
+    "support_zh": "學校的緊急機制有助及早識別高危學生，並加快轉介輔導服務。",
+    "support_hl": "earlier identification of at-risk students",
+    "oppose_en": "Emergency mechanisms alone cannot fix a culture that ties a child's worth to exam results.",
+    "oppose_zh": "單靠緊急機制無法扭轉將學生價值與考試成績掛鈎的文化。",
+    "oppose_hl": "cannot fix a culture",
+    "vocab5": [
+     {
+      "en": "mental health crisis",
+      "zh": "精神健康危機"
+     },
+     {
+      "en": "examination-oriented culture",
+      "zh": "以考試為導向的文化"
+     },
+     {
+      "en": "early identification",
+      "zh": "及早識別"
+     },
+     {
+      "en": "emotional well-being",
+      "zh": "情緒健康"
+     },
+     {
+      "en": "buffer against stress",
+      "zh": "抗壓緩衝"
+     }
+    ],
+    "question_en": "What should schools change first to protect students' emotional well-being?",
+    "question_zh": "學校應優先作出甚麼改變，以保障學生的情緒健康？",
+    "question_hl": "protect students' emotional well-being"
+   }
   },
   {
    "source_name": "SCMP",
@@ -12285,7 +12485,47 @@
     "zh_sub": "課室分餐模式惹交叉污染疑慮",
     "en": "Food poisoning cluster at Sha Tin school raises supplier scrutiny"
    },
-   "needs_backfill": true
+   "image_scene": "An empty primary school canteen shortly after lunchtime, with stacked catering trays and a staff member wearing gloves wiping down a serving table; sealed disposable lunch containers sit on a trolley nearby; the scene is calm and clinical, with no children present.",
+   "slides": {
+    "topic_en": "School Lunch Food Poisoning Outbreak",
+    "background_en": "39 pupils and staff at a Sha Tin primary school fell ill after a catered school lunch.",
+    "background_zh": "沙田一所小學39名學生及職員於午膳後感到不適。",
+    "background_hl": "fell ill after a catered school lunch",
+    "analysis_en": "Classroom-based lunch portioning may raise the risk of cross-contamination once meals leave the supplier.",
+    "analysis_zh": "課室分餐模式可能在膳食離開供應商後增加交叉污染的風險。",
+    "analysis_hl": "raise the risk of cross-contamination",
+    "support_en": "Unannounced inspections of catering contractors would reassure parents and deter unsafe food handling.",
+    "support_zh": "突擊檢查膳食承辦商可安定家長，並遏止不安全的食物處理方式。",
+    "support_hl": "Unannounced inspections",
+    "oppose_en": "Treating this as an isolated incident risks ignoring wider gaps in school lunch safety standards.",
+    "oppose_zh": "若將事件視為單一事件，可能忽視學校午膳安全標準存在的更廣泛漏洞。",
+    "oppose_hl": "isolated incident",
+    "vocab5": [
+     {
+      "en": "cross-contamination",
+      "zh": "交叉污染"
+     },
+     {
+      "en": "unannounced inspection",
+      "zh": "突擊檢查"
+     },
+     {
+      "en": "food safety standards",
+      "zh": "食物安全標準"
+     },
+     {
+      "en": "catering contractor",
+      "zh": "膳食承辦商"
+     },
+     {
+      "en": "outbreak investigation",
+      "zh": "爆發調查"
+     }
+    ],
+    "question_en": "Should the government impose mandatory, unannounced checks on all school lunch suppliers?",
+    "question_zh": "政府應否對所有學校午膳供應商實施強制性突擊檢查？",
+    "question_hl": "mandatory, unannounced checks"
+   }
   },
   {
    "source_name": "The Standard",
@@ -12426,7 +12666,47 @@
     "zh_sub": "外資如同本地商戶享內地准入",
     "en": "Hong Kong gives foreign firms equal mainland market access"
    },
-   "needs_backfill": true
+   "image_scene": "A busy Hong Kong container terminal at Kwai Tsing, with tall cranes loading shipping containers onto a large cargo vessel; in the foreground, an unnamed dock worker in a hi-vis vest checks a clipboard beside stacked containers; the Hong Kong skyline and hills are visible in the hazy distance.",
+   "slides": {
+    "topic_en": "CEPA Revision Opens Mainland Market",
+    "background_en": "Hong Kong will revise CEPA to give foreign firms equal tariff-free access to the mainland market.",
+    "background_zh": "香港將修訂《CEPA》，讓外資企業享有與本地企業同等的內地市場零關稅准入。",
+    "background_hl": "equal tariff-free access to the mainland market",
+    "analysis_en": "The move aims to boost foreign investment as Hong Kong competes with rival trading hubs.",
+    "analysis_zh": "措施旨在提升外資吸引力，應對新加坡及深圳等區域貿易樞紐的競爭。",
+    "analysis_hl": "boost foreign investment",
+    "support_en": "Levelling the playing field for foreign manufacturers could attract fresh investment and strengthen Hong Kong's gateway role.",
+    "support_zh": "為外資製造商創造公平競爭環境，有助吸引新投資，鞏固香港的門戶經濟地位。",
+    "support_hl": "attract fresh investment",
+    "oppose_en": "Granting foreign firms the same benefits as local companies could squeeze out smaller Hong Kong manufacturers.",
+    "oppose_zh": "讓外資企業享有與本地公司相同的優惠，可能擠壓本地中小型製造商的生存空間。",
+    "oppose_hl": "squeeze out smaller Hong Kong manufacturers",
+    "vocab5": [
+     {
+      "en": "zero-tariff entry",
+      "zh": "零關稅准入"
+     },
+     {
+      "en": "foreign direct investment",
+      "zh": "外商直接投資"
+     },
+     {
+      "en": "trading hub",
+      "zh": "貿易樞紐"
+     },
+     {
+      "en": "market liberalisation",
+      "zh": "市場自由化"
+     },
+     {
+      "en": "gateway economy",
+      "zh": "門戶經濟"
+     }
+    ],
+    "question_en": "Does opening mainland market access to foreign firms benefit Hong Kong's own businesses?",
+    "question_zh": "向外資企業開放內地市場准入，是否有利香港本地企業？",
+    "question_hl": "benefit Hong Kong's own businesses"
+   }
   },
   {
    "source_name": "Time",
@@ -12572,7 +12852,47 @@
     "zh_sub": "本地復甦對比全球系統輸出",
     "en": "Cantopop quietly revives while K-pop dominates the world stage"
    },
-   "needs_backfill": true
+   "image_scene": "A small, packed live-music venue in Hong Kong at night, with a local band performing on a modest stage lit by coloured spotlights; young fans in the crowd hold up phones recording the show; band equipment and amplifiers are visible at the edge of the stage, no signage shown.",
+   "slides": {
+    "topic_en": "K-pop's Rise, Cantopop's Revival",
+    "background_en": "K-pop has become a global cultural export while Cantopop enjoys a smaller, local revival.",
+    "background_zh": "K-pop已成為全球文化輸出，而粵語流行曲則迎來規模較小的本地復興。",
+    "background_hl": "a smaller, local revival",
+    "analysis_en": "K-pop's success rests on systematic training and global marketing, unlike Cantopop's organic, local growth.",
+    "analysis_zh": "K-pop的成功建基於系統化訓練及全球市場推廣，與粵語流行曲較自然的本地增長不同。",
+    "analysis_hl": "systematic training and global marketing",
+    "support_en": "Cantopop's community-rooted growth may prove more sustainable, even without K-pop's global scale.",
+    "support_zh": "粵語流行曲以社區為本的增長模式，即使缺乏K-pop的全球規模，亦可能更具可持續性。",
+    "support_hl": "more sustainable",
+    "oppose_en": "Without investment in overseas distribution, Cantopop's revival risks remaining only a local success story.",
+    "oppose_zh": "若不投資海外發行渠道，粵語流行曲的復興恐怕只會停留在本地層面。",
+    "oppose_hl": "remaining only a local success story",
+    "vocab5": [
+     {
+      "en": "cultural export",
+      "zh": "文化輸出"
+     },
+     {
+      "en": "idol training system",
+      "zh": "偶像訓練制度"
+     },
+     {
+      "en": "grassroots cultural event",
+      "zh": "草根文化活動"
+     },
+     {
+      "en": "homegrown artist",
+      "zh": "本土藝人"
+     },
+     {
+      "en": "overseas distribution channel",
+      "zh": "海外發行渠道"
+     }
+    ],
+    "question_en": "Should Cantopop follow K-pop's global strategy, or stay focused on its local roots?",
+    "question_zh": "粵語流行曲應仿效K-pop的全球策略，還是繼續專注本地根基？",
+    "question_hl": "global strategy"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -12713,7 +13033,47 @@
     "zh_sub": "百年儀式驅疫傳承至今",
     "en": "Tai Hang's fire dragon dance returns for Mid-Autumn Festival"
    },
-   "needs_backfill": true
+   "image_scene": "At night in Causeway Bay's Tung Lo Wan Road, a long dragon made of straw and smouldering incense sticks is carried through narrow streets by rows of performers wearing matching headbands; dense crowds line both sides of the road watching, with old low-rise buildings and glowing shopfront lights in the background.",
+   "slides": {
+    "topic_en": "Tai Hang Fire Dragon Dance",
+    "background_en": "The Tai Hang Fire Dragon Dance returns for Mid-Autumn Festival, carried by nearly 300 performers.",
+    "background_zh": "大坑舞火龍於中秋節期間回歸，由近300名表演者舞動巡遊。",
+    "background_hl": "carried by nearly 300 performers",
+    "analysis_en": "The century-old ritual shows how local heritage can still thrive amid rapid urban redevelopment.",
+    "analysis_zh": "這項百年傳統顯示本地文化傳承如何在急速市區重建中仍能蓬勃發展。",
+    "analysis_hl": "still thrive amid rapid urban redevelopment",
+    "support_en": "Passing the dragon-making craft to younger generations keeps this intangible heritage alive for the future.",
+    "support_zh": "將舞火龍工藝傳授給年輕一代，有助這項非物質文化遺產得以延續。",
+    "support_hl": "keeps this intangible heritage alive",
+    "oppose_en": "Without sustained community stewardship, traditions like this remain vulnerable to being lost to redevelopment.",
+    "oppose_zh": "若缺乏持續的社區保育，這類傳統仍可能因市區重建而面臨消失的風險。",
+    "oppose_hl": "vulnerable to being lost to redevelopment",
+    "vocab5": [
+     {
+      "en": "stewardship",
+      "zh": "悉心保育"
+     },
+     {
+      "en": "procession",
+      "zh": "巡遊"
+     },
+     {
+      "en": "urban redevelopment",
+      "zh": "市區重建"
+     },
+     {
+      "en": "pass down",
+      "zh": "承傳"
+     },
+     {
+      "en": "spectacle",
+      "zh": "盛事"
+     }
+    ],
+    "question_en": "What should Hong Kong do to protect traditions like the Fire Dragon Dance from disappearing?",
+    "question_zh": "香港應如何保護舞火龍等傳統，免其逐漸消失？",
+    "question_hl": "protect traditions"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -12859,7 +13219,47 @@
     "zh_sub": "警方警告AI構成國安威脅",
     "en": "Hong Kong police warn AI poses growing national security threat"
    },
-   "needs_backfill": true
+   "image_scene": "Inside a Hong Kong police operations room at night, unnamed officers in uniform sit at computer workstations with multiple monitors showing abstract data charts and network diagrams; a large wall display glows with blue graphics suggesting digital data analysis; the room is dim and focused.",
+   "slides": {
+    "topic_en": "AI as a National Security Risk",
+    "background_en": "Hong Kong police warn that AI is becoming an emerging threat to national security.",
+    "background_zh": "香港警方警告，人工智能正逐漸成為國家安全的新興威脅。",
+    "background_hl": "an emerging threat to national security",
+    "analysis_en": "The same AI tools that help police fight crime could also be exploited to cause harm.",
+    "analysis_zh": "協助警方打擊罪案的人工智能工具，同樣可能被利用作惡。",
+    "analysis_hl": "could also be exploited to cause harm",
+    "support_en": "Using AI to detect fraud and analyse data strengthens law enforcement's ability to prevent crime.",
+    "support_zh": "運用人工智能偵測詐騙及分析數據，可提升執法機關預防罪案的能力。",
+    "support_hl": "strengthens law enforcement's ability",
+    "oppose_en": "Regulation is struggling to keep pace with AI, leaving authorities constantly playing catch-up with new risks.",
+    "oppose_zh": "監管未能追上人工智能的發展步伐，令當局在應對新風險時持續處於被動。",
+    "oppose_hl": "struggling to keep pace",
+    "vocab5": [
+     {
+      "en": "double-edged sword",
+      "zh": "雙刃劍"
+     },
+     {
+      "en": "governance",
+      "zh": "管治"
+     },
+     {
+      "en": "outstrip",
+      "zh": "超越"
+     },
+     {
+      "en": "dual-use",
+      "zh": "兩用的"
+     },
+     {
+      "en": "coordinated approach",
+      "zh": "協調一致的方針"
+     }
+    ],
+    "question_en": "Can governments regulate AI fast enough to prevent it from becoming a security threat?",
+    "question_zh": "政府能否及時監管人工智能，以防止其演變成安全威脅？",
+    "question_hl": "regulate AI fast enough"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -13005,7 +13405,47 @@
     "zh_sub": "廿二指標難凝聚綠色共識",
     "en": "Hong Kong's climate targets lack a narrative to unite them"
    },
-   "needs_backfill": true
+   "image_scene": "A hazy view across Victoria Harbour from Kowloon, with solar panels installed on a nearby rooftop in the foreground and a line of electric buses charging at a depot below; distant construction cranes and green hillside trees frame the skyline, suggesting scattered environmental efforts across the city.",
+   "slides": {
+    "topic_en": "Hong Kong's Missing Climate Narrative",
+    "background_en": "Critics say Hong Kong has many green targets but lacks one unifying climate narrative.",
+    "background_zh": "評論指香港雖有不少環保目標，卻缺乏統一的氣候論述。",
+    "background_hl": "lacks one unifying climate narrative",
+    "analysis_en": "Isolated statistics rarely galvanise the public unless woven into a story people can understand.",
+    "analysis_zh": "零散的數據難以激勵公眾，除非編織成市民能理解的故事。",
+    "analysis_hl": "galvanise the public",
+    "support_en": "A clear, unifying narrative could turn separate green policies into a shared civic mission.",
+    "support_zh": "清晰統一的論述可將零散的環保政策，轉化為共同的公民使命。",
+    "support_hl": "a shared civic mission",
+    "oppose_en": "Without real investment behind it, a compelling narrative alone cannot deliver actual emissions cuts.",
+    "oppose_zh": "若缺乏實質投資支持，單靠動人的論述也無法帶來真正的減排成效。",
+    "oppose_hl": "cannot deliver actual emissions cuts",
+    "vocab5": [
+     {
+      "en": "binding target",
+      "zh": "具約束力的指標"
+     },
+     {
+      "en": "decarbonisation",
+      "zh": "去碳化"
+     },
+     {
+      "en": "waste levy",
+      "zh": "垃圾徵費"
+     },
+     {
+      "en": "tangible progress",
+      "zh": "實質進展"
+     },
+     {
+      "en": "disparate initiatives",
+      "zh": "各自為政的措施"
+     }
+    ],
+    "question_en": "Does Hong Kong need a better climate story, or stronger enforcement of existing targets?",
+    "question_zh": "香港需要更好的氣候論述，還是更嚴格執行現有目標？",
+    "question_hl": "a better climate story"
+   }
   },
   {
    "source_name": "The Standard",
@@ -13151,7 +13591,47 @@
     "zh_sub": "每校獲資助推AI教育",
     "en": "Hong Kong schools must build AI literacy under new blueprint"
    },
-   "needs_backfill": true
+   "image_scene": "Inside a Hong Kong secondary school computer classroom, rows of students sit at desktop computers working on a lesson while a teacher stands at the front beside a whiteboard, pointing to a diagram; soft daylight comes through large windows, the mood focused and ordinary.",
+   "slides": {
+    "topic_en": "Schools Told to Build AI Literacy",
+    "background_en": "All publicly funded schools must integrate AI literacy into teaching from the 2026-27 school year.",
+    "background_zh": "所有公帑資助學校須於2026-27學年起將人工智能素養融入教學。",
+    "background_hl": "integrate AI literacy into teaching",
+    "analysis_en": "Teachers must complete 30 hours of digital training per cycle, but some fear being overburdened.",
+    "analysis_zh": "教師每個周期須完成30小時數碼培訓，但部分教師擔心工作負擔過重。",
+    "analysis_hl": "fear being overburdened",
+    "support_en": "Genuine AI literacy is essential, since the technology has already become pervasive in daily life.",
+    "support_zh": "鑑於人工智能已無處不在，培養真正的人工智能素養已屬必要。",
+    "support_hl": "pervasive in daily life",
+    "oppose_en": "Rolling out large-scale training without enough support risks overburdening already stretched teaching staff.",
+    "oppose_zh": "若缺乏足夠支援推行大規模培訓，恐令本已人手緊絀的教師百上加斤。",
+    "oppose_hl": "overburdening already stretched teaching staff",
+    "vocab5": [
+     {
+      "en": "literacy",
+      "zh": "素養"
+     },
+     {
+      "en": "one-off grant",
+      "zh": "一次性資助"
+     },
+     {
+      "en": "professional development",
+      "zh": "專業發展"
+     },
+     {
+      "en": "pervasive",
+      "zh": "無處不在的"
+     },
+     {
+      "en": "at scale",
+      "zh": "大規模地"
+     }
+    ],
+    "question_en": "Can schools deliver real AI literacy without overloading already busy teachers?",
+    "question_zh": "學校能否在不加重教師負擔的情況下，推行真正的人工智能素養教育？",
+    "question_hl": "without overloading"
+   }
   },
   {
    "source_name": "The Standard",
@@ -13297,7 +13777,47 @@
     "zh_sub": "主場掀熱潮惟基層待扶持",
     "en": "Siobhan Haughey wins silver to reach four Asian Games medals"
    },
-   "needs_backfill": true
+   "image_scene": "A packed outdoor public square in Hong Kong with a giant screen broadcasting a swimming race, crowds of spectators cheering and waving small flags; children and adults alike watch intently, with Victoria Harbour and the city skyline visible behind the screen.",
+   "slides": {
+    "topic_en": "Haughey's Four-Medal Asian Games",
+    "background_en": "Siobhan Haughey won silver in the 50m freestyle, taking her Asian Games medal tally to four.",
+    "background_zh": "何詩蓓於50米自由泳奪銀，個人亞運獎牌數增至四面。",
+    "background_hl": "medal tally to four",
+    "analysis_en": "Her success thrills home fans, but critics say funding still favours a handful of elite athletes.",
+    "analysis_zh": "她的成就令本地觀眾振奮，但批評者指資源仍集中於少數精英運動員。",
+    "analysis_hl": "funding still favours a handful of elite athletes",
+    "support_en": "Visible role models like Haughey can inspire young Hongkongers to take up sport themselves.",
+    "support_zh": "何詩蓓這類楷模能激勵年輕香港人投身體育運動。",
+    "support_hl": "inspire young Hongkongers",
+    "oppose_en": "A single Games cannot substitute for sustained investment in grassroots sport across the city.",
+    "oppose_zh": "單憑一屆運動會的成功，無法取代對全港基層體育的持續投資。",
+    "oppose_hl": "cannot substitute for sustained investment",
+    "vocab5": [
+     {
+      "en": "civic pride",
+      "zh": "市民自豪感"
+     },
+     {
+      "en": "grassroots sport",
+      "zh": "基層體育"
+     },
+     {
+      "en": "role model",
+      "zh": "楷模；榜樣"
+     },
+     {
+      "en": "translate into",
+      "zh": "轉化為"
+     },
+     {
+      "en": "advocate for",
+      "zh": "提倡"
+     }
+    ],
+    "question_en": "How can Hong Kong turn Games-time excitement into lasting participation in sport?",
+    "question_zh": "香港可以如何將運動會的一時熱潮，轉化為長久的體育參與？",
+    "question_hl": "lasting participation in sport"
+   }
   },
   {
    "source_name": "The Standard",
@@ -13438,7 +13958,47 @@
     "zh_sub": "癌症大會宣示生物科技雄心",
     "en": "John Lee outlines plan for medical innovation hub"
    },
-   "needs_backfill": true
+   "image_scene": "A modern hospital research laboratory in Hong Kong, with an unnamed scientist in a white coat and gloves examining a sample under a microscope; rows of lab equipment and glass vials line the counters, with a large window showing the city skyline beyond.",
+   "slides": {
+    "topic_en": "HK's Medical Innovation Ambitions",
+    "background_en": "John Lee outlined plans for Hong Kong to become a global hub for medical innovation.",
+    "background_zh": "李家超概述香港發展成全球醫療創新樞紐的願景。",
+    "background_hl": "a global hub for medical innovation",
+    "analysis_en": "Deeper Greater Bay Area cooperation could speed up clinical trials and attract drug companies.",
+    "analysis_zh": "深化與大灣區的合作有助加快臨床試驗，並吸引製藥公司落戶。",
+    "analysis_hl": "speed up clinical trials",
+    "support_en": "A stronger medical research sector could eventually bring better treatments to Hong Kong's own patients.",
+    "support_zh": "更強大的醫療研究體系最終可為香港本地病人帶來更佳的治療方案。",
+    "support_hl": "better treatments to Hong Kong's own patients",
+    "oppose_en": "Patients still facing long public hospital waits may see little benefit from high-level hub-building talk.",
+    "oppose_zh": "仍面臨公立醫院長時間等候的病人，未必能從這些高層次願景中即時受惠。",
+    "oppose_hl": "little benefit from high-level hub-building talk",
+    "vocab5": [
+     {
+      "en": "precision medicine",
+      "zh": "精準醫學"
+     },
+     {
+      "en": "clinical trial",
+      "zh": "臨床試驗"
+     },
+     {
+      "en": "pharmaceutical company",
+      "zh": "製藥公司"
+     },
+     {
+      "en": "talent retention",
+      "zh": "人才保留"
+     },
+     {
+      "en": "tangible improvement",
+      "zh": "實質性的改善"
+     }
+    ],
+    "question_en": "Should Hong Kong focus first on fixing public healthcare, or building its global medical reputation?",
+    "question_zh": "香港應優先改善公共醫療，還是建立全球醫療聲譽？",
+    "question_hl": "fixing public healthcare"
+   }
   },
   {
    "source_name": "RTHK",
@@ -13584,7 +14144,47 @@
     "zh_sub": "全球債市拋售波及港股表現",
     "en": "Hang Seng Index falls as global bond sell-off hits markets"
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong Central financial district street at dusk, with office workers in suits walking briskly past a bank building's glass facade reflecting the sunset; a double-decker tram passes below, and a nearby outdoor screen glows with an abstract red downward graph line, no readable text visible.",
+   "slides": {
+    "topic_en": "Hang Seng Falls on Bond Sell-Off",
+    "background_en": "The Hang Seng Index fell about one percent as a global bond sell-off pushed borrowing costs higher.",
+    "background_zh": "恒生指數因全球債券拋售推高借貸成本而下跌約一個百分點。",
+    "background_hl": "a global bond sell-off",
+    "analysis_en": "Rising bond yields squeeze share prices, even though Hong Kong's exports remain strong.",
+    "analysis_zh": "債券收益率上升擠壓股價，儘管香港出口表現仍然強勁。",
+    "analysis_hl": "squeeze share prices",
+    "support_en": "Understanding how global bond markets affect local mortgages and pensions is an essential life skill today.",
+    "support_zh": "了解全球債券市場如何影響本地按揭及退休金，已成為今日不可或缺的生活技能。",
+    "support_hl": "an essential life skill",
+    "oppose_en": "Overreacting to a single volatile trading day risks obscuring Hong Kong's genuinely strong underlying economy.",
+    "oppose_zh": "對單一波動交易日反應過度，可能掩蓋香港經濟實際上仍然強勁的事實。",
+    "oppose_hl": "Overreacting to a single volatile trading day",
+    "vocab5": [
+     {
+      "en": "bond sell-off",
+      "zh": "債券拋售"
+     },
+     {
+      "en": "equity valuation",
+      "zh": "股票估值"
+     },
+     {
+      "en": "pension fund",
+      "zh": "退休基金"
+     },
+     {
+      "en": "mortgage rate",
+      "zh": "按揭利率"
+     },
+     {
+      "en": "financial literacy",
+      "zh": "金融知識"
+     }
+    ],
+    "question_en": "Should ordinary residents worry about a one-day market drop driven by global bond trends?",
+    "question_zh": "普通市民應否為受全球債市影響而出現的單日股市下跌而擔心？",
+    "question_hl": "a one-day market drop"
+   }
   },
   {
    "source_name": "The Standard",
@@ -13730,7 +14330,47 @@
     "zh_sub": "象徵意義大 實質進展少",
     "en": "Trump and Xi meet, but no major breakthroughs emerge"
    },
-   "needs_backfill": true
+   "image_scene": "A formal diplomatic reception hall with two unnamed delegations in dark suits standing opposite each other beside national flags, exchanging a handshake in front of a row of photographers; ornate chandeliers and a long red carpet convey the ceremonial grandeur of a state visit.",
+   "slides": {
+    "topic_en": "Trump-Xi Summit: Symbolism, No Breakthroughs",
+    "background_en": "Trump hosted Xi at a high-profile summit with a new trade deal but no major breakthroughs.",
+    "background_zh": "特朗普高調接待習近平，雙方達成新貿易協議，但未有重大突破。",
+    "background_hl": "a new trade deal but no major breakthroughs",
+    "analysis_en": "Easing US-China tensions tends to ripple through Hong Kong's markets, given its trading bridge role.",
+    "analysis_zh": "中美關係緩和往往會波及香港市場，因本港扮演貿易橋樑的角色。",
+    "analysis_hl": "ripple through Hong Kong's markets",
+    "support_en": "Even limited trade progress between the two powers can ease pressure on Hong Kong's economy.",
+    "support_zh": "即使中美貿易取得有限進展，亦能緩解香港經濟面臨的壓力。",
+    "support_hl": "ease pressure on Hong Kong's economy",
+    "oppose_en": "A single lavish summit cannot resolve the deep structural disagreements built up over years of rivalry.",
+    "oppose_zh": "一場奢華的峰會無法化解多年競爭下累積的深層結構性分歧。",
+    "oppose_hl": "cannot resolve the deep structural disagreements",
+    "vocab5": [
+     {
+      "en": "trade arrangement",
+      "zh": "貿易安排"
+     },
+     {
+      "en": "trading bridge",
+      "zh": "貿易橋樑"
+     },
+     {
+      "en": "structural disagreement",
+      "zh": "結構性分歧"
+     },
+     {
+      "en": "geopolitical shift",
+      "zh": "地緣政治轉變"
+     },
+     {
+      "en": "interconnected world",
+      "zh": "互相聯繫的世界"
+     }
+    ],
+    "question_en": "How much should Hong Kong's economic future depend on the state of US-China relations?",
+    "question_zh": "香港的經濟前景應在多大程度上取決於中美關係的狀況？",
+    "question_hl": "depend on the state of US-China relations"
+   }
   },
   {
    "source_name": "RTHK",
@@ -13876,7 +14516,47 @@
     "zh_sub": "港鐵電車巴士延長服務",
     "en": "Hong Kong extends night transport for Fire Dragon Festival"
    },
-   "needs_backfill": true
+   "image_scene": "A crowded MTR station platform late at night in Causeway Bay, with extra train carriages waiting and a staff member in uniform directing the flow of passengers; outside the station entrance, a distant orange glow and smoke suggest the nearby fire dragon procession still underway.",
+   "slides": {
+    "topic_en": "Late-Night Transport for Fire Dragon Festival",
+    "background_en": "Transport operators extended late-night services as crowds converged on the Tai Hang Fire Dragon Dance.",
+    "background_zh": "交通機構延長夜間服務，以應付匯聚觀賞大坑舞火龍的人潮。",
+    "background_hl": "extended late-night services",
+    "analysis_en": "Growing tourist interest raises concerns that large-scale commercialisation could reduce a solemn ritual to spectacle.",
+    "analysis_zh": "旅客興趣日增，令人擔心大規模商業化會令莊嚴的社區儀式淪為單純的表演。",
+    "analysis_hl": "large-scale commercialisation could reduce a solemn ritual to spectacle",
+    "support_en": "Involving schools and community groups helps the festival serve as a vehicle for shared heritage between generations.",
+    "support_zh": "學校及社區團體的參與，有助節慶作為世代之間共同傳承的載體。",
+    "support_hl": "serve as a vehicle for shared heritage",
+    "oppose_en": "Accommodating ever-larger crowds may make it harder to safeguard the ritual's original community spirit.",
+    "oppose_zh": "容納愈來愈多的人潮，可能令保護這項儀式原有社區精神變得更困難。",
+    "oppose_hl": "harder to safeguard the ritual's original community spirit",
+    "vocab5": [
+     {
+      "en": "inseparable from",
+      "zh": "與……密不可分"
+     },
+     {
+      "en": "large-scale commercialisation",
+      "zh": "大規模商業化"
+     },
+     {
+      "en": "solemn communal ritual",
+      "zh": "莊嚴的社區儀式"
+     },
+     {
+      "en": "serve as a vehicle for",
+      "zh": "作為……的載體"
+     },
+     {
+      "en": "community spirit",
+      "zh": "社區精神"
+     }
+    ],
+    "question_en": "Can Hong Kong welcome more tourists to the Fire Dragon Dance without losing its original meaning?",
+    "question_zh": "香港能否在吸引更多遊客觀賞舞火龍的同時，不失其原有意義？",
+    "question_hl": "without losing its original meaning"
+   }
   },
   {
    "source_name": "The Standard",
@@ -14022,7 +14702,47 @@
     "zh_sub": "收生荒下幼師通宵籌辦活動",
     "en": "Kindergarten teachers work unpaid overtime amid enrolment crunch"
    },
-   "needs_backfill": true
+   "image_scene": "A kindergarten classroom late in the evening, with an unnamed teacher standing on a step stool hanging paper decorations from the ceiling alone; small chairs are stacked against the wall and the dark sky outside the window shows it is already night, the room otherwise empty.",
+   "slides": {
+    "topic_en": "Kindergarten Teachers' Unpaid Overtime",
+    "background_en": "Kindergarten teachers face unpaid overtime hosting galas as preschools compete amid an admission crunch.",
+    "background_zh": "幼稚園教師在收生荒下，須無償超時工作籌辦宣傳活動。",
+    "background_hl": "unpaid overtime hosting galas",
+    "analysis_en": "Falling birth rates have pushed kindergartens into fierce competition, with staff absorbing the pressure.",
+    "analysis_zh": "出生率下降令幼稚園之間競爭激烈，壓力最終落在前線教師身上。",
+    "analysis_hl": "staff absorbing the pressure",
+    "support_en": "Statutory safeguards could protect kindergarten teachers from being exploited under the guise of dedication.",
+    "support_zh": "法定保障可防止幼稚園教師在「敬業精神」的包裝下被剝削。",
+    "support_hl": "Statutory safeguards",
+    "oppose_en": "In a shrinking market, operators argue eye-catching promotional events have become unavoidable to survive.",
+    "oppose_zh": "在收生市場萎縮下，辦學團體認為吸引眼球的宣傳活動已成為生存的必要手段。",
+    "oppose_hl": "unavoidable to survive",
+    "vocab5": [
+     {
+      "en": "unpaid overtime",
+      "zh": "無償超時工作"
+     },
+     {
+      "en": "admission crunch",
+      "zh": "收生荒"
+     },
+     {
+      "en": "under-resourced profession",
+      "zh": "資源不足的行業"
+     },
+     {
+      "en": "labour advocate",
+      "zh": "勞工權益倡導者"
+     },
+     {
+      "en": "statutory safeguards",
+      "zh": "法定保障"
+     }
+    ],
+    "question_en": "Should the government introduce legal limits on unpaid overtime for kindergarten teachers?",
+    "question_zh": "政府應否就幼稚園教師的無償超時工作訂立法定限制？",
+    "question_hl": "legal limits on unpaid overtime"
+   }
   },
   {
    "source_name": "The Standard",
@@ -14168,7 +14888,47 @@
     "zh_sub": "本地處理減海外依賴",
     "en": "Hong Kong to process all recovered paper locally from October"
    },
-   "needs_backfill": true
+   "image_scene": "Inside a large industrial recycling facility in Tuen Mun, conveyor belts carry bundled stacks of waste paper toward a pulping machine; a worker in a hard hat and safety vest monitors the process from a control panel, with towering bales of cardboard stacked along the warehouse walls.",
+   "slides": {
+    "topic_en": "Hong Kong to Pulp Waste Paper Locally",
+    "background_en": "Hong Kong will pulp all recovered waste paper locally from October 1 at an upgraded EcoPark facility.",
+    "background_zh": "香港將於10月1日起，於升級後的環保園設施在本地重新造紙。",
+    "background_hl": "pulp all recovered waste paper locally",
+    "analysis_en": "The move reduces reliance on exporting recyclables, but success depends on correct sorting by the public.",
+    "analysis_zh": "措施有助減少依賴出口回收物，但成效取決於市民能否正確分類。",
+    "analysis_hl": "reduces reliance on exporting recyclables",
+    "support_en": "Local processing builds a genuine closed-loop system, shielding Hong Kong from overseas waste import bans.",
+    "support_zh": "本地處理可建立真正的閉環系統，使香港免受海外廢物進口禁令影響。",
+    "support_hl": "a genuine closed-loop system",
+    "oppose_en": "Local processing capacity alone cannot fix Hong Kong's underlying over-reliance on single-use packaging.",
+    "oppose_zh": "單靠本地處理能力，無法解決香港過度依賴一次性包裝的根本問題。",
+    "oppose_hl": "cannot fix Hong Kong's underlying over-reliance",
+    "vocab5": [
+     {
+      "en": "chronic vulnerability",
+      "zh": "長期存在的弱點"
+     },
+     {
+      "en": "closed-loop system",
+      "zh": "閉環系統"
+     },
+     {
+      "en": "over-reliance on",
+      "zh": "過度依賴"
+     },
+     {
+      "en": "single-use packaging",
+      "zh": "一次性包裝"
+     },
+     {
+      "en": "sort waste at source",
+      "zh": "從源頭分類垃圾"
+     }
+    ],
+    "question_en": "Will better recycling facilities actually change how residents sort their waste at home?",
+    "question_zh": "更完善的回收設施能否真正改變市民在家分類垃圾的習慣？",
+    "question_hl": "change how residents sort their waste"
+   }
   },
   {
    "source_name": "OpenGov Asia",
@@ -14314,7 +15074,47 @@
     "zh_sub": "本港拓展人工智能夥伴網絡",
     "en": "Hong Kong seeks deeper AI ties with Austria"
    },
-   "needs_backfill": true
+   "image_scene": "A modern conference hall in Vienna with Hong Kong and Austrian delegates in business attire seated at a long table lined with microphones and name cards, engaged in discussion; a large presentation screen behind them displays abstract blue network-diagram graphics, no readable text visible.",
+   "slides": {
+    "topic_en": "Hong Kong-Austria AI Cooperation",
+    "background_en": "Hong Kong officials met Austrian counterparts in Vienna to discuss deeper AI and innovation cooperation.",
+    "background_zh": "香港官員在維也納與奧地利代表會面，商討深化人工智能及創新合作。",
+    "background_hl": "deeper AI and innovation cooperation",
+    "analysis_en": "Such outreach aims to position Hong Kong as a bridge between mainland and European AI ecosystems.",
+    "analysis_zh": "此類外訪旨在將香港定位為連接內地與歐洲人工智能生態系統的橋樑。",
+    "analysis_hl": "a bridge between mainland and European AI ecosystems",
+    "support_en": "International partnerships can bring fresh research collaboration and investment into Hong Kong's AI sector.",
+    "support_zh": "國際合作夥伴關係可為香港的人工智能產業帶來新的研究合作及投資。",
+    "support_hl": "fresh research collaboration and investment",
+    "oppose_en": "High-level diplomatic engagement does not automatically translate into real technology transfer on the ground.",
+    "oppose_zh": "高層外交參與並不一定能轉化為實際的技術轉移。",
+    "oppose_hl": "does not automatically translate into real technology transfer",
+    "vocab5": [
+     {
+      "en": "crowded global AI race",
+      "zh": "競爭激烈的全球人工智能競賽"
+     },
+     {
+      "en": "industrial digitalisation",
+      "zh": "產業數碼化"
+     },
+     {
+      "en": "technology transfer",
+      "zh": "技術轉移"
+     },
+     {
+      "en": "computing infrastructure",
+      "zh": "運算基礎設施"
+     },
+     {
+      "en": "open question",
+      "zh": "懸而未決的問題"
+     }
+    ],
+    "question_en": "Will overseas AI partnerships actually benefit ordinary students and workers in Hong Kong?",
+    "question_zh": "海外人工智能合作能否真正惠及香港普通學生及打工仔？",
+    "question_hl": "benefit ordinary students and workers"
+   }
   },
   {
    "source_name": "RTHK",

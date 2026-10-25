@@ -19011,7 +19011,47 @@
     "zh_sub": "加至每月五千二百二十元",
     "en": "Hong Kong raises minimum wage for domestic helpers"
    },
-   "needs_backfill": true
+   "image_scene": "A foreign domestic helper hanging laundry from a bamboo pole outside a window of a Hong Kong public housing block, grocery bags resting on the floor beside her; inside, an open payslip and a few banknotes lie on a kitchen table, rows of housing towers visible behind.",
+   "slides": {
+    "topic_en": "Domestic Helpers' Pay Rise",
+    "background_en": "Hong Kong raised the minimum wage for foreign domestic helpers by 2.35% to HK$5,220 a month from October.",
+    "background_zh": "香港政府由十月起將外傭最低工資上調百分之二點三五至每月五千二百二十元。",
+    "background_hl": "2.35%",
+    "analysis_en": "The modest rise reopened debate over whether pay keeps pace with living costs for helpers and employer families.",
+    "analysis_zh": "這次溫和的加幅再次引發爭論：工資升幅能否追上外傭及僱主家庭的生活成本。",
+    "analysis_hl": "keeps pace with living costs",
+    "support_en": "Helper unions call the rise inadequate given persistent inflation eating into real income.",
+    "support_zh": "外傭工會認為，在持續通脹侵蝕實質收入下，加幅明顯不足。",
+    "support_hl": "persistent inflation",
+    "oppose_en": "Employer groups warn that even small annual increases strain already squeezed household budgets.",
+    "oppose_zh": "僱主團體則警告，即使是輕微的年度加幅，亦會加重本已緊絀的家庭開支負擔。",
+    "oppose_hl": "squeezed household budgets",
+    "vocab5": [
+     {
+      "en": "minimum allowable wage",
+      "zh": "法定最低工資"
+     },
+     {
+      "en": "cost of living",
+      "zh": "生活成本"
+     },
+     {
+      "en": "household budget",
+      "zh": "家庭開支預算"
+     },
+     {
+      "en": "annual review",
+      "zh": "年度檢討"
+     },
+     {
+      "en": "grace period",
+      "zh": "寬限期"
+     }
+    ],
+    "question_en": "Should the minimum wage for domestic helpers be linked automatically to inflation, rather than reviewed case by case?",
+    "question_zh": "外傭最低工資應否與通脹自動掛鈎，而非每年個別檢討？",
+    "question_hl": "linked automatically to inflation"
+   }
   },
   {
    "source_name": "HK01",
@@ -19167,7 +19207,47 @@
     "zh_sub": "開審揭連日購物細節",
     "en": "Prosecution alleges premeditated plan in Abby Choi trial"
    },
-   "needs_backfill": true
+   "image_scene": "The exterior of a Hong Kong law courts building at dusk, reporters with cameras and microphones waiting behind a barrier near the entrance, and a prison escort van parked at the curb; the mood is solemn, with no injuries, victims or faces shown in close-up.",
+   "slides": {
+    "topic_en": "Abby Choi Murder Trial Opens",
+    "background_en": "Prosecutors opened the long-awaited murder trial over the killing of socialite Abby Choi, alleging a meticulously planned crime.",
+    "background_zh": "檢方就名媛蔡天鳳被殺一案展開備受關注的審訊，指控被告精心策劃這宗謀殺案。",
+    "background_hl": "meticulously planned crime",
+    "analysis_en": "The case has gripped Hong Kong for years, raising questions about domestic abuse, family disputes and justice in high-profile trials.",
+    "analysis_zh": "此案多年來一直牽動全港關注，亦引發社會對家庭暴力、家庭糾紛以及矚目審訊中司法制度的討論。",
+    "analysis_hl": "domestic abuse, family disputes",
+    "support_en": "Supporters of the prosecution's approach argue detailed forensic evidence is essential to proving premeditation beyond doubt.",
+    "support_zh": "支持檢方做法的人認為，詳盡的法證證據對於確立「預謀」至關重要，不容有任何疑點。",
+    "support_hl": "proving premeditation beyond doubt",
+    "oppose_en": "Critics of lengthy, high-profile trials argue prolonged media coverage can prejudice public perception before a verdict.",
+    "oppose_zh": "批評冗長且備受矚目審訊的人則認為，長期的媒體報道可能在判決前已左右公眾看法。",
+    "oppose_hl": "prejudice public perception",
+    "vocab5": [
+     {
+      "en": "premeditated plan",
+      "zh": "預謀計劃"
+     },
+     {
+      "en": "dismembered remains",
+      "zh": "被肢解的遺體"
+     },
+     {
+      "en": "forensic evidence",
+      "zh": "法證證據"
+     },
+     {
+      "en": "heat of the moment",
+      "zh": "一時衝動"
+     },
+     {
+      "en": "jointly charged",
+      "zh": "同被控告"
+     }
+    ],
+    "question_en": "How should courts balance the public's right to know about a high-profile case with a fair trial?",
+    "question_zh": "法庭應如何平衡公眾知悉矚目案件的權利，與被告獲得公平審訊的權利？",
+    "question_hl": "public's right to know"
+   }
   },
   {
    "source_name": "The Standard",
@@ -19323,7 +19403,47 @@
     "zh_sub": "盧寵茂籲以事實為本",
     "en": "Nursing job market dispute deepens in Hong Kong"
    },
-   "needs_backfill": true
+   "image_scene": "A nurse in hospital uniform walking briskly down a busy public hospital corridor in Hong Kong, pushing a medical trolley past a reception desk; other staff and patients blurred in the background, conveying a stretched, fast-paced ward with no readable signage.",
+   "slides": {
+    "topic_en": "Nursing Job Market Dispute",
+    "background_en": "A radio caller's complaint about non-local nurses crowding out graduates snowballed into a public row involving a lawmaker and the health secretary.",
+    "background_zh": "一名電台聽眾質疑非本地培訓護士擠走新畢業生的言論，演變成一場涉及議員及衛生局局長的公眾爭議。",
+    "background_hl": "snowballed into a public row",
+    "analysis_en": "The dispute highlights deeper anxiety among young nurses about job security as Hong Kong recruits more non-local staff.",
+    "analysis_zh": "這場爭議反映年輕護士在香港增聘非本地培訓人手之際，對職業保障的深層憂慮。",
+    "analysis_hl": "anxiety among young nurses",
+    "support_en": "Officials argue recruiting non-locally trained nurses eases a worsening shortfall that threatens patient care.",
+    "support_zh": "官員認為，聘請非本地培訓護士有助緩解日益嚴峻的人手短缺，否則病人護理將首當其衝。",
+    "support_hl": "worsening shortfall",
+    "oppose_en": "Some local graduates fear pathways for outside staff reduce the number of posts realistically open to them.",
+    "oppose_zh": "部分本地畢業生則擔心，為外來人手開設的途徑會削減真正留給他們的職位。",
+    "oppose_hl": "reduce the number of posts",
+    "vocab5": [
+     {
+      "en": "verified figures",
+      "zh": "核實數據"
+     },
+     {
+      "en": "attrition rate",
+      "zh": "流失率"
+     },
+     {
+      "en": "unsubstantiated claims",
+      "zh": "未經證實的言論"
+     },
+     {
+      "en": "crowding out",
+      "zh": "擠走"
+     },
+     {
+      "en": "recruitment reform",
+      "zh": "招聘改革"
+     }
+    ],
+    "question_en": "How can Hong Kong expand its nursing workforce without undermining confidence among local graduates?",
+    "question_zh": "香港應如何擴充護士人手，同時不損害本地畢業生的信心？",
+    "question_hl": "expand its nursing workforce"
+   }
   },
   {
    "source_name": "SCMP",
@@ -19479,7 +19599,47 @@
    ],
    "date": "2026-10-04",
    "id": "a91aae56d",
-   "needs_backfill": true
+   "image_scene": "A hushed, brightly lit Hong Kong auction saloon with rows of seated bidders holding paddles, an auctioneer at a podium beside a large abstract painting on an easel, and a price display glowing softly in the background; elegant, with no readable text or brand logos.",
+   "slides": {
+    "topic_en": "HK Autumn Art Auctions Rebound",
+    "background_en": "Hong Kong's three biggest auction houses together sold over HK$2 billion of art this autumn, rebounding sharply from spring.",
+    "background_zh": "香港三大拍賣行今季合共售出超過二十億港元藝術品，較今年春季大幅反彈。",
+    "background_hl": "over HK$2 billion",
+    "analysis_en": "Strong demand for blue-chip names alongside a cooler reception for some contemporary stars suggests buyers are becoming more selective.",
+    "analysis_zh": "藍籌名家作品需求強勁，部分當代藝術新星卻反應轉冷，反映買家選擇趨於審慎。",
+    "analysis_hl": "buyers are becoming more selective",
+    "support_en": "Optimists see the record sell-through rates as proof Hong Kong remains Asia's leading art marketplace.",
+    "support_zh": "樂觀者認為破紀錄的成交比率證明香港仍是亞洲首屈一指的藝術市場。",
+    "support_hl": "Asia's leading art marketplace",
+    "oppose_en": "Sceptics note a muted response to some contemporary works shows the recovery is uneven rather than broad-based.",
+    "oppose_zh": "質疑者則指出，部分當代作品反應冷淡，顯示市場復甦並不全面，而是參差不齊。",
+    "oppose_hl": "recovery is uneven",
+    "vocab5": [
+     {
+      "en": "combined total",
+      "zh": "總額"
+     },
+     {
+      "en": "first-time buyers",
+      "zh": "新買家"
+     },
+     {
+      "en": "museum-grade works",
+      "zh": "具博物館級水準的作品"
+     },
+     {
+      "en": "sell-through rate",
+      "zh": "成交比率"
+     },
+     {
+      "en": "muted response",
+      "zh": "反應冷淡"
+     }
+    ],
+    "question_en": "Does a booming art auction market reflect genuine cultural vitality, or mainly speculative investment?",
+    "question_zh": "藝術拍賣市場蓬勃發展，反映的是真正的文化活力，還是主要源於投機性投資？",
+    "question_hl": "genuine cultural vitality"
+   }
   },
   {
    "source_name": "SCMP",
@@ -19635,7 +19795,47 @@
    ],
    "date": "2026-10-04",
    "id": "ac27a648f",
-   "needs_backfill": true
+   "image_scene": "A modern Hong Kong office tower lobby in Central with glass revolving doors, business people in suits carrying briefcases walking in and out during morning rush hour, Victoria Harbour and the skyline visible through floor-to-ceiling windows; no company signage shown.",
+   "slides": {
+    "topic_en": "Foreign Firms Still Choosing Hong Kong",
+    "background_en": "Hong Kong's commerce chief said US and UK firms keep expanding in the city despite geopolitical tension, citing hundreds of new company set-ups.",
+    "background_zh": "香港商務及經濟發展局局長表示，儘管地緣政治緊張，美英企業仍不斷在港擴展業務，並引述數百宗新設公司數字作佐證。",
+    "background_hl": "hundreds of new company set-ups",
+    "analysis_en": "The figures raise the question of whether Hong Kong's commercial appeal can keep outweighing political uncertainty in the long run.",
+    "analysis_zh": "這些數字引發一個問題：香港的商業吸引力長遠能否持續抵銷政治上的不確定性。",
+    "analysis_hl": "outweighing political uncertainty",
+    "support_en": "Officials argue a decade-long trade surplus gives American firms concrete commercial reasons to stay invested.",
+    "support_zh": "官員認為，長達十年的貿易順差為美國企業提供實質的商業理由，繼續留港投資。",
+    "support_hl": "concrete commercial reasons",
+    "oppose_en": "Critics counter that headline investment numbers can mask quieter relocations of regional headquarters elsewhere in Asia.",
+    "oppose_zh": "批評者則反駁，亮麗的投資數字可能掩蓋了地區總部悄然遷往亞洲其他地方的情況。",
+    "oppose_hl": "quieter relocations",
+    "vocab5": [
+     {
+      "en": "brushed aside",
+      "zh": "不以為意"
+     },
+     {
+      "en": "investment promotion arm",
+      "zh": "投資推廣機構"
+     },
+     {
+      "en": "trade surplus",
+      "zh": "貿易順差"
+     },
+     {
+      "en": "commercial incentive",
+      "zh": "商業動機"
+     },
+     {
+      "en": "geopolitical tension",
+      "zh": "地緣政治緊張"
+     }
+    ],
+    "question_en": "Can economic ties alone keep foreign businesses committed to a city during periods of political friction?",
+    "question_zh": "單靠經濟聯繫，能否令外資企業在政治磨擦時期仍然堅守一個城市？",
+    "question_hl": "economic ties alone"
+   }
   },
   {
    "source_name": "RTHK",
@@ -19791,7 +19991,47 @@
    ],
    "date": "2026-10-04",
    "id": "a397ffcc8",
-   "needs_backfill": true
+   "image_scene": "A young tennis player in Hong Kong team colours celebrating with raised arms on an outdoor hard court at a stadium, racket lying on the ground beside him, blurred spectators cheering in the stands behind; bright daylight, no signage or logos visible.",
+   "slides": {
+    "topic_en": "Coleman Wong's Historic Tennis Gold",
+    "background_en": "Hong Kong's Coleman Wong won the city's first-ever Asian Games tennis gold medal, beating China's Wu Yibing in the final.",
+    "background_zh": "香港網球運動員黃澤林在決賽擊敗中國選手吳易昺，奪得香港歷來首個亞運網球金牌。",
+    "background_hl": "first-ever Asian Games tennis gold",
+    "analysis_en": "The win also secures Hong Kong an automatic Olympic quota, transforming the city's long-term prospects in a sport it rarely medals in.",
+    "analysis_zh": "這次勝利同時為香港取得奧運會參賽資格，大大改變這個甚少奪牌項目的長遠前景。",
+    "analysis_hl": "automatic Olympic quota",
+    "support_en": "Supporters say the victory proves Hong Kong can nurture world-class athletes outside its traditional strengths.",
+    "support_zh": "支持者認為，這次勝利證明香港除了傳統優勢項目外，同樣能培育世界級運動員。",
+    "support_hl": "nurture world-class athletes",
+    "oppose_en": "Sceptics caution that one breakthrough athlete does not guarantee lasting investment in grassroots tennis facilities.",
+    "oppose_zh": "質疑者則提醒，單一位突破性選手並不保證基層網球設施會獲得持續投資。",
+    "oppose_hl": "lasting investment",
+    "vocab5": [
+     {
+      "en": "lopsided final",
+      "zh": "一面倒的決賽"
+     },
+     {
+      "en": "serving masterclass",
+      "zh": "發球示範式演出"
+     },
+     {
+      "en": "watershed moment",
+      "zh": "轉捩點"
+     },
+     {
+      "en": "capitalise on the momentum",
+      "zh": "把握氣勢"
+     },
+     {
+      "en": "automatic quota",
+      "zh": "自動參賽資格"
+     }
+    ],
+    "question_en": "Should Hong Kong invest more public money in less traditional sports after a single athlete's breakthrough?",
+    "question_zh": "在單一運動員取得突破後，香港應否投放更多公共資源在非傳統體育項目上？",
+    "question_hl": "invest more public money"
+   }
   },
   {
    "source_name": "SCMP",
@@ -19947,7 +20187,47 @@
    ],
    "date": "2026-10-04",
    "id": "a1d4c2ff5",
-   "needs_backfill": true
+   "image_scene": "An empty children's playground in a Hong Kong public housing estate at midday, swings and slides unused, a lone elderly resident sitting on a nearby bench; residential towers rising in the background under a grey sky, conveying quiet emptiness rather than distress.",
+   "slides": {
+    "topic_en": "Hong Kong's Falling Birth Rate",
+    "background_en": "Hong Kong recorded only 29,700 births in the past year, a 15.6% drop that marks the lowest figure since records began.",
+    "background_zh": "香港過去一年僅錄得二萬九千七百名新生嬰兒，按年急跌百分之十五點六，創有記錄以來新低。",
+    "background_hl": "lowest figure since records began",
+    "analysis_en": "An editorial warns that cash bonuses alone cannot reverse deep-seated attitudes discouraging young people from having children.",
+    "analysis_zh": "社評警告，單靠現金獎勵無法扭轉年輕人對生育根深蒂固的抗拒態度。",
+    "analysis_hl": "deep-seated attitudes",
+    "support_en": "Supporters of the baby bonus argue that extending and raising payouts still signals the government's long-term commitment.",
+    "support_zh": "支持現金獎勵的人認為，延長計劃並提高金額，仍能顯示政府的長期承擔。",
+    "support_hl": "long-term commitment",
+    "oppose_en": "Critics point out that over 40% of bonus funds remain unclaimed, suggesting money is not the main barrier to parenthood.",
+    "oppose_zh": "批評者指出，超過四成獎勵金至今未被領取，反映金錢並非生育的主要障礙。",
+    "oppose_hl": "money is not the main barrier",
+    "vocab5": [
+     {
+      "en": "year-on-year plunge",
+      "zh": "按年急挫"
+     },
+     {
+      "en": "baby bonus scheme",
+      "zh": "現金獎勵計劃"
+     },
+     {
+      "en": "deep-seated attitudes",
+      "zh": "根深蒂固的觀念"
+     },
+     {
+      "en": "ruling it out altogether",
+      "zh": "完全排除"
+     },
+     {
+      "en": "staked political capital",
+      "zh": "投放政治資本"
+     }
+    ],
+    "question_en": "What non-financial changes could do more than cash bonuses to encourage young couples to have children?",
+    "question_zh": "除了現金獎勵，還有甚麼非金錢的改變，能更有效鼓勵年輕夫婦生育？",
+    "question_hl": "non-financial changes"
+   }
   },
   {
    "source_name": "HK01",
@@ -20094,7 +20374,46 @@
    "date": "2026-10-05",
    "id": "a2c609bdc",
    "image_scene": "A sold-out K-pop concert at the Kai Tak Sports Park Arena: four performers on a huge bright stage seen from deep in the crowd, thousands of fans waving light sticks, pastel stage lights and falling confetti.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "MAMAMOO's Cantonese Comeback",
+    "background_en": "K-pop group MAMAMOO returned to a sold-out Kai Tak Arena, ending a three-year hiatus from performing in Hong Kong.",
+    "background_zh": "韓國女團MAMAMOO結束三年來未在香港演出的空檔，重返座無虛席的啟德體育園舉行演唱會。",
+    "background_hl": "sold-out Kai Tak Arena",
+    "analysis_en": "The group's effort to speak Cantonese on stage highlights how K-pop acts increasingly localise performances to deepen fan loyalty.",
+    "analysis_zh": "組合在台上嘗試說廣東話，反映韓流藝人愈趨將演出本地化，以加深歌迷的忠誠度。",
+    "analysis_hl": "localise performances",
+    "support_en": "Fans see the Cantonese phrases as a genuine gesture of respect that strengthens the bond between idol and city.",
+    "support_zh": "歌迷認為，說廣東話是一種真誠的尊重表現，加強了偶像與城市之間的連繫。",
+    "support_hl": "genuine gesture of respect",
+    "oppose_en": "Sceptics argue a few rehearsed phrases are a calculated marketing tactic rather than authentic cultural appreciation.",
+    "oppose_zh": "質疑者則認為，幾句排練好的廣東話只是精心計算的宣傳手法，而非真誠的文化欣賞。",
+    "oppose_hl": "calculated marketing tactic",
+    "vocab5": [
+     {
+      "en": "sold-out arena",
+      "zh": "門票售罄的場館"
+     },
+     {
+      "en": "build rapport",
+      "zh": "建立默契"
+     },
+     {
+      "en": "pay homage to",
+      "zh": "致敬"
+     },
+     {
+      "en": "live-music hub",
+      "zh": "現場音樂樞紐"
+     },
+     {
+      "en": "celebrity endorsement",
+      "zh": "名人加持"
+     }
+    ],
+    "question_en": "Does a foreign star's use of local language and slang reflect genuine respect, or clever marketing?",
+    "question_zh": "外國藝人使用本地語言和潮語，是真誠的尊重，還是精明的市場策略？",
+    "question_hl": "genuine respect, or clever marketing"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -20241,7 +20560,46 @@
    "date": "2026-10-05",
    "id": "acbecabdd",
    "image_scene": "A small independent newsroom in Hong Kong at dusk: an empty reporter's desk with a press card, notebook, voice recorder and an open laptop, a folded umbrella leaning against the chair, city lights outside the window. Calm, neutral documentary tone.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Journalist Arrested Over Sedition",
+    "background_en": "Police arrested and later bailed an independent journalist on suspicion of sedition linked to his outlet's coverage of a small gathering.",
+    "background_zh": "警方以涉嫌煽動罪拘捕一名獨立記者，事件與其機構報道一次小型集會有關，該記者後獲准保釋。",
+    "background_hl": "suspicion of sedition",
+    "analysis_en": "The case has raised questions about where routine news coverage ends and activity deemed seditious under the law begins.",
+    "analysis_zh": "此案引發討論：日常新聞採訪與法律下被視為煽動的行為，兩者界線何在。",
+    "analysis_hl": "where routine news coverage ends",
+    "support_en": "Authorities maintain the law targets conduct that threatens national security, not legitimate journalism carried out responsibly.",
+    "support_zh": "當局堅稱，法例針對的是威脅國家安全的行為，而非負責任地進行的正當新聞工作。",
+    "support_hl": "legitimate journalism carried out responsibly",
+    "oppose_en": "Press groups warn that arresting reporters simply for attending newsworthy events risks a chilling effect on independent journalism.",
+    "oppose_zh": "新聞團體警告，僅因採訪新聞事件而拘捕記者，可能對獨立新聞工作造成寒蟬效應。",
+    "oppose_hl": "chilling effect on independent journalism",
+    "vocab5": [
+     {
+      "en": "seditious intention",
+      "zh": "煽動意圖"
+     },
+     {
+      "en": "held in custody",
+      "zh": "被拘留"
+     },
+     {
+      "en": "chilling effect",
+      "zh": "寒蟬效應"
+     },
+     {
+      "en": "press union",
+      "zh": "新聞工會"
+     },
+     {
+      "en": "national security law",
+      "zh": "國家安全法"
+     }
+    ],
+    "question_en": "Where should the line be drawn between reporting on public gatherings and acting with seditious intent?",
+    "question_zh": "採訪公眾集會與涉嫌煽動意圖之間，界線應劃在哪裡？",
+    "question_hl": "line be drawn"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -20387,7 +20745,47 @@
    ],
    "date": "2026-10-05",
    "id": "a77debbaf",
-   "needs_backfill": true
+   "image_scene": "A financial official in a suit speaking at a podium in a Hong Kong government press briefing room, microphones on the lectern, journalists with notebooks seated in rows facing him; the Hong Kong skyline faintly visible through a window behind, no readable signage.",
+   "slides": {
+    "topic_en": "Paul Chan on US-China Dialogue",
+    "background_en": "Hong Kong's Financial Secretary said renewed dialogue between Beijing and Washington would ease global economic concerns despite ongoing rivalry.",
+    "background_zh": "香港財政司司長表示，北京與華盛頓恢復對話有助緩解全球經濟憂慮，儘管兩國競爭仍持續。",
+    "background_hl": "ease global economic concerns",
+    "analysis_en": "His remarks highlight Hong Kong's stake in great-power relations, given the city's dependence on global trade and finance.",
+    "analysis_zh": "他的言論反映香港在大國關係中的利害關係，皆因本港高度依賴全球貿易與金融。",
+    "analysis_hl": "Hong Kong's stake in great-power relations",
+    "support_en": "Optimists argue sustained communication alone gives markets greater certainty even without a major breakthrough.",
+    "support_zh": "樂觀者認為，即使未有重大突破，持續的溝通本身已能為市場帶來更大確定性。",
+    "support_hl": "greater certainty",
+    "oppose_en": "Sceptics counter that talk without concrete agreements leaves underlying trade and technology tensions essentially unresolved.",
+    "oppose_zh": "質疑者則反駁，若無具體協議，單靠對話無法真正解決貿易與科技方面的根本矛盾。",
+    "oppose_hl": "essentially unresolved",
+    "vocab5": [
+     {
+      "en": "allay concerns",
+      "zh": "緩解憂慮"
+     },
+     {
+      "en": "major breakthrough",
+      "zh": "重大突破"
+     },
+     {
+      "en": "stake in an outcome",
+      "zh": "利害關係"
+     },
+     {
+      "en": "elevate standing",
+      "zh": "提升地位"
+     },
+     {
+      "en": "sustained communication",
+      "zh": "持續溝通"
+     }
+    ],
+    "question_en": "Can dialogue alone meaningfully ease tension between major powers without concrete agreements being reached?",
+    "question_zh": "在沒有具體協議的情況下，單靠對話能否真正緩解大國之間的緊張關係？",
+    "question_hl": "dialogue alone"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -20533,7 +20931,47 @@
    ],
    "date": "2026-10-05",
    "id": "a54f26cc3",
-   "needs_backfill": true
+   "image_scene": "Crowds of visitors walking along a narrow coastal hiking trail toward dramatic rock sea-stack formations on a rocky Hong Kong headland, some carrying backpacks and cameras, queuing at a small entrance barrier; blue sea and cliffs in the background, bright sunny weather.",
+   "slides": {
+    "topic_en": "Golden Week Strains Eco-Sites",
+    "background_en": "Hong Kong expects around 1.29 million mainland visitors over Golden Week, many heading to fragile countryside and coastal sites.",
+    "background_zh": "黃金周期間，香港預計接待約一百二十九萬名內地訪客，當中不少人湧往生態脆弱的郊野及海岸景點。",
+    "background_hl": "1.29 million mainland visitors",
+    "analysis_en": "The surge raises the question of whether popular eco-tourism spots can absorb record crowds without lasting environmental damage.",
+    "analysis_zh": "人潮大增，令人質疑熱門生態旅遊景點能否承受破紀錄的人流，而不造成長久的環境破壞。",
+    "analysis_hl": "absorb record crowds",
+    "support_en": "Officials point to the new reservation system at Po Pin Chau as proof that managed access can protect sensitive sites.",
+    "support_zh": "官方以破邊洲新推出的預約系統為例，證明有管理的進出安排能保護生態敏感地點。",
+    "support_hl": "managed access can protect sensitive sites",
+    "oppose_en": "Environmentalists warn that unregulated hotspots still face unmanaged footfall that quietly erodes fragile coastal habitats.",
+    "oppose_zh": "環保人士警告，其他未受規管的熱點仍面對失控的人流，正悄悄侵蝕脆弱的海岸生態。",
+    "oppose_hl": "unmanaged footfall",
+    "vocab5": [
+     {
+      "en": "eco-sensitive site",
+      "zh": "生態敏感地點"
+     },
+     {
+      "en": "reservation system",
+      "zh": "預約系統"
+     },
+     {
+      "en": "unmanaged footfall",
+      "zh": "失控的人流"
+     },
+     {
+      "en": "coral conservation zone",
+      "zh": "珊瑚保育區"
+     },
+     {
+      "en": "mitigate strain",
+      "zh": "減輕壓力"
+     }
+    ],
+    "question_en": "Should Hong Kong limit daily visitor numbers at all its fragile eco-tourism sites, not only the famous ones?",
+    "question_zh": "香港應否在所有生態脆弱的旅遊景點，而非只是最著名的景點，限制每日訪客人數？",
+    "question_hl": "limit daily visitor numbers"
+   }
   },
   {
    "source_name": "The Standard",
@@ -20647,9 +21085,9 @@
      "sample": "Transport planning around the new facility leaves much to be desired."
     },
     {
-     "en": "a stopgap measure",
-     "zh": "權宜之計",
-     "sample": "Extra minibus trips are only a stopgap measure until a proper bus route is introduced."
+     "en": "plug an immediate gap",
+     "zh": "暫時填補眼前缺口",
+     "sample": "Extra minibus trips can only plug an immediate gap until a proper bus route is introduced."
     },
     {
      "en": "further down the pipeline",
@@ -20657,9 +21095,9 @@
      "sample": "In-patient and surgical services remain further down the pipeline, with completion not expected until 2028."
     },
     {
-     "en": "disproportionately affect",
-     "zh": "對……造成不成比例的影響",
-     "sample": "Remote hospital locations disproportionately affect elderly residents who cannot drive."
+     "en": "weigh heavily on",
+     "zh": "沉重影響著",
+     "sample": "Long, indirect journeys weigh heavily on elderly residents who cannot drive."
     },
     {
      "en": "warrant closer scrutiny",
@@ -20685,7 +21123,46 @@
    "date": "2026-10-06",
    "id": "afbc4a69a",
    "image_scene": "Elderly Hong Kong residents with walking sticks and shopping trolleys waiting at a bus stop outside a huge brand-new modern public hospital complex in Kai Tak, a green minibus pulling up; Victoria Harbour and the Kowloon skyline behind.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Kai Tak Hospital Begins Operations",
+    "background_en": "Kai Tak Hospital, set to become Hong Kong's largest public hospital, began phased operations, taking over from Queen Elizabeth Hospital.",
+    "background_zh": "啟德醫院將成為香港最大公立醫院，已分階段投入服務，接替伊利沙伯醫院成為旗艦機構。",
+    "background_hl": "largest public hospital",
+    "analysis_en": "The slow rollout highlights the gap between a hospital's eventual scale and patients' immediate need for accessible care.",
+    "analysis_zh": "緩慢的啟用進度，反映醫院最終規模與病人即時需要便捷服務之間的差距。",
+    "analysis_hl": "gap between a hospital's eventual scale",
+    "support_en": "Health officials argue a phased opening allows staff and systems to be tested safely before handling full patient loads.",
+    "support_zh": "衛生官員認為，分階段啟用讓人手與系統可先行安全測試，才應付全面病人流量。",
+    "support_hl": "tested safely",
+    "oppose_en": "Elderly residents complain that without accident and emergency services until 2028, the new hospital barely eases their daily difficulties.",
+    "oppose_zh": "長者居民抱怨，急症服務要到二零二八年才啟用，新醫院暫時未能真正緩解他們的日常困難。",
+    "oppose_hl": "barely eases their daily difficulties",
+    "vocab5": [
+     {
+      "en": "phased operations",
+      "zh": "分階段運作"
+     },
+     {
+      "en": "flagship facility",
+      "zh": "旗艦機構"
+     },
+     {
+      "en": "ambulatory patients",
+      "zh": "能自行走動的病人"
+     },
+     {
+      "en": "gross floor area",
+      "zh": "總建築樓面面積"
+     },
+     {
+      "en": "come on stream",
+      "zh": "投入運作"
+     }
+    ],
+    "question_en": "Should new hospitals prioritise emergency services from day one, even if this delays other specialist departments?",
+    "question_zh": "新醫院應否由啟用首日起優先提供急症服務，即使這會延遲其他專科部門啟用？",
+    "question_hl": "prioritise emergency services from day one"
+   }
   },
   {
    "source_name": "The Standard",
@@ -20837,7 +21314,46 @@
    "date": "2026-10-06",
    "id": "a90b42f90",
    "image_scene": "A scorching hot, dry September afternoon in Hong Kong: cracked dry earth and a low water line at the edge of a half-empty reservoir, harsh bright sunlight and heat haze over green hills and high-rise blocks in the distance, a few people shading themselves with umbrellas on the dam path.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Hong Kong's Driest, Hottest September",
+    "background_en": "The Observatory recorded one of Hong Kong's hottest and driest Septembers on record, with rainfall only a fraction of the usual total.",
+    "background_zh": "天文台錄得香港其中一個最熱及最乾旱的九月，雨量僅為正常水平的一小部分。",
+    "background_hl": "hottest and driest Septembers on record",
+    "analysis_en": "Forecasters link the extreme weather to a persistent high-pressure system, raising concern about the pace of long-term climate change.",
+    "analysis_zh": "預測員將極端天氣歸咎於持續的高壓系統，令人關注長遠氣候變化的步伐。",
+    "analysis_hl": "persistent high-pressure system",
+    "support_en": "Some scientists see the record figures as further proof that climate change is already reshaping Hong Kong's seasonal patterns.",
+    "support_zh": "部分科學家認為，破紀錄的數字進一步證明氣候變化已經改變香港的季節模式。",
+    "support_hl": "reshaping Hong Kong's seasonal patterns",
+    "oppose_en": "Others caution that a single extreme month cannot by itself confirm a long-term shift in the city's climate.",
+    "oppose_zh": "另一些人則提醒，單一個極端月份本身不足以證明本港氣候出現長遠轉變。",
+    "oppose_hl": "cannot by itself confirm",
+    "vocab5": [
+     {
+      "en": "monthly review",
+      "zh": "月度回顧"
+     },
+     {
+      "en": "anticyclone aloft",
+      "zh": "高空氣壓脊"
+     },
+     {
+      "en": "a fraction of",
+      "zh": "僅為……的一小部分"
+     },
+     {
+      "en": "punishing heat",
+      "zh": "難以忍受的酷熱"
+     },
+     {
+      "en": "annual mean temperature",
+      "zh": "全年平均氣溫"
+     }
+    ],
+    "question_en": "How should a city like Hong Kong adapt its infrastructure to increasingly hot and dry weather extremes?",
+    "question_zh": "香港這類城市應如何調整基建，以應對日益極端的高溫乾旱天氣？",
+    "question_hl": "adapt its infrastructure"
+   }
   },
   {
    "source_name": "The Standard",
@@ -20859,9 +21375,9 @@
    },
    "vocab": [
     {
-     "phrase": "medal haul",
-     "zh": "獎牌收穫",
-     "sample": "The team's medal haul this year nearly doubled their previous best."
+     "phrase": "squad debutant",
+     "zh": "隊中新秀",
+     "sample": "Several squad debutants delivered personal bests at their first Asian Games."
     },
     {
      "phrase": "personal best",
@@ -20984,7 +21500,46 @@
    "date": "2026-10-06",
    "id": "af8eece42",
    "image_scene": "Hong Kong sailors racing small sailing dinghies on sparkling blue sea at the Asian Games, sails filled with wind and spray flying, with a podium and gold, silver and bronze medals glinting in the foreground.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "HK's Record Asian Games Haul",
+    "background_en": "Hong Kong closed the Asian Games with a record medal haul of 46 medals, led by a standout performance from the sailing squad.",
+    "background_zh": "香港在亞運會以四十六面獎牌創下歷來最佳紀錄，帆船隊的出色表現尤其突出。",
+    "background_hl": "record medal haul of 46 medals",
+    "analysis_en": "The result suggests younger athletes are now driving Hong Kong's sporting progress alongside its established stars.",
+    "analysis_zh": "成績顯示，年輕運動員現正與成熟名將一起推動香港體育事業的進步。",
+    "analysis_hl": "younger athletes are now driving",
+    "support_en": "Officials credit sustained investment in training and sports science for the breakthrough performances across several disciplines.",
+    "support_zh": "官員將多個項目的突破性表現，歸功於持續投放於訓練及運動科學的資源。",
+    "support_hl": "sustained investment in training",
+    "oppose_en": "Critics argue a record haul at one Games does not guarantee funding keeps pace with the needs of rising young talent.",
+    "oppose_zh": "批評者認為，單一屆賽事創下佳績，並不保證資金投放能追上新晉人才的需要。",
+    "oppose_hl": "does not guarantee funding keeps pace",
+    "vocab5": [
+     {
+      "en": "record medal haul",
+      "zh": "創紀錄的獎牌總數"
+     },
+     {
+      "en": "best-ever showing",
+      "zh": "歷來最佳表現"
+     },
+     {
+      "en": "breakthrough performance",
+      "zh": "突破性的表現"
+     },
+     {
+      "en": "fighting spirit",
+      "zh": "鬥志"
+     },
+     {
+      "en": "eclipse a record",
+      "zh": "超越紀錄"
+     }
+    ],
+    "question_en": "Should Hong Kong direct more sports funding toward emerging young athletes rather than established medal winners?",
+    "question_zh": "香港應否將更多體育資源投放在新晉年輕運動員身上，而非已獲獎的成熟選手？",
+    "question_hl": "more sports funding"
+   }
   },
   {
    "source_name": "The Standard",
@@ -21131,7 +21686,46 @@
    "date": "2026-10-06",
    "id": "aff98d4f5",
    "image_scene": "A bustling Hong Kong shopping street during the Golden Week holiday: crowds of tourists with shopping bags and rolling suitcases, packed restaurants with diners at every table, bright shop windows and a busy hotel entrance.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Golden Week Boosts Retail and Dining",
+    "background_en": "Hong Kong's retail and catering trades enjoyed a Golden Week boost, with hotel occupancy above 90% and restaurant sales rising sharply.",
+    "background_zh": "黃金周為香港零售及飲食業帶來顯著提振，酒店入住率超過九成，餐飲銷售亦大幅上升。",
+    "background_hl": "hotel occupancy above 90%",
+    "analysis_en": "The rebound shows how heavily Hong Kong's consumer sectors still depend on short bursts of mainland tourist spending.",
+    "analysis_zh": "這次反彈顯示香港消費行業，仍然高度依賴內地旅客短期內的集中消費。",
+    "analysis_hl": "depend on short bursts of mainland tourist spending",
+    "support_en": "Business groups welcome the figures as evidence that targeted promotions can still draw large numbers of visitors.",
+    "support_zh": "商界歡迎這些數字，認為它們證明有針對性的促銷仍能吸引大量訪客。",
+    "support_hl": "targeted promotions can still draw large numbers",
+    "oppose_en": "Analysts caution that a single busy holiday week cannot offset weaker consumer spending during the rest of the year.",
+    "oppose_zh": "分析員則提醒，單一個繁忙假期週，無法抵銷全年其餘時間消費疲弱的影響。",
+    "oppose_hl": "cannot offset weaker consumer spending",
+    "vocab5": [
+     {
+      "en": "occupancy rate",
+      "zh": "入住率"
+     },
+     {
+      "en": "demand outstripped supply",
+      "zh": "需求超過供應"
+     },
+     {
+      "en": "promotional deal",
+      "zh": "促銷優惠"
+     },
+     {
+      "en": "year-on-year",
+      "zh": "與上年同期相比"
+     },
+     {
+      "en": "footfall",
+      "zh": "人流量"
+     }
+    ],
+    "question_en": "How can Hong Kong's retail and dining trades build steadier revenue beyond short seasonal tourism peaks?",
+    "question_zh": "香港的零售及飲食業應如何建立更穩定的收入來源，而非依賴短暫的旅遊旺季？",
+    "question_hl": "steadier revenue"
+   }
   },
   {
    "source_name": "SCMP",
@@ -21288,7 +21882,46 @@
    "date": "2026-10-08",
    "id": "abd69f77e",
    "image_scene": "A bright counselling room in a Hong Kong secondary school: a school social worker's small round table with two chairs facing each other, a box of tissues, a potted plant and a rack of support leaflets, morning sun through the window; a young student's small school backpack rests on one chair. The feeling is support and care for younger students.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Youth Suicide Prevention Debate",
+    "background_en": "The Education Bureau told lawmakers that most suspected student suicide cases over three years involved children aged 15 or younger.",
+    "background_zh": "教育局向立法會表示，過去三個學年大部分懷疑學生自殺個案，涉及十五歲或以下的兒童。",
+    "background_hl": "aged 15 or younger",
+    "analysis_en": "The finding challenges the assumption that exam pressure on older teenagers is the main driver, pointing instead to earlier emotional struggles.",
+    "analysis_zh": "這項發現挑戰了「考試壓力主要影響年長學生」的假設，反而指向更早出現的情緒困擾。",
+    "analysis_hl": "earlier emotional struggles",
+    "support_en": "Officials argue the three-tier support mechanism allows faster referral to psychiatrists, catching distress before it escalates.",
+    "support_zh": "官員認為，三層支援機制能加快轉介精神科醫生，在情緒困擾惡化前及時介入。",
+    "support_hl": "catching distress before it escalates",
+    "oppose_en": "Some educators worry that schools still lack enough trained staff to identify younger children's distress early enough.",
+    "oppose_zh": "部分教育工作者則擔心，學校仍缺乏足夠的專業人手，未能及早辨識年幼學童的情緒困擾。",
+    "oppose_hl": "lack enough trained staff",
+    "vocab5": [
+     {
+      "en": "disproportionate share",
+      "zh": "不成比例的比重"
+     },
+     {
+      "en": "early intervention",
+      "zh": "及早介入"
+     },
+     {
+      "en": "three-tier support mechanism",
+      "zh": "三層支援機制"
+     },
+     {
+      "en": "underlying distress",
+      "zh": "潛在情緒困擾"
+     },
+     {
+      "en": "psychiatric referral",
+      "zh": "精神科轉介"
+     }
+    ],
+    "question_en": "How can schools better identify emotional distress in younger children, who may not show obvious warning signs?",
+    "question_zh": "學校應如何更有效識別年幼學童的情緒困擾，即使他們未必表現出明顯徵狀？",
+    "question_hl": "identify emotional distress in younger children"
+   }
   },
   {
    "source_name": "SCMP",
@@ -21440,7 +22073,46 @@
    "date": "2026-10-08",
    "id": "a8f7a3447",
    "image_scene": "Inside a Hong Kong subsidised flat being divided into tiny rooms: new thin partition walls half-built, a narrow corridor, a cramped room just big enough for a bunk bed, a housing inspector's clipboard and tape measure on the floor; through the window, rows of public-housing estate blocks.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Subsidised Flats Turned Subdivided",
+    "background_en": "Owners of fourteen subsidised flats applied to convert them into registered subdivided units, raising fears the scheme is being misused.",
+    "background_zh": "十四個資助出售單位的業主申請將其改建為已登記的分間單位，引起外界憂慮計劃被濫用。",
+    "background_hl": "raising fears the scheme is being misused",
+    "analysis_en": "The case exposes tension between tackling substandard subdivided housing and preventing subsidised flats from becoming rental assets.",
+    "analysis_zh": "事件揭示打擊不合標準分間樓宇與防止資助單位變成收租資產之間的矛盾。",
+    "analysis_hl": "tension between tackling substandard subdivided housing",
+    "support_en": "Officials argue registering subdivided units at least ensures basic safety standards are met, unlike illegal shoebox rentals.",
+    "support_zh": "官員認為，為分間單位登記至少能確保符合基本安全標準，有別於非法「劏房」。",
+    "support_hl": "ensures basic safety standards are met",
+    "oppose_en": "Lawmakers counter that subsidised flats were meant as homes for low-income families, not income-generating rental assets.",
+    "oppose_zh": "議員則反駁，資助單位原意是提供低收入家庭居所，而非用作生財的出租資產。",
+    "oppose_hl": "not income-generating rental assets",
+    "vocab5": [
+     {
+      "en": "substandard housing",
+      "zh": "不合標準的住房"
+     },
+     {
+      "en": "weed out",
+      "zh": "清除"
+     },
+     {
+      "en": "social welfare provision",
+      "zh": "社會福利安排"
+     },
+     {
+      "en": "income-generating asset",
+      "zh": "可產生收入的資產"
+     },
+     {
+      "en": "land premium",
+      "zh": "補地價"
+     }
+    ],
+    "question_en": "How should policy distinguish between genuine housing need and the misuse of subsidised flats for rental income?",
+    "question_zh": "政策應如何區分真正的住屋需要，與濫用資助單位賺取租金收入的情況？",
+    "question_hl": "misuse of subsidised flats"
+   }
   },
   {
    "source_name": "HKFP",
@@ -21597,7 +22269,46 @@
    "date": "2026-10-08",
    "id": "aae3853e9",
    "image_scene": "A quiet Hong Kong street outside a small corner convenience store: a stack of heavy beer crates on the pavement next to a child-sized pink school bag, seen from a respectful distance; a smartphone resting on a ledge hints at the video that spread online. No child is shown.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Viral Video Sparks Child Abuse Probe",
+    "background_en": "A viral clip showing a child carrying a crate of beer triggered a child abuse investigation and multi-agency welfare checks.",
+    "background_zh": "一段顯示兒童搬運啤酒箱的網上短片引發虐待兒童調查，多個部門隨即展開跨部門福利評估。",
+    "background_hl": "triggered a child abuse investigation",
+    "analysis_en": "The episode shows how quickly social media can mobilise child-protection responses, but also how online outrage can outpace the facts.",
+    "analysis_zh": "事件反映社交媒體能迅速帶動兒童保護行動，但網上群情亦可能先於事實而起。",
+    "analysis_hl": "online outrage can outpace the facts",
+    "support_en": "Child welfare advocates say rapid public attention helped ensure the case reached specialised investigators without delay.",
+    "support_zh": "兒童福利倡議者指出，公眾迅速關注有助個案第一時間轉交專責調查人員處理。",
+    "support_hl": "reached specialised investigators without delay",
+    "oppose_en": "Critics argue the bystander mentality of filming rather than helping deserves as much scrutiny as the original incident.",
+    "oppose_zh": "批評者認為，拍片旁觀而非出手協助的心態，同樣值得受到關注，不亞於事件本身。",
+    "oppose_hl": "bystander mentality of filming rather than helping",
+    "vocab5": [
+     {
+      "en": "child abuse investigation",
+      "zh": "虐待兒童調查"
+     },
+     {
+      "en": "parental neglect",
+      "zh": "被疏忽照顧"
+     },
+     {
+      "en": "multi-agency response",
+      "zh": "跨部門協作應對"
+     },
+     {
+      "en": "bystander mentality",
+      "zh": "旁觀者心態"
+     },
+     {
+      "en": "welfare check",
+      "zh": "福利評估"
+     }
+    ],
+    "question_en": "Does viral online footage help or hinder genuine child protection efforts?",
+    "question_zh": "病毒式瘋傳的網上片段，對真正的兒童保護工作究竟是幫助還是阻礙？",
+    "question_hl": "help or hinder genuine child protection efforts"
+   }
   },
   {
    "source_name": "HK01",
@@ -21754,7 +22465,46 @@
    "date": "2026-10-08",
    "id": "a45493c4b",
    "image_scene": "The packed Hong Kong Coliseum during a Cantopop concert: the four-sided stage in the centre of the arena lit by warm golden spotlights, a singer in silhouette at the microphone, thousands of fans in the tiered seats all around holding glowing light sticks.",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Andy Hui's Coliseum Comeback",
+    "background_en": "Cantopop veteran Andy Hui returned to the Hong Kong Coliseum for his first headline run there in eleven years.",
+    "background_zh": "樂壇老將許志安重返香港體育館舉行個人演唱會，是他十一年來首次在此掛頭牌演出。",
+    "background_hl": "first headline run there in eleven years",
+    "analysis_en": "The sold-out run suggests veteran Cantopop stars can still command the city's biggest arena despite competition from younger idols.",
+    "analysis_zh": "全院滿座反映樂壇老將即使面對新晉偶像的競爭，仍能撐起本港最大場館的票房。",
+    "analysis_hl": "command the city's biggest arena",
+    "support_en": "Fans see the comeback as recognition of Hui's resilience through very public career setbacks over the decades.",
+    "support_zh": "歌迷視這次復出為對許志安多年來經歷公眾風波後仍堅持不懈的肯定。",
+    "support_hl": "resilience through very public career setbacks",
+    "oppose_en": "Some critics argue such nostalgia-driven bookings crowd out stage time for emerging local singers who need exposure.",
+    "oppose_zh": "部分評論者則認為，這類主打懷舊的演出，擠佔了新晉本地歌手亟需的演出機會。",
+    "oppose_hl": "crowd out stage time for emerging local singers",
+    "vocab5": [
+     {
+      "en": "headline run",
+      "zh": "掛頭牌演出"
+     },
+     {
+      "en": "career milestone",
+      "zh": "事業里程碑"
+     },
+     {
+      "en": "proving ground",
+      "zh": "試煉場"
+     },
+     {
+      "en": "overwhelming demand",
+      "zh": "異常熾熱的需求"
+     },
+     {
+      "en": "the arc of a career",
+      "zh": "事業的整體軌跡"
+     }
+    ],
+    "question_en": "Should major Hong Kong venues prioritise veteran performers' nostalgia concerts or give more stage time to new local talent?",
+    "question_zh": "香港主要場館應優先安排樂壇老將的懷舊演唱會，還是給予新晉本地人才更多演出機會？",
+    "question_hl": "prioritise veteran performers' nostalgia concerts"
+   }
   },
   {
    "source_name": "SCMP",
@@ -21911,7 +22661,46 @@
    ],
    "date": "2026-10-09",
    "id": "aa18bcf00",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Biren Shares Tumble on Placement",
+    "background_en": "Shares in AI chipmaker Biren fell over 12% after it announced a second share placement in months to raise roughly HK$4 billion.",
+    "background_zh": "人工智能晶片商璧仞科技股價急跌超過百分之十二，原因是公司數月內第二度配售新股，籌集約四十億港元。",
+    "background_hl": "fell over 12%",
+    "analysis_en": "The sharp drop highlights the tension between funding costly chip development and protecting existing shareholders from dilution.",
+    "analysis_zh": "股價急跌反映資助昂貴晶片研發與保障現有股東免受股權攤薄之間的矛盾。",
+    "analysis_hl": "protecting existing shareholders from dilution",
+    "support_en": "Backers argue the funds are essential to secure manufacturing capacity ahead of the company's next chip launch.",
+    "support_zh": "支持者認為，資金對於在新一代晶片推出前確保生產產能至關重要。",
+    "support_hl": "secure manufacturing capacity",
+    "oppose_en": "Investors counter that repeated placements at a discount signal the company cannot yet fund growth from its own revenue.",
+    "oppose_zh": "投資者則反駁，一再以折讓價配股，顯示公司仍未能單靠自身收入支持增長。",
+    "oppose_hl": "cannot yet fund growth from its own revenue",
+    "vocab5": [
+     {
+      "en": "share placement",
+      "zh": "配售新股"
+     },
+     {
+      "en": "best-effort basis",
+      "zh": "不保證包銷的盡力基礎"
+     },
+     {
+      "en": "manufacturing capacity",
+      "zh": "生產產能"
+     },
+     {
+      "en": "commercial launch",
+      "zh": "商業推出"
+     },
+     {
+      "en": "revenue surge",
+      "zh": "收入急升"
+     }
+    ],
+    "question_en": "Should fast-growing tech firms prioritise raising capital through share placements even at the cost of diluting shareholders?",
+    "question_zh": "高速增長的科技企業應否為集資而不斷配股，即使因此攤薄現有股東的持股？",
+    "question_hl": "prioritise raising capital through share placements"
+   }
   },
   {
    "source_name": "The Standard",
@@ -22053,7 +22842,46 @@
    ],
    "date": "2026-10-09",
    "id": "ae41a8cfb",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Temple and Mosque Declared Monuments",
+    "background_en": "Hong Kong declared Wan Chai's Hung Shing Temple and Stanley Mosque as statutory monuments, granting both the city's highest heritage protection.",
+    "background_zh": "香港將灣仔洪聖廟及赤柱清真寺列為法定古蹟，賦予兩處古蹟本港最高級別的文物保護。",
+    "background_hl": "highest heritage protection",
+    "analysis_en": "Declaring a Chinese temple and an Islamic place of worship together highlights Hong Kong's layered religious and cultural heritage.",
+    "analysis_zh": "同時將一座中式廟宇與一座伊斯蘭教清真寺列為古蹟，突顯香港多元並存的宗教與文化傳承。",
+    "analysis_hl": "layered religious and cultural heritage",
+    "support_en": "Heritage advocates welcome the move as overdue recognition that protects rare ritual sites from future redevelopment pressure.",
+    "support_zh": "文物保育人士歡迎這項遲來的肯定，認為它能保護罕有的儀式場所免受日後重建的威脅。",
+    "support_hl": "protects rare ritual sites",
+    "oppose_en": "Some critics argue statutory status alone cannot guarantee the funding needed to repair ageing structures like the temple's roof.",
+    "oppose_zh": "部分批評者認為，單靠法定古蹟地位，並不保證有足夠資金修復如廟宇屋頂等老化結構。",
+    "oppose_hl": "cannot guarantee the funding needed",
+    "vocab5": [
+     {
+      "en": "declared monument",
+      "zh": "法定古蹟"
+     },
+     {
+      "en": "gazetted",
+      "zh": "刊登憲報"
+     },
+     {
+      "en": "ritual practice",
+      "zh": "儀式活動"
+     },
+     {
+      "en": "ceramic figurine",
+      "zh": "陶塑瓷像"
+     },
+     {
+      "en": "correctional facility",
+      "zh": "懲教設施"
+     }
+    ],
+    "question_en": "Does declaring a site a statutory monument do enough on its own to preserve it for future generations?",
+    "question_zh": "單靠將一處地方列為法定古蹟，是否足以為後代保存它？",
+    "question_hl": "do enough on its own to preserve it"
+   }
   },
   {
    "source_name": "SCMP",
@@ -22200,7 +23028,46 @@
    ],
    "date": "2026-10-09",
    "id": "af8dfbc1f",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Students Arrested in Fraud Syndicate",
+    "background_en": "Police arrested ten people, including a student couple, over a fraud and money-laundering syndicate that swindled victims out of HK$2.1 million.",
+    "background_zh": "警方拘捕十人，包括一對大學生情侶，涉及一個騙取受害人逾二百一十萬港元的詐騙及洗黑錢集團。",
+    "background_hl": "swindled victims out of HK$2.1 million",
+    "analysis_en": "The case shows how easily students can slide from jobseekers into suspected core members of organised online fraud.",
+    "analysis_zh": "事件反映大學生如何輕易由求職者，淪為有組織網上詐騙集團的疑似核心成員。",
+    "analysis_hl": "slide from jobseekers into suspected core members",
+    "support_en": "Police argue swift arrests of suspected ringleaders, including students, send a clear deterrent message to other potential recruits.",
+    "support_zh": "警方認為，迅速拘捕包括學生的疑似主腦，能向其他潛在參與者發出明確的阻嚇訊息。",
+    "support_hl": "clear deterrent message",
+    "oppose_en": "Youth workers warn that treating young recruits purely as criminals ignores how fake job adverts specifically target financially stressed students.",
+    "oppose_zh": "青年工作者警告，單純將年輕參與者視為犯罪分子，忽略了虛假招聘廣告專門針對經濟壓力下的學生。",
+    "oppose_hl": "specifically target financially stressed students",
+    "vocab5": [
+     {
+      "en": "suspected core member",
+      "zh": "疑似核心成員"
+     },
+     {
+      "en": "money laundering",
+      "zh": "洗黑錢"
+     },
+     {
+      "en": "e-wallet account",
+      "zh": "電子錢包賬戶"
+     },
+     {
+      "en": "puppet account",
+      "zh": "傀儡賬戶"
+     },
+     {
+      "en": "shopping scam",
+      "zh": "網購騙案"
+     }
+    ],
+    "question_en": "How can universities better protect financially stressed students from being recruited into online fraud operations?",
+    "question_zh": "大學應如何更有效保護經濟壓力下的學生，使其不被招攬加入網上詐騙活動？",
+    "question_hl": "protect financially stressed students"
+   }
   },
   {
    "source_name": "SCMP",
@@ -22347,7 +23214,46 @@
    ],
    "date": "2026-10-09",
    "id": "a3fbd5aed",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Non-Local University Fees Surge",
+    "background_en": "Hong Kong's public universities are raising non-local student fees by up to 26%, with some medicine programmes rising over 100%.",
+    "background_zh": "香港公立大學大幅調高非本地生學費，升幅最高達百分之二十六，部分醫科課程升幅更超過一倍。",
+    "background_hl": "fees by up to 26%",
+    "analysis_en": "The hikes coincide with an expanding non-local quota, raising questions about whether universities are prioritising revenue over accessibility.",
+    "analysis_zh": "學費上調正值非本地生限額持續擴大之際，令人質疑大學是否重收入多於學額的可達性。",
+    "analysis_hl": "prioritising revenue over accessibility",
+    "support_en": "Universities argue rising costs and international benchmarking justify fees that still remain below many overseas competitors.",
+    "support_zh": "大學認為，成本上升及與國際院校水平比較的結果，證明加費合理，而學費仍低於不少海外院校。",
+    "support_hl": "remain below many overseas competitors",
+    "oppose_en": "Critics counter that a 41% cumulative rise since 2023 could price out promising students from less wealthy backgrounds.",
+    "oppose_zh": "批評者則反駁，自二零二三年以來累積升幅達百分之四十一，可能令經濟條件較差的優秀學生望門卻步。",
+    "oppose_hl": "price out promising students",
+    "vocab5": [
+     {
+      "en": "non-local undergraduate",
+      "zh": "非本地本科生"
+     },
+     {
+      "en": "non-local student quota",
+      "zh": "非本地生限額"
+     },
+     {
+      "en": "cumulative rise",
+      "zh": "累積升幅"
+     },
+     {
+      "en": "international benchmarking",
+      "zh": "與國際院校水平比較"
+     },
+     {
+      "en": "tuition fee hike",
+      "zh": "學費上調"
+     }
+    ],
+    "question_en": "Should Hong Kong cap how quickly universities can raise non-local tuition fees from year to year?",
+    "question_zh": "香港應否限制大學每年調高非本地生學費的幅度？",
+    "question_hl": "cap how quickly universities can raise"
+   }
   },
   {
    "source_name": "The Standard",
@@ -22509,7 +23415,46 @@
    ],
    "date": "2026-10-10",
    "id": "ab4fbe533",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Starter Homes Towers to Be Rebuilt",
+    "background_en": "CK Asset will demolish and rebuild three towers at its scandal-hit Starter Homes project after steel bars were found to deviate from approved plans.",
+    "background_zh": "長實將拆卸並重建旗下醜聞纏身「首置」項目中的三座大樓，原因是鋼筋嚴重偏離批准圖則。",
+    "background_hl": "deviate from approved plans",
+    "analysis_en": "The case raises the question of how much oversight is enough to prevent construction defects in large subsidised housing projects.",
+    "analysis_zh": "事件引發討論：在大型資助房屋項目中，究竟需要多嚴格的監管才足以防止建築缺陷。",
+    "analysis_hl": "how much oversight is enough",
+    "support_en": "The developer argues demolishing and rebuilding from scratch is the most cost-effective way to guarantee long-term structural safety.",
+    "support_zh": "發展商認為，徹底拆卸重建是確保長遠結構安全最具成本效益的做法。",
+    "support_hl": "most cost-effective way to guarantee",
+    "oppose_en": "Buyers who have already waited years argue the rebuild unfairly punishes them for failures entirely outside their control.",
+    "oppose_zh": "已苦等多年的買家則認為，重建方案不公平地讓他們承受完全非他們能控制的失誤後果。",
+    "oppose_hl": "unfairly punishes them",
+    "vocab5": [
+     {
+      "en": "deviate significantly from a standard",
+      "zh": "嚴重偏離標準"
+     },
+     {
+      "en": "give the green light",
+      "zh": "批准放行"
+     },
+     {
+      "en": "legal proceedings",
+      "zh": "法律程序"
+     },
+     {
+      "en": "suspicion of bribery",
+      "zh": "涉嫌行賄"
+     },
+     {
+      "en": "cost-effective solution",
+      "zh": "符合成本效益的方案"
+     }
+    ],
+    "question_en": "Who should bear the financial cost when a subsidised housing project fails quality checks: the developer or the buyers?",
+    "question_zh": "當資助房屋項目未能通過質量檢驗，財務代價應由發展商還是買家承擔？",
+    "question_hl": "bear the financial cost"
+   }
   },
   {
    "source_name": "HK01",
@@ -22671,7 +23616,46 @@
    ],
    "date": "2026-10-10",
    "id": "a3ca09666",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Welfare Fraud Probe After Viral Video",
+    "background_en": "A viral video of a girl carrying beer cans in Tuen Mun led to her parents' arrest and a welfare fraud investigation into the family.",
+    "background_zh": "一段屯門女童攜帶啤酒罐的網上短片瘋傳，導致其父母被捕，並引發對該家庭的綜援調查。",
+    "background_hl": "welfare fraud investigation",
+    "analysis_en": "The case has widened from a single viral clip into a broader debate over how closely welfare recipients' spending should be monitored.",
+    "analysis_zh": "事件由單一網上短片擴大為一場更廣泛的爭論：綜援受助人的消費應受到多嚴密的監察。",
+    "analysis_hl": "how closely welfare recipients' spending should be monitored",
+    "support_en": "Officials argue reviewing eligibility after credible reports of overseas trips protects the integrity of the welfare safety net.",
+    "support_zh": "官員認為，在收到可信報告後審查資格，有助維護福利安全網的公信力。",
+    "support_hl": "protects the integrity of the welfare safety net",
+    "oppose_en": "Social workers warn that public shaming based on a short clip can harm the children involved far more than any welfare misuse.",
+    "oppose_zh": "社工警告，單憑一段短片對家庭公開指責，對涉事兒童造成的傷害可能遠超任何福利濫用本身。",
+    "oppose_hl": "harm the children involved far more",
+    "vocab5": [
+     {
+      "en": "welfare safety net",
+      "zh": "福利安全網"
+     },
+     {
+      "en": "suspicion of child abuse",
+      "zh": "涉嫌虐兒"
+     },
+     {
+      "en": "temporary institutional care",
+      "zh": "臨時院舍照顧"
+     },
+     {
+      "en": "abuse welfare payments",
+      "zh": "濫用綜援"
+     },
+     {
+      "en": "review eligibility",
+      "zh": "檢視領取資格"
+     }
+    ],
+    "question_en": "How should authorities balance investigating possible welfare fraud with protecting a family's children from public exposure?",
+    "question_zh": "當局應如何在調查可能的福利舞弊與保護家庭兒童免受公眾曝光之間取得平衡？",
+    "question_hl": "protecting a family's children from public exposure"
+   }
   },
   {
    "source_name": "SCMP",
@@ -22833,7 +23817,46 @@
    ],
    "date": "2026-10-10",
    "id": "a82f43866",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "LegCo Backs First Five-Year Plan",
+    "background_en": "Hong Kong's legislature backed the city's first-ever Five-Year Plan, which sets out twenty-two indicators but only five binding targets.",
+    "background_zh": "香港立法會通過本港首個五年規劃，當中列出二十二項主要指標，但只有五項屬具約束力的目標。",
+    "background_hl": "only five binding targets",
+    "analysis_en": "Lawmakers praised the plan's ambition while warning it remains long on vision and short on enforceable specifics.",
+    "analysis_zh": "議員讚揚規劃的宏大願景，同時警告內容仍然願景有餘而具體落實不足。",
+    "analysis_hl": "long on vision and short on enforceable specifics",
+    "support_en": "Supporters argue a five-year framework gives businesses a clearer sense of direction for long-term investment decisions.",
+    "support_zh": "支持者認為，五年規劃框架能為企業的長遠投資決定，提供更清晰的方向。",
+    "support_hl": "clearer sense of direction",
+    "oppose_en": "Critics counter that mostly aspirational benchmarks give officials little real accountability if targets are missed.",
+    "oppose_zh": "批評者則反駁，大部分屬願景性指標，即使未能達標，官員亦難以真正問責。",
+    "oppose_hl": "little real accountability",
+    "vocab5": [
+     {
+      "en": "thrown its weight behind",
+      "zh": "全力支持"
+     },
+     {
+      "en": "headline indicator",
+      "zh": "主要指標"
+     },
+     {
+      "en": "aspirational benchmark",
+      "zh": "願景性指標"
+     },
+     {
+      "en": "long on substance but short on specifics",
+      "zh": "內容豐富但缺乏具體目標"
+     },
+     {
+      "en": "fall in step with",
+      "zh": "配合"
+     }
+    ],
+    "question_en": "Can a plan with mostly non-binding targets still meaningfully guide a city's long-term development?",
+    "question_zh": "一份大部分指標都不具約束力的規劃，仍能有效引導城市的長遠發展嗎？",
+    "question_hl": "meaningfully guide a city's long-term development"
+   }
   },
   {
    "source_name": "The Standard",
@@ -22995,7 +24018,46 @@
    ],
    "date": "2026-10-10",
    "id": "a587acf80",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Kai Tak Hospital's Next Expansion Phase",
+    "background_en": "Kai Tak Hospital will expand its specialist outpatient clinics from October 26, taking over follow-up patients from Queen Elizabeth Hospital.",
+    "background_zh": "啟德醫院將由十月二十六日起擴展專科門診服務，接收由伊利沙伯醫院轉介的覆診病人。",
+    "background_hl": "expand its specialist outpatient clinics",
+    "analysis_en": "The phased handover shows how a single new hospital can gradually relieve pressure on an older, overstretched facility nearby.",
+    "analysis_zh": "分階段轉移服務顯示，一所新醫院如何逐步緩解鄰近舊醫院長期超負荷的壓力。",
+    "analysis_hl": "gradually relieve pressure on an older, overstretched facility",
+    "support_en": "Health officials argue a careful phase-by-phase handover avoids overwhelming new systems and staff all at once.",
+    "support_zh": "衛生官員認為，按部就班的分階段轉移，能避免新系統和人手一下子不勝負荷。",
+    "support_hl": "avoids overwhelming new systems and staff",
+    "oppose_en": "Patients used to Queen Elizabeth Hospital worry that repeated transfers disrupt established relationships with their regular doctors.",
+    "oppose_zh": "慣常在伊利沙伯醫院求診的病人擔心，反覆轉介會打斷他們與主診醫生建立已久的關係。",
+    "oppose_hl": "disrupt established relationships with their regular doctors",
+    "vocab5": [
+     {
+      "en": "phased opening",
+      "zh": "分階段啟用"
+     },
+     {
+      "en": "scaling-up of clinical capacity",
+      "zh": "擴大臨床服務量"
+     },
+     {
+      "en": "follow-up patient",
+      "zh": "覆診病人"
+     },
+     {
+      "en": "specialist attendance",
+      "zh": "專科診症次數"
+     },
+     {
+      "en": "caseload migrates",
+      "zh": "服務量轉移"
+     }
+    ],
+    "question_en": "What should hospitals do to minimise disruption for patients when transferring their care to a new facility?",
+    "question_zh": "醫院在將病人轉介至新院舍時，應如何盡量減少對病人的影響？",
+    "question_hl": "minimise disruption for patients"
+   }
   },
   {
    "source_name": "HK01",
@@ -23157,7 +24219,46 @@
    ],
    "date": "2026-10-11",
    "id": "aba78a000",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "'Forced Curve' Ranking for Civil Servants",
+    "background_en": "Hong Kong introduced a forced-distribution performance ranking for 41,000 civil servants, with about 5% placed in the bottom bands.",
+    "background_zh": "香港為四萬一千名公務員推行強制分佈評核制度，每個職系約百分之五的人會被評為最低等級。",
+    "background_hl": "forced-distribution performance ranking",
+    "analysis_en": "The reform signals a shift from seniority-based pay rises toward a more competitive, results-driven civil service culture.",
+    "analysis_zh": "這項改革標誌著公務員文化由論資排輩加薪，轉向更講求競爭與成果的方向。",
+    "analysis_hl": "shift from seniority-based pay rises",
+    "support_en": "Officials argue a fixed ranking distribution is the fairest way to ensure genuine differences in performance are recognised.",
+    "support_zh": "官員認為，固定比例的評核分佈，是確保真正表現差異獲得承認最公平的方法。",
+    "support_hl": "fairest way to ensure genuine differences",
+    "oppose_en": "Unions worry that forcing a fixed proportion into low bands unfairly penalises strong teams with no genuinely weak performers.",
+    "oppose_zh": "工會則擔心，強制將固定比例評為低等級，會不公平地懲罰那些根本沒有表現欠佳成員的優秀團隊。",
+    "oppose_hl": "unfairly penalises strong teams",
+    "vocab5": [
+     {
+      "en": "performance assessment mechanism",
+      "zh": "評核表現的制度"
+     },
+     {
+      "en": "demonstration grade",
+      "zh": "示範職系"
+     },
+     {
+      "en": "salary increment",
+      "zh": "薪酬增幅"
+     },
+     {
+      "en": "departmental quota",
+      "zh": "部門配額"
+     },
+     {
+      "en": "assessment calibration",
+      "zh": "評核校準"
+     }
+    ],
+    "question_en": "Is a forced performance-ranking curve a fair way to assess civil servants, or does it penalise good teams unfairly?",
+    "question_zh": "強制分佈的評核制度，是評估公務員表現的公平方法，還是會不公平地懲罰優秀團隊？",
+    "question_hl": "fair way to assess civil servants"
+   }
   },
   {
    "source_name": "Hong Kong Free Press",
@@ -23319,7 +24420,46 @@
    ],
    "date": "2026-10-11",
    "id": "af2631aef",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Parents Arrested Over Beer-Can Video",
+    "background_en": "Police arrested a Tuen Mun couple on suspicion of ill-treatment after video showed their daughter struggling under dozens of beer cans.",
+    "background_zh": "警方以涉嫌虐待拘捕一對屯門夫婦，事緣片段顯示其女兒拖著幾十罐啤酒步行感到吃力。",
+    "background_hl": "suspicion of ill-treatment",
+    "analysis_en": "Public sympathy turned to anger once it emerged the welfare-dependent family could still afford several overseas holidays a year.",
+    "analysis_zh": "公眾原本的同情轉為憤怒，皆因後來發現這個領取綜援的家庭仍能每年多次外遊。",
+    "analysis_hl": "could still afford several overseas holidays",
+    "support_en": "Officials argue a strict review of the family's welfare payments is necessary once credible evidence of misuse emerges.",
+    "support_zh": "官員認為，一旦出現可信的濫用證據，嚴格審查該家庭的福利金是必要的做法。",
+    "support_hl": "strict review of the family's welfare payments",
+    "oppose_en": "Social workers caution that the multidisciplinary case conference, not online outrage, should determine what truly serves the children's welfare.",
+    "oppose_zh": "社工則提醒，應由跨專業個案會議而非網上群情，決定甚麼才真正符合子女的福祉。",
+    "oppose_hl": "should determine what truly serves the children's welfare",
+    "vocab5": [
+     {
+      "en": "ill-treatment",
+      "zh": "虐待"
+     },
+     {
+      "en": "viral footage",
+      "zh": "在網上瘋傳的片段"
+     },
+     {
+      "en": "multidisciplinary case conference",
+      "zh": "跨專業個案會議"
+     },
+     {
+      "en": "Comprehensive Social Security Assistance",
+      "zh": "綜合社會保障援助"
+     },
+     {
+      "en": "intense scrutiny",
+      "zh": "嚴厲的審視"
+     }
+    ],
+    "question_en": "Should a family's welfare payments be reviewed based on behaviour shown in a viral video, before any formal investigation concludes?",
+    "question_zh": "在正式調查完結前，應否單憑病毒式短片顯示的行為，審查一個家庭的福利金？",
+    "question_hl": "before any formal investigation concludes"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -23481,7 +24621,46 @@
    ],
    "date": "2026-10-11",
    "id": "aa1ac5987",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Abby Choi's Mother Testifies",
+    "background_en": "Abby Choi's mother testified that her daughter lent roughly HK$2 million to her ex-brother-in-law for a waffle shop while he claimed to be jobless.",
+    "background_zh": "蔡天鳳的母親作供指，女兒曾借出約二百萬港元給前姻親開設雞蛋仔店，而他當時聲稱沒有工作。",
+    "background_hl": "lent roughly HK$2 million",
+    "analysis_en": "The testimony paints a family bound together by financial generosity, resentment and a bitter dispute that prosecutors say turned violent.",
+    "analysis_zh": "證供描繪出一個因金錢慷慨、怨恨與激烈財務糾紛交織的家庭，檢方指糾紛最終演變成暴力。",
+    "analysis_hl": "turned violent",
+    "support_en": "The defence argues disputed figures on the loan show the prosecution's financial-motive narrative may be less solid than claimed.",
+    "support_zh": "辯方認為，借款金額眾說紛紜，顯示檢方所指的財務動機說法，可能未如想像般牢固。",
+    "support_hl": "may be less solid than claimed",
+    "oppose_en": "Prosecutors maintain the underlying financial feud over a HK$72 million flat remains central to establishing a motive for murder.",
+    "oppose_zh": "檢方則堅持，圍繞一間七千二百萬港元物業的財務糾紛，仍是確立謀殺動機的關鍵。",
+    "oppose_hl": "central to establishing a motive for murder",
+    "vocab5": [
+     {
+      "en": "testimony",
+      "zh": "證供"
+     },
+     {
+      "en": "cross-examination",
+      "zh": "盤問"
+     },
+     {
+      "en": "not guilty plea",
+      "zh": "不認罪的答辯"
+     },
+     {
+      "en": "financial feud",
+      "zh": "財務糾紛"
+     },
+     {
+      "en": "witness stand",
+      "zh": "證人台"
+     }
+    ],
+    "question_en": "How much weight should disputed financial details carry in establishing a motive during a murder trial?",
+    "question_zh": "在謀殺審訊中，具爭議的財務細節應在確立動機方面佔多大比重？",
+    "question_hl": "establishing a motive during a murder trial"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -23638,7 +24817,46 @@
    ],
    "date": "2026-10-11",
    "id": "acef3e42b",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "HKMA Presses HSBC on Singapore AI Hub",
+    "background_en": "Hong Kong's banking regulator questioned HSBC after the bank chose Singapore, not Hong Kong, as the base for its new global AI centre.",
+    "background_zh": "香港金管局就滙豐選擇新加坡而非香港作為新人工智能卓越中心基地一事，向銀行要求解釋。",
+    "background_hl": "chose Singapore, not Hong Kong",
+    "analysis_en": "The episode highlights fierce competition between Hong Kong and Singapore for the region's limited pool of AI talent.",
+    "analysis_zh": "事件反映香港與新加坡正激烈爭奪區內有限的人工智能人才。",
+    "analysis_hl": "fierce competition between Hong Kong and Singapore",
+    "support_en": "Some analysts see the move as a reasonable business decision tied to HSBC's recent insurance sale in Singapore, not a snub to Hong Kong.",
+    "support_zh": "部分分析員認為，此舉只是配合滙豐最近出售新加坡保險業務的合理商業決定，並非刻意冷待香港。",
+    "support_hl": "not a snub to Hong Kong",
+    "oppose_en": "Critics argue losing a flagship AI hub to Singapore raises doubts about Hong Kong's ability to retain top-tier financial technology talent.",
+    "oppose_zh": "批評者則認為，將旗艦人工智能中心拱手讓予新加坡，令人質疑香港能否留住頂尖金融科技人才。",
+    "oppose_hl": "ability to retain top-tier financial technology talent",
+    "vocab5": [
+     {
+      "en": "centre of excellence",
+      "zh": "卓越中心"
+     },
+     {
+      "en": "agentic AI",
+      "zh": "具自主行動能力的人工智能"
+     },
+     {
+      "en": "wealth management",
+      "zh": "財富管理"
+     },
+     {
+      "en": "digital payment capability",
+      "zh": "數碼支付能力"
+     },
+     {
+      "en": "strategic resource allocation",
+      "zh": "策略性資源分配"
+     }
+    ],
+    "question_en": "Should regulators intervene when a major bank shifts a strategic technology hub away from its largest market?",
+    "question_zh": "當大型銀行將策略性科技中心遷離其最大市場時，監管機構應否介入？",
+    "question_hl": "intervene when a major bank shifts a strategic technology hub"
+   }
   },
   {
    "source_name": "The Standard",
@@ -23800,7 +25018,46 @@
    ],
    "date": "2026-10-12",
    "id": "a070253fe",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Cyclothon's New Bypass Route",
+    "background_en": "Over 6,000 riders joined the Hong Kong Cyclothon, which for the first time sent cyclists through part of the Central Kowloon Bypass.",
+    "background_zh": "逾六千名單車手參與香港單車節，活動首次安排車手騎經中九龍幹線部分路段。",
+    "background_hl": "for the first time",
+    "analysis_en": "Folding a strategic road project into a cycling festival lets planners showcase infrastructure while still serving everyday motorists.",
+    "analysis_zh": "將策略性道路項目融入單車節，讓規劃者在服務日常駕駛者之餘，展示基建成果。",
+    "analysis_hl": "showcase infrastructure",
+    "support_en": "Organisers argue closing a modern tunnel route briefly for cyclists promotes mass participation in sport at minimal long-term cost.",
+    "support_zh": "主辦方認為，短暫封閉現代化隧道路段讓單車手使用，能以極低的長遠成本推廣全民參與體育活動。",
+    "support_hl": "minimal long-term cost",
+    "oppose_en": "Some motorists argue repeated road closures for sporting events disrupt daily commutes more than organisers acknowledge.",
+    "oppose_zh": "部分駕駛者則認為，為體育活動反覆封路，對日常通勤造成的影響，比主辦方承認的更大。",
+    "oppose_hl": "disrupt daily commutes more than organisers acknowledge",
+    "vocab5": [
+     {
+      "en": "mass-participation sporting event",
+      "zh": "大型群眾參與體育活動"
+     },
+     {
+      "en": "road closure",
+      "zh": "封路"
+     },
+     {
+      "en": "gentle incline",
+      "zh": "緩坡"
+     },
+     {
+      "en": "showcase infrastructure",
+      "zh": "展示基建"
+     },
+     {
+      "en": "signature course",
+      "zh": "標誌性賽道"
+     }
+    ],
+    "question_en": "Is briefly closing major roads for sporting events a fair trade-off between promoting fitness and disrupting daily traffic?",
+    "question_zh": "為體育活動短暫封閉主要道路，在推廣全民運動與影響日常交通之間，是否取得合理的平衡？",
+    "question_hl": "fair trade-off between promoting fitness and disrupting daily traffic"
+   }
   },
   {
    "source_name": "The Standard",
@@ -23962,7 +25219,46 @@
    ],
    "date": "2026-10-12",
    "id": "a12f3a166",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "New Huanggang Port Opens",
+    "background_en": "The revamped Huanggang Port opened its joint inspection building, letting Hong Kong and mainland officers clear travellers in one stop.",
+    "background_zh": "全新皇崗口岸聯合查驗大樓啟用，讓香港與內地人員在同一地點為旅客辦理清關手續。",
+    "background_hl": "clear travellers in one stop",
+    "analysis_en": "The joint clearance model aims to cut waiting times sharply, but its success depends on smooth coordination between two separate systems.",
+    "analysis_zh": "聯合查驗模式旨在大幅縮短等候時間，但成效取決於兩個獨立系統能否順利協調。",
+    "analysis_hl": "smooth coordination between two separate systems",
+    "support_en": "Officials argue cutting clearance times from thirty minutes to about five will meaningfully ease daily cross-boundary travel.",
+    "support_zh": "官員認為，將清關時間由三十分鐘縮短至約五分鐘，能切實改善日常跨境出行。",
+    "support_hl": "meaningfully ease daily cross-boundary travel",
+    "oppose_en": "Sceptics caution that a brand-new system may face early technical hiccups before it can handle the projected surge in travellers.",
+    "oppose_zh": "質疑者則提醒，全新系統在應付預計大增的旅客流量前，初期或會出現技術問題。",
+    "oppose_hl": "early technical hiccups",
+    "vocab5": [
+     {
+      "en": "passenger throughput",
+      "zh": "客流量"
+     },
+     {
+      "en": "joint clearance arrangement",
+      "zh": "聯合查驗安排"
+     },
+     {
+      "en": "pre-register",
+      "zh": "預先登記"
+     },
+     {
+      "en": "rail spur line",
+      "zh": "鐵路支線"
+     },
+     {
+      "en": "cross-boundary travel",
+      "zh": "跨境出行"
+     }
+    ],
+    "question_en": "What risks should authorities plan for when replacing a decades-old border crossing with an entirely new system overnight?",
+    "question_zh": "當局以全新系統一舉取代運作數十年的舊口岸時，應為哪些潛在風險作好準備？",
+    "question_hl": "replacing a decades-old border crossing"
+   }
   },
   {
    "source_name": "The Standard",
@@ -24124,7 +25420,46 @@
    ],
    "date": "2026-10-12",
    "id": "a428a2b14",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Ketamine Seized in Coffee Powder",
+    "background_en": "Customs arrested a Malaysian woman at the airport after finding HK$5.4 million of ketamine hidden inside coffee powder in her luggage.",
+    "background_zh": "海關在機場拘捕一名馬來西亞女子，發現她的行李內藏有價值五百四十萬港元的氯胺酮，並以咖啡粉掩藏。",
+    "background_hl": "HK$5.4 million of ketamine hidden inside coffee powder",
+    "analysis_en": "The case illustrates how traffickers constantly adapt concealment methods, forcing customs to rely increasingly on risk profiling.",
+    "analysis_zh": "案件顯示毒販不斷改變藏毒手法，促使海關須更依賴風險分析來辨識疑犯。",
+    "analysis_hl": "rely increasingly on risk profiling",
+    "support_en": "Customs argues risk profiling combined with routine screening is essential to catch couriers who do not fit obvious smuggling patterns.",
+    "support_zh": "海關認為，風險分析配合日常檢查，對截查未必符合明顯走私特徵的運毒者至關重要。",
+    "support_hl": "catch couriers who do not fit obvious smuggling patterns",
+    "oppose_en": "Civil liberties advocates warn that profiling travellers by pattern risks unfairly targeting innocent passengers who merely resemble a profile.",
+    "oppose_zh": "公民權益倡議者則警告，按模式甄別旅客，可能不公平地針對只是與某種特徵相似的無辜乘客。",
+    "oppose_hl": "unfairly targeting innocent passengers",
+    "vocab5": [
+     {
+      "en": "transit passenger",
+      "zh": "過境旅客"
+     },
+     {
+      "en": "concealment method",
+      "zh": "藏毒手法"
+     },
+     {
+      "en": "risk profiling",
+      "zh": "風險分析"
+     },
+     {
+      "en": "drug mule",
+      "zh": "運毒者"
+     },
+     {
+      "en": "international syndicate",
+      "zh": "跨國犯罪集團"
+     }
+    ],
+    "question_en": "Does risk profiling at borders do more to catch genuine smugglers, or to unfairly target travellers who merely fit a pattern?",
+    "question_zh": "邊境的風險分析，是更能截獲真正的毒販，還是不公平地針對僅符合某種模式的旅客？",
+    "question_hl": "catch genuine smugglers, or to unfairly target travellers"
+   }
   },
   {
    "source_name": "The Standard",
@@ -24286,7 +25621,46 @@
    ],
    "date": "2026-10-12",
    "id": "a7a137e73",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "HK Universities Rise in Global Rankings",
+    "background_en": "Hong Kong universities posted record showings in Stanford's World's Top 2% Scientists list, led by a surprising jump from Lingnan University.",
+    "background_zh": "香港各大學在史丹福大學「全球前百分之二科學家」榜單中取得歷來最佳成績，嶺南大學的升幅尤其令人意外。",
+    "background_hl": "surprising jump from Lingnan University",
+    "analysis_en": "Lingnan's rise reflects a deliberate strategy of building niche specialisation rather than competing head-on with larger, better-funded rivals.",
+    "analysis_zh": "嶺南大學的升幅反映其刻意建立專科化優勢，而非與資源更豐厚的大型院校全面競爭。",
+    "analysis_hl": "niche specialisation rather than competing head-on",
+    "support_en": "Supporters argue global citation rankings give smaller universities a credible way to prove research impact beyond their size.",
+    "support_zh": "支持者認為，全球引用排名為規模較小的大學，提供了一個可信的方法去證明超越本身規模的研究影響力。",
+    "support_hl": "prove research impact beyond their size",
+    "oppose_en": "Sceptics caution that citation counts can reward frequently cited topics rather than genuinely original or socially useful research.",
+    "oppose_zh": "質疑者則提醒，引用次數可能獎勵經常被引用的課題，而非真正原創或對社會有實際價值的研究。",
+    "oppose_hl": "rather than genuinely original or socially useful research",
+    "vocab5": [
+     {
+      "en": "citation-based ranking",
+      "zh": "以引用次數為基礎的排名"
+     },
+     {
+      "en": "niche specialisation",
+      "zh": "專科化策略"
+     },
+     {
+      "en": "scholarly impact",
+      "zh": "學術影響力"
+     },
+     {
+      "en": "top-ranked scholar",
+      "zh": "頂尖學者"
+     },
+     {
+      "en": "global visibility",
+      "zh": "全球知名度"
+     }
+    ],
+    "question_en": "Are citation-based rankings a fair way to measure a university's true research value, or do they favour certain fields unfairly?",
+    "question_zh": "以引用次數為基礎的排名，是衡量大學真正研究價值的公平方法，還是會不公平地偏重某些學科？",
+    "question_hl": "fair way to measure a university's true research value"
+   }
   },
   {
    "source_name": "The Standard",
@@ -24448,7 +25822,46 @@
    ],
    "date": "2026-10-13",
    "id": "abcaca527",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Garden's Sandwich Record Turns Chaotic",
+    "background_en": "A Garden bakery event meant to set a world record for a sandwich-making lesson overran by nearly an hour, leaving hundreds of children and parents waiting.",
+    "background_zh": "麵包品牌嘉頓原意創下全球最大製作三文治課堂紀錄，卻拖延近一小時，令數百名學童及家長久等。",
+    "background_hl": "overran by nearly an hour",
+    "analysis_en": "The chaos shows how a single missing detail, a staggered dismissal plan, can undo an otherwise well-intentioned publicity stunt.",
+    "analysis_zh": "混亂場面顯示，單是缺乏分批放行安排這項細節，足以令一個原意良好的宣傳活動失控。",
+    "analysis_hl": "undo an otherwise well-intentioned publicity stunt",
+    "support_en": "The company argues the incident reflected a logistical lapse rather than any deliberate disregard for children's safety.",
+    "support_zh": "公司認為，事件反映後勤疏漏，而非蓄意漠視學童安全。",
+    "support_hl": "logistical lapse rather than any deliberate disregard",
+    "oppose_en": "Parents counter that a brand capable of coordinating 700 pupils should have anticipated basic crowd-control risks in advance.",
+    "oppose_zh": "家長則反駁，一個能協調七百名學童的品牌，理應事先預視基本的人群管理風險。",
+    "oppose_hl": "anticipated basic crowd-control risks in advance",
+    "vocab5": [
+     {
+      "en": "staggered dismissal",
+      "zh": "分批放行"
+     },
+     {
+      "en": "bottleneck",
+      "zh": "人流樽頸"
+     },
+     {
+      "en": "logistical lapse",
+      "zh": "後勤疏漏"
+     },
+     {
+      "en": "publicity stunt",
+      "zh": "宣傳活動"
+     },
+     {
+      "en": "crowd-control risk",
+      "zh": "人群管理風險"
+     }
+    ],
+    "question_en": "Should companies face formal penalties when poorly planned publicity events put children's safety at risk?",
+    "question_zh": "當公司策劃欠佳的宣傳活動危及學童安全時，應否面對正式的懲處？",
+    "question_hl": "formal penalties when poorly planned publicity events"
+   }
   },
   {
    "source_name": "The Standard",
@@ -24610,7 +26023,46 @@
    ],
    "date": "2026-10-13",
    "id": "ad67acc30",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Cyberport Subsidy Fraud Charges",
+    "background_en": "ICAC charged six people, including a former Cyberport official, over an alleged scheme to defraud the government of HK$20 million in tech subsidies.",
+    "background_zh": "廉政公署落案起訴六人，包括一名前數碼港職員，涉嫌串謀詐騙政府二千萬港元科技資助。",
+    "background_hl": "defraud the government of HK$20 million",
+    "analysis_en": "The case raises concern about how easily insider knowledge can be exploited to bypass internal checks meant to protect public subsidy schemes.",
+    "analysis_zh": "案件令人關注，內部人員的知識竟能輕易被利用，繞過本應保障公共資助計劃的內部審查。",
+    "analysis_hl": "exploited to bypass internal checks",
+    "support_en": "Prosecutors argue swift charges against an insider send a strong signal that abusing public funds will be punished regardless of seniority.",
+    "support_zh": "檢方認為，迅速起訴內部人員發出有力訊息：無論職級高低，濫用公共資金都會受到懲處。",
+    "support_hl": "punished regardless of seniority",
+    "oppose_en": "Critics argue the scale of the fraud, affecting over 400 applications, suggests existing subsidy oversight was dangerously weak.",
+    "oppose_zh": "批評者認為，詐騙規模涉及逾四百份申請，反映現有資助監管機制存在危險的漏洞。",
+    "oppose_hl": "existing subsidy oversight was dangerously weak",
+    "vocab5": [
+     {
+      "en": "public servant accepting an advantage",
+      "zh": "公職人員接受利益"
+     },
+     {
+      "en": "conspiracy to defraud",
+      "zh": "串謀詐騙"
+     },
+     {
+      "en": "fabricated paper trail",
+      "zh": "偽造的書面紀錄"
+     },
+     {
+      "en": "bypass internal vetting",
+      "zh": "繞過內部審查"
+     },
+     {
+      "en": "technology subsidy",
+      "zh": "科技資助"
+     }
+    ],
+    "question_en": "How can public subsidy schemes be redesigned to prevent insiders from exploiting their own approval powers?",
+    "question_zh": "公共資助計劃應如何重新設計，以防止內部人員利用自身的審批權力舞弊？",
+    "question_hl": "prevent insiders from exploiting their own approval powers"
+   }
   },
   {
    "source_name": "South China Morning Post",
@@ -24772,7 +26224,46 @@
    ],
    "date": "2026-10-13",
    "id": "af12ca81d",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Recycling Push After Waste-Fee U-Turn",
+    "background_en": "Having shelved its waste-charging scheme after public backlash, the government will expand round-the-clock recycling points instead.",
+    "background_zh": "政府在公眾強烈反對下擱置垂直廢物收費計劃，轄下轉而擴展全日運作的回收點網絡。",
+    "background_hl": "shelved its waste-charging scheme",
+    "analysis_en": "The shift from penalties to pure incentives tests whether convenience alone can lift recycling rates without any financial pressure.",
+    "analysis_zh": "由懲罰轉為純粹獎勵的策略，正測試單靠便利性能否在沒有經濟壓力下提升回收率。",
+    "analysis_hl": "convenience alone can lift recycling rates",
+    "support_en": "Officials argue round-the-clock self-service machines finally remove the inconvenient opening hours that long discouraged working households.",
+    "support_zh": "官員認為，全日運作的自助回收機終於解決長期令在職家庭卻步的不便開放時間問題。",
+    "support_hl": "remove the inconvenient opening hours",
+    "oppose_en": "Environmentalists warn that without the original fee's financial pressure, Hong Kong may still miss its binding recycling targets.",
+    "oppose_zh": "環保人士警告，若失去原先收費計劃的經濟壓力，香港仍可能無法達到具約束力的回收目標。",
+    "oppose_hl": "miss its binding recycling targets",
+    "vocab5": [
+     {
+      "en": "carrot-only approach",
+      "zh": "單靠獎勵而非懲罰的策略"
+     },
+     {
+      "en": "binding target",
+      "zh": "具約束力的目標"
+     },
+     {
+      "en": "round-the-clock collection point",
+      "zh": "全日運作的回收點"
+     },
+     {
+      "en": "inconveniently scheduled",
+      "zh": "開放時間不便"
+     },
+     {
+      "en": "permitted profit margin",
+      "zh": "許可利潤率"
+     }
+    ],
+    "question_en": "Can incentive-only policies realistically achieve the same results as charging schemes in changing public recycling habits?",
+    "question_zh": "單靠獎勵而非收費的政策，能否真正達到與收費計劃相同的效果，改變公眾的回收習慣？",
+    "question_hl": "achieve the same results as charging schemes"
+   }
   },
   {
    "source_name": "The Standard",
@@ -24934,7 +26425,46 @@
    ],
    "date": "2026-10-13",
    "id": "a0444d233",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "HK as a Bridge for China's AI",
+    "background_en": "DBS's chief executive said Hong Kong can bridge mainland China's fast-moving AI sector and the rest of the world.",
+    "background_zh": "星展銀行行政總裁表示，香港能成為內地快速發展的人工智能產業與世界其他地方之間的橋樑。",
+    "background_hl": "bridge mainland China's fast-moving AI sector",
+    "analysis_en": "The remarks frame Hong Kong less as an AI developer itself and more as a connective hub linking mainland innovation with global capital.",
+    "analysis_zh": "言論將香港定位為聯繫樞紐，連接內地創新科技與全球資本，而非本身的人工智能開發者。",
+    "analysis_hl": "connective hub linking mainland innovation with global capital",
+    "support_en": "Supporters argue Hong Kong's financial infrastructure gives mainland AI firms a uniquely credible gateway to international markets.",
+    "support_zh": "支持者認為，香港的金融基建為內地人工智能企業，提供一個通往國際市場的獨特可信途徑。",
+    "support_hl": "uniquely credible gateway to international markets",
+    "oppose_en": "Sceptics question whether acting mainly as a financial bridge leaves Hong Kong dependent on technology developed elsewhere.",
+    "oppose_zh": "質疑者則擔心，主要擔當金融橋樑角色，會令香港過度依賴在其他地方開發的技術。",
+    "oppose_hl": "dependent on technology developed elsewhere",
+    "vocab5": [
+     {
+      "en": "absorb breakthroughs",
+      "zh": "吸納新技術突破"
+     },
+     {
+      "en": "connective hub",
+      "zh": "聯繫樞紐"
+     },
+     {
+      "en": "wealth management",
+      "zh": "財富管理"
+     },
+     {
+      "en": "capital markets",
+      "zh": "資本市場"
+     },
+     {
+      "en": "digital-asset business",
+      "zh": "數碼資產業務"
+     }
+    ],
+    "question_en": "Is positioning Hong Kong as a financial bridge for mainland AI a sustainable long-term economic strategy?",
+    "question_zh": "將香港定位為內地人工智能的金融橋樑，是否可持續的長遠經濟策略？",
+    "question_hl": "sustainable long-term economic strategy"
+   }
   },
   {
    "source_name": "HKFP",
@@ -25081,7 +26611,46 @@
    ],
    "date": "2026-10-15",
    "id": "ac2aa8d23",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Unseen Van Gogh Draws Hong Kong Crowds",
+    "background_en": "Hundreds queued in Central to see a Van Gogh landscape unseen for sixty years, ahead of a November auction expected to fetch US$180 million.",
+    "background_zh": "數百人在中環排隊觀賞一幅六十年未曾公開展示的梵高風景畫，該畫將於十一月拍賣，估值一億八千萬美元。",
+    "background_hl": "unseen for sixty years",
+    "analysis_en": "The preview shows how auction houses now use free public access to generate buzz long before a record-breaking sale takes place.",
+    "analysis_zh": "預展反映拍賣行如何在破紀錄拍賣進行之前，善用免費公開展示來製造話題熱度。",
+    "analysis_hl": "generate buzz long before a record-breaking sale",
+    "support_en": "Supporters argue such previews let ordinary members of the public briefly enjoy masterpieces otherwise locked away in private collections.",
+    "support_zh": "支持者認為，這類預展讓普通市民能短暫欣賞本來深藏私人收藏、遙不可及的名作。",
+    "support_hl": "briefly enjoy masterpieces otherwise locked away",
+    "oppose_en": "Critics argue the spectacle ultimately serves the auction house's marketing far more than genuine public access to art.",
+    "oppose_zh": "批評者則認為，這場盛事最終服務於拍賣行的市場宣傳，多於真正讓公眾接觸藝術。",
+    "oppose_hl": "serves the auction house's marketing far more",
+    "vocab5": [
+     {
+      "en": "not put on public display",
+      "zh": "未曾公開展示"
+     },
+     {
+      "en": "travelling preview",
+      "zh": "巡迴預展"
+     },
+     {
+      "en": "fetch a record price",
+      "zh": "創下破紀錄高價"
+     },
+     {
+      "en": "consigned to auction",
+      "zh": "委託拍賣"
+     },
+     {
+      "en": "provenance",
+      "zh": "來源紀錄"
+     }
+    ],
+    "question_en": "Do free pre-auction previews genuinely widen public access to great art, or mainly serve as marketing for record sales?",
+    "question_zh": "免費的拍賣前預展，是真正擴闊公眾接觸偉大藝術的機會，還是主要為破紀錄拍賣服務的宣傳手段？",
+    "question_hl": "genuinely widen public access to great art"
+   }
   },
   {
    "source_name": "SCMP",
@@ -25228,7 +26797,46 @@
    ],
    "date": "2026-10-15",
    "id": "a5144afd3",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "HK Hosts First APEC Finance Meeting",
+    "background_en": "Hong Kong will host its first APEC Finance Ministers' Meeting next week, bringing about 500 officials from 21 member economies to Wan Chai.",
+    "background_zh": "香港將於下周首次主辦亞太經合組織財長會議，接待來自二十一個成員體約五百名官員到灣仔出席。",
+    "background_hl": "first APEC Finance Ministers' Meeting",
+    "analysis_en": "The Financial Secretary frames the gathering as a chance to showcase Hong Kong's convening power despite ongoing regional trade tensions.",
+    "analysis_zh": "財政司司長將這次會議視為展示香港號召各方匯聚能力的機會，即使區內貿易緊張局勢持續。",
+    "analysis_hl": "showcase Hong Kong's convening power",
+    "support_en": "Supporters argue hosting such a high-profile forum reinforces Hong Kong's standing as a serious international financial centre.",
+    "support_zh": "支持者認為，主辦這類具國際影響力的論壇，有助鞏固香港作為重要國際金融中心的地位。",
+    "support_hl": "serious international financial centre",
+    "oppose_en": "Sceptics note that hosting a single high-level meeting cannot by itself resolve deeper structural challenges facing the city's economy.",
+    "oppose_zh": "質疑者則指出，單憑主辦一次高層會議，無法解決本港經濟面對的深層結構性挑戰。",
+    "oppose_hl": "cannot by itself resolve deeper structural challenges",
+    "vocab5": [
+     {
+      "en": "member economies",
+      "zh": "成員體"
+     },
+     {
+      "en": "convening power",
+      "zh": "號召各方匯聚的能力"
+     },
+     {
+      "en": "fiscal policy",
+      "zh": "財政政策"
+     },
+     {
+      "en": "inclusive finance",
+      "zh": "普惠金融"
+     },
+     {
+      "en": "green bond issuance",
+      "zh": "綠色債券發行"
+     }
+    ],
+    "question_en": "Can hosting prestigious international meetings meaningfully strengthen a city's long-term economic standing?",
+    "question_zh": "主辦具聲望的國際會議，能否真正提升一個城市的長遠經濟地位？",
+    "question_hl": "meaningfully strengthen a city's long-term economic standing"
+   }
   },
   {
    "source_name": "The Standard",
@@ -25375,7 +26983,46 @@
    ],
    "date": "2026-10-15",
    "id": "a6ca2f7e3",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "HKIC Launches First Internship Scheme",
+    "background_en": "The Hong Kong Investment Corporation opened applications for its first full-time internship, offering students hands-on exposure to a strategic investment fund.",
+    "background_zh": "香港投資管理有限公司開放首個全職實習計劃的申請，讓學生親身體驗策略性投資基金的運作。",
+    "background_hl": "hands-on exposure to a strategic investment fund",
+    "analysis_en": "The scheme reflects a wider push by government-linked funds to compete with private banks for the next generation of finance talent.",
+    "analysis_zh": "計劃反映政府相關基金正加大力度，與私人銀行爭奪新一代金融人才。",
+    "analysis_hl": "compete with private banks for the next generation of finance talent",
+    "support_en": "Supporters argue paid, structured placements give students a far more realistic sense of public investment work than lectures alone.",
+    "support_zh": "支持者認為，有薪且結構完整的實習，比單靠課堂講授更能讓學生真實體會公共投資工作。",
+    "support_hl": "far more realistic sense of public investment work",
+    "oppose_en": "Critics note that giving priority to local tertiary students may narrow opportunities for equally capable overseas-educated candidates.",
+    "oppose_zh": "批評者指出，優先考慮本地大專學生，可能縮窄同樣能力卓越的海外畢業生的機會。",
+    "oppose_hl": "narrow opportunities for equally capable overseas-educated candidates",
+    "vocab5": [
+     {
+      "en": "hands-on exposure",
+      "zh": "親身實務體驗"
+     },
+     {
+      "en": "strategic investment fund",
+      "zh": "策略性投資基金"
+     },
+     {
+      "en": "priority given to",
+      "zh": "優先考慮"
+     },
+     {
+      "en": "fixed monthly stipend",
+      "zh": "固定月津貼"
+     },
+     {
+      "en": "risk and compliance",
+      "zh": "風險及合規"
+     }
+    ],
+    "question_en": "Should government-backed internship schemes prioritise local students, or open equally to overseas-educated candidates?",
+    "question_zh": "政府支持的實習計劃，應優先照顧本地學生，還是同樣向海外畢業生開放？",
+    "question_hl": "prioritise local students, or open equally"
+   }
   },
   {
    "source_name": "The Standard",
@@ -25522,7 +27169,46 @@
    ],
    "date": "2026-10-15",
    "id": "a70667970",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Joey Yung's Stadium Dream Realised",
+    "background_en": "Joey Yung added a third Kai Tak Stadium date after years of hoping to headline a solo stadium show rather than a joint bill.",
+    "background_zh": "容祖兒在啟德體育園加開第三場演唱會，多年來終於實現獨挑大樑主演體育館演唱會的願望。",
+    "background_hl": "headline a solo stadium show rather than a joint bill",
+    "analysis_en": "The emotional announcement shows how a veteran singer's long-stated ambition can still generate genuine excitement among long-time fans.",
+    "analysis_zh": "這次動人的宣布顯示，資深歌手長年抱持的夢想，仍能為長期支持的歌迷帶來真切的喜悅。",
+    "analysis_hl": "generate genuine excitement among long-time fans",
+    "support_en": "Fans see the swift addition of a third date as proof that genuine demand, not just marketing, is driving the stadium's concert calendar.",
+    "support_zh": "歌迷視迅速加場為證明，是真正的市場需求而非單純的宣傳，正帶動該場館的演唱會檔期。",
+    "support_hl": "genuine demand, not just marketing",
+    "oppose_en": "Some observers note that stadium-scale Cantopop shows remain dominated by a small circle of veteran names rather than newer talent.",
+    "oppose_zh": "部分觀察者則指出，能在體育館級場館舉行演唱會的粵語歌手，仍局限於少數資深名字，而非新晉人才。",
+    "oppose_hl": "dominated by a small circle of veteran names",
+    "vocab5": [
+     {
+      "en": "live-streamed announcement",
+      "zh": "直播宣布"
+     },
+     {
+      "en": "original run",
+      "zh": "原定場次"
+     },
+     {
+      "en": "solo stadium show",
+      "zh": "獨挑大樑主演體育館演唱會"
+     },
+     {
+      "en": "joint bill",
+      "zh": "聯合演出場次"
+     },
+     {
+      "en": "general sale",
+      "zh": "公開發售"
+     }
+    ],
+    "question_en": "Does a veteran singer finally headlining a stadium show reflect genuine audience demand or carefully managed publicity?",
+    "question_zh": "資深歌手終於能獨挑大樑主演體育館演唱會，反映的是真正的觀眾需求，還是精心經營的宣傳？",
+    "question_hl": "genuine audience demand or carefully managed publicity"
+   }
   },
   {
    "source_name": "The Standard",
@@ -25669,7 +27355,46 @@
    ],
    "date": "2026-10-16",
    "id": "aed63f86c",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Intangible Heritage Mart Returns",
+    "background_en": "Hong Kong's intangible cultural heritage mart returns for three free days in November, bringing grassroots cultural groups into direct contact with the public.",
+    "background_zh": "香港非物質文化遺產市集將於十一月一連三天免費舉行，讓草根文化團體直接接觸公眾。",
+    "background_hl": "bringing grassroots cultural groups into direct contact with the public",
+    "analysis_en": "The event highlights how living traditions, unlike physical artefacts, depend on direct public exposure to survive beyond specialist circles.",
+    "analysis_zh": "活動反映活態傳統與實物文物不同，必須透過直接接觸公眾，才能延續到專門圈子以外。",
+    "analysis_hl": "depend on direct public exposure to survive",
+    "support_en": "Supporters argue free, accessible events like this are essential to keep niche traditions relevant to a general audience.",
+    "support_zh": "支持者認為，這類免費且普及的活動，對於令小眾傳統維持對一般大眾的吸引力至關重要。",
+    "support_hl": "essential to keep niche traditions relevant",
+    "oppose_en": "Critics argue a few festival days a year cannot substitute for sustained funding and training to keep these traditions alive.",
+    "oppose_zh": "批評者則認為，一年數天的節慶活動，無法取代持續的資金與培訓，以真正延續這些傳統。",
+    "oppose_hl": "cannot substitute for sustained funding and training",
+    "vocab5": [
+     {
+      "en": "intangible cultural heritage",
+      "zh": "非物質文化遺產"
+     },
+     {
+      "en": "grassroots cultural group",
+      "zh": "草根文化團體"
+     },
+     {
+      "en": "curated programme",
+      "zh": "精心策劃的節目"
+     },
+     {
+      "en": "martial arts lineage",
+      "zh": "武術流派"
+     },
+     {
+      "en": "mainstream stage",
+      "zh": "主流舞台"
+     }
+    ],
+    "question_en": "Are occasional public festivals enough to keep intangible cultural traditions alive for future generations?",
+    "question_zh": "偶爾舉行的公眾節慶活動，是否足以讓非物質文化傳統延續至下一代？",
+    "question_hl": "enough to keep intangible cultural traditions alive"
+   }
   },
   {
    "source_name": "SCMP",
@@ -25816,7 +27541,46 @@
    ],
    "date": "2026-10-16",
    "id": "ae21cf3e6",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Police Step Up Security for APEC Meeting",
+    "background_en": "Hong Kong police began round-the-clock patrols around Wan Chai ahead of the city's first APEC Finance Ministers' Meeting.",
+    "background_zh": "香港警方在灣仔展開二十四小時不間斷巡邏，為本港首次舉辦亞太經合組織財長會議做好準備。",
+    "background_hl": "round-the-clock patrols",
+    "analysis_en": "The heavy security operation shows how hosting a high-level international meeting brings real logistical and safety burdens alongside prestige.",
+    "analysis_zh": "龐大的保安行動顯示，主辦高層國際會議除了帶來聲望，亦伴隨實際的後勤及保安負擔。",
+    "analysis_hl": "real logistical and safety burdens alongside prestige",
+    "support_en": "Officials argue comprehensive contingency planning for terrorist and cyberattack threats is essential given the seniority of attending officials.",
+    "support_zh": "官員認為，鑑於與會官員職級甚高，就恐怖主義及網絡攻擊威脅制訂全面應變計劃是必要的。",
+    "support_hl": "essential given the seniority of attending officials",
+    "oppose_en": "Some residents worry that hundreds of officers tied up guarding hotels and a venue strain policing resources elsewhere in the city.",
+    "oppose_zh": "部分市民則擔心，數百名警員被調派看守酒店及場館，會令本港其他地區的警力承受壓力。",
+    "oppose_hl": "strain policing resources elsewhere in the city",
+    "vocab5": [
+     {
+      "en": "round-the-clock patrol",
+      "zh": "24小時不間斷巡邏"
+     },
+     {
+      "en": "visiting delegation",
+      "zh": "代表團"
+     },
+     {
+      "en": "high-level gathering",
+      "zh": "高層會議"
+     },
+     {
+      "en": "contingency plan",
+      "zh": "應變計劃"
+     },
+     {
+      "en": "tactical unit",
+      "zh": "機動部隊"
+     }
+    ],
+    "question_en": "How should a city balance the security costs of hosting prestigious international events against everyday policing needs?",
+    "question_zh": "城市應如何在主辦具聲望的國際活動所需的保安成本，與日常警力需求之間取得平衡？",
+    "question_hl": "balance the security costs of hosting prestigious international events"
+   }
   },
   {
    "source_name": "HKFP",
@@ -25963,7 +27727,46 @@
    ],
    "date": "2026-10-16",
    "id": "a3ac27801",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Petition Against 'Halloween Month'",
+    "background_en": "Dozens of Christian groups petitioned against the Tourism Board's first month-long 'Halloween Month' campaign, calling it spiritually harmful.",
+    "background_zh": "數十個基督教團體聯署反對旅遊發展局首次舉辦的一個月「萬聖節月」活動，形容其帶來精神上的危害。",
+    "background_hl": "spiritually harmful",
+    "analysis_en": "The petition raises the broader question of how far a secular tourism campaign should accommodate specific religious objections.",
+    "analysis_zh": "聯署引發更廣泛的討論：世俗旅遊推廣活動應在多大程度上照顧特定宗教團體的反對意見。",
+    "analysis_hl": "accommodate specific religious objections",
+    "support_en": "Tourism officials argue a secular seasonal campaign funded by public money should not be shaped by any single religious viewpoint.",
+    "support_zh": "旅遊官員認為，一項以公共資金資助的世俗季節性活動，不應受單一宗教觀點左右。",
+    "support_hl": "should not be shaped by any single religious viewpoint",
+    "oppose_en": "Petition signatories argue public funds should never promote imagery they consider spiritually harmful, regardless of its popularity.",
+    "oppose_zh": "聯署人則認為，公共資金無論活動有多受歡迎，都不應用來推廣他們認為帶有精神危害的意象。",
+    "oppose_hl": "regardless of its popularity",
+    "vocab5": [
+     {
+      "en": "online petition",
+      "zh": "網上聯署"
+     },
+     {
+      "en": "secular celebration",
+      "zh": "世俗慶典"
+     },
+     {
+      "en": "public funds",
+      "zh": "公共資金"
+     },
+     {
+      "en": "seasonal promotion",
+      "zh": "季節性推廣活動"
+     },
+     {
+      "en": "spiritual threat",
+      "zh": "精神威脅"
+     }
+    ],
+    "question_en": "Should public bodies alter secular cultural campaigns in response to objections from a specific religious group?",
+    "question_zh": "公共機構應否因應特定宗教團體的反對意見，而更改世俗的文化推廣活動？",
+    "question_hl": "alter secular cultural campaigns in response to objections"
+   }
   },
   {
    "source_name": "HKFP",
@@ -26110,7 +27913,46 @@
    ],
    "date": "2026-10-16",
    "id": "a2d801aaa",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Serious Smog Warning Over Hong Kong",
+    "background_en": "Hong Kong issued a 'serious' air quality warning as weak winds and strong sunshine combined to trap pollutants over the city.",
+    "background_zh": "香港發出「嚴重」空氣質素警示，皆因偏弱風力與強烈陽光共同作用，令污染物積聚在城市上空。",
+    "background_hl": "'serious' air quality warning",
+    "analysis_en": "The episode highlights how weather conditions, not just emissions, can suddenly turn routine pollution into a serious public health risk.",
+    "analysis_zh": "事件反映天氣因素，而非單純排放量，足以令日常污染突然演變成嚴重的公共健康風險。",
+    "analysis_hl": "suddenly turn routine pollution into a serious public health risk",
+    "support_en": "Health officials argue timely warnings for sensitive groups let vulnerable residents take precautions before symptoms worsen.",
+    "support_zh": "衛生官員認為，及時向敏感人群發出警示，能讓體質較脆弱的市民在病情惡化前採取預防措施。",
+    "support_hl": "take precautions before symptoms worsen",
+    "oppose_en": "Environmentalists argue reactive warnings do little to address the underlying vehicle and industrial emissions driving the smog.",
+    "oppose_zh": "環保人士則認為，被動式的警示對解決造成煙霞的根本車輛及工業排放問題，作用有限。",
+    "oppose_hl": "little to address the underlying vehicle and industrial emissions",
+    "vocab5": [
+     {
+      "en": "Air Quality Health Index",
+      "zh": "空氣質素健康指數"
+     },
+     {
+      "en": "sensitive groups",
+      "zh": "敏感人群"
+     },
+     {
+      "en": "weak winds",
+      "zh": "偏弱的風力"
+     },
+     {
+      "en": "photochemical smog",
+      "zh": "光化煙霧"
+     },
+     {
+      "en": "ground-level ozone",
+      "zh": "地面臭氧"
+     }
+    ],
+    "question_en": "Should Hong Kong focus more on reducing emissions at source rather than issuing reactive smog warnings?",
+    "question_zh": "香港應否更著重從源頭減少排放，而非僅發出被動式的煙霞警示？",
+    "question_hl": "reducing emissions at source rather than issuing reactive"
+   }
   },
   {
    "source_name": "SCMP",
@@ -26173,9 +28015,9 @@
      "sample": "Lau trains alongside Hong Kong's elite training squad for boccia."
     },
     {
-     "phrase": "para-sport pathway",
-     "zh": "殘疾人體育發展路徑",
-     "sample": "A clear para-sport pathway from school to elite level has been credited for the rise in medals."
+     "phrase": "talent identification scheme",
+     "zh": "人才甄選計劃",
+     "sample": "A talent identification scheme that scouts promising young players has been credited for the rise in medals."
     },
     {
      "phrase": "precision sport",
@@ -26272,7 +28114,46 @@
    ],
    "date": "2026-10-22",
    "id": "aa492fbb7",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "HK's First Para Games Gold",
+    "background_en": "Hong Kong's Vivian Lau won the city's first gold at the Asian Para Games, beating her own teammate in an all-Hong Kong boccia final.",
+    "background_zh": "香港硬地滾球選手劉慧恩在亞洲殘疾人運動會為香港贏得首金，決賽對手正是同一代表隊的隊友。",
+    "background_hl": "first gold at the Asian Para Games",
+    "analysis_en": "An all-Hong Kong final in a classified sport shows the depth the city has built in a discipline that rarely receives mainstream attention.",
+    "analysis_zh": "一項分級運動的全港對決決賽，反映香港在這個鮮少受主流關注的項目上，已建立相當深厚的實力。",
+    "analysis_hl": "depth the city has built in a discipline",
+    "support_en": "Supporters argue such results prove sustained investment in para-sport training delivers results comparable to mainstream programmes.",
+    "support_zh": "支持者認為，這些成績證明持續投放於殘疾人運動訓練的資源，能帶來與主流項目相若的成果。",
+    "support_hl": "comparable to mainstream programmes",
+    "oppose_en": "Critics note that para-athletes still receive far less media coverage and sponsorship than their able-bodied counterparts despite similar achievements.",
+    "oppose_zh": "批評者指出，儘管成績相若，殘疾運動員獲得的傳媒報道及贊助，仍遠遠落後於健全運動員。",
+    "oppose_hl": "far less media coverage and sponsorship",
+    "vocab5": [
+     {
+      "en": "boccia",
+      "zh": "硬地滾球"
+     },
+     {
+      "en": "classification system",
+      "zh": "殘疾分級制度"
+     },
+     {
+      "en": "all-Hong Kong final",
+      "zh": "全港對決決賽"
+     },
+     {
+      "en": "medal tally",
+      "zh": "獎牌總數"
+     },
+     {
+      "en": "compatriot",
+      "zh": "同胞"
+     }
+    ],
+    "question_en": "Should para-athletes receive the same level of media coverage and sponsorship as able-bodied Olympic athletes?",
+    "question_zh": "殘疾運動員應否獲得與健全奧運運動員相同程度的傳媒報道及贊助？",
+    "question_hl": "same level of media coverage and sponsorship"
+   }
   },
   {
    "source_name": "The Standard",
@@ -26434,7 +28315,46 @@
    ],
    "date": "2026-10-22",
    "id": "a2260ff78",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Star Ferry Fares Rise Again",
+    "background_en": "The Executive Council approved a new Star Ferry fare rise, smaller than requested, raising weekday fares by up to HK$1 a trip.",
+    "background_zh": "行政會議批准天星小輪新一輪加價，升幅較原本申請為小，平日單程票價將加價最多一元。",
+    "background_hl": "smaller than requested",
+    "analysis_en": "Approving a reduced increase shows how regulators balance a historic operator's financial viability against the cost of daily commuting.",
+    "analysis_zh": "批准較小的加幅，反映監管機構須在歷史悠久營運商的財政可持續性，與日常通勤成本之間取得平衡。",
+    "analysis_hl": "financial viability against the cost of daily commuting",
+    "support_en": "Officials argue moderating the requested rise still lets the heritage ferry service cover rising operating costs sustainably.",
+    "support_zh": "官員認為，調低原本的加幅申請，仍能讓這項歷史悠久的渡輪服務可持續地應付不斷上升的營運成本。",
+    "support_hl": "cover rising operating costs sustainably",
+    "oppose_en": "Regular commuters argue even a modest fare rise adds up over repeated daily crossings on an already ageing service.",
+    "oppose_zh": "經常使用的乘客則認為，即使加幅輕微，每日往返多次累積下來，對一項已經老化的服務而言負擔不輕。",
+    "oppose_hl": "adds up over repeated daily crossings",
+    "vocab5": [
+     {
+      "en": "franchised route",
+      "zh": "專營航線"
+     },
+     {
+      "en": "fare increase application",
+      "zh": "加價申請"
+     },
+     {
+      "en": "Executive Council",
+      "zh": "行政會議"
+     },
+     {
+      "en": "single-trip fare",
+      "zh": "單程票價"
+     },
+     {
+      "en": "moderate the increase",
+      "zh": "調低加幅"
+     }
+    ],
+    "question_en": "How should regulators balance an historic transport operator's need for higher fares against passengers' cost of living?",
+    "question_zh": "監管機構應如何在歷史悠久的交通營運商加價需要，與乘客的生活成本之間取得平衡？",
+    "question_hl": "balance an historic transport operator's need for higher fares"
+   }
   },
   {
    "source_name": "The Standard",
@@ -26596,7 +28516,46 @@
    ],
    "date": "2026-10-22",
    "id": "a7e386367",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Agent Testifies on Abby Choi Flat Rebate",
+    "background_en": "A property agent told the Abby Choi murder trial that her ex-father-in-law personally received a HK$6.97 million cash rebate on a flat she funded.",
+    "background_zh": "一名地產代理向蔡天鳳謀殺案審訊供稱，其前姻親親自收取一筆由她出資購買物業所得的六百九十七萬港元現金回贈。",
+    "background_hl": "HK$6.97 million cash rebate",
+    "analysis_en": "The testimony adds further detail to a web of money flowing between Choi and her in-laws, which prosecutors say ultimately fuelled resentment.",
+    "analysis_zh": "證供進一步揭示蔡天鳳與姻親之間錯綜複雜的金錢往來，檢方指這最終滋生了怨恨。",
+    "analysis_hl": "a web of money flowing between Choi and her in-laws",
+    "support_en": "Prosecutors argue documented financial transfers like this rebate help build a clear picture of motive beyond simple speculation.",
+    "support_zh": "檢方認為，這類有紀錄可查的資金轉移，有助建立超越單純猜測的清晰動機脈絡。",
+    "support_hl": "build a clear picture of motive beyond simple speculation",
+    "oppose_en": "Defence lawyers may argue routine rebates between family members in property deals do not by themselves prove any criminal intent.",
+    "oppose_zh": "辯方律師則可能辯稱，家族成員之間在物業交易中的慣常回贈，本身並不足以證明任何犯罪意圖。",
+    "oppose_hl": "do not by themselves prove any criminal intent",
+    "vocab5": [
+     {
+      "en": "cash rebate",
+      "zh": "現金回贈"
+     },
+     {
+      "en": "sales commission",
+      "zh": "銷售佣金"
+     },
+     {
+      "en": "registered owner",
+      "zh": "登記業主"
+     },
+     {
+      "en": "deposit cheque",
+      "zh": "訂金支票"
+     },
+     {
+      "en": "estate agent",
+      "zh": "地產代理"
+     }
+    ],
+    "question_en": "How much should financial details uncovered in witness testimony be allowed to shape a jury's view of motive?",
+    "question_zh": "證人證供揭示的財務細節，應在多大程度上影響陪審團對動機的判斷？",
+    "question_hl": "shape a jury's view of motive"
+   }
   },
   {
    "source_name": "HKFP",
@@ -26758,7 +28717,46 @@
    ],
    "date": "2026-10-22",
    "id": "a614d63f3",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Parents Sue Over Girl's Death",
+    "background_en": "The parents of a girl who died after a routine stitching procedure are suing the Hospital Authority for negligence.",
+    "background_zh": "一名女童在接受常規縫合手術後死亡，其父母現就醫院管理局的疏忽向其提出民事訴訟。",
+    "background_hl": "suing the Hospital Authority for negligence",
+    "analysis_en": "The case raises the difficult question of how a brief, routine procedure could lead to such a tragic and unexpected outcome.",
+    "analysis_zh": "此案引發一個艱難的問題：一個簡短的常規程序，為何會導致如此悲劇且意想不到的結果。",
+    "analysis_hl": "such a tragic and unexpected outcome",
+    "support_en": "The family argues that filing suit is necessary to establish exactly what went wrong during those critical minutes.",
+    "support_zh": "這家庭認為，提出訴訟是必要的做法，以查明在那關鍵數分鐘內究竟出了甚麼問題。",
+    "support_hl": "establish exactly what went wrong",
+    "oppose_en": "Hospital representatives may argue that a cardiac arrest during a minor procedure can occur despite staff following correct protocol.",
+    "oppose_zh": "醫院方面則可能辯稱，即使醫護人員按正確程序行事，在小手術期間仍可能出現心臟停頓。",
+    "oppose_hl": "despite staff following correct protocol",
+    "vocab5": [
+     {
+      "en": "civil suit",
+      "zh": "民事訴訟"
+     },
+     {
+      "en": "writ of summons",
+      "zh": "傳訊令狀"
+     },
+     {
+      "en": "suturing procedure",
+      "zh": "縫合程序"
+     },
+     {
+      "en": "cardiac arrest",
+      "zh": "心臟停頓"
+     },
+     {
+      "en": "resuscitation",
+      "zh": "急救復甦"
+     }
+    ],
+    "question_en": "How should hospitals balance reassuring the public about safety with being transparent when a routine procedure goes tragically wrong?",
+    "question_zh": "醫院應如何在安撫公眾對安全的信心，與坦誠面對常規程序不幸出錯之間取得平衡？",
+    "question_hl": "being transparent when a routine procedure goes tragically wrong"
+   }
   },
   {
    "source_name": "RTHK",
@@ -26920,7 +28918,46 @@
    ],
    "date": "2026-10-23",
    "id": "ab4a11cd2",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Unemployment Rises as Graduates Enter Market",
+    "background_en": "Hong Kong's unemployment rate climbed to 3.9% as fresh graduates and school leavers entered an already cooling job market.",
+    "background_zh": "香港失業率升至百分之三點九，皆因大批新畢業生及離校生加入本已降溫的就業市場。",
+    "background_hl": "unemployment rate climbed to 3.9%",
+    "analysis_en": "Rising underemployment alongside unemployment suggests the labour market's weakness runs deeper than headline job losses alone.",
+    "analysis_zh": "就業不足與失業率同步上升，反映勞工市場的疲弱程度，比單看失業數字所顯示的更為深層。",
+    "analysis_hl": "runs deeper than headline job losses alone",
+    "support_en": "Officials argue a modestly expanding labour force shows more people remain confident enough to actively seek work.",
+    "support_zh": "官員認為，勞動人口溫和增長，反映更多人仍有信心積極尋找工作。",
+    "support_hl": "confident enough to actively seek work",
+    "oppose_en": "Economists warn that concentrated job losses in social work and logistics point to structural weaknesses beyond a seasonal graduate influx.",
+    "oppose_zh": "經濟學者警告，社會工作及物流業的職位流失集中，反映結構性弱點，並非單純季節性新畢業生湧入所致。",
+    "oppose_hl": "structural weaknesses beyond a seasonal graduate influx",
+    "vocab5": [
+     {
+      "en": "unemployment rate",
+      "zh": "失業率"
+     },
+     {
+      "en": "fresh graduate",
+      "zh": "新畢業生"
+     },
+     {
+      "en": "labour force",
+      "zh": "勞動人口"
+     },
+     {
+      "en": "underemployment",
+      "zh": "就業不足"
+     },
+     {
+      "en": "seasonally adjusted",
+      "zh": "經季節性調整"
+     }
+    ],
+    "question_en": "What should the government prioritise first when both unemployment and underemployment are rising at the same time?",
+    "question_zh": "當失業率與就業不足同時上升時，政府應優先處理甚麼問題？",
+    "question_hl": "unemployment and underemployment are rising at the same time"
+   }
   },
   {
    "source_name": "SCMP",
@@ -27082,7 +29119,46 @@
    ],
    "date": "2026-10-23",
    "id": "af529a047",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Second Child Flu Death Prompts Vaccine Call",
+    "background_en": "Health officials confirmed a second child flu death this season, renewing calls for vaccination among children with underlying conditions.",
+    "background_zh": "衛生官員確認本季第二宗兒童流感死亡個案，再次呼籲有潛在健康問題的兒童接種流感疫苗。",
+    "background_hl": "renewing calls for vaccination",
+    "analysis_en": "The case highlights how quickly flu can turn severe in unvaccinated children who already have underlying health conditions.",
+    "analysis_zh": "個案顯示，流感在已有潛在健康問題而未接種疫苗的兒童身上，可以迅速演變成嚴重病情。",
+    "analysis_hl": "quickly flu can turn severe in unvaccinated children",
+    "support_en": "Health authorities argue repeating the vaccination message after each severe case is necessary even if some parents find it repetitive.",
+    "support_zh": "衛生當局認為，即使部分家長覺得重複，每次出現嚴重個案後仍須再三呼籲接種疫苗。",
+    "support_hl": "necessary even if some parents find it repetitive",
+    "oppose_en": "Some parents argue official messaging should focus more on recognising early warning signs rather than vaccination alone.",
+    "oppose_zh": "部分家長則認為，官方訊息應更著重讓家長識別早期病徵，而非只強調接種疫苗。",
+    "oppose_hl": "recognising early warning signs rather than vaccination alone",
+    "vocab5": [
+     {
+      "en": "paediatric fatality",
+      "zh": "兒童死亡個案"
+     },
+     {
+      "en": "underlying health condition",
+      "zh": "潛在健康問題"
+     },
+     {
+      "en": "septic shock",
+      "zh": "敗血性休克"
+     },
+     {
+      "en": "intensive care unit",
+      "zh": "深切治療部"
+     },
+     {
+      "en": "Coroner's Court",
+      "zh": "死因裁判法庭"
+     }
+    ],
+    "question_en": "Should schools require proof of flu vaccination for children with underlying health conditions during peak flu season?",
+    "question_zh": "在流感高峰期，學校應否要求有潛在健康問題的兒童提供已接種流感疫苗的證明？",
+    "question_hl": "require proof of flu vaccination"
+   }
   },
   {
    "source_name": "The Standard",
@@ -27244,7 +29320,46 @@
    ],
    "date": "2026-10-23",
    "id": "a18225cc3",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Hawick Lau Confirms Age-Gap Romance",
+    "background_en": "Actor Hawick Lau confirmed a relationship with a model 20 years younger, drawing public attention mainly to their age gap.",
+    "background_zh": "演員劉愷威公開承認與一位年輕二十歲的模特兒拍拖，公眾討論主要集中在兩人的年齡差距上。",
+    "background_hl": "age gap",
+    "analysis_en": "The reaction shows how public scrutiny of celebrity relationships often fixates on age difference rather than the couple's compatibility.",
+    "analysis_zh": "公眾反應顯示，社會對名人關係的審視，往往聚焦於年齡差距，多於兩人的相配程度。",
+    "analysis_hl": "fixates on age difference rather than the couple's compatibility",
+    "support_en": "Supporters argue a genuine, mutually enjoyed relationship should not require public justification simply because of an age gap.",
+    "support_zh": "支持者認為，一段真誠且雙方樂在其中的關係，不應僅因年齡差距而需要向公眾解釋。",
+    "support_hl": "should not require public justification",
+    "oppose_en": "Critics argue public figures invite scrutiny of their relationships the moment they choose a life lived partly in the media spotlight.",
+    "oppose_zh": "批評者則認為，公眾人物一旦選擇部分活在傳媒聚光燈下的生活，便難免招來對其感情生活的審視。",
+    "oppose_hl": "choose a life lived partly in the media spotlight",
+    "vocab5": [
+     {
+      "en": "publicly acknowledged",
+      "zh": "公開承認"
+     },
+     {
+      "en": "spotted holding hands",
+      "zh": "被拍到拖手"
+     },
+     {
+      "en": "age gap",
+      "zh": "年齡差距"
+     },
+     {
+      "en": "paparazzi photograph",
+      "zh": "偷拍照片"
+     },
+     {
+      "en": "give one's blessing",
+      "zh": "給予祝福"
+     }
+    ],
+    "question_en": "Should the media focus less on the age gap in celebrity relationships and more on other aspects of their lives?",
+    "question_zh": "傳媒應否減少聚焦於名人關係中的年齡差距，而更多關注他們生活的其他方面？",
+    "question_hl": "focus less on the age gap in celebrity relationships"
+   }
   },
   {
    "source_name": "SCMP",
@@ -27406,7 +29521,46 @@
    ],
    "date": "2026-10-23",
    "id": "a80df78d0",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "DSS Schools Add More Visa Pupils",
+    "background_en": "Hong Kong's DSS schools admitted about 20 more visa-holding pupils this year as part of a drive to build the city into an education hub.",
+    "background_zh": "香港直接資助學校今學年新增約二十名持學生簽證的學生，為推動本港成為教育樞紐的一部分。",
+    "background_hl": "build the city into an education hub",
+    "analysis_en": "Treating these places as supplementary, rather than replacing local spots, aims to grow the hub without displacing existing pupils.",
+    "analysis_zh": "將這些學額視為額外增補而非取代本地學額，旨在在不排擠現有學生的情況下發展教育樞紐。",
+    "analysis_hl": "grow the hub without displacing existing pupils",
+    "support_en": "Officials argue drawing fee-paying students from diverse countries strengthens Hong Kong's international profile without public cost.",
+    "support_zh": "官員認為，吸納來自不同國家的自費學生，能提升香港的國際形象，而無須動用公共開支。",
+    "support_hl": "without public cost",
+    "oppose_en": "Some educators worry schools may prioritise fee-paying overseas pupils' needs over those of existing local students over time.",
+    "oppose_zh": "部分教育工作者則擔心，學校長遠或會將自費海外學生的需要，置於現有本地學生之上。",
+    "oppose_hl": "prioritise fee-paying overseas pupils' needs over those of existing local students",
+    "vocab5": [
+     {
+      "en": "bolster standing",
+      "zh": "提升地位"
+     },
+     {
+      "en": "visa-holding pupil",
+      "zh": "持學生簽證學生"
+     },
+     {
+      "en": "self-financing basis",
+      "zh": "自負盈虧基礎"
+     },
+     {
+      "en": "supplementary place",
+      "zh": "額外增補學額"
+     },
+     {
+      "en": "education hub",
+      "zh": "教育樞紐"
+     }
+    ],
+    "question_en": "Can expanding visa-holding pupil numbers at DSS schools genuinely build an education hub without affecting local students?",
+    "question_zh": "擴大直資學校的持簽證學生人數，能否在不影響本地學生的情況下，真正建立教育樞紐？",
+    "question_hl": "genuinely build an education hub without affecting local students"
+   }
   },
   {
    "source_name": "SCMP",
@@ -27553,7 +29707,46 @@
    ],
    "date": "2026-10-24",
    "id": "a19bce6f7",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Hermès Stages Free Heritage Play",
+    "background_en": "Hermès turned West Kowloon's Freespace theatre into a free venue staging a short play about its own 140-year history.",
+    "background_zh": "愛馬仕將西九文化區自由空間黑盒劇場，轉化為免費場地，上演講述其一百四十年歷史的短劇。",
+    "background_hl": "free venue staging a short play about its own 140-year history",
+    "analysis_en": "The production reflects a wider trend of luxury brands using corporate patronage to gain a cultural foothold in public arts venues.",
+    "analysis_zh": "製作反映奢侈品牌日漸透過企業贊助，在公共藝術場地取得文化據點的趨勢。",
+    "analysis_hl": "corporate patronage to gain a cultural foothold",
+    "support_en": "Supporters argue free, professionally staged corporate productions widen public access to quality theatre at no cost to taxpayers.",
+    "support_zh": "支持者認為，免費且專業製作的企業劇場，能擴闊公眾接觸優質戲劇的機會，而無須納稅人付費。",
+    "support_hl": "at no cost to taxpayers",
+    "oppose_en": "Critics worry that corporate-funded storytelling in public venues inevitably promotes brand image alongside any genuine cultural content.",
+    "oppose_zh": "批評者則擔心，企業資助在公共場地講述的故事，難免在真正的文化內容之餘，同時推廣品牌形象。",
+    "oppose_hl": "promotes brand image alongside any genuine cultural content",
+    "vocab5": [
+     {
+      "en": "black-box theatre",
+      "zh": "黑盒劇場"
+     },
+     {
+      "en": "heritage storytelling",
+      "zh": "以傳統歷史為題材的敘事"
+     },
+     {
+      "en": "corporate patronage",
+      "zh": "企業贊助文化活動"
+     },
+     {
+      "en": "craftsmanship heritage",
+      "zh": "工藝傳承"
+     },
+     {
+      "en": "advance booking",
+      "zh": "預先訂座"
+     }
+    ],
+    "question_en": "Should public cultural venues welcome free corporate-funded productions, even if they also serve a brand's image?",
+    "question_zh": "公共文化場地應否歡迎免費的企業資助製作，即使它們同時服務品牌形象？",
+    "question_hl": "welcome free corporate-funded productions"
+   }
   },
   {
    "source_name": "The Standard",
@@ -27705,7 +29898,46 @@
    ],
    "date": "2026-10-24",
    "id": "aa31c52d3",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Lee Pitches HK as 'Super Connector'",
+    "background_en": "Chief Executive John Lee described Hong Kong as a 'super connector' between mainland China and the world at the city's first APEC finance meeting.",
+    "background_zh": "行政長官李家超在香港首次主辦的亞太經合組織財長會議上，形容香港是連接內地與世界的「超級聯繫人」。",
+    "background_hl": "'super connector' between mainland China and the world",
+    "analysis_en": "The joint statement's lack of new specifics suggests symbolic hosting mattered more to Hong Kong than substantive policy outcomes this time.",
+    "analysis_zh": "聯合聲明缺乏新的具體內容，反映這次對香港而言，象徵性的主辦地位比實質政策成果更為重要。",
+    "analysis_hl": "symbolic hosting mattered more to Hong Kong than substantive policy outcomes",
+    "support_en": "Supporters argue the city's common-law system and zero tariffs genuinely set it apart as a trusted bridge for global capital.",
+    "support_zh": "支持者認為，香港的普通法制度及零關稅，確實令其作為全球資本可信橋樑的角色與眾不同。",
+    "support_hl": "genuinely set it apart as a trusted bridge",
+    "oppose_en": "Sceptics note that repeating the 'super connector' label cannot substitute for addressing the city's own structural economic challenges.",
+    "oppose_zh": "質疑者則指出，不斷重複「超級聯繫人」的說法，無法取代正視本港自身的結構性經濟挑戰。",
+    "oppose_hl": "cannot substitute for addressing the city's own structural economic challenges",
+    "vocab5": [
+     {
+      "en": "super connector",
+      "zh": "超級聯繫人"
+     },
+     {
+      "en": "common-law system",
+      "zh": "普通法制度"
+     },
+     {
+      "en": "international financial hub",
+      "zh": "國際金融中心"
+     },
+     {
+      "en": "ministerial-level meeting",
+      "zh": "部長級會議"
+     },
+     {
+      "en": "joint statement",
+      "zh": "聯合聲明"
+     }
+    ],
+    "question_en": "Is branding Hong Kong a 'super connector' a meaningful economic strategy, or mainly a rhetorical device?",
+    "question_zh": "將香港定位為「超級聯繫人」，是具實質意義的經濟策略，還是主要屬於修辭手段？",
+    "question_hl": "meaningful economic strategy, or mainly a rhetorical device"
+   }
   },
   {
    "source_name": "The Standard",
@@ -27857,7 +30089,46 @@
    ],
    "date": "2026-10-24",
    "id": "a16505473",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Viral Video Sparks Wong Tai Sin Abuse Probe",
+    "background_en": "A viral video of an 11-year-old girl with special educational needs pleading for help led to the arrest of her grandmother and domestic helper.",
+    "background_zh": "一段有特殊教育需要的十一歲女童哭著求助的網上短片瘋傳，導致其祖母及外傭被捕。",
+    "background_hl": "led to the arrest of her grandmother and domestic helper",
+    "analysis_en": "The case underscores how children with special educational needs can face heightened risk of abuse going unnoticed within the home.",
+    "analysis_zh": "個案突顯有特殊教育需要的兒童，在家庭內遭受虐待而未被察覺的風險可能更高。",
+    "analysis_hl": "heightened risk of abuse going unnoticed within the home",
+    "support_en": "Child protection advocates argue swift arrest after visible injuries were found shows the system can act decisively once alerted.",
+    "support_zh": "兒童保護倡議者認為，一旦發現明顯傷痕便迅速拘捕，反映系統一經警示即能果斷行動。",
+    "support_hl": "act decisively once alerted",
+    "oppose_en": "Specialists warn that without routine checks on vulnerable children, such abuse can continue for a long time before any video surfaces.",
+    "oppose_zh": "專家則警告，若缺乏對高風險兒童的定期檢查，這類虐待在片段流出前可能已持續一段長時間。",
+    "oppose_hl": "continue for a long time before any video surfaces",
+    "vocab5": [
+     {
+      "en": "special educational needs",
+      "zh": "特殊教育需要"
+     },
+     {
+      "en": "ill-treatment or neglect",
+      "zh": "虐待或忽視"
+     },
+     {
+      "en": "held for questioning",
+      "zh": "扣留調查"
+     },
+     {
+      "en": "tearfully pleading for help",
+      "zh": "哭著求助"
+     },
+     {
+      "en": "visible injuries",
+      "zh": "明顯傷痕"
+     }
+    ],
+    "question_en": "What routine checks could help identify abuse of children with special educational needs before a video has to go viral?",
+    "question_zh": "在片段瘋傳之前，有甚麼定期檢查機制有助及早識別特殊教育需要兒童遭受的虐待？",
+    "question_hl": "identify abuse of children with special educational needs"
+   }
   },
   {
    "source_name": "SCMP",
@@ -28009,7 +30280,46 @@
    ],
    "date": "2026-10-24",
    "id": "ae12b5c10",
-   "needs_backfill": true
+   "slides": {
+    "topic_en": "Hong Kong's Hottest 'Frost' on Record",
+    "background_en": "Hong Kong recorded its hottest-ever 'Frost' solar term as a persistent heatwave pushed temperatures to 32.3 degrees in late October.",
+    "background_zh": "香港錄得有記錄以來最熱的「霜降」節氣，持續的熱浪令十月下旬氣溫升至三十二點三度。",
+    "background_hl": "hottest-ever 'Frost' solar term",
+    "analysis_en": "Scientists attribute the unusual late-season heat to overlapping factors, from a super El Niño to a weakened northeast monsoon.",
+    "analysis_zh": "科學家將這場不尋常的季末酷熱，歸因於多項重疊因素，包括超強厄爾尼諾現象及減弱的東北季候風。",
+    "analysis_hl": "overlapping factors, from a super El Niño to a weakened northeast monsoon",
+    "support_en": "Some scientists see the record as further evidence that climate change is steadily pushing Hong Kong's hot season later into the year.",
+    "support_zh": "部分科學家認為，這項紀錄進一步證明氣候變化正逐步令香港的炎熱季節延後。",
+    "support_hl": "pushing Hong Kong's hot season later into the year",
+    "oppose_en": "Others caution that one record reading, driven partly by a passing typhoon's effects, does not by itself confirm a lasting climate shift.",
+    "oppose_zh": "另一些人則提醒，單一次破紀錄讀數，部分源於一個颱風過後的影響，本身不足以證明氣候出現持久轉變。",
+    "oppose_hl": "does not by itself confirm a lasting climate shift",
+    "vocab5": [
+     {
+      "en": "solar term",
+      "zh": "節氣"
+     },
+     {
+      "en": "Very Hot Weather Warning",
+      "zh": "酷熱天氣警告"
+     },
+     {
+      "en": "subsiding air",
+      "zh": "下沉氣流"
+     },
+     {
+      "en": "super El Niño",
+      "zh": "超強厄爾尼諾現象"
+     },
+     {
+      "en": "northeast monsoon",
+      "zh": "東北季候風"
+     }
+    ],
+    "question_en": "How should Hong Kong adjust public health warnings as traditionally cool seasons increasingly bring unseasonal heatwaves?",
+    "question_zh": "隨著傳統涼爽季節愈趨出現反常熱浪，香港應如何調整公共健康警示？",
+    "question_hl": "adjust public health warnings"
+   }
   },
   {
    "source_name": "SCMP",

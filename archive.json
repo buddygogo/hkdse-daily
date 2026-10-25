@@ -15265,7 +15265,47 @@
     "zh_sub": "承諾無縫過渡迎啓德",
     "en": "Queen Elizabeth Hospital's move to Kai Tak begins next month"
    },
-   "needs_backfill": true
+   "image_scene": "A brand-new hospital tower in Kai Tak with its glass entrance doors open, hospital porters wheeling elderly patients in wheelchairs through a bright lobby while nurses carry folders beside them. In the background, cranes and scaffolding mark the unfinished later phases, with Kowloon Bay visible beyond.",
+   "slides": {
+    "topic_en": "Hospital Relocation to Kai Tak",
+    "background_en": "Queen Elizabeth Hospital will move its services to the new Kai Tak Hospital in stages starting next month.",
+    "background_zh": "伊利沙伯醫院的服務將於下月起分階段遷往新建的啟德醫院。",
+    "background_hl": "in stages",
+    "analysis_en": "The move aims to relieve pressure on overcrowded public hospitals while serving a rapidly ageing population.",
+    "analysis_zh": "搬遷旨在紓緩公立醫院擁擠的壓力,應對持續老化的人口帶來的挑戰。",
+    "analysis_hl": "relieve pressure",
+    "support_en": "A phased handover protects patient safety by avoiding disruption to ongoing treatment and emergency care.",
+    "support_zh": "分階段交接有助保障病人安全,避免影響正在接受的治療及急症服務。",
+    "support_hl": "protects patient safety",
+    "oppose_en": "Critics worry that a drawn-out transition could leave elderly patients confused about where to seek treatment.",
+    "oppose_zh": "批評者擔心過渡期過長,或令年長病人不清楚應到何處求診。",
+    "oppose_hl": "drawn-out transition",
+    "vocab5": [
+     {
+      "en": "healthcare hub",
+      "zh": "醫療樞紐"
+     },
+     {
+      "en": "bed capacity",
+      "zh": "床位容量"
+     },
+     {
+      "en": "ageing population",
+      "zh": "人口老化"
+     },
+     {
+      "en": "waiting times",
+      "zh": "輪候時間"
+     },
+     {
+      "en": "clinical services",
+      "zh": "臨床服務"
+     }
+    ],
+    "question_en": "Should major public services always be relocated gradually, even if it delays full capacity for years?",
+    "question_zh": "公共服務搬遷是否應一律採取循序漸進的方式,即使這意味著要多年後才能全面運作?",
+    "question_hl": "relocated gradually"
+   }
   },
   {
    "source_name": "SCMP",
@@ -15411,7 +15451,47 @@
     "zh_sub": "地緣局勢左右電費走向",
     "en": "HK Electric cuts charge while CLP raises its rate"
    },
-   "needs_backfill": true
+   "image_scene": "A row of electricity pylons and power lines above a quiet Hong Kong residential street at dusk, with lit windows of housing blocks in the background and a resident checking a printed electricity bill at a kitchen table seen through a window.",
+   "slides": {
+    "topic_en": "Diverging Electricity Charges",
+    "background_en": "HK Electric is cutting its fuel charge this October while CLP Power is raising its own rate.",
+    "background_zh": "港燈今年十月下調燃料收費,中電則上調其收費。",
+    "background_hl": "cutting its fuel charge",
+    "analysis_en": "The opposite moves show how exposed household electricity bills are to volatile global fuel and oil prices.",
+    "analysis_zh": "兩電收費走向相反,反映家庭電費極受環球燃料及油價波動影響。",
+    "analysis_hl": "volatile global fuel and oil prices",
+    "support_en": "Rebate schemes and a lower HK Electric charge offer some relief to households facing a rising cost of living.",
+    "support_zh": "回扣計劃及港燈減費為面對生活成本上升的家庭帶來一些緩解。",
+    "support_hl": "Rebate schemes",
+    "oppose_en": "Short-term rebates cannot fix the deeper problem of Hong Kong depending heavily on imported fuel sources.",
+    "oppose_zh": "短期回扣無法解決香港過度依賴進口燃料這個更深層的問題。",
+    "oppose_hl": "depending heavily on imported fuel",
+    "vocab5": [
+     {
+      "en": "fuel clause charge",
+      "zh": "燃料條款收費"
+     },
+     {
+      "en": "geopolitical tensions",
+      "zh": "地緣政治緊張局勢"
+     },
+     {
+      "en": "cost of living",
+      "zh": "生活成本"
+     },
+     {
+      "en": "rebate scheme",
+      "zh": "回扣計劃"
+     },
+     {
+      "en": "renewable energy",
+      "zh": "可再生能源"
+     }
+    ],
+    "question_en": "How far should Hong Kong go in diversifying its energy supply to protect households from price swings?",
+    "question_zh": "香港應在多大程度上使能源供應多元化,以保障家庭免受電費波動的影響?",
+    "question_hl": "diversifying its energy supply"
+   }
   },
   {
    "source_name": "Sunday Examiner",
@@ -15557,7 +15637,47 @@
     "zh_sub": "社評呼籲學校家庭同心支援",
     "en": "Editorial calls for renewed focus on student mental health"
    },
-   "needs_backfill": true
+   "image_scene": "A quiet secondary school corridor in Hong Kong at the start of term, a few students walking past noticeboards with posters about counselling services, and a teacher talking gently with one student outside a classroom. Calm, respectful lighting, no faces shown clearly.",
+   "slides": {
+    "topic_en": "Student Mental Health at Term Start",
+    "background_en": "An editorial has called for renewed attention to secondary students' mental wellbeing as the new term begins.",
+    "background_zh": "一篇社評呼籲在新學年開始之際,重新關注中學生的精神健康。",
+    "background_hl": "renewed attention to secondary students' mental wellbeing",
+    "analysis_en": "Heavy workloads and an exam-centric culture leave many students afraid to admit they are struggling.",
+    "analysis_zh": "繁重的課業及以考試為中心的文化,令許多學生不敢承認自己正面對困難。",
+    "analysis_hl": "afraid to admit they are struggling",
+    "support_en": "School-based counselling and peer support programmes already reach large numbers of students without singling anyone out.",
+    "support_zh": "校本輔導及朋輩支援計劃已惠及大量學生,而不會標籤任何個別學生。",
+    "support_hl": "without singling anyone out",
+    "oppose_en": "Some argue that counselling resources remain too thin to reach every student who is quietly struggling.",
+    "oppose_zh": "有人認為輔導資源仍然不足,未能照顧到每一位默默承受壓力的學生。",
+    "oppose_hl": "too thin to reach every student",
+    "vocab5": [
+     {
+      "en": "academic pressure",
+      "zh": "學業壓力"
+     },
+     {
+      "en": "stigma",
+      "zh": "污名化"
+     },
+     {
+      "en": "emotional resilience",
+      "zh": "情緒韌性"
+     },
+     {
+      "en": "peer support",
+      "zh": "朋輩支援"
+     },
+     {
+      "en": "sense of belonging",
+      "zh": "歸屬感"
+     }
+    ],
+    "question_en": "Should schools judge student wellbeing as seriously as they judge exam results?",
+    "question_zh": "學校應否同樣重視學生的身心健康,而非只看重考試成績?",
+    "question_hl": "judge student wellbeing"
+   }
   },
   {
    "source_name": "Time Out Hong Kong",
@@ -15703,7 +15823,47 @@
     "zh_sub": "BigBang連開四場演唱會",
     "en": "BigBang returns to Hong Kong for four-night Cosmos tour"
    },
-   "needs_backfill": true
+   "image_scene": "The new Kai Tak Stadium at night lit up for a concert, a long queue of excited young and middle-aged fans with glow sticks waiting outside the gates, concert staff checking tickets at a barrier, Kowloon skyline visible behind the stadium roof.",
+   "slides": {
+    "topic_en": "BigBang's Comeback Tour in Hong Kong",
+    "background_en": "K-pop group BigBang will play four nights at Kai Tak Stadium as part of their world comeback tour.",
+    "background_zh": "韓國組合BigBang將於啟德體育園連開四場演唱會,作為其世界復出巡演的一站。",
+    "background_hl": "four nights at Kai Tak Stadium",
+    "analysis_en": "Their enduring popularity shows how reunion tours by veteran groups can still draw fans across generations.",
+    "analysis_zh": "他們歷久不衰的人氣,反映老牌組合的復出巡演仍能吸引跨代歌迷。",
+    "analysis_hl": "draw fans across generations",
+    "support_en": "Hosting major world tours boosts tourism revenue and cements Hong Kong's status as a regional concert hub.",
+    "support_zh": "主辦大型世界巡演能帶動旅遊收益,鞏固香港作為區內演唱會樞紐的地位。",
+    "support_hl": "regional concert hub",
+    "oppose_en": "High ticket prices and the risk of scalping mean many loyal fans may still struggle to attend.",
+    "oppose_zh": "高昂票價及黃牛炒票的風險,意味不少忠實歌迷仍可能難以入場。",
+    "oppose_hl": "risk of scalping",
+    "vocab5": [
+     {
+      "en": "comeback tour",
+      "zh": "復出巡演"
+     },
+     {
+      "en": "fandom",
+      "zh": "粉絲文化"
+     },
+     {
+      "en": "nostalgia economy",
+      "zh": "懷舊經濟"
+     },
+     {
+      "en": "venue infrastructure",
+      "zh": "場地基建"
+     },
+     {
+      "en": "ticket scalping",
+      "zh": "黃牛炒票"
+     }
+    ],
+    "question_en": "Do you think nostalgia for veteran artists says more about the fans or about the artists themselves?",
+    "question_zh": "你認為歌迷對老牌藝人的懷舊情懷,更多反映了歌迷本身,還是藝人本身?",
+    "question_hl": "nostalgia for veteran artists"
+   }
   },
   {
    "source_name": "RTHK",
@@ -15849,7 +16009,47 @@
     "zh_sub": "出口大增 盼育成AI專才",
     "en": "Hong Kong needs more AI talent to drive growth"
    },
-   "needs_backfill": true
+   "image_scene": "A modern Hong Kong office with young professionals of different ages sitting at desks working on laptops showing charts and code, a large window overlooking Central's skyline, a whiteboard with diagrams in the background. No visible text or logos.",
+   "slides": {
+    "topic_en": "Hong Kong's Need for AI Talent",
+    "background_en": "The Financial Secretary says Hong Kong urgently needs more AI talent to sustain economic growth.",
+    "background_zh": "財政司司長表示,香港急需更多人工智能人才以維持經濟增長。",
+    "background_hl": "urgently needs more AI talent",
+    "analysis_en": "A 53 percent jump in AI-related exports shows the sector is becoming central to the local economy.",
+    "analysis_zh": "人工智能相關產品出口按年急升百分之五十三,反映此行業漸成本地經濟的重心。",
+    "analysis_hl": "central to the local economy",
+    "support_en": "Investing early in AI skills could give young job-seekers a real advantage in a fast-changing labour market.",
+    "support_zh": "及早投資人工智能技能,能讓年輕求職者在急速變化的勞動市場中取得真正優勢。",
+    "support_hl": "real advantage",
+    "oppose_en": "Rapid upskilling demands risk leaving behind students whose schools lack the resources to teach advanced AI skills.",
+    "oppose_zh": "急速的技能提升要求,或令學校資源不足、未能教授先進人工智能技能的學生落後。",
+    "oppose_hl": "leaving behind students",
+    "vocab5": [
+     {
+      "en": "cornerstone",
+      "zh": "基石"
+     },
+     {
+      "en": "AI literacy",
+      "zh": "人工智能素養"
+     },
+     {
+      "en": "uncharted territory",
+      "zh": "未知領域"
+     },
+     {
+      "en": "irreplaceable",
+      "zh": "不可替代的"
+     },
+     {
+      "en": "competitive edge",
+      "zh": "競爭優勢"
+     }
+    ],
+    "question_en": "Should secondary schools make AI-related skills a compulsory part of the curriculum?",
+    "question_zh": "中學應否將人工智能相關技能列為必修課程的一部分?",
+    "question_hl": "compulsory part of the curriculum"
+   }
   },
   {
    "source_name": "The Standard",
@@ -15995,7 +16195,47 @@
     "zh_sub": "集中資源 非單為小校解困",
     "en": "School merger scheme aims to pool resources, not just rescue"
    },
-   "needs_backfill": true
+   "image_scene": "A small Hong Kong primary school building with few students in the playground during recess, an empty classroom visible through a window with only a handful of desks occupied, a teacher looking over enrolment papers at a reception desk nearby.",
+   "slides": {
+    "topic_en": "School Mergers to Pool Resources",
+    "background_en": "The Education Bureau will support schools in merging to pool resources rather than only rescue shrinking ones.",
+    "background_zh": "教育局將支持學校合併以集中資源,而非僅為收生不足的學校解困。",
+    "background_hl": "pool resources",
+    "analysis_en": "A falling birth rate has left many smaller schools struggling to fill classrooms and sustain a full curriculum.",
+    "analysis_zh": "出生率下降令不少小型學校難以收足學生,亦難以維持完整課程。",
+    "analysis_hl": "falling birth rate",
+    "support_en": "Merging schools can combine teaching expertise and offer students a wider curriculum than either school could alone.",
+    "support_zh": "學校合併能整合教學專業知識,為學生提供比單一學校更廣闊的課程選擇。",
+    "support_hl": "wider curriculum",
+    "oppose_en": "Mergers can be disruptive for students and staff, especially when two distinct school cultures must blend together.",
+    "oppose_zh": "合併可能對學生和教師造成滋擾,尤其當兩種截然不同的校園文化需要融合。",
+    "oppose_hl": "disruptive for students and staff",
+    "vocab5": [
+     {
+      "en": "shrinking institutions",
+      "zh": "收生不足的學校"
+     },
+     {
+      "en": "fixed quota",
+      "zh": "固定配額"
+     },
+     {
+      "en": "on the brink of closure",
+      "zh": "瀕臨結業"
+     },
+     {
+      "en": "financial and administrative incentives",
+      "zh": "財政及行政誘因"
+     },
+     {
+      "en": "far-reaching implications",
+      "zh": "深遠影響"
+     }
+    ],
+    "question_en": "Is merging small schools a fair way to improve education quality, or does it risk losing a school's identity?",
+    "question_zh": "合併小型學校是否提升教育質素的公平方法,還是會令學校失去其獨特身分?",
+    "question_hl": "losing a school's identity"
+   }
   },
   {
    "source_name": "HKFP",
@@ -16141,7 +16381,47 @@
     "zh_sub": "酷熱日增四倍 暴雨紀錄頻破",
     "en": "Hong Kong's hot days have quadrupled over two decades"
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong street during a heavy rainstorm, pedestrians under umbrellas wading past a flooded pavement near a drain, while on a sunny day shown beside it, people fan themselves in a crowded outdoor market under a clear hot sky. Calm, documentary tone, no text overlays.",
+   "slides": {
+    "topic_en": "Hong Kong's Changing Climate",
+    "background_en": "A new analysis shows the number of very hot days in Hong Kong has quadrupled since the 2000s.",
+    "background_zh": "一項新分析顯示,香港的酷熱日數自二千年代起已增加至四倍。",
+    "background_hl": "quadrupled",
+    "analysis_en": "Rising temperatures and increasingly erratic rainfall point to a climate that is becoming more extreme each year.",
+    "analysis_zh": "氣溫上升及日益反常的降雨模式,顯示氣候每年都變得更加極端。",
+    "analysis_hl": "increasingly erratic rainfall",
+    "support_en": "Improving air quality shows that targeted environmental policies can deliver real, measurable progress over time.",
+    "support_zh": "空氣質素改善顯示,針對性的環保政策能隨時間帶來實質而可量度的進展。",
+    "support_hl": "real, measurable progress",
+    "oppose_en": "The government's carbon neutrality pledge still lacks the concrete, near-term action that scientists say is urgently needed.",
+    "oppose_zh": "政府的碳中和承諾仍欠缺具體的短期行動,而科學家指出這正是急切所需的。",
+    "oppose_hl": "lacks the concrete, near-term action",
+    "vocab5": [
+     {
+      "en": "record-breaking heatwave",
+      "zh": "破紀錄熱浪"
+     },
+     {
+      "en": "red rainstorm warning",
+      "zh": "紅色暴雨警告"
+     },
+     {
+      "en": "intensified precipitation events",
+      "zh": "加劇的降雨事件"
+     },
+     {
+      "en": "carbon neutrality",
+      "zh": "碳中和"
+     },
+     {
+      "en": "vulnerable communities",
+      "zh": "弱勢社群"
+     }
+    ],
+    "question_en": "Who should bear most responsibility for protecting vulnerable communities from Hong Kong's increasingly extreme weather?",
+    "question_zh": "保護弱勢社群免受香港日益極端天氣影響,責任應主要由誰承擔?",
+    "question_hl": "protecting vulnerable communities"
+   }
   },
   {
    "source_name": "Zolima CityMag",
@@ -16289,7 +16569,47 @@
     "en": "Tai Hang's fire dragon lights up Mid-Autumn"
    },
    "summary_zh_html": "<p>香港今年的中秋慶祝活動,在大坑舞火龍——這項傳統已踏入第147屆——再次穿梭於銅鑾灣狹窄街巷之際,迎來高潮。一條長67米、插滿逾一萬二千支燃亮線香的火龍,由約三百名舞者高舉,連續三晚沿浣紗街及銅鑾灣道蜈蚣式舞動,吸引大批市民前來觀賞這項自1880年起大致保持不變的傳統。</p><p>普遍相信,這項已列入國家級<span class=\"bwz\">非物質文化遺產</span>名錄的儀式,最初是因應多年前一場瘟疫侵襲村落而設,目的是<span class=\"bwz\">驅除厄運</span>。然而,這項傳統在過去數十年間經歷不少演變,今年更以一場<span class=\"bwz\">壓軸巡遊</span>進駐維多利亞公園作結,火龍與首次在該場地舉行的國際花燈展同場亮相。壓軸路段的預留座位門票<span class=\"bwz\">早已售罄</span>,但主辦方確保街頭觀賞依然免費開放予所有人。</p><p>同樣地,這個節慶亦凸顯出香港在保存古老習俗與迎合現代旅遊需求之間,須取得的<span class=\"bwz\">微妙平衡</span>。社區長老認為,<span class=\"bwz\">跨代參與</span>——讓兒童手持LED迷你火龍,與資深舞者並肩同行——是讓這些傳承習俗得以延續,而非<span class=\"bwz\">逐漸式微並被淘汰</span>的關鍵。對於正在研習香港文化身份的學生而言,舞火龍提供了一個生動的案例,說明傳統如何能靠積極的社區參與,而非單純懷舊之情,得以延續下去。</p>",
-   "needs_backfill": true
+   "image_scene": "A long fire dragon made of glowing incense sticks winding through a narrow, lantern-lit Tai Hang street at night, carried aloft by rows of performers, with crowds of onlookers of all ages watching from the pavement and shopfronts decorated for Mid-Autumn Festival.",
+   "slides": {
+    "topic_en": "Tai Hang's Fire Dragon Dance",
+    "background_en": "A 67-metre fire dragon wound through Tai Hang's streets for the 147th year during Mid-Autumn Festival.",
+    "background_zh": "一條長六十七米的火龍,在中秋節期間第一百四十七次穿梭大坑街道。",
+    "background_hl": "67-metre fire dragon",
+    "analysis_en": "The ritual highlights how Hong Kong balances preserving age-old customs with the pressures of modern tourism.",
+    "analysis_zh": "這項傳統儀式反映香港在保存古老習俗與應付現代旅遊壓力之間所取得的平衡。",
+    "analysis_hl": "balances preserving age-old customs",
+    "support_en": "Involving children alongside veteran performers helps pass heritage traditions down to the next generation.",
+    "support_zh": "讓兒童與資深表演者同場參與,有助將文化遺產傳承給下一代。",
+    "support_hl": "pass heritage traditions down",
+    "oppose_en": "Growing crowds and sold-out finale tickets risk turning a sacred community ritual into a tourist spectacle.",
+    "oppose_zh": "人潮增加及壓軸巡遊門票售罄,或令這項神聖的社區儀式漸漸變成旅遊表演。",
+    "oppose_hl": "tourist spectacle",
+    "vocab5": [
+     {
+      "en": "intangible cultural heritage",
+      "zh": "非物質文化遺產"
+     },
+     {
+      "en": "ward off misfortune",
+      "zh": "驅除厄運"
+     },
+     {
+      "en": "grand finale procession",
+      "zh": "壓軸巡遊"
+     },
+     {
+      "en": "intergenerational involvement",
+      "zh": "跨代參與"
+     },
+     {
+      "en": "fade into obsolescence",
+      "zh": "逐漸式微"
+     }
+    ],
+    "question_en": "What is the best way for Hong Kong to keep traditions like the fire dragon dance alive for future generations?",
+    "question_zh": "香港應如何最有效地讓舞火龍等傳統得以延續,傳承給未來世代?",
+    "question_hl": "keep traditions"
+   }
   },
   {
    "source_name": "The Standard",
@@ -16435,7 +16755,47 @@
     "zh_sub": "九區同步動工五年規劃啟動",
     "en": "Policy Address unveils Northern Metropolis and AI City Brain"
    },
-   "needs_backfill": true
+   "image_scene": "An aerial view of a large construction site in the Northern Metropolis near the mainland border, excavators and cranes working among cleared land, a new MTR station structure rising nearby, with distant hills and a planned city grid sketched by existing roads.",
+   "slides": {
+    "topic_en": "Policy Address: Northern Metropolis",
+    "background_en": "The Chief Executive's Policy Address unveiled plans for the Northern Metropolis and a new 'AI City Brain'.",
+    "background_zh": "行政長官的施政報告公布北部都會區的發展計劃,以及全新的「智慧城市大腦」。",
+    "background_hl": "Northern Metropolis",
+    "analysis_en": "The plan aims to reshape Hong Kong's economy and skyline through a vast, decade-long development programme.",
+    "analysis_zh": "計劃旨在透過長達十年的大型發展工程,重塑香港的經濟及城市面貌。",
+    "analysis_hl": "reshape Hong Kong's economy",
+    "support_en": "The project promises new housing, jobs and a research hub that could benefit students entering the workforce.",
+    "support_zh": "計劃承諾提供新住屋、就業機會及研究樞紐,有利即將投身職場的學生。",
+    "support_hl": "new housing, jobs and a research hub",
+    "oppose_en": "Critics doubt whether such a sprawling, multi-decade agenda can be delivered on budget and on schedule.",
+    "oppose_zh": "有評論質疑這項龐大而歷時多年的計劃,能否如期並在預算內完成。",
+    "oppose_hl": "sprawling, multi-decade agenda",
+    "vocab5": [
+     {
+      "en": "ageing infrastructure",
+      "zh": "老化的基礎設施"
+     },
+     {
+      "en": "streamline",
+      "zh": "使更簡化、更有效率"
+     },
+     {
+      "en": "magnet for talent and investment",
+      "zh": "人才與投資的磁石"
+     },
+     {
+      "en": "tangible",
+      "zh": "實在的；具體可見的"
+     },
+     {
+      "en": "sprawling agenda",
+      "zh": "龐大而分散的議程"
+     }
+    ],
+    "question_en": "Should the government prioritise large infrastructure projects like the Northern Metropolis over smaller, faster community improvements?",
+    "question_zh": "政府應否將北部都會區等大型基建項目,置於較小型但見效較快的社區改善措施之上?",
+    "question_hl": "large infrastructure projects"
+   }
   },
   {
    "source_name": "OpenGov Asia",
@@ -16581,7 +16941,47 @@
     "zh_sub": "盼緩解伊利沙伯醫院壓力",
     "en": "Kai Tak Hospital opens in phases from October"
    },
-   "needs_backfill": true
+   "image_scene": "A newly opened hospital building in Kai Tak with a steady stream of patients and family members walking through automatic glass doors into a spacious, brightly lit reception hall, hospital staff directing visitors at an information desk, Kowloon rooftops visible through large windows.",
+   "slides": {
+    "topic_en": "Kai Tak Hospital Opens in Phases",
+    "background_en": "Kai Tak Hospital, Hong Kong's largest public hospital, began accepting patients in phases from 5 October.",
+    "background_zh": "啟德醫院為香港最大型的公立醫院,自十月五日起分階段接收病人。",
+    "background_hl": "largest public hospital",
+    "analysis_en": "The 2,400-bed hospital is designed to relieve long-standing overcrowding at the nearby Queen Elizabeth Hospital.",
+    "analysis_zh": "這所設有二千四百張病床的醫院,旨在紓緩鄰近伊利沙伯醫院長期擁擠的問題。",
+    "analysis_hl": "relieve long-standing overcrowding",
+    "support_en": "Covering four densely populated districts, the new hub could shorten waiting times for over 1.8 million residents.",
+    "support_zh": "新院舍覆蓋四個人口密集的地區,有望縮短逾一百八十萬居民的輪候時間。",
+    "support_hl": "shorten waiting times",
+    "oppose_en": "A phased rollout spanning years may cause short-term confusion for patients, particularly elderly ones, about appointments.",
+    "oppose_zh": "歷時多年的分階段推行,或令病人特別是長者,短期內對預約安排感到混亂。",
+    "oppose_hl": "short-term confusion for patients",
+    "vocab5": [
+     {
+      "en": "gross floor area",
+      "zh": "建築總樓面面積"
+     },
+     {
+      "en": "flagship",
+      "zh": "旗艦"
+     },
+     {
+      "en": "dedicated team",
+      "zh": "專責小組"
+     },
+     {
+      "en": "phased rollout",
+      "zh": "分階段推行"
+     },
+     {
+      "en": "significant milestone",
+      "zh": "重要的里程碑"
+     }
+    ],
+    "question_en": "How can hospitals best communicate major changes like this to elderly and vulnerable patients?",
+    "question_zh": "醫院應如何向長者及其他弱勢病人,妥善傳達如此重大的轉變?",
+    "question_hl": "communicate major changes"
+   }
   },
   {
    "source_name": "The Standard",
@@ -16727,7 +17127,47 @@
     "zh_sub": "住戶開支壓力漸增",
     "en": "Inflation holds steady as utility bills surge"
    },
-   "needs_backfill": true
+   "image_scene": "A Hong Kong resident pushing a shopping trolley through a busy wet market, scanning price tags on vegetables and meat, while nearby a wall-mounted electricity meter and a stack of utility bills sit on a table in a small flat kitchen in the background.",
+   "slides": {
+    "topic_en": "Hong Kong's August Inflation",
+    "background_en": "Hong Kong's inflation held at 1.7 percent in August as utility and transport costs kept rising sharply.",
+    "background_zh": "香港八月通脹維持在百分之一點七,水電及交通費用則持續大幅上升。",
+    "background_hl": "utility and transport costs kept rising sharply",
+    "analysis_en": "Steady headline inflation hides how electricity and gas charges have surged far faster than overall prices.",
+    "analysis_zh": "整體通脹數字平穩,卻掩蓋了水電煤氣費用遠較整體物價急升的事實。",
+    "analysis_hl": "surged far faster than overall prices",
+    "support_en": "Robust GDP growth of 5.9 percent suggests the local economy remains fundamentally healthy despite rising costs.",
+    "support_zh": "本地生產總值強勁增長百分之五點九,顯示經濟基調仍然健康,儘管成本上升。",
+    "support_hl": "fundamentally healthy",
+    "oppose_en": "The headline inflation figure understates the real squeeze on families whose utility bills have climbed disproportionately.",
+    "oppose_zh": "整體通脹數字低估了家庭面對的實際壓力,因水電費升幅遠超其他項目。",
+    "oppose_hl": "understates the real squeeze",
+    "vocab5": [
+     {
+      "en": "underlying inflation rate",
+      "zh": "基本通脹率"
+     },
+     {
+      "en": "household expenses",
+      "zh": "住戶開支"
+     },
+     {
+      "en": "basket",
+      "zh": "（物價）籃子"
+     },
+     {
+      "en": "squeeze on household budgets",
+      "zh": "對家庭預算的壓力"
+     },
+     {
+      "en": "robust economic growth",
+      "zh": "強勁的經濟增長"
+     }
+    ],
+    "question_en": "Should official inflation figures be reported differently to better reflect pressure on lower-income families?",
+    "question_zh": "官方通脹數字應否以不同方式呈報,以更真實反映低收入家庭所承受的壓力?",
+    "question_hl": "pressure on lower-income families"
+   }
   },
   {
    "source_name": "SCMP",
@@ -16873,7 +17313,47 @@
     "zh_sub": "葵涌醫院重建後啟用",
     "en": "Hong Kong opens first youth psychiatric ward"
    },
-   "needs_backfill": true
+   "image_scene": "A calm, sunlit hospital ward with a garden visible through large windows, a young patient and a healthcare worker walking quietly along a corridor lined with soft furnishings, no visible faces in distress, a nurse carrying paperwork at a reception counter nearby.",
+   "slides": {
+    "topic_en": "First Youth Psychiatric Facility",
+    "background_en": "Hong Kong has opened its first psychiatric facility dedicated solely to patients under 18 at Kwai Chung Hospital.",
+    "background_zh": "香港首間專為十八歲以下病人而設的精神科設施,在葵涌醫院正式啟用。",
+    "background_hl": "first psychiatric facility dedicated solely to patients under 18",
+    "analysis_en": "The therapeutic design, with gardens and en-suite rooms, reflects a shift towards gentler recovery environments for young patients.",
+    "analysis_zh": "設有花園及套內浴室的療癒式設計,反映醫療機構日漸重視年輕病人的康復環境。",
+    "analysis_hl": "gentler recovery environments",
+    "support_en": "A dedicated youth ward gives young patients privacy and calm, rather than mixing them with older adult patients.",
+    "support_zh": "專屬的青少年病房讓年輕病人享有私隱和安寧,而非與年長病人混合安置。",
+    "support_hl": "privacy and calm",
+    "oppose_en": "Critics warn that new wards alone cannot resolve a crisis rooted in academic pressure and housing unaffordability.",
+    "oppose_zh": "有評論警告,單靠新病房無法解決根源於學業壓力及住屋負擔能力的危機。",
+    "oppose_hl": "cannot resolve a crisis",
+    "vocab5": [
+     {
+      "en": "redevelopment scheme",
+      "zh": "重建計劃"
+     },
+     {
+      "en": "therapeutic environment",
+      "zh": "具療癒作用的環境"
+     },
+     {
+      "en": "en-suite bathroom",
+      "zh": "套內浴室"
+     },
+     {
+      "en": "infrastructure alone cannot resolve",
+      "zh": "單靠基建設施無法解決"
+     },
+     {
+      "en": "stepping stone",
+      "zh": "踏腳步；邁向目標的一步"
+     }
+    ],
+    "question_en": "Is building specialised facilities enough to address Hong Kong's youth mental health crisis, or is more needed?",
+    "question_zh": "興建專科設施是否足以應對香港青少年的精神健康危機,還是需要更多配套?",
+    "question_hl": "youth mental health crisis"
+   }
   },
   {
    "source_name": "The Standard",
@@ -17019,7 +17499,47 @@
     "zh_sub": "入門職位恐首當其衝",
     "en": "Most HK employers see AI boosting jobs, not cutting them"
    },
-   "needs_backfill": true
+   "image_scene": "A small Hong Kong retail shop with a business owner looking at a tablet showing an AI chatbot interface behind the counter, a young employee restocking shelves nearby, delivery boxes stacked near the entrance, a busy street visible through the shopfront window.",
+   "slides": {
+    "topic_en": "AI as a Catalyst for Jobs",
+    "background_en": "An HSBC survey finds over half of Hong Kong entrepreneurs see AI as boosting workforce growth, not cutting jobs.",
+    "background_zh": "滙豐調查發現,逾半香港企業主視人工智能為推動員工增長的因素,而非裁員威脅。",
+    "background_hl": "boosting workforce growth",
+    "analysis_en": "Many firms now see AI as a tool to augment staff productivity rather than replace human workers entirely.",
+    "analysis_zh": "不少企業現時視人工智能為提升員工生產力的工具,而非完全取代人手。",
+    "analysis_hl": "augment staff productivity",
+    "support_en": "Freeing staff from routine tasks lets employees focus on higher-value work such as client relations and strategy.",
+    "support_zh": "讓員工脫離常規工作,有助他們專注於客戶關係及策略等更高價值的工作。",
+    "support_hl": "higher-value work",
+    "oppose_en": "Entry-level clerical positions remain highly vulnerable, raising concerns for young jobseekers entering the labour market.",
+    "oppose_zh": "初級文書職位仍然非常容易受到影響,令剛投身勞動市場的年輕人感到憂慮。",
+    "oppose_hl": "highly vulnerable",
+    "vocab5": [
+     {
+      "en": "catalyst",
+      "zh": "促成因素；催化劑"
+     },
+     {
+      "en": "supplanting human staff",
+      "zh": "取代人手"
+     },
+     {
+      "en": "displacement",
+      "zh": "取代；裁員"
+     },
+     {
+      "en": "secure a foothold",
+      "zh": "在市場中立足"
+     },
+     {
+      "en": "adaptability",
+      "zh": "適應能力"
+     }
+    ],
+    "question_en": "Should secondary school leavers worry more about AI replacing entry-level jobs, or focus on skills AI cannot easily replace?",
+    "question_zh": "中學畢業生應更擔心人工智能取代初級職位,還是應專注培養難以被取代的技能?",
+    "question_hl": "skills AI cannot easily replace"
+   }
   },
   {
    "source_name": "The Standard",
@@ -17165,7 +17685,47 @@
     "zh_sub": "涉太空油市場爭奪",
     "en": "Gang brawl over drug turf renews public concern"
    },
-   "needs_backfill": true
+   "image_scene": "A quiet residential street in Tin Shui Wai at dusk after the crowd has dispersed, a police patrol car with lights on parked near a public housing estate entrance, two officers talking calmly beside it, no people in conflict shown, respectful and composed tone.",
+   "slides": {
+    "topic_en": "Gang Brawl Over 'Space Oil' Trade",
+    "background_en": "A mass street brawl in Tin Shui Wai, linked to the illegal 'space oil' trade, has renewed drug concerns.",
+    "background_zh": "天水圍一場與非法「太空油」交易有關的大型街頭鬥殴,再次引起社會對毒品問題的關注。",
+    "background_hl": "mass street brawl",
+    "analysis_en": "Illicit labs making homemade versions of the drug suggest demand among young users has not weakened.",
+    "analysis_zh": "非法工場自製仿製毒品,反映年輕使用者的需求並未因取締而減弱。",
+    "analysis_hl": "demand among young users has not weakened",
+    "support_en": "Outlawing etomidate and raiding illegal labs shows the government is taking the drug's dangers seriously.",
+    "support_zh": "將依托咪酯列為非法藥物並搜查非法工場,顯示政府正嚴肅看待此藥物的危害。",
+    "support_hl": "taking the drug's dangers seriously",
+    "oppose_en": "Enforcement alone seems insufficient when nearly a third of residents remain unaware of the drug's harmful effects.",
+    "oppose_zh": "近三分之一市民仍不了解該藥物的危害,顯示單靠執法明顯不足。",
+    "oppose_hl": "enforcement alone seems insufficient",
+    "vocab5": [
+     {
+      "en": "circulated on social media",
+      "zh": "在社交媒體上流傳"
+     },
+     {
+      "en": "outlawed",
+      "zh": "列為非法"
+     },
+     {
+      "en": "abate",
+      "zh": "減弱；減退"
+     },
+     {
+      "en": "enforcement",
+      "zh": "執法"
+     },
+     {
+      "en": "dependency",
+      "zh": "依賴；上癮"
+     }
+    ],
+    "question_en": "Is tougher law enforcement or better drug education more effective at tackling youth substance abuse?",
+    "question_zh": "加強執法與加強毒品教育,哪一種方法更能有效應對青少年濫藥問題?",
+    "question_hl": "tackling youth substance abuse"
+   }
   },
   {
    "source_name": "Dim Sum Daily",
@@ -17311,7 +17871,47 @@
     "zh_sub": "逾三萬一千枚煙火彈",
     "en": "Hong Kong marks National Day with harbour fireworks"
    },
-   "needs_backfill": true
+   "image_scene": "Crowds of families and young people gathered along the Tsim Sha Tsui waterfront at night, looking up at a colourful fireworks display bursting over Victoria Harbour, with the Hong Kong Island skyline reflected in the water below. No visible flags, banners or text.",
+   "slides": {
+    "topic_en": "National Day Fireworks Over Harbour",
+    "background_en": "Hong Kong held a 23-minute fireworks display over Victoria Harbour to mark National Day, costing around $18 million.",
+    "background_zh": "香港為慶祝國慶,在維多利亞港上演長達二十三分鐘的煙花表演,耗資約一千八百萬港元。",
+    "background_hl": "23-minute fireworks display",
+    "analysis_en": "Large-scale civic spectacles like this aim to strengthen a shared sense of identity among Hong Kong residents.",
+    "analysis_zh": "此類大型公眾盛事旨在加強香港市民之間共同的身分認同感。",
+    "analysis_hl": "strengthen a shared sense of identity",
+    "support_en": "The event draws mainland tourists during Golden Week, bringing economic benefits alongside symbolic civic meaning.",
+    "support_zh": "活動在黃金周吸引大量內地旅客,為香港帶來經濟效益及象徵意義。",
+    "support_hl": "economic benefits",
+    "oppose_en": "Some commentators question whether such costly displays might be better spent on other pressing community needs.",
+    "oppose_zh": "有評論質疑,這類耗費高昂的表演,是否應將資源投放於其他更迫切的社區需要。",
+    "oppose_hl": "better spent on other pressing community needs",
+    "vocab5": [
+     {
+      "en": "vantage points",
+      "zh": "有利位置"
+     },
+     {
+      "en": "choreographed",
+      "zh": "精心編排的"
+     },
+     {
+      "en": "shared heritage",
+      "zh": "文化遺產"
+     },
+     {
+      "en": "allocated",
+      "zh": "分配"
+     },
+     {
+      "en": "fragmented society",
+      "zh": "分裂的社會"
+     }
+    ],
+    "question_en": "Do public celebrations like fireworks displays genuinely build social unity, or merely provide temporary entertainment?",
+    "question_zh": "像煙花表演這類公眾盛事,是否真正能促進社會團結,還是只能帶來短暫的娛樂?",
+    "question_hl": "build social unity"
+   }
   },
   {
    "source_name": "SCMP",
@@ -17459,7 +18059,47 @@
     "en": "Public flats dropped at Pak Shek Kok rail site"
    },
    "summary_zh_html": "<p>發展局確認就白石角新鐵路站計劃作出臨門<span class=\"bwz\">大轉變</span>後，再次受到社會審視——公屋悄悄被剔出該地段，改由私人樓宇取代。發展局常任秘書長何珮玲星期五向記者表示，該車站屬東鐵綫延線工程的一部分，<span class=\"bwz\">預留</span>最早於二零三三年通車，將改以允許項目發展商在周邊土地興建及出售私人住宅的方式融資。</p><p>普遍認為，此類政策逆轉會削弱公眾對長遠規劃的信心，但官員堅稱這項決定純屬務實考量，並非政治決定。何珮玲解釋，建議車站周邊地區目前缺乏<span class=\"bwz\">必需</span>的社區設施——學校、診所及交通連接——未能支援規模可觀的公共房屋項目，而純粹興建私人樓宇則更能與該區現有發展<span class=\"bwz\">配合</span>。然而，議員已追問發展局，為何未有兌現原來承諾提供部分資助房屋的混合用途規劃藍圖。</p><p>同樣道理，政府亦急於<span class=\"bwz\">緩解</span>公眾對全港房屋供應的憂慮。官員強調，經修訂的建議不會<span class=\"bwz\">危害</span>政府在二零三六年前提供四十二萬個單位（包括二十九萬四千個公共單位）的十年目標，因為據報已在其他地點<span class=\"bwz\">確保</span>足夠土地以達標。然而，評論者認為，像這次的<span class=\"bwz\">臨時</span>調整有可能削弱公眾對北部都會區整體策略的信心，並要求當局在決定此類房屋取捨時提高<span class=\"bwz\">透明度</span>。</p>",
-   "needs_backfill": true
+   "image_scene": "A fenced-off construction site at Pak Shek Kok near a half-built railway station, with a planning hoarding showing blueprint-style illustrations of residential towers, a few residents pausing to look at the site from the pavement, hills and the harbour visible in the distance.",
+   "slides": {
+    "topic_en": "Pak Shek Kok Housing U-turn",
+    "background_en": "Officials confirmed public housing was dropped from the new Pak Shek Kok rail station site in favour of private flats.",
+    "background_zh": "官員確認白石角新車站用地的公屋計劃被取消,改為興建私人住宅。",
+    "background_hl": "public housing was dropped",
+    "analysis_en": "The reversal has raised questions about whether long-term housing plans can really be trusted to stay fixed.",
+    "analysis_zh": "這次政策逆轉令人質疑,長遠房屋規劃是否真的能夠保持不變。",
+    "analysis_hl": "really be trusted to stay fixed",
+    "support_en": "Officials say private flats better suit an area that still lacks schools, clinics and transport links for public estates.",
+    "support_zh": "官員指出,私人住宅較適合配套不足的地區,因該處仍欠缺學校、診所及交通連接。",
+    "support_hl": "lacks schools, clinics and transport links",
+    "oppose_en": "Critics argue such ad hoc changes risk eroding public confidence in the wider Northern Metropolis strategy.",
+    "oppose_zh": "有評論認為,這類臨時調整或會削弱公眾對整個北部都會區策略的信心。",
+    "oppose_hl": "eroding public confidence",
+    "vocab5": [
+     {
+      "en": "U-turn",
+      "zh": "政策上的大轉變"
+     },
+     {
+      "en": "earmarked",
+      "zh": "指定用途的；預留的"
+     },
+     {
+      "en": "allay public anxiety",
+      "zh": "減輕公眾憂慮"
+     },
+     {
+      "en": "jeopardise",
+      "zh": "危害；使陷入危險"
+     },
+     {
+      "en": "transparency",
+      "zh": "透明度"
+     }
+    ],
+    "question_en": "How much should the government be held accountable when it reverses a long-promised housing commitment?",
+    "question_zh": "當政府推翻一項長期承諾的房屋政策時,應在多大程度上承擔責任?",
+    "question_hl": "held accountable"
+   }
   },
   {
    "source_name": "SCMP",
@@ -17605,7 +18245,47 @@
     "zh_sub": "顧問籲擴至全體學生",
     "en": "Adviser urges wider mental health support for youth"
    },
-   "needs_backfill": true
+   "image_scene": "A secondary school classroom with ordinary students of mixed performance quietly studying at their desks, one student looking at a phone screen with a worried expression, a poster about mental health support visible on the wall, a teacher observing calmly from the front of the room.",
+   "slides": {
+    "topic_en": "Widening Youth Mental Health Support",
+    "background_en": "A government adviser has urged Hong Kong to extend mental health support beyond students already flagged as high-risk.",
+    "background_zh": "一名政府顧問促請香港將精神健康支援擴展至不僅限於已被標籤為高風險的學生。",
+    "background_hl": "extend mental health support",
+    "analysis_en": "Some affected teenagers came from stable families and showed no obvious warning signs, complicating prevention efforts.",
+    "analysis_zh": "部分受影響的青少年來自穩定家庭,亦沒有明顯的預警跡象,令預防工作更為困難。",
+    "analysis_hl": "complicating prevention efforts",
+    "support_en": "Extending support to the general student population could reach struggling teenagers that narrow schemes currently miss.",
+    "support_zh": "將支援擴展至全體學生,有助接觸到目前針對性計劃未能觸及的受困青少年。",
+    "support_hl": "reach struggling teenagers",
+    "oppose_en": "Experts caution that an expanded scheme risks becoming merely symbolic unless it receives genuinely sufficient funding.",
+    "oppose_zh": "專家警告,若缺乏真正充足的資源,擴大計劃或只會流於象徵性質。",
+    "oppose_hl": "merely symbolic",
+    "vocab5": [
+     {
+      "en": "warning signs",
+      "zh": "警號；預警跡象"
+     },
+     {
+      "en": "targeting high-risk individuals",
+      "zh": "針對高風險人士"
+     },
+     {
+      "en": "harmful content",
+      "zh": "有害內容"
+     },
+     {
+      "en": "general student population",
+      "zh": "全體學生"
+     },
+     {
+      "en": "sustained investment",
+      "zh": "持續的投資"
+     }
+    ],
+    "question_en": "Should mental health resources be spread across all students, or concentrated on those identified as high-risk?",
+    "question_zh": "精神健康資源應該平均分配給全體學生,還是集中於被識別為高風險的學生?",
+    "question_hl": "spread across all students"
+   }
   },
   {
    "source_name": "SCMP",
@@ -17753,7 +18433,47 @@
     "en": "Graduates face a job market reshaped by AI"
    },
    "summary_zh_html": "<p>香港的新畢業生正面對日益不明朗的<span class=\"bwz\">勞動市場</span>，因為人工智能正逐步取代昔日曾作為踏入全職事業<span class=\"bwz\">踏腳石</span>的常規工作。據勞動市場專家指出，適合大學畢業生的全職職位空缺數目，已由二零二二年約八萬個，<span class=\"bwz\">急劇下跌</span>至去年僅三萬一千個，這一跌幅普遍被歸因於全城各辦公室迅速採用人工智能工具。</p><p>普遍認為，行政支援、文書工作及其他<span class=\"bwz\">入門級</span>職位——向來是年輕求職者最容易踏入職場的途徑——正被自動化系統性取代。一名專家直言警告：「年輕人願意學習及努力工作，已不再必然能夠找到工作」，凸顯職場上有關<span class=\"bwz\">精英制度</span>的傳統假設正受到考驗。勞工顧問委員會一名成員進一步警告，僱主日益重視即時生產力，令許多機構不願意為缺乏經驗的新人投資<span class=\"bwz\">在職培訓</span>。</p><p>然而，並非所有聲音都偏向悲觀。正如自動化威脅著某些職位，它同時亦正在將需求轉向新的技能組合：一項全球調查發現，僱主日益重視批判思考、數據分析及<span class=\"bwz\">合乎道德的決策</span>，多於單純的常規能力。評論者則認為，若缺乏針對性的再培訓計劃及政府支援，即使入門機會持續消失，亦可能出現經驗豐富的本地人才<span class=\"bwz\">持續短缺</span>的情況。</p>",
-   "needs_backfill": true
+   "image_scene": "A university graduate in a gown holding a certificate, standing outside a Hong Kong office building scanning a job board on a phone with a worried expression, other young job-seekers queuing nearby at a careers fair booth with laptops on the tables.",
+   "slides": {
+    "topic_en": "Graduates Facing an AI Job Market",
+    "background_en": "Full-time graduate vacancies in Hong Kong have fallen from about 80,000 in 2022 to just 31,000 last year.",
+    "background_zh": "香港全職畢業生職位空缺,已由二零二二年約八萬個,大幅下跌至去年僅三萬一千個。",
+    "background_hl": "fallen from about 80,000",
+    "analysis_en": "AI is steadily absorbing the routine entry-level tasks that once served as a stepping stone into careers.",
+    "analysis_zh": "人工智能正逐步取代曾是職涯踏腳石的常規初級工作。",
+    "analysis_hl": "stepping stone into careers",
+    "support_en": "Automation is reshaping demand towards critical thinking, data analysis and ethical decision-making rather than routine competence.",
+    "support_zh": "自動化正將市場需求轉向批判思維、數據分析及合乎道德的決策,而非常規能力。",
+    "support_hl": "critical thinking, data analysis",
+    "oppose_en": "Without targeted retraining schemes, a shortage of experienced local talent could emerge even as entry jobs vanish.",
+    "oppose_zh": "若缺乏針對性的再培訓計劃,即使初級職位消失,本地經驗人才仍可能出現短缺。",
+    "oppose_hl": "shortage of experienced local talent",
+    "vocab5": [
+     {
+      "en": "labour market",
+      "zh": "勞動市場"
+     },
+     {
+      "en": "plummeted",
+      "zh": "急劇下跌"
+     },
+     {
+      "en": "meritocracy",
+      "zh": "精英制度"
+     },
+     {
+      "en": "on-the-job training",
+      "zh": "在職培訓"
+     },
+     {
+      "en": "persistent shortage",
+      "zh": "持續的短缺"
+     }
+    ],
+    "question_en": "How should universities change their courses to better prepare graduates for an AI-reshaped job market?",
+    "question_zh": "大學應如何調整課程,以更好地讓畢業生應對被人工智能重塑的職場?",
+    "question_hl": "AI-reshaped job market"
+   }
   },
   {
    "source_name": "The Standard",
@@ -17899,7 +18619,47 @@
     "zh_sub": "留任顧問一年助過渡",
     "en": "Hang Lung names new CEO as Weber Lo departs"
    },
-   "needs_backfill": true
+   "image_scene": "A modern Hong Kong corporate office lobby with marble floors, two business executives in suits shaking hands near a reception desk, one slightly older and one younger, shopping mall storefronts visible through glass doors leading outside.",
+   "slides": {
+    "topic_en": "Hang Lung's Leadership Handover",
+    "background_en": "Hang Lung Group's CEO Weber Lo stepped down on October 1, handing the role to successor Leo Tsoi.",
+    "background_zh": "恒隆集團行政總裁羅義德於十月一日卸任,交由接任人蔡德銓接棒。",
+    "background_hl": "stepped down",
+    "analysis_en": "The staged succession reflects a broader trend among family-controlled conglomerates seeking to future-proof their leadership.",
+    "analysis_zh": "這次有序的交接反映家族企業集團普遍趨向,為未來的領導層作好準備。",
+    "analysis_hl": "future-proof their leadership",
+    "support_en": "Keeping Lo as an adviser for a year lends continuity even as day-to-day decisions pass to his successor.",
+    "support_zh": "讓羅義德留任顧問一年,在決策權交予接任人之際,仍能維持一定延續性。",
+    "support_hl": "lends continuity",
+    "oppose_en": "Analysts warn that leadership change alone cannot resolve structural challenges like high interest rates and weak tourist spending.",
+    "oppose_zh": "分析師警告,單靠換帥無法解決利率高企及旅客消費疲弱等結構性挑戰。",
+    "oppose_hl": "cannot resolve structural challenges",
+    "vocab5": [
+     {
+      "en": "leadership transition",
+      "zh": "領導層過渡"
+     },
+     {
+      "en": "smooth handover",
+      "zh": "順利交接"
+     },
+     {
+      "en": "retail headwinds",
+      "zh": "零售業的不利因素"
+     },
+     {
+      "en": "favourable sign",
+      "zh": "有利的跡象"
+     },
+     {
+      "en": "regain momentum",
+      "zh": "重新獲得動力"
+     }
+    ],
+    "question_en": "Does a change of CEO really make a meaningful difference to a company facing deep structural problems?",
+    "question_zh": "更換行政總裁,是否真能為面對深層結構性問題的企業帶來實質改變?",
+    "question_hl": "meaningful difference"
+   }
   },
   {
    "source_name": "SCMP",
@@ -18055,7 +18815,47 @@
     "zh_sub": "香港金牌數破雙位數",
     "en": "Hong Kong windsurfers win historic double gold"
    },
-   "needs_backfill": true
+   "image_scene": "Two young Hong Kong windsurfers racing on turquoise water under a clear sky, sails brightly coloured, spray flying off their boards, a small crowd of supporters waving on a nearby pier watching the race at the Asian Games venue in Japan.",
+   "slides": {
+    "topic_en": "Windsurfers' Historic Double Gold",
+    "background_en": "Hong Kong's teenage windsurfers Wong Tsz-ho and Cheung Tsz-yuet both won gold at the Asian Games in Japan.",
+    "background_zh": "香港青年風帆選手黃梓浩及張紫月,在日本亞運會同時贏得金牌。",
+    "background_hl": "both won gold",
+    "analysis_en": "Their twin triumphs pushed Hong Kong's gold tally into double figures for the first time in the Games' history.",
+    "analysis_zh": "兩人雙喜臨門,令香港歷來首次在亞運會贏得雙位數金牌。",
+    "analysis_hl": "double figures for the first time",
+    "support_en": "Officials credit sustained investment in grassroots training pathways for finally producing this breakthrough generation of athletes.",
+    "support_zh": "官員將這次突破歸功於持續投資基層培訓途徑,終於培養出突破性的一代運動員。",
+    "support_hl": "breakthrough generation of athletes",
+    "oppose_en": "Observers caution that converting isolated victories into a lasting sporting legacy requires continued funding long after the Games.",
+    "oppose_zh": "觀察者提醒,要將單次勝利轉化為持久的體育傳承,仍需在賽後持續投放資源。",
+    "oppose_hl": "lasting sporting legacy",
+    "vocab5": [
+     {
+      "en": "watershed moment",
+      "zh": "轉捩點；分水嶺"
+     },
+     {
+      "en": "commanding display",
+      "zh": "壓倒性的表現"
+     },
+     {
+      "en": "grassroots pathways",
+      "zh": "基層培訓途徑"
+     },
+     {
+      "en": "tangible results",
+      "zh": "實質成果"
+     },
+     {
+      "en": "fleeting high point",
+      "zh": "曇花一現；短暫的高峰"
+     }
+    ],
+    "question_en": "What does Hong Kong need to do to turn occasional sporting triumphs into a lasting sporting culture?",
+    "question_zh": "香港需要怎樣做,才能將偶然的體育成就轉化為持久的體育文化?",
+    "question_hl": "lasting sporting culture"
+   }
   },
   {
    "source_name": "HK01",

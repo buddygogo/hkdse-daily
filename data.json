@@ -3,723 +3,341 @@
   "articles": [
     {
       "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/magazines/style/luxury/luxury-news/article/3371881/style-edit-hermes-brings-its-history-stage-hong-kongs-west-kowloon",
-      "published_date": "23 October 2026",
-      "headline": "Hermès Turns West Kowloon Freespace into Free Stage for 140-Year House Story",
-      "category": "arts",
-      "summary_html": "<p>French luxury house Hermès has turned the Freespace <span class=\"bw\">black-box theatre<span class=\"tip\"><span class=\"tip-en\">a simple, flexible performance space with plain walls, used for experimental staging</span><span class=\"tip-zh\">黑盒劇場（簡約多用途表演場地）</span></span></span> at the West Kowloon Cultural District into a free venue for <span class=\"bw\">heritage storytelling<span class=\"tip\"><span class=\"tip-en\">using history and tradition as the basis of a narrative to inform or persuade an audience</span><span class=\"tip-zh\">以傳統歷史為題材的敘事</span></span></span>, staging a short play about its own 140-year history alongside a standalone exhibition of archival objects. Running from 24 October to 8 November, the production, “Hermèstories”, was written by Pauline Bayle and directed by Joe Hufton under the house's corporate foundation, and forms part of a wider pattern of <span class=\"bw\">corporate patronage<span class=\"tip\"><span class=\"tip-en\">support, especially financial, given by a company to the arts or another cause</span><span class=\"tip-zh\">企業贊助文化活動</span></span></span> of public cultural venues in Hong Kong.</p><p>Suitable for audiences aged seven and above, the roughly 50-minute performance traces the maison's origins as a saddlery and its <span class=\"bw\">craftsmanship heritage<span class=\"tip\"><span class=\"tip-en\">a legacy of skilled, traditional methods of making things by hand</span><span class=\"tip-zh\">工藝傳承</span></span></span> in leatherwork, while the accompanying exhibition can be visited independently during the day. Admission is free, though organisers recommend <span class=\"bw\">advance booking<span class=\"tip\"><span class=\"tip-en\">the act of reserving a place or ticket before the day of the event</span><span class=\"tip-zh\">預先訂座</span></span></span> given limited seating, with walk-in visitors admitted only when places remain. The project is not staged on 26 October or 2 November, when Freespace reverts to its usual public programming.</p><p>The collaboration illustrates the growing use of <span class=\"bw\">cultural placemaking<span class=\"tip\"><span class=\"tip-en\">the use of arts and cultural activity to shape the character and identity of a public space</span><span class=\"tip-zh\">以文化活動塑造地方特色</span></span></span> by international brands seeking to deepen their presence in the <span class=\"bw\">flagship cultural district<span class=\"tip\"><span class=\"tip-en\">the principal, most prominent cultural zone representing a city's cultural ambitions</span><span class=\"tip-zh\">旗艦文化區</span></span></span>, raising a familiar question for commentators: whether such sponsored programming genuinely enriches the public's access to the arts or risks <span class=\"bw\">blurring the distinction between commerce and culture<span class=\"tip\"><span class=\"tip-en\">making the difference between business promotion and genuine cultural activity less clear</span><span class=\"tip-zh\">模糊商業與文化的分界</span></span></span>. For many Hong Kong families, however, free admission lowers a financial barrier that commercial galleries and ticketed exhibitions elsewhere in the district do not.</p>",
-      "summary_zh_html": "<p>法國奢侈品牌愛馬仕將西九文化區的自由空間<span class=\"bwz\">黑盒劇場</span>變成免費場地，透過<span class=\"bwz\">以傳統歷史為題材的敘事</span>方式，上演一個關於品牌一百四十年歷史的短劇，並同場設有獨立的典藏品展覽。製作名為《愛馬仕故事》（Hermèstories），由十月二十四日至十一月八日舉行，劇本由寶琳·貝爾（Pauline Bayle）撰寫，祖·赫夫頓（Joe Hufton）執導，由品牌企業基金會主辦，屬<span class=\"bwz\">企業贊助文化活動</span>的最新例子，反映此類合作在香港日益普遍。</p><p>這套約五十分鐘的演出適合七歲或以上觀眾，追溯品牌由馬具工場起家、以及皮革製作的<span class=\"bwz\">工藝傳承</span>；附設展覽則可於日間獨立參觀，無須觀看演出。活動免費入場，但主辦方建議觀眾<span class=\"bwz\">預先訂座</span>，因座位有限，現場候補名額視乎剩餘座位而定。十月二十六日及十一月二日休演，期間自由空間將回復一般公眾節目。</p><p>這次合作反映國際品牌日益透過<span class=\"bwz\">以文化活動塑造地方特色</span>手法，加深其在這個<span class=\"bwz\">旗艦文化區</span>的存在感，亦引來論者慣常提出的疑問：這類由品牌贊助的節目，究竟是真正拓寬大眾接觸藝術的機會，還是有<span class=\"bwz\">模糊商業與文化的分界</span>之虞。然而對不少香港家庭而言，免費入場畢竟消除了區內其他商業畫廊及收費展覽所設下的經濟門檻。</p>",
-      "image_scene": "Inside a minimalist white theatre pavilion at West Kowloon's waterfront Freespace, a small seated audience of anonymous adults and children watches two performers acting out a scene among vintage leather saddles and travel trunks displayed on pedestals; floor-to-ceiling glass doors behind them reveal Victoria Harbour and the Hong Kong Island skyline at dusk.",
-      "cover_text": {
-        "zh_kicker": "西九藝術",
-        "zh_title": [
-          "愛馬仕開騷",
-          "免費入場"
+      "source_url": "https://www.scmp.com/news/hong-kong/society/article/3372034/2-projector-stands-removed-controversial-peak-lighting-project-after-outcry",
+      "published_date": "24 October 2026",
+      "headline": "Two Projector Stands Removed From Controversial Peak Lighting Project After Public Outcry",
+      "category": "hk",
+      "summary_html": "<p>A lighting installation along the walking trail on Victoria Peak has triggered a wave of public anger, forcing the Hong Kong Tourism Board to <span class=\"bw\">backpedal<span class=\"tip\"><span class=\"tip-en\">to retreat from a previous position or plan</span><span class=\"tip-zh\">改變立場；退讓</span></span></span> on part of the scheme. The project, intended to accompany a new light-and-sound show replacing the long-running &ldquo;A Symphony of Lights&rdquo; for this year&rsquo;s WinterFest, involved installing projectors and fittings along Lugard Road and Harlech Road. Residents accused the board of <span class=\"bw\">felling<span class=\"tip\"><span class=\"tip-en\">cutting down trees</span><span class=\"tip-zh\">砍伐</span></span></span> mature trees and flowering shrubs to make way for the equipment, posting photographs online of bare patches where greenery once stood. The backlash grew so intense that related works were suspended pending a review.</p><p>The Tourism Board has defended its handling of the project, insisting it briefed the local district council as early as April and held further sessions with residents, government departments and tree experts in May and September. Yet a lawmaker <span class=\"bw\">disputed<span class=\"tip\"><span class=\"tip-en\">to question or challenge the truth of something</span><span class=\"tip-zh\">質疑；反駁</span></span></span> this account, stating that Central and Western district councillor Jeremy Young Chit-on had not in fact been consulted at the outset. Secretary for Culture, Sports and Tourism Rosanna Law sought to calm tensions, stressing that &ldquo;nothing is set in stone yet&rdquo; and promising a broader round of consultation before any further discussion at the District Council.</p><p>On Saturday, Commissioner for Tourism Ann Chan walked the trail alongside a lawmaker and the district councillor to inspect the disputed stretch firsthand. Shortly afterwards, two large metal projector stands were taken down, though strings of lights remain fixed to several trees along the route. The episode illustrates the delicate balance that Hong Kong&rsquo;s tourism authorities must strike between staging <span class=\"bw\">eye-catching<span class=\"tip\"><span class=\"tip-en\">attracting attention through visual appeal</span><span class=\"tip-zh\">引人注目的</span></span></span> attractions for visitors and <span class=\"bw\">safeguarding<span class=\"tip\"><span class=\"tip-en\">protecting from harm or damage</span><span class=\"tip-zh\">保護；維護</span></span></span> green spaces that residents treasure as part of the city&rsquo;s natural heritage. Whether the remaining installations survive the promised review remains to be seen.</p>",
+      "summary_zh_html": "<p>太平山頂行人徑上的一項燈飾工程引發公眾強烈不滿，迫使香港旅遊發展局在部分方案上<span class=\"bwz\">改變立場</span>。該項目原意是配合今年冬日購物節取代長年舉辦的「幻彩詠香江」而設的全新燈光音樂表演，涉及在盧吉道及夏力道沿線安裝投影機及燈具。居民指控當局為安裝設備而<span class=\"bwz\">砍伐</span>多棵成年樹木及花叢，並在網上發布光禿禿地面的照片。公眾反彈之猛烈，令相關工程須暫時擱置以待檢討。</p><p>旅遊發展局為其處理方式辯護，堅稱早於四月已向當區區議會簡介計劃，並於五月及九月進一步與居民、政府部門及樹木專家會面。然而有議員<span class=\"bwz\">質疑</span>此說法，指中西區區議員楊哲安在最初階段根本未獲諮詢。文化體育及旅遊局局長羅淑佩試圖平息爭議，強調「一切尚未成為定局」，並承諾在區議會進一步討論前展開更廣泛的諮詢。</p><p>星期六，旅遊事務專員陳蓉聯同一名議員及該區區議員親身步行該行人徑視察爭議路段。事件發生後不久，兩個大型金屬投影機支架被拆除，但沿途仍有多棵樹木纏繞着燈飾。這次事件說明香港旅遊當局須在打造<span class=\"bwz\">引人注目</span>的旅客景點與<span class=\"bwz\">保護</span>居民珍視的綠色空間之間取得微妙平衡。餘下的裝置能否通過承諾的檢討,仍是未知數。</p>",
+      "image_scene": "A hillside walking trail on Victoria Peak at dusk, bare patches of soil where trees once stood beside strings of coloured lights still wound around remaining trees; two empty metal stands lying removed on the path, with Hong Kong's skyline and harbour glowing faintly below in the distance.",
+      "slides": {
+        "topic_en": "The Peak Lighting Project Controversy",
+        "background_en": "Residents accused the Tourism Board of felling trees on the Peak trail to install lights for a new WinterFest light show.",
+        "background_zh": "居民指控旅遊發展局為裝設冬日購物節新燈光表演而砍伐山頂行人徑的樹木。",
+        "background_hl": "felling trees",
+        "analysis_en": "The row shows how tourism promotion and environmental protection can collide on a small, treasured hillside trail.",
+        "analysis_zh": "爭議顯示旅遊推廣與環境保護如何在一條珍貴的小型山徑上產生衝突。",
+        "analysis_hl": "tourism promotion and environmental protection can collide",
+        "support_en": "Supporters say eye-catching night attractions keep Hong Kong competitive against rival tourist cities.",
+        "support_zh": "支持者認為引人注目的夜間景點有助香港在旅遊競爭中保持優勢。",
+        "support_hl": "eye-catching night attractions",
+        "oppose_en": "Critics argue that no tourist gimmick justifies felling mature trees on a much-loved public trail.",
+        "oppose_zh": "批評者認為,任何旅遊噱頭都不能成為砍伐珍貴公共行人徑成年樹木的理由。",
+        "oppose_hl": "no tourist gimmick justifies felling mature trees",
+        "vocab5": [
+          {"en": "backpedal", "zh": "改變立場；退讓"},
+          {"en": "fell a tree", "zh": "砍伐樹木"},
+          {"en": "safeguard green spaces", "zh": "保護綠色空間"},
+          {"en": "strike a balance", "zh": "取得平衡"},
+          {"en": "public outcry", "zh": "公眾強烈不滿"}
         ],
-        "zh_hl": "免費",
-        "zh_sub": "免費展演至11.8",
-        "en": "Hermès brings free heritage theatre and exhibition to West Kowloon"
+        "question_en": "Should Hong Kong accept short-term environmental damage for tourism projects that boost visitor numbers?",
+        "question_zh": "香港應否為提升旅客人數的旅遊項目,接受短期的環境破壞?",
+        "question_hl": "short-term environmental damage"
+      },
+      "cover_text": {
+        "zh_kicker": "山頂燈飾",
+        "zh_title": ["山頂燈飾", "惹議拆架"],
+        "zh_hl": "拆架",
+        "zh_sub": "旅發局承諾檢討工程",
+        "en": "Two projector stands removed from Peak trail after tree-felling outcry"
       },
       "vocab": [
-        {
-          "phrase": "heritage storytelling",
-          "zh": "歷史敘事",
-          "sample": "By combining heritage storytelling with live performance, the brand invited visitors to experience its history rather than simply read about it."
-        },
-        {
-          "phrase": "corporate patronage",
-          "zh": "企業贊助",
-          "sample": "Corporate patronage of public cultural venues has become increasingly common as brands seek goodwill among local audiences."
-        },
-        {
-          "phrase": "black-box theatre",
-          "zh": "黑盒劇場",
-          "sample": "The black-box theatre's bare walls allowed the designers to transform the space into a workshop scene within minutes."
-        },
-        {
-          "phrase": "craftsmanship heritage",
-          "zh": "工藝傳承",
-          "sample": "The exhibition celebrated the maison's craftsmanship heritage, tracing each stitch back to techniques used over a century ago."
-        },
-        {
-          "phrase": "advance booking",
-          "zh": "預先訂座",
-          "sample": "Visitors were advised to make an advance booking, as free tickets to the limited sessions were expected to run out quickly."
-        },
-        {
-          "phrase": "cultural placemaking",
-          "zh": "文化場域塑造",
-          "sample": "Cultural placemaking projects like this one aim to give a waterfront district a distinct artistic identity."
-        },
-        {
-          "phrase": "flagship cultural district",
-          "zh": "旗艦文化區",
-          "sample": "As Hong Kong's flagship cultural district, West Kowloon has become a magnet for international brands seeking visibility."
-        },
-        {
-          "phrase": "brand-sponsored programming",
-          "zh": "品牌贊助節目",
-          "sample": "Some critics worry that brand-sponsored programming could gradually crowd out independent local productions."
-        },
-        {
-          "phrase": "archival exhibition",
-          "zh": "典藏展覽",
-          "sample": "The archival exhibition displayed objects spanning the company's entire history, from its earliest workshop tools to recent designs."
-        },
-        {
-          "phrase": "immersive performance",
-          "zh": "沉浸式演出",
-          "sample": "The immersive performance placed the audience among the props, making them feel part of the unfolding story."
-        },
-        {
-          "phrase": "public access to the arts",
-          "zh": "大眾接觸藝術的機會",
-          "sample": "Free admission widened public access to the arts for families who might otherwise avoid ticketed exhibitions."
-        }
+        {"phrase": "backpedal", "zh": "改變立場；退讓", "sample": "The Tourism Board had to backpedal on part of the lighting plan after residents complained."},
+        {"phrase": "fell a tree", "zh": "砍伐樹木", "sample": "Workers were accused of felling several mature trees to install the lighting fixtures."},
+        {"phrase": "safeguard green spaces", "zh": "保護綠色空間", "sample": "District councillors called on the board to safeguard green spaces before resuming the project."},
+        {"phrase": "strike a balance", "zh": "取得平衡", "sample": "Officials must strike a balance between tourism promotion and environmental protection."},
+        {"phrase": "public outcry", "zh": "公眾強烈不滿", "sample": "The felled trees sparked a public outcry that forced the project to be suspended."},
+        {"phrase": "walking trail", "zh": "行人徑", "sample": "The lighting installation runs along a popular walking trail on Victoria Peak."},
+        {"phrase": "mature tree", "zh": "成年樹木", "sample": "Several mature trees were removed to make space for the new projector stands."},
+        {"phrase": "bare patch", "zh": "光禿禿的地面", "sample": "Photographs showed bare patches of soil where the shrubs used to grow."},
+        {"phrase": "hold a consultation session", "zh": "舉行諮詢會議", "sample": "The board says it held a consultation session with residents back in May."},
+        {"phrase": "suspend works", "zh": "暫停工程", "sample": "Officials agreed to suspend works on the disputed stretch pending a review."},
+        {"phrase": "inspect a site", "zh": "視察現場", "sample": "The tourism commissioner inspected the site together with a local lawmaker."},
+        {"phrase": "treasured heritage", "zh": "珍貴的傳統", "sample": "Residents see the Peak's greenery as part of the city's treasured natural heritage."}
       ],
       "phrases": [
-        {
-          "en": "lower the financial threshold for cultural participation",
-          "zh": "降低參與文化活動的經濟門檻",
-          "sample": "Free admission lowers the financial threshold for cultural participation, letting low-income families enjoy exhibitions they might otherwise skip."
-        },
-        {
-          "en": "blur the line between commerce and culture",
-          "zh": "模糊商業與文化的分界",
-          "sample": "When a fashion house stages its own theatre production, it inevitably blurs the line between commerce and culture."
-        },
-        {
-          "en": "lend prestige to a public venue",
-          "zh": "為公共場地增添聲望",
-          "sample": "Hosting an internationally recognised brand can lend prestige to a public venue still building its reputation."
-        },
-        {
-          "en": "serve as a stage for brand storytelling",
-          "zh": "成為品牌敘事的舞台",
-          "sample": "The theatre came to serve as a stage for brand storytelling rather than purely independent artistic expression."
-        },
-        {
-          "en": "deepen a brand's cultural footprint",
-          "zh": "加深品牌的文化足跡",
-          "sample": "Sponsoring exhibitions abroad helps a luxury house deepen its cultural footprint in markets it wishes to grow."
-        },
-        {
-          "en": "risk crowding out homegrown productions",
-          "zh": "有可能排擠本地製作",
-          "sample": "Critics warn that an influx of brand-funded shows could risk crowding out homegrown productions competing for the same venues."
-        },
-        {
-          "en": "broaden access to the arts regardless of income",
-          "zh": "不論收入高低都能擴闊藝術的接觸面",
-          "sample": "Free, ticketless events broaden access to the arts regardless of income, which ticketed museum shows rarely manage."
-        },
-        {
-          "en": "strike a balance between commercial interest and artistic integrity",
-          "zh": "在商業利益與藝術本質之間取得平衡",
-          "sample": "Programmers must strike a balance between commercial interest and artistic integrity when accepting brand sponsorship."
-        },
-        {
-          "en": "capitalise on the prestige of a world-class venue",
-          "zh": "利用世界級場地的聲望",
-          "sample": "Luxury brands often capitalise on the prestige of a world-class venue to reach audiences who might never enter their stores."
-        },
-        {
-          "en": "raise the profile of a cultural district",
-          "zh": "提升文化區的知名度",
-          "sample": "High-profile brand events can raise the profile of a cultural district among international visitors."
-        },
-        {
-          "en": "turn a public space into an extension of marketing",
-          "zh": "將公共空間變成市場推廣的延伸",
-          "sample": "Sceptics argue that such partnerships turn a public space into an extension of marketing rather than a neutral cultural platform."
-        },
-        {
-          "en": "root a modern campaign in a company's own history",
-          "zh": "將現代宣傳扣連企業自身歷史",
-          "sample": "The play roots a modern marketing campaign in the company's own history, giving it an air of authenticity."
-        },
-        {
-          "en": "invite the public to experience heritage firsthand",
-          "zh": "邀請大眾親身體驗傳統",
-          "sample": "Rather than simply displaying objects, the exhibition invites the public to experience heritage firsthand through performance."
-        }
+        {"en": "spark a backlash", "zh": "引發反彈", "sample": "The tree-felling photos sparked a backlash that the Tourism Board could not ignore."},
+        {"en": "come under fire for", "zh": "因……而受到抨擊", "sample": "The board came under fire for failing to properly consult the district council."},
+        {"en": "a project is not set in stone", "zh": "計劃並非一成不變", "sample": "The secretary stressed that the lighting project is not set in stone yet."},
+        {"en": "bow to public pressure", "zh": "向公眾壓力屈服", "sample": "Officials eventually bowed to public pressure by removing two of the stands."},
+        {"en": "weigh tourism gains against environmental costs", "zh": "權衡旅遊收益與環境代價", "sample": "Hong Kong must weigh tourism gains against environmental costs before approving such projects."},
+        {"en": "undermine public trust", "zh": "損害公眾信任", "sample": "Inconsistent accounts of the consultation process risk undermining public trust."},
+        {"en": "a scenic attraction comes at a price", "zh": "美景背後總有代價", "sample": "Residents argue that the new scenic attraction comes at a price paid in felled trees."},
+        {"en": "revisit the drawing board", "zh": "重新構思方案", "sample": "The board may need to revisit the drawing board before relaunching the lighting show."},
+        {"en": "a hasty rollout", "zh": "倉促推出", "sample": "Critics blamed a hasty rollout for the lack of proper community engagement."},
+        {"en": "restore the original landscape", "zh": "恢復原有景觀", "sample": "Campaigners are calling on the board to restore the original landscape along the trail."},
+        {"en": "put consultation ahead of construction", "zh": "諮詢先於施工", "sample": "Lawmakers urged the board to put consultation ahead of construction next time."},
+        {"en": "a trail steeped in local memory", "zh": "承載本地集體回憶的行山徑", "sample": "For many residents, the Peak trail is a path steeped in local memory and daily routine."}
       ]
     },
     {
       "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/finance/article/346114/John-Lee-meets-Chinas-finance-minister-after-APEC-meeting-in-Hong-Kong",
-      "published_date": "22 October 2026",
-      "headline": "Hong Kong Hosts APEC Finance Chiefs for First Time as Lee Pitches City as 'Super Connector'",
-      "category": "global",
-      "summary_html": "<p>Hong Kong this week hosted the APEC Finance Ministers' Meeting for the first time, bringing finance chiefs from across the Asia-Pacific to the city as part of the broader APEC China 2026 calendar ahead of next month's APEC Economic Leaders' Meeting in Shenzhen. Addressing the gathering, Chief Executive John Lee Ka-chiu described Hong Kong as a <span class=\"bw\">super connector<span class=\"tip\"><span class=\"tip-en\">a place that links different economies or systems together, facilitating flows of trade, capital and people</span><span class=\"tip-zh\">超級聯繫人</span></span></span> and “super value-adder” between the Chinese mainland and the rest of the world, pointing to the city's <span class=\"bw\">common-law system<span class=\"tip\"><span class=\"tip-en\">a legal system based on judicial precedent and case law rather than solely on statutes</span><span class=\"tip-zh\">普通法制度</span></span></span>, low taxes and zero tariffs as evidence of its continued relevance as an international <span class=\"bw\">financial hub<span class=\"tip\"><span class=\"tip-en\">a city that serves as a major centre for banking, investment and other financial services</span><span class=\"tip-zh\">金融中心</span></span></span>.</p><p>The two-day <span class=\"bw\">ministerial-level meeting<span class=\"tip\"><span class=\"tip-en\">a formal gathering attended by government ministers rather than lower-ranking officials</span><span class=\"tip-zh\">部長級會議</span></span></span> concluded on Wednesday with the release of the 2026 APEC Finance Ministers' <span class=\"bw\">joint statement<span class=\"tip\"><span class=\"tip-en\">an official declaration issued and agreed upon by multiple parties</span><span class=\"tip-zh\">聯合聲明</span></span></span>, in which members pledged closer cooperation on economic resilience amid wider global uncertainty, though it offered few new specifics. After the formal session, Lee and senior officials met the mainland's finance minister, Lan Fo'an, at Government House to exchange views on the economic and financial development of the mainland and Hong Kong.</p><p>Speaking separately, Financial Secretary Paul Chan struck a more cautious tone, warning that the global economy's resilience remained uneven and that the outlook carried significant <span class=\"bw\">downside risk<span class=\"tip\"><span class=\"tip-en\">the possibility that an economic outcome will turn out worse than expected</span><span class=\"tip-zh\">下行風險</span></span></span>, driven by persistent <span class=\"bw\">geopolitical tensions<span class=\"tip\"><span class=\"tip-en\">strained relations between countries or regions arising from political, strategic or territorial disputes</span><span class=\"tip-zh\">地緣政治緊張局勢</span></span></span> and continuing <span class=\"bw\">trade uncertainty<span class=\"tip\"><span class=\"tip-en\">a lack of predictability about the future rules, tariffs or flows of international trade</span><span class=\"tip-zh\">貿易前景不確定性</span></span></span>. His remarks underscored the balancing act facing Hong Kong: showcasing itself as an open, rules-based financial centre at a summit built around a freshly signed joint statement, while navigating a global order increasingly shaped by great-power rivalry rather than multilateral consensus.</p>",
-      "summary_zh_html": "<p>香港本週首次主辦亞太經合組織（APEC）財長會議，吸引區內多國財金首長來港出席，是「APEC中國2026」系列活動之一，為下月在深圳舉行的APEC經濟領袖會議作準備。行政長官李家超在會上致辭，形容香港是中國內地與世界之間的<span class=\"bwz\">超級聯繫人</span>，亦是「超級增值人」，並指出本港的<span class=\"bwz\">普通法制度</span>、低稅率及零關稅，正正體現香港作為國際<span class=\"bwz\">金融中心</span>的持續價值。</p><p>這場為期兩天的<span class=\"bwz\">部長級會議</span>於星期三閉幕，並發表二零二六年APEC財長<span class=\"bwz\">聯合聲明</span>，各成員承諾在環球局勢不穩下加強經濟韌性方面的合作，但聲明內容未見太多新猶。會議結束後，李家超與一眾高級官員在禮賓府會見國家財政部部長藍佛安，就內地與香港的經濟金融發展交換意見。</p><p>財政司司長陳茂波則語氣較為謹慎，他表示環球經濟的韌力參差不齊，前景的<span class=\"bwz\">下行風險</span>較大，原因是<span class=\"bwz\">地緣政治緊張局勢</span>持續，加上<span class=\"bwz\">貿易前景不確定性</span>未見緩和。他的言論反映香港所面對的兩難：一方面要在簽署聯合聲明的峰會上，展現自己作為開放、具規則基礎的金融中心的形象；另一方面則要在一個日益由大國競逐、而非多邊共識主導的國際秩序中尋找定位。</p>",
-      "image_scene": "Inside a grand conference hall overlooking Victoria Harbour, rows of anonymous delegates in business suits sit behind nameplate-free desks arranged in a horseshoe, interpreters' booths visible along one wall; through floor-to-ceiling windows, container ships and the Hong Kong Island skyline are visible under a hazy afternoon sky, large screens at the front showing abstract graphics.",
-      "cover_text": {
-        "zh_kicker": "香港揸旗",
-        "zh_title": [
-          "自稱超級聯繫人",
-          "APEC財長訪港"
+      "source_url": "https://www.thestandard.com.hk/news/article/346309/Chris-Tang-pledges-legal-reforms-and-total-fire-safety-accountability-after-fatal-blaze",
+      "published_date": "23 October 2026",
+      "headline": "Chris Tang Pledges Legal Reforms and Full Fire Safety Accountability After Wang Fuk Court Blaze",
+      "category": "law",
+      "summary_html": "<p>Security Secretary Chris Tang has pledged a package of legal reforms to tighten fire safety regulation, after an independent committee handed Chief Executive John Lee its report into the deadly Wang Fuk Court fire on 22 October. The report singles out the Independent Checking Unit, the Buildings Department, the Fire Services Department and the Labour Department as bearing responsibility for the disaster, with the Independent Checking Unit shouldering the <span class=\"bw\">lion's share<span class=\"tip\"><span class=\"tip-en\">the largest part of something</span><span class=\"tip-zh\">最大部分</span></span></span> of the blame. Notably, it stops short of naming individual officials, leaving that politically sensitive task to the government itself.</p><p>The findings will not be made public immediately, since the Department of Justice must first confirm that releasing them would not <span class=\"bw\">prejudice<span class=\"tip\"><span class=\"tip-en\">to cause harm or disadvantage to a legal process</span><span class=\"tip-zh\">損害；妨礙</span></span></span> ongoing criminal proceedings. Significantly, the committee chose not to recommend that its inquiry be upgraded into a statutory commission, a decision that has left some survivors worried that key figures could ultimately <span class=\"bw\">escape accountability<span class=\"tip\"><span class=\"tip-en\">to avoid being held responsible for one's actions</span><span class=\"tip-zh\">逃避問責</span></span></span>. Tang insisted, however, that prosecutors would pursue anyone against whom there is evidence of wrongdoing, regardless of whether that person testifies before the committee.</p><p>Building on administrative measures already rolled out over the past year, Tang said the government would now pursue statutory changes, including raising penalties and widening the scope of legal responsibility for fire safety in residential buildings. Proposed measures reportedly include new criminal penalties aimed at <span class=\"bw\">curbing<span class=\"tip\"><span class=\"tip-en\">restraining or keeping something under control</span><span class=\"tip-zh\">遏止；抑制</span></span></span> bid-rigging during major renovation contracts, together with tighter oversight of the professionals who supervise such projects. The Fire Services Department, meanwhile, will take on a <span class=\"bw\">backstop<span class=\"tip\"><span class=\"tip-en\">a safeguard that steps in when other systems fail</span><span class=\"tip-zh\">後備保障；最後把關者</span></span></span> role, retaining oversight of fire-related complaints until another agency formally assumes responsibility for them.</p>",
+      "summary_zh_html": "<p>保安局局長鄧炳強承諾推行一系列法律改革,以加強消防安全規管,此前獨立委員會已於十月二十二日向行政長官李家超提交宏福苑大火調查報告。報告指出獨立檢查單位、屋宇署、消防處及勞工處須對這場奪命大火負上責任,其中獨立檢查單位承擔<span class=\"bwz\">最大部分</span>的責任。值得注意的是,報告並未點名個別官員,將這項政治上敏感的任務留給政府自行處理。</p><p>調查結果不會即時公開,因為律政司須先確認公開內容不會<span class=\"bwz\">損害</span>正在進行的刑事訴訟程序。值得留意的是,委員會選擇不建議將調查升格為法定調查委員會,這項決定令部分生還者擔心,關鍵人物最終可能<span class=\"bwz\">逃避問責</span>。不過,鄧炳強強調,只要有證據顯示某人涉及不當行為,檢控機關將予以追究,不論該人是否曾向委員會作證。</p><p>在過去一年已推行的行政措施基礎上,鄧炳強表示政府現將推動法例修訂,包括提高罰則及擴大住宅大廈消防安全的法律責任範圍。據報,建議措施包括訂立新的刑事罰則,以<span class=\"bwz\">遏止</span>大型翻新工程中的圍標行為,並加強對相關專業人士的監管。至於消防處,則將擔當<span class=\"bwz\">後備保障</span>角色,在其他部門正式接手前,繼續監察與消防有關的投訴。</p>",
+      "image_scene": "A quiet residential street outside a tall Hong Kong public housing estate at dusk, scaffolding still wrapped around part of the building's exterior, a few residents walking past with bouquets of flowers laid near the entrance gate; no visible damage, fire or distress shown.",
+      "slides": {
+        "topic_en": "Fire Safety Law Reform After Wang Fuk Court",
+        "background_en": "An independent committee blamed four government departments for the Wang Fuk Court fire and handed its report to the Chief Executive.",
+        "background_zh": "獨立委員會指四個政府部門須對宏福苑大火負責,並已將報告提交行政長官。",
+        "background_hl": "blamed four government departments",
+        "analysis_en": "The case raises whether administrative steps alone are enough or whether new criminal laws are needed to deter negligence.",
+        "analysis_zh": "事件引發討論:單靠行政措施是否足夠,抑或需要新的刑事法例以遏止疏忽。",
+        "analysis_hl": "whether new criminal laws are needed",
+        "support_en": "Supporters say tougher penalties and wider legal responsibility will finally force contractors to take fire safety seriously.",
+        "support_zh": "支持者認為,更嚴厲的罰則及更廣泛的法律責任,終將迫使承建商認真對待消防安全。",
+        "support_hl": "finally force contractors to take fire safety seriously",
+        "oppose_en": "Critics argue that without a statutory commission naming individuals, powerful figures may still escape accountability.",
+        "oppose_zh": "批評者認為,若無法定委員會點名問責,有權勢者仍可能逃避責任。",
+        "oppose_hl": "powerful figures may still escape accountability",
+        "vocab5": [
+          {"en": "lion's share", "zh": "最大部分"},
+          {"en": "prejudice proceedings", "zh": "損害訴訟程序"},
+          {"en": "escape accountability", "zh": "逃避問責"},
+          {"en": "curb bid-rigging", "zh": "遏止圍標"},
+          {"en": "backstop role", "zh": "後備保障角色"}
         ],
-        "zh_hl": "超級聯繫人",
-        "zh_sub": "陳茂波警告下行風險",
-        "en": "Hong Kong hosts APEC finance ministers as 'super connector'"
+        "question_en": "Should an independent committee's report always be made public immediately, even if it may affect ongoing court cases?",
+        "question_zh": "獨立委員會的報告是否應該一律即時公開,即使可能影響正在進行的訴訟?",
+        "question_hl": "made public immediately"
+      },
+      "cover_text": {
+        "zh_kicker": "宏福苑大火",
+        "zh_title": ["消防修法", "問責未停"],
+        "zh_hl": "問責",
+        "zh_sub": "鄧炳強︓絕不姑息",
+        "en": "Security chief pledges legal reform after deadly Wang Fuk Court fire"
       },
       "vocab": [
-        {
-          "phrase": "super connector",
-          "zh": "超級聯繫人",
-          "sample": "Officials repeatedly called Hong Kong a super connector, linking mainland capital with international investors."
-        },
-        {
-          "phrase": "offshore financial centre",
-          "zh": "離岸金融中心",
-          "sample": "As an offshore financial centre, Hong Kong lets mainland and international investors trade outside the mainland's capital controls."
-        },
-        {
-          "phrase": "common-law system",
-          "zh": "普通法制度",
-          "sample": "Hong Kong's common-law system, inherited from its colonial past, continues to reassure foreign investors."
-        },
-        {
-          "phrase": "ministerial-level meeting",
-          "zh": "部長級會議",
-          "sample": "A ministerial-level meeting carries more diplomatic weight than a gathering of mid-ranking officials."
-        },
-        {
-          "phrase": "joint statement",
-          "zh": "聯合聲明",
-          "sample": "The joint statement was carefully worded to avoid singling out any one member economy."
-        },
-        {
-          "phrase": "downside risk",
-          "zh": "下行風險",
-          "sample": "Analysts flagged downside risk to growth forecasts as trade tensions dragged on."
-        },
-        {
-          "phrase": "regional power rivalry",
-          "zh": "地區大國角力",
-          "sample": "Analysts said regional power rivalry made it harder for mid-sized economies to remain neutral."
-        },
-        {
-          "phrase": "trade uncertainty",
-          "zh": "貿易前景不確定性",
-          "sample": "Persistent trade uncertainty has discouraged some firms from committing to long-term investment."
-        },
-        {
-          "phrase": "multilateral cooperation",
-          "zh": "多邊合作",
-          "sample": "The joint statement called for greater multilateral cooperation to withstand future economic shocks."
-        },
-        {
-          "phrase": "rules-based system",
-          "zh": "具規則基礎的制度",
-          "sample": "Hong Kong markets itself as part of a rules-based system that gives investors legal certainty."
-        },
-        {
-          "phrase": "diplomatic weight",
-          "zh": "外交分量",
-          "sample": "Hosting a ministerial summit adds diplomatic weight to a city's claim to global relevance."
-        },
-        {
-          "phrase": "value-adder",
-          "zh": "增值角色",
-          "sample": "Lee described Hong Kong not just as a connector but as a value-adder within the Chinese economy."
-        }
+        {"phrase": "lion's share", "zh": "最大部分", "sample": "The Independent Checking Unit was found to bear the lion's share of responsibility for the fire."},
+        {"phrase": "prejudice proceedings", "zh": "損害訴訟程序", "sample": "Officials delayed the report's release so as not to prejudice ongoing criminal proceedings."},
+        {"phrase": "escape accountability", "zh": "逃避問責", "sample": "Survivors fear that senior figures could still escape accountability for the disaster."},
+        {"phrase": "curb bid-rigging", "zh": "遏止圍標", "sample": "New criminal penalties are designed to curb bid-rigging during major renovation contracts."},
+        {"phrase": "backstop role", "zh": "後備保障角色", "sample": "The Fire Services Department will play a backstop role in handling unresolved complaints."},
+        {"phrase": "statutory commission of inquiry", "zh": "法定調查委員會", "sample": "The committee decided against upgrading itself into a statutory commission of inquiry."},
+        {"phrase": "widen the scope of responsibility", "zh": "擴大責任範圍", "sample": "The reforms would widen the scope of legal responsibility for building fire safety."},
+        {"phrase": "tighten oversight", "zh": "加強監管", "sample": "Regulators plan to tighten oversight of professionals who supervise renovation works."},
+        {"phrase": "pursue wrongdoing", "zh": "追究不當行為", "sample": "Tang vowed to pursue wrongdoing wherever the evidence allows, regardless of testimony."},
+        {"phrase": "raise penalties", "zh": "提高罰則", "sample": "Lawmakers are expected to debate a bill that would raise penalties for fire safety breaches."},
+        {"phrase": "hand over a report", "zh": "提交報告", "sample": "The independent committee handed over its report to the Chief Executive on 22 October."},
+        {"phrase": "administrative measure", "zh": "行政措施", "sample": "The new legislation builds on administrative measures already introduced over the past year."}
       ],
       "phrases": [
-        {
-          "en": "position itself as a bridge between East and West",
-          "zh": "將自己定位為東西方之間的橋樑",
-          "sample": "Hong Kong has long sought to position itself as a bridge between East and West in global finance."
-        },
-        {
-          "en": "navigate a fracturing global order",
-          "zh": "在日趨分裂的國際秩序中尋找出路",
-          "sample": "Smaller economies must learn to navigate a fracturing global order shaped by rival blocs."
-        },
-        {
-          "en": "hedge against the risk of over-reliance on a single market",
-          "zh": "規避過度依賴單一市場的風險",
-          "sample": "Diversifying trading partners helps a city hedge against the risk of over-reliance on a single market."
-        },
-        {
-          "en": "reassure investors of regulatory stability",
-          "zh": "向投資者保證監管環境穩定",
-          "sample": "Officials sought to reassure investors of regulatory stability despite shifting global trade rules."
-        },
-        {
-          "en": "leverage its unique constitutional status",
-          "zh": "利用其獨特的憲制地位",
-          "sample": "The city continues to leverage its unique constitutional status to attract capital unavailable to purely mainland markets."
-        },
-        {
-          "en": "weather a turbulent external environment",
-          "zh": "應對動盪的外圍環境",
-          "sample": "Smaller trading economies must find ways to weather a turbulent external environment without sacrificing growth."
-        },
-        {
-          "en": "shoulder a disproportionate share of geopolitical risk",
-          "zh": "承受不成比例的地緣政治風險",
-          "sample": "As a trade-dependent economy, Hong Kong shoulders a disproportionate share of geopolitical risk."
-        },
-        {
-          "en": "cement its credentials as an international venue",
-          "zh": "鞏固其作為國際場地的地位",
-          "sample": "Hosting high-profile summits helps a city cement its credentials as an international venue for diplomacy."
-        },
-        {
-          "en": "signal continuity amid political uncertainty",
-          "zh": "在政治不確定下顯示延續性",
-          "sample": "Officials used the summit to signal continuity amid political uncertainty surrounding the city's future."
-        },
-        {
-          "en": "translate diplomatic access into economic opportunity",
-          "zh": "將外交渠道轉化為經濟機遇",
-          "sample": "Analysts questioned whether Hong Kong could translate diplomatic access into economic opportunity for ordinary businesses."
-        },
-        {
-          "en": "temper optimism with caution over external headwinds",
-          "zh": "在樂觀情緒中加入對外圍逆風的謹慎",
-          "sample": "Even as leaders celebrated the summit, finance officials tempered optimism with caution over external headwinds."
-        },
-        {
-          "en": "avoid being caught between rival powers",
-          "zh": "避免被捲入大國之間的角力",
-          "sample": "Trade-dependent cities often struggle to avoid being caught between rival powers competing for influence."
-        },
-        {
-          "en": "underscore its relevance on the world stage",
-          "zh": "彰顯其在國際舞台上的重要性",
-          "sample": "The summit was meant to underscore Hong Kong's relevance on the world stage despite years of political upheaval."
-        }
+        {"en": "shoulder the blame for", "zh": "承擔……的責任", "sample": "Four government departments were found to shoulder the blame for the fire's severity."},
+        {"en": "fall short of naming", "zh": "未能點名", "sample": "The report falls short of naming any individual official directly."},
+        {"en": "close a legal loophole", "zh": "堵塞法律漏洞", "sample": "The proposed reforms aim to close a legal loophole that let unsafe renovations go unpunished."},
+        {"en": "leave victims feeling short-changed", "zh": "令受害者感到不公", "sample": "The lack of a statutory inquiry has left some victims feeling short-changed."},
+        {"en": "translate findings into law", "zh": "將調查結果轉化為法例", "sample": "Officials now face pressure to translate the committee's findings into actual law."},
+        {"en": "hold the line on enforcement", "zh": "堅守執法底線", "sample": "The security chief promised to hold the line on enforcement regardless of who is involved."},
+        {"en": "a disaster lays bare systemic failures", "zh": "一場災難暴露制度性缺失", "sample": "The fire laid bare systemic failures across several government departments."},
+        {"en": "restore public confidence in regulation", "zh": "重建公眾對監管的信心", "sample": "New legislation is meant to restore public confidence in Hong Kong's fire safety regulation."},
+        {"en": "assign clear lines of responsibility", "zh": "劃清明確的責任界線", "sample": "Reformers want the law to assign clear lines of responsibility among building professionals."},
+        {"en": "a report delayed by legal caution", "zh": "因法律上的審慎而延遲公開的報告", "sample": "The report was delayed by legal caution over ongoing prosecutions."},
+        {"en": "set a deterrent precedent", "zh": "樹立阻嚇性案例", "sample": "Prosecutors hope the case will set a deterrent precedent for future building contractors."},
+        {"en": "accountability without a public name", "zh": "問責卻未有公開姓名", "sample": "Some campaigners call this accountability without a public name, and say it is not enough."},
+        {"en": "rebuild trust brick by brick", "zh": "一點一滴重建信任", "sample": "Officials admit that trust in building safety will have to be rebuilt brick by brick."}
       ]
     },
     {
       "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/346321/Two-arrested-after-11-year-old-girls-viral-plea-for-help-exposes-alleged-child-abuse-in-Wong-Tai-Sin",
-      "published_date": "23 October 2026",
-      "headline": "Viral Video of Girl, 11, Pleading for Help Sparks Child Abuse Probe in Wong Tai Sin",
-      "category": "social",
-      "summary_html": "<p>A disturbing video of an 11-year-old girl tearfully <span class=\"bw\">pleading for help<span class=\"tip\"><span class=\"tip-en\">asking urgently and emotionally for assistance</span><span class=\"tip-zh\">哭著求助</span></span></span> while being scolded by family members in Wong Tai Sin <span class=\"bw\">went viral<span class=\"tip\"><span class=\"tip-en\">spread rapidly online as many people shared it</span><span class=\"tip-zh\">在網上瘋傳</span></span></span> on social media this week, prompting police and welfare officials to open an investigation into suspected child abuse. According to local reports, the footage, which circulated widely on Thursday, showed the girl, who has <span class=\"bw\">special educational needs<span class=\"tip\"><span class=\"tip-en\">additional learning support requirements arising from a disability or learning difficulty</span><span class=\"tip-zh\">特殊教育需要</span></span></span>, visibly distressed inside a flat, with an older male relative also appearing in one of the clips.</p><p>Police subsequently arrested the girl's 61-year-old grandmother and a 43-year-old domestic helper on suspicion of <span class=\"bw\">ill-treatment or neglect<span class=\"tip\"><span class=\"tip-en\">causing harm to a child, or failing to care for them properly</span><span class=\"tip-zh\">虐待或忽視</span></span></span> of a child, and both remain <span class=\"bw\">held for questioning<span class=\"tip\"><span class=\"tip-en\">kept in custody while investigators gather information about a case</span><span class=\"tip-zh\">扣留調查</span></span></span> as investigators piece together what happened inside the household. The child was first taken to Queen Elizabeth Hospital and later transferred to the Hong Kong Children's Hospital for further assessment, where doctors reportedly found <span class=\"bw\">redness and swelling<span class=\"tip\"><span class=\"tip-en\">visible marks on the skin indicating recent injury or rough handling</span><span class=\"tip-zh\">紅腫</span></span></span> on her arms and legs, though officers have not yet determined precisely how the injuries occurred.</p><p><span class=\"bw\">Social welfare authorities<span class=\"tip\"><span class=\"tip-en\">government bodies responsible for child and family welfare services</span><span class=\"tip-zh\">社會福利機構</span></span></span> said they were following up on the case, and the girl's school has also mobilised social workers to support her given her existing support needs. Police have indicated that <span class=\"bw\">further arrests<span class=\"tip\"><span class=\"tip-en\">the likelihood that more people will be taken into custody as an investigation continues</span><span class=\"tip-zh\">進一步拘捕</span></span></span> have not been ruled out as the investigation continues, while the episode has reignited public debate over how effectively Hong Kong's <span class=\"bw\">child protection<span class=\"tip\"><span class=\"tip-en\">measures taken to safeguard children from harm or abuse</span><span class=\"tip-zh\">保護兒童</span></span></span> system identifies at-risk children before, rather than only after, a video forces the issue into public view.</p>",
-      "summary_zh_html": "<p>本週有一段令人不安的短片在黃大仙區拍到，片中一名十一歲女童一邊<span class=\"bwz\">哭著求助</span>，一邊被家人責罵，片段在社交媒體上<span class=\"bwz\">在網上瘋傳</span>，促使警方與福利部門展開涉嫌虐兒調查。據本地報道，片段於星期四廣泛流傳，顯示該名有<span class=\"bwz\">特殊教育需要</span>的女童在家中情緒明顯激動，其中一段片亦見一名年長男性親屬在場。</p><p>警方其後以涉嫌對兒童<span class=\"bwz\">虐待或忽視</span>為由，拘捕女童六十一歲的外婆及一名四十三歲印傭，兩人現正被<span class=\"bwz\">扣留調查</span>，警方正了解事件在家中發生的經過。女童先被送往伊利沙伯醫院，再轉往香港兒童醫院接受進一步檢查，據報醫生發現她手腳有<span class=\"bwz\">紅腫</span>痕跡，惟警方暫未確定傷勢成因。</p><p><span class=\"bwz\">社會福利機構</span>表示正跟進事件，女童學校亦已動用學校社工，按其既有的支援需要提供協助。警方表示不排除有<span class=\"bwz\">進一步拘捕</span>行動，調查仍在進行；事件亦再次引發公眾討論，質疑本港<span class=\"bwz\">保護兒童</span>的機制，能否在片段逼使事件曝光之前，及早識別高風險兒童。</p>",
-      "image_scene": "Outside a tall 1980s public housing block in Wong Tai Sin on a quiet overcast afternoon, an anonymous uniformed police officer and a social worker carrying a folder walk together toward the building's entrance, past a row of parked bicycles and potted plants; Lion Rock is visible in the hazy distance behind the estate.",
-      "cover_text": {
-        "zh_kicker": "黃大仙",
-        "zh_title": [
-          "女童求助片瘋傳",
-          "兩人涉虐兒被捕"
+      "source_url": "https://www.thestandard.com.hk/news/article/346406/HK-talent-schemes-draw-690000-applications-320000-arrive-Eric-Chan",
+      "published_date": "24 October 2026",
+      "headline": "Hong Kong Talent Schemes Draw 690,000 Applications, With 320,000 Already Arrived: Eric Chan",
+      "category": "career",
+      "summary_html": "<p>Hong Kong's various talent admission schemes have now drawn roughly 690,000 applications as of September, with about 320,000 successful applicants having already <span class=\"bw\">relocated<span class=\"tip\"><span class=\"tip-en\">to move to live or work in a different place</span><span class=\"tip-zh\">遷居；移居</span></span></span> to the city, Chief Secretary for Administration Eric Chan Kwok-ki revealed. He shared the figures at the Guangdong-Hong Kong-Macao Greater Bay Area High-Quality Talent Development Conference held in Dongguan, framing the numbers as evidence that the city's schemes are steadily <span class=\"bw\">bearing fruit<span class=\"tip\"><span class=\"tip-en\">to produce successful or beneficial results</span><span class=\"tip-zh\">取得成果</span></span></span>.</p><p>The figures mark a significant climb from earlier benchmarks, when cumulative applications and arrivals were far lower, suggesting the schemes have gained <span class=\"bw\">traction<span class=\"tip\"><span class=\"tip-en\">increasing acceptance, popularity or progress</span><span class=\"tip-zh\">普及；受關注</span></span></span> as the city's economic recovery has strengthened. Chan said Hong Kong Talent Engage, the dedicated unit tasked with courting overseas professionals, would now step up its outreach in key global regions, aiming to attract skilled individuals in sectors ranging from finance to advanced technology. He also stressed the importance of helping newcomers settle smoothly, from housing to schooling for their children.</p><p>For students weighing future career paths, the figures <span class=\"bw\">underscore<span class=\"tip\"><span class=\"tip-en\">to emphasise the importance of something</span><span class=\"tip-zh\">強調；突顯</span></span></span> how competitive the local job market may become as hundreds of thousands of new arrivals, many highly qualified, enter the workforce. Some commentators have questioned whether local graduates risk being <span class=\"bw\">crowded out<span class=\"tip\"><span class=\"tip-en\">pushed out of a space or opportunity by competition</span><span class=\"tip-zh\">被排擠；被擠出</span></span></span> of certain roles, while others argue that a larger talent pool ultimately expands the overall size of the economic pie, creating new openings rather than merely dividing existing ones.</p>",
+      "summary_zh_html": "<p>香港各項人才入境計劃截至九月已累積約六十九萬宗申請,當中約三十二萬名成功申請者已<span class=\"bwz\">遷居</span>本港,政務司司長陳國基透露。他在東莞舉行的粵港澳大灣區高質量人才發展大會上公布這些數字,認為這反映本港的人才計劃正逐步<span class=\"bwz\">取得成果</span>。</p><p>這些數字較以往的基準大幅攀升,當時累積申請數字及抵港人數遠為遜色,顯示隨着本港經濟復蘇力度增強,相關計劃日益<span class=\"bwz\">受關注</span>。陳國基表示,專責招攬海外專才的「香港人才服務窗口」將加強在主要海外地區的推廣工作,目標是吸納金融以至先進科技等各行各業的人才。他亦強調協助新來港人士妥善安頓的重要性,由住屋至子女教育均須照顧。</p><p>對於正在考慮未來事業發展的學生而言,這些數字<span class=\"bwz\">突顯</span>隨着數以十萬計、不少具高學歷的新來港人才投入職場,本地就業市場可能變得更為激烈。有評論質疑本地畢業生會否因此被<span class=\"bwz\">擠出</span>某些職位,但另一些人則認為,龐大的人才庫最終能擴大整體經濟規模,創造新機會,而非單純瓜分現有資源。</p>",
+      "image_scene": "A bright, modern Hong Kong office lobby at morning rush hour, young professionals of mixed ages carrying laptop bags and rolling suitcases walking past a reception desk, a wall directory listing company names in English and Chinese, floor-to-ceiling windows showing the city skyline outside.",
+      "slides": {
+        "topic_en": "Hong Kong's Talent Admission Boom",
+        "background_en": "Hong Kong's talent schemes have drawn 690,000 applications, with 320,000 arrivals already settled in the city.",
+        "background_zh": "香港人才計劃已錄得六十九萬宗申請,三十二萬人已成功抵港定居。",
+        "background_hl": "690,000 applications",
+        "analysis_en": "Officials present the growing numbers as proof the schemes are bearing fruit, but the scale raises new questions about competition.",
+        "analysis_zh": "官方視數字上升為計劃取得成果的證明,但龐大規模亦帶來競爭問題。",
+        "analysis_hl": "raises new questions about competition",
+        "support_en": "Supporters argue a larger talent pool expands the economic pie, creating fresh opportunities rather than just rivals.",
+        "support_zh": "支持者認為龐大人才庫能擴大經濟規模,創造新機會而非單純增加對手。",
+        "support_hl": "expands the economic pie",
+        "oppose_en": "Critics worry that local graduates could be crowded out of competitive roles by a flood of highly qualified newcomers.",
+        "oppose_zh": "批評者擔心本地畢業生可能被大批高學歷新來港人才擠出競爭激烈的職位。",
+        "oppose_hl": "crowded out of competitive roles",
+        "vocab5": [
+          {"en": "bear fruit", "zh": "取得成果"},
+          {"en": "gain traction", "zh": "普及；受關注"},
+          {"en": "crowd out", "zh": "排擠"},
+          {"en": "expand the pie", "zh": "擴大經濟規模"},
+          {"en": "settle smoothly", "zh": "順利安頓"}
         ],
-        "zh_hl": "被捕",
-        "zh_sub": "社署跟進個案",
-        "en": "Viral video of girl's plea leads to two arrests"
+        "question_en": "Will Hong Kong's talent schemes mainly benefit local graduates, or mostly increase competition for jobs?",
+        "question_zh": "香港的人才計劃最終將主要惠及本地畢業生,還是只會加劇職場競爭?",
+        "question_hl": "increase competition for jobs"
+      },
+      "cover_text": {
+        "zh_kicker": "人才計劃",
+        "zh_title": ["人才來港", "破六十九萬"],
+        "zh_hl": "六十九萬",
+        "zh_sub": "陳國基︓計劃見成果",
+        "en": "HK talent schemes pass 690,000 applications, 320,000 already settled"
       },
       "vocab": [
-        {
-          "phrase": "went viral",
-          "zh": "在網上瘋傳",
-          "sample": "The footage went viral within hours, prompting thousands of concerned comments from the public."
-        },
-        {
-          "phrase": "special educational needs",
-          "zh": "特殊教育需要",
-          "sample": "Children with special educational needs often require extra support that extends beyond the classroom."
-        },
-        {
-          "phrase": "ill-treatment or neglect",
-          "zh": "虐待或忽視",
-          "sample": "The two suspects were arrested on suspicion of ill-treatment or neglect of a child in their care."
-        },
-        {
-          "phrase": "held for questioning",
-          "zh": "扣留調查",
-          "sample": "Both suspects were held for questioning while officers examined the circumstances inside the home."
-        },
-        {
-          "phrase": "visible injuries",
-          "zh": "明顯傷勢",
-          "sample": "Doctors documented the child's visible injuries before she was transferred for further assessment."
-        },
-        {
-          "phrase": "social welfare authorities",
-          "zh": "社會福利機構",
-          "sample": "Social welfare authorities said they would continue monitoring the family after the investigation concludes."
-        },
-        {
-          "phrase": "at-risk children",
-          "zh": "高風險兒童",
-          "sample": "Teachers are often the first adults to notice warning signs in at-risk children."
-        },
-        {
-          "phrase": "child protection mechanism",
-          "zh": "保護兒童機制",
-          "sample": "Campaigners argue the city's child protection mechanism still relies too heavily on the public to report abuse."
-        },
-        {
-          "phrase": "domestic helper",
-          "zh": "家庭傭工",
-          "sample": "The domestic helper was among two people arrested after the video surfaced online."
-        },
-        {
-          "phrase": "intervene before harm occurs",
-          "zh": "在傷害發生前介入",
-          "sample": "Social workers are trained to intervene before harm occurs, not merely to respond after the fact."
-        },
-        {
-          "phrase": "mandatory reporting",
-          "zh": "強制舉報",
-          "sample": "Some lawmakers have called for mandatory reporting rules requiring professionals to flag suspected abuse."
-        },
-        {
-          "phrase": "custody arrangement",
-          "zh": "照顧安排",
-          "sample": "The investigation also raised questions about the family's custody arrangement for the child."
-        }
+        {"phrase": "bear fruit", "zh": "取得成果", "sample": "Officials say years of outreach are finally beginning to bear fruit."},
+        {"phrase": "snowball in scale", "zh": "規模急速擴大", "sample": "Applications under the scheme have continued to snowball in scale since its launch."},
+        {"phrase": "crowd out", "zh": "排擠", "sample": "Some fear that local graduates could be crowded out of entry-level finance jobs."},
+        {"phrase": "expand the economic pie", "zh": "擴大經濟規模", "sample": "Supporters argue a bigger talent pool helps expand the economic pie for everyone."},
+        {"phrase": "settle smoothly", "zh": "順利安頓", "sample": "The unit helps new arrivals settle smoothly, from housing to schooling."},
+        {"phrase": "skilled workforce", "zh": "技術人才", "sample": "A larger skilled workforce could make Hong Kong more attractive to global investors."},
+        {"phrase": "a deepening reservoir of professionals", "zh": "日益壯大的專才儲備", "sample": "The scheme has built a deepening reservoir of professionals in advanced technology."},
+        {"phrase": "step up outreach", "zh": "加強推廣", "sample": "Hong Kong Talent Engage plans to step up outreach in key overseas regions."},
+        {"phrase": "a tally that keeps climbing", "zh": "持續攀升的數字", "sample": "Officials pointed to a tally that keeps climbing as proof the policy is working."},
+        {"phrase": "benchmark figure", "zh": "基準數字", "sample": "September's numbers far exceed the benchmark figure set when the scheme launched."},
+        {"phrase": "a foothold in the job market", "zh": "在職場上立足", "sample": "Fresh graduates worry about gaining a foothold in the job market amid rising competition."},
+        {"phrase": "economic recovery", "zh": "經濟復蘇", "sample": "A steady economic recovery has made Hong Kong more appealing to overseas professionals."}
       ],
       "phrases": [
-        {
-          "en": "expose a hidden pattern of abuse",
-          "zh": "揭露隱藏已久的虐待模式",
-          "sample": "The viral clip exposed a hidden pattern of abuse that neighbours said had gone unreported for months."
-        },
-        {
-          "en": "rely on bystanders to sound the alarm",
-          "zh": "依賴旁觀者發出警號",
-          "sample": "Without a formal reporting system, the city still relies on bystanders to sound the alarm."
-        },
-        {
-          "en": "fall through the cracks of the welfare system",
-          "zh": "在福利制度的縫隙中被忽略",
-          "sample": "Vulnerable children can fall through the cracks of the welfare system if no single agency takes charge of their case."
-        },
-        {
-          "en": "trigger a public outcry over child safety",
-          "zh": "引發公眾對兒童安全的強烈反應",
-          "sample": "The footage triggered a public outcry over child safety that lawmakers could not ignore."
-        },
-        {
-          "en": "shift from reactive to preventive intervention",
-          "zh": "由被動應對轉向主動介入",
-          "sample": "Experts urge a shift from reactive to preventive intervention, rather than waiting for a crisis to unfold."
-        },
-        {
-          "en": "place additional strain on an already stretched system",
-          "zh": "對本已緊張的系統造成額外壓力",
-          "sample": "A rising number of referrals places additional strain on an already stretched child welfare system."
-        },
-        {
-          "en": "hold caregivers accountable for a child's wellbeing",
-          "zh": "要求照顧者對兒童福祉負責",
-          "sample": "The case renewed calls to hold caregivers accountable for a child's wellbeing, regardless of their relationship to the family."
-        },
-        {
-          "en": "spark renewed scrutiny of domestic arrangements",
-          "zh": "引發對家庭照顧安排的重新審視",
-          "sample": "The arrests sparked renewed scrutiny of domestic arrangements involving multiple caregivers under one roof."
-        },
-        {
-          "en": "balance family privacy against a child's safety",
-          "zh": "在家庭私隱與兒童安全之間取得平衡",
-          "sample": "Social workers must balance family privacy against a child's safety when deciding whether to intervene."
-        },
-        {
-          "en": "amplify a private tragedy into a public debate",
-          "zh": "將私人悲劇放大成公眾議題",
-          "sample": "Social media can amplify a private tragedy into a public debate within hours of a clip being posted."
-        },
-        {
-          "en": "underscore the limits of informal caregiving networks",
-          "zh": "凸顯非正式照顧網絡的局限",
-          "sample": "The case underscores the limits of informal caregiving networks that lack professional oversight."
-        },
-        {
-          "en": "prompt calls for tighter safeguarding rules",
-          "zh": "促使社會要求收緊保護措施",
-          "sample": "Advocacy groups used the incident to prompt calls for tighter safeguarding rules in domestic settings."
-        },
-        {
-          "en": "leave lasting scars beyond the physical",
-          "zh": "留下不止於身體傷痛的長久陰影",
-          "sample": "Child psychologists warn that such experiences can leave lasting scars beyond the physical injuries involved."
-        }
+        {"en": "a steady climb in numbers", "zh": "數字穩步上升", "sample": "The scheme has seen a steady climb in numbers since its early, modest beginnings."},
+        {"en": "fuel competition for jobs", "zh": "加劇職位競爭", "sample": "Critics worry the influx of talent will fuel competition for jobs among fresh graduates."},
+        {"en": "widen career prospects", "zh": "拓寬事業前景", "sample": "A bigger, more diverse workforce could widen career prospects across several sectors."},
+        {"en": "put down roots in a city", "zh": "在城市落地生根", "sample": "Many new arrivals hope to put down roots in Hong Kong rather than stay only briefly."},
+        {"en": "a double-edged policy", "zh": "一把雙刃劍的政策", "sample": "Economists call the talent scheme a double-edged policy, bringing both skills and rivalry."},
+        {"en": "attract high-calibre professionals", "zh": "吸引高水平專才", "sample": "The city hopes to attract high-calibre professionals in finance and advanced technology."},
+        {"en": "ease settlement challenges", "zh": "緩解安頓困難", "sample": "Officials pledged new support services to ease settlement challenges for newcomers."},
+        {"en": "a numbers game with real stakes", "zh": "一場關乎切身利益的數字遊戲", "sample": "For young job-seekers, the talent debate is a numbers game with very real stakes."},
+        {"en": "outpace earlier targets", "zh": "超越早前目標", "sample": "The latest figures have already outpaced the targets set when the scheme was introduced."},
+        {"en": "reshape the labour market", "zh": "重塑勞動市場", "sample": "Such a large influx of professionals could reshape the labour market within a few years."},
+        {"en": "a pipeline of global talent", "zh": "一條全球人才輸送渠道", "sample": "Officials describe the scheme as building a lasting pipeline of global talent."},
+        {"en": "raise the bar for graduates", "zh": "提高畢業生的門檻", "sample": "A more competitive labour market may raise the bar for what local graduates must offer."}
       ]
     },
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/health-environment/article/3371910/hong-kong-marks-hottest-frost-solar-term-record-321-degrees-celsius",
-      "published_date": "23 October 2026",
-      "headline": "Hong Kong Logs Hottest 'Frost' Solar Term on Record as Heatwave Lingers into Late October",
-      "category": "env",
-      "summary_html": "<p>Hong Kong recorded its hottest “Frost” <span class=\"bw\">solar term<span class=\"tip\"><span class=\"tip-en\">one of 24 traditional divisions of the Chinese calendar year marking seasonal changes</span><span class=\"tip-zh\">節氣</span></span></span> since records began in 1884, with the mercury reaching 32.3 degrees Celsius at the Observatory's Tsim Sha Tsui headquarters on Friday afternoon, comfortably eclipsing the previous benchmark of 31 degrees set in 2006. The reading came just two days after the Observatory issued its latest-ever <span class=\"bw\">Very Hot Weather Warning<span class=\"tip\"><span class=\"tip-en\">an official Observatory alert issued when temperatures are expected to reach a high threshold</span><span class=\"tip-zh\">酷熱天氣警告</span></span></span>, raised at 6.45am on Wednesday and beating a record previously set in October 2024, as the city sweltered through 33.8 degrees that day.</p><p>Explaining the unusual persistence of heat so late in the year, Chinese University atmospheric scientist Amos Tai pointed to three overlapping factors: <span class=\"bw\">subsiding air<span class=\"tip\"><span class=\"tip-en\">air that is sinking and warming as it descends, often suppressing cloud formation</span><span class=\"tip-zh\">下沉氣流</span></span></span> left behind by Super Typhoon Champi, a <span class=\"bw\">super El Niño<span class=\"tip\"><span class=\"tip-en\">an unusually strong occurrence of the El Niño climate pattern, which involves warmer-than-usual Pacific waters</span><span class=\"tip-zh\">超強厄爾尼諾現象</span></span></span> that has weakened the <span class=\"bw\">northeast monsoon<span class=\"tip\"><span class=\"tip-en\">the seasonal wind pattern that normally brings cooler, drier air to southern China in autumn and winter</span><span class=\"tip-zh\">東北季候風</span></span></span> normally responsible for cooling the city in autumn, and the city's own <span class=\"bw\">long-term warming trend<span class=\"tip\"><span class=\"tip-en\">a gradual rise in temperatures observed over many years, often linked to climate change</span><span class=\"tip-zh\">長期變暖趨勢</span></span></span>. With less cool air flowing down from the north, Hong Kong has effectively been left trapped under a lingering summer-like air mass well into late October.</p><p>The Observatory has separately warned of a very dry weekend ahead, with a wide <span class=\"bw\">day-night temperature gap<span class=\"tip\"><span class=\"tip-en\">the difference between daytime highs and nighttime lows</span><span class=\"tip-zh\">日夜溫差</span></span></span> expected as clear skies allow heat to escape rapidly after dark. Tai cautioned that if the current El Niño episode persists into spring, the city could face one of its warmest winters on record, extending a string of <span class=\"bw\">weather-related records<span class=\"tip\"><span class=\"tip-en\">instances in which a measured meteorological value surpasses all previous recorded values</span><span class=\"tip-zh\">天氣紀錄</span></span></span> that has characterised 2026 and adding to concerns that Hong Kong's climate is shifting further away from its traditional four-season rhythm.</p>",
-      "summary_zh_html": "<p>香港錄得自一八八四年有紀錄以來最熾熱的「霜降」<span class=\"bwz\">節氣</span>，天文台尖沙咀總部星期五下午錄得攝氏三十二點三度高溫，較二零零六年訂下的三十一度紀錄明顯高出。這個紀錄出現僅兩天前，天文台已於星期三早上六時四十五分發出歷來最遲的<span class=\"bwz\">酷熱天氣警告</span>，打破二零二四年十月訂下的紀錄，當日本港氣溫更高見三十三點八度。</p><p>中文大學大氣科學學者戴沛權解釋，今年入秋後暑熱持續不退，與三個因素互相重疊有關：其一是超強颱風「薔琵」過後留下的<span class=\"bwz\">下沉氣流</span>；其二是<span class=\"bwz\">超強厄爾尼諾現象</span>，令本應為本港帶來降溫的<span class=\"bwz\">東北季候風</span>轉弱；其三則是本港自身的<span class=\"bwz\">長期變暖趨勢</span>。由於北方冷空氣未能有效南下，香港十月下旬仍彷如停留在近似盛夏的氣團之下。</p><p>天文台另外預告週末天氣將非常乾燥，預料天色晴朗導致熱量在日落後迅速流失，造成顯著的<span class=\"bwz\">日夜溫差</span>。戴沛權警告，若今次厄爾尼諾現象持續至明年春季，本港有可能迎來歷來最暖的其中一個冬季，延續二零二六年以來一連串的<span class=\"bwz\">天氣紀錄</span>，亦令人憂慮香港的氣候正進一步偏離傳統四季分明的規律。</p>",
-      "image_scene": "A hazy, sun-bleached Hong Kong Island skyline seen across Victoria Harbour on a cloudless afternoon, heat shimmer rising from the water; on the promenade in the foreground, anonymous office workers in short sleeves shelter under umbrellas and a tree's thin shade, one fanning himself with a hand fan, no clouds anywhere in the pale sky.",
-      "cover_text": {
-        "zh_kicker": "破紀錄",
-        "zh_title": [
-          "霜降破紀錄",
-          "32.3度新高"
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/346400/HKJC-awards-over-55m-to-celebrate-Hong-Kong-athletes-at-the-Asian-Para-Games",
+      "published_date": "24 October 2026",
+      "headline": "HKJC Awards Over HK$5.5 Million to Celebrate Hong Kong Athletes at the Asian Para Games",
+      "category": "sports",
+      "summary_html": "<p>The Hong Kong, China delegation has wrapped up its campaign at the fifth Asian Para Games in Aichi-Nagoya with 41 medals, comprising 3 gold, 14 silver and 24 bronze, across five different sports. In recognition of this <span class=\"bw\">haul<span class=\"tip\"><span class=\"tip-en\">a quantity of something gained or obtained</span><span class=\"tip-zh\">收穫；戰績</span></span></span>, the Hong Kong Jockey Club is distributing over HK$5.56 million directly to medallists through its Athlete Incentive Awards Scheme, a three-year sponsorship arrangement run jointly with the Hong Kong Sports Institute. Individual gold medallists receive roughly HK$250,000, with silver and bronze winners earning HK$125,000 and HK$62,500 respectively, while team events command even higher payouts.</p><p>Boccia emerged as the standout discipline, delivering the squad's best-ever return of two golds, three silvers and three bronzes. The final gold of the Games came on the last day of competition, when pairs specialists Leung Yuk-wing and Cheung Yuen <span class=\"bw\">clinched<span class=\"tip\"><span class=\"tip-en\">to win something after a close or hard-fought contest</span><span class=\"tip-zh\">奪得；贏得</span></span></span> victory in the mixed pairs BC4 category. Eighty Hong Kong athletes had competed across ten sports throughout the week-long Games, a scale of <span class=\"bw\">participation<span class=\"tip\"><span class=\"tip-en\">the act of taking part in an activity</span><span class=\"tip-zh\">參與</span></span></span> that organisers say reflects deepening investment in para-sport pathways.</p><p>Chief Executive John Lee personally congratulated the delegation on its achievements, which officials hope will <span class=\"bw\">galvanise<span class=\"tip\"><span class=\"tip-en\">to inspire or encourage sudden action or enthusiasm</span><span class=\"tip-zh\">激勵；推動</span></span></span> greater public interest and funding for para-sport in Hong Kong. The Games closed with a ceremony marking the formal handover to Doha, which will host the next edition. For the city's young athletes, the result offers fresh evidence that sustained financial backing, such as the Jockey Club's incentive scheme, can translate directly into podium success on the regional stage.</p>",
+      "summary_zh_html": "<p>中國香港代表團在日本愛知名古屋舉行的第五屆亞洲殘疾人運動會中,以五個項目共奪得四十一面獎牌,包括三金十四銀二十四銀圓滿結束賽事(三金、十四銀、二十四銅)。為表揚這份<span class=\"bwz\">戰績</span>,香港賽馬會透過與香港體育學院合辦為期三年的「運動員奬勵計劃」,向獎牌得主直接頒發逾五百五十六萬港元獎金。個人金牌得主可獲約二十五萬港元,銀牌及銅牌得主則分別獲十二萬五千元及六萬二千五百元,而團隊項目的獎金更高。</p><p>硬地滾球成為表現最突出的項目,為代表隊帶來歷來最佳戰績——兩金三銀三銅。賽事最後一面金牌於賽事最後一天誕生,由混合雙人BC4級選手梁玉瑩及張源<span class=\"bwz\">奪得</span>勝利。整個為期一週的賽事期間,八十名香港運動員於十個項目中<span class=\"bwz\">參與</span>角逐,主辦方表示,這個規模反映本港對殘疾人體育發展路徑的投資日益加深。</p><p>行政長官李家超親自向代表團致賀,官方期望這些成績能<span class=\"bwz\">激勵</span>公眾對殘疾人體育投入更大關注與資源。賽事以交接儀式閉幕,象徵下一屆主辦權正式移交多哈。對本港年輕運動員而言,這次成果再次證明持續的財政支持,例如賽馬會的奬勵計劃,確實能轉化為區域賽場上實實在在的獎牌佳績。</p>",
+      "image_scene": "A sports stadium athletics track at night under bright floodlights, a wheelchair racer and a boccia player shown mid-competition from a respectful distance among a crowd of cheering spectators waving Hong Kong flags, a scoreboard displaying medal tallies in the background.",
+      "slides": {
+        "topic_en": "Hong Kong's Asian Para Games Success",
+        "background_en": "Hong Kong won 41 medals at the Asian Para Games, with boccia delivering its best-ever result on the final day.",
+        "background_zh": "香港在亞洲殘疾人運動會中共奪四十一面獎牌,硬地滾球項目於最後一天創下歷來最佳成績。",
+        "background_hl": "41 medals",
+        "analysis_en": "The Jockey Club's cash incentives show how sustained funding can turn athletic talent into regional podium success.",
+        "analysis_zh": "賽馬會的現金獎勵顯示持續資助如何能將運動人才轉化為區域賽場上的獎牌成績。",
+        "analysis_hl": "turn athletic talent into regional podium success",
+        "support_en": "Supporters say direct cash rewards motivate athletes and recognise the years of training behind each medal.",
+        "support_zh": "支持者認為直接現金獎勵能激勵運動員,並肯定每面獎牌背後多年的訓練付出。",
+        "support_hl": "recognise the years of training behind each medal",
+        "oppose_en": "Critics argue that one-off bonuses do little if long-term funding for para-sport training facilities stays limited.",
+        "oppose_zh": "批評者認為,若殘疾人體育訓練設施的長期資助仍然有限,一次性獎金作用不大。",
+        "oppose_hl": "long-term funding for para-sport training facilities stays limited",
+        "vocab5": [
+          {"en": "medal haul", "zh": "獎牌收穫"},
+          {"en": "clinch victory", "zh": "奪得勝利"},
+          {"en": "incentive scheme", "zh": "獎勵計劃"},
+          {"en": "podium finish", "zh": "獎牌席位"},
+          {"en": "galvanise public interest", "zh": "激勵公眾關注"}
         ],
-        "zh_hl": "32.3度",
-        "zh_sub": "打破2006年紀錄",
-        "en": "Hong Kong records hottest 'Frost' solar term since 1884"
+        "question_en": "Should cash rewards for medal winners matter more than long-term investment in para-sport training facilities?",
+        "question_zh": "獎牌得主的現金獎勵,是否應比對殘疾人體育訓練設施的長期投資更為重要?",
+        "question_hl": "long-term investment in para-sport training facilities"
+      },
+      "cover_text": {
+        "zh_kicker": "殘亞運",
+        "zh_title": ["41面獎牌", "馬會獎巨款"],
+        "zh_hl": "41面獎牌",
+        "zh_sub": "硬地滾球創最佳戰績",
+        "en": "HKJC rewards Hong Kong's 41-medal Asian Para Games campaign with HK$5.5m"
       },
       "vocab": [
-        {
-          "phrase": "solar term",
-          "zh": "節氣",
-          "sample": "The Frost solar term usually signals the start of cooler autumn weather in southern China."
-        },
-        {
-          "phrase": "Very Hot Weather Warning",
-          "zh": "酷熱天氣警告",
-          "sample": "The Observatory issued a Very Hot Weather Warning at an unusually late point in the year."
-        },
-        {
-          "phrase": "subsiding air",
-          "zh": "下沉氣流",
-          "sample": "Subsiding air left behind by the typhoon suppressed cloud formation and allowed temperatures to climb."
-        },
-        {
-          "phrase": "super El Niño",
-          "zh": "超強厄爾尼諾現象",
-          "sample": "Forecasters linked the unusual autumn heat partly to a developing super El Niño in the Pacific."
-        },
-        {
-          "phrase": "northeast monsoon",
-          "zh": "東北季候風",
-          "sample": "The northeast monsoon normally brings a welcome drop in temperature to Hong Kong each October."
-        },
-        {
-          "phrase": "unseasonable autumn heat",
-          "zh": "反常的秋季高溫",
-          "sample": "Forecasters described the spell as unseasonable autumn heat rather than a normal seasonal variation."
-        },
-        {
-          "phrase": "day-night temperature gap",
-          "zh": "日夜溫差",
-          "sample": "Clear skies this weekend are expected to produce a wide day-night temperature gap."
-        },
-        {
-          "phrase": "weather-related record",
-          "zh": "天氣紀錄",
-          "sample": "This year has already produced several weather-related records, from record rainfall to record heat."
-        },
-        {
-          "phrase": "heat shimmer",
-          "zh": "熱浪折射現象",
-          "sample": "Heat shimmer rose visibly off the pavement outside the Observatory's headquarters."
-        },
-        {
-          "phrase": "atmospheric scientist",
-          "zh": "大氣科學學者",
-          "sample": "An atmospheric scientist at Chinese University explained the three factors behind the unusual heat."
-        },
-        {
-          "phrase": "seasonal rhythm",
-          "zh": "季節規律",
-          "sample": "Residents joked that the city's seasonal rhythm had been thrown entirely off balance."
-        },
-        {
-          "phrase": "climate variability",
-          "zh": "氣候變化的波動",
-          "sample": "Climate variability linked to El Niño can temporarily mask or exaggerate the effects of long-term warming."
-        }
+        {"phrase": "medal haul", "zh": "獎牌收穫", "sample": "The delegation's medal haul of 41 was the squad's best performance in years."},
+        {"phrase": "clinch victory", "zh": "奪得勝利", "sample": "The boccia pair clinched victory in the final event of the Games."},
+        {"phrase": "incentive scheme", "zh": "獎勵計劃", "sample": "The Jockey Club's incentive scheme rewards medallists with direct cash payments."},
+        {"phrase": "medal rostrum", "zh": "頒獎台", "sample": "Dozens of Hong Kong athletes stepped onto the medal rostrum at this year's Games."},
+        {"phrase": "galvanise public interest", "zh": "激勵公眾關注", "sample": "Officials hope the medal haul will galvanise public interest in para-sport funding."},
+        {"phrase": "mixed pairs event", "zh": "混合雙人項目", "sample": "The final gold medal came in the mixed pairs boccia event on the last day."},
+        {"phrase": "sustained financial backing", "zh": "持續的財政支持", "sample": "Coaches credit sustained financial backing for the team's steady improvement."},
+        {"phrase": "para-sport pathway", "zh": "殘疾人體育發展路徑", "sample": "The city has been investing more in para-sport pathways for young athletes."},
+        {"phrase": "best-ever return", "zh": "歷來最佳戰績", "sample": "Boccia delivered the squad's best-ever return at this edition of the Games."},
+        {"phrase": "handover ceremony", "zh": "交接儀式", "sample": "The closing handover ceremony passed hosting duties to the next city, Doha."},
+        {"phrase": "deepen investment in", "zh": "加深對……的投資", "sample": "Organisers say the result reflects efforts to deepen investment in disabled athletes."},
+        {"phrase": "translate into podium success", "zh": "轉化為獎牌成績", "sample": "Years of dedicated training finally translated into podium success this week."}
       ],
       "phrases": [
-        {
-          "en": "defy the usual seasonal pattern",
-          "zh": "偏離慣常的季節規律",
-          "sample": "This October's heat defied the usual seasonal pattern that residents have come to expect."
-        },
-        {
-          "en": "push a weather record further out of reach",
-          "zh": "使天氣紀錄進一步被刷新",
-          "sample": "Each new heatwave pushes the previous weather record further out of reach of future comparison."
-        },
-        {
-          "en": "compound the effects of a changing climate",
-          "zh": "加劇氣候變化帶來的影響",
-          "sample": "A strong El Niño can compound the effects of a changing climate, producing extremes rarely seen before."
-        },
-        {
-          "en": "erode the predictability of the seasons",
-          "zh": "削弱季節的可預測性",
-          "sample": "Scientists warn that persistent heatwaves erode the predictability of the seasons that farmers once relied on."
-        },
-        {
-          "en": "strain the city's cooling infrastructure",
-          "zh": "對城市的降溫設施造成壓力",
-          "sample": "Late-season heat strains the city's cooling infrastructure just as many buildings switch off air-conditioning for winter."
-        },
-        {
-          "en": "mask a longer-term trend behind short-term noise",
-          "zh": "以短期波動掩蓋長期趨勢",
-          "sample": "A single hot October can mask a longer-term trend behind short-term noise unless viewed over decades."
-        },
-        {
-          "en": "heighten the risk of heat-related illness",
-          "zh": "增加與高溫相關疾病的風險",
-          "sample": "Prolonged autumn heat heightens the risk of heat-related illness among elderly residents still expecting cooler weather."
-        },
-        {
-          "en": "chip away at the city's traditional four seasons",
-          "zh": "逐漸侵蝕本港傳統的四季分明",
-          "sample": "Each unseasonable heatwave chips away at the city's traditional four seasons a little further."
-        },
-        {
-          "en": "complicate long-range weather forecasting",
-          "zh": "使長期天氣預測更趨複雜",
-          "sample": "Overlapping climate factors complicate long-range weather forecasting for the coming winter."
-        },
-        {
-          "en": "serve as an early warning of a warmer future",
-          "zh": "成為未來更暖天氣的早期警示",
-          "sample": "Climatologists view such anomalies as an early warning of a warmer future rather than a one-off fluke."
-        },
-        {
-          "en": "undercut assumptions built into infrastructure planning",
-          "zh": "削弱基建規劃原有的假設",
-          "sample": "Rising extremes undercut assumptions built into infrastructure planning decades ago, when such heat was unthinkable."
-        },
-        {
-          "en": "leave little room for seasonal relief",
-          "zh": "使季節性降溫的空間所剩無幾",
-          "sample": "Back-to-back records leave little room for seasonal relief before the next heatwave arrives."
-        },
-        {
-          "en": "widen the gap between record and average",
-          "zh": "擴闊紀錄與平均值之間的差距",
-          "sample": "This heatwave widens the gap between the record and the historical average more than any event in decades."
-        }
+        {"en": "cap off a campaign with", "zh": "以……為賽事作結", "sample": "Hong Kong capped off its campaign with a dramatic final-day gold medal."},
+        {"en": "reward dedication on the field", "zh": "獎勵場上的付出", "sample": "The cash bonuses are meant to reward dedication on the field over many years."},
+        {"en": "set a new benchmark in", "zh": "在……方面創下新標準", "sample": "The boccia squad set a new benchmark in Hong Kong's para-sport history."},
+        {"en": "convert funding into results", "zh": "將資助轉化為成績", "sample": "The Jockey Club scheme shows how sponsors can convert funding into tangible results."},
+        {"en": "shine a spotlight on disabled athletes", "zh": "為殘疾運動員帶來關注", "sample": "The medal haul helped shine a spotlight on disabled athletes who rarely make headlines."},
+        {"en": "a hard-fought final day", "zh": "艱苦奮戰的最後一天", "sample": "The team secured its last gold medal after a hard-fought final day of competition."},
+        {"en": "pass the baton to the next host", "zh": "將主辦權交予下一屆主辦城市", "sample": "The closing ceremony saw organisers pass the baton to Doha for the next Games."},
+        {"en": "bankroll athletic ambition", "zh": "資助運動員的雄心", "sample": "Corporate sponsors increasingly bankroll athletic ambition in disability sport."},
+        {"en": "a scoreboard that tells only part of the story", "zh": "記分牌只道出故事的一部分", "sample": "Coaches say the medal scoreboard tells only part of the story behind years of training."},
+        {"en": "widen the talent pipeline in disability sport", "zh": "擴闊殘疾體育的人才輸送", "sample": "Officials hope the result will widen the talent pipeline in disability sport for years to come."},
+        {"en": "turn a bonus into lasting momentum", "zh": "將獎金轉化為持久動力", "sample": "Athletes hope to turn this bonus into lasting momentum ahead of the next Games."},
+        {"en": "a nation cheers from the stands", "zh": "全城在觀眾席上歡呼打氣", "sample": "Hundreds of supporters cheered from the stands as the final boccia match unfolded."}
       ]
     }
   ],
   "trends": [
     {
-      "platforms": [
-        "facebook"
-      ],
-      "headline": "🐀 Rat Pack Caught on Camera at Tai Kok Tsui Park Sparks Clean-Up Demand",
-      "summary_html": "<p>A short clip showing about ten rats scurrying around Cherry Street Park in Tai Kok Tsui went viral on local Facebook groups this week, reigniting complaints about a <span class=\"bw\">rodent infestation<span class=\"tip\"><span class=\"tip-en\">a situation in which an area is overrun by rats or mice</span><span class=\"tip-zh\">鼠患</span></span></span> that residents say has lingered for years. Neighbours in the clip's comments blamed the <span class=\"bw\">illegal feeding of pigeons<span class=\"tip\"><span class=\"tip-en\">giving food to pigeons in a public place where it is prohibited by law</span><span class=\"tip-zh\">違例餵飼野鳩</span></span></span> inside the park for leaving behind food scraps that, they argued, continue to attract rats despite repeated complaints to the district's environmental hygiene office.</p><p>After the video spread, the Food and Environmental Hygiene Department inspected the park alongside a district councillor and confirmed signs of rat activity, including several burrows found in the park's flower beds, which officials described as a <span class=\"bw\">health hazard<span class=\"tip\"><span class=\"tip-en\">a condition or object that poses a risk of illness or injury</span><span class=\"tip-zh\">衞生隱患</span></span></span>. The department issued a formal <span class=\"bw\">notice to abate<span class=\"tip\"><span class=\"tip-en\">an official order requiring someone to remove or correct a nuisance within a set time</span><span class=\"tip-zh\">消除蟲鼠通知</span></span></span> under the Public Health and Municipal Services Ordinance, giving its <span class=\"bw\">pest control contractor<span class=\"tip\"><span class=\"tip-en\">a company hired to remove or control insects, rodents or other unwanted creatures</span><span class=\"tip-zh\">滅鼠承辦商</span></span></span> until 3 November to eliminate conditions conducive to rats, warning that a default notice would follow if the work was unsatisfactory, given the park's status as a <span class=\"bw\">known black spot<span class=\"tip\"><span class=\"tip-en\">a location officially recognised as having a recurring or severe version of a particular problem</span><span class=\"tip-zh\">已知黑點</span></span></span> for rodents since at least 2024.</p>",
-      "summary_zh_html": "<p>一段短片顯示約十隻老鼠在大角咀櫻桃街公園內四處走動，本週在本地Facebook社區群組瘋傳，再次引起居民對公園內<span class=\"bwz\">鼠患</span>問題的不滿，指情況已持續多年。片段留言區有街坊指出，公園內有人<span class=\"bwz\">違例餵飼野鳩</span>，遺下大量食物殘渣，認為這正是即使屢次向區內環境衞生部門投訴，老鼠仍不斷聚集的原因。</p><p>短片流傳後，食物環境衞生署聯同區議員一同巡查公園，確認有老鼠出現的跡象，包括在多個花槽發現鼠洞，署方形容情況構成<span class=\"bwz\">衞生隱患</span>。食環署根據《公眾衞生及市政條例》發出正式的<span class=\"bwz\">消除蟲鼠通知</span>，要求其<span class=\"bwz\">滅鼠承辦商</span>在十一月三日前除去可致鼠患的因素，並警告若表現不理想，將發出失責通知書；該公園自二零二四年區議會資料顯示起，已被列為鼠患的<span class=\"bwz\">已知黑點</span>。</p>",
+      "platforms": ["threads"],
+      "headline": "🎮 Retro Browser-Game Revival: Threads Users Build Their Own HK Cha Chaan Teng Sims",
+      "summary_html": "<p>A wave of homemade, retro-style browser mini-games has swept across Threads over the past week, sending Hong Kong users on a <span class=\"bw\">nostalgia trip<span class=\"tip\"><span class=\"tip-en\">an experience that evokes fond memories of the past</span><span class=\"tip-zh\">懷舊之旅</span></span></span> back to the clunky Flash games of the 2000s. Independent developers, many of them hobbyists rather than studios, have been churning out simple cooking, restaurant-management and arcade-style titles, including a Hong Kong-themed restaurant simulator that lets players run a virtual cha chaan teng, juggling orders for milk tea and pineapple buns under a ticking clock.</p><p>The craze has an unmistakably local flavour. Threads users have been swapping memories of childhood favourites such as &ldquo;HK Cafe&rdquo;, a cha-chaan-teng-themed Flash game by veteran Hong Kong cartoonist Ma Chai, alongside related titles set in a dai pai dong food stall and a traditional tea house. Fan-run websites have sprung up almost overnight to <span class=\"bw\">aggregate<span class=\"tip\"><span class=\"tip-en\">to gather many separate items into a single collection</span><span class=\"tip-zh\">匯集；整合</span></span></span> dozens of these new browser games in one place, making it easy for curious users to binge-play titles made by strangers across the city. The trend arrives alongside a separate, ongoing wave of nostalgia for real-world cha chaan teng, with old-school tea restaurants in Wan Chai drawing fresh social media attention as filming locations for classic Hong Kong films.</p>",
+      "summary_zh_html": "<p>過去一週,大量由網民自製、懷舊風格的網頁小遊戲在Threads上爆紅,帶領香港用戶展開一場<span class=\"bwz\">懷舊之旅</span>,重返二千年代那些笨拙的Flash遊戲時光。不少獨立開發者——當中大多是業餘愛好者而非正式工作室——陸續推出簡單的煮食、餐廳經營及街機式小遊戲,包括一款香港主題的餐廳模擬遊戲,讓玩家經營一間虛擬茶餐廳,在限時之內忙於應付奶茶及菠蘿包的訂單。</p><p>這股熱潮帶有鮮明的本地色彩。Threads用戶紛紛分享童年回憶,例如由香港資深漫畫家馬仔創作、以茶餐廳為主題的Flash遊戲《HK Cafe》,以及以大排檔和傳統茶坊為場景的相關作品。多個由網民自發營運的網站幾乎一夜之間湧現,用以<span class=\"bwz\">匯集</span>數十款這類新興網頁遊戲,方便用戶輕鬆暢玩陌生網民創作的作品。這股潮流與另一股正在蔓延的真實茶餐廳懷舊風潮同時出現,灣仔一些老式茶餐廳近日因為曾作經典港產片拍攝場地,在社交媒體上重新受到關注。</p>",
       "causes": [
         {
-          "label": "Reactive, video-driven enforcement",
-          "label_zh": "由短片驅動的被動執法",
-          "text": "The department only inspected Cherry Street Park once the clip had gathered public attention, despite the area being flagged as a rodent black spot in 2024 district council papers. Enforcement that follows viral exposure, rather than scheduled monitoring, raises doubts about whether known problem sites receive adequate routine attention before residents feel compelled to film evidence themselves.",
-          "text_zh": "食環署僅在短片引起公眾關注後，才對櫻桃街公園展開巡查，儘管該處早於二零二四年區議會文件中已被列為鼠患黑點。這種待短片引起關注才執法、而非定期監察的做法，令人質疑已知的問題地點，在居民被迫自行拍片曝光之前，是否得到足夠的日常跟進。"
+          "label": "Cha Chaan Teng Nostalgia as a Marker of HK Identity",
+          "text": "Recreating a cha chaan teng in pixelated form lets young users perform a kind of digital homecoming, asserting a shared local identity through food culture even as the city's dining scene grows more globalised. Students could explore why such small, everyday spaces, rather than grand monuments, so often become the emotional shorthand for what feels distinctly Hong Kong.",
+          "label_zh": "茶餐廳懷舊作為香港身份的標記",
+          "text_zh": "以像素畫面重現茶餐廳,讓年輕用戶透過飲食文化進行一種數碼式的「回鄉」,在飲食選擇日趨全球化的城市中,肯定共同的本地身份。學生可藉此探討為何這類微小的日常空間,而非宏偉的地標建築,往往成為「香港味道」的情感速記符號。"
         },
         {
-          "label": "Blame falls on anonymous pigeon-feeders, not shared upkeep",
-          "label_zh": "責任歸咎於匿名餵鳥者而非共同維護責任",
-          "text": "Online commenters quickly singled out unnamed pigeon-feeders as the sole cause of the rat problem, rather than treating the park's upkeep as a shared neighbourhood responsibility. Framing the issue around a convenient, faceless villain lets residents vent frustration without confronting harder questions about littering, irregular refuse collection, or whether anyone reports problems early enough to prevent them escalating.",
-          "text_zh": "網上留言迅速將責任全歸咎於不知名的餵鳥者，而非將公園的維護視為社區共同的責任。將問題簡化為一個方便、不具名的「元兇」，讓居民得以宣洩不滿，卻無需面對更棘手的問題，例如亂拋垃圾、垃圾收集安排是否不定時，或者居民是否有及早舉報問題，以免事件惡化。"
+          "label": "Grassroots Creativity Outside the App Store Economy",
+          "text": "Unlike most viral content, these games are built and shared for free outside the usual app-store or influencer economy, run by hobbyist coders rather than companies chasing advertising revenue. This raises questions about whether such low-stakes, non-commercial creativity can survive once bigger platforms notice the trend and attempt to monetise it.",
+          "label_zh": "脫離應用程式商店經濟的草根創意",
+          "text_zh": "與大部分病毒式內容不同,這些遊戲在一般應用程式商店或網紅經濟以外被免費開發及分享,由業餘程式愛好者而非追求廣告收益的公司製作。這引發一個問題:當大型平台注意到這股潮流並嘗試將其商業化後,這種低風險、非商業性的創意能否繼續生存。"
         },
         {
-          "label": "Rats beside a children's play area raise a disease risk",
-          "label_zh": "鼠患與兒童遊樂設施相鄰帶來的衞生風險",
-          "text": "Cherry Street Park includes play equipment used daily by young children, and rodents are known carriers of diseases such as leptospirosis, spread through contaminated soil or surfaces. A rat colony nesting in flower beds metres from where children play turns an apparent nuisance into a genuine public-health concern deserving faster action than a single clean-up notice.",
-          "text_zh": "櫻桃街公園設有供兒童日常使用的遊樂設施，而老鼠是鈎端螺旋體病等疾病的已知傳播者，可透過受污染的泥土或表面傳播。鼠群在距離兒童遊玩地點僅數米的花槽築巢，令看似輕微的滋擾，變成需要比一張清理通知更迅速處理的真正公共衞生隱患。"
+          "label": "A Counter-Argument: Nostalgia as a Distraction From Present Problems",
+          "text": "Sceptics argue that spending hours recreating a decades-old cha chaan teng online is an escapist indulgence that distracts young people from pressing present-day concerns, from housing costs to career anxiety, rather than engaging with them directly. On this view, viral nostalgia offers comfort but little else of lasting value.",
+          "label_zh": "反方觀點:懷舊只是逃避現實問題的消遣",
+          "text_zh": "質疑者認為,花上大量時間在網上重現數十年前的茶餐廳,只是一種逃避現實的消遣,令年輕人忽略了住屋成本以至事業焦慮等當前迫切問題,而非直接面對它們。按此觀點,病毒式懷舊帶來的只是短暫安慰,缺乏持久的價值。"
         },
         {
-          "label": "A ten-second clip may overstate a routine, already-managed problem",
-          "label_zh": "十秒短片或誇大了一個本已受控的日常問題",
-          "text": "A brief video filmed from one angle cannot show how often the park is normally inspected, and the department's swift response suggests existing monitoring was not entirely absent. Treating every viral clip as proof of official neglect risks diverting limited pest-control resources toward whichever problem trends online that week, rather than toward the locations that genuinely pose the greatest risk.",
-          "text_zh": "一段從單一角度拍攝的短片，並不能反映公園日常巡查的頻率，而食環署迅速回應亦顯示現行監察並非完全缺失。若將每段瘋傳短片都視為官方失職的證據，有可能令本已有限的滅鼠資源，被導向當週網上熱議的地點，而非真正風險最高的地方。"
+          "label": "Media Literacy in an Age of Anonymous Fan Aggregator Sites",
+          "text": "The rapid appearance of unofficial websites collecting dozens of strangers' games, with no clear ownership, moderation or safety checks, raises practical questions about what users unknowingly click, download or share while chasing a nostalgic trend. Students could weigh how media literacy habits need to extend beyond news articles to include casual, seemingly harmless viral content.",
+          "label_zh": "匿名迷因整合網站時代的媒體素養",
+          "text_zh": "大量來源不明、缺乏清晰擁有者、審核或安全檢查的非官方網站,一夜間湧現,集合數十款陌生網民製作的遊戲,這引發一個實際問題:用戶在追逐懷舊潮流時,到底在不知不覺間點擊、下載或分享了甚麼。學生可藉此思考,媒體素養的習慣除了新聞報道外,亦需延伸至看似無害的隨意病毒式內容。"
         }
       ],
       "vocab": [
-        {
-          "phrase": "rodent infestation",
-          "zh": "鼠患",
-          "sample": "Residents said the rodent infestation in the park had never been fully resolved despite years of complaints."
-        },
-        {
-          "phrase": "illegal feeding",
-          "zh": "違例餵飼",
-          "sample": "Illegal feeding of pigeons in public parks often leaves behind scraps that attract other pests."
-        },
-        {
-          "phrase": "health hazard",
-          "zh": "衞生隱患",
-          "sample": "Officials described the uncontrolled rat activity as a genuine health hazard to park visitors."
-        },
-        {
-          "phrase": "notice to abate",
-          "zh": "消除蟲鼠通知",
-          "sample": "The department issued a notice to abate, giving the contractor a strict deadline to clear the rat burrows."
-        },
-        {
-          "phrase": "pest control contractor",
-          "zh": "滅鼠承辦商",
-          "sample": "The pest control contractor was ordered to remove anything likely to attract rats within two weeks."
-        },
-        {
-          "phrase": "known black spot",
-          "zh": "已知黑點",
-          "sample": "The park has been a known black spot for rats since at least 2024, according to district council records."
-        },
-        {
-          "phrase": "flower bed burrow",
-          "zh": "花槽鼠洞",
-          "sample": "Inspectors found several flower bed burrows after walking through the park with a district councillor."
-        },
-        {
-          "phrase": "statutory ordinance",
-          "zh": "法定條例",
-          "sample": "The notice was issued under a statutory ordinance that allows the department to compel action from contractors."
-        },
-        {
-          "phrase": "default notice",
-          "zh": "失責通知書",
-          "sample": "A default notice would follow if the contractor failed to meet the clean-up deadline."
-        }
+        {"phrase": "nostalgia trip", "zh": "懷舊之旅", "sample": "The new browser games sent many users on an unexpected nostalgia trip."},
+        {"phrase": "aggregate", "zh": "匯集；整合", "sample": "A fan-run website now aggregates dozens of the viral mini-games in one place."},
+        {"phrase": "hobbyist developer", "zh": "業餘開發者", "sample": "Most of the games were made by hobbyist developers rather than professional studios."},
+        {"phrase": "retro aesthetic", "zh": "懷舊美學", "sample": "The games deliberately copy the retro aesthetic of early-2000s Flash websites."},
+        {"phrase": "grassroots creativity", "zh": "草根創意", "sample": "The trend is a rare example of grassroots creativity spreading without any marketing budget."},
+        {"phrase": "escapist indulgence", "zh": "逃避現實的消遣", "sample": "Critics dismissed the craze as a harmless but shallow escapist indulgence."},
+        {"phrase": "digital homecoming", "zh": "數碼式回鄉", "sample": "Playing the cha chaan teng game felt like a small digital homecoming for many users."},
+        {"phrase": "fan aggregator site", "zh": "粉絲整合網站", "sample": "An anonymous fan aggregator site collected every game mentioned in the trend."},
+        {"phrase": "low-stakes creativity", "zh": "低風險創意", "sample": "Commentators praised the low-stakes creativity behind these free, ad-free games."},
+        {"phrase": "shared local identity", "zh": "共同的本地身份", "sample": "Food-themed games can express a shared local identity better than grand landmarks."}
       ],
       "phrases": [
-        {
-          "en": "force an overdue response from officials",
-          "zh": "迫使官方作出遲來的回應",
-          "sample": "The viral clip forced an overdue response from officials who had ignored earlier complaints."
-        },
-        {
-          "en": "expose a long-standing blind spot in municipal upkeep",
-          "zh": "揭露市政管理長期存在的盲點",
-          "sample": "The footage exposed a long-standing blind spot in municipal upkeep that routine inspections had missed."
-        },
-        {
-          "en": "hold a contractor to a firm deadline",
-          "zh": "要求承辦商遵守明確限期",
-          "sample": "Authorities moved to hold the contractor to a firm deadline rather than accept vague assurances."
-        },
-        {
-          "en": "turn a neighbourhood nuisance into a viral story",
-          "zh": "將社區滋擾問題變成網上熱話",
-          "sample": "A single short video can turn a neighbourhood nuisance into a viral story within hours."
-        },
-        {
-          "en": "underline the gap between policy and practice",
-          "zh": "凸顯政策與實際執行之間的差距",
-          "sample": "Repeated complaints before the video surfaced underline the gap between policy and practice at district level."
-        },
-        {
-          "en": "shift blame onto an unnamed culprit",
-          "zh": "將責任轉嫁至不知名的人",
-          "sample": "Commenters were quick to shift blame onto an unnamed culprit feeding the pigeons rather than examine wider upkeep failures."
-        },
-        {
-          "en": "treat social media exposure as a substitute for routine inspection",
-          "zh": "將社交媒體曝光視為日常巡查的替代品",
-          "sample": "Critics argue the city should not treat social media exposure as a substitute for routine inspection."
-        },
-        {
-          "en": "settle for a short-term fix rather than a lasting solution",
-          "zh": "滿足於短期應急措施而非長遠解決方案",
-          "sample": "Residents fear the department will settle for a short-term fix rather than a lasting solution to the rat problem."
-        },
-        {
-          "en": "test public trust in the agency responsible",
-          "zh": "考驗公眾對負責部門的信任",
-          "sample": "Each recurrence of the same problem further tests public trust in the agency responsible for hygiene enforcement."
-        }
+        {"en": "strike a nostalgic chord", "zh": "觸動懷舊情懷", "sample": "The pixelated cha chaan teng game struck a nostalgic chord with thousands of users."},
+        {"en": "outside the usual commercial playbook", "zh": "脫離慣常的商業運作模式", "sample": "These hobbyist games operate outside the usual commercial playbook of app stores."},
+        {"en": "risk being swallowed by commercialisation", "zh": "面臨被商業化吞噬的風險", "sample": "Grassroots trends like this risk being swallowed by commercialisation once brands notice."},
+        {"en": "offer comfort without substance", "zh": "提供安慰卻缺乏實質內容", "sample": "Sceptics argue the trend offers comfort without substance for its young audience."},
+        {"en": "click first, question later", "zh": "先點擊,後質疑", "sample": "Media literacy experts worry users click first, question later when chasing viral games."},
+        {"en": "repackage everyday food culture", "zh": "重新包裝日常飲食文化", "sample": "The games repackage everyday food culture into something playful and shareable."},
+        {"en": "a low barrier to creative participation", "zh": "創作參與的低門檻", "sample": "Simple browser games offer a low barrier to creative participation for amateur coders."},
+        {"en": "sidestep the pressures of modern life", "zh": "暫時避開現代生活的壓力", "sample": "For a few minutes, players can sidestep the pressures of modern life through nostalgic play."},
+        {"en": "an unregulated corner of the internet", "zh": "缺乏監管的網絡角落", "sample": "Fan aggregator sites represent an unregulated corner of the internet that spreads quickly."},
+        {"en": "turn memory into gameplay", "zh": "將記憶轉化為遊戲體驗", "sample": "Developers have found clever ways to turn collective memory into simple gameplay."}
       ]
     }
   ]

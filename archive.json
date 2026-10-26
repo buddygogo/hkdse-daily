@@ -31069,6 +31069,750 @@
    ],
    "date": "2026-10-25",
    "id": "aa48309bd"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/business/banking-finance/article/3370173/hong-kong-ipo-boom-risk-cornerstone-backers-get-cold-feet-sources-say",
+   "published_date": "20 October 2026",
+   "headline": "Hong Kong's IPO Boom Faces a Cornerstone Investor Cold-Feet Problem",
+   "category": "econ",
+   "summary_html": "<p>Hong Kong's red-hot IPO market, on track for its strongest year in over a decade, is showing cracks as <span class=\"bw\">cornerstone investors<span class=\"tip\"><span class=\"tip-en\">large investors who agree in advance to buy a fixed stake in a new share listing</span><span class=\"tip-zh\">基礎投資者</span></span></span> grow hesitant about committing to new listings. More than 60 per cent of companies that went public in the third quarter are now trading <span class=\"bw\">below their offer price<span class=\"tip\"><span class=\"tip-en\">at a lower price than the one investors first paid when the shares were issued</span><span class=\"tip-zh\">跌穿發售價</span></span></span>, prompting institutional backers who had verbally agreed to <span class=\"bw\">anchor<span class=\"tip\"><span class=\"tip-en\">to provide a stable, reassuring commitment that supports something</span><span class=\"tip-zh\">坐鎮；穩住</span></span></span> upcoming deals to quietly withdraw, forcing at least one planned October listing to be delayed until next month at the earliest.</p><p>The retreat strikes at the heart of a financing model Hong Kong's exchange has leaned on for decades. Cornerstone investors typically commit to buying a fixed stake before a listing even opens to the public, a move meant to reassure skittish retail buyers that <span class=\"bw\">deep-pocketed<span class=\"tip\"><span class=\"tip-en\">having a large amount of money available to spend or invest</span><span class=\"tip-zh\">財力雄厚</span></span></span> names stand behind the deal. Without that early vote of confidence, <span class=\"bw\">underwriters<span class=\"tip\"><span class=\"tip-en\">financial institutions that help arrange and guarantee the sale of new shares</span><span class=\"tip-zh\">包銷商</span></span></span> must work harder to drum up demand, and issuers risk pricing their shares lower just to get a deal done at all, a trade-off that can dent the very enthusiasm cornerstone investors were meant to generate in the first place.</p><p>Regulators, wary of a different kind of problem, have separately cracked down on what they call <span class=\"bw\">IPO-rigging syndicates<span class=\"tip\"><span class=\"tip-en\">coordinated groups accused of illegally manipulating demand for a new share listing</span><span class=\"tip-zh\">新股造假集團</span></span></span>, suspending trading in one stock and restricting dealing in roughly HK$4.7 billion of assets held across 31 brokerages. Officials insist the two trends are not directly connected, but together they complicate an already delicate balancing act: keeping Hong Kong's <span class=\"bw\">listing pipeline<span class=\"tip\"><span class=\"tip-en\">the series of companies preparing to go public in the near future</span><span class=\"tip-zh\">上市項目儲備</span></span></span> attractive to global capital while weeding out the kind of <span class=\"bw\">inflated demand<span class=\"tip\"><span class=\"tip-en\">demand that appears artificially larger than it actually is</span><span class=\"tip-zh\">虛增需求</span></span></span> that can leave ordinary investors holding an overpriced stake.</p>",
+   "summary_zh_html": "<p>香港熾熱的新股市場原本有望創下逾十年以來最佳全年表現，但隨着<span class=\"bwz\">基礎投資者</span>對認購新上市公司漸趨猶豫，市場已開始出現裂痕。第三季掛牌的公司中，逾六成股價已<span class=\"bwz\">跌穿發售價</span>，促使早前口頭答應<span class=\"bwz\">坐鎮</span>上市交易的機構投資者悄悄退出，導致至少一宗原定十月上市的計劃需延至最快下月進行。</p><p>這波退潮正衝擊香港交易所數十年來一直倚賴的融資模式核心。基礎投資者一般會在上市公開認購前，承諾購入固定股份，目的是向容易動搖的散戶投資者保證，有<span class=\"bwz\">財力雄厚</span>的機構在背後撐腰。失去這份初始信心保證，<span class=\"bwz\">包銷商</span>便須更費力地招攬需求，而發行人亦可能要壓低定價，才能完成交易——但這種取捨，恰恰可能削弱基礎投資者原本應該帶來的那份信心。</p><p>監管機構則另有顧慮，近日打擊所謂的<span class=\"bwz\">新股造假集團</span>，暫停一隻股份的交易，並限制涉及31間經紀行、約47億港元資產的交易活動。官方強調兩者並無直接關連，但兩股趨勢同時出現，令本已微妙的平衡更形複雜：既要維持香港<span class=\"bwz\">上市項目儲備</span>對全球資金的吸引力，同時亦要剔除可能令普通投資者高價接貨的<span class=\"bwz\">虛增需求</span>。</p>",
+   "image_scene": "A hushed Hong Kong Stock Exchange screen room with large digital boards flashing red falling share prices, besuited bankers in a glass-walled meeting room nearby looking tense over documents, Central's skyscrapers visible through floor-to-ceiling windows.",
+   "slides": {
+    "topic_en": "Hong Kong's IPO Market Loses Steam",
+    "background_en": "Cornerstone investors are growing hesitant about new Hong Kong listings after many recent IPOs fell below their offer price.",
+    "background_zh": "由於近期多宗新股股價跌穿發售價，基礎投資者對認購香港新上市公司漸趨猶豫。",
+    "background_hl": "fell below their offer price",
+    "analysis_en": "Without early cornerstone commitments, underwriters must work harder to drum up demand, often forcing issuers to price shares lower.",
+    "analysis_zh": "缺乏基礎投資者的早期承諾，包銷商須更費力招攬需求，發行人往往須壓低定價。",
+    "analysis_hl": "underwriters must work harder to drum up demand",
+    "support_en": "Supporters say cautious cornerstone investors protect retail buyers from backing deals that lack genuine institutional confidence.",
+    "support_zh": "支持者認為，審慎的基礎投資者可保護散戶，免受缺乏真正機構信心的交易所累。",
+    "support_hl": "protect retail buyers from backing deals that lack genuine institutional confidence",
+    "oppose_en": "Critics warn that a shrinking cornerstone pool could choke off Hong Kong's hard-won status as a leading listing hub.",
+    "oppose_zh": "批評者警告，基礎投資者萎縮可能削弱香港作為主要上市樞紐的地位，而這地位實屬得來不易。",
+    "oppose_hl": "choke off Hong Kong's hard-won status as a leading listing hub",
+    "vocab5": [
+     {
+      "en": "cornerstone investor",
+      "zh": "基礎投資者"
+     },
+     {
+      "en": "underwriter",
+      "zh": "包銷商"
+     },
+     {
+      "en": "listing pipeline",
+      "zh": "上市項目儲備"
+     },
+     {
+      "en": "offer price",
+      "zh": "發售價"
+     },
+     {
+      "en": "inflated demand",
+      "zh": "虛增需求"
+     }
+    ],
+    "question_en": "Should Hong Kong rely less on cornerstone investors to protect the credibility of its IPO market?",
+    "question_zh": "香港應否減少倚賴基礎投資者，以保障新股市場的信譽？",
+    "question_hl": "rely less on cornerstone investors to protect the credibility of its IPO market"
+   },
+   "cover_text": {
+    "zh_kicker": "新股遇冷",
+    "zh_title": [
+     "基礎投資者",
+     "退意漸現"
+    ],
+    "zh_hl": "退意漸現",
+    "zh_sub": "多宗新股跌穿發售價",
+    "en": "Hong Kong's IPO boom faces a cornerstone investor pullback"
+   },
+   "vocab": [
+    {
+     "phrase": "cornerstone investor",
+     "zh": "基礎投資者",
+     "sample": "Cornerstone investors often commit to a deal months before the public offering opens."
+    },
+    {
+     "phrase": "underwriter",
+     "zh": "包銷商",
+     "sample": "The underwriter struggled to find enough buyers for the oversized share offering."
+    },
+    {
+     "phrase": "offer price",
+     "zh": "發售價",
+     "sample": "Shares slipped well below their offer price within days of listing."
+    },
+    {
+     "phrase": "listing pipeline",
+     "zh": "上市項目儲備",
+     "sample": "A strong listing pipeline is one sign of a healthy capital market."
+    },
+    {
+     "phrase": "inflated demand",
+     "zh": "虛增需求",
+     "sample": "Regulators are cracking down on inflated demand created by coordinated bidding."
+    },
+    {
+     "phrase": "retail buyer",
+     "zh": "散戶投資者",
+     "sample": "Retail buyers often look to cornerstone investors as a signal of confidence."
+    },
+    {
+     "phrase": "institutional backer",
+     "zh": "機構投資者",
+     "sample": "Institutional backers quietly withdrew their verbal commitments to the deal."
+    },
+    {
+     "phrase": "stock manipulation",
+     "zh": "操縱股市",
+     "sample": "Authorities say the syndicate engaged in deliberate stock manipulation."
+    },
+    {
+     "phrase": "capital market",
+     "zh": "資本市場",
+     "sample": "A healthy capital market depends on investor trust in fair pricing."
+    },
+    {
+     "phrase": "trading debut",
+     "zh": "上市首日表現",
+     "sample": "The company's trading debut ended well below expectations."
+    },
+    {
+     "phrase": "verbal commitment",
+     "zh": "口頭承諾",
+     "sample": "A verbal commitment carries less weight than a signed agreement."
+    },
+    {
+     "phrase": "market confidence",
+     "zh": "市場信心",
+     "sample": "Restoring market confidence will take more than one strong quarter."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "cast doubt on a listing's appeal",
+     "zh": "令上市計劃的吸引力遭質疑",
+     "sample": "Weak demand cast doubt on the listing's appeal before trading even began."
+    },
+    {
+     "en": "walk back a verbal commitment",
+     "zh": "收回口頭承諾",
+     "sample": "Several investors quietly walked back their verbal commitments at the last minute."
+    },
+    {
+     "en": "prop up investor confidence",
+     "zh": "支撐投資者信心",
+     "sample": "Cornerstone deals are meant to prop up investor confidence from day one."
+    },
+    {
+     "en": "leave issuers scrambling for buyers",
+     "zh": "令發行人四處張羅買家",
+     "sample": "Withdrawn commitments left issuers scrambling for buyers just weeks before listing."
+    },
+    {
+     "en": "take the shine off a boom year",
+     "zh": "為豐收年份蒙上陰影",
+     "sample": "The cooling trend has taken the shine off what was meant to be a boom year."
+    },
+    {
+     "en": "crack down on rigged demand",
+     "zh": "打擊造假需求",
+     "sample": "Regulators moved quickly to crack down on rigged demand across several brokerages."
+    },
+    {
+     "en": "leave retail investors holding an overpriced stake",
+     "zh": "令散戶高價接貨",
+     "sample": "Inflated demand can leave retail investors holding an overpriced stake once hype fades."
+    },
+    {
+     "en": "tighten scrutiny of new listings",
+     "zh": "加強審查新股上市",
+     "sample": "Authorities have tightened scrutiny of new listings following the rigging allegations."
+    },
+    {
+     "en": "delay a deal until market sentiment improves",
+     "zh": "延遲交易至市場氣氛改善",
+     "sample": "Bankers chose to delay the deal until market sentiment improves."
+    },
+    {
+     "en": "keep a listing hub competitive",
+     "zh": "保持上市樞紐的競爭力",
+     "sample": "Attracting global capital is essential to keep a listing hub competitive."
+    },
+    {
+     "en": "shake confidence in the IPO process",
+     "zh": "動搖對新股上市程序的信心",
+     "sample": "The scandal has shaken confidence in the IPO process among smaller investors."
+    },
+    {
+     "en": "separate genuine demand from manufactured hype",
+     "zh": "區分真實需求與人為炒作",
+     "sample": "Regulators are trying to separate genuine demand from manufactured hype."
+    }
+   ],
+   "date": "2026-10-26",
+   "id": "ae64bac8f"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370979/over-1000-hongkongers-ride-baidus-robotaxis-city-first-public-trial",
+   "published_date": "21 October 2026",
+   "headline": "Over 1,000 Hongkongers to Trial Baidu's Robotaxis in City-First Public Scheme",
+   "category": "tech",
+   "summary_html": "<p>Baidu's self-driving unit, Apollo Go, has opened what the company calls Hong Kong's first large-scale <span class=\"bw\">public trial<span class=\"tip\"><span class=\"tip-en\">a real-world test open to ordinary members of the public, not just engineers</span><span class=\"tip-zh\">公眾試驗</span></span></span> of <span class=\"bw\">autonomous vehicles<span class=\"tip\"><span class=\"tip-en\">vehicles that can drive themselves without a human controlling the steering</span><span class=\"tip-zh\">自動駕駛車輛</span></span></span>, offering more than 1,000 Tung Chung residents a free ride between 21 October and 3 November. Riders travel a 5.1-kilometre <span class=\"bw\">designated route<span class=\"tip\"><span class=\"tip-en\">a specific path officially approved for a particular use</span><span class=\"tip-zh\">指定路線</span></span></span> that starts near Yat Tung Estate, passes a hotel, and loops back to the start, with each trip lasting roughly 15 minutes. Tickets, distributed through the Islands District Council Secretariat, are capped at 600, enough for up to 1,200 passenger journeys since each car carries at most two riders.</p><p>Unlike a fully commercial service, every vehicle still carries a <span class=\"bw\">safety operator<span class=\"tip\"><span class=\"tip-en\">a trained person who sits in a self-driving vehicle ready to intervene if something goes wrong</span><span class=\"tip-zh\">安全員</span></span></span> in the driver's seat, a reminder that the technology remains firmly in testing. Baidu says each operator has roughly a decade of driving experience and at least 100 hours of dedicated autonomous-driving training. Passengers are asked to fill in feedback questionnaires after each journey, data the company will use to fine-tune its <span class=\"bw\">ride-hailing<span class=\"tip\"><span class=\"tip-en\">a service that matches passengers with vehicles for hire, usually booked through an app</span><span class=\"tip-zh\">網約車</span></span></span> algorithms before seeking approval for a wider rollout. Officials note the vehicles currently lack barrier-free facilities, underlining how far the project still sits from a full commercial launch.</p><p>The trial fits into a broader, cautious strategy by Hong Kong's Transport Department, which has gradually expanded test routes for autonomous vehicles across Lantau since 2024 rather than approving a sudden <span class=\"bw\">commercial rollout<span class=\"tip\"><span class=\"tip-en\">the full-scale public launch of a product or service for ordinary paying customers</span><span class=\"tip-zh\">商業化推出</span></span></span>. Supporters argue the staged approach lets engineers iron out safety issues before robotaxis share the road with pedestrians and cyclists at scale. Sceptics, including some in the taxi and minibus trades, worry that even a modest pilot scheme signals the eventual <span class=\"bw\">displacement of professional drivers<span class=\"tip\"><span class=\"tip-en\">the replacing of human workers in a job by machines or technology</span><span class=\"tip-zh\">專業司機被取代</span></span></span>, a tension likely to sharpen as the technology matures.</p>",
+   "summary_zh_html": "<p>百度旗下自動駕駛部門「Apollo Go」在香港展開該公司稱為全港首個大型<span class=\"bwz\">公眾試驗</span>的<span class=\"bwz\">自動駕駛車輛</span>計劃，由10月21日至11月3日，向逾千名東涌居民提供免費試乘。乘客可沿一條全長5.1公里的<span class=\"bwz\">指定路線</span>行駛，路線由映灣園一帶出發，經過一間酒店後折返起點，全程約需15分鐘。車票經離島區議會秘書處派發，數量限於600張，由於每輛車最多可載兩位乘客，故合共可供約1,200人次試乘。</p><p>與全面商業服務不同，每輛車仍設有<span class=\"bwz\">安全員</span>坐在司機座位，提醒公眾這項技術仍處於測試階段。百度表示，每位安全員均具備約十年駕駛經驗，並接受最少100小時的自動駕駛專項訓練。乘客需於每程完結後填寫意見問卷，公司將利用相關數據優化其<span class=\"bwz\">網約車</span>演算法，然後才會申請擴大推行範圍。有關方面指出，現時車輛尚未設有無障礙設施，顯示計劃距離全面商業啟動仍有一段路。</p><p>今次試驗屬於運輸署一套較審慎的整體策略的一部分，該署自2024年起逐步擴大大嶼山一帶的自動駕駛測試路線，而非一下子批准<span class=\"bwz\">商業化推出</span>。支持者認為，循序漸進的做法讓工程師可在無人駕駛的士大規模與行人及單車使用者共用道路之前，先解決安全問題。然而，包括部分的士及小巴業界人士的質疑者擔心，即使是規模有限的試驗計劃，也預示着<span class=\"bwz\">專業司機被取代</span>的終局，隨着技術日趨成熟，這種張力相信會愈趨明顯。</p>",
+   "image_scene": "A white self-driving car with a visible safety operator inside, cruising along a quiet Tung Chung street past a hotel and a public housing estate, with ordinary residents queueing patiently at a roadside stop holding paper tickets, Lantau hills in the distance.",
+   "slides": {
+    "topic_en": "Robotaxis Hit Hong Kong's Streets",
+    "background_en": "Baidu's Apollo Go is letting over 1,000 Tung Chung residents ride free self-driving robotaxis until 3 November.",
+    "background_zh": "百度「Apollo Go」讓逾千名東涌居民於11月3日前免費試乘自動駕駛的士。",
+    "background_hl": "over 1,000 Tung Chung residents ride free self-driving robotaxis",
+    "analysis_en": "The staged trial lets engineers fix safety issues before autonomous vehicles share busy roads with pedestrians at scale.",
+    "analysis_zh": "分階段試驗讓工程師在自動駕駛車輛大規模與行人共用繁忙道路前，先解決安全問題。",
+    "analysis_hl": "fix safety issues before autonomous vehicles share busy roads",
+    "support_en": "Supporters say gradual, closely monitored trials build public trust while letting Hong Kong catch up with global innovation.",
+    "support_zh": "支持者認為，循序漸進且嚴密監察的試驗能建立公眾信任，同時讓香港追上全球創新步伐。",
+    "support_hl": "build public trust while letting Hong Kong catch up with global innovation",
+    "oppose_en": "Sceptics, including taxi drivers, fear even a small pilot scheme signals the eventual displacement of professional drivers.",
+    "oppose_zh": "包括的士司機在內的質疑者擔心，即使是小型試驗計劃，也預示着專業司機終將被取代。",
+    "oppose_hl": "the eventual displacement of professional drivers",
+    "vocab5": [
+     {
+      "en": "autonomous vehicle",
+      "zh": "自動駕駛車輛"
+     },
+     {
+      "en": "safety operator",
+      "zh": "安全員"
+     },
+     {
+      "en": "public trial",
+      "zh": "公眾試驗"
+     },
+     {
+      "en": "ride-hailing",
+      "zh": "網約車"
+     },
+     {
+      "en": "job displacement",
+      "zh": "職位被取代"
+     }
+    ],
+    "question_en": "Should Hong Kong speed up the rollout of self-driving vehicles even if some jobs may disappear?",
+    "question_zh": "即使部分職位可能消失，香港應否加快推行自動駕駛車輛？",
+    "question_hl": "speed up the rollout of self-driving vehicles"
+   },
+   "cover_text": {
+    "zh_kicker": "東涌試搭",
+    "zh_title": [
+     "逾千市民",
+     "試搭無人的士"
+    ],
+    "zh_hl": "逾千",
+    "zh_sub": "百度14日免費體驗",
+    "en": "Over 1,000 Hongkongers to trial Baidu's robotaxis in Tung Chung"
+   },
+   "vocab": [
+    {
+     "phrase": "autonomous vehicle",
+     "zh": "自動駕駛車輛",
+     "sample": "Autonomous vehicles still need extensive testing before replacing human drivers."
+    },
+    {
+     "phrase": "robotaxi",
+     "zh": "無人駕駛的士",
+     "sample": "The robotaxi completed its 15-minute loop without any human intervention."
+    },
+    {
+     "phrase": "safety operator",
+     "zh": "安全員",
+     "sample": "A safety operator stayed in the driver's seat throughout the trial."
+    },
+    {
+     "phrase": "designated route",
+     "zh": "指定路線",
+     "sample": "The vehicles are restricted to a designated route approved by regulators."
+    },
+    {
+     "phrase": "ride-hailing",
+     "zh": "網約車",
+     "sample": "Ride-hailing apps have reshaped how commuters travel around the city."
+    },
+    {
+     "phrase": "commercial rollout",
+     "zh": "商業化推出",
+     "sample": "A full commercial rollout is still years away, officials admitted."
+    },
+    {
+     "phrase": "public trial",
+     "zh": "公眾試驗",
+     "sample": "The public trial drew more applicants than there were tickets available."
+    },
+    {
+     "phrase": "trial phase",
+     "zh": "試驗階段",
+     "sample": "The trial phase will determine whether the service expands citywide."
+    },
+    {
+     "phrase": "driverless technology",
+     "zh": "無人駕駛技術",
+     "sample": "Driverless technology raises new questions about liability in accidents."
+    },
+    {
+     "phrase": "passenger feedback",
+     "zh": "乘客意見",
+     "sample": "Passenger feedback will shape how the service is refined before launch."
+    },
+    {
+     "phrase": "road safety concern",
+     "zh": "道路安全顧慮",
+     "sample": "Road safety concerns remain the biggest obstacle to wider adoption."
+    },
+    {
+     "phrase": "job displacement",
+     "zh": "職位被取代",
+     "sample": "Job displacement fears are common whenever new automation enters an industry."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "put the technology through its paces",
+     "zh": "測試科技的實際表現",
+     "sample": "Engineers are putting the self-driving system through its paces on quiet suburban roads."
+    },
+    {
+     "en": "ease public anxiety about new technology",
+     "zh": "緩解公眾對新科技的憂慮",
+     "sample": "Visible safety operators are meant to ease public anxiety about the new technology."
+    },
+    {
+     "en": "iron out safety issues",
+     "zh": "解決安全問題",
+     "sample": "Regulators want to iron out safety issues before any wider rollout."
+    },
+    {
+     "en": "edge towards a commercial launch",
+     "zh": "逐步邁向商業啟動",
+     "sample": "The service is edging towards a commercial launch after months of quiet testing."
+    },
+    {
+     "en": "share the road with",
+     "zh": "與……共用道路",
+     "sample": "Self-driving cars will eventually have to share the road with cyclists and pedestrians."
+    },
+    {
+     "en": "signal a shift in the job market",
+     "zh": "預示就業市場的轉變",
+     "sample": "Widespread automation could signal a shift in the job market for drivers."
+    },
+    {
+     "en": "keep a human in the loop",
+     "zh": "保留人手監察",
+     "sample": "Current trials still keep a human in the loop as a safety net."
+    },
+    {
+     "en": "win over a sceptical public",
+     "zh": "說服持懷疑態度的公眾",
+     "sample": "Baidu hopes positive feedback will help win over a sceptical public."
+    },
+    {
+     "en": "test the limits of public trust",
+     "zh": "測試公眾信任的底線",
+     "sample": "Any accident during the trial would test the limits of public trust in the technology."
+    },
+    {
+     "en": "lag behind the pace of innovation",
+     "zh": "追不上創新步伐",
+     "sample": "Critics say regulation often lags behind the pace of technological innovation."
+    },
+    {
+     "en": "brace for disruption",
+     "zh": "為衝擊作好準備",
+     "sample": "Traditional taxi drivers are bracing for disruption as automation advances."
+    },
+    {
+     "en": "stay firmly in testing mode",
+     "zh": "仍然處於測試階段",
+     "sample": "Despite the hype, the technology stays firmly in testing mode for now."
+    }
+   ],
+   "date": "2026-10-26",
+   "id": "aca4d4603"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/society/article/3371380/art-or-box-office-how-hong-kong-plans-measure-value-play-ballet-or-symphony",
+   "published_date": "19 October 2026",
+   "headline": "Art or Box Office? Hong Kong Rethinks How It Funds Its Top Arts Groups",
+   "category": "arts",
+   "summary_html": "<p>Hong Kong is preparing to overhaul how it funds its nine flagship performing arts groups, shifting away from what has long been a near-automatic annual <span class=\"bw\">subsidy<span class=\"tip\"><span class=\"tip-en\">money given by the government to support an organisation's running costs</span><span class=\"tip-zh\">資助</span></span></span> towards a more flexible, merit-based system. Under the proposed changes, announced as part of a wider cultural policy review, the government will inject HK$200 million into the Arts and Sport Development Fund while introducing an <span class=\"bw\">in-and-out mechanism<span class=\"tip\"><span class=\"tip-en\">a system that allows organisations to gain or lose funded status depending on their performance</span><span class=\"tip-zh\">能上能落機制</span></span></span> tied to artistic standards rather than guaranteed continuity.</p><p>The change is designed to free up room, and public money, for <span class=\"bw\">emerging companies<span class=\"tip\"><span class=\"tip-en\">organisations that are newly established or still building a reputation</span><span class=\"tip-zh\">新興藝團</span></span></span> that have long struggled to compete with established institutions for recognition and resources. Yet the proposal immediately raises a thorny question: how exactly should officials measure <span class=\"bw\">artistic merit<span class=\"tip\"><span class=\"tip-en\">the quality or value of a creative work, judged by its artistic rather than commercial success</span><span class=\"tip-zh\">藝術價值</span></span></span> in a field where critical acclaim and <span class=\"bw\">box-office returns<span class=\"tip\"><span class=\"tip-en\">the amount of money a performance earns from ticket sales</span><span class=\"tip-zh\">票房收入</span></span></span> frequently point in opposite directions? A daring, experimental production might win prizes while playing to half-empty houses, whereas a crowd-pleasing commercial hit may contribute little to the city's artistic reputation.</p><p>Directors of the nine designated groups, which include leading orchestras, dance and opera companies, have voiced cautious support paired with concern. They note that a prolonged economic downturn has made <span class=\"bw\">private fundraising<span class=\"tip\"><span class=\"tip-en\">the raising of money from businesses or individuals rather than the government</span><span class=\"tip-zh\">私人集資</span></span></span> harder than at any point in recent memory, and have urged policymakers to set realistic targets and take a long-term view rather than judging companies on a single disappointing season. The Culture, Sports and Tourism Bureau says a fuller framework for assessing performance, including a review of venue-booking rules, will follow in the coming months, alongside wider consultation with practitioners across dance, theatre, music and Cantonese opera before any final criteria are locked in.</p>",
+   "summary_zh_html": "<p>香港正準備全面革新資助九個旗艦表演藝術團體的方式，由一直以來近乎自動發放的年度<span class=\"bwz\">資助</span>，轉向較具彈性、以表現為本的制度。作為更廣泛文化政策檢討的一部分，政府將向藝術及體育發展基金注資二億港元，同時引入與藝術水平而非保證延續性掛鈎的<span class=\"bwz\">能上能落機制</span>。</p><p>這項改變旨在為長期難與主流機構爭奪認受及資源的<span class=\"bwz\">新興藝團</span>騰出空間及公共資源。然而，建議隨即引出一個棘手問題：當局究竟應如何衡量<span class=\"bwz\">藝術價值</span>，尤其是在藝評口碑與<span class=\"bwz\">票房收入</span>往往背道而馳的藝壇之中？一部大膽前衛的作品，或許能贏盡獎項卻門票只售出一半；相反，一部迎合大眾口味的商業鉅製，對本港藝術聲譽的貢獻卻可能相當有限。</p><p>九個指定藝團（包括多個主要樂團、舞團及歌劇團）的總監均表示審慎支持，但同時有所保留。他們指出，持續的經濟低迷令<span class=\"bwz\">私人集資</span>比近年任何時候都更加困難，並促請政策制定者訂立切合實際的目標，以長遠角度看待問題，而非單憑一季表現欠佳便作出判斷。文化體育及旅遊局表示，一套更完整的表現評估框架，包括場地租用制度的檢討，將於未來數月內公布，並會在落實最終準則前，就舞蹈、戲劇、音樂及粵劇等不同範疇，與業界人士展開更廣泛的諮詢。</p>",
+   "image_scene": "A grand Hong Kong theatre's backstage area with a worn, decades-old set of stage lights and props being carried past hopeful young performers waiting for an audition, an empty auditorium of red seats visible through open doors, no audience present.",
+   "slides": {
+    "topic_en": "Rethinking How Hong Kong Funds Arts",
+    "background_en": "Hong Kong plans to replace automatic annual subsidies for nine flagship arts groups with a merit-based funding system.",
+    "background_zh": "香港計劃以表現為本的資助制度，取代九個旗艦藝團一直享有的自動年度資助。",
+    "background_hl": "replace automatic annual subsidies for nine flagship arts groups with a merit-based funding system",
+    "analysis_en": "The reform aims to free up funding for emerging companies, but measuring artistic merit fairly remains deeply contested.",
+    "analysis_zh": "改革旨在為新興藝團釋放資助空間，但如何公平衡量藝術價值仍備受爭議。",
+    "analysis_hl": "measuring artistic merit fairly remains deeply contested",
+    "support_en": "Supporters say tying funding to merit will finally give emerging companies a fairer chance to grow and thrive.",
+    "support_zh": "支持者認為，將資助與表現掛鈎，終能讓新興藝團獲得更公平的成長機會。",
+    "support_hl": "give emerging companies a fairer chance to grow and thrive",
+    "oppose_en": "Flagship groups warn that judging art by rigid targets ignores how economic downturns already squeeze private fundraising.",
+    "oppose_zh": "旗艦藝團警告，以僵化指標評斷藝術，忽略了經濟低迷早已令私人集資雪上加霜的現實。",
+    "oppose_hl": "judging art by rigid targets ignores how economic downturns already squeeze private fundraising",
+    "vocab5": [
+     {
+      "en": "artistic merit",
+      "zh": "藝術價值"
+     },
+     {
+      "en": "subsidy",
+      "zh": "資助"
+     },
+     {
+      "en": "box-office return",
+      "zh": "票房收入"
+     },
+     {
+      "en": "emerging company",
+      "zh": "新興藝團"
+     },
+     {
+      "en": "private fundraising",
+      "zh": "私人集資"
+     }
+    ],
+    "question_en": "How should Hong Kong fairly measure artistic merit when judging which arts groups deserve public funding?",
+    "question_zh": "香港應如何公平衡量藝術價值，以判斷哪些藝團值得獲得公共資助？",
+    "question_hl": "fairly measure artistic merit when judging which arts groups deserve public funding"
+   },
+   "cover_text": {
+    "zh_kicker": "藝團資助",
+    "zh_title": [
+     "資助看表現",
+     "九大藝團大改革"
+    ],
+    "zh_hl": "大改革",
+    "zh_sub": "資助制度擬大革新",
+    "en": "Hong Kong ties arts funding to artistic merit"
+   },
+   "vocab": [
+    {
+     "phrase": "funding injection",
+     "zh": "注資",
+     "sample": "The HK$200 million funding injection aims to ease the transition to the new system."
+    },
+    {
+     "phrase": "artistic merit",
+     "zh": "藝術價值",
+     "sample": "Judging artistic merit is far harder than counting ticket sales."
+    },
+    {
+     "phrase": "box-office return",
+     "zh": "票房收入",
+     "sample": "Box-office returns rarely reflect a production's true artistic value."
+    },
+    {
+     "phrase": "emerging company",
+     "zh": "新興藝團",
+     "sample": "Emerging companies often lack the name recognition to attract sponsors."
+    },
+    {
+     "phrase": "flagship group",
+     "zh": "旗艦藝團",
+     "sample": "The city's nine flagship groups receive the bulk of arts funding."
+    },
+    {
+     "phrase": "private fundraising",
+     "zh": "私人集資",
+     "sample": "Private fundraising has dried up during the economic downturn."
+    },
+    {
+     "phrase": "cultural policy",
+     "zh": "文化政策",
+     "sample": "The cultural policy review covers funding, venues and audience development."
+    },
+    {
+     "phrase": "performance target",
+     "zh": "表現指標",
+     "sample": "Setting fair performance targets for artists is notoriously difficult."
+    },
+    {
+     "phrase": "venue-booking system",
+     "zh": "場地租用制度",
+     "sample": "The venue-booking system favours established companies with longer track records."
+    },
+    {
+     "phrase": "critical acclaim",
+     "zh": "藝評讚譽",
+     "sample": "Critical acclaim does not always translate into full houses."
+    },
+    {
+     "phrase": "grassroots talent",
+     "zh": "草根藝術人才",
+     "sample": "Grassroots talent rarely gets a chance to perform on major stages."
+    },
+    {
+     "phrase": "arts philanthropy",
+     "zh": "藝術慈善捐助",
+     "sample": "Arts philanthropy in Hong Kong still lags behind cities like London or New York."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "tie funding to performance",
+     "zh": "將資助與表現掛鈎",
+     "sample": "The new scheme ties funding directly to artistic performance."
+    },
+    {
+     "en": "crowd out newer voices",
+     "zh": "排擠新興聲音",
+     "sample": "Established companies have long crowded out newer voices in the funding queue."
+    },
+    {
+     "en": "weather a prolonged downturn",
+     "zh": "渡過持續的經濟低迷",
+     "sample": "Smaller troupes are struggling to weather a prolonged economic downturn."
+    },
+    {
+     "en": "strike a balance between art and commerce",
+     "zh": "在藝術與商業之間取得平衡",
+     "sample": "Policymakers must strike a balance between art and commerce when allocating funds."
+    },
+    {
+     "en": "reward risk-taking on stage",
+     "zh": "獎勵台上的創新嘗試",
+     "sample": "Any new system should reward risk-taking on stage, not just safe programming."
+    },
+    {
+     "en": "judge a company by a single disappointing season",
+     "zh": "單憑一季欠佳表現評斷藝團",
+     "sample": "It would be unfair to judge a company by a single disappointing season."
+    },
+    {
+     "en": "level the playing field for newcomers",
+     "zh": "為新人締造公平競爭環境",
+     "sample": "Reformers hope the policy will level the playing field for newcomers."
+    },
+    {
+     "en": "put a price on artistic value",
+     "zh": "為藝術價值定價",
+     "sample": "Critics doubt officials can put a price on artistic value at all."
+    },
+    {
+     "en": "take a long-term view of funding",
+     "zh": "以長遠角度看待資助",
+     "sample": "Arts directors are urging the government to take a long-term view of funding."
+    },
+    {
+     "en": "secure a lifeline from private donors",
+     "zh": "從私人捐助者取得生命線",
+     "sample": "Smaller companies are scrambling to secure a lifeline from private donors."
+    },
+    {
+     "en": "chase after full houses",
+     "zh": "追求場場滿座",
+     "sample": "Some directors fear the policy will push companies to chase after full houses."
+    },
+    {
+     "en": "nurture the next generation of artists",
+     "zh": "培育新一代藝術家",
+     "sample": "Public funding should also nurture the next generation of artists."
+    }
+   ],
+   "date": "2026-10-26",
+   "id": "ab0e3c434"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/society/article/3370780/hong-kong-urged-better-monitor-support-carers-after-elderly-womans-death",
+   "published_date": "18 October 2026",
+   "headline": "Elderly Woman's Death Sparks Calls to Better Support and Monitor Carers",
+   "category": "family",
+   "summary_html": "<p>The death of a 93-year-old Kai Tak woman last week, after her live-in domestic helper was arrested on suspicion of assault, has reopened a painful debate about how Hong Kong supports the carers of its most <span class=\"bw\">isolated elderly residents<span class=\"tip\"><span class=\"tip-en\">older people with little regular contact with family, neighbours or social services</span><span class=\"tip-zh\">孤身無援長者</span></span></span>. The victim, who had lived alone and needed <span class=\"bw\">round-the-clock care<span class=\"tip\"><span class=\"tip-en\">continuous care provided at all hours of the day and night</span><span class=\"tip-zh\">全天候照顧</span></span></span> after a stroke, had relied almost entirely on one helper for years. Lawmakers and welfare groups say the case, however it is ultimately resolved in court, exposes a wider gap in how the city monitors households where an elderly person's wellbeing rests on a single, often overstretched carer.</p><p>Among the proposals gaining traction is expanding an existing <span class=\"bw\">at-risk database<span class=\"tip\"><span class=\"tip-en\">a record used by authorities to flag people who may need extra support or monitoring</span><span class=\"tip-zh\">高風險個案資料庫</span></span></span>, through which the Hospital Authority already alerts the Social Welfare Department when listed carers are hospitalised, to cover domestic helpers caring for seniors as well. Advocates also want regular home visits and encouragement for carers to attend community centres, so that a <span class=\"bw\">third party<span class=\"tip\"><span class=\"tip-en\">someone outside the immediate household who can observe a situation objectively</span><span class=\"tip-zh\">第三方</span></span></span> has a chance to notice warning signs before a crisis develops. Migrant workers' groups add that many helpers shoulder years of caregiving with little rest, training or outside support.</p><p>At the heart of the discussion lies a harder question for Hong Kong families: whether society does enough to prevent <span class=\"bw\">caregiver burnout<span class=\"tip\"><span class=\"tip-en\">extreme physical and emotional exhaustion caused by prolonged, unsupported caregiving</span><span class=\"tip-zh\">照顧者身心俱疲</span></span></span>, whether the carer is a relative or a hired helper, before exhaustion curdles into harm. With Hong Kong's population ageing rapidly, advocates argue that expanding <span class=\"bw\">respite care<span class=\"tip\"><span class=\"tip-en\">short-term relief care that gives a regular carer a break from caregiving duties</span><span class=\"tip-zh\">暫託照顧服務</span></span></span> and community support networks is no longer optional, but essential to protecting both elderly residents and the people who care for them.</p>",
+   "summary_zh_html": "<p>上週，啟德一名93歲女子在其同住外傭因涉嫌襲擊而被捕後死亡，事件再次觸發社會對香港如何支援照顧<span class=\"bwz\">孤身無援長者</span>的照顧者這一沉重議題的討論。死者獨居多年，中風後需要<span class=\"bwz\">全天候照顧</span>，多年來幾乎完全依賴一名外傭照料。立法會議員及福利團體指出，無論案件最終在法庭上如何判決，事件都暴露出本港在監察那些長者福祉僅繫於單一、往往不勝負荷的照顧者的家庭方面，存在明顯缺口。</p><p>目前獲得較多支持的建議之一，是擴大現有的<span class=\"bwz\">高風險個案資料庫</span>——醫院管理局目前已會在資料庫所列的照顧者入院時，通知社會福利署——將照顧長者的外傭亦納入其中。倡議者亦希望加強定期家訪，並鼓勵照顧者多到社區中心，讓<span class=\"bwz\">第三方</span>有機會在危機發生前察覺警號。外勞團體則補充，不少外傭在缺乏休息、培訓及外界支援的情況下，長年肩負照顧重擔。</p><p>討論的核心，是香港家庭一個更難回答的問題：社會是否做得足夠，去防止<span class=\"bwz\">照顧者身心俱疲</span>——不論照顧者是家人還是聘請的外傭——在筋疲力竭演變成傷害之前及時介入。隨著香港人口急速老化，倡議者認為，擴大<span class=\"bwz\">暫託照顧服務</span>及社區支援網絡已不再是可有可無，而是保護長者與照顧者雙方的必要之舉。</p>",
+   "image_scene": "A quiet Hong Kong public housing estate corridor in late-afternoon light, an empty wheelchair parked outside a closed flat door, a social worker with a clipboard speaking gently to a neighbour in the hallway; no people in distress, nothing graphic shown.",
+   "slides": {
+    "topic_en": "Carers and Hong Kong's Ageing Society",
+    "background_en": "An elderly Kai Tak woman's death after an alleged assault by her helper has sparked calls for better carer support.",
+    "background_zh": "啟德一名長者在懷疑遭外傭襲擊後死亡，事件引發對加強照顧者支援的呼聲。",
+    "background_hl": "sparked calls for better carer support",
+    "analysis_en": "The case exposes how little monitoring exists for households where one carer bears sole responsibility for an elderly person.",
+    "analysis_zh": "事件揭示在長者福祉僅繫於單一照顧者的家庭中，現有監察機制相當不足。",
+    "analysis_hl": "little monitoring exists for households where one carer bears sole responsibility",
+    "support_en": "Advocates say expanding the at-risk database to cover helpers could flag warning signs before a crisis ever develops.",
+    "support_zh": "倡議者認為，將高風險個案資料庫擴展至涵蓋外傭，可在危機發生前察覺警號。",
+    "support_hl": "flag warning signs before a crisis ever develops",
+    "oppose_en": "Others argue databases alone cannot fix caregiver burnout without more respite care and genuine community support networks.",
+    "oppose_zh": "另有意見認為，單靠資料庫無法解決照顧者身心俱疲，仍需更多暫託服務及真正的社區支援網絡。",
+    "oppose_hl": "cannot fix caregiver burnout without more respite care and genuine community support networks",
+    "vocab5": [
+     {
+      "en": "caregiver burnout",
+      "zh": "照顧者身心俱疲"
+     },
+     {
+      "en": "at-risk database",
+      "zh": "高風險個案資料庫"
+     },
+     {
+      "en": "respite care",
+      "zh": "暫託照顧服務"
+     },
+     {
+      "en": "round-the-clock care",
+      "zh": "全天候照顧"
+     },
+     {
+      "en": "isolated elderly",
+      "zh": "孤身無援長者"
+     }
+    ],
+    "question_en": "What more should Hong Kong do to support carers of isolated elderly residents before a crisis occurs?",
+    "question_zh": "香港應採取什麼進一步措施，在危機發生前支援照顧孤身無援長者的照顧者？",
+    "question_hl": "support carers of isolated elderly residents before a crisis occurs"
+   },
+   "cover_text": {
+    "zh_kicker": "照顧者支援",
+    "zh_title": [
+     "長者離世",
+     "促加強支援"
+    ],
+    "zh_hl": "促加強支援",
+    "zh_sub": "外傭照顧壓力惹關注",
+    "en": "Elderly woman's death prompts calls to better support carers"
+   },
+   "vocab": [
+    {
+     "phrase": "round-the-clock care",
+     "zh": "全天候照顧",
+     "sample": "Round-the-clock care places enormous strain on a single caregiver."
+    },
+    {
+     "phrase": "caregiver burnout",
+     "zh": "照顧者身心俱疲",
+     "sample": "Caregiver burnout often builds up silently over months or years."
+    },
+    {
+     "phrase": "at-risk database",
+     "zh": "高風險個案資料庫",
+     "sample": "Expanding the at-risk database could help identify vulnerable households sooner."
+    },
+    {
+     "phrase": "respite care",
+     "zh": "暫託照顧服務",
+     "sample": "Respite care gives exhausted family carers a much-needed break."
+    },
+    {
+     "phrase": "isolated elderly",
+     "zh": "孤身無援長者",
+     "sample": "Isolated elderly residents are especially vulnerable when their only carer is overwhelmed."
+    },
+    {
+     "phrase": "sole caregiver",
+     "zh": "唯一照顧者",
+     "sample": "A sole caregiver carrying full responsibility alone is especially vulnerable to burnout."
+    },
+    {
+     "phrase": "welfare advocate",
+     "zh": "福利倡議者",
+     "sample": "Welfare advocates are calling for tighter monitoring of high-risk households."
+    },
+    {
+     "phrase": "timely intervention",
+     "zh": "及時介入",
+     "sample": "Timely intervention could prevent a caregiving crisis from turning fatal."
+    },
+    {
+     "phrase": "community support network",
+     "zh": "社區支援網絡",
+     "sample": "A strong community support network can ease the burden on lone carers."
+    },
+    {
+     "phrase": "overstretched carer",
+     "zh": "不勝負荷的照顧者",
+     "sample": "An overstretched carer may struggle to seek help even when desperate."
+    },
+    {
+     "phrase": "home visit",
+     "zh": "家訪",
+     "sample": "Regular home visits allow social workers to spot problems early."
+    },
+    {
+     "phrase": "greying society",
+     "zh": "社會老齡化",
+     "sample": "Hong Kong's greying society means more families will need caregiving support in the years ahead."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "slip past the safety net meant to catch them",
+     "zh": "從安全網的縫隙中跌漏",
+     "sample": "Isolated elderly residents can slip past the safety net meant to catch them."
+    },
+    {
+     "en": "shoulder the burden of caregiving alone",
+     "zh": "獨自肩負照顧重擔",
+     "sample": "Many helpers shoulder the burden of caregiving almost entirely alone."
+    },
+    {
+     "en": "flag a household before a crisis erupts",
+     "zh": "在危機爆發前標示有關家庭",
+     "sample": "A wider database could flag a household before a crisis erupts."
+    },
+    {
+     "en": "stretch a single carer too thin",
+     "zh": "令單一照顧者不勝負荷",
+     "sample": "Long-term, unsupported caregiving can stretch a single carer too thin."
+    },
+    {
+     "en": "offer a lifeline to exhausted carers",
+     "zh": "為疲憊的照顧者提供一條出路",
+     "sample": "Respite care services offer a lifeline to exhausted carers."
+    },
+    {
+     "en": "spot the warning signs in time",
+     "zh": "及時察覺警號",
+     "sample": "Regular home visits help social workers spot the warning signs in time."
+    },
+    {
+     "en": "rest on a single pair of shoulders",
+     "zh": "全靠一人承擔",
+     "sample": "An elderly resident's wellbeing should not rest on a single pair of shoulders."
+    },
+    {
+     "en": "widen the safety net for vulnerable families",
+     "zh": "擴闊弱勢家庭的安全網",
+     "sample": "Advocates want to widen the safety net for vulnerable families."
+    },
+    {
+     "en": "leave carers with nowhere to turn",
+     "zh": "令照顧者無處求助",
+     "sample": "A lack of support can leave carers with nowhere to turn."
+    },
+    {
+     "en": "reckon with an ageing society",
+     "zh": "正視人口老化的社會",
+     "sample": "Hong Kong must reckon with an ageing society sooner rather than later."
+    },
+    {
+     "en": "break the silence around caregiver stress",
+     "zh": "打破對照顧者壓力的沉默",
+     "sample": "Community groups are trying to break the silence around caregiver stress."
+    },
+    {
+     "en": "share the weight of long-term care",
+     "zh": "分擔長期照顧的重擔",
+     "sample": "Policymakers are being urged to help families share the weight of long-term care."
+    }
+   ],
+   "date": "2026-10-26",
+   "id": "ab8524a7c"
   }
  ],
  "trends": [
@@ -36636,6 +37380,147 @@
    ],
    "date": "2026-10-25",
    "id": "t9a0f5950"
+  },
+  {
+   "platforms": [
+    "douyin",
+    "threads"
+   ],
+   "headline": "📱 Filmed Without Asking: MTR Livestream Sparks a Privacy Backlash",
+   "summary_html": "<p>A Hong Kong commuter's social media post has ignited a wave of anger this week after she accused a Douyin livestreamer of filming seated MTR passengers without their <span class=\"bw\">consent<span class=\"tip\"><span class=\"tip-en\">permission freely given for something to happen</span><span class=\"tip-zh\">同意</span></span></span>, broadcasting their faces to an account with more than 1,000 followers. According to her account, which quickly spread across Threads, the streamer kept the camera rolling even after a passenger objected, continuing to talk loudly on the phone throughout the journey. The account in question mostly posts cheerful, slice-of-life clips of Hong Kong food and daily routines, the kind of content that has turned ordinary commutes into unpaid backdrops for someone else's <span class=\"bw\">content hustle<span class=\"tip\"><span class=\"tip-en\">the effort of constantly producing material, often for money or attention</span><span class=\"tip-zh\">內容創作搏殺</span></span></span>.</p><p>The backlash reflects growing unease over where exactly the boundary sits between public space and private <span class=\"bw\">bystanders'<span class=\"tip\"><span class=\"tip-en\">people who happen to be nearby when something is filmed, without choosing to take part</span><span class=\"tip-zh\">途人；旁觀者</span></span></span> dignity. Commenters have pointed out that MTR by-laws already restrict obstructive filming, yet enforcement rarely keeps pace with the sheer volume of creators chasing <span class=\"bw\">engagement<span class=\"tip\"><span class=\"tip-en\">likes, comments, shares and other signs that an audience is reacting to content</span><span class=\"tip-zh\">互動反應</span></span></span> across platforms. Some see the public shaming of the streamer online as a healthy form of accountability; others worry it is an <span class=\"bw\">imperfect substitute<span class=\"tip\"><span class=\"tip-en\">something used in place of a proper solution, even though it does not fully solve the problem</span><span class=\"tip-zh\">並不完美的替代方案</span></span></span> for actual regulatory enforcement.</p>",
+   "summary_zh_html": "<p>本週，一名香港乘客在社交媒體發文，指控一名抖音直播主未經車廂內乘客<span class=\"bwz\">同意</span>便進行拍攝，並將他們的樣貌直播給一個擁有逾千名粉絲的帳戶，貼文迅速在Threads瘋傳，引發廣泛不滿。根據她的描述，即使有乘客表示反對，該直播主仍繼續開着鏡頭，並在全程大聲講電話。涉事帳戶主要發佈輕鬆的香港飲食及日常生活片段，這類內容正把尋常的通勤變成別人<span class=\"bwz\">內容創作搏殺</span>的免費場景。</p><p>這場反彈反映出公眾日益關注公共空間與<span class=\"bwz\">途人</span>個人尊嚴之間的界線應劃在何處。有網民指出，港鐵附例本已限制妨礙性拍攝行為，但執法往往追不上各平台創作者為追逐<span class=\"bwz\">互動反應</span>而不斷湧現的拍攝風潮。有人認為網上公開指責該直播主，是一種健康的問責方式；但亦有人擔心，這只是對真正監管執法的<span class=\"bwz\">並不完美的替代方案</span>。</p>",
+   "causes": [
+    {
+     "label": "Consent as the Missing Norm in Platform Culture",
+     "label_zh": "同意：平台文化中缺失的準則",
+     "text": "Livestreaming turns any public space into a potential stage, but the people who happen to be nearby rarely get a say in whether their face ends up online. Students could ask whether Hong Kong's privacy rules, written for an earlier media era, still adequately protect bystanders who never agreed to appear in someone else's content.",
+     "text_zh": "直播把任何公共空間都變成潛在舞台，但碰巧身處現場的人卻幾乎沒有機會決定自己的樣貌是否要在網上曝光。學生可以探討，香港那些為舊時代媒體而設的私隱規例，是否仍足以保障從未同意出現在他人內容中的途人。"
+    },
+    {
+     "label": "Livestreaming as a Grassroots Income Hustle",
+     "label_zh": "直播作為草根創作者的搵食手段",
+     "text": "For many small creators, filming ordinary city life is less about artistry than survival, since followers and tips can translate directly into income. That pressure helps explain why some streamers keep recording after being asked to stop, raising how far monetisation should override other people's basic comfort in public.",
+     "text_zh": "對許多小型創作者而言，拍攝城市日常生活與其說是藝術創作，更貼近一種求生手段，因為粉絲數字及打賞往往能直接轉化為收入。這種經濟壓力有助解釋，為何部分直播主即使被要求停止，仍繼續拍攝，由此引申出一個問題：將內容變現的考量，應在多大程度上凌駕於他人在公共場所的基本自在？"
+    },
+    {
+     "label": "Cross-Border Content Norms Colliding on the MTR",
+     "label_zh": "跨境內容創作習慣在港鐵碰撞",
+     "text": "Much of the unease is not only about filming itself but about whose everyday behaviour counts as 'normal' on shared public transport. When creators raised on a different platform ecosystem bring filming habits that feel intrusive to long-time commuters, the friction becomes a small but telling flashpoint for broader anxieties about shifting norms in shared public spaces.",
+     "text_zh": "這場不安，並不只是關於拍攝本身，而是關乎港鐵車廂這個共享空間內，怎樣的日常行為才算「正常」。當在不同平台生態下成長的創作者，帶着令本地長期通勤者感到被侵犯的拍攝習慣登上車廂，這種摩擦便成為反映公共空間規範轉變所引發更廣泛焦慮的一個小小、卻具代表性的爆發點。"
+    },
+    {
+     "label": "Online Shaming vs Real Regulatory Fixes",
+     "label_zh": "網上公審對比真正的監管改革",
+     "text": "Public shaming can feel satisfying and may deter one individual streamer, but it does little to fix the underlying gap: by-law enforcement on public transport is inconsistent, and most creators who film strangers never face any consequence at all. A counter-argument worth considering is that outrage cycles on social media substitute for, rather than drive, the policy change actually needed.",
+     "text_zh": "網上公開指責或許令人感到痛快，亦可能嚇怕個別直播主，但對修補問題根源作用有限：港鐵附例的執法本身並不一致，而大部分拍攝陌生人的創作者根本從未被追究。值得思考的反論是，社交媒體上一輪又一輪的公眾怒火，往往取代了——而非真正推動了——實際所需的政策改革。"
+    }
+   ],
+   "vocab": [
+    {
+     "phrase": "consent",
+     "zh": "同意",
+     "sample": "Filming someone without consent can feel like a violation even in a public space."
+    },
+    {
+     "phrase": "bystander",
+     "zh": "途人",
+     "sample": "Bystanders rarely expect to end up as unwilling extras in someone's livestream."
+    },
+    {
+     "phrase": "livestream",
+     "zh": "直播",
+     "sample": "The livestream racked up views within minutes of being posted."
+    },
+    {
+     "phrase": "engagement",
+     "zh": "互動反應",
+     "sample": "Chasing engagement sometimes pushes creators to cross ethical lines."
+    },
+    {
+     "phrase": "by-law",
+     "zh": "附例",
+     "sample": "MTR by-laws already ban certain types of disruptive filming."
+    },
+    {
+     "phrase": "monetise",
+     "zh": "變現",
+     "sample": "Creators monetise ordinary moments by turning them into viral clips."
+    },
+    {
+     "phrase": "content hustle",
+     "zh": "內容創作搏殺",
+     "sample": "The content hustle leaves little time to consider who else appears on camera."
+    },
+    {
+     "phrase": "public shaming",
+     "zh": "公開指責",
+     "sample": "Public shaming spread quickly once screenshots of the post went viral."
+    },
+    {
+     "phrase": "enforcement gap",
+     "zh": "執法缺口",
+     "sample": "The case exposed an enforcement gap that regulators have yet to close."
+    },
+    {
+     "phrase": "unwanted exposure",
+     "zh": "不情願的曝光",
+     "sample": "Being filmed without consent can lead to unwanted exposure online."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "cross an invisible line",
+     "zh": "跨過一條無形界線",
+     "sample": "Many felt the streamer had crossed an invisible line between content and intrusion."
+    },
+    {
+     "en": "turn strangers into unwilling extras",
+     "zh": "把陌生人變成不情願的配角",
+     "sample": "The livestream turned ordinary commuters into unwilling extras in someone else's video."
+    },
+    {
+     "en": "chase clicks at someone else's expense",
+     "zh": "以他人為代價追逐流量",
+     "sample": "Critics accused the streamer of chasing clicks at someone else's expense."
+    },
+    {
+     "en": "spark a reckoning over online etiquette",
+     "zh": "引發對網絡禮儀的反思",
+     "sample": "The incident sparked a reckoning over online etiquette on public transport."
+    },
+    {
+     "en": "blur the line between public and private",
+     "zh": "模糊公共與私人的界線",
+     "sample": "Livestreaming from crowded trains blurs the line between public and private space."
+    },
+    {
+     "en": "outpace the rules meant to contain it",
+     "zh": "發展速度超越監管規則",
+     "sample": "Platform culture keeps outpacing the rules meant to contain it."
+    },
+    {
+     "en": "go viral for the wrong reasons",
+     "zh": "因錯誤原因而爆紅",
+     "sample": "The account went viral for the wrong reasons after the complaint surfaced."
+    },
+    {
+     "en": "demand accountability from content creators",
+     "zh": "要求內容創作者承擔責任",
+     "sample": "Commenters are demanding accountability from content creators who ignore objections."
+    },
+    {
+     "en": "expose a gap between law and practice",
+     "zh": "揭示法律與實際執行之間的差距",
+     "sample": "The episode exposed a gap between what by-laws say and how they are enforced."
+    },
+    {
+     "en": "normalise being filmed without asking",
+     "zh": "使未經同意被拍攝變得「正常化」",
+     "sample": "Some worry constant livestreaming is slowly normalising being filmed without asking."
+    }
+   ],
+   "date": "2026-10-26",
+   "id": "td9922987"
   }
  ]
 }

@@ -2289,6 +2289,61 @@ CSS = """
       .sl-nav { display: none; }
     }
     @media print { .slides { display: none !important; } }
+
+    /* ══ SLIDES v2 — wide, auto height (nothing cut off), per-article colour scheme ══ */
+    .slides-v2 { max-width: 900px; }
+    .slides-v2 .sl-track { align-items: stretch; border-radius: 16px; }
+    .slides-v2 .sl-dot.on { background: var(--s-b1); }
+    .s2 { flex: 0 0 100%; scroll-snap-align: start; display: flex; flex-direction: column; background: #F2F3F6; color: #121417; min-width: 0; }
+    .s2-band { position: relative; display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+               padding: 1.1rem 2rem; min-height: 92px; background-color: var(--s-b1);
+               background-image: linear-gradient(90deg, var(--s-b1), var(--s-b2)); background-size: cover; background-position: center 35%; }
+    .s2-title { font-family: 'Oswald', 'Archivo', Impact, sans-serif; font-weight: 700; color: #fff; letter-spacing: 0.01em;
+                font-size: clamp(1.7rem, 4.2vw, 2.6rem); line-height: 1; text-shadow: 0 2px 10px rgba(0,0,0,0.25); }
+    .s2-brand { flex: 0 0 auto; background: #fff; color: #121417; font: 800 0.72rem var(--f-ui); letter-spacing: 0.08em;
+                padding: 0.3em 1em; border-radius: 999px; }
+    .s2-paper { flex: 1 1 auto; display: flex; flex-direction: column; justify-content: center; padding: 1.5rem 2rem 1.6rem;
+                background: radial-gradient(circle at 15% 10%, #fff 0, transparent 50%), radial-gradient(circle at 90% 90%, #E6E8ED 0, transparent 45%), #F2F3F6; }
+    .s2-hz { display: inline-block; font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; font-size: clamp(1.25rem, 2.6vw, 1.6rem);
+             line-height: 1.2; background: linear-gradient(transparent 55%, var(--s-hl) 55%); padding: 0 0.15em; margin: 0 0 0.55rem;
+             align-self: flex-start; width: fit-content; }
+    .s2-cover.no-img { grid-template-columns: 1fr; }
+    .s2-sub { font: 800 1.02rem var(--f-ui); margin: 0.1rem 0 0.35rem; letter-spacing: 0.02em; }
+    .s2-en { font: 700 clamp(1.05rem, 2.1vw, 1.28rem)/1.42 var(--f-ui); margin: 0 0 0.6rem; }
+    .s2-big { font-size: clamp(1.25rem, 2.7vw, 1.65rem); line-height: 1.3; }
+    .s2-zh { font-family: 'Noto Sans HK', var(--f-zh); font-size: clamp(0.95rem, 1.8vw, 1.05rem); line-height: 1.75; color: #3A3F47;
+             margin: 0; padding-left: 0.85em; border-left: 4px solid var(--s-c1); }
+    .s2-zh-big { font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; font-size: clamp(1.1rem, 2.3vw, 1.4rem); line-height: 1.5; margin: 0.3rem 0 0; max-width: 85%; }
+    .s2-c1 { color: var(--s-c1); } .s2-c2 { color: var(--s-c2); } .s2-c3 { color: var(--s-c3); }
+    .s2-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem 2rem; }
+    .s2-col { min-width: 0; }
+    .s2-vocab { list-style: none; margin: 0.2rem 0 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem 2rem; }
+    .s2-vocab li { display: flex; align-items: flex-start; gap: 0.65rem; }
+    .s2-vocab b { display: block; font: 700 clamp(1.05rem, 2.1vw, 1.25rem)/1.25 var(--f-ui); color: var(--s-c1); }
+    .s2-vzh { font-family: 'Noto Sans HK', var(--f-zh); font-size: 1rem; letter-spacing: 0.15em; color: #2B2F36; }
+    .s2-vn { flex: 0 0 auto; width: 1.7rem; height: 1.7rem; border-radius: 50%; background: var(--s-c1); color: #fff;
+             display: grid; place-items: center; font: 700 0.85rem var(--f-ui); margin-top: 0.1rem; }
+    .s2-vocab .speak-btn { margin-left: auto; }
+    .s2-q { position: absolute; right: 2rem; bottom: 3.2rem; font: 900 7rem/1 var(--f-ui); color: var(--s-c1); opacity: 0.18; pointer-events: none; }
+    .s2 { position: relative; }
+    .s2-cover { display: grid; grid-template-columns: minmax(0, 210px) minmax(0, 1fr); gap: 1.6rem; align-items: center; }
+    .s2-cover-img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); }
+    .s2-meta { font: 600 0.9rem var(--f-ui); color: #5A606B; margin: 0.4rem 0 0; }
+    .s2-foot { display: flex; gap: 1rem; align-items: center; background: var(--s-foot); padding: 0.7rem 2rem; overflow: hidden; white-space: nowrap; }
+    .s2-foot-zh { font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; color: #fff; font-size: 0.98rem; letter-spacing: 0.06em; }
+    .s2-foot-en { font: 600 0.98rem 'Oswald', var(--f-ui); color: var(--s-ft); overflow: hidden; text-overflow: ellipsis; }
+    .slides-v2 .sl-count { top: 0.9rem; right: auto; left: 50%; transform: translateX(-50%); }
+    @media (max-width: 700px) {
+      .s2-band { min-height: 70px; padding: 0.8rem 1.1rem; }
+      .s2-brand { display: none; }
+      .s2-paper { padding: 1.1rem 1.1rem 1.2rem; }
+      .s2-cols, .s2-vocab { grid-template-columns: 1fr; }
+      .s2-cover { grid-template-columns: 1fr; }
+      .s2-cover-img { max-width: 240px; margin: 0 auto; }
+      .s2-foot { padding: 0.6rem 1.1rem; }
+      .s2-q { font-size: 5rem; right: 1rem; }
+      .slides-v2 .sl-count { left: auto; right: 0.8rem; transform: none; top: 0.7rem; }
+    }
 """
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -3324,10 +3379,114 @@ def _h_esc(t: str) -> str:
     return _h.escape(t or "")
 
 
+# ── SLIDES v2: website-friendly (wide, auto height so nothing is cut off) ────
+# Colour schemes: the user's pastel palette + the five earlier schemes.
+# Each: band gradient (b1→b2), footer bar, footer text, highlighter, and three
+# phrase colours (dark enough to read on the light "paper").
+SLIDE_SCHEMES = [
+    {"name": "Zibbet",          "b1": "#1BAAA0", "b2": "#7DDDF5", "foot": "#0F5F59", "ft": "#FFD275", "hl": "#FFD275", "c1": "#12807A", "c2": "#C9475A", "c3": "#3767C9"},
+    {"name": "Cornflower",      "b1": "#669DEC", "b2": "#B6C1FF", "foot": "#2E4C8F", "ft": "#FFD275", "hl": "#FFD275", "c1": "#3767C9", "c2": "#C9475A", "c3": "#12807A"},
+    {"name": "Peach sunset",    "b1": "#FF9F7A", "b2": "#FBC396", "foot": "#7A3B2A", "ft": "#FFE3A0", "hl": "#FFD275", "c1": "#2B6F96", "c2": "#C2414F", "c3": "#8A5A12"},
+    {"name": "Mauve flamingo",  "b1": "#AEA0E8", "b2": "#FC91AD", "foot": "#4E3A7A", "ft": "#FFE3A0", "hl": "#FFD8E4", "c1": "#5B47C2", "c2": "#C2416A", "c3": "#2B6F96"},
+    {"name": "Café tan",        "b1": "#9A745F", "b2": "#D9AE9D", "foot": "#5F4C41", "ft": "#FFD275", "hl": "#FFD275", "c1": "#12807A", "c2": "#C9473F", "c3": "#5B47C2"},
+    {"name": "Aqua aero",       "b1": "#79D2B8", "b2": "#72C2E2", "foot": "#1E5F57", "ft": "#FFD275", "hl": "#FFD275", "c1": "#1F6F9A", "c2": "#C9475A", "c3": "#12807A"},
+    {"name": "Electric study",  "b1": "#1F3A73", "b2": "#3B5BDB", "foot": "#1F3A73", "ft": "#FFD43B", "hl": "#FFF3A0", "c1": "#3B5BDB", "c2": "#C92A2A", "c3": "#D6336C"},
+    {"name": "Fresh mint",      "b1": "#111418", "b2": "#157A5B", "foot": "#111418", "ft": "#FFD43B", "hl": "#FFE45C", "c1": "#157A5B", "c2": "#D9480F", "c3": "#3B5BDB"},
+    {"name": "Sunset pop",      "b1": "#2B1A3F", "b2": "#E8479A", "foot": "#2B1A3F", "ft": "#FF8A3D", "hl": "#FFD0A8", "c1": "#B8247A", "c2": "#D9480F", "c3": "#15807A"},
+    {"name": "Matcha latte",    "b1": "#1E3D32", "b2": "#7BAE7F", "foot": "#1E3D32", "ft": "#E9DCC9", "hl": "#E9DCC9", "c1": "#2F6B45", "c2": "#B85C38", "c3": "#4B5D9E"},
+    {"name": "Midnight neon",   "b1": "#0E1020", "b2": "#7C5CFF", "foot": "#0E1020", "ft": "#C6F432", "hl": "#E4F98F", "c1": "#5B3FE0", "c2": "#C2416A", "c3": "#0F7C99"},
+]
+SLIDES_V2_PREVIEW = {"a3a08b086"}   # articles using the new slide design (preview first)
+
+
+def _scheme_for(a: dict) -> dict:
+    k = int(a.get("id", "a0")[1:], 16) if a.get("id", "a0")[1:] else 0
+    return SLIDE_SCHEMES[k % len(SLIDE_SCHEMES)]
+
+
+def _slides_v2(a: dict, uid: str, scheme: dict | None = None) -> str:
+    s = _slide_data(a)
+    sc = scheme or _scheme_for(a)
+    style = (f"--s-b1:{sc['b1']};--s-b2:{sc['b2']};--s-foot:{sc['foot']};--s-ft:{sc['ft']};"
+             f"--s-hl:{sc['hl']};--s-c1:{sc['c1']};--s-c2:{sc['c2']};--s-c3:{sc['c3']};")
+    bg_rel = f"covers/bg/{a.get('id')}.jpg"
+    photo = bg_rel if os.path.exists(bg_rel) else None
+    band_img = f"background-image:linear-gradient(90deg,var(--s-b1) 0%,color-mix(in srgb,var(--s-b1) 55%,transparent) 55%,transparent),url('{photo}');" if photo else ""
+    foot = (f'<div class="s2-foot"><span class="s2-foot-zh">DSE英文時事議題</span>'
+            f'<span class="s2-foot-en">{_h_esc(s.get("topic_en", ""))}</span></div>')
+
+    def frame(title: str, inner: str, extra: str = "") -> str:
+        return f"""
+        <div class="s2 {extra}">
+          <div class="s2-band" style="{band_img}"><div class="s2-title">{title}</div><span class="s2-brand">HKDSE DAILY 每日英語</span></div>
+          <div class="s2-paper">{inner}</div>
+          {foot}
+        </div>"""
+
+    def pair(en_key: str, cls: str, bar: str) -> str:
+        zh = s.get(en_key.replace("_en", "_zh"), "")
+        hl = s.get(en_key.replace("_en", "_hl"), "")
+        return (f'<p class="s2-en">{_mark(s.get(en_key, ""), hl, cls)}</p>'
+                + (f'<p class="s2-zh" style="border-color:var({bar})">{_h_esc(zh)}</p>' if zh else ""))
+
+    slides = []
+    # 1 · cover: image + bilingual headline side by side
+    ct = a.get("cover_text") or {}
+    cover_img = f'<img class="s2-cover-img" src="{a["cover"]}" alt="">' if a.get("cover") else ""
+    slides.append(frame("TODAY'S STORY", f"""
+        <div class="s2-cover{'' if cover_img else ' no-img'}">{cover_img}
+          <div class="s2-cover-text">
+            <div class="s2-hz">{_h_esc(' '.join(ct.get('zh_title', [])) or _cat_label(a))}</div>
+            <p class="s2-en s2-big">{_h_esc(a.get('headline', ''))}</p>
+            <p class="s2-meta">{_h_esc(a.get('source_name', ''))} · {_nice_date(a.get('date', ''))} · {_cat_label(a)}</p>
+          </div>
+        </div>""", "s2-first"))
+    # 2 · background + analysis (two columns on wide screens)
+    if s.get("background_en"):
+        cols = f'<div class="s2-col"><div class="s2-hz">事件背景</div>{pair("background_en", "s2-c1", "--s-c1")}</div>'
+        if s.get("analysis_en"):
+            cols += f'<div class="s2-col"><div class="s2-hz">事件分析</div>{pair("analysis_en", "s2-c2", "--s-c2")}</div>'
+        slides.append(frame("BACKGROUND", f'<div class="s2-cols">{cols}</div>'))
+    # 3 · both sides
+    if s.get("support_en") and s.get("oppose_en"):
+        slides.append(frame("BOTH SIDES", f"""
+          <div class="s2-hz">支持及反對原因</div>
+          <div class="s2-cols">
+            <div class="s2-col"><div class="s2-sub" style="color:var(--s-c1)">SUPPORT 支持原因</div>{pair("support_en", "s2-c1", "--s-c1")}</div>
+            <div class="s2-col"><div class="s2-sub" style="color:var(--s-c2)">OPPOSITION 反對原因</div>{pair("oppose_en", "s2-c2", "--s-c2")}</div>
+          </div>"""))
+    # 4 · vocabulary (two columns)
+    if s.get("vocab5"):
+        items = "".join(
+            f'<li><span class="s2-vn">{i}</span><span><b>{_h_esc(v.get("en", ""))}</b>'
+            f'<span class="s2-vzh">{_h_esc(v.get("zh", ""))}</span></span>'
+            f'<button class="speak-btn" onclick="speak(\'{_speak(v.get("en", ""))}\')" aria-label="Listen">🔊</button></li>'
+            for i, v in enumerate(s["vocab5"][:5], 1))
+        slides.append(frame("VOCABULARY", f'<div class="s2-hz">必學高分詞彙</div><ol class="s2-vocab">{items}</ol>'))
+    # 5 · further thought
+    if s.get("question_en"):
+        slides.append(frame("FURTHER THOUGHT", f"""
+          <div class="s2-hz">延伸思考</div>
+          <p class="s2-en s2-big">{_mark(s['question_en'], s.get('question_hl', ''), 's2-c2')}</p>
+          <p class="s2-zh-big">{_h_esc(s.get('question_zh', ''))}</p>
+          <div class="s2-q" aria-hidden="true">?</div>"""))
+
+    n = len(slides)
+    dots = "".join(f'<span class="sl-dot{" on" if i == 0 else ""}"></span>' for i in range(n))
+    return f"""
+      <div class="slides slides-v2" data-n="{n}" style="{style}">
+        <div class="sl-track" onscroll="slideScroll(this)">{''.join(slides)}</div>
+        <span class="sl-count">1/{n}</span>
+        <button class="sl-nav sl-prev" onclick="slideGo(this,-1)" aria-label="Previous slide">‹</button>
+        <button class="sl-nav sl-next" onclick="slideGo(this,1)" aria-label="Next slide">›</button>
+        <div class="sl-dots">{dots}</div>
+      </div>"""
+
+
 def _hidden_body(a: dict, uid: str) -> str:
     """Full article (EN + 中文 + notes + actions) loads on demand from a/<uid>.html."""
     _FRAGMENTS[uid] = (
-        _slides_html(a, uid)
+        (_slides_v2(a, uid) if uid in SLIDES_V2_PREVIEW else _slides_html(a, uid))
         + _bilingual_html(a.get("summary_html", ""), a.get("summary_zh_html", ""), "news-body")
         + _study_notes_html(a, uid)
         + _actions_html(uid)

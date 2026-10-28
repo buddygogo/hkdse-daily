@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <meta name="theme-color" content="#111418" />
-  <meta name="build" content="1793082774" />
+  <meta name="build" content="1793226672" />
   <title>HKDSE Daily Brief</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -1468,6 +1468,61 @@
       .sl-nav { display: none; }
     }
     @media print { .slides { display: none !important; } }
+
+    /* ══ SLIDES v2 — wide, auto height (nothing cut off), per-article colour scheme ══ */
+    .slides-v2 { max-width: 900px; }
+    .slides-v2 .sl-track { align-items: stretch; border-radius: 16px; }
+    .slides-v2 .sl-dot.on { background: var(--s-b1); }
+    .s2 { flex: 0 0 100%; scroll-snap-align: start; display: flex; flex-direction: column; background: #F2F3F6; color: #121417; min-width: 0; }
+    .s2-band { position: relative; display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+               padding: 1.1rem 2rem; min-height: 92px; background-color: var(--s-b1);
+               background-image: linear-gradient(90deg, var(--s-b1), var(--s-b2)); background-size: cover; background-position: center 35%; }
+    .s2-title { font-family: 'Oswald', 'Archivo', Impact, sans-serif; font-weight: 700; color: #fff; letter-spacing: 0.01em;
+                font-size: clamp(1.7rem, 4.2vw, 2.6rem); line-height: 1; text-shadow: 0 2px 10px rgba(0,0,0,0.25); }
+    .s2-brand { flex: 0 0 auto; background: #fff; color: #121417; font: 800 0.72rem var(--f-ui); letter-spacing: 0.08em;
+                padding: 0.3em 1em; border-radius: 999px; }
+    .s2-paper { flex: 1 1 auto; display: flex; flex-direction: column; justify-content: center; padding: 1.5rem 2rem 1.6rem;
+                background: radial-gradient(circle at 15% 10%, #fff 0, transparent 50%), radial-gradient(circle at 90% 90%, #E6E8ED 0, transparent 45%), #F2F3F6; }
+    .s2-hz { display: inline-block; font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; font-size: clamp(1.25rem, 2.6vw, 1.6rem);
+             line-height: 1.2; background: linear-gradient(transparent 55%, var(--s-hl) 55%); padding: 0 0.15em; margin: 0 0 0.55rem;
+             align-self: flex-start; width: fit-content; }
+    .s2-cover.no-img { grid-template-columns: 1fr; }
+    .s2-sub { font: 800 1.02rem var(--f-ui); margin: 0.1rem 0 0.35rem; letter-spacing: 0.02em; }
+    .s2-en { font: 700 clamp(1.05rem, 2.1vw, 1.28rem)/1.42 var(--f-ui); margin: 0 0 0.6rem; }
+    .s2-big { font-size: clamp(1.25rem, 2.7vw, 1.65rem); line-height: 1.3; }
+    .s2-zh { font-family: 'Noto Sans HK', var(--f-zh); font-size: clamp(0.95rem, 1.8vw, 1.05rem); line-height: 1.75; color: #3A3F47;
+             margin: 0; padding-left: 0.85em; border-left: 4px solid var(--s-c1); }
+    .s2-zh-big { font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; font-size: clamp(1.1rem, 2.3vw, 1.4rem); line-height: 1.5; margin: 0.3rem 0 0; max-width: 85%; }
+    .s2-c1 { color: var(--s-c1); } .s2-c2 { color: var(--s-c2); } .s2-c3 { color: var(--s-c3); }
+    .s2-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem 2rem; }
+    .s2-col { min-width: 0; }
+    .s2-vocab { list-style: none; margin: 0.2rem 0 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem 2rem; }
+    .s2-vocab li { display: flex; align-items: flex-start; gap: 0.65rem; }
+    .s2-vocab b { display: block; font: 700 clamp(1.05rem, 2.1vw, 1.25rem)/1.25 var(--f-ui); color: var(--s-c1); }
+    .s2-vzh { font-family: 'Noto Sans HK', var(--f-zh); font-size: 1rem; letter-spacing: 0.15em; color: #2B2F36; }
+    .s2-vn { flex: 0 0 auto; width: 1.7rem; height: 1.7rem; border-radius: 50%; background: var(--s-c1); color: #fff;
+             display: grid; place-items: center; font: 700 0.85rem var(--f-ui); margin-top: 0.1rem; }
+    .s2-vocab .speak-btn { margin-left: auto; }
+    .s2-q { position: absolute; right: 2rem; bottom: 3.2rem; font: 900 7rem/1 var(--f-ui); color: var(--s-c1); opacity: 0.18; pointer-events: none; }
+    .s2 { position: relative; }
+    .s2-cover { display: grid; grid-template-columns: minmax(0, 210px) minmax(0, 1fr); gap: 1.6rem; align-items: center; }
+    .s2-cover-img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); }
+    .s2-meta { font: 600 0.9rem var(--f-ui); color: #5A606B; margin: 0.4rem 0 0; }
+    .s2-foot { display: flex; gap: 1rem; align-items: center; background: var(--s-foot); padding: 0.7rem 2rem; overflow: hidden; white-space: nowrap; }
+    .s2-foot-zh { font-family: 'Noto Sans HK', var(--f-zh); font-weight: 700; color: #fff; font-size: 0.98rem; letter-spacing: 0.06em; }
+    .s2-foot-en { font: 600 0.98rem 'Oswald', var(--f-ui); color: var(--s-ft); overflow: hidden; text-overflow: ellipsis; }
+    .slides-v2 .sl-count { top: 0.9rem; right: auto; left: 50%; transform: translateX(-50%); }
+    @media (max-width: 700px) {
+      .s2-band { min-height: 70px; padding: 0.8rem 1.1rem; }
+      .s2-brand { display: none; }
+      .s2-paper { padding: 1.1rem 1.1rem 1.2rem; }
+      .s2-cols, .s2-vocab { grid-template-columns: 1fr; }
+      .s2-cover { grid-template-columns: 1fr; }
+      .s2-cover-img { max-width: 240px; margin: 0 auto; }
+      .s2-foot { padding: 0.6rem 1.1rem; }
+      .s2-q { font-size: 5rem; right: 1rem; }
+      .slides-v2 .sl-count { left: auto; right: 0.8rem; transform: none; top: 0.7rem; }
+    }
 </style>
 </head>
 <body>

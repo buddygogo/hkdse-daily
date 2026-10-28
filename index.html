@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <meta name="theme-color" content="#111418" />
-  <meta name="build" content="1793226672" />
+  <meta name="build" content="1793227295" />
   <title>HKDSE Daily Brief</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -1523,6 +1523,16 @@
       .s2-q { font-size: 5rem; right: 1rem; }
       .slides-v2 .sl-count { left: auto; right: 0.8rem; transform: none; top: 0.7rem; }
     }
+
+    /* slide band with a photo, and the article banner */
+    .s2-band.has-photo { min-height: 190px; align-items: flex-end; background-size: cover; background-position: center 40%; }
+    .s2-band.has-photo .s2-brand { position: absolute; top: 1rem; right: 1.4rem; }
+    .full-cover.is-banner { aspect-ratio: 21 / 7.5; max-height: none; }
+    .full-cover.is-banner img { width: 100%; height: 100%; max-height: none; object-fit: cover; }
+    @media (max-width: 700px) {
+      .s2-band.has-photo { min-height: 130px; }
+      .full-cover.is-banner { aspect-ratio: 16 / 8; }
+    }
 </style>
 </head>
 <body>
@@ -1605,7 +1615,7 @@
 <main class="mag">
   
   <section class="mag-hero" data-cat="global">
-    <div class="mag-hero-media" onclick="openFull('a3a08b086')"><div class="cover-fallback cover-mag" style="background:linear-gradient(135deg,#0b3d5c,#3b9cc9)"><span class="cover-emoji">🌍</span><span class="cover-label">Global Affairs</span></div></div>
+    <div class="mag-hero-media" onclick="openFull('a3a08b086')"><img class="mag-hero-img" src="covers/banner/a3a08b086.jpg" alt="" onerror="this.remove()"></div>
     <div class="mag-hero-shade"></div>
     <div class="mag-hero-text">
       <div class="mag-hero-pills"><span class="mag-pill mag-pill-glass">Today's top story</span><span class="mag-pill" style="--line:#4BA8DE">Global Affairs</span></div>
@@ -1617,7 +1627,7 @@
       <div class="mag-meta mag-meta-hero" id="meta-a3a08b086"><span class="mag-src">SCMP</span><span class="mag-dot"></span><span>27 Oct 2026</span></div>
     </div>
     <div class="mag-hero-strip home-only"><button class="hero-next" onclick="openFull('aeb60980a')"><span class="hero-next-num">2</span><span>Government Unveils Revised Plan for Twin Towers on Hung Hom Waterfront</span></button><button class="hero-next" onclick="openFull('a8e56b8bd')"><span class="hero-next-num">3</span><span>The Weeknd Debuts 'Hong Kong', a Tribute Track Sampling a Faye Wong Classic</span></button><button class="hero-next" onclick="openFull('a063d46fc')"><span class="hero-next-num">4</span><span>School Bullying Cases in Hong Kong Rise 32% to Nearly 500 a Year</span></button></div>
-    <div id="body-a3a08b086" data-src="a/a3a08b086.html" hidden></div>
+    <div id="body-a3a08b086" data-src="a/a3a08b086.html" data-banner="covers/banner/a3a08b086.jpg" hidden></div>
   </section>
 
   <section class="mag-section">
@@ -15218,7 +15228,12 @@
       coverEl.innerHTML = '';
       var holder = srcHead && srcHead.closest('article, section');
       var img = holder && holder.querySelector('img');
-      if (img && img.getAttribute('src')) {
+      var bsrc = srcBody && srcBody.dataset.banner;
+      if (bsrc) {   // the article's own wide banner photo
+        var bi = document.createElement('img'); bi.src = bsrc; bi.alt = '';
+        coverEl.appendChild(bi); coverEl.classList.add('is-banner');
+      } else if (img && img.getAttribute('src')) {
+        coverEl.classList.remove('is-banner');
         var im = document.createElement('img'); im.src = img.getAttribute('src'); im.alt = '';
         coverEl.appendChild(im);
       }
@@ -15241,7 +15256,7 @@
       bodyEl.appendChild(clone);
       setLang(_lang);
       var cov = document.getElementById('full-cover');
-      if (cov) cov.classList.toggle('has-slides', !!clone.querySelector('.slides'));
+      if (cov) cov.classList.toggle('has-slides', !!clone.querySelector('.slides') && !cov.classList.contains('is-banner'));
       if (window._applyUserState) window._applyUserState(clone);
     }
 

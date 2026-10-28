@@ -2344,6 +2344,16 @@ CSS = """
       .s2-q { font-size: 5rem; right: 1rem; }
       .slides-v2 .sl-count { left: auto; right: 0.8rem; transform: none; top: 0.7rem; }
     }
+
+    /* slide band with a photo, and the article banner */
+    .s2-band.has-photo { min-height: 190px; align-items: flex-end; background-size: cover; background-position: center 40%; }
+    .s2-band.has-photo .s2-brand { position: absolute; top: 1rem; right: 1.4rem; }
+    .full-cover.is-banner { aspect-ratio: 21 / 7.5; max-height: none; }
+    .full-cover.is-banner img { width: 100%; height: 100%; max-height: none; object-fit: cover; }
+    @media (max-width: 700px) {
+      .s2-band.has-photo { min-height: 130px; }
+      .full-cover.is-banner { aspect-ratio: 16 / 8; }
+    }
 """
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -2839,7 +2849,12 @@ JS = """
       coverEl.innerHTML = '';
       var holder = srcHead && srcHead.closest('article, section');
       var img = holder && holder.querySelector('img');
-      if (img && img.getAttribute('src')) {
+      var bsrc = srcBody && srcBody.dataset.banner;
+      if (bsrc) {   // the article's own wide banner photo
+        var bi = document.createElement('img'); bi.src = bsrc; bi.alt = '';
+        coverEl.appendChild(bi); coverEl.classList.add('is-banner');
+      } else if (img && img.getAttribute('src')) {
+        coverEl.classList.remove('is-banner');
         var im = document.createElement('img'); im.src = img.getAttribute('src'); im.alt = '';
         coverEl.appendChild(im);
       }
@@ -2862,7 +2877,7 @@ JS = """
       bodyEl.appendChild(clone);
       setLang(_lang);
       var cov = document.getElementById('full-cover');
-      if (cov) cov.classList.toggle('has-slides', !!clone.querySelector('.slides'));
+      if (cov) cov.classList.toggle('has-slides', !!clone.querySelector('.slides') && !cov.classList.contains('is-banner'));
       if (window._applyUserState) window._applyUserState(clone);
     }
 
@@ -3399,6 +3414,14 @@ SLIDE_SCHEMES = [
 SLIDES_V2_PREVIEW = {"a3a08b086"}   # articles using the new slide design (preview first)
 
 
+def _banner_photo(a: dict):
+    """Text-free wide photo for this article: covers/banner/<id>.jpg (preferred) or the AI cover's photo."""
+    for rel in (f"covers/banner/{a.get('id')}.jpg", f"covers/bg/{a.get('id')}.jpg"):
+        if os.path.exists(rel):
+            return rel
+    return None
+
+
 def _scheme_for(a: dict) -> dict:
     k = int(a.get("id", "a0")[1:], 16) if a.get("id", "a0")[1:] else 0
     return SLIDE_SCHEMES[k % len(SLIDE_SCHEMES)]
@@ -3409,16 +3432,16 @@ def _slides_v2(a: dict, uid: str, scheme: dict | None = None) -> str:
     sc = scheme or _scheme_for(a)
     style = (f"--s-b1:{sc['b1']};--s-b2:{sc['b2']};--s-foot:{sc['foot']};--s-ft:{sc['ft']};"
              f"--s-hl:{sc['hl']};--s-c1:{sc['c1']};--s-c2:{sc['c2']};--s-c3:{sc['c3']};")
-    bg_rel = f"covers/bg/{a.get('id')}.jpg"
-    photo = bg_rel if os.path.exists(bg_rel) else None
-    band_img = f"background-image:linear-gradient(90deg,var(--s-b1) 0%,color-mix(in srgb,var(--s-b1) 55%,transparent) 55%,transparent),url('{photo}');" if photo else ""
+    photo = _banner_photo(a)
+    band_img = (f"background-image:linear-gradient(0deg,rgba(8,12,24,0.78) 0%,rgba(8,12,24,0.15) 55%,rgba(8,12,24,0) 75%),url('{photo}');"
+                if photo else "")
     foot = (f'<div class="s2-foot"><span class="s2-foot-zh">DSE英文時事議題</span>'
             f'<span class="s2-foot-en">{_h_esc(s.get("topic_en", ""))}</span></div>')
 
     def frame(title: str, inner: str, extra: str = "") -> str:
         return f"""
         <div class="s2 {extra}">
-          <div class="s2-band" style="{band_img}"><div class="s2-title">{title}</div><span class="s2-brand">HKDSE DAILY 每日英語</span></div>
+          <div class="s2-band{' has-photo' if photo else ''}" style="{band_img}"><div class="s2-title">{title}</div><span class="s2-brand">HKDSE DAILY 每日英語</span></div>
           <div class="s2-paper">{inner}</div>
           {foot}
         </div>"""
@@ -3491,7 +3514,9 @@ def _hidden_body(a: dict, uid: str) -> str:
         + _study_notes_html(a, uid)
         + _actions_html(uid)
     )
-    return f'<div id="body-{uid}" data-src="a/{uid}.html" hidden></div>'
+    bphoto = f"covers/banner/{a.get('id')}.jpg"
+    banner_attr = f' data-banner="{bphoto}"' if os.path.exists(bphoto) else ""
+    return f'<div id="body-{uid}" data-src="a/{uid}.html"{banner_attr} hidden></div>'
 
 
 def _meta_html(a: dict, uid: str, cls: str = "mag-meta") -> str:
@@ -3518,8 +3543,10 @@ def build_hero_mag(a: dict, others: list[dict]) -> str:
         f'<span class="hero-next-num">{i}</span><span>{o.get("headline", "")}</span></button>'
         for i, o in enumerate(others[:4], 2)
     )
-    media = (f'<img class="mag-hero-img" src="{a["banner"]}" alt="" onerror="this.remove()">'
-             if a.get("banner") else _img(a, "mag-hero-img"))
+    bphoto = f"covers/banner/{a.get('id')}.jpg"
+    media = (f'<img class="mag-hero-img" src="{bphoto}" alt="" onerror="this.remove()">' if os.path.exists(bphoto)
+             else f'<img class="mag-hero-img" src="{a["banner"]}" alt="" onerror="this.remove()">' if a.get("banner")
+             else _img(a, "mag-hero-img"))
     return f"""
   <section class="mag-hero" data-cat="{' '.join((a.get('category') or 'social').split())}">
     <div class="mag-hero-media" onclick="openFull('{uid}')">{media}</div>

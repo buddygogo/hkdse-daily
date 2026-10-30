@@ -33321,6 +33321,760 @@
    ],
    "date": "2026-10-29",
    "id": "a769b00ca"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372525/hong-kong-teen-jailed-8-years-acid-attack-singaporean-tourist",
+   "published_date": "29 October 2026",
+   "headline": "Hong Kong Teen Jailed Eight Years Over Acid Attack on Singaporean Tourist",
+   "category": "law",
+   "summary_html": "<p>Hong Kong's High Court has sentenced a 19-year-old to eight years in prison for carrying out a <span class=\"bw\">corrosive-substance attack<span class=\"tip\"><span class=\"tip-en\">an assault in which a chemical such as acid is thrown or poured onto a victim</span><span class=\"tip-zh\">腐蝕性物質襲擊</span></span></span> on a 36-year-old Singaporean tourist in June last year. Mr Justice Andrew Chan Hing-wai told the defendant, who had already entered a <span class=\"bw\">guilty plea<span class=\"tip\"><span class=\"tip-en\">a formal admission of criminal responsibility made in court before trial</span><span class=\"tip-zh\">認罪</span></span></span>, that the attack had left the victim with burns that would cause a \"lifelong impact\" on her health and confidence, and that the case was serious enough to merit a lengthy custodial term.</p><p>The judge fixed the <span class=\"bw\">starting point<span class=\"tip\"><span class=\"tip-en\">the base term a judge selects for an offence before any adjustment</span><span class=\"tip-zh\">量刑起點</span></span></span> at twelve years, reflecting the premeditated nature of the assault, before granting a one-third <span class=\"bw\">sentencing discount<span class=\"tip\"><span class=\"tip-en\">a reduction in punishment granted in exchange for an early admission of guilt</span><span class=\"tip-zh\">刑期扣減</span></span></span> for the early admission. Defence counsel had argued that a lengthy term risked undermining the teenager's <span class=\"bw\">rehabilitation prospects<span class=\"tip\"><span class=\"tip-en\">the likelihood that an offender can be reformed and reintegrated into society</span><span class=\"tip-zh\">更生前景</span></span></span>, while prosecutors stressed the lasting harm caused by the attack.</p><p>The case has reignited debate over how the courts should balance <span class=\"bw\">deterrent sentencing<span class=\"tip\"><span class=\"tip-en\">punishment designed mainly to discourage others from committing similar crimes</span><span class=\"tip-zh\">具懲戒作用的判刑</span></span></span> against the reform of young offenders, particularly where visitors are targeted. Victim-support groups have called for tougher <span class=\"bw\">sentencing guidelines<span class=\"tip\"><span class=\"tip-en\">official standards judges follow when deciding the length of a punishment</span><span class=\"tip-zh\">判刑指引</span></span></span> for attacks involving corrosive substances, warning that lenient outcomes could erode <span class=\"bw\">traveller trust<span class=\"tip\"><span class=\"tip-en\">the degree of trust that overseas visitors place in the safety of a city they travel to</span><span class=\"tip-zh\">旅客信任</span></span></span> in the city as a safe place to visit.</p>",
+   "summary_zh_html": "<p>香港高等法院判處一名十九歲青年入獄八年，罪名是去年六月向一名三十六歲新加坡女遊客潑灑腐蝕性液體，犯下<span class=\"bwz\">腐蝕性物質襲擊</span>。被告早前已<span class=\"bwz\">認罪</span>，法官陳慶偉告知被告，受害人身上的燒傷將對她的健康及自信造成「終身影響」，案情亦嚴重得足以判處長期監禁。</p><p>法官訂立<span class=\"bwz\">量刑起點</span>為十二年，以反映案件的預謀性質，再因被告提早認罪而給予三分之一的<span class=\"bwz\">刑期扣減</span>。辯方律師曾指出，漫長刑期可能損害這名少年的<span class=\"bwz\">更生前景</span>，而控方則強調襲擊造成的傷害影響深遠。</p><p>本案再次引發社會討論：法庭應如何在<span class=\"bwz\">具懲戒作用的判刑</span>與年輕犯人的改造之間取得平衡，特別是當受害者為訪港旅客時。受害人支援團體要求當局訂立更嚴厲的<span class=\"bwz\">判刑指引</span>，以處理涉及腐蝕性物質的襲擊案件，並警告輕判可能削弱外界對本港作為安全旅遊目的地的<span class=\"bwz\">旅客信任</span>。</p>",
+   "image_scene": "The grey granite exterior of Hong Kong's High Court building in Admiralty on an overcast afternoon, with tall glass doors and a short queue of anonymous people in smart jackets climbing the front steps; a lawyer's black gown is visible among them, calm and orderly, nobody in distress, no signs or logos.",
+   "slides": {
+    "topic_en": "Sentencing in Acid Attack on Tourist",
+    "background_en": "A Hong Kong court jailed a teenager for eight years after he poured acid on a Singaporean tourist last year.",
+    "background_zh": "香港法院判一名少年入獄八年，罪因去年向一名新加坡遊客潑酸。",
+    "background_hl": "jailed a teenager for eight years",
+    "analysis_en": "The case reopens debate on whether guilty-plea discounts for young offenders undercut deterrence for violent crime.",
+    "analysis_zh": "案件再次引發爭議：對年輕犯人的認罪扣減，是否削弱對暴力罪行的阻嚇作用。",
+    "analysis_hl": "guilty-plea discounts for young offenders",
+    "support_en": "Supporters say shorter terms for young, remorseful offenders still protect the public while preserving a real chance of reform.",
+    "support_zh": "支持者認為，對年輕且悔過的罪犯判處較短刑期，既能保障公眾安全，亦保留真正改過的機會。",
+    "support_hl": "preserving a real chance of reform",
+    "oppose_en": "Critics counter that any discount for such a calculated, disfiguring attack sends the wrong message to would-be offenders.",
+    "oppose_zh": "批評者則反駁，對如此有預謀、致人毁容的襲擊給予刑期扣減，會向潛在罪犯傳遞錯誤信息。",
+    "oppose_hl": "sends the wrong message to would-be offenders",
+    "vocab5": [
+     {
+      "en": "sentencing discount",
+      "zh": "刑期扣減"
+     },
+     {
+      "en": "guilty plea",
+      "zh": "認罪"
+     },
+     {
+      "en": "rehabilitation prospects",
+      "zh": "更生前景"
+     },
+     {
+      "en": "deterrent sentencing",
+      "zh": "具懲戒作用的判刑"
+     },
+     {
+      "en": "traveller trust",
+      "zh": "旅客信任"
+     }
+    ],
+    "question_en": "Should courts reduce a young offender's sentence for pleading guilty even in a severe, premeditated attack?",
+    "question_zh": "法庭應否因年輕罪犯認罪，而減輕這類嚴重、有預謀襲擊的刑期？",
+    "question_hl": "reduce a young offender's sentence for pleading guilty"
+   },
+   "cover_text": {
+    "zh_kicker": "潑酸案",
+    "zh_title": [
+     "少年潑酸",
+     "判囚八年"
+    ],
+    "zh_hl": "八年",
+    "zh_sub": "法官指終身影響受害人",
+    "en": "Teen jailed eight years for acid attack on tourist"
+   },
+   "vocab": [
+    {
+     "phrase": "corrosive-substance attack",
+     "zh": "腐蝕性物質襲擊",
+     "sample": "The corrosive-substance attack left the victim with injuries that doctors described as life-changing."
+    },
+    {
+     "phrase": "guilty plea",
+     "zh": "認罪",
+     "sample": "His guilty plea spared the court weeks of hearing evidence but did not spare him a lengthy sentence."
+    },
+    {
+     "phrase": "starting point",
+     "zh": "量刑起點",
+     "sample": "The judge fixed a starting point of twelve years before considering any mitigating factors."
+    },
+    {
+     "phrase": "sentencing discount",
+     "zh": "刑期扣減",
+     "sample": "A one-third sentencing discount is the standard reward for an early guilty plea in Hong Kong."
+    },
+    {
+     "phrase": "rehabilitation prospects",
+     "zh": "更生前景",
+     "sample": "Probation officers argued that a shorter sentence would protect the teenager's rehabilitation prospects."
+    },
+    {
+     "phrase": "deterrent sentencing",
+     "zh": "具懲戒作用的判刑",
+     "sample": "Deterrent sentencing aims to discourage others from committing similarly violent acts."
+    },
+    {
+     "phrase": "sentencing guidelines",
+     "zh": "判刑指引",
+     "sample": "Campaigners want new sentencing guidelines specifically for attacks involving corrosive substances."
+    },
+    {
+     "phrase": "traveller trust",
+     "zh": "旅客信任",
+     "sample": "A string of lenient rulings could chip away at traveller trust in the city's safety."
+    },
+    {
+     "phrase": "premeditated assault",
+     "zh": "預謀襲擊",
+     "sample": "Prosecutors described the incident as a premeditated assault rather than a sudden loss of temper."
+    },
+    {
+     "phrase": "victim impact statement",
+     "zh": "受害人影響陳述",
+     "sample": "The victim impact statement detailed the lasting psychological toll of the attack."
+    },
+    {
+     "phrase": "judicial discretion",
+     "zh": "司法酌情權",
+     "sample": "Judicial discretion allows a judge to tailor a sentence to the specific facts of a case."
+    },
+    {
+     "phrase": "disfiguring injury",
+     "zh": "毀容傷害",
+     "sample": "A disfiguring injury can affect a victim's confidence long after the physical wounds have healed."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "calls into question whether punishment alone can reform the young",
+     "zh": "令人質疑單靠懲罰能否改造年輕人",
+     "sample": "The case calls into question whether punishment alone can reform the young."
+    },
+    {
+     "en": "risks letting the severity of a crime slip from public view",
+     "zh": "可能令罪行的嚴重性被公眾忽略",
+     "sample": "A generous discount risks letting the severity of a crime slip from public view."
+    },
+    {
+     "en": "undermines the city's carefully cultivated image as a safe destination",
+     "zh": "損害本港精心建立的安全旅遊形象",
+     "sample": "A violent attack on a visitor undermines the city's carefully cultivated image as a safe destination."
+    },
+    {
+     "en": "a sentence calibrated to both the harm done and the age of the offender",
+     "zh": "一項兼顧傷害程度與罪犯年齡而訂立的刑罰",
+     "sample": "Judges strive for a sentence calibrated to both the harm done and the age of the offender."
+    },
+    {
+     "en": "offers a narrow window for genuine rehabilitation",
+     "zh": "為真正的更生提供有限的機會",
+     "sample": "Youth custody, used sparingly, offers a narrow window for genuine rehabilitation."
+    },
+    {
+     "en": "sets a troubling precedent for how such attacks are punished",
+     "zh": "為日後同類襲擊的判刑定下令人憂慮的先例",
+     "sample": "Critics worry the ruling sets a troubling precedent for how such attacks are punished."
+    },
+    {
+     "en": "strikes a delicate balance between mercy and deterrence",
+     "zh": "在寬恕與阻嚇之間取得微妙平衡",
+     "sample": "Sentencing in youth cases must strike a delicate balance between mercy and deterrence."
+    },
+    {
+     "en": "leaves lasting physical and psychological scars",
+     "zh": "留下長久的身心傷痕",
+     "sample": "Corrosive attacks leave lasting physical and psychological scars on their victims."
+    },
+    {
+     "en": "no guarantee that a lighter term will curb future violence",
+     "zh": "不保證較輕刑期能遏止日後的暴力行為",
+     "sample": "There is no guarantee that a lighter term will curb future violence."
+    },
+    {
+     "en": "reflects both the gravity of the offence and an element of mercy",
+     "zh": "既反映罪行的嚴重性，亦帶有一分寬恕",
+     "sample": "The final sentence reflects both the gravity of the offence and an element of mercy."
+    },
+    {
+     "en": "a stark reminder that visitors are not immune from random violence",
+     "zh": "一個嚴峻的提醒：旅客亦非絕對免於隨機暴力侵害",
+     "sample": "The attack is a stark reminder that visitors are not immune from random violence."
+    },
+    {
+     "en": "forces the courts to weigh youth against the brutality of the act",
+     "zh": "迫使法庭在年輕與行為的殘暴程度之間作出衡量",
+     "sample": "Cases like this force the courts to weigh youth against the brutality of the act."
+    },
+    {
+     "en": "an incentive structure that rewards early cooperation with the court",
+     "zh": "一套獎勵及早配合法庭的機制",
+     "sample": "The sentencing discount is essentially an incentive structure that rewards early cooperation with the court."
+    },
+    {
+     "en": "casts a long shadow over the victim's sense of personal safety",
+     "zh": "長久影響受害人對個人安全的感覺",
+     "sample": "Such an attack casts a long shadow over the victim's sense of personal safety."
+    }
+   ],
+   "date": "2026-10-30",
+   "id": "a51185169"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/sport/cricket/article/3369615/india-and-pakistan-cricketers-set-firecracker-clash-inspiring-hong-kong-sixes",
+   "published_date": "28 October 2026",
+   "headline": "Hong Kong Sixes Opens With Record Twelve-Team Field as Cricket Carnival Returns",
+   "category": "sports",
+   "summary_html": "<p>The Hong Kong Sixes cricket tournament got under way today at the Tin Kwong Road Recreation Ground in Kowloon, with organisers fielding a <span class=\"bw\">record line-up<span class=\"tip\"><span class=\"tip-en\">the largest number of participants or entrants a competition has ever had</span><span class=\"tip-zh\">歷來最多隊伍的陣容</span></span></span> of twelve international sides. The host side, playing under the banner of Hong Kong, China, has drawn much of its squad from the core that represented the city at this year's Asian Games, giving the tournament a distinctly <span class=\"bw\">home-grown flavour<span class=\"tip\"><span class=\"tip-en\">a quality that reflects local talent rather than imported stars</span><span class=\"tip-zh\">本土色彩</span></span></span> even as marquee overseas stars arrive for the three-day event.</p><p>Among the headline fixtures is a keenly awaited clash between India and Pakistan, whose <span class=\"bw\">star-studded squads<span class=\"tip\"><span class=\"tip-en\">teams made up mainly of famous, highly skilled players</span><span class=\"tip-zh\">星光熠熠的陣容</span></span></span> include several players drawn directly from this year's Indian Premier League. Organisers describe the event's unique six-a-side, six-over format as a deliberate attempt to keep matches fast-paced and accessible to spectators unfamiliar with the longer traditional game, part of a broader strategy to use the tournament as a <span class=\"bw\">gateway sport<span class=\"tip\"><span class=\"tip-en\">an easy, exciting introduction meant to draw newcomers into a larger activity</span><span class=\"tip-zh\">入門運動</span></span></span> for local fans.</p><p>City officials have promoted the Sixes as a cornerstone of Hong Kong's <span class=\"bw\">mega-event strategy<span class=\"tip\"><span class=\"tip-en\">a deliberate policy of hosting large international events to boost a city's profile and economy</span><span class=\"tip-zh\">盛事策略</span></span></span>, arguing that the resulting <span class=\"bw\">sports tourism<span class=\"tip\"><span class=\"tip-en\">travel undertaken mainly to attend or take part in a sporting event</span><span class=\"tip-zh\">體育旅遊</span></span></span> fills hotels and restaurants during an otherwise quiet autumn weekend. Sceptics, however, question whether the <span class=\"bw\">legacy benefits<span class=\"tip\"><span class=\"tip-en\">the lasting positive effects a large event is supposed to leave behind</span><span class=\"tip-zh\">持續效益</span></span></span> of a three-day carnival reach grassroots cricket clubs, or whether public money spent on <span class=\"bw\">hosting rights<span class=\"tip\"><span class=\"tip-en\">the official permission and resources needed to stage a major event</span><span class=\"tip-zh\">主辦權</span></span></span> would be better directed toward long-term development of local players.</p>",
+   "summary_zh_html": "<p>香港板球「六人賽」今日在九龍天光道遊樂場正式開鑚，主辦單位安排了歷來最多達十二支國際球隊參賽，陣容堪稱<span class=\"bwz\">歷來最多隊伍的陣容</span>。東道主以「中國香港」名義出賽，陣中大部分球員來自今年亞運代表隊班底，即使多位海外明星球員相繼抵港，仍為賽事添上濃厚的<span class=\"bwz\">本土色彩</span>。</p><p>焦點賽事之一，是球迷熱切期待的印度對巴基斯坦大戰，兩隊均派出<span class=\"bwz\">星光熠熠的陣容</span>，當中數名球員更直接來自今年的印度板球超級聯賽。主辦方形容賽事獨特的六人、六個回合賽制，是刻意令比賽節奏明快、方便不熟悉傳統板球的觀眾理解，是整體策略的一部分，旨在將賽事變成吸引本地球迷的<span class=\"bwz\">入門運動</span>。</p><p>港府官員一直將六人賽宣傳為香港<span class=\"bwz\">盛事策略</span>的重要一環，強調由此帶動的<span class=\"bwz\">體育旅遊</span>在原本平淡的秋日週末，為酒店及餐廳帶來生意。然而，質疑者則關注一場三日嘉年華的<span class=\"bwz\">持續效益</span>，是否真能惠及草根板球會，又或者花在取得<span class=\"bwz\">主辦權</span>的公帑，是否應更多投放於本地球員的長遠發展。</p>",
+   "image_scene": "A packed outdoor cricket ground in Kowloon under bright afternoon sun, players in brightly coloured team kits fielding on a green pitch, small grandstands filled with anonymous spectators waving flags and cheering, Hong Kong tower blocks visible in the background, no signage visible.",
+   "slides": {
+    "topic_en": "Hong Kong Sixes Cricket Tournament",
+    "background_en": "Hong Kong is hosting a record twelve-team Sixes cricket tournament this weekend, led by a squad built around its Asian Games core.",
+    "background_zh": "香港本週舉行歷來最多達十二隊參賽的六人板球賽，陣中球員主要來自亞運代表隊班底。",
+    "background_hl": "record twelve-team Sixes cricket tournament",
+    "analysis_en": "Officials call it proof of Hong Kong's mega-event strategy, but critics ask whether grassroots cricket benefits at all.",
+    "analysis_zh": "官員視之為香港盛事策略的證明，但批評者質疑草根板球能否真正受惠。",
+    "analysis_hl": "mega-event strategy",
+    "support_en": "Supporters argue the tournament fills hotels and restaurants, boosting sports tourism during a quiet autumn weekend.",
+    "support_zh": "支持者認為賽事能填滿酒店及餐廳，在平淡的秋季週末帶動體育旅遊。",
+    "support_hl": "boosting sports tourism during a quiet autumn weekend",
+    "oppose_en": "Critics counter that a flashy three-day carnival does little for players who train in local parks all year.",
+    "oppose_zh": "批評者則反駁，華麗的三日嘉年華，對全年在本地公園練習的球員幫助不大。",
+    "oppose_hl": "does little for players who train in local parks all year",
+    "vocab5": [
+     {
+      "en": "record line-up",
+      "zh": "歷來最多隊伍的陣容"
+     },
+     {
+      "en": "home-grown flavour",
+      "zh": "本土色彩"
+     },
+     {
+      "en": "mega-event strategy",
+      "zh": "盛事策略"
+     },
+     {
+      "en": "sports tourism",
+      "zh": "體育旅遊"
+     },
+     {
+      "en": "legacy benefits",
+      "zh": "持續效益"
+     }
+    ],
+    "question_en": "Do flagship sporting events like the Sixes really benefit grassroots sport, or mainly boost the city's image?",
+    "question_zh": "像六人賽這類盛事，是否真能惠及草根體育，還是主要為城市形象加分？",
+    "question_hl": "really benefit grassroots sport"
+   },
+   "cover_text": {
+    "zh_kicker": "六人賽",
+    "zh_title": [
+     "十二強賽",
+     "今日開打"
+    ],
+    "zh_hl": "十二強",
+    "zh_sub": "香港隊坐鎮主場應戰",
+    "en": "Hong Kong Sixes cricket tournament kicks off with twelve teams"
+   },
+   "vocab": [
+    {
+     "phrase": "record line-up",
+     "zh": "歷來最多隊伍的陣容",
+     "sample": "This year's tournament boasts a record line-up of twelve competing nations."
+    },
+    {
+     "phrase": "home-grown flavour",
+     "zh": "本土色彩",
+     "sample": "Fans say the home-grown flavour of the squad makes victories feel more meaningful."
+    },
+    {
+     "phrase": "star-studded squads",
+     "zh": "星光熠熠的陣容",
+     "sample": "Ticket sales surged once the star-studded squads of India and Pakistan were confirmed."
+    },
+    {
+     "phrase": "gateway sport",
+     "zh": "入門運動",
+     "sample": "Organisers hope the fast format will work as a gateway sport for curious newcomers."
+    },
+    {
+     "phrase": "mega-event strategy",
+     "zh": "盛事策略",
+     "sample": "The tournament sits at the heart of the government's mega-event strategy for the autumn season."
+    },
+    {
+     "phrase": "sports tourism",
+     "zh": "體育旅遊",
+     "sample": "Sports tourism linked to the tournament is expected to fill hotel rooms across Kowloon."
+    },
+    {
+     "phrase": "legacy benefits",
+     "zh": "持續效益",
+     "sample": "Whether the legacy benefits reach grassroots clubs remains an open question."
+    },
+    {
+     "phrase": "hosting rights",
+     "zh": "主辦權",
+     "sample": "Securing hosting rights for a major tournament does not guarantee lasting returns for local sport."
+    },
+    {
+     "phrase": "grassroots cricket club",
+     "zh": "草根板球會",
+     "sample": "Coaches at grassroots cricket clubs say few of their players can afford tournament tickets."
+    },
+    {
+     "phrase": "six-a-side format",
+     "zh": "六人賽制",
+     "sample": "The six-a-side format trims a day-long match into just a few fast-paced overs."
+    },
+    {
+     "phrase": "marquee fixture",
+     "zh": "焦點賽事",
+     "sample": "The India-Pakistan clash remains the tournament's marquee fixture every year."
+    },
+    {
+     "phrase": "home advantage",
+     "zh": "主場優勢",
+     "sample": "Playing in front of a home crowd gives the host side a clear home advantage."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "turns a quiet autumn weekend into a magnet for visitors",
+     "zh": "把平淡的秋日週末變成吸引旅客的磁石",
+     "sample": "A well-timed tournament turns a quiet autumn weekend into a magnet for visitors."
+    },
+    {
+     "en": "little more than a short-lived boost dressed up as development",
+     "zh": "不過是一次被包裝成發展的短暫刺激",
+     "sample": "Critics dismiss the spending as little more than a short-lived boost dressed up as development."
+    },
+    {
+     "en": "puts the city's name in front of a global television audience",
+     "zh": "讓城市名字呈現在全球電視觀眾眼前",
+     "sample": "Televised fixtures put the city's name in front of a global television audience."
+    },
+    {
+     "en": "money better spent nurturing talent from the ground up",
+     "zh": "更應用於從根本培育人才的資金",
+     "sample": "Some lawmakers argue it is money better spent nurturing talent from the ground up."
+    },
+    {
+     "en": "a rare chance for local amateurs to share a pitch with professionals",
+     "zh": "讓本地業餘球員難得與職業球員同場較技的機會",
+     "sample": "The curtain-raiser match offers a rare chance for local amateurs to share a pitch with professionals."
+    },
+    {
+     "en": "measured in hotel bookings rather than medals won",
+     "zh": "以酒店入住率而非奬牌數目來衡量",
+     "sample": "Success here is often measured in hotel bookings rather than medals won."
+    },
+    {
+     "en": "risks becoming a one-off spectacle rather than a lasting tradition",
+     "zh": "有可能淪為一次性盛事，而非延續的傳統",
+     "sample": "Without reinvestment, the event risks becoming a one-off spectacle rather than a lasting tradition."
+    },
+    {
+     "en": "gives young local players a taste of top-flight competition",
+     "zh": "讓本地年輕球員一嚐頂級賽事的滋味",
+     "sample": "Sharing a dressing room with international stars gives young local players a taste of top-flight competition."
+    },
+    {
+     "en": "justifies the expense only if the benefits trickle down",
+     "zh": "只有在效益能惠及基層時，開支才算物有所值",
+     "sample": "The government insists the expense justifies itself only if the benefits trickle down to schools."
+    },
+    {
+     "en": "enough glamour to distract from gaps in grassroots funding",
+     "zh": "足夠的光環足以掩蓋草根資助的不足",
+     "sample": "Critics warn the glamour is enough to distract from gaps in grassroots funding."
+    },
+    {
+     "en": "an opportunity local associations are eager not to squander",
+     "zh": "本地協會不願白白錯過的機會",
+     "sample": "Cricket officials call it an opportunity local associations are eager not to squander."
+    },
+    {
+     "en": "builds goodwill among fans well beyond the final whistle",
+     "zh": "在終場哨聲過後仍為球迷留下良好印象",
+     "sample": "A well-run tournament builds goodwill among fans well beyond the final whistle."
+    }
+   ],
+   "date": "2026-10-30",
+   "id": "a5abdea79"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/business/article/3371042/hong-kong-plans-just-two-land-sales-next-quarter-despite-housing-rebound",
+   "published_date": "15 October 2026",
+   "headline": "Government Sticks to Just Two Land Sales for Fourth Quarter Despite Property Rebound",
+   "category": "urban",
+   "summary_html": "<p>The government has confirmed that only two residential sites will be released by <span class=\"bw\">public tender<span class=\"tip\"><span class=\"tip-en\">a process in which developers submit competing bids to buy or develop government land</span><span class=\"tip-zh\">公開招標</span></span></span> in the final quarter of the year, maintaining a <span class=\"bw\">cautious land-supply approach<span class=\"tip\"><span class=\"tip-en\">a deliberately careful policy of releasing only limited amounts of land for development</span><span class=\"tip-zh\">審慎的土地供應策略</span></span></span> even as the property market shows signs of recovery. Both parcels lie in Sha Tin: one is earmarked for conventional housing, while the other has been set aside specifically for a <span class=\"bw\">student hostel project<span class=\"tip\"><span class=\"tip-en\">a development built to provide affordable, purpose-built accommodation for university students</span><span class=\"tip-zh\">學生宿舍項目</span></span></span>, reflecting long-standing complaints that tertiary students struggle to find nearby housing.</p><p>Officials say the modest offering is consistent with a <span class=\"bw\">calibrated supply strategy<span class=\"tip\"><span class=\"tip-en\">an approach that carefully adjusts the amount of land released according to market conditions</span><span class=\"tip-zh\">經調節的供應策略</span></span></span> set out in the latest Long Term Housing Strategy report, which projects that roughly 419,300 flats will be needed over the coming decade against a supply target of 420,000. Property analysts note that a sudden release of extra land could risk an <span class=\"bw\">oversupply glut<span class=\"tip\"><span class=\"tip-en\">an excess of available units far beyond what buyers currently need</span><span class=\"tip-zh\">供應過剩</span></span></span>, depressing prices just as <span class=\"bw\">developer sentiment<span class=\"tip\"><span class=\"tip-en\">the overall confidence or pessimism that property companies feel about the market</span><span class=\"tip-zh\">發展商信心</span></span></span> begins to recover.</p><p>Critics counter that such caution ignores the scale of Hong Kong's <span class=\"bw\">housing backlog<span class=\"tip\"><span class=\"tip-en\">an accumulated shortage of homes that has built up over previous years</span><span class=\"tip-zh\">房屋短缺累積</span></span></span>, arguing that families on the public housing waiting list cannot afford to wait for the market to find its footing. Others welcome the restraint, warning that releasing land too freely could trigger a repeat of past <span class=\"bw\">boom-and-bust cycles<span class=\"tip\"><span class=\"tip-en\">repeated patterns of rapid price growth followed by sharp collapse</span><span class=\"tip-zh\">大起大落週期</span></span></span> that left thousands of flats unsold for years.</p>",
+   "summary_zh_html": "<p>政府證實，今年第四季只會以<span class=\"bwz\">公開招標</span>方式推出兩幅住宅用地，即使樓市出現復甦迹象，仍維持<span class=\"bwz\">審慎的土地供應策略</span>。兩幅地皮均位於沙田：一幅用於一般住宅發展，另一幅則專門預留作<span class=\"bwz\">學生宿舍項目</span>，回應大專學生長期難以在校園附近覓得居所的訴求。</p><p>官員表示，今次供應量雖少，但與最新《長遠房屋策略》報告所訂立的<span class=\"bwz\">經調節的供應策略</span>一致，報告預測未來十年香港需要約四十一萬九千三百個單位，而供應目標則為四十二萬個。地產分析員指出，若突然大增土地供應，可能令市場出現<span class=\"bwz\">供應過剩</span>，正值<span class=\"bwz\">發展商信心</span>開始回升之際，反而拖低樓價。</p><p>批評者則反駁，這種審慎態度忽視了本港累積已久的<span class=\"bwz\">房屋短缺累積</span>，指出正在等候公屋的家庭，根本無法等待市場自行復甦。另一批人則歡迎這種克制，警告若過於放鬆供應，可能重演過去<span class=\"bwz\">大起大落週期</span>所造成的後果，令數以千計的單位滯銷多年。</p>",
+   "image_scene": "An aerial-style view of a flat, fenced-off vacant construction site in Sha Tin surrounded by mid-rise housing blocks and green hills, a single yellow excavator parked at one corner, grey high-rises and a distant MTR viaduct in the background, overcast daytime sky, no people, no signage.",
+   "slides": {
+    "topic_en": "Hong Kong's Cautious Land Sale Plan",
+    "background_en": "The government will tender just two residential sites in Sha Tin this quarter, despite a recovering property market.",
+    "background_zh": "政府今季只會在沙田招標兩幅住宅用地，儘管樓市正在復甦。",
+    "background_hl": "tender just two residential sites in Sha Tin",
+    "analysis_en": "The modest supply reflects a policy choice to avoid flooding a market that is only beginning to stabilise.",
+    "analysis_zh": "供應量不多，反映當局有意避免在市場剛開始穩定之際，令供應氾濫。",
+    "analysis_hl": "avoid flooding a market that is only beginning to stabilise",
+    "support_en": "Supporters say restraint protects prices and prevents a repeat of past boom-and-bust cycles that left flats unsold.",
+    "support_zh": "支持者認為克制有助保護樓價，避免重演過去令單位滯銷的大起大落週期。",
+    "support_hl": "prevents a repeat of past boom-and-bust cycles",
+    "oppose_en": "Critics argue families on the waiting list cannot afford caution while the housing backlog keeps growing.",
+    "oppose_zh": "批評者則認為，在房屋短缺持續累積下，輪候公屋的家庭根本無法承受這種審慎態度。",
+    "oppose_hl": "cannot afford caution while the housing backlog keeps growing",
+    "vocab5": [
+     {
+      "en": "cautious land-supply approach",
+      "zh": "審慎的土地供應策略"
+     },
+     {
+      "en": "student hostel project",
+      "zh": "學生宿舍項目"
+     },
+     {
+      "en": "oversupply glut",
+      "zh": "供應過剩"
+     },
+     {
+      "en": "developer sentiment",
+      "zh": "發展商信心"
+     },
+     {
+      "en": "housing backlog",
+      "zh": "房屋短缺累積"
+     }
+    ],
+    "question_en": "Should the government release more land now to ease the housing backlog, or stay cautious to protect the market?",
+    "question_zh": "政府應否現在增加土地供應以緩解房屋短缺，還是應保持審慎以保護市場？",
+    "question_hl": "release more land now to ease the housing backlog"
+   },
+   "cover_text": {
+    "zh_kicker": "沙田地",
+    "zh_title": [
+     "季度僅推",
+     "兩幅住宅地"
+    ],
+    "zh_hl": "兩幅",
+    "zh_sub": "樓市回暖仍審慎供地",
+    "en": "Government sticks to just two land sites this quarter"
+   },
+   "vocab": [
+    {
+     "phrase": "cautious land-supply approach",
+     "zh": "審慎的土地供應策略",
+     "sample": "Officials defended the cautious land-supply approach as necessary during an uncertain recovery."
+    },
+    {
+     "phrase": "student hostel project",
+     "zh": "學生宿舍項目",
+     "sample": "The student hostel project could ease years of complaints from out-of-town undergraduates."
+    },
+    {
+     "phrase": "calibrated supply strategy",
+     "zh": "經調節的供應策略",
+     "sample": "A calibrated supply strategy tries to match new flats to realistic demand forecasts."
+    },
+    {
+     "phrase": "oversupply glut",
+     "zh": "供應過剩",
+     "sample": "An oversupply glut earlier in the decade left thousands of flats empty for years."
+    },
+    {
+     "phrase": "developer sentiment",
+     "zh": "發展商信心",
+     "sample": "Developer sentiment has improved slightly after several quarters of weak bidding."
+    },
+    {
+     "phrase": "housing backlog",
+     "zh": "房屋短缺累積",
+     "sample": "Campaigners say the housing backlog cannot be solved by two small sites alone."
+    },
+    {
+     "phrase": "boom-and-bust cycles",
+     "zh": "大起大落週期",
+     "sample": "Hong Kong's property market has long been prone to sharp boom-and-bust cycles."
+    },
+    {
+     "phrase": "public tender",
+     "zh": "公開招標",
+     "sample": "The site will be released through open public tender early next year."
+    },
+    {
+     "phrase": "housing waiting list",
+     "zh": "公屋輪候名單",
+     "sample": "Families on the housing waiting list often wait more than five years for a flat."
+    },
+    {
+     "phrase": "market stabilisation",
+     "zh": "市場穩定",
+     "sample": "Officials insist market stabilisation must come before any large increase in land supply."
+    },
+    {
+     "phrase": "land premium",
+     "zh": "補地價",
+     "sample": "Developers must pay a land premium before converting agricultural land for housing use."
+    },
+    {
+     "phrase": "supply-demand mismatch",
+     "zh": "供需錯配",
+     "sample": "Economists point to a long-standing supply-demand mismatch as the root of rising rents."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "treads a fine line between restraint and neglect",
+     "zh": "在克制與忽視之間走著一條微妙的界線",
+     "sample": "The land sale plan treads a fine line between restraint and neglect."
+    },
+    {
+     "en": "leaves little room to ease the pressure on first-time buyers",
+     "zh": "幾乎無法緩解首次置業人士的壓力",
+     "sample": "Such a modest release leaves little room to ease the pressure on first-time buyers."
+    },
+    {
+     "en": "a deliberate drip-feed rather than a sudden flood of flats",
+     "zh": "刻意採取逐步滴灌而非一次過大量供應單位",
+     "sample": "The policy amounts to a deliberate drip-feed rather than a sudden flood of flats."
+    },
+    {
+     "en": "shields the market from a destabilising burst of new supply",
+     "zh": "保護市場免受供應突增的衝擊",
+     "sample": "Officials say the approach shields the market from a destabilising burst of new supply."
+    },
+    {
+     "en": "does little to shorten years-long waits for public housing",
+     "zh": "無助縮短輪候公屋多年的時間",
+     "sample": "Critics argue the plan does little to shorten years-long waits for public housing."
+    },
+    {
+     "en": "prioritises price stability over the urgency of housing need",
+     "zh": "將樓價穩定置於住房需求的迫切性之上",
+     "sample": "The strategy prioritises price stability over the urgency of housing need, critics say."
+    },
+    {
+     "en": "a tacit admission that the market cannot yet absorb more supply",
+     "zh": "間接承認市場尚未能消化更多供應",
+     "sample": "The small land sale is almost a tacit admission that the market cannot yet absorb more supply."
+    },
+    {
+     "en": "buys the government room to manoeuvre if prices wobble again",
+     "zh": "為政府在樓價再度波動時留下調整空間",
+     "sample": "A cautious approach buys the government room to manoeuvre if prices wobble again."
+    },
+    {
+     "en": "fails to match the scale of demand building up year after year",
+     "zh": "無法追上逐年累積的龐大需求",
+     "sample": "Opposition lawmakers say the land sale fails to match the scale of demand building up year after year."
+    },
+    {
+     "en": "addresses a narrow need without tackling the wider shortage",
+     "zh": "只解決局部需要，未能處理整體短缺問題",
+     "sample": "The student hostel site addresses a narrow need without tackling the wider shortage."
+    },
+    {
+     "en": "keeps developers guessing about how much land will follow",
+     "zh": "令發展商難以預料日後會有多少土地供應",
+     "sample": "A small, irregular release keeps developers guessing about how much land will follow."
+    },
+    {
+     "en": "lets the market find its own footing before supply is ramped up",
+     "zh": "讓市場先自行站穩，再逐步增加供應",
+     "sample": "Officials prefer to let the market find its own footing before supply is ramped up."
+    }
+   ],
+   "date": "2026-10-30",
+   "id": "a29ae1508"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/346111/Foreign-domestic-caregiver-pilot-scheme-to-roll-out-gradually-from-2027-Chris-Sun",
+   "published_date": "27 October 2026",
+   "headline": "Foreign Caregiver Pilot Scheme to Roll Out Gradually From 2027, Labour Chief Says",
+   "category": "family",
+   "summary_html": "<p>Hong Kong's Secretary for Labour and Welfare has confirmed that a long-awaited scheme to bring in <span class=\"bw\">foreign care workers<span class=\"tip\"><span class=\"tip-en\">domestic helpers recruited from overseas specifically trained to look after elderly or disabled people</span><span class=\"tip-zh\">外地護理工</span></span></span> for the elderly will be introduced gradually, with the earliest arrivals unlikely before the second half of 2027. Chris Sun said the government would run a <span class=\"bw\">small-scale carer intake<span class=\"tip\"><span class=\"tip-en\">a limited initial batch of workers introduced before any wider programme is rolled out</span><span class=\"tip-zh\">小規模護理工引入計劃</span></span></span> admitting only a few hundred carers in its first year, with detailed arrangements to be settled after further consultation.</p><p>Under the proposed terms, carers would need to complete at least 150 hours of training before travelling to Hong Kong, and would earn 10 to 20 per cent more than ordinary <span class=\"bw\">domestic helpers<span class=\"tip\"><span class=\"tip-en\">foreign workers employed to carry out household duties such as cooking and cleaning</span><span class=\"tip-zh\">外籍家庭傭工</span></span></span>, reflecting the specialised nature of elder care. The scheme is intended to relieve the burden on an estimated 180,000 <span class=\"bw\">informal caregivers<span class=\"tip\"><span class=\"tip-en\">unpaid family members who provide day-to-day care without formal training or employment</span><span class=\"tip-zh\">非正式照顧者</span></span></span> across the city, many of whom experience <span class=\"bw\">chronic carer exhaustion<span class=\"tip\"><span class=\"tip-en\">a state of physical and emotional exhaustion caused by prolonged, unsupported caregiving</span><span class=\"tip-zh\">照顧者長期身心俱疲</span></span></span>, with few accessing formal <span class=\"bw\">temporary care relief<span class=\"tip\"><span class=\"tip-en\">short-term professional care that gives a family caregiver a temporary break</span><span class=\"tip-zh\">臨時暫託服務</span></span></span> in the meantime.</p><p>Employers' groups have cautiously welcomed the plan but warn that a sudden influx of better-paid carers could trigger <span class=\"bw\">wage spillover effects<span class=\"tip\"><span class=\"tip-en\">upward pressure on pay in a related job market caused by changes elsewhere</span><span class=\"tip-zh\">薪酬外溢效應</span></span></span> across the existing helper market, driving up costs for households that cannot afford specialised care. Advocates for the elderly counter that without such workers, Hong Kong's <span class=\"bw\">demographic ageing<span class=\"tip\"><span class=\"tip-en\">a demographic pattern in which the proportion of older people in society is steadily rising</span><span class=\"tip-zh\">人口老化趨勢</span></span></span> will continue to strain families already stretched thin by long working hours and shrinking household sizes.</p>",
+   "summary_zh_html": "<p>香港勞工及福利局局長孫玉菡證實，政府將分階段推出籌劃已久的輸入<span class=\"bwz\">外地護理工</span>計劃，供長者使用，最快亦要到2027年下半年才有首批人手抵港。孫玉菡表示，政府首年只會推行小規模的<span class=\"bwz\">小規模護理工引入計劃</span>，僅容許數百名護理工來港，具體安排仍有待進一步諮詢後落實。</p><p>根據建議方案，護理工須在來港前完成最少150小時培訓，薪酬將較一般<span class=\"bwz\">外籍家庭傭工</span>高出一至兩成，以反映長者照顧工作的專業性質。計劃旨在減輕本港估計十八萬名<span class=\"bwz\">非正式照顧者</span>的負擔，當中許多人出現<span class=\"bwz\">照顧者長期身心俱疲</span>的情況，而暫時甚少人能獲得正式的<span class=\"bwz\">臨時暫託服務</span>。</p><p>僱主團體對計劃審慎表示歡迎，但警告一旦大量薪酬較高的護理工湧入，可能在現有家傭市場引發<span class=\"bwz\">薪酬外溢效應</span>，令未能負擔專業護理服務的家庭百上加斤。長者權益倡導者則反駁，若無這批工人，本港<span class=\"bwz\">人口老化趨勢</span>只會持續加重家庭負擔，尤其是在長工時與家庭規模縮小的雙重壓力下。</p>",
+   "image_scene": "A tidy Hong Kong public housing living room with an elderly woman in a wheelchair by a window, a middle-aged daughter gently adjusting a blanket around her, afternoon light through the window, a walking frame nearby, calm and unhurried, no text or logos visible.",
+   "slides": {
+    "topic_en": "Foreign Elderly Carer Pilot Scheme",
+    "background_en": "Hong Kong will bring in foreign elderly carers through a small pilot scheme starting as early as 2027.",
+    "background_zh": "香港最快於2027年起，透過小規模試驗計劃輸入外地長者護理工。",
+    "background_hl": "through a small pilot scheme starting as early as 2027",
+    "analysis_en": "The plan aims to ease pressure on thousands of unpaid family caregivers facing chronic exhaustion.",
+    "analysis_zh": "計劃旨在緩解數以萬計無薪家庭照顧者長期承受的沉重壓力。",
+    "analysis_hl": "ease pressure on thousands of unpaid family caregivers",
+    "support_en": "Supporters say trained foreign carers could finally give exhausted families some relief and professional support.",
+    "support_zh": "支持者認為，受訓的外地護理工終能為疲憊的家庭帶來紓緩與專業支援。",
+    "support_hl": "give exhausted families some relief and professional support",
+    "oppose_en": "Critics worry higher pay for carers could push up wages across the whole domestic helper market.",
+    "oppose_zh": "批評者擔心，護理工薪酬較高，可能推高整個家庭傭工市場的工資水平。",
+    "oppose_hl": "push up wages across the whole domestic helper market",
+    "vocab5": [
+     {
+      "en": "foreign care workers",
+      "zh": "外地護理工"
+     },
+     {
+      "en": "small-scale carer intake",
+      "zh": "小規模護理工引入計劃"
+     },
+     {
+      "en": "informal caregivers",
+      "zh": "非正式照顧者"
+     },
+     {
+      "en": "chronic carer exhaustion",
+      "zh": "照顧者長期身心俱疲"
+     },
+     {
+      "en": "demographic ageing",
+      "zh": "人口老化趨勢"
+     }
+    ],
+    "question_en": "Will a small pilot scheme of foreign carers really ease the burden on Hong Kong's ageing families?",
+    "question_zh": "一個小規模的外地護理工試驗計劃，真能緩解香港老齡化家庭的重擔嗎？",
+    "question_hl": "really ease the burden on Hong Kong's ageing families"
+   },
+   "cover_text": {
+    "zh_kicker": "照顧者",
+    "zh_title": [
+     "外地護老",
+     "分階段推行"
+    ],
+    "zh_hl": "分階段",
+    "zh_sub": "最快2027年起見人手",
+    "en": "Foreign elderly caregiver pilot scheme to start by 2027"
+   },
+   "vocab": [
+    {
+     "phrase": "foreign care workers",
+     "zh": "外地護理工",
+     "sample": "The first foreign care workers are not expected to arrive before late 2027."
+    },
+    {
+     "phrase": "small-scale carer intake",
+     "zh": "小規模護理工引入計劃",
+     "sample": "A cautious small-scale carer intake lets officials fix problems before any wider roll-out."
+    },
+    {
+     "phrase": "domestic helpers",
+     "zh": "外籍家庭傭工",
+     "sample": "Many households already rely heavily on domestic helpers for everyday chores."
+    },
+    {
+     "phrase": "informal caregivers",
+     "zh": "非正式照顧者",
+     "sample": "Hong Kong has an estimated 180,000 informal caregivers looking after relatives without pay."
+    },
+    {
+     "phrase": "chronic carer exhaustion",
+     "zh": "照顧者長期身心俱疲",
+     "sample": "Support groups warn that chronic carer exhaustion often goes unnoticed until a health crisis forces a change."
+    },
+    {
+     "phrase": "temporary care relief",
+     "zh": "臨時暫託服務",
+     "sample": "Short stretches of temporary care relief can give an exhausted family member a much-needed break."
+    },
+    {
+     "phrase": "wage spillover effects",
+     "zh": "薪酬外溢效應",
+     "sample": "Economists are watching closely for wage spillover effects once the new scheme begins."
+    },
+    {
+     "phrase": "demographic ageing",
+     "zh": "人口老化趨勢",
+     "sample": "Hong Kong's demographic ageing is expected to place growing strain on public services."
+    },
+    {
+     "phrase": "elderly care burden",
+     "zh": "長者照顧負擔",
+     "sample": "The policy is designed to lighten the elderly care burden carried mostly by women."
+    },
+    {
+     "phrase": "staged introduction",
+     "zh": "分階段推行方式",
+     "sample": "Officials insisted on a staged introduction to avoid overwhelming the training system."
+    },
+    {
+     "phrase": "stakeholder consultation",
+     "zh": "持份者諮詢",
+     "sample": "A further round of stakeholder consultation will shape the scheme's final details."
+    },
+    {
+     "phrase": "home-based care",
+     "zh": "居家照顧",
+     "sample": "The government has long promoted home-based care over institutional placement for the elderly."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "offers only a partial fix to a much larger problem",
+     "zh": "僅為龐大問題提供局部解決方案",
+     "sample": "A few hundred carers a year offers only a partial fix to a much larger problem."
+    },
+    {
+     "en": "buys exhausted families a measure of breathing room",
+     "zh": "為疲憊的家庭爭取一點喘息空間",
+     "sample": "Even a small scheme buys exhausted families a measure of breathing room."
+    },
+    {
+     "en": "risks squeezing an already tight domestic helper market",
+     "zh": "可能令本已緊張的家傭市場百上加斤",
+     "sample": "Employer groups fear the scheme risks squeezing an already tight domestic helper market."
+    },
+    {
+     "en": "shifts a private burden onto a more formal, paid footing",
+     "zh": "將私人負擔轉移至更正式、受薪的基礎上",
+     "sample": "The scheme shifts a private burden onto a more formal, paid footing."
+    },
+    {
+     "en": "unlikely to arrive quickly enough for families in crisis now",
+     "zh": "未能及時惠及現時正陷入困境的家庭",
+     "sample": "Critics note the carers are unlikely to arrive quickly enough for families in crisis now."
+    },
+    {
+     "en": "a quiet acknowledgement that unpaid care can no longer cope alone",
+     "zh": "默默承認無薪照顧已再難以獨力支撐",
+     "sample": "The policy is a quiet acknowledgement that unpaid care can no longer cope alone."
+    },
+    {
+     "en": "tries to professionalise a task long left to exhausted relatives",
+     "zh": "嘗試將一直由疲憊親屬承擔的工作變得專業化",
+     "sample": "The scheme tries to professionalise a task long left to exhausted relatives."
+    },
+    {
+     "en": "a small step that leaves the bigger demographic problem untouched",
+     "zh": "一小步，卻未觸及更龐大的人口問題",
+     "sample": "Demographers call it a small step that leaves the bigger demographic problem untouched."
+    },
+    {
+     "en": "widens the pool of support available to ageing households",
+     "zh": "擴闊年老家庭可獲得的支援範圍",
+     "sample": "The scheme widens the pool of support available to ageing households, however modestly."
+    },
+    {
+     "en": "whether pay alone can attract enough qualified carers remains unclear",
+     "zh": "單靠薪酬能否吸引足夠合資格護理工仍是未知數",
+     "sample": "Whether pay alone can attract enough qualified carers remains unclear."
+    },
+    {
+     "en": "could ease pressure without addressing why so few locals take up the job",
+     "zh": "或可緩解壓力，但未解釋為何本地人甚少願意從事這工作",
+     "sample": "The plan could ease pressure without addressing why so few locals take up the job."
+    },
+    {
+     "en": "a cautious first step rather than a sweeping solution",
+     "zh": "審慎的第一步，而非全面的解決方案",
+     "sample": "Officials describe it as a cautious first step rather than a sweeping solution."
+    }
+   ],
+   "date": "2026-10-30",
+   "id": "a8c6241ae"
   }
  ],
  "trends": [
@@ -39311,6 +40065,147 @@
    ],
    "date": "2026-10-29",
    "id": "tac1d1a1e"
+  },
+  {
+   "platforms": [
+    "ig",
+    "tiktok"
+   ],
+   "headline": "🎃 Hong Kong's First-Ever 'Halloween Month' Takes Over IG and TikTok",
+   "summary_html": "<p>For the first time, Hong Kong's tourism authorities have stretched Halloween into a month-long <span class=\"bw\">citywide campaign<span class=\"tip\"><span class=\"tip-en\">a coordinated promotional effort covering the whole city rather than a single venue</span><span class=\"tip-zh\">全港性宣傳活動</span></span></span>, spreading costumed parties across three consecutive weekends in Lan Kwai Fong alongside <span class=\"bw\">themed takeovers<span class=\"tip\"><span class=\"tip-en\">special temporary redesigns of a venue built entirely around one theme</span><span class=\"tip-zh\">主題式改裝活動</span></span></span> at Disneyland and Ocean Park. Instagram and TikTok feeds have filled with elaborate costume reveals, queue-time videos and night-out recaps tagged to the district, with crowds already building ahead of the main night.</p><p>Organisers point to last year's roughly 80,000 <span class=\"bw\">revellers<span class=\"tip\"><span class=\"tip-en\">people celebrating enthusiastically, often loudly, usually at a festival or party</span><span class=\"tip-zh\">狂歡者</span></span></span> as proof of the event's pulling power, and this year's extended format is designed to spread that <span class=\"bw\">crowd density<span class=\"tip\"><span class=\"tip-en\">the number of people packed into a given area at one time</span><span class=\"tip-zh\">人流密度</span></span></span> over several nights rather than one. Police have confirmed <span class=\"bw\">crowd-management measures<span class=\"tip\"><span class=\"tip-en\">official steps taken to control the movement and safety of large groups of people</span><span class=\"tip-zh\">人群管理措施</span></span></span>, a precaution local residents still associate with Lan Kwai Fong's deadly 1993 <span class=\"bw\">stampede<span class=\"tip\"><span class=\"tip-en\">a sudden, chaotic rush of people that can cause serious injury or death</span><span class=\"tip-zh\">人踩人事故</span></span></span>.</p>",
+   "summary_zh_html": "<p>香港旅遊當局首次將萬聖節延伸成為期一個月的<span class=\"bwz\">全港性宣傳活動</span>，蘭桂坊一連三個週末舉行變裝派對，迪士尼樂園及海洋公園亦同步推出<span class=\"bwz\">主題式改裝活動</span>。Instagram及TikTok上充斥大量精心打扮的變裝影片、排隊片段及夜後感想，並標註地點標籤，正日前人潮已開始聚集。</p><p>主辦單位指出，去年約八萬名<span class=\"bwz\">狂歡者</span>的出席人數證明活動極具吸引力，今年刻意拉長活動期，正是為了將<span class=\"bwz\">人流密度</span>分散至多個晚上，而非集中於一夜。警方已確認將實施<span class=\"bwz\">人群管理措施</span>，這項防範措施，令本地居民不禁想起蘭桂坊1993年造成死傷的<span class=\"bwz\">人踩人事故</span>。</p>",
+   "causes": [
+    {
+     "label": "Economic impact on local businesses",
+     "label_zh": "本地商戶的經濟效益",
+     "text": "Extending Halloween across an entire month gives bars, restaurants and costume retailers in Lan Kwai Fong weeks of extra trade rather than a single night's windfall, turning what was once a one-off party into a recurring, bookable attraction that hotels and tour operators can build autumn packages around.",
+     "text_zh": "將萬聖節延長至整整一個月，讓蘭桂坊的酒吧、餐廳及變裝服飾店，得以享有數星期的額外生意，而非僅僅一夜的額外收入，令原本一次性的派對變成可供酒店及旅行社圍繞編排秋季套票的常規旅遊吸引點。"
+    },
+    {
+     "label": "Heritage vs globalisation in festival culture",
+     "label_zh": "節慶文化中的傳統與全球化之爭",
+     "text": "Some commentators question why a borrowed Western festival now commands a full month of civic promotion while longer-established local observances, such as the Mid-Autumn or Chung Yeung festivals, receive comparatively little coordinated marketing, suggesting that commercial appeal rather than cultural roots increasingly decides which traditions a city chooses to amplify.",
+     "text_zh": "有評論質疑，為何一個源自西方的外來節日，如今竟能獲得整整一個月的官方宣傳推廣，而中秋節、重陽節等歷史更悠久的本地節慶，卻甚少獲得同等規模的統籌宣傳，反映決定一座城市放大哪種傳統的，往往是商業吸引力，而非文化根源。"
+    },
+    {
+     "label": "Crowd safety risk in a dense nightlife district",
+     "label_zh": "密集夜生活區的人群安全風險",
+     "text": "Spreading the festivities over three weekends is partly a safety measure, aimed at avoiding the kind of single-night crush that turned deadly in Lan Kwai Fong in 1993 and that echoed again in Seoul's 2022 Itaewon tragedy, yet any gathering of tens of thousands in a narrow, sloped district still carries real crowd-crush risk.",
+     "text_zh": "將慶祝活動分散至三個週末，部分原因正是出於安全考慮，希望避免重演1993年蘭桂坊單夜人踩人慘劇，以及2022年南韓梨泰院踩死慘劇的悲劇，然而數萬人聚集於狹窄、斜坡地形的地區，依然潛藏著實際的人踩人風險。"
+    },
+    {
+     "label": "Counter-argument: over-commercialisation erodes authenticity",
+     "label_zh": "反方論點：過度商業化削弱真實感",
+     "text": "Sceptics argue that stretching a single night into a month-long, tourism-board-branded campaign risks draining the spontaneity that once made Lan Kwai Fong's Halloween feel authentic, turning a grassroots night of costumed fun into a scheduled, sponsor-friendly product whose novelty may wear thin the longer officials try to extend it each year.",
+     "text_zh": "持懷疑態度者認為，將原本一夜的狂歡拉長為整整一個月、由旅遊局冠名的宣傳活動，有可能削弱昔日蘭桂坊萬聖節那份自發而真實的氣氛，令一場草根式的變裝狂歡夜，淪為配合贊助商、按時間表進行的「產品」，而官方每年愈拉長活動期，其新鮮感便愈容易消退。"
+    }
+   ],
+   "vocab": [
+    {
+     "phrase": "citywide campaign",
+     "zh": "全港性宣傳活動",
+     "sample": "The Tourism Board built an entire citywide campaign around the Halloween Month concept."
+    },
+    {
+     "phrase": "themed takeover",
+     "zh": "主題式改裝活動",
+     "sample": "Disneyland's villain-themed takeover ran for several weeks ahead of the main event."
+    },
+    {
+     "phrase": "reveller",
+     "zh": "狂歡者",
+     "sample": "Thousands of revellers posted costume photos within hours of arriving in Lan Kwai Fong."
+    },
+    {
+     "phrase": "crowd density",
+     "zh": "人流密度",
+     "sample": "Spreading events across three weekends was meant to lower crowd density on any single night."
+    },
+    {
+     "phrase": "crowd-management measures",
+     "zh": "人群管理措施",
+     "sample": "Police rolled out extra crowd-management measures well before the first weekend began."
+    },
+    {
+     "phrase": "stampede risk",
+     "zh": "人踩人風險",
+     "sample": "Memories of past tragedies keep stampede risk at the centre of every safety briefing."
+    },
+    {
+     "phrase": "costume reveal",
+     "zh": "變裝大公開",
+     "sample": "Costume reveal videos regularly rack up the most views during the festive season."
+    },
+    {
+     "phrase": "festival branding",
+     "zh": "節慶品牌化",
+     "sample": "Critics say heavy festival branding can make a spontaneous night feel manufactured."
+    },
+    {
+     "phrase": "tourism packaging",
+     "zh": "旅遊包裝",
+     "sample": "Hotels have built tourism packaging around the extended Halloween celebrations."
+    },
+    {
+     "phrase": "spontaneity",
+     "zh": "自發性",
+     "sample": "Long-time visitors worry that official planning is slowly draining the event's original spontaneity."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "turns a single rowdy night into a month of ticketed events",
+     "zh": "把一夜狂歡變成一整月的收費活動",
+     "sample": "Extending the festival turns a single rowdy night into a month of ticketed events."
+    },
+    {
+     "en": "spreads the risk of overcrowding across several smaller nights",
+     "zh": "將人多擁擠的風險分散至多個較小規模的夜晚",
+     "sample": "Organisers hope the new format spreads the risk of overcrowding across several smaller nights."
+    },
+    {
+     "en": "lends itself readily to sponsor-friendly packaging",
+     "zh": "很容易被包裝成配合贊助商的活動",
+     "sample": "A month-long festival lends itself readily to sponsor-friendly packaging."
+    },
+    {
+     "en": "keeps the tills ringing long after the costumes come off",
+     "zh": "即使脫下戲服，生意依然持續",
+     "sample": "Extra weekends keep the tills ringing long after the costumes come off."
+    },
+    {
+     "en": "echoes a tragedy residents have not forgotten",
+     "zh": "令居民想起一場從未被遺忘的慘劇",
+     "sample": "Every crowd-safety briefing echoes a tragedy residents have not forgotten."
+    },
+    {
+     "en": "risks diluting the very spontaneity that made it popular",
+     "zh": "有可能削弱令它受歡迎的那份自發性",
+     "sample": "Over-planning risks diluting the very spontaneity that made it popular."
+    },
+    {
+     "en": "gives hotels and tour operators something to build packages around",
+     "zh": "讓酒店及旅行社有條件圍繞活動編製套票",
+     "sample": "A longer festival gives hotels and tour operators something to build packages around."
+    },
+    {
+     "en": "a borrowed festival now rivals home-grown ones for official attention",
+     "zh": "一個外來節日如今在官方關注度上足以媲美本土節慶",
+     "sample": "Commentators note that a borrowed festival now rivals home-grown ones for official attention."
+    },
+    {
+     "en": "trades a single unforgettable night for a predictable monthlong routine",
+     "zh": "以一整月可預期的常規活動，換取一夜難忘的體驗",
+     "sample": "Some long-time revellers feel the city trades a single unforgettable night for a predictable monthlong routine."
+    },
+    {
+     "en": "forces organisers to balance festive excitement against crowd safety",
+     "zh": "迫使主辦方在節日氣氛與人群安全之間取得平衡",
+     "sample": "Every large-scale celebration forces organisers to balance festive excitement against crowd safety."
+    }
+   ],
+   "date": "2026-10-30",
+   "id": "t97e72b67"
   }
  ]
 }

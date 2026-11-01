@@ -34845,6 +34845,755 @@
    ],
    "date": "2026-10-31",
    "id": "a8d06e7a2"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372346/dont-have-illusion-graduate-job-ads-down-22-ai-rewrites-rules",
+   "published_date": "28 October 2026",
+   "headline": "Fresh Graduates Face a Shrinking Job Market as AI Rewrites Hiring Rules",
+   "category": "career",
+   "summary_html": "<p>Hong Kong’s job market for fresh graduates has grown noticeably <span class=\"bw\">bleaker<span class=\"tip\"><span class=\"tip-en\">gloomier, offering little hope</span><span class=\"tip-zh\">更黯淡、欠缺希望</span></span></span> this year, as new data lay bare how quickly artificial intelligence is reshaping entry-level hiring. According to figures released by recruitment platform Jobsdb by SEEK, job advertisements aimed specifically at university leavers <span class=\"bw\">plunged<span class=\"tip\"><span class=\"tip-en\">fell sharply and suddenly</span><span class=\"tip-zh\">急挫</span></span></span> by 22 per cent in the first nine months of 2026 compared with the same period last year. Bill Lee Chern-hsing, the platform’s Hong Kong managing director, cautioned graduates against <span class=\"bw\">clinging to<span class=\"tip\"><span class=\"tip-en\">holding onto something tightly, often stubbornly</span><span class=\"tip-zh\">緊抱不放</span></span></span> outdated expectations, warning that they “don’t have the illusion” that a degree alone still guarantees a smooth transition into stable employment.</p><p>The slump builds on a broader trend. Separate government figures earlier this year found that vacancies traditionally reserved for degree-holders had fallen by roughly 60 per cent since 2022, with clerical and administrative roles proving especially <span class=\"bw\">vulnerable<span class=\"tip\"><span class=\"tip-en\">exposed to harm or being replaced</span><span class=\"tip-zh\">容易受衝擊</span></span></span> to automation. Labour officials estimate that tens of thousands of clerical workers in their late forties and fifties, many without post-secondary qualifications, now face a genuine risk of being <span class=\"bw\">phased out<span class=\"tip\"><span class=\"tip-en\">gradually removed or discontinued</span><span class=\"tip-zh\">逐步淘汰</span></span></span> as firms adopt AI tools for routine paperwork and data entry.</p><p>Employers, for their part, describe themselves as cautiously hopeful about next year’s recovery, even as they grow more <span class=\"bw\">discerning<span class=\"tip\"><span class=\"tip-en\">careful and selective in judgement</span><span class=\"tip-zh\">審慎挑剔</span></span></span> about whom they hire. Many now treat familiarity with AI tools as a decisive factor when <span class=\"bw\">sifting through<span class=\"tip\"><span class=\"tip-en\">examining items carefully one by one to select the best</span><span class=\"tip-zh\">仔細篩選</span></span></span> applications, leaving graduates who cannot demonstrate such fluency at an immediate disadvantage. Mr Lee urged students to pursue internships while still studying and to cultivate soft skills — communication, adaptability and problem-solving — that cannot easily be <span class=\"bw\">replicated<span class=\"tip\"><span class=\"tip-en\">copied or reproduced exactly</span><span class=\"tip-zh\">複製</span></span></span> by a machine. Critics counter that the burden of adaptation is falling unfairly on the youngest jobseekers, who had no part in designing the very technology now disrupting their prospects, and are calling on the government and employers to share more of the responsibility for retraining and mentorship as the transition continues to unfold.</p>",
+   "summary_zh_html": "<p>隨著人工智能迅速重塑初級職位的招聘模式,香港大學畢業生的就業市場今年明顯變得<span class=\"bwz\">更黯淡</span>。求職平台Jobsdb by SEEK公佈的數據顯示,專門招聘大學畢業生的職位廣告,在2026年首九個月按年<span class=\"bwz\">急挫</span>22%。該平台香港區總經理李鎮軒提醒畢業生切勿<span class=\"bwz\">緊抱</span>不切實際的幻想,強調單憑一張學位證書,已不再保證能順利過渡至穩定的工作崗位。</p><p>這次下滑屬於更廣泛趨勢的一部分。政府今年較早時公布的另一組數字顯示,傳統上專屬學位持有人的職位空缺,自2022年以來大跌約六成,當中文書及行政類職位在自動化浪潮下顯得尤其<span class=\"bwz\">容易受衝擊</span>。勞工官員估計,數以萬計年近五十歲、且大多未持專上學歷的文書工作者,隨著企業逐步採用人工智能處理日常文件及數據輸入工作,正面臨被<span class=\"bwz\">逐步淘汰</span>的真實風險。</p><p>僱主方面則形容自己對明年經濟復蘇抱持審慎樂觀態度,但在招聘人手時亦變得更加<span class=\"bwz\">審慎挑剔</span>。不少僱主在<span class=\"bwz\">仔細篩選</span>求職申請時,已將求職者對人工智能工具的熟悉程度視為關鍵考慮因素,令未能展示相關能力的畢業生即時處於劣勢。李鎮軒促請學生在仍然就讀期間爭取實習機會,並培養難以輕易被機器<span class=\"bwz\">複製</span>的軟技能——包括溝通能力、應變能力及解難能力。批評者則反駁指,適應轉型的重擔不公平地落在最年輕的求職者身上,他們根本無從參與設計這項正顛覆其前景的科技,並呼籲政府與僱主在再培訓及師友輔導方面,承擔更多責任,以應對這場仍在持續演變的轉變。</p>",
+   "image_scene": "A young Hong Kong graduate in smart-casual clothing sits alone at a co-working space table, laptop open, scrolling through a long list of job listings; a stack of resume print-outs sits beside a cold cup of coffee. Through the window behind, Central's office towers rise under a hazy afternoon sky, hinting at the competitive corporate world just out of reach.",
+   "slides": {
+    "topic_en": "AI and the Graduate Job Crunch",
+    "background_en": "Hong Kong graduate job ads fell 22% this year as employers favour AI skills over degrees alone.",
+    "background_zh": "今年香港畢業生職位廣告下跌22%,僱主比起單憑學位,更看重人工智能技能。",
+    "background_hl": "fell 22%",
+    "analysis_en": "The slump raises a hard question: how should young people prove their worth when entry-level tasks are increasingly automated?",
+    "analysis_zh": "這次下滑引發一個尖銳問題:當初級工作日益被自動化取代,年輕人應如何證明自己的價值?",
+    "analysis_hl": "prove their worth",
+    "support_en": "Supporters argue AI literacy lets graduates work smarter and should be embraced as a basic career skill, not feared.",
+    "support_zh": "支持者認為,具備人工智能應用能力可令畢業生工作更有效率,這應被視為基本職業技能,而非令人恐懼的威脅。",
+    "support_hl": "work smarter",
+    "oppose_en": "Opponents say employers are offloading retraining costs onto graduates who never chose to compete against the technology replacing them.",
+    "oppose_zh": "反對者則指,僱主正將再培訓的成本轉嫁至畢業生身上,而他們從未選擇要與取代自己的科技競爭。",
+    "oppose_hl": "offloading retraining costs",
+    "vocab5": [
+     {
+      "en": "entry-level position",
+      "zh": "初級職位"
+     },
+     {
+      "en": "automation",
+      "zh": "自動化"
+     },
+     {
+      "en": "skills mismatch",
+      "zh": "技能錯配"
+     },
+     {
+      "en": "job security",
+      "zh": "工作保障"
+     },
+     {
+      "en": "upskilling",
+      "zh": "技能提升"
+     }
+    ],
+    "question_en": "Should companies, not just graduates, bear more responsibility for retraining workers displaced by AI?",
+    "question_zh": "企業而非單靠畢業生本身,是否應承擔更多責任,去再培訓因人工智能而被取代的勞工?",
+    "question_hl": "bear more responsibility"
+   },
+   "cover_text": {
+    "zh_kicker": "畢業求職潮",
+    "zh_title": [
+     "畢業廣告跌22%",
+     "AI搶飯碗?"
+    ],
+    "zh_hl": "22%",
+    "zh_sub": "文書職位首當其衝",
+    "en": "Graduate job ads fall 22% as AI reshapes hiring."
+   },
+   "vocab": [
+    {
+     "phrase": "first-time jobseeker",
+     "zh": "初次求職者",
+     "sample": "A first-time jobseeker now often spends months submitting applications before securing even one interview."
+    },
+    {
+     "phrase": "job posting",
+     "zh": "招聘廣告",
+     "sample": "The number of job postings aimed at university leavers has fallen sharply over the past year."
+    },
+    {
+     "phrase": "clerical role",
+     "zh": "文書職位",
+     "sample": "Clerical roles that once offered a stable first step into the workforce are now among the first to disappear."
+    },
+    {
+     "phrase": "hiring freeze",
+     "zh": "招聘凍結",
+     "sample": "Several firms have quietly imposed a hiring freeze on graduate-level posts while they assess how far AI can take over routine tasks."
+    },
+    {
+     "phrase": "internship placement",
+     "zh": "實習崗位",
+     "sample": "Securing an internship placement before graduation has become almost essential for standing out in a shrinking market."
+    },
+    {
+     "phrase": "transferable skill",
+     "zh": "可轉移技能",
+     "sample": "Careers advisers now urge students to build transferable skills that remain valuable even as specific tasks become automated."
+    },
+    {
+     "phrase": "labour market shift",
+     "zh": "勞動市場轉變",
+     "sample": "This labour market shift is forcing universities to rethink what they teach final-year students about employability."
+    },
+    {
+     "phrase": "AI fluency",
+     "zh": "人工智能應用能力",
+     "sample": "Employers increasingly list AI fluency as a prerequisite rather than a bonus on graduate job advertisements."
+    },
+    {
+     "phrase": "employment outlook",
+     "zh": "就業前景",
+     "sample": "Falling vacancy numbers have cast a shadow over the employment outlook of this year's graduating class."
+    },
+    {
+     "phrase": "workforce restructuring",
+     "zh": "勞動力重整",
+     "sample": "The wave of workforce restructuring driven by AI adoption shows little sign of slowing in the coming year."
+    },
+    {
+     "phrase": "soft skills",
+     "zh": "軟技能",
+     "sample": "Recruiters say soft skills such as communication and adaptability now carry more weight than they did five years ago."
+    },
+    {
+     "phrase": "trainee programme",
+     "zh": "見習生計劃",
+     "sample": "Competition for places on a major bank's trainee programme has reportedly doubled since last year."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "cast doubt on the value of a university degree",
+     "zh": "令人質疑大學學位的價值",
+     "sample": "The sharp fall in graduate hiring has cast doubt on the value of a university degree as a guaranteed route to employment."
+    },
+    {
+     "en": "widen the gap between graduates and the job market",
+     "zh": "擴大畢業生與就業市場之間的差距",
+     "sample": "A lack of practical AI exposure risks widening the gap between graduates and the job market's actual demands."
+    },
+    {
+     "en": "shift the burden of adaptation onto young jobseekers",
+     "zh": "將適應轉型的重擔轉移至年輕求職者身上",
+     "sample": "Critics argue the current approach simply shifts the burden of adaptation onto young jobseekers who had no say in the technology's design."
+    },
+    {
+     "en": "treat a qualification as a safety net",
+     "zh": "將學歷視為保障",
+     "sample": "Graduates can no longer treat a qualification as a safety net against a fast-changing labour market."
+    },
+    {
+     "en": "outpace the education system's response",
+     "zh": "發展速度超越教育體系的應對能力",
+     "sample": "Technological change appears to outpace the education system's response, leaving curricula several years behind employer expectations."
+    },
+    {
+     "en": "erode the traditional career ladder",
+     "zh": "侵蝕傳統晉升階梯",
+     "sample": "Automation threatens to erode the traditional career ladder that once rewarded junior staff for years of routine experience."
+    },
+    {
+     "en": "demand proof of practical competence",
+     "zh": "要求求職者證明實際能力",
+     "sample": "Rather than relying on academic transcripts, many employers now demand proof of practical competence before extending an offer."
+    },
+    {
+     "en": "leave a generation feeling short-changed",
+     "zh": "令一整代人感到被虧待",
+     "sample": "Stagnant entry-level opportunities risk leaving a generation feeling short-changed despite years of academic effort."
+    },
+    {
+     "en": "share the cost of retraining",
+     "zh": "共同分擔再培訓的成本",
+     "sample": "Government and industry should share the cost of retraining so that the adjustment does not fall solely on graduates."
+    },
+    {
+     "en": "redefine what employability means",
+     "zh": "重新定義「可僱用性」的含義",
+     "sample": "The rise of workplace AI is forcing universities to redefine what employability means for this decade's students."
+    },
+    {
+     "en": "hollow out entry-level opportunities",
+     "zh": "削弱初級職位的機會",
+     "sample": "Some economists fear automation will hollow out entry-level opportunities before graduates even reach the interview stage."
+    },
+    {
+     "en": "cushion the blow of a cooling job market",
+     "zh": "緩減就業市場降溫帶來的衝擊",
+     "sample": "Government wage subsidies are intended to cushion the blow of a cooling job market for this year's school leavers."
+    },
+    {
+     "en": "signal a mismatch between ambition and opportunity",
+     "zh": "反映志向與機會之間的錯配",
+     "sample": "Record numbers of overqualified applicants for junior roles signal a mismatch between ambition and opportunity."
+    }
+   ],
+   "date": "2026-11-01",
+   "id": "ac5648cf0"
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/china/diplomacy/article/3372816/beijing-blasts-us-ban-device-testing-china-warns-supply-chain-disruptions",
+   "published_date": "30 October 2026",
+   "headline": "Beijing Warns of Supply Chain Disruption After US Bans Chinese Device-Testing Labs",
+   "category": "global",
+   "summary_html": "<p>Beijing has <span class=\"bw\">lashed out<span class=\"tip\"><span class=\"tip-en\">reacted with sudden anger or strong criticism</span><span class=\"tip-zh\">猛烈抨擊</span></span></span> at a new United States ruling that bars Chinese laboratories from certifying electronic devices for the American market, warning that the move threatens to disrupt supply chains stretching from mainland factories through Hong Kong’s ports and trading houses. The US Federal Communications Commission voted to prohibit test labs based in China, and in any country lacking a mutual recognition agreement with Washington, from carrying out the safety and compliance checks that electronics makers need before their products can legally enter the US. China’s Commerce Ministry called the decision “<span class=\"bw\">unilateral<span class=\"tip\"><span class=\"tip-en\">taken by one side alone, without agreement from others</span><span class=\"tip-zh\">單方面的</span></span></span>” and said it had “seriously disrupted the stability of global industrial and supply chains.”</p><p>The ruling matters far beyond Washington and Beijing. The FCC itself estimates that roughly 82 per cent of devices currently certified for the US market are tested in Chinese-recognised laboratories, meaning manufacturers across the mainland — many of whom ship finished goods through Hong Kong — now face the prospect of longer testing queues, <span class=\"bw\">rerouted<span class=\"tip\"><span class=\"tip-en\">sent along a different path or through a different channel</span><span class=\"tip-zh\">改道</span></span></span> logistics and higher costs once the rule takes effect in 2028. Hong Kong’s long-standing role as an <span class=\"bw\">entrepot<span class=\"tip\"><span class=\"tip-en\">a trading hub where goods are received, stored and re-exported</span><span class=\"tip-zh\">轉口港</span></span></span> for electronics bound for Western markets leaves local trading firms and freight forwarders particularly exposed to any slowdown.</p><p>Beijing’s ministry urged Washington to “immediately revoke” the measure and said China had earlier proposed negotiating a bilateral recognition deal, only to find the American side’s response <span class=\"bw\">lukewarm<span class=\"tip\"><span class=\"tip-en\">showing little enthusiasm or interest</span><span class=\"tip-zh\">反應冷淡</span></span></span> at best. It <span class=\"bw\">stopped short of<span class=\"tip\"><span class=\"tip-en\">did not go as far as to do something</span><span class=\"tip-zh\">未有進一步</span></span></span> detailing retaliation, saying only that countermeasures would follow “if the US side persists in acting unilaterally.” Trade analysts in Hong Kong caution that the dispute, arriving weeks before a planned Trump-Xi meeting at the Shenzhen APEC summit, could <span class=\"bw\">cast a shadow over<span class=\"tip\"><span class=\"tip-en\">create a troubling, uncertain atmosphere around something</span><span class=\"tip-zh\">為…蒙上陰影</span></span></span> efforts to extend the fragile tariff truce between the two economies, with knock-on effects for a city that depends heavily on the free flow of goods through its borders.</p>",
+   "summary_zh_html": "<p>北京<span class=\"bwz\">猛烈抨擊</span>美國一項新規定,該規定禁止中國實驗室為美國市場認證電子產品,並警告此舉可能擾亂從內地工廠經香港港口及貿易行流通的供應鏈。美國聯邦通信委員會投票通過,禁止設於中國,以及任何與美國未簽訂互認協議的國家的測試實驗室,為電子產品進行安全及合規檢測——而這些檢測正是產品合法進入美國市場前的必要程序。中國商務部形容這項決定屬於「<span class=\"bwz\">單方面</span>」行動,並表示此舉「嚴重擾亂全球產業鏈供應鏈穩定」。</p><p>這項裁決的影響遠超華盛頓與北京兩地。聯邦通信委員會本身估計,目前約八成二獲認證進入美國市場的裝置,均在中國認可的實驗室完成測試,意味著眾多內地製造商——當中不少透過香港轉運成品——一旦該規定於2028年生效,將面臨檢測排期延長、物流需要<span class=\"bwz\">改道</span>及成本上升的局面。香港作為電子產品轉銷西方市場的<span class=\"bwz\">轉口港</span>這一長期角色,令本地貿易公司及貨運代理商在供應鏈一旦放緩時,尤其容易受到衝擊。</p><p>中國商務部促請華盛頓方面「立即撤銷」有關措施,並指中方早前已建議就雙邊互認協議進行磋商,惟美方回應始終<span class=\"bwz\">反應冷淡</span>。中方<span class=\"bwz\">未有進一步</span>交代反制措施的細節,僅表示若美方一意孤行,中方將採取反制措施。香港貿易分析人士警告,這場爭議正值中美兩國元首計劃於深圳APEC峰會會晤前數週爆發,恐為延續雙方脆弱的關稅休戰談判<span class=\"bwz\">蒙上陰影</span>,對嚴重依賴貨物自由進出的香港而言,亦將帶來連鎖影響。</p>",
+   "image_scene": "Shipping containers stacked beside cargo ships at a Hong Kong container terminal at dusk, cranes loading cardboard boxes of electronic goods onto trucks; a faint skyline of Kowloon in the background, with workers in hi-vis vests directing traffic between the containers.",
+   "slides": {
+    "topic_en": "US-China Trade Tensions Return",
+    "background_en": "The US barred Chinese labs from testing electronics for its market, and Beijing warned of serious supply-chain disruption.",
+    "background_zh": "美國禁止中國實驗室為其市場測試電子產品,北京警告這將嚴重擾亂供應鏈。",
+    "background_hl": "barred Chinese labs",
+    "analysis_en": "The dispute threatens Hong Kong's trading firms, which rely on the smooth, low-cost flow of electronics through its port.",
+    "analysis_zh": "這場爭議威脅到依賴電子產品順暢低成本流通的香港貿易公司。",
+    "analysis_hl": "Hong Kong's trading firms",
+    "support_en": "Supporters of the US rule argue that national security requires stricter, independently verified testing standards for imported electronics.",
+    "support_zh": "支持美方規定者認為,國家安全需要對進口電子產品實施更嚴格、獨立核實的測試標準。",
+    "support_hl": "national security requires stricter",
+    "oppose_en": "Opponents argue the ban punishes global consumers and businesses with higher costs and delays for no proven safety benefit.",
+    "oppose_zh": "反對者認為,這項禁令令全球消費者及企業承受更高成本及延誤,卻未見實質安全效益。",
+    "oppose_hl": "punishes global consumers",
+    "vocab5": [
+     {
+      "en": "supply chain",
+      "zh": "供應鏈"
+     },
+     {
+      "en": "trade truce",
+      "zh": "貿易休戰"
+     },
+     {
+      "en": "certification standard",
+      "zh": "認證標準"
+     },
+     {
+      "en": "retaliatory measure",
+      "zh": "反制措施"
+     },
+     {
+      "en": "bilateral agreement",
+      "zh": "雙邊協議"
+     }
+    ],
+    "question_en": "Should trade rules ever be separated from geopolitical rivalry, or are the two now impossible to untangle?",
+    "question_zh": "貿易規則是否應該脫離地緣政治角力?還是兩者早已無法分割?",
+    "question_hl": "impossible to untangle"
+   },
+   "cover_text": {
+    "zh_kicker": "中美角力",
+    "zh_title": [
+     "測試禁令惹爭議",
+     "供應鏈受衝擊"
+    ],
+    "zh_hl": "禁令",
+    "zh_sub": "香港轉口貿易首當其衝",
+    "en": "China warns of supply-chain fallout from US testing ban."
+   },
+   "vocab": [
+    {
+     "phrase": "mutual recognition agreement",
+     "zh": "互認協議",
+     "sample": "Without a mutual recognition agreement in place, exporters must repeat costly tests in a different country's laboratories."
+    },
+    {
+     "phrase": "re-export hub",
+     "zh": "轉口樞紐",
+     "sample": "Hong Kong's status as a re-export hub means any disruption to mainland manufacturing quickly ripples through its docks."
+    },
+    {
+     "phrase": "compliance testing",
+     "zh": "合規測試",
+     "sample": "Compliance testing ensures that an electronic device meets a market's safety and radio-frequency standards before it can be sold there."
+    },
+    {
+     "phrase": "freight forwarder",
+     "zh": "貨運代理商",
+     "sample": "Local freight forwarders are already bracing for longer lead times once the new testing rule takes effect."
+    },
+    {
+     "phrase": "trade de-escalation",
+     "zh": "貿易局勢降溫",
+     "sample": "Analysts fear this dispute could unravel the fragile trade de-escalation both sides have maintained since January."
+    },
+    {
+     "phrase": "unilateral action",
+     "zh": "單方面行動",
+     "sample": "Beijing described the ruling as a unilateral action taken without proper consultation with its trading partners."
+    },
+    {
+     "phrase": "industrial chain stability",
+     "zh": "產業鏈穩定",
+     "sample": "Officials argued the decision undermines industrial chain stability that both economies have spent years building."
+    },
+    {
+     "phrase": "regulatory fragmentation",
+     "zh": "監管分割",
+     "sample": "Growing regulatory fragmentation between major markets forces manufacturers to maintain separate testing arrangements for each destination."
+    },
+    {
+     "phrase": "countermeasure",
+     "zh": "反制措施",
+     "sample": "Beijing has not ruled out a countermeasure if Washington presses ahead with the testing ban."
+    },
+    {
+     "phrase": "logistics bottleneck",
+     "zh": "物流樽頸",
+     "sample": "A sudden logistics bottleneck at testing facilities could delay shipments bound for the Christmas shopping season."
+    },
+    {
+     "phrase": "geopolitical friction",
+     "zh": "地緣政治磨擦",
+     "sample": "Renewed geopolitical friction between Washington and Beijing rarely leaves Hong Kong's open economy untouched."
+    },
+    {
+     "phrase": "diversify supply routes",
+     "zh": "分散供應路線",
+     "sample": "Some manufacturers are already looking to diversify supply routes in case the dispute drags on for years."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "ripple through global trade networks",
+     "zh": "波及全球貿易網絡",
+     "sample": "A single regulatory change in Washington can ripple through global trade networks within weeks."
+    },
+    {
+     "en": "raise the cost of doing business",
+     "zh": "提高營商成本",
+     "sample": "Longer certification queues will raise the cost of doing business for firms that route goods through Hong Kong."
+    },
+    {
+     "en": "undermine confidence in free trade",
+     "zh": "削弱對自由貿易的信心",
+     "sample": "Repeated unilateral restrictions risk undermining confidence in free trade among smaller exporting economies."
+    },
+    {
+     "en": "leave Hong Kong caught in the crossfire",
+     "zh": "令香港捲入中美夾縫之中",
+     "sample": "As a trading entrepot, Hong Kong often finds itself caught in the crossfire of disputes it did not start."
+    },
+    {
+     "en": "escalate into a wider trade dispute",
+     "zh": "升級為更大規模的貿易爭端",
+     "sample": "What began as a narrow testing rule could escalate into a wider trade dispute if neither side backs down."
+    },
+    {
+     "en": "complicate an already fragile truce",
+     "zh": "令本已脆弱的休戰局面更趨複雜",
+     "sample": "The timing of the ban could complicate an already fragile truce ahead of the leaders' summit."
+    },
+    {
+     "en": "tip the balance toward protectionism",
+     "zh": "令局勢傾向保護主義",
+     "sample": "Critics worry the decision will tip the balance toward protectionism at a moment when global growth is already fragile."
+    },
+    {
+     "en": "force manufacturers to absorb new costs",
+     "zh": "迫使製造商自行承擔新增成本",
+     "sample": "Smaller manufacturers without deep cash reserves may be forced to absorb new costs themselves rather than pass them on."
+    },
+    {
+     "en": "test the resilience of cross-border supply chains",
+     "zh": "考驗跨境供應鏈的韌性",
+     "sample": "The dispute will test the resilience of cross-border supply chains built up over three decades of integration."
+    },
+    {
+     "en": "narrow the room for compromise",
+     "zh": "收窄妥協的空間",
+     "sample": "Hawkish voices on both sides risk narrowing the room for compromise before negotiators even sit down."
+    },
+    {
+     "en": "hinge on political goodwill",
+     "zh": "取決於政治上的善意",
+     "sample": "Whether the truce survives may hinge on political goodwill generated at the upcoming summit rather than on economics alone."
+    },
+    {
+     "en": "expose the fragility of global manufacturing",
+     "zh": "揭示全球製造業的脆弱性",
+     "sample": "The episode exposes the fragility of global manufacturing networks that depend on a small number of certified testing hubs."
+    }
+   ],
+   "date": "2026-11-01",
+   "id": "a33140816"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/347084/Police-arrest-58-including-10-students-after-undercover-officers-bust-triad-recruitment-rings",
+   "published_date": "31 October 2026",
+   "headline": "Police Smash Triad Recruitment Rings Targeting Students, 58 Arrested",
+   "category": "social",
+   "summary_html": "<p>Hong Kong police have <span class=\"bw\">dismantled<span class=\"tip\"><span class=\"tip-en\">broken apart and put an end to an organisation or system</span><span class=\"tip-zh\">瓦解</span></span></span> two triad recruitment networks after an undercover operation led to the arrest of 58 people, including ten secondary school students and thirteen other minors under the age of 18. Officers said the gangs had deliberately <span class=\"bw\">preyed on<span class=\"tip\"><span class=\"tip-en\">exploited or took advantage of someone vulnerable</span><span class=\"tip-zh\">利用</span></span></span> teenagers’ need for belonging and quick money, luring them first through friendly chats in everyday settings before drawing them deeper into criminal activity.</p><p>According to investigators, recruiters typically <span class=\"bw\">befriended<span class=\"tip\"><span class=\"tip-en\">became friendly with someone, often with an ulterior motive</span><span class=\"tip-zh\">與青少年結交</span></span></span> teenagers inside popular multiplayer gaming groups and on messaging apps, then invited them to meet in person at billiard halls and entertainment centres during school holidays, where some were pressured into mock initiation rituals, including swearing brotherhood with senior gang members. Once <span class=\"bw\">indoctrinated<span class=\"tip\"><span class=\"tip-en\">taught to accept a set of beliefs uncritically, often repeatedly</span><span class=\"tip-zh\">灌輸</span></span></span> into the group’s hierarchy and loyalty codes, the teenagers were allegedly put to work collecting debts through intimidation, trafficking drugs, laundering money and, in some cases, taking part in unlawful detention.</p><p>Police stressed that prosecutors would seek <span class=\"bw\">enhanced sentences<span class=\"tip\"><span class=\"tip-en\">punishments made more severe than usual because of aggravating circumstances</span><span class=\"tip-zh\">加重刑罰</span></span></span> wherever adults were found to have used minors to carry out drug offences, framing the crackdown as part of a wider effort to <span class=\"bw\">sever<span class=\"tip\"><span class=\"tip-en\">cut off completely, end abruptly</span><span class=\"tip-zh\">切斷</span></span></span> the pipeline between youth culture and organised crime. Educators and child-welfare advocates, meanwhile, warned that enforcement alone cannot address the <span class=\"bw\">underlying<span class=\"tip\"><span class=\"tip-en\">existing beneath the surface, acting as a hidden cause</span><span class=\"tip-zh\">潛在</span></span></span> loneliness and financial pressure that make some teenagers susceptible to such approaches in the first place, calling instead for schools and parents to watch more closely for early warning signs — unexplained new friendships, unexplained cash, or a sudden reluctance to discuss where free time is spent — before a casual online chat hardens into a criminal record that can <span class=\"bw\">derail<span class=\"tip\"><span class=\"tip-en\">cause something to go seriously off-course, like a train off its tracks</span><span class=\"tip-zh\">打亂</span></span></span> a young life for years to come.</p>",
+   "summary_zh_html": "<p>香港警方<span class=\"bwz\">瓦解</span>兩個三合會招募網絡,一次臥底行動共拘捕58人,包括十名中學生及另外十三名十八歲以下的未成年人。警方表示,有關黑幫蓄意<span class=\"bwz\">利用</span>青少年渴望獲得認同及快錢的心理,先在日常場合以友善態度接觸對方,再逐步將他們拉入更深的犯罪活動之中。</p><p>調查人員指出,招募者通常在熱門的多人遊戲群組及通訊應用程式上<span class=\"bwz\">與青少年結交</span>,繼而在學校假期期間邀請對方到桌球室及遊樂場所等地方會面,部分青少年甚至被迫參與模擬的入會儀式,包括與幫會核心成員「拜把」結拜。一旦被<span class=\"bwz\">灌輸</span>幫會的等級觀念及忠誠守則,這些青少年據報便被安排從事以恐嚇手段收債、販毒、洗黑錢,部分個案更涉及非法禁錮他人。</p><p>警方強調,一旦發現成年人利用未成年人進行販毒活動,檢控方將尋求<span class=\"bwz\">加重刑罰</span>,並形容這次行動是致力<span class=\"bwz\">切斷</span>青年文化與有組織犯罪之間連繫的一部分。與此同時,教育界人士及兒童福利倡導者警告,單靠執法無法解決令部分青少年容易受到這類手法影響的<span class=\"bwz\">潛在</span>孤獨感及經濟壓力,並呼籲學校及家長更密切留意早期警號——例如突然出現的陌生朋友、來源不明的金錢,或突然不願透露課餘時間的去向——以免一次看似隨意的網上聊天,最終演變成足以<span class=\"bwz\">打亂</span>年輕人多年人生的刑事記錄。</p>",
+   "image_scene": "A dimly lit, ordinary billiard hall after closing hours: empty pool tables under hanging lamps, a single abandoned games controller resting on a bench, and a school backpack left on a nearby seat, hinting at young visitors who have just left.",
+   "slides": {
+    "topic_en": "Triads Recruiting Teens Online",
+    "background_en": "Police arrested 58 people, including 10 students, after undercover officers broke up two triad recruitment networks targeting teenagers.",
+    "background_zh": "警方拘捕58人,包括十名學生,搗破兩個專門招攬青少年的三合會網絡。",
+    "background_hl": "broke up two triad recruitment networks",
+    "analysis_en": "The case raises a troubling question about why lonely or cash-strapped teenagers are drawn toward gangs in the first place.",
+    "analysis_zh": "此案引發一個令人不安的問題:為何孤獨或缺錢的青少年會首先被幫會吸引?",
+    "analysis_hl": "why lonely or cash-strapped teenagers are drawn",
+    "support_en": "Supporters of tougher enforcement say enhanced sentences for adults who exploit minors will deter recruiters and protect vulnerable youth.",
+    "support_zh": "支持加強執法者認為,對利用未成年人的成年人判處加重刑罰,將嚇阻招募者並保護弱勢青少年。",
+    "support_hl": "enhanced sentences for adults",
+    "oppose_en": "Critics argue that arrests alone ignore the loneliness and financial pressure that make teenagers vulnerable to recruitment in the first place.",
+    "oppose_zh": "批評者認為,單靠拘捕行動,忽略了令青少年容易被招攬的孤獨感及經濟壓力。",
+    "oppose_hl": "ignore the loneliness and financial pressure",
+    "vocab5": [
+     {
+      "en": "organised crime",
+      "zh": "有組織犯罪"
+     },
+     {
+      "en": "peer pressure",
+      "zh": "朋輩壓力"
+     },
+     {
+      "en": "at-risk youth",
+      "zh": "高危青少年"
+     },
+     {
+      "en": "law enforcement",
+      "zh": "執法行動"
+     },
+     {
+      "en": "early intervention",
+      "zh": "及早介入"
+     }
+    ],
+    "question_en": "What early warning signs should parents and teachers watch for before a teenager is drawn into a gang?",
+    "question_zh": "在青少年被捲入黑幫之前,家長及教師應留意哪些早期警號?",
+    "question_hl": "early warning signs"
+   },
+   "cover_text": {
+    "zh_kicker": "三合會起底",
+    "zh_title": [
+     "學生淪招募目標",
+     "58人被捕"
+    ],
+    "zh_hl": "58人",
+    "zh_sub": "黑幫瞄準校園及網絡",
+    "en": "Police arrest 58 in crackdown on triads recruiting students."
+   },
+   "vocab": [
+    {
+     "phrase": "undercover operation",
+     "zh": "臥底行動",
+     "sample": "The undercover operation took months before officers gathered enough evidence to make a single arrest."
+    },
+    {
+     "phrase": "gang initiation",
+     "zh": "入會儀式",
+     "sample": "Several teenagers were reportedly forced through a gang initiation involving oaths of loyalty to senior members."
+    },
+    {
+     "phrase": "debt collection",
+     "zh": "追債",
+     "sample": "New recruits were often tested first with low-level debt collection before being trusted with more serious tasks."
+    },
+    {
+     "phrase": "illicit fund transfer",
+     "zh": "非法轉移資金",
+     "sample": "Investigators believe part of the network's income was funnelled through illicit fund transfers involving fake shops."
+    },
+    {
+     "phrase": "vulnerable teenager",
+     "zh": "弱勢青少年",
+     "sample": "Social workers say a vulnerable teenager without close family support is far easier for a gang to approach."
+    },
+    {
+     "phrase": "social acceptance",
+     "zh": "社會認同",
+     "sample": "Many recruits said they joined chasing social acceptance they felt was missing from their home lives."
+    },
+    {
+     "phrase": "criminal record",
+     "zh": "刑事記錄",
+     "sample": "A criminal record picked up as a teenager can follow a person into adulthood, limiting future job prospects."
+    },
+    {
+     "phrase": "online grooming",
+     "zh": "網上誘騙",
+     "sample": "Online grooming inside gaming chat groups has become one of the gangs' preferred recruitment methods."
+    },
+    {
+     "phrase": "school holiday",
+     "zh": "學校假期",
+     "sample": "Recruiters reportedly targeted new members most aggressively during the long school holiday, when supervision is lightest."
+    },
+    {
+     "phrase": "deterrent effect",
+     "zh": "阻嚇作用",
+     "sample": "Officials hope the harsher sentences will have a genuine deterrent effect on adults who exploit children."
+    },
+    {
+     "phrase": "child welfare advocate",
+     "zh": "兒童福利倡導者",
+     "sample": "A child welfare advocate warned that enforcement alone will not fix the loneliness driving some teens toward gangs."
+    },
+    {
+     "phrase": "financial exploitation",
+     "zh": "經濟剝削",
+     "sample": "The case highlights a pattern of financial exploitation in which teenagers do the riskiest work for the smallest share of profit."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "exploit teenagers' need for belonging",
+     "zh": "利用青少年對歸屬感的需求",
+     "sample": "Prosecutors said the gang deliberately set out to exploit teenagers' need for belonging and acceptance."
+    },
+    {
+     "en": "blur the line between friendship and manipulation",
+     "zh": "模糊友誼與操縱之間的界線",
+     "sample": "Online recruiters often blur the line between friendship and manipulation until a teenager no longer notices the difference."
+    },
+    {
+     "en": "draw young people into a cycle of crime",
+     "zh": "將年輕人捲入犯罪循環",
+     "sample": "Once trapped, debts and loyalty oaths can draw young people into a cycle of crime that is hard to escape."
+    },
+    {
+     "en": "slip through the cracks of parental supervision",
+     "zh": "在家長監管的疏漏中被忽略",
+     "sample": "Some of the recruited teenagers appear to have slipped through the cracks of parental supervision during the long school break."
+    },
+    {
+     "en": "normalise criminal behaviour among minors",
+     "zh": "令未成年人將犯罪行為視為常態",
+     "sample": "Repeated low-level tasks can gradually normalise criminal behaviour among minors before they fully grasp the consequences."
+    },
+    {
+     "en": "place the burden of prevention on schools",
+     "zh": "將預防責任放在學校身上",
+     "sample": "Critics say the current approach places the burden of prevention on schools without giving them adequate resources."
+    },
+    {
+     "en": "offer a lifeline before it is too late",
+     "zh": "在為時已晚前提供及時援手",
+     "sample": "Youth workers argue that community programmes must offer a lifeline before it is too late and a teenager is already in debt to the gang."
+    },
+    {
+     "en": "weaponise loneliness for recruitment",
+     "zh": "將孤獨感當作招募的武器",
+     "sample": "By weaponising loneliness for recruitment, gangs target exactly the teenagers mainstream youth services often struggle to reach."
+    },
+    {
+     "en": "trade a criminal record for quick cash",
+     "zh": "用刑事記錄換取快錢",
+     "sample": "Few recruits realise they are trading a criminal record for quick cash until the consequences catch up with them."
+    },
+    {
+     "en": "erode trust between generations",
+     "zh": "侵蝕兩代之間的信任",
+     "sample": "Cases like this can erode trust between generations, as parents struggle to understand platforms their children use daily."
+    },
+    {
+     "en": "mask coercion as camaraderie",
+     "zh": "將脅迫偽裝成兄弟情誼",
+     "sample": "Initiation rituals are designed to mask coercion as camaraderie, so recruits feel chosen rather than trapped."
+    },
+    {
+     "en": "signal a gap in youth outreach",
+     "zh": "反映青年外展服務的缺口",
+     "sample": "The scale of the recruitment network signals a gap in youth outreach that existing programmes have failed to close."
+    }
+   ],
+   "date": "2026-11-01",
+   "id": "a85e41f41"
+  },
+  {
+   "source_name": "RTHK",
+   "source_url": "https://news.rthk.hk/rthk/en/component/k2/1875787-20261029.htm",
+   "published_date": "29 October 2026",
+   "headline": "Inquiry Blames Contractor, Consultant and Inspector for Wang Fuk Court Fire as Housing Chief Resigns",
+   "category": "law",
+   "summary_html": "<p>An independent inquiry into the deadly fire at Wang Fuk Court, which claimed 168 lives, has placed the heaviest blame on the main contractor, its consultant and a registered building inspector, concluding that their actions allowed a routine renovation project to turn into one of Hong Kong’s worst disasters in decades. The committee’s final report found that the main contractor repeatedly <span class=\"bw\">forged<span class=\"tip\"><span class=\"tip-en\">created a false document or signature to deceive others</span><span class=\"tip-zh\">偽造</span></span></span> certificates covering the flammable scaffolding netting wrapped around the towers, concealed failed combustion tests, and even deleted inspection footage that would have exposed the <span class=\"bw\">deception<span class=\"tip\"><span class=\"tip-en\">the act of deliberately misleading someone</span><span class=\"tip-zh\">欺騙</span></span></span>.</p><p>The report identified the likely cause as a <span class=\"bw\">stray<span class=\"tip\"><span class=\"tip-en\">having strayed from its intended place; random, errant</span><span class=\"tip-zh\">隨意</span></span></span> lit cigarette that ignited paper materials stored on a rooftop outside one block, with the resulting blaze spreading rapidly across netting and bamboo scaffolding that should never have passed a safety inspection. Investigators concluded bluntly that “the deception succeeded because the regulators’ own practices enabled it,” pointing to <span class=\"bw\">lax<span class=\"tip\"><span class=\"tip-en\">not strict or careful enough; insufficiently thorough</span><span class=\"tip-zh\">鬆懈</span></span></span> oversight that let falsified paperwork go <span class=\"bw\">unchallenged<span class=\"tip\"><span class=\"tip-en\">not confronted, questioned or opposed</span><span class=\"tip-zh\">未受質疑</span></span></span> for months. The property manager was separately criticised for allowing unqualified staff to switch off the fire alarm’s power supply.</p><p>Housing chief Winnie Ho has since resigned, telling reporters she took responsibility for the regulatory failures identified in the report even as she insisted that the government’s broader housing programme “can still deliver” for residents. Her departure makes her the most senior official to step down over the tragedy, and comes as the government weighs new legislation that would allow it to <span class=\"bw\">compulsorily acquire<span class=\"tip\"><span class=\"tip-en\">take ownership of property by legal force, with or without the owner’s consent</span><span class=\"tip-zh\">強制收購</span></span></span> remaining flats from owners who refuse to sell into its buyout scheme, with roughly 80 per cent of households across the complex having already signed sale agreements. Secretary for Security Chris Tang has separately pledged wider fire-safety reforms, though critics say the resignation of one official cannot by itself <span class=\"bw\">restore<span class=\"tip\"><span class=\"tip-en\">bring back to a previous, better state</span><span class=\"tip-zh\">恢復</span></span></span> public trust in a regulatory system that allowed <span class=\"bw\">falsified<span class=\"tip\"><span class=\"tip-en\">altered or created dishonestly to deceive</span><span class=\"tip-zh\">偽造</span></span></span> paperwork to go unnoticed for so long.</p>",
+   "summary_zh_html": "<p>一項針對奪去168人命的宏福苑大火的獨立調查委員會,將最主要責任歸咎於主要承建商、顧問公司及一名註冊驗樓師,裁定正是他們的所作所為,令一項日常裝修工程演變成香港數十年來最嚴重的災難之一。委員會最終報告發現,主要承建商Prestige Construction & Engineering多次<span class=\"bwz\">偽造</span>覆蓋大廈外牆易燃防護網的證書,隱瞞未能通過的燃燒測試結果,甚至刪除可揭露這場<span class=\"bwz\">欺騙</span>行為的巡查錄影片段。</p><p>報告指出,火警最可能的起因,是一支<span class=\"bwz\">隨意</span>遺留的未熄香煙,引燃存放於其中一座大廈天台外的紙質物料,火勢隨後迅速蔓延至本應無法通過安全檢驗的防護網及竹製棚架。調查人員直言不諱:「監管機構自身的做法,正正讓這場欺騙得以成功。」並指出<span class=\"bwz\">鬆懈</span>的監管,令偽造文件在數月內未受<span class=\"bwz\">質疑</span>而一直流通。物業管理公司亦被另行批評,指其容許無相關資格的員工關閉火警鐘電源。</p><p>房屋署署長Winnie Ho其後辭職,向記者表示她為報告中指出的監管失誤承擔責任,但同時堅稱政府整套房屋計劃「仍能夠兌現承諾」,服務居民。她的辭職,使她成為因這場悲劇而下台的最高級官員,而政府亦正考慮立法,容許當局<span class=\"bwz\">強制收購</span>拒絕出售物業、加入回購計劃的業主所持單位,目前整個屋苑約八成住戶已簽署買賣協議。保安局局長鄧炳強則另行承諾推行更廣泛的消防安全改革,惟批評者指,單憑一名官員辭職,並不足以<span class=\"bwz\">恢復</span>公眾對一個容讓<span class=\"bwz\">偽造</span>文件長期不被發現的監管制度的信任。</p>",
+   "image_scene": "A quiet memorial scene outside a Hong Kong public housing estate at dusk: a wall covered with white flowers and burning candles in paper cups, a folded umbrella leaning beside them; in the background, scaffolding-wrapped residential towers stand dark and empty, a single security guard in a reflective vest standing watch near the cordon tape.",
+   "slides": {
+    "topic_en": "Wang Fuk Court: Who Is Blamed?",
+    "background_en": "An inquiry blamed the contractor, consultant and inspector for the deadly Wang Fuk Court fire, and the housing chief resigned.",
+    "background_zh": "調查報告將宏福苑奪命大火的責任歸咎於承建商、顧問及驗樓師,房屋署署長亦已辭職。",
+    "background_hl": "housing chief resigned",
+    "analysis_en": "The case raises hard questions about how falsified safety certificates went unnoticed for so long before the tragedy occurred.",
+    "analysis_zh": "此案引發一個嚴峻問題:偽造的安全證書為何能在悲劇發生前,長期不被發現?",
+    "analysis_hl": "falsified safety certificates went unnoticed",
+    "support_en": "Supporters of the resignation say senior officials must be held accountable when regulatory failures contribute to the loss of life.",
+    "support_zh": "支持辭職者認為,當監管失誤導致人命損失,高級官員必須承擔責任。",
+    "support_hl": "held accountable",
+    "oppose_en": "Critics argue that removing one official is a symbolic gesture that leaves the deeper regulatory weaknesses largely unaddressed.",
+    "oppose_zh": "批評者認為,撤換一名官員只屬象徵性姿態,未能觸及更深層的監管缺陷。",
+    "oppose_hl": "symbolic gesture",
+    "vocab5": [
+     {
+      "en": "building inspection",
+      "zh": "驗樓"
+     },
+     {
+      "en": "regulatory failure",
+      "zh": "監管失誤"
+     },
+     {
+      "en": "political accountability",
+      "zh": "政治問責"
+     },
+     {
+      "en": "fire safety standard",
+      "zh": "消防安全標準"
+     },
+     {
+      "en": "compulsory purchase",
+      "zh": "強制收購"
+     }
+    ],
+    "question_en": "What should Hong Kong change about building inspections to stop a disaster like this from happening again?",
+    "question_zh": "香港應如何改革大廈驗樓制度,以防止同類悲劇再次發生?",
+    "question_hl": "building inspections"
+   },
+   "cover_text": {
+    "zh_kicker": "宏福苑調查",
+    "zh_title": [
+     "三方釀大火",
+     "房屋署長辭職"
+    ],
+    "zh_hl": "辭職",
+    "zh_sub": "承建商被指偽造證書",
+    "en": "Inquiry blames contractor as housing chief resigns."
+   },
+   "vocab": [
+    {
+     "phrase": "independent inquiry",
+     "zh": "獨立調查",
+     "sample": "The independent inquiry took months to interview witnesses and review thousands of pages of construction records."
+    },
+    {
+     "phrase": "falsified document",
+     "zh": "偽造文件",
+     "sample": "Investigators found that a falsified document had been used to disguise substandard scaffolding netting as fire-resistant."
+    },
+    {
+     "phrase": "oversight lapse",
+     "zh": "監管漏洞",
+     "sample": "The report concluded that a serious oversight lapse allowed the deception to continue for months without being caught."
+    },
+    {
+     "phrase": "compensation scheme",
+     "zh": "補償計劃",
+     "sample": "Victims' families are still waiting for details of the full compensation scheme promised by the government."
+    },
+    {
+     "phrase": "resign over",
+     "zh": "因…而辭職",
+     "sample": "It is rare for an official in Hong Kong to resign over a disaster rather than wait to be removed."
+    },
+    {
+     "phrase": "scaffolding netting",
+     "zh": "防護網",
+     "sample": "Flammable scaffolding netting wrapped around the towers allowed the fire to spread far faster than normal."
+    },
+    {
+     "phrase": "ministerial accountability",
+     "zh": "部門首長問責",
+     "sample": "Campaigners say ministerial accountability requires more than a single resignation if the system itself remains unchanged."
+    },
+    {
+     "phrase": "buyout scheme",
+     "zh": "回購計劃",
+     "sample": "Around eighty per cent of households have already signed agreements under the government's buyout scheme."
+    },
+    {
+     "phrase": "safety certificate",
+     "zh": "安全證書",
+     "sample": "Officials are reviewing how a forged safety certificate managed to pass through several layers of inspection unchecked."
+    },
+    {
+     "phrase": "systemic weakness",
+     "zh": "制度性缺陷",
+     "sample": "The report describes the failure as a systemic weakness rather than the fault of any single individual."
+    },
+    {
+     "phrase": "whistle-blower protection",
+     "zh": "舉報人保障",
+     "sample": "Advocates argue that stronger whistle-blower protection could have brought the falsified reports to light years earlier."
+    },
+    {
+     "phrase": "disaster response",
+     "zh": "災難應對",
+     "sample": "The government's disaster response has shifted from emergency rescue to questions of long-term legal reform."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "expose deep flaws in the inspection system",
+     "zh": "揭露驗樓制度的深層缺陷",
+     "sample": "The report's findings expose deep flaws in the inspection system that regulators had long assumed was working."
+    },
+    {
+     "en": "shift blame from individuals to the system itself",
+     "zh": "將責任由個人轉移至制度本身",
+     "sample": "Some commentators want to shift blame from individuals to the system itself, arguing that any contractor could have exploited the same loopholes."
+    },
+    {
+     "en": "demand more than a single resignation",
+     "zh": "要求的不只是一人辭職",
+     "sample": "Victims' groups say justice demands more than a single resignation from the officials responsible."
+    },
+    {
+     "en": "restore public confidence in building safety",
+     "zh": "重建公眾對建築安全的信心",
+     "sample": "Rebuilding trust will take years of visible reform, not just one report meant to restore public confidence in building safety."
+    },
+    {
+     "en": "hold negligent parties criminally liable",
+     "zh": "追究失職一方的刑事責任",
+     "sample": "Legal experts are debating whether prosecutors can hold negligent parties criminally liable for deaths caused by falsified paperwork."
+    },
+    {
+     "en": "tighten the loopholes that allowed the fraud",
+     "zh": "堵塞容許舞弊發生的漏洞",
+     "sample": "Lawmakers have pledged to tighten the loopholes that allowed the fraud to go undetected for so long."
+    },
+    {
+     "en": "treat a resignation as an admission of failure",
+     "zh": "將辭職視為對失誤的承認",
+     "sample": "Many residents treat the resignation as an admission of failure rather than a genuine act of accountability."
+    },
+    {
+     "en": "rebuild trust from the ground up",
+     "zh": "從根本重建信任",
+     "sample": "Officials admit the housing authority must rebuild trust from the ground up after such a damaging report."
+    },
+    {
+     "en": "set a precedent for corporate accountability",
+     "zh": "為企業問責樹立先例",
+     "sample": "A criminal conviction here could set a precedent for corporate accountability in Hong Kong's construction industry."
+    },
+    {
+     "en": "leave residents to pick up the pieces",
+     "zh": "留下居民自行承擔後果",
+     "sample": "Long after the headlines fade, it is residents who are left to pick up the pieces of a shattered community."
+    },
+    {
+     "en": "turn a routine renovation into a tragedy",
+     "zh": "令一項日常裝修演變成悲劇",
+     "sample": "A chain of small, concealed failures can turn a routine renovation into a tragedy no one foresaw."
+    },
+    {
+     "en": "close the gap between regulation and reality",
+     "zh": "縮窄規管與現實之間的差距",
+     "sample": "Reformers argue Hong Kong must close the gap between regulation and reality before the next disaster, not after it."
+    }
+   ],
+   "date": "2026-11-01",
+   "id": "a8382c041"
   }
  ],
  "trends": [
@@ -41117,6 +41866,142 @@
    ],
    "date": "2026-10-31",
    "id": "tef964821"
+  },
+  {
+   "platforms": [
+    "threads",
+    "ig"
+   ],
+   "headline": "🐀 Two Rats Among the Food Trays at a Tsing Yi Mall Restaurant Go Viral on Threads",
+   "summary_html": "<p>Late on Halloween night, a Threads user posted photographs taken inside a restaurant at Maritime Square in Tsing Yi, showing what appeared to be a rat <span class=\"bw\">perched<span class=\"tip\"><span class=\"tip-en\">positioned or resting, often somewhere precarious</span><span class=\"tip-zh\">停留</span></span></span> beside open trays of eggs, canned goods and metal food containers. The post, shared shortly after 11:30pm on Saturday, quickly <span class=\"bw\">snowballed<span class=\"tip\"><span class=\"tip-en\">grew rapidly in size or intensity, like a rolling snowball</span><span class=\"tip-zh\">擴散</span></span></span> across the platform, with the original poster later <span class=\"bw\">clarifying<span class=\"tip\"><span class=\"tip-en\">making something clearer by removing confusion</span><span class=\"tip-zh\">澄清</span></span></span> that two rodents, not one, had been spotted near the supplies.</p><p>Online reaction split sharply between genuine alarm over food hygiene and darkly comic relief that the sighting had landed on Halloween of all nights. Commenters flooded the thread with jokes about “complimentary extras,” even as others demanded that health inspectors act before the clip could be <span class=\"bw\">dismissed<span class=\"tip\"><span class=\"tip-en\">pushed aside and not taken seriously</span><span class=\"tip-zh\">輕視</span></span></span> as just another meme. No government department had confirmed an investigation by the time the post went viral, leaving the restaurant’s identity and the <span class=\"bw\">veracity<span class=\"tip\"><span class=\"tip-en\">the quality of being true or accurate</span><span class=\"tip-zh\">真實性</span></span></span> of some details still <span class=\"bw\">unverified<span class=\"tip\"><span class=\"tip-en\">not yet confirmed or checked for accuracy</span><span class=\"tip-zh\">未經核實</span></span></span>.</p>",
+   "summary_zh_html": "<p>萬聖節夜晚接近深夜時,一名Threads用戶上載了一批在青衣海濱花園一間餐廳內拍攝的照片,畫面顯示一隻老鼠<span class=\"bwz\">停留</span>在盛載雞蛋、罐頭食品及金屬食物容器的開放式托盤旁。該帖子於星期六晚上約十一時半發出後,迅速在平台上<span class=\"bwz\">擴散</span>開來,原帖主事後更<span class=\"bwz\">澄清</span>指現場其實發現兩隻老鼠,而非一隻。</p><p>網民反應兩極,一方真切擔心食物衛生問題,另一方則以黑色幽默回應,笑言事件偏偏發生在萬聖節夜晚。留言區充斥「附贈驚喜」之類的玩笑,同時亦有人要求衛生部門盡快採取行動,免得事件最終只被<span class=\"bwz\">輕視</span>為又一個網絡迷因。截至事件瘋傳之時,未有任何政府部門確認已展開調查,令涉事餐廳的身分及部分細節的<span class=\"bwz\">真實性</span>仍然<span class=\"bwz\">未經核實</span>。</p>",
+   "causes": [
+    {
+     "label": "A hygiene scandal's real cost to small eateries",
+     "label_zh": "衛生風波對小本食肆的真實代價",
+     "text": "Viral hygiene scandals can devastate a small restaurant long before any formal investigation concludes, as diners cancel bookings and delivery orders dry up within hours of a clip spreading online. For a family-run eatery on thin margins, one unverified video can inflict more damage than any health inspector's fine ever could.",
+     "text_zh": "病毒式衛生風波,往往在正式調查完成之前,已足以令一間小本經營的餐廳一蹶不振——顧客取消訂座,外賣訂單在片段瘋傳數小時內銳減。對於利潤微薄的家庭式食肆而言,一段未經核實的短片造成的傷害,可能遠超任何衛生督察開出的罰款。"
+    },
+    {
+     "label": "Where did the viral clip come from, and can it be trusted?",
+     "label_zh": "瘋傳短片從何而來?又是否可信?",
+     "text": "The post spread for hours before any official body confirmed what, if anything, had actually happened, leaving viewers to decide for themselves whether to trust an anonymous account's photographs. This gap between a viral claim and verified fact is exactly where rumours, exaggeration and even deliberate hoaxes tend to flourish online, often outrunning any correction that follows.",
+     "text_zh": "帖子瘋傳數小時,官方部門始終未有確認事件真偽,令網民只能自行判斷是否相信一個匿名帳戶所上載的照片。這種「瘋傳說法」與「經核實事實」之間的空隙,正是謠言、誇大其詞,甚至蓄意造假最容易滋生的溫床,其傳播速度往往遠遠超過任何事後澄清。"
+    },
+    {
+     "label": "Why Hong Kong's food inspectors always seem to react, not prevent",
+     "label_zh": "為何香港的食物衛生督察總是被動反應,鮮有主動預防",
+     "text": "Past rodent sightings at well-known restaurant chains have repeatedly followed the same pattern: a viral clip forces a public response, inspectors visit only after the damage to reputation is done, and routine checks resume once public attention moves on. Critics argue this reactive cycle does little to prevent the next sighting from happening somewhere else entirely.",
+     "text_zh": "過往多宗發生在知名連鎖食肆的老鼠目擊事件,都重複著同一個模式:片段瘋傳後才迫使當局公開回應,衛生督察往往在商譽已受損後方才上門視察,待公眾注意力轉移,日常巡查又回復原狀。批評者認為,這種被動應對的循環,根本無助防止同類事件在別處重演。"
+    },
+    {
+     "label": "Maybe the joke is the point, not the rat",
+     "label_zh": "也許重點從來不是老鼠,而是那個笑話",
+     "text": "Some commentators resist treating every viral food-hygiene clip as a genuine public-health emergency, arguing that most viewers share it for the dark comedy of its timing rather than real safety concern. On this view, the reaction says more about Hong Kong's appetite for online spectacle than about any actual risk to diners.",
+     "text_zh": "部分評論者反對將每段瘋傳的食物衛生短片,都當成真正的公眾衛生危機,認為大部分網民純粹因其發生時機的黑色幽默而轉發,而非真正關注食物安全。從這角度看,網絡上的熱烈討論,反映的更多是香港人對網絡奇觀的胃口,而非對用餐風險的實際憂慮。"
+    }
+   ],
+   "vocab": [
+    {
+     "phrase": "trending post",
+     "zh": "熱門帖子",
+     "sample": "The trending post spread within hours, long before any official had verified what it actually showed."
+    },
+    {
+     "phrase": "food hygiene",
+     "zh": "食物衛生",
+     "sample": "Food hygiene remains one of the quickest ways for a single clip to damage a restaurant's reputation overnight."
+    },
+    {
+     "phrase": "anonymous account",
+     "zh": "匿名帳戶",
+     "sample": "Much of the outrage online was fuelled by a single anonymous account whose claims were never independently confirmed."
+    },
+    {
+     "phrase": "credibility hit",
+     "zh": "信譽重創",
+     "sample": "Even an unproven allegation can deal a serious credibility hit to a small business within a single news cycle."
+    },
+    {
+     "phrase": "health inspector",
+     "zh": "衛生督察",
+     "sample": "A health inspector is expected to visit the premises once the restaurant's identity is formally confirmed."
+    },
+    {
+     "phrase": "unverified claim",
+     "zh": "未經核實的指控",
+     "sample": "Readers should treat an unverified claim with caution, however convincing the accompanying photographs may look."
+    },
+    {
+     "phrase": "dark humour",
+     "zh": "黑色幽默",
+     "sample": "Dark humour quickly took over the comment thread, with users joking about Halloween-themed menu surprises."
+    },
+    {
+     "phrase": "public outrage",
+     "zh": "公眾憤怒",
+     "sample": "Public outrage over the images built rapidly, even though officials had not yet named the restaurant involved."
+    },
+    {
+     "phrase": "online spectacle",
+     "zh": "網絡奇觀",
+     "sample": "Some sociologists see the incident less as a safety story and more as another online spectacle consumed for entertainment."
+    },
+    {
+     "phrase": "food safety standard",
+     "zh": "食物安全標準",
+     "sample": "Hong Kong's food safety standards are strict on paper, but enforcement still often depends on public pressure to trigger a visit."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "spread faster than the facts can catch up",
+     "zh": "傳播速度快過事實本身",
+     "sample": "A striking photo can spread faster than the facts can catch up, leaving corrections to arrive long after the damage is done."
+    },
+    {
+     "en": "turn a single photo into a public health scare",
+     "zh": "將一張照片變成公眾衛生恐慌",
+     "sample": "It takes very little to turn a single photo into a public health scare on a platform built for quick sharing."
+    },
+    {
+     "en": "outpace any official response",
+     "zh": "搶先於官方回應之前",
+     "sample": "Viral posts routinely outpace any official response, forcing departments to react to public pressure rather than their own inspection schedules."
+    },
+    {
+     "en": "blur the line between satire and genuine concern",
+     "zh": "模糊諷刺與真正關注之間的界線",
+     "sample": "Comment sections like this one blur the line between satire and genuine concern, making it hard to gauge how seriously to take the story."
+    },
+    {
+     "en": "put a small business's survival at stake",
+     "zh": "令小商戶的生存岌岌可危",
+     "sample": "A viral accusation, true or not, can put a small business's survival at stake within a single weekend."
+    },
+    {
+     "en": "reward whoever posts first, not whoever is accurate",
+     "zh": "獎勵最先發帖者,而非最準確者",
+     "sample": "Platforms built for speed tend to reward whoever posts first, not whoever is accurate, which complicates any search for the truth."
+    },
+    {
+     "en": "treat a meme as a substitute for real scrutiny",
+     "zh": "將網絡迷因當作實質監察的替代品",
+     "sample": "Critics warn against letting the public treat a meme as a substitute for real scrutiny of food safety standards."
+    },
+    {
+     "en": "fuel a cycle of outrage and distraction",
+     "zh": "助長憤怒與分心的循環",
+     "sample": "Every new clip seems to fuel a cycle of outrage and distraction, crowding out slower, more substantive hygiene reporting."
+    },
+    {
+     "en": "demand accountability before the next headline arrives",
+     "zh": "在下一則頭條出現之前要求問責",
+     "sample": "Consumer groups say the public should demand accountability before the next headline arrives and attention moves elsewhere."
+    }
+   ],
+   "date": "2026-11-01",
+   "id": "t22c4e07a"
   }
  ]
 }

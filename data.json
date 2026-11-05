@@ -2,894 +2,341 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/politics/article/3373225/john-lee-begins-beijing-shanghai-trip-deepen-mainland-economic-ties",
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/sports-updates/article/347518/Poon-delivers-historic-Youth-Olympics-gold-medal-for-HK",
       "published_date": "4 November 2026",
-      "headline": "John Lee Begins Beijing-Shanghai Trip to Deepen Mainland Economic Ties",
-      "category": "global",
-      "summary_html": "<p>Chief Executive John Lee Ka-chiu <span class=\"bw\">embarked on<span class=\"tip\"><span class=\"tip-en\">started out on a journey or task</span><span class=\"tip-zh\">開始(旅程或任務)</span></span></span> a four-day visit to Beijing and Shanghai on Wednesday, a trip the government says will <span class=\"bw\">deepen economic ties<span class=\"tip\"><span class=\"tip-en\">strengthen economic relationships</span><span class=\"tip-zh\">加深經濟關係</span></span></span> between Hong Kong and the mainland at a moment of considerable <span class=\"bw\">geopolitical uncertainty<span class=\"tip\"><span class=\"tip-en\">instability in international politics affecting a region</span><span class=\"tip-zh\">地緣政治不穩定</span></span></span>. Speaking at the Beijing–Hong Kong Economic Cooperation Symposium, Mr Lee set out three priorities for the visit: innovation and technology, further financial <span class=\"bw\">liberalisation<span class=\"tip\"><span class=\"tip-en\">the process of making rules or systems less restrictive</span><span class=\"tip-zh\">自由化</span></span></span>, and helping mainland enterprises <span class=\"bw\">venture abroad<span class=\"tip\"><span class=\"tip-en\">take a risk by operating in a foreign market</span><span class=\"tip-zh\">冒險拓展海外業務</span></span></span> through Hong Kong's international networks.</p><p>Central to this last goal is the government's GoGlobal Task Force, which Mr Lee said has already assisted 340 mainland companies in expanding into overseas markets, using Hong Kong as a springboard for their international ambitions. He is due to travel on to Shanghai on Thursday to attend the China International Import Expo, where he is expected to promote Hong Kong's role as a <span class=\"bw\">two-way conduit<span class=\"tip\"><span class=\"tip-en\">a channel allowing flow in both directions</span><span class=\"tip-zh\">雙向渠道</span></span></span> for trade and investment between the mainland and the rest of the world.</p><p>The trip follows remarks Mr Lee made earlier in the week at the Global Financial Leaders' Investment Summit in Hong Kong, where he said the city must <span class=\"bw\">rethink its playbook<span class=\"tip\"><span class=\"tip-en\">reconsider one's established strategy</span><span class=\"tip-zh\">重新思考策略</span></span></span> and offer <span class=\"bw\">stability<span class=\"tip\"><span class=\"tip-en\">the state of being steady and not easily changed</span><span class=\"tip-zh\">穩定</span></span></span> amid shifting global trade patterns. He pointed to a new gold clearing and settlement system, developed jointly with the Shanghai Gold Exchange and due to begin operating in the first quarter of next year, as evidence of Hong Kong's ambition to become a global commodities hub. Analysts say the visit underscores Hong Kong's attempt to position itself as an indispensable <span class=\"bw\">superconnector<span class=\"tip\"><span class=\"tip-en\">an intermediary that links different systems or regions together</span><span class=\"tip-zh\">超級聯繫人</span></span></span> between East and West, even as some economists caution that leaning too heavily on mainland-driven growth could leave the city more exposed should cross-border ties ever cool.</p>",
-      "summary_zh_html": "<p>行政長官李家超星期三<span class=\"bwz\">展開</span>為期四天的北京及上海訪問行程,政府表示此行將<span class=\"bwz\">加深香港與內地的經濟聯繫</span>,正值國際局勢面臨相當大的<span class=\"bwz\">地緣政治不穩定</span>之際。李家超在京港經濟合作研討會上致辭,訂下此行三大重點:創新科技、進一步金融<span class=\"bwz\">自由化</span>,以及協助內地企業透過香港的國際網絡<span class=\"bwz\">拓展海外業務</span>。</p><p>這項目標的核心是政府的「出海支援任務小組」,李家超表示,該小組已協助340間內地企業拓展海外市場,以香港作為實現國際發展野心的跳板。他星期四將轉往上海,出席中國國際進口博覽會,預期將在會上推廣香港作為內地與世界各地貿易投資<span class=\"bwz\">雙向渠道</span>的角色。</p><p>此行緊接李家超早前在香港舉行的「全球金融領袖投資峰會」上的講話,他當時表示,面對全球貿易格局轉變,香港必須<span class=\"bwz\">重新思考策略</span>,並提供<span class=\"bwz\">穩定</span>的環境。他提到與上海黃金交易所合作開發的全新黃金中央結算系統,預計明年首季投入運作,證明香港有意成為全球商品交易樞紐。分析人士指出,此行凸顯香港力圖定位為東西方之間不可或缺的<span class=\"bwz\">超級聯繫人</span>,但部分經濟學者亦警告,過度依賴內地帶動的增長,一旦兩地關係轉冷,香港將更容易受到衝擊。</p>",
-      "image_scene": "A government motorcade departing Hong Kong International Airport at dusk, officials in dark suits walking toward a private jet with the Hong Kong skyline and Victoria Harbour behind them; aides carrying briefcases, a Hong Kong flag fluttering nearby, suggesting departure for an important overseas diplomatic and trade mission.",
+      "headline": "Poon Hao-ran Delivers Hong Kong's First-Ever Youth Olympics Gold in Wushu",
+      "category": "sports",
+      "summary_html": "<p>Hong Kong's Poon Hao-ran, a fifteen-year-old <span class=\"bw\">wushu exponent<span class=\"tip\"><span class=\"tip-en\">a skilled practitioner of a martial art</span><span class=\"tip-zh\">武術好手</span></span></span>, delivered the territory's first-ever gold medal at a Youth Olympic Games on Tuesday, topping the men's taijiquan combined final at the Dakar 2026 Games in Senegal. His score of 18.720 points left him ahead of Vietnam's silver medallist by <span class=\"bw\">a razor-thin margin<span class=\"tip\"><span class=\"tip-en\">an extremely narrow or small difference</span><span class=\"tip-zh\">極微小的差距</span></span></span> of just 0.028 points, so narrow that judges reportedly double-checked the scoring sheet before confirming the result. Japan's representative settled for bronze. The event marked wushu's <span class=\"bw\">medal debut<span class=\"tip\"><span class=\"tip-en\">the first time an event has official medals</span><span class=\"tip-zh\">首次設獎</span></span></span> at the Youth Olympics, lending extra significance to a result Hong Kong athletes had chased in vain since the Games began in 2010.</p><p>Poon's route to the podium was far from smooth. He had been battling <span class=\"bw\">a nagging cold<span class=\"tip\"><span class=\"tip-en\">a mild illness that persists annoyingly</span><span class=\"tip-zh\">揮之不去的感冒</span></span></span> in the days before the final, picked up while still adjusting to Dakar's climate, on top of minor training injuries from the lead-up to the competition. Rather than easing off, he <span class=\"bw\">redoubled his training<span class=\"tip\"><span class=\"tip-en\">greatly increased the amount of practice</span><span class=\"tip-zh\">加倍訓練</span></span></span> in the final fortnight, trusting that extra repetitions would make up for lost sharpness. He arrived in Dakar already a known quantity in the sport, having claimed two gold medals and a silver at the world taijiquan championships in May, yet Tuesday's result was his first experience of Youth Olympic competition.</p><p>The win carried symbolic as well as sporting weight: Poon had been chosen to bear Hong Kong's flag at the opening ceremony, a duty usually reserved for an athlete the delegation expects to shine. Local sports officials hailed the result as <span class=\"bw\">a historic breakthrough<span class=\"tip\"><span class=\"tip-en\">an achievement of major, unprecedented importance</span><span class=\"tip-zh\">歷史性突破</span></span></span> that could <span class=\"bw\">pave the way<span class=\"tip\"><span class=\"tip-en\">create conditions that make future success possible</span><span class=\"tip-zh\">鋪路</span></span></span> for greater investment in wushu's youth pipeline, with the city's Olympic committee suggesting it may inspire more young practitioners to take up the sport competitively.</p>",
+      "summary_zh_html": "<p>香港十五歲<span class=\"bwz\">武術好手</span>潘浩然星期二在塞內加爾達喀爾二零二六年青年奧運會男子太極拳全能決賽中，為香港贏得歷來首面青奧金牌。他以18.720分之成績，只以0.028分之<span class=\"bwz\">極微小的差距</span>壓倒越南銀牌得主，差距之小令裁判據報在公布結果前兩度覆核計分表以作確認。日本代表屈居銅牌。是次項目為武術<span class=\"bwz\">首次設獎</span>的青奧比賽項目，令香港運動員自二零一零年青奧創辦以來苦候多年的突破更添意義。</p><p>潘浩然的奪金之路並非一帆風順。決賽前數日，他一直受<span class=\"bwz\">揮之不去的感冒</span>困擾，起因是仍在適應達喀爾的氣候，加上備戰期間留下的輕微訓練傷患。他沒有因此鬆懈，反而在最後兩周<span class=\"bwz\">加倍訓練</span>，相信額外的練習量能彌補狀態上的落差。他出戰達喀爾前已在武術界薄有名氣，今年五月的世界太極拳錦標賽中奪得兩金一銀，但星期二的賽果卻是他首次參與青年奧運會賽事。</p><p>這場勝利除了體育成就，亦具有象徵意義：潘浩然獲選在開幕式擔任香港代表團旗手，此職通常只授予代表團寄予厚望的運動員。本地體育官員形容這次賽果是<span class=\"bwz\">歷史性突破</span>，有望為武術青訓帶來更多資源投放，<span class=\"bwz\">鋪路</span>讓更多年輕好手參與這項運動的競技層面，香港奧委會亦認為此舉或能激勵更多年輕人投身武術。</p>",
+      "image_scene": "A teenage wushu athlete in a red competition uniform mid-pose on a padded blue competition mat inside a brightly lit sports hall, one leg raised in a martial-arts stance, arms extended; a small crowd of anonymous spectators and a row of international flags visible in the background, scoreboard lights glowing nearby.",
       "slides": {
-        "topic_en": "Hong Kong's Superconnector Role",
-        "background_en": "Chief Executive John Lee began a four-day mainland trip to boost trade and investment ties.",
-        "background_zh": "行政長官李家超展開四天內地行程,促進貿易及投資聯繫。",
-        "background_hl": "a four-day mainland trip",
-        "analysis_en": "The visit highlights debate over whether Hong Kong should deepen reliance on mainland-led growth.",
-        "analysis_zh": "此行引發關於香港應否加深依賴內地帶動增長的討論。",
-        "analysis_hl": "deepen reliance on mainland-led growth",
-        "support_en": "Supporters say closer mainland ties open new markets and secure Hong Kong's role as a financial hub.",
-        "support_zh": "支持者認為加強內地聯繫可開拓新市場,鞏固香港金融中心地位。",
-        "support_hl": "open new markets and secure Hong Kong's role",
-        "oppose_en": "Critics warn that overreliance on mainland demand leaves Hong Kong exposed if cross-border ties cool.",
-        "oppose_zh": "批評者警告過度依賴內地需求,一旦兩地關係轉冷,香港將更脆弱。",
-        "oppose_hl": "overreliance on mainland demand",
+        "topic_en": "Hong Kong's First Youth Olympic Gold",
+        "background_en": "Poon Hao-ran, 15, won Hong Kong's first-ever Youth Olympic gold in wushu's taijiquan medal debut at Dakar 2026.",
+        "background_zh": "十五歲的潘浩然在達喀爾二零二六年青奧會武術太極拳首設獎項中，為香港贏得歷來首面青奧金牌。",
+        "background_hl": "first-ever Youth Olympic gold",
+        "analysis_en": "His win, by just 0.028 points, raises the question of how much Hong Kong invests in grooming young athletes in niche Olympic sports.",
+        "analysis_zh": "他僅以0.028分之差奪金，令人反思香港在冷門奧運項目上對青少年運動員的培訓投放是否足夠。",
+        "analysis_hl": "0.028 points",
+        "support_en": "Supporters argue the win proves grassroots wushu programmes deserve more funding and recognition as a serious Olympic pathway.",
+        "support_zh": "支持者認為，這次奪金證明草根武術培訓計劃值得獲得更多資金及認可，是一條嚴肅的奧運發展路徑。",
+        "support_hl": "grassroots wushu programmes deserve more funding",
+        "oppose_en": "Critics counter that one teenager's medal cannot justify diverting resources away from mainstream sports with wider participation.",
+        "oppose_zh": "批評者則反駁，單一名青少年的獎牌並不能合理化將資源從參與人數更廣的主流運動中調走。",
+        "oppose_hl": "cannot justify diverting resources",
         "vocab5": [
-          {
-            "en": "superconnector",
-            "zh": "超級聯繫人"
-          },
-          {
-            "en": "deepen economic ties",
-            "zh": "加深經濟聯繫"
-          },
-          {
-            "en": "geopolitical uncertainty",
-            "zh": "地緣政治不穩定"
-          },
-          {
-            "en": "rethink the playbook",
-            "zh": "重新思考策略"
-          },
-          {
-            "en": "venture abroad",
-            "zh": "拓展海外業務"
-          }
+          {"en": "medal debut", "zh": "首次設獎"},
+          {"en": "grassroots development", "zh": "草根培訓"},
+          {"en": "narrow margin of victory", "zh": "些微的勝出差距"},
+          {"en": "resource allocation", "zh": "資源分配"},
+          {"en": "underdog triumph", "zh": "以弱勝強"}
         ],
-        "question_en": "Should Hong Kong deepen its economic reliance on the mainland, or diversify its trade partners further?",
-        "question_zh": "香港應該加深對內地的經濟依賴,還是進一步分散貿易夥伴?",
-        "question_hl": "deepen its economic reliance on the mainland"
+        "question_en": "Should Hong Kong invest more public money in niche sports like wushu after a single breakthrough medal?",
+        "question_zh": "在單一突破性獎牌後，香港應否投放更多公共資源於武術等冷門運動？",
+        "question_hl": "invest more public money in niche sports"
       },
       "cover_text": {
-        "zh_kicker": "北京上海行",
-        "zh_title": [
-          "李家超赴京滬",
-          "助340企出海"
-        ],
-        "zh_hl": "340",
-        "zh_sub": "出海任務小組助內企拓展",
-        "en": "Hong Kong's leader visits Beijing, Shanghai to boost trade ties"
+        "zh_kicker": "青奧金牌",
+        "zh_title": ["武術奪金", "香港首金"],
+        "zh_hl": "首金",
+        "zh_sub": "青奧武術首次設獎",
+        "en": "Hong Kong teen wins first-ever Youth Olympic gold in wushu."
       },
       "vocab": [
-        {
-          "phrase": "embark on",
-          "zh": "展開(旅程或任務)",
-          "sample": "The delegation embarked on a four-day visit to strengthen trade ties."
-        },
-        {
-          "phrase": "deepen economic ties",
-          "zh": "加深經濟聯繫",
-          "sample": "The agreement aims to deepen economic ties between the two regions."
-        },
-        {
-          "phrase": "geopolitical uncertainty",
-          "zh": "地緣政治不穩定",
-          "sample": "Businesses are adjusting their strategies amid rising geopolitical uncertainty."
-        },
-        {
-          "phrase": "financial liberalisation",
-          "zh": "金融自由化",
-          "sample": "Financial liberalisation has allowed more capital to flow freely across borders."
-        },
-        {
-          "phrase": "venture abroad",
-          "zh": "拓展海外業務",
-          "sample": "More mainland firms are choosing to venture abroad through Hong Kong's networks."
-        },
-        {
-          "phrase": "springboard for expansion",
-          "zh": "擴張的跳板",
-          "sample": "Hong Kong serves as a springboard for expansion into overseas markets."
-        },
-        {
-          "phrase": "two-way conduit",
-          "zh": "雙向渠道",
-          "sample": "The city positions itself as a two-way conduit for trade and investment."
-        },
-        {
-          "phrase": "rethink the playbook",
-          "zh": "重新思考策略",
-          "sample": "Officials say Hong Kong must rethink the playbook to stay competitive."
-        },
-        {
-          "phrase": "commodities hub",
-          "zh": "商品交易樞紐",
-          "sample": "The new clearing system could turn Hong Kong into a global commodities hub."
-        },
-        {
-          "phrase": "superconnector",
-          "zh": "超級聯繫人",
-          "sample": "Hong Kong markets itself as a superconnector linking mainland China with the world."
-        },
-        {
-          "phrase": "cross-border ties",
-          "zh": "跨境聯繫",
-          "sample": "Analysts warn that cooling cross-border ties could hurt the local economy."
-        },
-        {
-          "phrase": "mainland-led growth",
-          "zh": "內地帶動的增長",
-          "sample": "Some economists caution against overreliance on mainland-led growth."
-        }
+        {"phrase": "flag-bearer", "zh": "持旗手", "sample": "As the Games' flag-bearer, Poon felt an added sense of responsibility before stepping onto the mat."},
+        {"phrase": "taijiquan", "zh": "太極拳", "sample": "Taijiquan combines slow, controlled movements with rigorous technical precision, making it a demanding discipline to judge."},
+        {"phrase": "scoring panel", "zh": "評分小組", "sample": "The scoring panel reviewed the routine frame by frame before finalising the razor-thin result."},
+        {"phrase": "medal pathway", "zh": "奪牌路徑", "sample": "Officials hope wushu's Olympic medal pathway will attract more young athletes to the sport."},
+        {"phrase": "training regimen", "zh": "訓練方案", "sample": "His coach credited an intensified training regimen for sharpening his form just in time for the final."},
+        {"phrase": "personal-best routine", "zh": "個人最佳表現", "sample": "Coaches said Poon's personal-best routine on the day was the tightest he had ever delivered under pressure."},
+        {"phrase": "sports pipeline", "zh": "體育人才梯隊", "sample": "Investment in a youth sports pipeline is seen as essential if Hong Kong wants to repeat this success."},
+        {"phrase": "competitive debut", "zh": "首次參賽", "sample": "Tuesday's final was Poon's competitive debut at Youth Olympic level, despite his earlier world championship medals."},
+        {"phrase": "acclimatise", "zh": "適應環境", "sample": "Athletes often need several days to acclimatise to a host city's climate before competing at their best."},
+        {"phrase": "break new ground", "zh": "開創新里程", "sample": "Poon's gold medal allowed Hong Kong to break new ground at a Games where it had never before topped the podium."},
+        {"phrase": "narrow victory margin", "zh": "些微勝出差距", "sample": "A narrow victory margin of 0.028 points separated gold from silver in the men's taijiquan final."},
+        {"phrase": "elite athlete funding", "zh": "精英運動員資助", "sample": "Campaigners are calling for expanded elite athlete funding for sports outside the traditional medal table favourites."}
       ],
       "phrases": [
-        {
-          "en": "serve as a bridge between",
-          "zh": "充當……之間的橋樑",
-          "sample": "Hong Kong continues to serve as a bridge between mainland China and international investors."
-        },
-        {
-          "en": "position itself as an indispensable hub",
-          "zh": "將自己定位為不可或缺的樞紐",
-          "sample": "The city is working to position itself as an indispensable hub for regional trade."
-        },
-        {
-          "en": "leave the city exposed to",
-          "zh": "使該市容易受到……的影響",
-          "sample": "Overreliance on a single market could leave the city exposed to sudden shocks."
-        },
-        {
-          "en": "offer a measure of stability",
-          "zh": "提供一定程度的穩定",
-          "sample": "Officials hope the new policy will offer a measure of stability to investors."
-        },
-        {
-          "en": "open up fresh avenues for",
-          "zh": "開拓新途徑",
-          "sample": "The symposium opened up fresh avenues for cooperation between the two cities."
-        },
-        {
-          "en": "underscore the city's ambition to",
-          "zh": "凸顯該市……的志向",
-          "sample": "The trip underscores the city's ambition to become a global financial hub."
-        },
-        {
-          "en": "hedge against external shocks",
-          "zh": "對沖外部衝擊",
-          "sample": "Diversifying trade partners can help Hong Kong hedge against external shocks."
-        },
-        {
-          "en": "cement a reputation as",
-          "zh": "鞏固……的聲譽",
-          "sample": "The new initiative helped cement Hong Kong's reputation as a reliable trading partner."
-        },
-        {
-          "en": "navigate a shifting global landscape",
-          "zh": "應對不斷轉變的全球格局",
-          "sample": "Businesses must learn to navigate a shifting global landscape."
-        },
-        {
-          "en": "strike a balance between mainland integration and openness",
-          "zh": "在內地融合與對外開放之間取得平衡",
-          "sample": "Hong Kong must strike a balance between mainland integration and openness."
-        },
-        {
-          "en": "a calculated bid to attract investment",
-          "zh": "一項旨在吸引投資的精心布局",
-          "sample": "The visit was widely seen as a calculated bid to attract investment."
-        },
-        {
-          "en": "come under growing scrutiny",
-          "zh": "面臨日益嚴格的審視",
-          "sample": "Hong Kong's reliance on mainland capital has come under growing scrutiny."
-        },
-        {
-          "en": "reap the rewards of closer ties",
-          "zh": "從更緊密的聯繫中獲益",
-          "sample": "Local firms hope to reap the rewards of closer ties with mainland enterprises."
-        }
+        {"en": "a watershed moment for the sport", "zh": "該項運動的分水嶺", "sample": "Local coaches described the victory as a watershed moment for the sport in Hong Kong."},
+        {"en": "translate grassroots success into elite results", "zh": "將草根成功轉化為精英成績", "sample": "The federation now faces pressure to translate grassroots success into elite results on a larger scale."},
+        {"en": "level the playing field for minority sports", "zh": "為非主流運動創造公平競爭環境", "sample": "Advocates say more funding would level the playing field for minority sports like wushu."},
+        {"en": "capitalise on a breakthrough performance", "zh": "乘勢把握突破性表現帶來的機遇", "sample": "The Sports Federation is keen to capitalise on a breakthrough performance to recruit new talent."},
+        {"en": "shoulder the weight of expectation", "zh": "肩負外界的期望", "sample": "As flag-bearer, Poon had to shoulder the weight of expectation before he had even competed."},
+        {"en": "a single result cannot sustain an entire sport", "zh": "單一成績難以支撐整項運動的發展", "sample": "Critics warn that a single result cannot sustain an entire sport without structural investment."},
+        {"en": "diversify the medal table", "zh": "令獎牌分布更多元化", "sample": "Officials hope niche disciplines will help diversify the medal table at future Games."},
+        {"en": "justify continued public investment", "zh": "證明持續公共投資的必要性", "sample": "A headline-grabbing medal alone may not justify continued public investment in a minority sport."},
+        {"en": "nurture talent from a young age", "zh": "從小培育人才", "sample": "Hong Kong's sports bodies are under pressure to nurture talent from a young age across more disciplines."},
+        {"en": "set a precedent for future generations", "zh": "為後輩樹立先例", "sample": "Winning Hong Kong's first Youth Olympic gold sets a precedent for future generations of wushu athletes."},
+        {"en": "a narrow escape from disappointment", "zh": "僅僅避過令人失望的結果", "sample": "At 0.028 points, the win was arguably a narrow escape from disappointment for the Hong Kong camp."},
+        {"en": "convert potential into podium success", "zh": "將潛質轉化為獎牌成績", "sample": "Coaches say the next challenge is converting potential into podium success across the whole wushu squad."}
       ]
     },
     {
       "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/screen-and-music/article/347167/Afterpiece-blurs-the-line-between-stage-and-real-life",
+      "source_url": "https://www.thestandard.com.hk/arts-and-culture/article/347205/Tai-Kok-Tsui-Temple-Fair-brings-180000-together-for-a-full-day-of-cultural-heritage",
       "published_date": "2 November 2026",
-      "headline": "Hong Kong Drama Afterpiece Blurs the Line Between Stage and Real Life",
-      "category": "pop",
-      "summary_html": "<p>A new Hong Kong drama, Afterpiece, is <span class=\"bw\">generating buzz<span class=\"tip\"><span class=\"tip-en\">creating excited public attention</span><span class=\"tip-zh\">引起熱烈關注</span></span></span> ahead of its local cinema release on 12 November, having already premiered as the opening film of the Shanghai International Film Festival earlier this year. Directed by newcomer Keane T.K. Wong and produced by veteran filmmaker Derek Yee, the film marks a significant <span class=\"bw\">comeback<span class=\"tip\"><span class=\"tip-en\">a return to a former successful position</span><span class=\"tip-zh\">復出</span></span></span> for actor Stephen Fung, who returns to the screen after several years focused on directing.</p><p>Fung plays Owen, a once-<span class=\"bw\">celebrated<span class=\"tip\"><span class=\"tip-en\">famous and widely admired</span><span class=\"tip-zh\">著名的;受讚揚的</span></span></span> stage director whose creative <span class=\"bw\">paralysis<span class=\"tip\"><span class=\"tip-en\">a complete inability to act or make progress</span><span class=\"tip-zh\">停滯;麻痹</span></span></span> threatens both his career and his marriage. Seeking a spark, Owen auditions an amateur newcomer named Hannah, played by rising star Angela Yuen, and finds himself increasingly drawn to her — a fascination that gradually blurs the <span class=\"bw\">boundary<span class=\"tip\"><span class=\"tip-en\">a dividing line between two things</span><span class=\"tip-zh\">界線</span></span></span> between the play he is staging and his own life. Yuen has said in interviews that she wanted Hannah to be a character who does not struggle to <span class=\"bw\">tell fiction from reality<span class=\"tip\"><span class=\"tip-en\">distinguish an imagined story from real events</span><span class=\"tip-zh\">分辨虛構與現實</span></span></span>, even as those around her do.</p><p>Beyond its central love-triangle-like tension, the film has drawn attention for tackling themes of artistic burnout and the <span class=\"bw\">blurred lines<span class=\"tip\"><span class=\"tip-en\">indistinct boundaries between two concepts</span><span class=\"tip-zh\">界線模糊</span></span></span> between performance and authenticity, subjects that resonate in an industry often accused of trading on image over substance. Early reviews have singled out Fung's performance as among the most restrained of his career. Having already travelled to the New York Asian Film Festival and the Hong Kong Film Gala in Kuala Lumpur, Afterpiece is being seen by some critics as a hopeful sign of <span class=\"bw\">revival<span class=\"tip\"><span class=\"tip-en\">a return to life, popularity, or activity</span><span class=\"tip-zh\">復興</span></span></span> for local cinema, even as others note that a single <span class=\"bw\">critically acclaimed<span class=\"tip\"><span class=\"tip-en\">praised highly by reviewers</span><span class=\"tip-zh\">獲評論界讚賞</span></span></span> release cannot alone reverse years of shrinking box-office returns.</p>",
-      "summary_zh_html": "<p>香港新片《Afterpiece》將於十一月十二日在本地院線上映,未上映已<span class=\"bwz\">引起熱烈關注</span>,此片早前已作為上海國際電影節開幕電影首映。電影由新晉導演黃天琦執導,監製為資深電影人爾冬陞,標誌著演員馮德倫重返大銀幕的重要<span class=\"bwz\">復出</span>之作,他近年主力投身導演工作。</p><p>馮德倫飾演奧文,一位曾經<span class=\"bwz\">著名</span>的舞台劇導演,其創作上的<span class=\"bwz\">停滯</span>威脅著他的事業與婚姻。為尋找新靈感,奧文為一名業餘新人漢娜(由新星袁澧林飾演)進行試鏡,並漸漸被她吸引,這段迷戀逐漸模糊了他正在執導的舞台劇與現實生活之間的<span class=\"bwz\">界線</span>。袁澧林在訪問中表示,她希望漢娜是一個不會掙扎於<span class=\"bwz\">分辨虛構與現實</span>的角色,即使身邊的人卻會。</p><p>除了中心的三角戀式張力外,此片亦因探討創作倦怠及表演與真實之間<span class=\"bwz\">界線模糊</span>等主題而備受關注,這些議題在一個常被指責重視形象多於內涵的行業中特別引起共鳴。早期評論特別讚揚馮德倫此次演出是他演藝生涯中最收放自如的表現之一。繼於紐約亞洲電影節及吉隆坡香港電影節放映後,部分評論視《Afterpiece》為本地電影<span class=\"bwz\">復興</span>的一個希望訊號,但亦有人指出,單一部<span class=\"bwz\">獲評論界讚賞</span>的作品,不足以逆轉多年來票房萎縮的局面。</p>",
-      "image_scene": "A dim, empty Hong Kong theatre stage at night, a single spotlight shining on two silhouetted figures mid-rehearsal, one standing centre-stage and one watching from the wings; rows of empty velvet seats fading into shadow, script pages and a director's chair visible near the front row, evoking tension between performance and reality.",
+      "headline": "Tai Kok Tsui Temple Fair Draws Record 180,000 in 20th-Anniversary Celebration",
+      "category": "hk",
+      "summary_html": "<p>More than 180,000 people packed the streets of Tai Kok Tsui on Sunday for the twentieth edition of the district's <span class=\"bw\">long-running temple fair<span class=\"tip\"><span class=\"tip-en\">a traditional festival held regularly over many years</span><span class=\"tip-zh\">歷史悠久的廟會</span></span></span>, organised by the Mong Kok Kaifong Association with backing from property developer Sino Group. Held under the theme \"Temple Fair Brings People Together, Culture Converges in Hong Kong,\" the one-day event centred on the Fuk Tsun Street shrine dedicated to Hung Shing, <span class=\"bw\">a sea god<span class=\"tip\"><span class=\"tip-en\">a deity associated with the sea, worshipped by fishing communities</span><span class=\"tip-zh\">海神</span></span></span> traditionally honoured by fishing communities, and combined a morning procession with an evening of performance and spectacle.</p><p>The day's programme ran from <span class=\"bw\">a grand parade<span class=\"tip\"><span class=\"tip-en\">a large, impressive public procession</span><span class=\"tip-zh\">盛大巡遊</span></span></span> through the neighbourhood's narrow streets at dawn to an eighteen-strong southern lion dance performed on <span class=\"bw\">raised poles<span class=\"tip\"><span class=\"tip-en\">elevated poles used as a performance platform</span><span class=\"tip-zh\">高樁</span></span></span> at dusk, a feat demanding considerable balance and nerve from performers. Crowds were further drawn by complimentary poon choi, <span class=\"bw\">a layered communal stew<span class=\"tip\"><span class=\"tip-en\">a shared dish cooked in stacked layers of ingredients</span><span class=\"tip-zh\">多層共享盆菜</span></span></span> traditionally eaten during festive gatherings, distributed free of charge throughout the afternoon, while Sino Group laid on shuttle buses from nearby Olympian City to <span class=\"bw\">ease the crush of visitors<span class=\"tip\"><span class=\"tip-en\">reduce overcrowding caused by many visitors</span><span class=\"tip-zh\">緩解人潮擁擠</span></span></span> converging on the narrow district.</p><p>As dusk fell, attention turned to Fuk Tsun Street itself, where a 500-foot illuminated dragon wound its way above a sea of floating fish lanterns, bringing the day-long celebration to a close. Organisers said the fair's growing popularity reflected <span class=\"bw\">a renewed appetite<span class=\"tip\"><span class=\"tip-en\">a fresh or rekindled desire for something</span><span class=\"tip-zh\">重新燃起的興趣</span></span></span> among Hongkongers, young and old, for <span class=\"bw\">communal rituals<span class=\"tip\"><span class=\"tip-en\">shared traditional practices performed together as a community</span><span class=\"tip-zh\">社區共同習俗</span></span></span> rooted in the city's fishing-village past, even as the surrounding neighbourhood has been transformed by decades of redevelopment into dense residential towers.</p>",
+      "summary_zh_html": "<p>逾十八萬人星期日湧到大角咀街頭，參與由旺角街坊會主辦、地產發展商信和集團支持的第二十屆<span class=\"bwz\">歷史悠久的廟會</span>。活動以「廟會凝聚人心　文化匯聚香江」為主題，圍繞福全街供奉<span class=\"bwz\">海神</span>洪聖的廟宇舉行，洪聖傳統上為漁民社群所敬奉，整日活動由早上巡遊展開，直至晚間的表演及盛大場面。</p><p>當日節目由黎明時份穿梭社區狹窄街道的<span class=\"bwz\">盛大巡遊</span>開始，至黃昏時份十八頭南獅在<span class=\"bwz\">高樁</span>上表演作結，考驗表演者相當的平衡力及膽量。免費派發的盆菜——一種節慶場合常見的<span class=\"bwz\">多層共享盆菜</span>——亦吸引大批人潮，整個下午免費供應；信和集團另安排來往鄰近奧海城的接駁巴士，以<span class=\"bwz\">緩解人潮擁擠</span>湧向這個狹窄社區的情況。</p><p>入夜後，目光轉向福全街本身，一條長五百尺的巨龍燈飾在一片魚形花燈之上蜿蜒遊動，為一整日的慶典畫上句號。主辦方表示，廟會日益高漲的人氣，反映港人不論老幼，對植根於本港漁村歷史的傳統<span class=\"bwz\">重新燃起興趣</span>，渴望參與這類<span class=\"bwz\">社區共同習俗</span>，即使周邊社區歷經數十年重建，早已變成密集的住宅大廈林立之地。</p>",
+      "image_scene": "A sunlit Hong Kong street in Tai Kok Tsui crowded with families and elderly residents watching a lion dance troupe perform on tall raised poles outside a small traditional temple decorated with red lanterns and incense smoke; food stalls and distant residential towers in the background, no readable signage.",
       "slides": {
-        "topic_en": "A Hong Kong Film Comeback",
-        "background_en": "Actor Stephen Fung returns to acting in the new Hong Kong drama Afterpiece, opening 12 November.",
-        "background_zh": "演員馮德倫於新港產電影《Afterpiece》復出演戲,十一月十二日上映。",
-        "background_hl": "returns to acting",
-        "analysis_en": "The film explores how a stage director's obsession with a newcomer blurs fiction and reality.",
-        "analysis_zh": "電影探討舞台劇導演對新人演員的迷戀如何模糊虛構與現實的界線。",
-        "analysis_hl": "blurs fiction and reality",
-        "support_en": "Supporters say the film proves Hong Kong cinema can still produce bold, character-driven stories.",
-        "support_zh": "支持者認為此片證明香港電影仍能創作大膽、著重角色描寫的故事。",
-        "support_hl": "bold, character-driven stories",
-        "oppose_en": "Sceptics argue one acclaimed film cannot reverse years of shrinking local box-office returns.",
-        "oppose_zh": "懷疑者認為單一部獲好評的電影,不足以逆轉多年來本地票房下滑的局面。",
-        "oppose_hl": "cannot reverse years of shrinking local box-office returns",
+        "topic_en": "Tai Kok Tsui's Record-Breaking Temple Fair",
+        "background_en": "The 20th Tai Kok Tsui Temple Fair drew a record 180,000 visitors with parades, poon choi and a giant LED dragon.",
+        "background_zh": "第二十屆大角咀廟會以巡遊、盆菜及巨型LED龍燈，吸引創紀錄的十八萬名市民參與。",
+        "background_hl": "a record 180,000 visitors",
+        "analysis_en": "The fair's huge turnout raises questions about whether traditional festivals can keep attracting young Hongkongers in a fast-modernising city.",
+        "analysis_zh": "廟會的龐大人流，令人反思在急速現代化的城市中，傳統節慶能否持續吸引年輕一代香港人。",
+        "analysis_hl": "keep attracting young Hongkongers",
+        "support_en": "Supporters say such fairs preserve disappearing fishing-village customs and strengthen neighbourhood bonds across generations.",
+        "support_zh": "支持者認為，這類廟會有助保存日漸消失的漁村習俗，並加強跨代鄰里之間的聯繫。",
+        "support_hl": "preserve disappearing fishing-village customs",
+        "oppose_en": "Sceptics argue commercial sponsorship has turned a sacred ritual into little more than a branded marketing spectacle.",
+        "oppose_zh": "批評者則認為，商業贊助已令這項神聖的宗教儀式，淪為一場品牌化的市場推廣活動。",
+        "oppose_hl": "turned a sacred ritual into",
         "vocab5": [
-          {
-            "en": "comeback",
-            "zh": "復出"
-          },
-          {
-            "en": "creative paralysis",
-            "zh": "創作停滯"
-          },
-          {
-            "en": "blurred lines",
-            "zh": "界線模糊"
-          },
-          {
-            "en": "critically acclaimed",
-            "zh": "獲評論界讚賞"
-          },
-          {
-            "en": "box-office returns",
-            "zh": "票房收入"
-          }
+          {"en": "intangible heritage", "zh": "非物質文化遺產"},
+          {"en": "communal feast", "zh": "社區共膳"},
+          {"en": "commercial sponsorship", "zh": "商業贊助"},
+          {"en": "neighbourhood cohesion", "zh": "鄰里凝聚力"},
+          {"en": "cultural continuity", "zh": "文化傳承"}
         ],
-        "question_en": "Can a single acclaimed film revive interest in Hong Kong's struggling local cinema industry?",
-        "question_zh": "一部獲好評的電影能否重新喚起大眾對本地電影業的興趣?",
-        "question_hl": "revive interest in Hong Kong's struggling local cinema industry"
+        "question_en": "Can commercially sponsored festivals still count as authentic cultural heritage?",
+        "question_zh": "由商業贊助的節慶活動，仍能算是地道的文化遺產嗎？",
+        "question_hl": "commercially sponsored festivals"
       },
       "cover_text": {
-        "zh_kicker": "新戲上映",
-        "zh_title": [
-          "舞台如人生",
-          "馮德倫復出"
-        ],
-        "zh_hl": "復出",
-        "zh_sub": "十一月十二日公映香港院線",
-        "en": "Stephen Fung returns to the screen in Afterpiece"
+        "zh_kicker": "大角咀廟會",
+        "zh_title": ["廟會爆棚", "十八萬人"],
+        "zh_hl": "十八萬人",
+        "zh_sub": "廟會辦足二十年",
+        "en": "180,000 flock to Tai Kok Tsui's 20th temple fair."
       },
       "vocab": [
-        {
-          "phrase": "creative paralysis",
-          "zh": "創作停滯",
-          "sample": "The director suffered creative paralysis after years of commercial success."
-        },
-        {
-          "phrase": "blurred lines",
-          "zh": "界線模糊",
-          "sample": "The script deliberately plays with blurred lines between fiction and fact."
-        },
-        {
-          "phrase": "critically acclaimed",
-          "zh": "獲評論界讚賞",
-          "sample": "Her critically acclaimed debut earned comparisons to veteran performers."
-        },
-        {
-          "phrase": "box-office returns",
-          "zh": "票房收入",
-          "sample": "Local box-office returns have fallen sharply over the past decade."
-        },
-        {
-          "phrase": "feature debut",
-          "zh": "首部長片",
-          "sample": "The director's feature debut premiered at a major international festival."
-        },
-        {
-          "phrase": "artistic burnout",
-          "zh": "創作倦怠",
-          "sample": "Many directors eventually face artistic burnout after years of constant output."
-        },
-        {
-          "phrase": "restrained performance",
-          "zh": "收放自如的演出",
-          "sample": "Critics praised his restrained performance in the leading role."
-        },
-        {
-          "phrase": "supporting cast",
-          "zh": "配角班底",
-          "sample": "The film's supporting cast added emotional depth to the central story."
-        },
-        {
-          "phrase": "character-driven story",
-          "zh": "著重角色描寫的故事",
-          "sample": "The film is a character-driven story rather than a plot-heavy thriller."
-        },
-        {
-          "phrase": "trade on image",
-          "zh": "以形象取勝",
-          "sample": "Some critics accuse the industry of trading on image over substance."
-        },
-        {
-          "phrase": "rising star",
-          "zh": "新星",
-          "sample": "The rising star has quickly become one of the city's most talked-about actresses."
-        },
-        {
-          "phrase": "screen presence",
-          "zh": "銀幕魅力",
-          "sample": "Reviewers noted his commanding screen presence after years away from acting."
-        }
+        {"phrase": "kaifong association", "zh": "街坊會", "sample": "The kaifong association has organised the neighbourhood's temple fair every year since it began two decades ago."},
+        {"phrase": "patron deity", "zh": "守護神", "sample": "Hung Shing is worshipped across Hong Kong as a patron deity of fishing and coastal communities."},
+        {"phrase": "lion dance troupe", "zh": "醒獅團", "sample": "A lion dance troupe performed daring stunts on raised poles to the delight of the crowd."},
+        {"phrase": "communal feast", "zh": "社區共膳", "sample": "The free poon choi was more than a meal; it was a communal feast meant to bring neighbours together."},
+        {"phrase": "folk custom", "zh": "民間習俗", "sample": "The parade preserves a folk custom that predates the district's transformation into a residential hub."},
+        {"phrase": "custodian of tradition", "zh": "傳統的守護者", "sample": "The kaifong association sees itself as a custodian of tradition in a district reshaped by redevelopment."},
+        {"phrase": "corporate sponsorship", "zh": "企業贊助", "sample": "Corporate sponsorship from a major developer helped fund the free shuttle buses and food stalls."},
+        {"phrase": "intergenerational bonding", "zh": "跨代聯繫", "sample": "Organisers describe the fair as a rare chance for intergenerational bonding in a fast-changing district."},
+        {"phrase": "densely built-up district", "zh": "高密度社區", "sample": "The fair now unfolds in a densely built-up district almost unrecognisable from its fishing-village origins."},
+        {"phrase": "ceremonial procession", "zh": "祭典巡遊", "sample": "The ceremonial procession wound through narrow streets lined with onlookers from early morning."},
+        {"phrase": "cultural authenticity", "zh": "文化地道性", "sample": "Some residents question the cultural authenticity of a festival now reliant on corporate funding."},
+        {"phrase": "grassroots festival", "zh": "草根節慶", "sample": "What began as a modest grassroots festival now draws crowds rivalling major citywide events."}
       ],
       "phrases": [
-        {
-          "en": "mark a long-awaited return to",
-          "zh": "標誌著……期待已久的回歸",
-          "sample": "The film marks a long-awaited return to acting for its lead star."
-        },
-        {
-          "en": "toe a delicate line between",
-          "zh": "在……之間游走於微妙的界線上",
-          "sample": "The story toes a delicate line between homage and originality."
-        },
-        {
-          "en": "draw on personal experience",
-          "zh": "借鑑個人經歷",
-          "sample": "The director drew on personal experience when writing the screenplay."
-        },
-        {
-          "en": "earn a standing ovation",
-          "zh": "贏得全場起立鼓掌",
-          "sample": "The lead actress earned a standing ovation at the premiere."
-        },
-        {
-          "en": "signal a turning point for",
-          "zh": "標誌著……的轉捩點",
-          "sample": "The film's success could signal a turning point for local cinema."
-        },
-        {
-          "en": "defy easy categorisation",
-          "zh": "難以簡單歸類",
-          "sample": "The plot defies easy categorisation, blending drama with dark comedy."
-        },
-        {
-          "en": "command the screen",
-          "zh": "主宰銀幕",
-          "sample": "The veteran actor commands the screen whenever he appears."
-        },
-        {
-          "en": "inject fresh energy into",
-          "zh": "為……注入新能量",
-          "sample": "The young cast injected fresh energy into a familiar genre."
-        },
-        {
-          "en": "strike a chord with audiences",
-          "zh": "引起觀眾共鳴",
-          "sample": "The film's honest portrayal of burnout struck a chord with audiences."
-        },
-        {
-          "en": "buck the trend of",
-          "zh": "逆……的趨勢而行",
-          "sample": "The film bucks the trend of formulaic blockbusters dominating local screens."
-        },
-        {
-          "en": "carry the weight of a production",
-          "zh": "擔起整部作品的重量",
-          "sample": "The lead actor carried the weight of the production almost single-handedly."
-        },
-        {
-          "en": "push the boundaries of",
-          "zh": "突破……的界限",
-          "sample": "The screenplay pushes the boundaries of what local drama usually attempts."
-        },
-        {
-          "en": "a world away from",
-          "zh": "與……截然不同",
-          "sample": "The subdued role is a world away from the actor's usual comic parts."
-        }
+        {"en": "straddle tradition and commerce", "zh": "在傳統與商業之間取得平衡", "sample": "The fair has to straddle tradition and commerce without losing its original spiritual meaning."},
+        {"en": "anchor a sense of belonging", "zh": "鞏固社區的歸屬感", "sample": "Such festivals help anchor a sense of belonging among residents of a rapidly changing district."},
+        {"en": "keep ritual practices alive", "zh": "延續祭祀習俗", "sample": "Volunteers work year-round to keep ritual practices alive for the next generation."},
+        {"en": "draw crowds beyond the immediate neighbourhood", "zh": "吸引鄰近社區以外的人流", "sample": "Word of the giant dragon display has started to draw crowds beyond the immediate neighbourhood."},
+        {"en": "risk diluting a festival's original meaning", "zh": "有可能稀釋節慶原有的意義", "sample": "Heavy sponsorship can risk diluting a festival's original meaning if not managed carefully."},
+        {"en": "rely on volunteer manpower", "zh": "依賴義工人力", "sample": "Like many grassroots festivals, the fair still relies on volunteer manpower to run smoothly."},
+        {"en": "bridge the gap between generations", "zh": "彌合代際之間的差距", "sample": "Grandparents teaching grandchildren the parade's significance helps bridge the gap between generations."},
+        {"en": "outgrow its original scale", "zh": "規模超越最初的設想", "sample": "What started as a small local gathering has since outgrown its original scale entirely."},
+        {"en": "weather decades of urban change", "zh": "經歷數十年的城市變遷而不衰", "sample": "Few local customs have managed to weather decades of urban change as successfully as this fair."},
+        {"en": "repurpose a sacred site for public celebration", "zh": "將宗教場所重新用於公眾慶典", "sample": "The temple grounds are repurposed for public celebration just once a year, on this single day."},
+        {"en": "lend logistical support", "zh": "提供後勤支援", "sample": "A property developer chose to lend logistical support rather than simply donate money."},
+        {"en": "safeguard a vanishing way of life", "zh": "保護逐漸消逝的生活方式", "sample": "Fishing-village rituals like this one safeguard a vanishing way of life within a dense modern city."}
       ]
     },
     {
       "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/economy/china-economy/article/3372740/shenzhen-too-pricey-cost-conscious-hongkongers-dig-deeper-mainland-china",
-      "published_date": "31 October 2026",
-      "headline": "Shenzhen Too Pricey? Cost-Conscious Hongkongers Dig Deeper Into Mainland China",
-      "category": "social",
-      "summary_html": "<p>A growing number of Hongkongers are <span class=\"bw\">venturing further<span class=\"tip\"><span class=\"tip-en\">travelling with some risk to a more distant place</span><span class=\"tip-zh\">冒險走得更遠</span></span></span> into mainland China in search of bargains, as even Shenzhen — long seen as the <span class=\"bw\">go-to destination<span class=\"tip\"><span class=\"tip-en\">the usual or preferred place for something</span><span class=\"tip-zh\">首選目的地</span></span></span> for cheap meals and shopping — grows <span class=\"bw\">noticeably pricier<span class=\"tip\"><span class=\"tip-en\">clearly more expensive</span><span class=\"tip-zh\">明顯較昂貴</span></span></span>. According to a new survey by payments firm Visa, 44 per cent of Hong Kong respondents said they now buy at least half of their daily necessities <span class=\"bw\">across the border<span class=\"tip\"><span class=\"tip-en\">on the other side of a boundary between regions</span><span class=\"tip-zh\">跨境</span></span></span>, with many pushing past Shenzhen into cities such as Huizhou and Dongguan to stretch their money further, even factoring in travel time and the hassle of carrying groceries back across the checkpoint.</p><p>The trend reflects mounting <span class=\"bw\">cost-of-living pressure<span class=\"tip\"><span class=\"tip-en\">financial strain caused by the expense of daily life</span><span class=\"tip-zh\">生活成本壓力</span></span></span> at home, where rents and everyday expenses remain among the highest in the world even as wage growth stays modest. For some residents, a weekend grocery run or dim sum outing across the border has become as routine as a trip to the local wet market, a shift that has quietly reshaped <span class=\"bw\">spending habits<span class=\"tip\"><span class=\"tip-en\">a person's usual patterns of buying things</span><span class=\"tip-zh\">消費習慣</span></span></span> across the city.</p><p>Retailers and restaurant owners in Hong Kong have voiced concern that this <span class=\"bw\">northbound consumption<span class=\"tip\"><span class=\"tip-en\">spending by Hong Kong residents in mainland China</span><span class=\"tip-zh\">北上消費</span></span></span> is draining business from already struggling local shops, particularly smaller, family-run establishments that cannot easily compete on price. Yet economists note that the phenomenon also reveals how closely integrated the Greater Bay Area has become, with some arguing that policymakers should focus on improving <span class=\"bw\">value for money<span class=\"tip\"><span class=\"tip-en\">something worth its price</span><span class=\"tip-zh\">物有所值</span></span></span> at home rather than treating cross-border spending as a problem to be solved. Whether this habit fades once prices stabilise, or becomes a permanent feature of life in the Greater Bay Area, remains to be seen.</p>",
-      "summary_zh_html": "<p>愈來愈多香港人<span class=\"bwz\">冒險走得更遠</span>,深入內地尋找便宜貨,就連長期被視為平價美食及購物<span class=\"bwz\">首選目的地</span>的深圳,物價亦變得<span class=\"bwz\">明顯較昂貴</span>。據支付機構Visa最新調查顯示,百分之四十四的香港受訪者表示,現時至少一半日常必需品是<span class=\"bwz\">跨境</span>購買,不少人更捨深圳而轉往惠州、東莞等城市,以求把錢用得更盡,即使計入往返交通時間及搬運貨物過關的麻煩亦然。</p><p>此趨勢反映本地不斷加劇的<span class=\"bwz\">生活成本壓力</span>——香港租金及日常開支仍屬全球最高之列,但工資增長卻相對溫和。對部分居民而言,周末過境買餸或品嚐點心,已變得如同到社區街市般平常,這種轉變悄悄地重塑了全城的<span class=\"bwz\">消費習慣</span>。</p><p>香港的零售商及餐廳老闆均表示憂慮,這種<span class=\"bwz\">北上消費</span>正蠶食本已經營困難的本地商戶生意,尤其是難以在價格上競爭的細小家庭式店舖。不過,經濟學者指出,這現象同時反映大灣區融合程度之深,部分人認為,政策制定者應著力提升本地的<span class=\"bwz\">物有所值</span>程度,而非將跨境消費視為需要解決的問題。這種消費習慣會否隨物價回穩而消退,還是成為大灣區生活中永久的一部分,仍有待觀察。</p>",
-      "image_scene": "A busy mainland border-crossing checkpoint at a Hong Kong MTR station on a weekend morning, groups of shoppers wheeling large trolley bags and suitcases stuffed with groceries, queueing calmly at ticket gates; shopping bags visible, a cross-border coach idling nearby, conveying a routine weekend ritual.",
+      "source_url": "https://www.scmp.com/news/hong-kong/education/article/3373350/hong-kong-primary-three-pupils-maths-competency-hits-all-time-low",
+      "published_date": "5 November 2026",
+      "headline": "Hong Kong Primary Three Pupils' Maths Skills Hit All-Time Low, Even as English Soars",
+      "category": "school",
+      "summary_html": "<p>Hong Kong's Primary Three pupils recorded their worst-ever performance in basic mathematics this year, according to results from the territory-wide System Assessment released on Thursday, even as their English results climbed to a fresh record. Only 84.7 per cent of pupils met the required <span class=\"bw\">basic competency<span class=\"tip\"><span class=\"tip-en\">the minimum level of skill considered acceptable</span><span class=\"tip-zh\">基本能力水平</span></span></span> threshold in maths, a drop of 0.7 percentage points from last year and the lowest reading since the assessment was introduced in 2004. English, by contrast, posted its strongest showing yet, with 86.3 per cent of pupils reaching the benchmark, a jump of 3.1 points that comfortably <span class=\"bw\">eclipsed<span class=\"tip\"><span class=\"tip-en\">surpassed or exceeded by a large amount</span><span class=\"tip-zh\">大幅超越</span></span></span> the previous high set only last year.</p><p>This year's assessment, which tested only Primary Three and Secondary Three students, is designed to <span class=\"bw\">flag<span class=\"tip\"><span class=\"tip-en\">identify or draw attention to a problem</span><span class=\"tip-zh\">識別</span></span></span> pupils falling behind in core subjects rather than to rank schools, and officials were quick to stress that the figures \"remained stable\" overall and broadly matched patterns seen in previous years. Education experts were less reassured about the mathematics figures specifically, suggesting the <span class=\"bw\">slide<span class=\"tip\"><span class=\"tip-en\">a gradual decline in performance</span><span class=\"tip-zh\">下滑</span></span></span> may be a lingering consequence of pandemic-era disruption to classroom routines, with some pupils' study habits and <span class=\"bw\">intrinsic motivation<span class=\"tip\"><span class=\"tip-en\">an inner drive to do something for its own sake</span><span class=\"tip-zh\">內在動機</span></span></span> for numerical subjects never fully recovering even years after schools reopened.</p><p>The <span class=\"bw\">divergence<span class=\"tip\"><span class=\"tip-en\">a difference or split between two things</span><span class=\"tip-zh\">分歧</span></span></span> between the two subjects has puzzled some educators, who note that English teaching has benefited from targeted <span class=\"bw\">remedial support<span class=\"tip\"><span class=\"tip-en\">extra help given to struggling learners</span><span class=\"tip-zh\">補救支援</span></span></span> and increased exposure through digital media, while mathematics instruction has seen comparatively little structural reform. Parent groups have called on the Education Bureau to commission a fuller review of <span class=\"bw\">numeracy<span class=\"tip\"><span class=\"tip-en\">the ability to understand and work with numbers</span><span class=\"tip-zh\">數字能力</span></span></span> teaching methods, warning that early gaps in mathematical foundations tend to <span class=\"bw\">compound<span class=\"tip\"><span class=\"tip-en\">become worse over time by accumulating</span><span class=\"tip-zh\">累積惡化</span></span></span> as pupils progress through the curriculum, making early intervention far more cost-effective than remedial teaching later on.</p>",
+      "summary_zh_html": "<p>根據星期四公布的全港性系統評估結果，香港小三學生今年的基本數學能力錄得歷來最差成績，與此同時，英文成績卻攀上新高。僅84.7%學生達到數學科的<span class=\"bwz\">基本能力水平</span>要求，較去年下跌0.7個百分點，為該評估自二零零四年推行以來的最低紀錄。相比之下，英文科表現則錄得歷來最佳成績，86.3%學生達標，較去年上升3.1個百分點，輕易<span class=\"bwz\">大幅超越</span>去年才剛創下的紀錄。</p><p>今年的評估只涵蓋小三及中三學生，目的是<span class=\"bwz\">識別</span>學習進度落後於核心科目的學生，而非為學校排名；官方強調，整體數字「維持穩定」，與過往年度的模式大致相符。不過，教育專家對數學科的數字則未敢過於樂觀，認為這次<span class=\"bwz\">下滑</span>可能是疫情期間課堂常規受擾所留下的後遺症，部分學生對數字科目的學習習慣及<span class=\"bwz\">內在動機</span>，即使學校復課多年後仍未完全恢復。</p><p>兩科成績之間的<span class=\"bwz\">分歧</span>令部分教育界人士感到困惑，他們指出英文科教學近年得益於針對性的<span class=\"bwz\">補救支援</span>，以及數碼媒體帶來的更多接觸機會，但數學科教學卻鮮有結構性改革。家長團體要求教育局就<span class=\"bwz\">數字能力</span>教學方法展開全面檢討，並警告數學基礎上的早期落差，隨著學生升級會不斷<span class=\"bwz\">累積惡化</span>，故此早期介入遠比日後補課更具成本效益。</p>",
+      "image_scene": "A Hong Kong primary school classroom seen from the back, rows of anonymous young pupils in uniform bent over worksheets with pencils, a teacher pointing at a whiteboard covered in number problems, sunlight through window blinds, no visible text or logos on display.",
       "slides": {
-        "topic_en": "Hongkongers' Cross-Border Shopping Habit",
-        "background_en": "A Visa survey found 44 percent of Hongkongers now buy half their daily necessities across the border.",
-        "background_zh": "Visa調查發現,百分之四十四香港人現時有一半日常必需品是跨境購買的。",
-        "background_hl": "44 percent of Hongkongers",
-        "analysis_en": "As Shenzhen itself grows pricier, shoppers are pushing even further into mainland cities to save money.",
-        "analysis_zh": "隨著深圳物價亦漸趨上升,消費者正進一步深入內地其他城市以節省開支。",
-        "analysis_hl": "pushing even further into mainland cities",
-        "support_en": "Supporters say cross-border spending lets households cope with Hong Kong's punishing cost of living.",
-        "support_zh": "支持者認為跨境消費讓家庭能應付香港高昂的生活成本。",
-        "support_hl": "cope with Hong Kong's punishing cost of living",
-        "oppose_en": "Critics warn the trend is draining business from struggling local shops and restaurants.",
-        "oppose_zh": "批評者警告此趨勢正蠶食本已經營困難的本地商戶及餐廳生意。",
-        "oppose_hl": "draining business from struggling local shops and restaurants",
+        "topic_en": "Hong Kong's Maths Scores Hit a Record Low",
+        "background_en": "Hong Kong's Primary Three pupils scored an all-time low in basic maths this year, even as English hit a record high.",
+        "background_zh": "香港小三學生今年的基本數學能力創歷史新低，但英文科卻同時創出歷史新高。",
+        "background_hl": "an all-time low in basic maths",
+        "analysis_en": "The gap between falling maths results and rising English scores raises questions about how subjects recover unevenly after the pandemic.",
+        "analysis_zh": "數學成績下滑與英文成績上升之間的差距，令人反思各科在疫情後的復常步伐為何並不一致。",
+        "analysis_hl": "falling maths results and rising English scores",
+        "support_en": "Some argue the drop reflects deeper pandemic-era learning loss that demands urgent, targeted government intervention in maths teaching.",
+        "support_zh": "有意見認為，成績下滑反映疫情帶來更深層的學習損失，教育局應就數學教學作出迫切而針對性的介入。",
+        "support_hl": "pandemic-era learning loss",
+        "oppose_en": "Others insist a single year's dip is statistically unremarkable and warn against overreacting with disruptive curriculum changes.",
+        "oppose_zh": "另一些人則認為，單一年度的輕微下滑在統計上並不足為奇，不應因此倉卒進行具破壞性的課程改動。",
+        "oppose_hl": "statistically unremarkable",
         "vocab5": [
-          {
-            "en": "cost-of-living pressure",
-            "zh": "生活成本壓力"
-          },
-          {
-            "en": "northbound consumption",
-            "zh": "北上消費"
-          },
-          {
-            "en": "spending habits",
-            "zh": "消費習慣"
-          },
-          {
-            "en": "value for money",
-            "zh": "物有所值"
-          },
-          {
-            "en": "cross-border spending",
-            "zh": "跨境消費"
-          }
+          {"en": "learning loss", "zh": "學習損失"},
+          {"en": "curriculum reform", "zh": "課程改革"},
+          {"en": "benchmark assessment", "zh": "基準評估"},
+          {"en": "early intervention", "zh": "早期介入"},
+          {"en": "academic resilience", "zh": "學業韌性"}
         ],
-        "question_en": "Should Hong Kong focus on competing with mainland prices, or accept cross-border spending as inevitable?",
-        "question_zh": "香港應該致力與內地價格競爭,還是接受跨境消費是無可避免的趨勢?",
-        "question_hl": "competing with mainland prices"
+        "question_en": "Should Hong Kong overhaul primary maths teaching after one disappointing assessment, or wait for more data?",
+        "question_zh": "香港應否在單一次令人失望的評估後，大幅改革小學數學教學，還是應等待更多數據？",
+        "question_hl": "overhaul primary maths teaching"
       },
       "cover_text": {
-        "zh_kicker": "北上消費",
-        "zh_title": [
-          "44%港人",
-          "北上買餸"
-        ],
-        "zh_hl": "44%",
-        "zh_sub": "深圳漸貴港人北上更遠",
-        "en": "Hongkongers travel farther into mainland China for cheaper daily goods"
+        "zh_kicker": "小三數學",
+        "zh_title": ["數學見新低", "英文創新高"],
+        "zh_hl": "新低",
+        "zh_sub": "教育局稱整體穩定",
+        "en": "Hong Kong pupils' maths scores hit record low."
       },
       "vocab": [
-        {
-          "phrase": "cost-of-living pressure",
-          "zh": "生活成本壓力",
-          "sample": "Rising rents have intensified cost-of-living pressure on young families."
-        },
-        {
-          "phrase": "northbound consumption",
-          "zh": "北上消費",
-          "sample": "Northbound consumption has become a weekend habit for many Hongkongers."
-        },
-        {
-          "phrase": "value for money",
-          "zh": "物有所值",
-          "sample": "Shoppers say mainland supermarkets simply offer better value for money."
-        },
-        {
-          "phrase": "tighter household budget",
-          "zh": "更緊絀的家庭預算",
-          "sample": "Stagnant wages have left many households with a tighter household budget."
-        },
-        {
-          "phrase": "bargain hunting",
-          "zh": "搜尋便宜貨",
-          "sample": "Bargain hunting across the border has become something of a local pastime."
-        },
-        {
-          "phrase": "price-sensitive consumers",
-          "zh": "對價格敏感的消費者",
-          "sample": "Price-sensitive consumers are the main drivers behind the cross-border shopping boom."
-        },
-        {
-          "phrase": "squeeze on small businesses",
-          "zh": "中小企的經營壓力",
-          "sample": "The shift has placed a squeeze on small businesses that rely on local custom."
-        },
-        {
-          "phrase": "everyday necessities",
-          "zh": "日常必需品",
-          "sample": "Many families now buy their everyday necessities during trips across the border."
-        },
-        {
-          "phrase": "purchasing power",
-          "zh": "購買力",
-          "sample": "A stronger yuan could eventually weaken Hong Kong shoppers' purchasing power abroad."
-        },
-        {
-          "phrase": "regional integration",
-          "zh": "區域融合",
-          "sample": "Analysts see the trend as a sign of deepening regional integration."
-        },
-        {
-          "phrase": "family-run establishment",
-          "zh": "家庭式經營店舖",
-          "sample": "Family-run establishments often struggle most when customers shop elsewhere."
-        },
-        {
-          "phrase": "shifting consumption pattern",
-          "zh": "轉變中的消費模式",
-          "sample": "The survey reveals a clear shifting consumption pattern in Hong Kong."
-        }
+        {"phrase": "territory-wide assessment", "zh": "全港性評估", "sample": "The territory-wide assessment is meant to flag struggling pupils, not to rank schools against each other."},
+        {"phrase": "numeracy skills", "zh": "數字能力", "sample": "Falling numeracy skills among young pupils have alarmed parents and educators alike."},
+        {"phrase": "pandemic-era disruption", "zh": "疫情期間的干擾", "sample": "Years of pandemic-era disruption to classroom routines may still be affecting how children learn maths."},
+        {"phrase": "study habits", "zh": "學習習慣", "sample": "Teachers say many pupils' study habits never fully recovered after years of online learning."},
+        {"phrase": "remedial teaching", "zh": "補救教學", "sample": "Remedial teaching sessions have been credited with helping lift English scores to a record high."},
+        {"phrase": "foundational skills", "zh": "基礎技能", "sample": "Weak foundational skills in early primary years tend to resurface as bigger problems in secondary school."},
+        {"phrase": "classroom routine", "zh": "課堂常規", "sample": "Restoring a stable classroom routine has taken longer for some subjects than others."},
+        {"phrase": "cost-effective intervention", "zh": "具成本效益的介入", "sample": "Experts argue early, cost-effective intervention is far cheaper than remedial classes years later."},
+        {"phrase": "subject-specific recovery", "zh": "個別科目的復常情況", "sample": "The data suggests subject-specific recovery from pandemic disruption has been very uneven."},
+        {"phrase": "benchmark threshold", "zh": "基準門檻", "sample": "Pupils falling below the benchmark threshold are typically referred for extra support."},
+        {"phrase": "digital exposure", "zh": "數碼媒體接觸", "sample": "Greater digital exposure to English-language content may partly explain the subject's rising scores."},
+        {"phrase": "academic underperformance", "zh": "學業表現未如理想", "sample": "Persistent academic underperformance in one subject can discourage pupils from engaging with it at all."}
       ],
       "phrases": [
-        {
-          "en": "stretch a budget further",
-          "zh": "令預算用得更盡",
-          "sample": "Crossing the border helps many households stretch a budget further."
-        },
-        {
-          "en": "swing the balance toward",
-          "zh": "令取向傾斜至……",
-          "sample": "Lower prices swing the balance toward shopping across the border."
-        },
-        {
-          "en": "take a toll on local businesses",
-          "zh": "對本地商戶造成打擊",
-          "sample": "The shopping trend has taken a toll on local cha chaan tengs."
-        },
-        {
-          "en": "become second nature",
-          "zh": "變得習以為常",
-          "sample": "For many residents, a weekend trip across the border has become second nature."
-        },
-        {
-          "en": "narrow the price gap",
-          "zh": "縮窄價格差距",
-          "sample": "Local retailers are being urged to narrow the price gap with mainland shops."
-        },
-        {
-          "en": "erode a shop's customer base",
-          "zh": "削弱店舖的顧客基礎",
-          "sample": "The trend risks eroding the customer base of small neighbourhood shops."
-        },
-        {
-          "en": "a sign of the times",
-          "zh": "時代的象徵",
-          "sample": "Long queues at border checkpoints have become a sign of the times."
-        },
-        {
-          "en": "weigh cost against convenience",
-          "zh": "在成本與方便之間取捨",
-          "sample": "Shoppers must weigh cost against convenience when deciding where to buy groceries."
-        },
-        {
-          "en": "keep household spending in check",
-          "zh": "控制家庭開支",
-          "sample": "Cross-border trips help some families keep household spending in check."
-        },
-        {
-          "en": "a knock-on effect on",
-          "zh": "對……造成連鎖影響",
-          "sample": "The shift could have a knock-on effect on local retail rents."
-        },
-        {
-          "en": "close the gap between local and mainland prices",
-          "zh": "拉近本地與內地價格的差距",
-          "sample": "Hong Kong retailers hope better deals can close the gap between local and mainland prices."
-        },
-        {
-          "en": "an uphill battle for",
-          "zh": "……面對艱難的挑戰",
-          "sample": "Competing on price remains an uphill battle for small local shops."
-        },
-        {
-          "en": "a reflection of changing priorities",
-          "zh": "反映觀念的轉變",
-          "sample": "The trend is a reflection of changing priorities among budget-conscious families."
-        }
+        {"en": "gloss over a widening skills gap", "zh": "掩飾不斷擴大的技能差距", "sample": "Officials calling the results 'stable' risk glossing over a widening skills gap in numeracy."},
+        {"en": "widen an existing attainment gap", "zh": "擴大現存的學習差距", "sample": "Left unaddressed, the decline could widen an existing attainment gap between stronger and weaker pupils."},
+        {"en": "shift blame onto pandemic disruption", "zh": "將責任歸咎於疫情造成的干擾", "sample": "It is tempting to shift blame onto pandemic disruption rather than examine teaching methods directly."},
+        {"en": "front-load support in early primary years", "zh": "在小學低年級階段提早投放支援", "sample": "Experts recommend front-loading support in early primary years before gaps become harder to close."},
+        {"en": "read too much into a single data point", "zh": "過度解讀單一數據", "sample": "Statisticians caution against reading too much into a single data point from one year's cohort."},
+        {"en": "erode pupils' confidence in a subject", "zh": "削弱學生對該科目的信心", "sample": "Repeated low scores can erode pupils' confidence in a subject long before exams even matter."},
+        {"en": "recalibrate teaching priorities", "zh": "重新調整教學重點", "sample": "The Education Bureau may need to recalibrate teaching priorities between literacy and numeracy."},
+        {"en": "mask uneven progress across subjects", "zh": "掩蓋各科進度不均的情況", "sample": "An overall 'stable' verdict can mask uneven progress across subjects that parents actually care about."},
+        {"en": "compound over successive school years", "zh": "隨著學年遞增而不斷累積", "sample": "Small early gaps in maths tend to compound over successive school years if left unchecked."},
+        {"en": "calibrate resources to where they are needed most", "zh": "將資源調配至最需要的地方", "sample": "Schools are being urged to calibrate resources to where they are needed most, rather than spread thinly."},
+        {"en": "outpace reforms already under way", "zh": "超前於已經推行的改革步伐", "sample": "Some fear pupils' struggles are outpacing reforms already under way in the maths curriculum."},
+        {"en": "treat test scores as an early warning sign", "zh": "將測試成績視為早期警號", "sample": "Parents want the government to treat test scores as an early warning sign rather than a one-off blip."}
       ]
     },
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373121/hong-kong-records-15th-straight-quarter-growth-gdp-rises-52",
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/insights/article/347380/M-partnership-with-MoMA-Centre-Pompidou-marks-cultural-exchange-milestone-Cultural-Exchange-Bernard-Charnwut-Chan",
       "published_date": "4 November 2026",
-      "headline": "Hong Kong Records 15th Straight Quarter of Growth as GDP Rises 5.2%",
-      "category": "econ",
-      "summary_html": "<p>Hong Kong's economy expanded by 5.2 per cent year on year in the third quarter, according to the government's advance estimate released this week, marking an unprecedented <span class=\"bw\">fifteenth consecutive quarter<span class=\"tip\"><span class=\"tip-en\">the fifteenth three-month period in a row</span><span class=\"tip-zh\">第十五個連續季度</span></span></span> of growth and comfortably <span class=\"bw\">beating market expectations<span class=\"tip\"><span class=\"tip-en\">performing better than analysts predicted</span><span class=\"tip-zh\">超出市場預期</span></span></span> of 3.7 per cent. The reading builds on the second quarter's 4.2 per cent expansion and leaves growth for the first three quarters at 5.1 per cent, the <span class=\"bw\">strongest such stretch<span class=\"tip\"><span class=\"tip-en\">the most powerful period of its kind</span><span class=\"tip-zh\">同類表現中最強勁的一段時期</span></span></span> in five years.</p><p>The headline figure was driven chiefly by a <span class=\"bw\">surge in exports<span class=\"tip\"><span class=\"tip-en\">a sudden sharp increase in goods sold abroad</span><span class=\"tip-zh\">出口激增</span></span></span>: goods shipments jumped 30.4 per cent year on year, <span class=\"bw\">fuelled by<span class=\"tip\"><span class=\"tip-en\">caused or made stronger by</span><span class=\"tip-zh\">受……推動</span></span></span> soaring global demand for AI-related electronics, while services exports rose a more modest 4.3 per cent. On the domestic side, however, the picture was more mixed. Private consumption grew 2.8 per cent, a slight <span class=\"bw\">slowdown<span class=\"tip\"><span class=\"tip-en\">a reduction in the rate of growth</span><span class=\"tip-zh\">放緩</span></span></span> from the previous quarter's 2.9 per cent, even as gross fixed capital formation — a measure of business investment — climbed a robust 7.3 per cent.</p><p>The figures have prompted the government to signal it may once again <span class=\"bw\">revise upward<span class=\"tip\"><span class=\"tip-en\">change an estimate to a higher figure</span><span class=\"tip-zh\">上調</span></span></span> its full-year growth forecast, from the current range of 3.5 to 4.5 per cent, when it updates projections on 13 November; Goldman Sachs already expects the economy to expand by 5 per cent for the year as a whole. Yet some economists caution that the rally remains heavily <span class=\"bw\">concentrated<span class=\"tip\"><span class=\"tip-en\">focused heavily in one area</span><span class=\"tip-zh\">集中</span></span></span> in electronics exports tied to the global AI boom, and that ordinary households may not feel a comparable improvement until the <span class=\"bw\">benefits trickle down<span class=\"tip\"><span class=\"tip-en\">advantages gradually spread to reach ordinary people</span><span class=\"tip-zh\">利益逐漸惠及普羅大眾</span></span></span> to wages and the broader job market, something that typically takes several quarters to materialise even in a strong upturn.</p>",
-      "summary_zh_html": "<p>政府本週發表的初步估計顯示,香港經濟第三季按年增長百分之五點二,錄得史無前例的<span class=\"bwz\">第十五個連續季度</span>增長,並輕鬆<span class=\"bwz\">超出市場預期</span>的百分之三點七。此數字建基於第二季百分之四點二的增長之上,令首三季增長達百分之五點一,是五年來<span class=\"bwz\">同類表現中最強勁的一段時期</span>。</p><p>整體數字主要受<span class=\"bwz\">出口激增</span>帶動:貨物出口按年急升百分之三十點四,主要<span class=\"bwz\">受惠於</span>全球對人工智能相關電子產品需求急增,而服務出口則升幅較溫和,按年增百分之四點三。至於本地需求方面,情況則較為參差。私人消費增長百分之二點八,較上季的百分之二點九輕微<span class=\"bwz\">放緩</span>,而反映商業投資的整體固定資本形成總額則強勁上升百分之七點三。</p><p>有關數字促使政府可能在十一月十三日更新預測時,再度<span class=\"bwz\">上調</span>現時百分之三點五至四點五的全年增長預測;高盛則已預期香港全年經濟增長可達百分之五。不過,部分經濟學者警告,此次升勢仍高度<span class=\"bwz\">集中</span>於與全球人工智能熱潮相關的電子產品出口,而普羅大眾未必能即時感受到同等程度的改善,除非<span class=\"bwz\">利益能逐漸惠及</span>工資及整體就業市場,而即使經濟強勁反彈,這過程通常亦需數季時間才能體現。</p>",
-      "image_scene": "A busy container terminal at Kwai Tsing in the early morning, giant cranes lifting shipping containers onto a large cargo vessel; office workers crossing a nearby overpass checking their phones, Hong Kong's skyline and container ships stretching into the harbour behind them, suggesting a bustling export-driven economy.",
+      "headline": "M+ Forges Historic Three-Way Alliance with MoMA and Centre Pompidou",
+      "category": "arts",
+      "summary_html": "<p>Hong Kong's M+ museum has entered a landmark three-way alliance with New York's Museum of Modern Art and Paris's Centre Pompidou, in an agreement signed on 30 October that <span class=\"bw\">cements<span class=\"tip\"><span class=\"tip-en\">firmly establishes or secures</span><span class=\"tip-zh\">鞏固</span></span></span> the five-year-old institution's standing among the world's leading contemporary art museums. The deal, signed by the directors of all three institutions, provides for shared exhibitions, long-term loans, joint programming and closer cooperation on <span class=\"bw\">curatorial research<span class=\"tip\"><span class=\"tip-en\">scholarly work behind selecting and presenting museum collections</span><span class=\"tip-zh\">策展研究</span></span></span> and conservation, while each museum formally <span class=\"bw\">retains<span class=\"tip\"><span class=\"tip-en\">keeps or continues to hold</span><span class=\"tip-zh\">保留</span></span></span> its own independence and identity.</p><p>The partnership builds on bilateral ties struck separately in recent years: M+ signed a memorandum of understanding with MoMA in February last year, and a strategic partnership with Centre Pompidou in May this year, itself rooted in a 2024 agreement between the two institutions. Under the new three-way arrangement, Centre Pompidou-developed exhibitions will begin arriving in West Kowloon next year, a joint Kandinsky exhibition has already been <span class=\"bw\">pencilled in<span class=\"tip\"><span class=\"tip-en\">tentatively scheduled, subject to confirmation</span><span class=\"tip-zh\">初步排定</span></span></span> for 2028, and MoMA plans to open a dedicated gallery for M+'s collection, with major works arriving on long-term loan from late 2027.</p><p>Together, the three institutions <span class=\"bw\">command<span class=\"tip\"><span class=\"tip-en\">possess or control, especially something impressive</span><span class=\"tip-zh\">擁有</span></span></span> a combined annual audience of roughly ten million in-person visitors and 125 million more online, a scale that board chair Bernard Chan, writing in an opinion piece, described as proof of <span class=\"bw\">international confidence<span class=\"tip\"><span class=\"tip-en\">trust or belief shown by parties from around the world</span><span class=\"tip-zh\">國際信心</span></span></span> in the still-young Hong Kong museum. An eighteen-month rollout will progressively integrate seminal modern European and American works into M+'s own collection galleries, giving Hong Kong audiences <span class=\"bw\">unprecedented access<span class=\"tip\"><span class=\"tip-en\">a level of access never previously available</span><span class=\"tip-zh\">前所未有的參觀機會</span></span></span> to pieces previously seen mainly in New York or Paris, just as the museum approaches its fifth anniversary.</p>",
+      "summary_zh_html": "<p>香港M+博物館與紐約現代藝術博物館及巴黎龐比度中心達成具里程碑意義的三方聯盟，協議於十月三十日簽署，<span class=\"bwz\">鞏固</span>這家開館僅五年的機構在全球當代藝術博物館之中的地位。協議由三家機構的總監共同簽署，涵蓋聯合展覽、長期借展、聯合節目策劃，以及在<span class=\"bwz\">策展研究</span>及文物修復方面的更緊密合作，同時三方均正式<span class=\"bwz\">保留</span>各自的獨立性及身份。</p><p>此次夥伴關係建基於近年分別締結的雙邊協議之上：M+於去年二月與現代藝術博物館簽署合作備忘錄，並於今年五月與龐比度中心建立策略夥伴關係，該關係本身則源於二零二四年兩館之間的協議。在新的三方安排下，由龐比度中心策劃的展覽將於明年起陸續抵達西九龍，一項聯合康丁斯基展覽已<span class=\"bwz\">初步排定</span>於二零二八年舉行，而現代藝術博物館亦計劃開設專屬展廳展示M+藏品，相關重要作品將於二零二七年底起以長期借展形式運抵。</p><p>三家機構合計每年<span class=\"bwz\">擁有</span>約一千萬名實體到訪觀眾，以及多達一億二千五百萬人次的網上觀眾，西九文化區管理局董事局主席陳智思在一篇評論文章中形容，這個規模證明了國際社會對這家尚算年輕的香港博物館所展現的<span class=\"bwz\">國際信心</span>。為期十八個月的推展計劃，將逐步把具代表性的歐美現代藝術作品，融入M+本身的館藏展廊，令香港觀眾獲得<span class=\"bwz\">前所未有的參觀機會</span>，可一睹過往主要只能在紐約或巴黎展出的作品，時間恰好與博物館即將迎來五周年館慶相近。</p>",
+      "image_scene": "The glass-and-metal facade of the M+ museum building in West Kowloon at dusk, with Victoria Harbour and the city skyline behind it, small groups of anonymous visitors walking toward the entrance, no readable signage or logos, soft exterior lighting.",
       "slides": {
-        "topic_en": "Hong Kong's Economic Growth Streak",
-        "background_en": "Hong Kong's economy grew 5.2 percent year on year in the third quarter, beating forecasts.",
-        "background_zh": "香港經濟第三季按年增長百分之五點二,超出市場預期。",
-        "background_hl": "grew 5.2 percent year on year",
-        "analysis_en": "The growth was driven mainly by a surge in AI-related electronics exports rather than consumer spending.",
-        "analysis_zh": "此次增長主要由人工智能相關電子產品出口激增帶動,而非消費開支。",
-        "analysis_hl": "surge in AI-related electronics exports",
-        "support_en": "Supporters say the figures prove Hong Kong's export sector is thriving amid the global AI boom.",
-        "support_zh": "支持者認為數據證明香港出口業在全球人工智能熱潮中表現蓬勃。",
-        "support_hl": "export sector is thriving amid the global AI boom",
-        "oppose_en": "Critics warn ordinary households may not feel the benefit until wage and job growth catch up.",
-        "oppose_zh": "批評者警告,除非工資及就業增長跟上,否則普羅大眾未必能感受到實質改善。",
-        "oppose_hl": "ordinary households may not feel the benefit",
+        "topic_en": "M+ Joins Forces with MoMA and Centre Pompidou",
+        "background_en": "Hong Kong's M+ signed a landmark three-way alliance with MoMA and Centre Pompidou for shared exhibitions and long-term loans.",
+        "background_zh": "香港M+與紐約現代藝術博物館及巴黎龐比度中心簽署具里程碑意義的三方聯盟，將共享展覽及長期借展。",
+        "background_hl": "a landmark three-way alliance",
+        "analysis_en": "The deal raises the question of whether such alliances strengthen Hong Kong's cultural standing or make M+ dependent on Western institutions.",
+        "analysis_zh": "這項協議令人反思，此類聯盟到底是鞏固香港的文化地位，還是令M+變得依賴西方機構。",
+        "analysis_hl": "strengthen Hong Kong's cultural standing",
+        "support_en": "Supporters say the partnership proves global confidence in M+ and gives local audiences rare access to world-class collections.",
+        "support_zh": "支持者認為，這項夥伴關係證明國際對M+的信心，並讓本地觀眾罕有地接觸世界級藏品。",
+        "support_hl": "proves global confidence in M+",
+        "oppose_en": "Critics worry the arrangement could overshadow homegrown Hong Kong and Asian art in favour of famous Western names.",
+        "oppose_zh": "批評者則擔心，這項安排或會令本地及亞洲藝術遭西方名家作品蓋過風頭。",
+        "oppose_hl": "overshadow homegrown Hong Kong",
         "vocab5": [
-          {
-            "en": "beat market expectations",
-            "zh": "超出市場預期"
-          },
-          {
-            "en": "surge in exports",
-            "zh": "出口激增"
-          },
-          {
-            "en": "revise upward",
-            "zh": "上調"
-          },
-          {
-            "en": "benefits trickle down",
-            "zh": "利益逐漸惠及"
-          },
-          {
-            "en": "gross fixed capital formation",
-            "zh": "整體固定資本形成總額"
-          }
+          {"en": "cultural diplomacy", "zh": "文化外交"},
+          {"en": "collection sharing", "zh": "藏品共享"},
+          {"en": "curatorial independence", "zh": "策展自主權"},
+          {"en": "soft power", "zh": "軟實力"},
+          {"en": "long-term loan", "zh": "長期借展"}
         ],
-        "question_en": "Does strong export-led GDP growth matter if ordinary workers do not feel richer?",
-        "question_zh": "假如普羅大眾未能感受到實質改善,出口帶動的強勁GDP增長是否仍然重要?",
-        "question_hl": "strong export-led GDP growth"
+        "question_en": "Does partnering with Western museums strengthen or dilute Hong Kong's own cultural identity?",
+        "question_zh": "與西方博物館結盟，到底是鞏固還是稀釋香港自身的文化身份？",
+        "question_hl": "strengthen or dilute Hong Kong's own cultural identity"
       },
       "cover_text": {
-        "zh_kicker": "經濟數據",
-        "zh_title": [
-          "GDP升5.2%",
-          "破十五季增長"
-        ],
-        "zh_hl": "5.2%",
-        "zh_sub": "出口激增帶動經濟增長",
-        "en": "Hong Kong economy grows 5.2 percent, extending 15-quarter streak"
+        "zh_kicker": "M+結盟",
+        "zh_title": ["三大館結盟", "藏品大融合"],
+        "zh_hl": "結盟",
+        "zh_sub": "紐約巴黎香港三方合作",
+        "en": "M+ forms historic alliance with MoMA and Centre Pompidou."
       },
       "vocab": [
-        {
-          "phrase": "beat market expectations",
-          "zh": "超出市場預期",
-          "sample": "The latest growth figures beat market expectations by a wide margin."
-        },
-        {
-          "phrase": "surge in exports",
-          "zh": "出口激增",
-          "sample": "A surge in exports pushed overall GDP growth well above forecasts."
-        },
-        {
-          "phrase": "revise upward",
-          "zh": "上調",
-          "sample": "Officials may revise upward their full-year growth forecast next week."
-        },
-        {
-          "phrase": "benefits trickle down",
-          "zh": "利益逐漸惠及",
-          "sample": "Economists hope export gains will eventually benefit trickle down to wages."
-        },
-        {
-          "phrase": "gross fixed capital formation",
-          "zh": "整體固定資本形成總額",
-          "sample": "Gross fixed capital formation rose sharply as firms invested in new equipment."
-        },
-        {
-          "phrase": "quarterly expansion",
-          "zh": "季度擴張",
-          "sample": "Quarterly expansion reached its highest level in five years."
-        },
-        {
-          "phrase": "private consumption",
-          "zh": "私人消費",
-          "sample": "Private consumption grew more slowly than in the previous quarter."
-        },
-        {
-          "phrase": "advance estimate",
-          "zh": "初步估計",
-          "sample": "The advance estimate is often revised once final figures are compiled."
-        },
-        {
-          "phrase": "export-led growth",
-          "zh": "出口帶動的增長",
-          "sample": "Analysts debate whether export-led growth can be sustained without stronger local demand."
-        },
-        {
-          "phrase": "broader job market",
-          "zh": "整體就業市場",
-          "sample": "Wage gains have yet to spread across the broader job market."
-        },
-        {
-          "phrase": "business investment",
-          "zh": "商業投資",
-          "sample": "Business investment climbed as firms expanded production capacity."
-        },
-        {
-          "phrase": "underlying economic strength",
-          "zh": "潛在經濟實力",
-          "sample": "The figures are being cited as proof of the city's underlying economic strength."
-        }
+        {"phrase": "memorandum of understanding", "zh": "合作備忘錄", "sample": "The two museums first signed a memorandum of understanding before deepening ties into a full partnership."},
+        {"phrase": "permanent collection", "zh": "永久館藏", "sample": "Visitors will soon see pieces from MoMA's permanent collection displayed inside M+'s own galleries."},
+        {"phrase": "joint programming", "zh": "聯合節目策劃", "sample": "Joint programming between the three museums is expected to include shared lecture series and artist talks."},
+        {"phrase": "conservation expertise", "zh": "文物修復專業", "sample": "Pooling conservation expertise allows the museums to care for fragile works more effectively."},
+        {"phrase": "museum branding", "zh": "博物館品牌", "sample": "Each institution insists its own museum branding will remain untouched despite the new alliance."},
+        {"phrase": "flagship exhibition", "zh": "重點展覽", "sample": "A joint Kandinsky exhibition is being planned as a flagship exhibition for 2028."},
+        {"phrase": "global museum network", "zh": "全球博物館網絡", "sample": "The alliance positions M+ firmly within an elite global museum network."},
+        {"phrase": "art on loan", "zh": "借展作品", "sample": "Major works of art on loan from MoMA will arrive in West Kowloon from late 2027."},
+        {"phrase": "cross-institutional exchange", "zh": "跨機構交流", "sample": "Curators from all three museums will take part in regular cross-institutional exchange programmes."},
+        {"phrase": "cultural infrastructure", "zh": "文化基建", "sample": "The deal is seen as a vote of confidence in Hong Kong's broader cultural infrastructure."},
+        {"phrase": "blockbuster show", "zh": "重磅展覽", "sample": "Museum directors hope the partnership will produce at least one blockbuster show a year."},
+        {"phrase": "custodianship of art", "zh": "藝術品的保管責任", "sample": "Sharing custodianship of art across three cities raises new questions about insurance and transport."}
       ],
       "phrases": [
-        {
-          "en": "defy expectations of a slowdown",
-          "zh": "打破外界對經濟放緩的預期",
-          "sample": "The economy defied expectations of a slowdown this quarter."
-        },
-        {
-          "en": "outstrip forecasts by a wide margin",
-          "zh": "大幅超越預測",
-          "sample": "Export growth outstripped forecasts by a wide margin."
-        },
-        {
-          "en": "ride the wave of global demand",
-          "zh": "乘著全球需求的浪潮",
-          "sample": "Local exporters are riding the wave of global demand for AI chips."
-        },
-        {
-          "en": "paint a more mixed picture",
-          "zh": "呈現較參差的局面",
-          "sample": "Domestic consumption data paint a more mixed picture than exports."
-        },
-        {
-          "en": "lag behind export growth",
-          "zh": "落後於出口增長",
-          "sample": "Wage growth continues to lag behind export growth."
-        },
-        {
-          "en": "bank on continued momentum",
-          "zh": "依靠持續增長動力",
-          "sample": "Policymakers are banking on continued momentum into next year."
-        },
-        {
-          "en": "a double-edged sword for the economy",
-          "zh": "對經濟而言是一把雙刃劍",
-          "sample": "Heavy reliance on electronics exports is a double-edged sword for the economy."
-        },
-        {
-          "en": "filter through to ordinary wages",
-          "zh": "滲透至普羅大眾的工資",
-          "sample": "Analysts doubt the gains will quickly filter through to ordinary wages."
-        },
-        {
-          "en": "paper over cracks in the economy",
-          "zh": "掩蓋經濟中的裂縫",
-          "sample": "Headline growth figures can sometimes paper over cracks in the economy."
-        },
-        {
-          "en": "stay the course on fiscal policy",
-          "zh": "堅持財政政策的方向",
-          "sample": "Officials say they will stay the course on fiscal policy."
-        },
-        {
-          "en": "an uneven recovery across sectors",
-          "zh": "各行業不平衡的復甦",
-          "sample": "Economists describe the rebound as an uneven recovery across sectors."
-        },
-        {
-          "en": "cushion households against rising costs",
-          "zh": "緩衝家庭應對開支上升的衝擊",
-          "sample": "Targeted subsidies could cushion households against rising costs."
-        },
-        {
-          "en": "a boon for exporters",
-          "zh": "對出口商而言是一大利好",
-          "sample": "Strong overseas demand has been a boon for exporters this year."
-        }
+        {"en": "punch above its weight on the world stage", "zh": "在國際舞台上發揮超越自身規模的影響力", "sample": "A five-year-old museum punching above its weight on the world stage is no small feat."},
+        {"en": "lend credibility to a young institution", "zh": "為年輕機構賦予可信度", "sample": "Partnering with MoMA and Centre Pompidou helps lend credibility to a young institution still finding its footing."},
+        {"en": "risk being overshadowed by bigger names", "zh": "有可能被更大型的機構蓋過風頭", "sample": "Local curators worry homegrown artists risk being overshadowed by bigger names from abroad."},
+        {"en": "broaden audiences' horizons", "zh": "拓闊觀眾的視野", "sample": "Bringing rarely seen European works to Hong Kong helps broaden audiences' horizons considerably."},
+        {"en": "anchor the city as a regional cultural hub", "zh": "鞏固本市作為區域文化樞紐的地位", "sample": "Officials hope the deal will further anchor the city as a regional cultural hub."},
+        {"en": "deepen ties beyond a single agreement", "zh": "將關係深化至不止一份協議", "sample": "The three-way alliance deepens ties beyond a single agreement signed years earlier."},
+        {"en": "safeguard curatorial independence", "zh": "維護策展自主權", "sample": "All three directors were careful to safeguard curatorial independence within the new structure."},
+        {"en": "showcase local talent alongside global icons", "zh": "讓本地人才與國際巨匠並列展出", "sample": "Future shows aim to showcase local talent alongside global icons rather than sideline it."},
+        {"en": "cement a museum's place among its peers", "zh": "鞏固博物館在同業之中的地位", "sample": "Few agreements cement a museum's place among its peers as quickly as this one."},
+        {"en": "open doors previously closed to local audiences", "zh": "為本地觀眾打開以往封閉的門戶", "sample": "Long-term loans open doors previously closed to local audiences who could not easily travel abroad."},
+        {"en": "hedge against over-reliance on one partner", "zh": "避免過度依賴單一夥伴", "sample": "Signing with two major institutions at once helps hedge against over-reliance on one partner."},
+        {"en": "elevate a city's standing in the art world", "zh": "提升一個城市在藝術界的地位", "sample": "Few single agreements elevate a city's standing in the art world as swiftly as this alliance."}
       ]
     }
   ],
   "trends": [
     {
-      "platforms": [
-        "threads"
-      ],
-      "headline": "🫘 The Three-Colour Bean Craze Hong Kong Can't Stop Arguing About",
-      "summary_html": "<p>A quirky food trend born in Taipei has taken over Hong Kong's Threads feed this week, with diners and restaurants alike <span class=\"bw\">weighing in<span class=\"tip\"><span class=\"tip-en\">giving an opinion on a debate or discussion</span><span class=\"tip-zh\">發表意見</span></span></span> on the humble three-colour bean. The craze began after a Taipei breakfast shop served a three-colour bean milk tea so <span class=\"bw\">polarising<span class=\"tip\"><span class=\"tip-en\">causing strong disagreement; dividing opinion</span><span class=\"tip-zh\">引起強烈分歧的</span></span></span> that its own owner admitted having \"nothing to say\" after tasting it. Hong Kong businesses quickly <span class=\"bw\">jumped on the bandwagon<span class=\"tip\"><span class=\"tip-en\">joined a popular activity or trend</span><span class=\"tip-zh\">跟風</span></span></span>: a Kwun Tong ramen shop launched a HK$38 three-colour bean ramen, while an online bakery's three-colour bean avalanche cake, topped with savoury cheese foam, drew an even louder <span class=\"bw\">backlash<span class=\"tip\"><span class=\"tip-en\">a strong negative reaction</span><span class=\"tip-zh\">強烈反彈</span></span></span>. Yet not everyone is dismissing the trend as a cheap <span class=\"bw\">gimmick<span class=\"tip\"><span class=\"tip-en\">a trick or device meant to attract attention</span><span class=\"tip-zh\">噱頭</span></span></span>. Food writers point out that three-colour beans are, in fact, a familiar ingredient in the <span class=\"bw\">nostalgic<span class=\"tip\"><span class=\"tip-en\">evoking fond memories of the past</span><span class=\"tip-zh\">懷舊的</span></span></span> macaroni soup served at old-school cha chaan tengs for decades, meaning the latest mashups are less an alien invention than an awkward <span class=\"bw\">reinvention<span class=\"tip\"><span class=\"tip-en\">a new and different version of something</span><span class=\"tip-zh\">重新演繹</span></span></span> of comfort food Hongkongers already know. Whether this is playful innovation or a step too far has become the real debate <span class=\"bw\">fuelling<span class=\"tip\"><span class=\"tip-en\">making something stronger or more intense</span><span class=\"tip-zh\">加劇</span></span></span> the thread.</p>",
-      "summary_zh_html": "<p>一股源自台北的古怪飲食潮流本週攻陷香港Threads版面,食客與食肆紛紛就這款平凡的三色豆<span class=\"bwz\">發表意見</span>。熱潮始於台北一間早餐店推出的三色豆奶茶,滋味<span class=\"bwz\">引起強烈分歧</span>,連店主本人嚐後也坦言「無言以對」。香港商戶迅速<span class=\"bwz\">跟風</span>:觀塘一間拉麵店推出售價三十八港元的三色豆拉麵,而一間網上烘焙店推出鋪上鹹忌廉芝士泡的三色豆雪山蛋糕,更引來更大的<span class=\"bwz\">強烈反彈</span>。不過,並非所有人都將此潮流貶為廉價<span class=\"bwz\">噱頭</span>。有飲食專欄作者指出,三色豆其實是老式茶餐廳數十年來<span class=\"bwz\">懷舊</span>通粉湯的常見配料,意味著這波混搭與其說是外來發明,倒不如說是對香港人早已熟悉的「安樂茶飯」的一次尷尬<span class=\"bwz\">重新演繹</span>。究竟這是富創意的玩味之舉,還是過了火的嘗試,成了<span class=\"bwz\">加劇</span>這場討論的真正焦點。</p>",
+      "platforms": ["facebook"],
+      "headline": "🏠 Should You Queue Your Teen for Public Housing the Moment They Turn 18?",
+      "summary_html": "<p>A wave of Facebook posts asking whether parents should apply for public rental housing for their children the instant they turn eighteen has <span class=\"bw\">ignited fierce debate<span class=\"tip\"><span class=\"tip-en\">sparked intense disagreement or discussion</span><span class=\"tip-zh\">引發激烈爭論</span></span></span> this week in Hong Kong's close-knit property discussion groups. One father's post asking whether he should register his son for a single-person flat on his eighteenth birthday, purely to start the clock running, drew thousands of comments within hours, while a separate mother's query about whether to apply jointly or separately for her son sparked accusations of trying to <span class=\"bw\">game the system<span class=\"tip\"><span class=\"tip-en\">exploit rules unfairly to one's own advantage</span><span class=\"tip-zh\">鑽制度漏洞</span></span></span> twice over.</p><p>Under the Housing Authority's <span class=\"bw\">scoring mechanism<span class=\"tip\"><span class=\"tip-en\">a system that assigns points to rank applicants</span><span class=\"tip-zh\">計分機制</span></span></span>, non-elderly single applicants begin with zero points at eighteen and accumulate nine points for every additional year on the waiting list, meaning an early application can <span class=\"bw\">shave years off<span class=\"tip\"><span class=\"tip-en\">reduce a period of time by several years</span><span class=\"tip-zh\">縮短數年時間</span></span></span> an eventual wait that currently averages close to four years for priority cases but can stretch past a decade for others. Commenters were split between sympathy for families desperate to secure a foothold on the property ladder and scorn for what many branded <span class=\"bw\">queue-jumping<span class=\"tip\"><span class=\"tip-en\">unfairly moving ahead of others waiting in line</span><span class=\"tip-zh\">打尖搶先排隊</span></span></span>, with some mockingly sharing a <span class=\"bw\">fast-track timetable<span class=\"tip\"><span class=\"tip-en\">a schedule designed to achieve something more quickly than usual</span><span class=\"tip-zh\">快速通道時間表</span></span></span> for turning eighteen with multiple applications already lined up.</p>",
+      "summary_zh_html": "<p>一連串在Facebook發出的帖文，討論家長應否在子女剛滿十八歲時，立即為他們申請公屋單人單位，本星期在香港關係密切的置業討論群組之中<span class=\"bwz\">引發激烈爭論</span>。一名父親發帖問應否在兒子十八歲生日當天就為他登記單人公屋，純粹為了「開始計時」，數小時內已引來數千則留言；另一名母親則詢問應該為兒子單獨申請，還是與自己聯名申請，結果被網民指控是雙重<span class=\"bwz\">鑽制度漏洞</span>。</p><p>根據房屋委員會的<span class=\"bwz\">計分機制</span>，非長者一人申請者在十八歲時起分為零分，之後每多輪候一年可加九分，意味著提早申請可以<span class=\"bwz\">縮短數年時間</span>，而目前優先類別的平均輪候時間接近四年，其他個案則可能超過十年。網民意見兩極，一方同情渴望置業立足的家庭，另一方則斥之為<span class=\"bwz\">打尖搶先排隊</span>，部分人更戲謔地分享一張十八歲生日「已預先排好多重申請」的<span class=\"bwz\">快速通道時間表</span>。</p>",
       "causes": [
         {
-          "label": "Nostalgic cha chaan teng flavours turned into a marketing gimmick",
-          "label_zh": "懷舊茶餐廳味道被變成行銷噱頭",
-          "text": "What began as a humble ingredient in cheap macaroni soup has been repackaged into gimmicky ramen and cake flavours purely to chase online attention. Critics argue that businesses are exploiting nostalgia for cheap virality rather than genuinely honouring the dish's working-class origins, turning a piece of everyday food culture into a disposable marketing stunt.",
-          "text_zh": "一種原本平凡、出現在廉價通粉湯中的配料,如今被包裝成噱頭十足的拉麵及蛋糕口味,純粹為追逐網上話題。批評者認為,商戶只是利用懷舊情懷換取廉價的病毒式傳播,而非真正尊重這道菜背後的基層飲食根源,把日常飲食文化淪為可被隨意拋棄的行銷噱頭。"
+          "label": "Gaming a scarce resource meant for genuine need",
+          "label_zh": "鑽空子爭奪原本留給真正有需要人士的稀缺資源",
+          "text": "Public rental housing exists to shelter Hong Kong's most vulnerable residents, yet treating an eighteenth birthday as a strategic deadline risks turning a safety net into a long-term investment vehicle for families who already own private property, potentially pushing genuinely needy single applicants further down an already lengthy waiting list.",
+          "text_zh": "公屋原意是為本港最有需要的居民提供居所，但若將子女十八歲生日視為策略性的死線，恐怕會令這項安全網變成已經擁有私人物業家庭的長期投資工具，有可能令真正有迫切需要的單身申請者，在輪候隊伍中被進一步推後。"
         },
         {
-          "label": "Gen Z's ironic humour clashes with older diners' genuine comfort food",
-          "label_zh": "Z世代的嘲諷式幽默與長輩真摯的安樂茶飯文化碰撞",
-          "text": "For older Hongkongers, three-colour beans in macaroni soup are simply an ordinary part of growing up, not a joke. Younger users on Threads, however, treat the ingredient as fodder for ironic memes and shock-value food mashups, a gap in tone that highlights how differently generations relate to the very same childhood dish.",
-          "text_zh": "對年長香港人而言,通粉湯裡的三色豆只是成長中平常的一部分,絕非笑話。然而,Threads上的年輕用戶卻把這種配料當作諷刺式網絡迷因及獵奇食物混搭的素材,這種語氣上的落差,正好反映不同世代對同一款童年菜式有著截然不同的看法。"
+          "label": "A head start some families can afford and others cannot",
+          "label_zh": "部分家庭能負擔的優勢，其他家庭卻望塵莫及",
+          "text": "Only parents with the time, knowledge and confidence to navigate a complicated application system can plan a decade ahead for their child's housing; poorer or less-informed families may simply never learn that an early application exists, quietly widening the gap between households that already have resources and those still struggling without them.",
+          "text_zh": "只有具備時間、知識和信心應付繁複申請程序的家長，才能為子女的住屋問題提早十年部署；較貧困或資訊較少的家庭，可能根本從未得知有提早申請這個做法，無聲無息地拉闊本已擁有資源的家庭，與仍在苦苦掙扎的家庭之間的差距。"
         },
         {
-          "label": "A local ingredient's identity gets diluted once it goes viral abroad",
-          "label_zh": "本地食材一旦跨境爆紅,其身份便被稀釋",
-          "text": "Because the trend actually began in Taipei before spreading to Hong Kong, some commentators worry that a distinctly local Hong Kong flavour association is being flattened into a generic, borderless internet joke. They argue that without context about its cha chaan teng roots, outsiders may never learn what the ingredient actually means here.",
-          "text_zh": "由於這股潮流其實源自台北,再傳到香港,有評論擔心一種本屬香港獨有的味覺聯想,正被扁平化為一個沒有地域界線的網絡笑話。他們認為,假如缺乏關於其茶餐廳根源的背景說明,外界或永遠無法理解這種配料在本地真正的意義。"
+          "label": "A scoring system that rewards paperwork timing over real urgency",
+          "label_zh": "獎勵申請時機而非真正迫切需要的計分制度",
+          "text": "By awarding points purely for years spent waiting rather than for genuine housing need, the current scoring mechanism inadvertently incentivises families to file applications as early as legally possible, regardless of whether they actually require public housing soon, which arguably distorts the very purpose the points system was designed to serve.",
+          "text_zh": "現行計分機制純粹以輪候年期計分，而非按實際住屋需要評分，無意中鼓勵家庭盡早遞交申請，不論他們是否真的短期內需要公屋，此舉某程度上扭曲了計分制度原本設立的目的。"
         },
         {
-          "label": "Viral food fads are harmless fun, not a cultural crisis",
-          "label_zh": "病毒式飲食潮流只是無害的消閒玩意,並非文化危機",
-          "text": "Not everyone agrees the fuss matters. Sceptics argue that treating a cha chaan teng vegetable as a serious identity battleground is overblown, pointing out that food trends have always mixed and mutated playfully online, and that most participants are simply enjoying a joke rather than making any statement about heritage at all.",
-          "text_zh": "並非人人認同這場爭議有多重要。持懷疑態度者認為,把一種茶餐廳常見蔬食當成嚴肅的身份議題,未免言過其實,並指出飲食潮流在網上一向會玩味地混合變化,而大多數參與者只是純粹享受一個笑話,並非真的想就文化傳承表態。"
+          "label": "The real problem is supply, not families gaming the queue",
+          "label_zh": "問題根源在於供應不足，而非個別家庭鑽空子",
+          "text": "Focusing public anger on individual families filing early applications distracts from the government's own failure to build enough flats; even without a single strategic application, waiting times would remain unacceptably long, so blaming anxious parents lets policymakers off the hook for decades of under-building relative to demand.",
+          "text_zh": "將公眾怒氣集中於個別家庭提早申請，反而掩蓋了政府本身未能興建足夠單位的失誤；即使沒有任何策略性申請，輪候時間仍會長得令人無法接受，將責任歸咎於焦慮的家長，只會讓政策制定者逃避數十年供應追不上需求的責任。"
         }
       ],
       "vocab": [
-        {
-          "phrase": "viral food trend",
-          "zh": "病毒式飲食潮流",
-          "sample": "The viral food trend spread from Taipei to Hong Kong within days."
-        },
-        {
-          "phrase": "polarising flavour",
-          "zh": "引起強烈分歧的味道",
-          "sample": "The dessert's polarising flavour split opinion among reviewers."
-        },
-        {
-          "phrase": "jump on the bandwagon",
-          "zh": "跟風",
-          "sample": "Several local restaurants jumped on the bandwagon within a week."
-        },
-        {
-          "phrase": "social media storm",
-          "zh": "社交媒體熱潮風波",
-          "sample": "The cake's unusual topping triggered a social media storm within hours."
-        },
-        {
-          "phrase": "marketing gimmick",
-          "zh": "行銷噱頭",
-          "sample": "Some diners dismissed the new dish as a pure marketing gimmick."
-        },
-        {
-          "phrase": "comfort food",
-          "zh": "安樂茶飯",
-          "sample": "Three-colour beans have long been a quiet comfort food for many Hongkongers."
-        },
-        {
-          "phrase": "culinary mashup",
-          "zh": "飲食混搭",
-          "sample": "The culinary mashup combined a nostalgic ingredient with an unexpected new dish."
-        },
-        {
-          "phrase": "internet meme",
-          "zh": "網絡迷因",
-          "sample": "The ingredient quickly became the subject of an internet meme."
-        },
-        {
-          "phrase": "borderless trend",
-          "zh": "無地域界線的潮流",
-          "sample": "Critics worry the dish is becoming just another borderless internet trend."
-        },
-        {
-          "phrase": "foodie culture",
-          "zh": "飲食文化愛好",
-          "sample": "Hong Kong's foodie culture thrives on finding the next viral dish."
-        }
+        {"phrase": "waiting list", "zh": "輪候名單", "sample": "Thousands of single applicants remain stuck on the public housing waiting list for years."},
+        {"phrase": "points-based system", "zh": "計分制度", "sample": "Hong Kong's points-based system for public housing rewards patience over proven urgency."},
+        {"phrase": "eligibility age", "zh": "合資格年齡", "sample": "Eighteen is the eligibility age at which a person can apply for public housing independently."},
+        {"phrase": "housing safety net", "zh": "房屋安全網", "sample": "Critics worry the housing safety net is being stretched by families who do not urgently need it."},
+        {"phrase": "strategic application", "zh": "策略性申請", "sample": "A strategic application filed the day a child turns eighteen can shave years off the eventual wait."},
+        {"phrase": "intergenerational wealth gap", "zh": "代際財富差距", "sample": "The debate has exposed an intergenerational wealth gap between families who can plan ahead and those who cannot."},
+        {"phrase": "housing supply shortfall", "zh": "房屋供應短缺", "sample": "Many commentators trace the whole controversy back to a persistent housing supply shortfall."},
+        {"phrase": "needs-based allocation", "zh": "按需要分配", "sample": "Public housing is meant to run on needs-based allocation, not a reward for early paperwork."},
+        {"phrase": "social media firestorm", "zh": "網絡輿論風暴", "sample": "The father's post triggered a swift social media firestorm from users who felt the strategy was unfair."},
+        {"phrase": "housing ladder", "zh": "置業階梯", "sample": "Some families see an early public housing application as the first rung on a longer housing ladder."}
       ],
       "phrases": [
-        {
-          "en": "spark a flurry of online debate",
-          "zh": "引發網上熱烈爭論",
-          "sample": "The unusual dessert sparked a flurry of online debate overnight."
-        },
-        {
-          "en": "ride a wave of online buzz",
-          "zh": "乘著網上熱議的浪潮",
-          "sample": "The small cafe rode a wave of online buzz within days."
-        },
-        {
-          "en": "split opinion down the middle",
-          "zh": "令意見徹底兩極化",
-          "sample": "The new flavour combination split opinion down the middle."
-        },
-        {
-          "en": "cash in on a viral moment",
-          "zh": "趁網絡熱潮賺一筆",
-          "sample": "Several shops rushed to cash in on the viral moment."
-        },
-        {
-          "en": "lose something in translation",
-          "zh": "在轉化過程中失去原本意義",
-          "sample": "The dish's cultural meaning risks losing something in translation online."
-        },
-        {
-          "en": "a storm in a teacup",
-          "zh": "小題大做",
-          "sample": "To some critics, the whole debate is simply a storm in a teacup."
-        },
-        {
-          "en": "give an old favourite a new twist",
-          "zh": "為舊日美食添上新意",
-          "sample": "The chef tried to give an old favourite a new twist."
-        },
-        {
-          "en": "strike the wrong chord with purists",
-          "zh": "惹來傳統派不滿",
-          "sample": "The gimmicky cake struck the wrong chord with culinary purists."
-        },
-        {
-          "en": "keep a trend alive",
-          "zh": "延續一股潮流的生命力",
-          "sample": "Constant online chatter has helped keep the trend alive for weeks."
-        }
+        {"en": "exploit a loophole without breaking any rule", "zh": "在不違規的情況下利用制度漏洞", "sample": "Technically, applying at eighteen exploits a loophole without breaking any rule at all."},
+        {"en": "crowd out applicants with more pressing needs", "zh": "排擠真正更迫切需要的申請者", "sample": "Early strategic applications risk crowding out applicants with more pressing needs."},
+        {"en": "normalise a once-frowned-upon tactic", "zh": "令一度被視為不當的策略變得普遍", "sample": "What was once whispered about has started to normalise a once-frowned-upon tactic among parents."},
+        {"en": "expose cracks in a decades-old points formula", "zh": "暴露存在數十年計分公式的漏洞", "sample": "The controversy has exposed cracks in a decades-old points formula few had questioned before."},
+        {"en": "pit genuine need against procedural advantage", "zh": "令真正需要與程序優勢互相對立", "sample": "The debate pits genuine need against procedural advantage in an already overstretched system."},
+        {"en": "shift the goalposts for future applicants", "zh": "為日後申請者改變遊戲規則", "sample": "If the authority tightens the rules now, it could shift the goalposts for future applicants overnight."},
+        {"en": "treat housing policy as a loophole to be gamed", "zh": "將房屋政策視為可鑽空子的對象", "sample": "Commentators warn against treating housing policy as a loophole to be gamed rather than a safety net."},
+        {"en": "deflect scrutiny away from the supply side", "zh": "將審視目光從供應問題上轉移", "sample": "Blaming individual families can deflect scrutiny away from the supply side of the housing crisis."},
+        {"en": "reward patience over proven hardship", "zh": "獎勵耐性而非已證明的困境", "sample": "A system that rewards patience over proven hardship will always invite this kind of strategic gaming."},
+        {"en": "spark a wider reckoning over housing fairness", "zh": "引發對房屋制度公平性更廣泛的反思", "sample": "A single viral post has managed to spark a wider reckoning over housing fairness across the city."}
       ]
     }
   ]

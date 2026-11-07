@@ -1,343 +1,876 @@
 {
-  "exam_date": null,
-  "articles": [
+ "exam_date": null,
+ "articles": [
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/society/article/3373282/roll-out-hk5m-anti-terrorism-bollards-causeway-bay-draws-mixed-reactions",
+   "published_date": "5 November 2026",
+   "headline": "Causeway Bay's HK$5 Million Anti-Ram Bollards Spark Streetscape Debate",
+   "category": "urban",
+   "summary_html": "<p>Workers in Causeway Bay have begun <span class=\"bw\">installing<span class=\"tip\"><span class=\"tip-en\">putting equipment or structures into position for use</span><span class=\"tip-zh\">安裝</span></span></span> a row of fixed steel bollards along the pavement outside the landmark Sogo department store, the first visible stage of a HK$5 million government plan to guard against <span class=\"bw\">vehicle-ramming attacks<span class=\"tip\"><span class=\"tip-en\">deliberate attacks in which a vehicle is driven into crowds</span><span class=\"tip-zh\">車輛衝撞襲擊</span></span></span> in one of the city's busiest shopping districts. The Police Force, the Highways Department and the Transport Department jointly describe the risk of such an attack along the pedestrian crossing and the Paterson Street precinct as <span class=\"bw\">long-standing<span class=\"tip\"><span class=\"tip-en\">existing for a long time without being resolved</span><span class=\"tip-zh\">長期存在</span></span></span>, given the sheer density of shoppers who gather there at weekends and during festive seasons.</p><p>According to the latest on-site reports, four permanent bollards have already been <span class=\"bw\">bolted into<span class=\"tip\"><span class=\"tip-en\">fixed firmly in place using metal fasteners</span><span class=\"tip-zh\">以螺栓固定於</span></span></span> the pavement outside Sogo, while workers continue construction behind temporary barriers further along the precinct. Once finished, the barriers are meant to physically block any vehicle from mounting the kerb and driving into the crowded footpath, a measure officials frame as an urgently needed piece of public-safety infrastructure rather than a cosmetic gesture.</p><p>Not everyone welcomes the rollout, however. A delivery worker interviewed on site complained that the bollards will <span class=\"bw\">impede<span class=\"tip\"><span class=\"tip-en\">get in the way of or slow down movement</span><span class=\"tip-zh\">阻礙</span></span></span> his handcart deliveries, while a nearby resident questioned whether the metal posts come at the expense of the district's <span class=\"bw\">distinctive streetscape<span class=\"tip\"><span class=\"tip-en\">the particular visual character of a street or neighbourhood</span><span class=\"tip-zh\">獨特街景</span></span></span>. A Wan Chai district councillor went further, warning that the bollards could <span class=\"bw\">bottleneck<span class=\"tip\"><span class=\"tip-en\">severely restrict the flow of something, causing a build-up</span><span class=\"tip-zh\">造成人流樽頸</span></span></span> pedestrian flow during peak hours and formally requesting detailed crowd-flow data before the project is finalised, underscoring the tension between hardening public spaces against rare but catastrophic threats and preserving the everyday rhythm of one of Hong Kong's most crowded corners.</p>",
+   "summary_zh_html": "<p>銅鑼灣工人已開始在崇光百貨外的行人路上<span class=\"bwz\">安裝</span>一排固定鋼製欄柱，是政府耗資500萬港元計劃的首個可見階段，旨在防範這個全港最繁忙購物區之一發生<span class=\"bwz\">車輛衝撞襲擊</span>。警務處、路政署及運輸署聯合形容，沿該行人過路處及百德新街專區發生此類襲擊的風險屬<span class=\"bwz\">長期存在</span>，因為每逢週末及節慶旺季，該處聚集的購物人流極為密集。</p><p>根據現場最新消息，四個永久欄柱已<span class=\"bwz\">以螺栓固定於</span>崇光百貨外的行人路，工人則在專區較遠處的臨時圍板後繼續施工。工程完成後，這些路障旨在實際阻止任何車輛駛上路緣並衝入擁擠的行人路，當局將此形容為刻不容緩的公共安全設施，而非純粹的裝飾性姿態。</p><p>然而，並非所有人都歡迎這項工程。一名接受訪問的速遞員投訴，欄柱會<span class=\"bwz\">阻礙</span>他使用手推車送貨，附近一名居民則質疑，這些金屬柱子是否要以犧牲區內<span class=\"bwz\">獨特街景</span>為代價。一名灣仔區議員更進一步警告，欄柱可能在繁忙時段<span class=\"bwz\">造成人流樽頸</span>，並正式要求當局在落實工程前提供詳細人流數據，突顯了在為應對罕見卻可能致命的威脅而強化公共空間，與維持香港其中一個最擁擠角落日常運作節奏之間存在的張力。</p>",
+   "image_scene": "A row of sturdy grey steel bollards fixed along a wide pavement outside a large department store on a busy Causeway Bay shopping street, with temporary orange-and-white barriers further along where construction continues; anonymous pedestrians and shoppers carrying bags walk around the posts, a delivery worker pulls a handcart nearby, dense high-rise buildings in the background, no readable signage or logos.",
+   "slides": {
+    "topic_en": "Anti-Ram Bollards in Causeway Bay",
+    "background_en": "Hong Kong has begun installing HK$5 million worth of bollards outside Causeway Bay's Sogo store to block vehicle-ramming attacks.",
+    "background_zh": "香港開始在銅鑼灣崇光百貨外安裝造價500萬港元的欄柱，以阻止車輛衝撞襲擊。",
+    "background_hl": "block vehicle-ramming attacks",
+    "analysis_en": "The project raises the question of whether hardening public spaces against rare attacks is worth the everyday disruption it causes.",
+    "analysis_zh": "這項工程令人思考，為防範罕見襲擊而強化公共空間，是否值得付出日常生活的不便。",
+    "analysis_hl": "worth the everyday disruption",
+    "support_en": "Supporters say fixed bollards are a cheap, permanent safeguard against a catastrophic attack in one of Hong Kong's most crowded districts.",
+    "support_zh": "支持者認為，固定欄柱是應對這個全港最擁擠地區可能發生災難性襲擊的廉宜而持久保障。",
+    "support_hl": "cheap, permanent safeguard",
+    "oppose_en": "Critics argue the bollards obstruct deliveries, crowd pedestrian flow at peak hours, and damage the street's distinctive character.",
+    "oppose_zh": "批評者指欄柱會阻礙速遞、在繁忙時段擠塞人流，並破壞街道獨特的個性。",
+    "oppose_hl": "damage the street's distinctive character",
+    "vocab5": [
+     {
+      "en": "crowd-flow data",
+      "zh": "人流數據"
+     },
+     {
+      "en": "public-safety infrastructure",
+      "zh": "公共安全設施"
+     },
+     {
+      "en": "pedestrian precinct",
+      "zh": "行人專區"
+     },
+     {
+      "en": "catastrophic threat",
+      "zh": "災難性威脅"
+     },
+     {
+      "en": "streetscape",
+      "zh": "街景"
+     }
+    ],
+    "question_en": "Should public spaces be redesigned around worst-case threats, even if it inconveniences daily life?",
+    "question_zh": "公共空間是否應該為應對最壞情況的威脅而重新設計，即使因此帶來日常生活的不便？",
+    "question_hl": "worst-case threats"
+   },
+   "cover_text": {
+    "zh_kicker": "銅鑼灣欄柱",
+    "zh_title": [
+     "500萬裝",
+     "防撞欄柱"
+    ],
+    "zh_hl": "500萬",
+    "zh_sub": "居民憂街景 區員慮人流",
+    "en": "Hong Kong installs anti-ram bollards in Causeway Bay."
+   },
+   "vocab": [
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/sports-updates/article/347518/Poon-delivers-historic-Youth-Olympics-gold-medal-for-HK",
-      "published_date": "4 November 2026",
-      "headline": "Poon Hao-ran Delivers Hong Kong's First-Ever Youth Olympics Gold in Wushu",
-      "category": "sports",
-      "summary_html": "<p>Hong Kong's Poon Hao-ran, a fifteen-year-old <span class=\"bw\">wushu exponent<span class=\"tip\"><span class=\"tip-en\">a skilled practitioner of a martial art</span><span class=\"tip-zh\">武術好手</span></span></span>, delivered the territory's first-ever gold medal at a Youth Olympic Games on Tuesday, topping the men's taijiquan combined final at the Dakar 2026 Games in Senegal. His score of 18.720 points left him ahead of Vietnam's silver medallist by <span class=\"bw\">a razor-thin margin<span class=\"tip\"><span class=\"tip-en\">an extremely narrow or small difference</span><span class=\"tip-zh\">極微小的差距</span></span></span> of just 0.028 points, so narrow that judges reportedly double-checked the scoring sheet before confirming the result. Japan's representative settled for bronze. The event marked wushu's <span class=\"bw\">medal debut<span class=\"tip\"><span class=\"tip-en\">the first time an event has official medals</span><span class=\"tip-zh\">首次設獎</span></span></span> at the Youth Olympics, lending extra significance to a result Hong Kong athletes had chased in vain since the Games began in 2010.</p><p>Poon's route to the podium was far from smooth. He had been battling <span class=\"bw\">a nagging cold<span class=\"tip\"><span class=\"tip-en\">a mild illness that persists annoyingly</span><span class=\"tip-zh\">揮之不去的感冒</span></span></span> in the days before the final, picked up while still adjusting to Dakar's climate, on top of minor training injuries from the lead-up to the competition. Rather than easing off, he <span class=\"bw\">redoubled his training<span class=\"tip\"><span class=\"tip-en\">greatly increased the amount of practice</span><span class=\"tip-zh\">加倍訓練</span></span></span> in the final fortnight, trusting that extra repetitions would make up for lost sharpness. He arrived in Dakar already a known quantity in the sport, having claimed two gold medals and a silver at the world taijiquan championships in May, yet Tuesday's result was his first experience of Youth Olympic competition.</p><p>The win carried symbolic as well as sporting weight: Poon had been chosen to bear Hong Kong's flag at the opening ceremony, a duty usually reserved for an athlete the delegation expects to shine. Local sports officials hailed the result as <span class=\"bw\">a historic breakthrough<span class=\"tip\"><span class=\"tip-en\">an achievement of major, unprecedented importance</span><span class=\"tip-zh\">歷史性突破</span></span></span> that could <span class=\"bw\">pave the way<span class=\"tip\"><span class=\"tip-en\">create conditions that make future success possible</span><span class=\"tip-zh\">鋪路</span></span></span> for greater investment in wushu's youth pipeline, with the city's Olympic committee suggesting it may inspire more young practitioners to take up the sport competitively.</p>",
-      "summary_zh_html": "<p>香港十五歲<span class=\"bwz\">武術好手</span>潘浩然星期二在塞內加爾達喀爾二零二六年青年奧運會男子太極拳全能決賽中，為香港贏得歷來首面青奧金牌。他以18.720分之成績，只以0.028分之<span class=\"bwz\">極微小的差距</span>壓倒越南銀牌得主，差距之小令裁判據報在公布結果前兩度覆核計分表以作確認。日本代表屈居銅牌。是次項目為武術<span class=\"bwz\">首次設獎</span>的青奧比賽項目，令香港運動員自二零一零年青奧創辦以來苦候多年的突破更添意義。</p><p>潘浩然的奪金之路並非一帆風順。決賽前數日，他一直受<span class=\"bwz\">揮之不去的感冒</span>困擾，起因是仍在適應達喀爾的氣候，加上備戰期間留下的輕微訓練傷患。他沒有因此鬆懈，反而在最後兩周<span class=\"bwz\">加倍訓練</span>，相信額外的練習量能彌補狀態上的落差。他出戰達喀爾前已在武術界薄有名氣，今年五月的世界太極拳錦標賽中奪得兩金一銀，但星期二的賽果卻是他首次參與青年奧運會賽事。</p><p>這場勝利除了體育成就，亦具有象徵意義：潘浩然獲選在開幕式擔任香港代表團旗手，此職通常只授予代表團寄予厚望的運動員。本地體育官員形容這次賽果是<span class=\"bwz\">歷史性突破</span>，有望為武術青訓帶來更多資源投放，<span class=\"bwz\">鋪路</span>讓更多年輕好手參與這項運動的競技層面，香港奧委會亦認為此舉或能激勵更多年輕人投身武術。</p>",
-      "image_scene": "A teenage wushu athlete in a red competition uniform mid-pose on a padded blue competition mat inside a brightly lit sports hall, one leg raised in a martial-arts stance, arms extended; a small crowd of anonymous spectators and a row of international flags visible in the background, scoreboard lights glowing nearby.",
-      "slides": {
-        "topic_en": "Hong Kong's First Youth Olympic Gold",
-        "background_en": "Poon Hao-ran, 15, won Hong Kong's first-ever Youth Olympic gold in wushu's taijiquan medal debut at Dakar 2026.",
-        "background_zh": "十五歲的潘浩然在達喀爾二零二六年青奧會武術太極拳首設獎項中，為香港贏得歷來首面青奧金牌。",
-        "background_hl": "first-ever Youth Olympic gold",
-        "analysis_en": "His win, by just 0.028 points, raises the question of how much Hong Kong invests in grooming young athletes in niche Olympic sports.",
-        "analysis_zh": "他僅以0.028分之差奪金，令人反思香港在冷門奧運項目上對青少年運動員的培訓投放是否足夠。",
-        "analysis_hl": "0.028 points",
-        "support_en": "Supporters argue the win proves grassroots wushu programmes deserve more funding and recognition as a serious Olympic pathway.",
-        "support_zh": "支持者認為，這次奪金證明草根武術培訓計劃值得獲得更多資金及認可，是一條嚴肅的奧運發展路徑。",
-        "support_hl": "grassroots wushu programmes deserve more funding",
-        "oppose_en": "Critics counter that one teenager's medal cannot justify diverting resources away from mainstream sports with wider participation.",
-        "oppose_zh": "批評者則反駁，單一名青少年的獎牌並不能合理化將資源從參與人數更廣的主流運動中調走。",
-        "oppose_hl": "cannot justify diverting resources",
-        "vocab5": [
-          {"en": "medal debut", "zh": "首次設獎"},
-          {"en": "grassroots development", "zh": "草根培訓"},
-          {"en": "narrow margin of victory", "zh": "些微的勝出差距"},
-          {"en": "resource allocation", "zh": "資源分配"},
-          {"en": "underdog triumph", "zh": "以弱勝強"}
-        ],
-        "question_en": "Should Hong Kong invest more public money in niche sports like wushu after a single breakthrough medal?",
-        "question_zh": "在單一突破性獎牌後，香港應否投放更多公共資源於武術等冷門運動？",
-        "question_hl": "invest more public money in niche sports"
-      },
-      "cover_text": {
-        "zh_kicker": "青奧金牌",
-        "zh_title": ["武術奪金", "香港首金"],
-        "zh_hl": "首金",
-        "zh_sub": "青奧武術首次設獎",
-        "en": "Hong Kong teen wins first-ever Youth Olympic gold in wushu."
-      },
-      "vocab": [
-        {"phrase": "flag-bearer", "zh": "持旗手", "sample": "As the Games' flag-bearer, Poon felt an added sense of responsibility before stepping onto the mat."},
-        {"phrase": "taijiquan", "zh": "太極拳", "sample": "Taijiquan combines slow, controlled movements with rigorous technical precision, making it a demanding discipline to judge."},
-        {"phrase": "scoring panel", "zh": "評分小組", "sample": "The scoring panel reviewed the routine frame by frame before finalising the razor-thin result."},
-        {"phrase": "medal pathway", "zh": "奪牌路徑", "sample": "Officials hope wushu's Olympic medal pathway will attract more young athletes to the sport."},
-        {"phrase": "training regimen", "zh": "訓練方案", "sample": "His coach credited an intensified training regimen for sharpening his form just in time for the final."},
-        {"phrase": "personal-best routine", "zh": "個人最佳表現", "sample": "Coaches said Poon's personal-best routine on the day was the tightest he had ever delivered under pressure."},
-        {"phrase": "sports pipeline", "zh": "體育人才梯隊", "sample": "Investment in a youth sports pipeline is seen as essential if Hong Kong wants to repeat this success."},
-        {"phrase": "competitive debut", "zh": "首次參賽", "sample": "Tuesday's final was Poon's competitive debut at Youth Olympic level, despite his earlier world championship medals."},
-        {"phrase": "acclimatise", "zh": "適應環境", "sample": "Athletes often need several days to acclimatise to a host city's climate before competing at their best."},
-        {"phrase": "break new ground", "zh": "開創新里程", "sample": "Poon's gold medal allowed Hong Kong to break new ground at a Games where it had never before topped the podium."},
-        {"phrase": "narrow victory margin", "zh": "些微勝出差距", "sample": "A narrow victory margin of 0.028 points separated gold from silver in the men's taijiquan final."},
-        {"phrase": "elite athlete funding", "zh": "精英運動員資助", "sample": "Campaigners are calling for expanded elite athlete funding for sports outside the traditional medal table favourites."}
-      ],
-      "phrases": [
-        {"en": "a watershed moment for the sport", "zh": "該項運動的分水嶺", "sample": "Local coaches described the victory as a watershed moment for the sport in Hong Kong."},
-        {"en": "translate grassroots success into elite results", "zh": "將草根成功轉化為精英成績", "sample": "The federation now faces pressure to translate grassroots success into elite results on a larger scale."},
-        {"en": "level the playing field for minority sports", "zh": "為非主流運動創造公平競爭環境", "sample": "Advocates say more funding would level the playing field for minority sports like wushu."},
-        {"en": "capitalise on a breakthrough performance", "zh": "乘勢把握突破性表現帶來的機遇", "sample": "The Sports Federation is keen to capitalise on a breakthrough performance to recruit new talent."},
-        {"en": "shoulder the weight of expectation", "zh": "肩負外界的期望", "sample": "As flag-bearer, Poon had to shoulder the weight of expectation before he had even competed."},
-        {"en": "a single result cannot sustain an entire sport", "zh": "單一成績難以支撐整項運動的發展", "sample": "Critics warn that a single result cannot sustain an entire sport without structural investment."},
-        {"en": "diversify the medal table", "zh": "令獎牌分布更多元化", "sample": "Officials hope niche disciplines will help diversify the medal table at future Games."},
-        {"en": "justify continued public investment", "zh": "證明持續公共投資的必要性", "sample": "A headline-grabbing medal alone may not justify continued public investment in a minority sport."},
-        {"en": "nurture talent from a young age", "zh": "從小培育人才", "sample": "Hong Kong's sports bodies are under pressure to nurture talent from a young age across more disciplines."},
-        {"en": "set a precedent for future generations", "zh": "為後輩樹立先例", "sample": "Winning Hong Kong's first Youth Olympic gold sets a precedent for future generations of wushu athletes."},
-        {"en": "a narrow escape from disappointment", "zh": "僅僅避過令人失望的結果", "sample": "At 0.028 points, the win was arguably a narrow escape from disappointment for the Hong Kong camp."},
-        {"en": "convert potential into podium success", "zh": "將潛質轉化為獎牌成績", "sample": "Coaches say the next challenge is converting potential into podium success across the whole wushu squad."}
-      ]
+     "phrase": "vehicle-ramming attack",
+     "zh": "車輛衝撞襲擊",
+     "sample": "Security experts warned that a crowded pedestrian precinct without physical barriers remains highly vulnerable to a vehicle-ramming attack."
     },
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/arts-and-culture/article/347205/Tai-Kok-Tsui-Temple-Fair-brings-180000-together-for-a-full-day-of-cultural-heritage",
-      "published_date": "2 November 2026",
-      "headline": "Tai Kok Tsui Temple Fair Draws Record 180,000 in 20th-Anniversary Celebration",
-      "category": "hk",
-      "summary_html": "<p>More than 180,000 people packed the streets of Tai Kok Tsui on Sunday for the twentieth edition of the district's <span class=\"bw\">long-running temple fair<span class=\"tip\"><span class=\"tip-en\">a traditional festival held regularly over many years</span><span class=\"tip-zh\">歷史悠久的廟會</span></span></span>, organised by the Mong Kok Kaifong Association with backing from property developer Sino Group. Held under the theme \"Temple Fair Brings People Together, Culture Converges in Hong Kong,\" the one-day event centred on the Fuk Tsun Street shrine dedicated to Hung Shing, <span class=\"bw\">a sea god<span class=\"tip\"><span class=\"tip-en\">a deity associated with the sea, worshipped by fishing communities</span><span class=\"tip-zh\">海神</span></span></span> traditionally honoured by fishing communities, and combined a morning procession with an evening of performance and spectacle.</p><p>The day's programme ran from <span class=\"bw\">a grand parade<span class=\"tip\"><span class=\"tip-en\">a large, impressive public procession</span><span class=\"tip-zh\">盛大巡遊</span></span></span> through the neighbourhood's narrow streets at dawn to an eighteen-strong southern lion dance performed on <span class=\"bw\">raised poles<span class=\"tip\"><span class=\"tip-en\">elevated poles used as a performance platform</span><span class=\"tip-zh\">高樁</span></span></span> at dusk, a feat demanding considerable balance and nerve from performers. Crowds were further drawn by complimentary poon choi, <span class=\"bw\">a layered communal stew<span class=\"tip\"><span class=\"tip-en\">a shared dish cooked in stacked layers of ingredients</span><span class=\"tip-zh\">多層共享盆菜</span></span></span> traditionally eaten during festive gatherings, distributed free of charge throughout the afternoon, while Sino Group laid on shuttle buses from nearby Olympian City to <span class=\"bw\">ease the crush of visitors<span class=\"tip\"><span class=\"tip-en\">reduce overcrowding caused by many visitors</span><span class=\"tip-zh\">緩解人潮擁擠</span></span></span> converging on the narrow district.</p><p>As dusk fell, attention turned to Fuk Tsun Street itself, where a 500-foot illuminated dragon wound its way above a sea of floating fish lanterns, bringing the day-long celebration to a close. Organisers said the fair's growing popularity reflected <span class=\"bw\">a renewed appetite<span class=\"tip\"><span class=\"tip-en\">a fresh or rekindled desire for something</span><span class=\"tip-zh\">重新燃起的興趣</span></span></span> among Hongkongers, young and old, for <span class=\"bw\">communal rituals<span class=\"tip\"><span class=\"tip-en\">shared traditional practices performed together as a community</span><span class=\"tip-zh\">社區共同習俗</span></span></span> rooted in the city's fishing-village past, even as the surrounding neighbourhood has been transformed by decades of redevelopment into dense residential towers.</p>",
-      "summary_zh_html": "<p>逾十八萬人星期日湧到大角咀街頭，參與由旺角街坊會主辦、地產發展商信和集團支持的第二十屆<span class=\"bwz\">歷史悠久的廟會</span>。活動以「廟會凝聚人心　文化匯聚香江」為主題，圍繞福全街供奉<span class=\"bwz\">海神</span>洪聖的廟宇舉行，洪聖傳統上為漁民社群所敬奉，整日活動由早上巡遊展開，直至晚間的表演及盛大場面。</p><p>當日節目由黎明時份穿梭社區狹窄街道的<span class=\"bwz\">盛大巡遊</span>開始，至黃昏時份十八頭南獅在<span class=\"bwz\">高樁</span>上表演作結，考驗表演者相當的平衡力及膽量。免費派發的盆菜——一種節慶場合常見的<span class=\"bwz\">多層共享盆菜</span>——亦吸引大批人潮，整個下午免費供應；信和集團另安排來往鄰近奧海城的接駁巴士，以<span class=\"bwz\">緩解人潮擁擠</span>湧向這個狹窄社區的情況。</p><p>入夜後，目光轉向福全街本身，一條長五百尺的巨龍燈飾在一片魚形花燈之上蜿蜒遊動，為一整日的慶典畫上句號。主辦方表示，廟會日益高漲的人氣，反映港人不論老幼，對植根於本港漁村歷史的傳統<span class=\"bwz\">重新燃起興趣</span>，渴望參與這類<span class=\"bwz\">社區共同習俗</span>，即使周邊社區歷經數十年重建，早已變成密集的住宅大廈林立之地。</p>",
-      "image_scene": "A sunlit Hong Kong street in Tai Kok Tsui crowded with families and elderly residents watching a lion dance troupe perform on tall raised poles outside a small traditional temple decorated with red lanterns and incense smoke; food stalls and distant residential towers in the background, no readable signage.",
-      "slides": {
-        "topic_en": "Tai Kok Tsui's Record-Breaking Temple Fair",
-        "background_en": "The 20th Tai Kok Tsui Temple Fair drew a record 180,000 visitors with parades, poon choi and a giant LED dragon.",
-        "background_zh": "第二十屆大角咀廟會以巡遊、盆菜及巨型LED龍燈，吸引創紀錄的十八萬名市民參與。",
-        "background_hl": "a record 180,000 visitors",
-        "analysis_en": "The fair's huge turnout raises questions about whether traditional festivals can keep attracting young Hongkongers in a fast-modernising city.",
-        "analysis_zh": "廟會的龐大人流，令人反思在急速現代化的城市中，傳統節慶能否持續吸引年輕一代香港人。",
-        "analysis_hl": "keep attracting young Hongkongers",
-        "support_en": "Supporters say such fairs preserve disappearing fishing-village customs and strengthen neighbourhood bonds across generations.",
-        "support_zh": "支持者認為，這類廟會有助保存日漸消失的漁村習俗，並加強跨代鄰里之間的聯繫。",
-        "support_hl": "preserve disappearing fishing-village customs",
-        "oppose_en": "Sceptics argue commercial sponsorship has turned a sacred ritual into little more than a branded marketing spectacle.",
-        "oppose_zh": "批評者則認為，商業贊助已令這項神聖的宗教儀式，淪為一場品牌化的市場推廣活動。",
-        "oppose_hl": "turned a sacred ritual into",
-        "vocab5": [
-          {"en": "intangible heritage", "zh": "非物質文化遺產"},
-          {"en": "communal feast", "zh": "社區共膳"},
-          {"en": "commercial sponsorship", "zh": "商業贊助"},
-          {"en": "neighbourhood cohesion", "zh": "鄰里凝聚力"},
-          {"en": "cultural continuity", "zh": "文化傳承"}
-        ],
-        "question_en": "Can commercially sponsored festivals still count as authentic cultural heritage?",
-        "question_zh": "由商業贊助的節慶活動，仍能算是地道的文化遺產嗎？",
-        "question_hl": "commercially sponsored festivals"
-      },
-      "cover_text": {
-        "zh_kicker": "大角咀廟會",
-        "zh_title": ["廟會爆棚", "十八萬人"],
-        "zh_hl": "十八萬人",
-        "zh_sub": "廟會辦足二十年",
-        "en": "180,000 flock to Tai Kok Tsui's 20th temple fair."
-      },
-      "vocab": [
-        {"phrase": "kaifong association", "zh": "街坊會", "sample": "The kaifong association has organised the neighbourhood's temple fair every year since it began two decades ago."},
-        {"phrase": "patron deity", "zh": "守護神", "sample": "Hung Shing is worshipped across Hong Kong as a patron deity of fishing and coastal communities."},
-        {"phrase": "lion dance troupe", "zh": "醒獅團", "sample": "A lion dance troupe performed daring stunts on raised poles to the delight of the crowd."},
-        {"phrase": "communal feast", "zh": "社區共膳", "sample": "The free poon choi was more than a meal; it was a communal feast meant to bring neighbours together."},
-        {"phrase": "folk custom", "zh": "民間習俗", "sample": "The parade preserves a folk custom that predates the district's transformation into a residential hub."},
-        {"phrase": "custodian of tradition", "zh": "傳統的守護者", "sample": "The kaifong association sees itself as a custodian of tradition in a district reshaped by redevelopment."},
-        {"phrase": "corporate sponsorship", "zh": "企業贊助", "sample": "Corporate sponsorship from a major developer helped fund the free shuttle buses and food stalls."},
-        {"phrase": "intergenerational bonding", "zh": "跨代聯繫", "sample": "Organisers describe the fair as a rare chance for intergenerational bonding in a fast-changing district."},
-        {"phrase": "densely built-up district", "zh": "高密度社區", "sample": "The fair now unfolds in a densely built-up district almost unrecognisable from its fishing-village origins."},
-        {"phrase": "ceremonial procession", "zh": "祭典巡遊", "sample": "The ceremonial procession wound through narrow streets lined with onlookers from early morning."},
-        {"phrase": "cultural authenticity", "zh": "文化地道性", "sample": "Some residents question the cultural authenticity of a festival now reliant on corporate funding."},
-        {"phrase": "grassroots festival", "zh": "草根節慶", "sample": "What began as a modest grassroots festival now draws crowds rivalling major citywide events."}
-      ],
-      "phrases": [
-        {"en": "straddle tradition and commerce", "zh": "在傳統與商業之間取得平衡", "sample": "The fair has to straddle tradition and commerce without losing its original spiritual meaning."},
-        {"en": "anchor a sense of belonging", "zh": "鞏固社區的歸屬感", "sample": "Such festivals help anchor a sense of belonging among residents of a rapidly changing district."},
-        {"en": "keep ritual practices alive", "zh": "延續祭祀習俗", "sample": "Volunteers work year-round to keep ritual practices alive for the next generation."},
-        {"en": "draw crowds beyond the immediate neighbourhood", "zh": "吸引鄰近社區以外的人流", "sample": "Word of the giant dragon display has started to draw crowds beyond the immediate neighbourhood."},
-        {"en": "risk diluting a festival's original meaning", "zh": "有可能稀釋節慶原有的意義", "sample": "Heavy sponsorship can risk diluting a festival's original meaning if not managed carefully."},
-        {"en": "rely on volunteer manpower", "zh": "依賴義工人力", "sample": "Like many grassroots festivals, the fair still relies on volunteer manpower to run smoothly."},
-        {"en": "bridge the gap between generations", "zh": "彌合代際之間的差距", "sample": "Grandparents teaching grandchildren the parade's significance helps bridge the gap between generations."},
-        {"en": "outgrow its original scale", "zh": "規模超越最初的設想", "sample": "What started as a small local gathering has since outgrown its original scale entirely."},
-        {"en": "weather decades of urban change", "zh": "經歷數十年的城市變遷而不衰", "sample": "Few local customs have managed to weather decades of urban change as successfully as this fair."},
-        {"en": "repurpose a sacred site for public celebration", "zh": "將宗教場所重新用於公眾慶典", "sample": "The temple grounds are repurposed for public celebration just once a year, on this single day."},
-        {"en": "lend logistical support", "zh": "提供後勤支援", "sample": "A property developer chose to lend logistical support rather than simply donate money."},
-        {"en": "safeguard a vanishing way of life", "zh": "保護逐漸消逝的生活方式", "sample": "Fishing-village rituals like this one safeguard a vanishing way of life within a dense modern city."}
-      ]
+     "phrase": "public-safety infrastructure",
+     "zh": "公共安全設施",
+     "sample": "Officials insisted that the new bollards should be seen as essential public-safety infrastructure rather than an unnecessary expense."
     },
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/education/article/3373350/hong-kong-primary-three-pupils-maths-competency-hits-all-time-low",
-      "published_date": "5 November 2026",
-      "headline": "Hong Kong Primary Three Pupils' Maths Skills Hit All-Time Low, Even as English Soars",
-      "category": "school",
-      "summary_html": "<p>Hong Kong's Primary Three pupils recorded their worst-ever performance in basic mathematics this year, according to results from the territory-wide System Assessment released on Thursday, even as their English results climbed to a fresh record. Only 84.7 per cent of pupils met the required <span class=\"bw\">basic competency<span class=\"tip\"><span class=\"tip-en\">the minimum level of skill considered acceptable</span><span class=\"tip-zh\">基本能力水平</span></span></span> threshold in maths, a drop of 0.7 percentage points from last year and the lowest reading since the assessment was introduced in 2004. English, by contrast, posted its strongest showing yet, with 86.3 per cent of pupils reaching the benchmark, a jump of 3.1 points that comfortably <span class=\"bw\">eclipsed<span class=\"tip\"><span class=\"tip-en\">surpassed or exceeded by a large amount</span><span class=\"tip-zh\">大幅超越</span></span></span> the previous high set only last year.</p><p>This year's assessment, which tested only Primary Three and Secondary Three students, is designed to <span class=\"bw\">flag<span class=\"tip\"><span class=\"tip-en\">identify or draw attention to a problem</span><span class=\"tip-zh\">識別</span></span></span> pupils falling behind in core subjects rather than to rank schools, and officials were quick to stress that the figures \"remained stable\" overall and broadly matched patterns seen in previous years. Education experts were less reassured about the mathematics figures specifically, suggesting the <span class=\"bw\">slide<span class=\"tip\"><span class=\"tip-en\">a gradual decline in performance</span><span class=\"tip-zh\">下滑</span></span></span> may be a lingering consequence of pandemic-era disruption to classroom routines, with some pupils' study habits and <span class=\"bw\">intrinsic motivation<span class=\"tip\"><span class=\"tip-en\">an inner drive to do something for its own sake</span><span class=\"tip-zh\">內在動機</span></span></span> for numerical subjects never fully recovering even years after schools reopened.</p><p>The <span class=\"bw\">divergence<span class=\"tip\"><span class=\"tip-en\">a difference or split between two things</span><span class=\"tip-zh\">分歧</span></span></span> between the two subjects has puzzled some educators, who note that English teaching has benefited from targeted <span class=\"bw\">remedial support<span class=\"tip\"><span class=\"tip-en\">extra help given to struggling learners</span><span class=\"tip-zh\">補救支援</span></span></span> and increased exposure through digital media, while mathematics instruction has seen comparatively little structural reform. Parent groups have called on the Education Bureau to commission a fuller review of <span class=\"bw\">numeracy<span class=\"tip\"><span class=\"tip-en\">the ability to understand and work with numbers</span><span class=\"tip-zh\">數字能力</span></span></span> teaching methods, warning that early gaps in mathematical foundations tend to <span class=\"bw\">compound<span class=\"tip\"><span class=\"tip-en\">become worse over time by accumulating</span><span class=\"tip-zh\">累積惡化</span></span></span> as pupils progress through the curriculum, making early intervention far more cost-effective than remedial teaching later on.</p>",
-      "summary_zh_html": "<p>根據星期四公布的全港性系統評估結果，香港小三學生今年的基本數學能力錄得歷來最差成績，與此同時，英文成績卻攀上新高。僅84.7%學生達到數學科的<span class=\"bwz\">基本能力水平</span>要求，較去年下跌0.7個百分點，為該評估自二零零四年推行以來的最低紀錄。相比之下，英文科表現則錄得歷來最佳成績，86.3%學生達標，較去年上升3.1個百分點，輕易<span class=\"bwz\">大幅超越</span>去年才剛創下的紀錄。</p><p>今年的評估只涵蓋小三及中三學生，目的是<span class=\"bwz\">識別</span>學習進度落後於核心科目的學生，而非為學校排名；官方強調，整體數字「維持穩定」，與過往年度的模式大致相符。不過，教育專家對數學科的數字則未敢過於樂觀，認為這次<span class=\"bwz\">下滑</span>可能是疫情期間課堂常規受擾所留下的後遺症，部分學生對數字科目的學習習慣及<span class=\"bwz\">內在動機</span>，即使學校復課多年後仍未完全恢復。</p><p>兩科成績之間的<span class=\"bwz\">分歧</span>令部分教育界人士感到困惑，他們指出英文科教學近年得益於針對性的<span class=\"bwz\">補救支援</span>，以及數碼媒體帶來的更多接觸機會，但數學科教學卻鮮有結構性改革。家長團體要求教育局就<span class=\"bwz\">數字能力</span>教學方法展開全面檢討，並警告數學基礎上的早期落差，隨著學生升級會不斷<span class=\"bwz\">累積惡化</span>，故此早期介入遠比日後補課更具成本效益。</p>",
-      "image_scene": "A Hong Kong primary school classroom seen from the back, rows of anonymous young pupils in uniform bent over worksheets with pencils, a teacher pointing at a whiteboard covered in number problems, sunlight through window blinds, no visible text or logos on display.",
-      "slides": {
-        "topic_en": "Hong Kong's Maths Scores Hit a Record Low",
-        "background_en": "Hong Kong's Primary Three pupils scored an all-time low in basic maths this year, even as English hit a record high.",
-        "background_zh": "香港小三學生今年的基本數學能力創歷史新低，但英文科卻同時創出歷史新高。",
-        "background_hl": "an all-time low in basic maths",
-        "analysis_en": "The gap between falling maths results and rising English scores raises questions about how subjects recover unevenly after the pandemic.",
-        "analysis_zh": "數學成績下滑與英文成績上升之間的差距，令人反思各科在疫情後的復常步伐為何並不一致。",
-        "analysis_hl": "falling maths results and rising English scores",
-        "support_en": "Some argue the drop reflects deeper pandemic-era learning loss that demands urgent, targeted government intervention in maths teaching.",
-        "support_zh": "有意見認為，成績下滑反映疫情帶來更深層的學習損失，教育局應就數學教學作出迫切而針對性的介入。",
-        "support_hl": "pandemic-era learning loss",
-        "oppose_en": "Others insist a single year's dip is statistically unremarkable and warn against overreacting with disruptive curriculum changes.",
-        "oppose_zh": "另一些人則認為，單一年度的輕微下滑在統計上並不足為奇，不應因此倉卒進行具破壞性的課程改動。",
-        "oppose_hl": "statistically unremarkable",
-        "vocab5": [
-          {"en": "learning loss", "zh": "學習損失"},
-          {"en": "curriculum reform", "zh": "課程改革"},
-          {"en": "benchmark assessment", "zh": "基準評估"},
-          {"en": "early intervention", "zh": "早期介入"},
-          {"en": "academic resilience", "zh": "學業韌性"}
-        ],
-        "question_en": "Should Hong Kong overhaul primary maths teaching after one disappointing assessment, or wait for more data?",
-        "question_zh": "香港應否在單一次令人失望的評估後，大幅改革小學數學教學，還是應等待更多數據？",
-        "question_hl": "overhaul primary maths teaching"
-      },
-      "cover_text": {
-        "zh_kicker": "小三數學",
-        "zh_title": ["數學見新低", "英文創新高"],
-        "zh_hl": "新低",
-        "zh_sub": "教育局稱整體穩定",
-        "en": "Hong Kong pupils' maths scores hit record low."
-      },
-      "vocab": [
-        {"phrase": "territory-wide assessment", "zh": "全港性評估", "sample": "The territory-wide assessment is meant to flag struggling pupils, not to rank schools against each other."},
-        {"phrase": "numeracy skills", "zh": "數字能力", "sample": "Falling numeracy skills among young pupils have alarmed parents and educators alike."},
-        {"phrase": "pandemic-era disruption", "zh": "疫情期間的干擾", "sample": "Years of pandemic-era disruption to classroom routines may still be affecting how children learn maths."},
-        {"phrase": "study habits", "zh": "學習習慣", "sample": "Teachers say many pupils' study habits never fully recovered after years of online learning."},
-        {"phrase": "remedial teaching", "zh": "補救教學", "sample": "Remedial teaching sessions have been credited with helping lift English scores to a record high."},
-        {"phrase": "foundational skills", "zh": "基礎技能", "sample": "Weak foundational skills in early primary years tend to resurface as bigger problems in secondary school."},
-        {"phrase": "classroom routine", "zh": "課堂常規", "sample": "Restoring a stable classroom routine has taken longer for some subjects than others."},
-        {"phrase": "cost-effective intervention", "zh": "具成本效益的介入", "sample": "Experts argue early, cost-effective intervention is far cheaper than remedial classes years later."},
-        {"phrase": "subject-specific recovery", "zh": "個別科目的復常情況", "sample": "The data suggests subject-specific recovery from pandemic disruption has been very uneven."},
-        {"phrase": "benchmark threshold", "zh": "基準門檻", "sample": "Pupils falling below the benchmark threshold are typically referred for extra support."},
-        {"phrase": "digital exposure", "zh": "數碼媒體接觸", "sample": "Greater digital exposure to English-language content may partly explain the subject's rising scores."},
-        {"phrase": "academic underperformance", "zh": "學業表現未如理想", "sample": "Persistent academic underperformance in one subject can discourage pupils from engaging with it at all."}
-      ],
-      "phrases": [
-        {"en": "gloss over a widening skills gap", "zh": "掩飾不斷擴大的技能差距", "sample": "Officials calling the results 'stable' risk glossing over a widening skills gap in numeracy."},
-        {"en": "widen an existing attainment gap", "zh": "擴大現存的學習差距", "sample": "Left unaddressed, the decline could widen an existing attainment gap between stronger and weaker pupils."},
-        {"en": "shift blame onto pandemic disruption", "zh": "將責任歸咎於疫情造成的干擾", "sample": "It is tempting to shift blame onto pandemic disruption rather than examine teaching methods directly."},
-        {"en": "front-load support in early primary years", "zh": "在小學低年級階段提早投放支援", "sample": "Experts recommend front-loading support in early primary years before gaps become harder to close."},
-        {"en": "read too much into a single data point", "zh": "過度解讀單一數據", "sample": "Statisticians caution against reading too much into a single data point from one year's cohort."},
-        {"en": "erode pupils' confidence in a subject", "zh": "削弱學生對該科目的信心", "sample": "Repeated low scores can erode pupils' confidence in a subject long before exams even matter."},
-        {"en": "recalibrate teaching priorities", "zh": "重新調整教學重點", "sample": "The Education Bureau may need to recalibrate teaching priorities between literacy and numeracy."},
-        {"en": "mask uneven progress across subjects", "zh": "掩蓋各科進度不均的情況", "sample": "An overall 'stable' verdict can mask uneven progress across subjects that parents actually care about."},
-        {"en": "compound over successive school years", "zh": "隨著學年遞增而不斷累積", "sample": "Small early gaps in maths tend to compound over successive school years if left unchecked."},
-        {"en": "calibrate resources to where they are needed most", "zh": "將資源調配至最需要的地方", "sample": "Schools are being urged to calibrate resources to where they are needed most, rather than spread thinly."},
-        {"en": "outpace reforms already under way", "zh": "超前於已經推行的改革步伐", "sample": "Some fear pupils' struggles are outpacing reforms already under way in the maths curriculum."},
-        {"en": "treat test scores as an early warning sign", "zh": "將測試成績視為早期警號", "sample": "Parents want the government to treat test scores as an early warning sign rather than a one-off blip."}
-      ]
+     "phrase": "crowd-flow data",
+     "zh": "人流數據",
+     "sample": "The district councillor asked the government to release detailed crowd-flow data before finalising the bollard project."
     },
     {
-      "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/insights/article/347380/M-partnership-with-MoMA-Centre-Pompidou-marks-cultural-exchange-milestone-Cultural-Exchange-Bernard-Charnwut-Chan",
-      "published_date": "4 November 2026",
-      "headline": "M+ Forges Historic Three-Way Alliance with MoMA and Centre Pompidou",
-      "category": "arts",
-      "summary_html": "<p>Hong Kong's M+ museum has entered a landmark three-way alliance with New York's Museum of Modern Art and Paris's Centre Pompidou, in an agreement signed on 30 October that <span class=\"bw\">cements<span class=\"tip\"><span class=\"tip-en\">firmly establishes or secures</span><span class=\"tip-zh\">鞏固</span></span></span> the five-year-old institution's standing among the world's leading contemporary art museums. The deal, signed by the directors of all three institutions, provides for shared exhibitions, long-term loans, joint programming and closer cooperation on <span class=\"bw\">curatorial research<span class=\"tip\"><span class=\"tip-en\">scholarly work behind selecting and presenting museum collections</span><span class=\"tip-zh\">策展研究</span></span></span> and conservation, while each museum formally <span class=\"bw\">retains<span class=\"tip\"><span class=\"tip-en\">keeps or continues to hold</span><span class=\"tip-zh\">保留</span></span></span> its own independence and identity.</p><p>The partnership builds on bilateral ties struck separately in recent years: M+ signed a memorandum of understanding with MoMA in February last year, and a strategic partnership with Centre Pompidou in May this year, itself rooted in a 2024 agreement between the two institutions. Under the new three-way arrangement, Centre Pompidou-developed exhibitions will begin arriving in West Kowloon next year, a joint Kandinsky exhibition has already been <span class=\"bw\">pencilled in<span class=\"tip\"><span class=\"tip-en\">tentatively scheduled, subject to confirmation</span><span class=\"tip-zh\">初步排定</span></span></span> for 2028, and MoMA plans to open a dedicated gallery for M+'s collection, with major works arriving on long-term loan from late 2027.</p><p>Together, the three institutions <span class=\"bw\">command<span class=\"tip\"><span class=\"tip-en\">possess or control, especially something impressive</span><span class=\"tip-zh\">擁有</span></span></span> a combined annual audience of roughly ten million in-person visitors and 125 million more online, a scale that board chair Bernard Chan, writing in an opinion piece, described as proof of <span class=\"bw\">international confidence<span class=\"tip\"><span class=\"tip-en\">trust or belief shown by parties from around the world</span><span class=\"tip-zh\">國際信心</span></span></span> in the still-young Hong Kong museum. An eighteen-month rollout will progressively integrate seminal modern European and American works into M+'s own collection galleries, giving Hong Kong audiences <span class=\"bw\">unprecedented access<span class=\"tip\"><span class=\"tip-en\">a level of access never previously available</span><span class=\"tip-zh\">前所未有的參觀機會</span></span></span> to pieces previously seen mainly in New York or Paris, just as the museum approaches its fifth anniversary.</p>",
-      "summary_zh_html": "<p>香港M+博物館與紐約現代藝術博物館及巴黎龐比度中心達成具里程碑意義的三方聯盟，協議於十月三十日簽署，<span class=\"bwz\">鞏固</span>這家開館僅五年的機構在全球當代藝術博物館之中的地位。協議由三家機構的總監共同簽署，涵蓋聯合展覽、長期借展、聯合節目策劃，以及在<span class=\"bwz\">策展研究</span>及文物修復方面的更緊密合作，同時三方均正式<span class=\"bwz\">保留</span>各自的獨立性及身份。</p><p>此次夥伴關係建基於近年分別締結的雙邊協議之上：M+於去年二月與現代藝術博物館簽署合作備忘錄，並於今年五月與龐比度中心建立策略夥伴關係，該關係本身則源於二零二四年兩館之間的協議。在新的三方安排下，由龐比度中心策劃的展覽將於明年起陸續抵達西九龍，一項聯合康丁斯基展覽已<span class=\"bwz\">初步排定</span>於二零二八年舉行，而現代藝術博物館亦計劃開設專屬展廳展示M+藏品，相關重要作品將於二零二七年底起以長期借展形式運抵。</p><p>三家機構合計每年<span class=\"bwz\">擁有</span>約一千萬名實體到訪觀眾，以及多達一億二千五百萬人次的網上觀眾，西九文化區管理局董事局主席陳智思在一篇評論文章中形容，這個規模證明了國際社會對這家尚算年輕的香港博物館所展現的<span class=\"bwz\">國際信心</span>。為期十八個月的推展計劃，將逐步把具代表性的歐美現代藝術作品，融入M+本身的館藏展廊，令香港觀眾獲得<span class=\"bwz\">前所未有的參觀機會</span>，可一睹過往主要只能在紐約或巴黎展出的作品，時間恰好與博物館即將迎來五周年館慶相近。</p>",
-      "image_scene": "The glass-and-metal facade of the M+ museum building in West Kowloon at dusk, with Victoria Harbour and the city skyline behind it, small groups of anonymous visitors walking toward the entrance, no readable signage or logos, soft exterior lighting.",
-      "slides": {
-        "topic_en": "M+ Joins Forces with MoMA and Centre Pompidou",
-        "background_en": "Hong Kong's M+ signed a landmark three-way alliance with MoMA and Centre Pompidou for shared exhibitions and long-term loans.",
-        "background_zh": "香港M+與紐約現代藝術博物館及巴黎龐比度中心簽署具里程碑意義的三方聯盟，將共享展覽及長期借展。",
-        "background_hl": "a landmark three-way alliance",
-        "analysis_en": "The deal raises the question of whether such alliances strengthen Hong Kong's cultural standing or make M+ dependent on Western institutions.",
-        "analysis_zh": "這項協議令人反思，此類聯盟到底是鞏固香港的文化地位，還是令M+變得依賴西方機構。",
-        "analysis_hl": "strengthen Hong Kong's cultural standing",
-        "support_en": "Supporters say the partnership proves global confidence in M+ and gives local audiences rare access to world-class collections.",
-        "support_zh": "支持者認為，這項夥伴關係證明國際對M+的信心，並讓本地觀眾罕有地接觸世界級藏品。",
-        "support_hl": "proves global confidence in M+",
-        "oppose_en": "Critics worry the arrangement could overshadow homegrown Hong Kong and Asian art in favour of famous Western names.",
-        "oppose_zh": "批評者則擔心，這項安排或會令本地及亞洲藝術遭西方名家作品蓋過風頭。",
-        "oppose_hl": "overshadow homegrown Hong Kong",
-        "vocab5": [
-          {"en": "cultural diplomacy", "zh": "文化外交"},
-          {"en": "collection sharing", "zh": "藏品共享"},
-          {"en": "curatorial independence", "zh": "策展自主權"},
-          {"en": "soft power", "zh": "軟實力"},
-          {"en": "long-term loan", "zh": "長期借展"}
-        ],
-        "question_en": "Does partnering with Western museums strengthen or dilute Hong Kong's own cultural identity?",
-        "question_zh": "與西方博物館結盟，到底是鞏固還是稀釋香港自身的文化身份？",
-        "question_hl": "strengthen or dilute Hong Kong's own cultural identity"
-      },
-      "cover_text": {
-        "zh_kicker": "M+結盟",
-        "zh_title": ["三大館結盟", "藏品大融合"],
-        "zh_hl": "結盟",
-        "zh_sub": "紐約巴黎香港三方合作",
-        "en": "M+ forms historic alliance with MoMA and Centre Pompidou."
-      },
-      "vocab": [
-        {"phrase": "memorandum of understanding", "zh": "合作備忘錄", "sample": "The two museums first signed a memorandum of understanding before deepening ties into a full partnership."},
-        {"phrase": "permanent collection", "zh": "永久館藏", "sample": "Visitors will soon see pieces from MoMA's permanent collection displayed inside M+'s own galleries."},
-        {"phrase": "joint programming", "zh": "聯合節目策劃", "sample": "Joint programming between the three museums is expected to include shared lecture series and artist talks."},
-        {"phrase": "conservation expertise", "zh": "文物修復專業", "sample": "Pooling conservation expertise allows the museums to care for fragile works more effectively."},
-        {"phrase": "museum branding", "zh": "博物館品牌", "sample": "Each institution insists its own museum branding will remain untouched despite the new alliance."},
-        {"phrase": "flagship exhibition", "zh": "重點展覽", "sample": "A joint Kandinsky exhibition is being planned as a flagship exhibition for 2028."},
-        {"phrase": "global museum network", "zh": "全球博物館網絡", "sample": "The alliance positions M+ firmly within an elite global museum network."},
-        {"phrase": "art on loan", "zh": "借展作品", "sample": "Major works of art on loan from MoMA will arrive in West Kowloon from late 2027."},
-        {"phrase": "cross-institutional exchange", "zh": "跨機構交流", "sample": "Curators from all three museums will take part in regular cross-institutional exchange programmes."},
-        {"phrase": "cultural infrastructure", "zh": "文化基建", "sample": "The deal is seen as a vote of confidence in Hong Kong's broader cultural infrastructure."},
-        {"phrase": "blockbuster show", "zh": "重磅展覽", "sample": "Museum directors hope the partnership will produce at least one blockbuster show a year."},
-        {"phrase": "custodianship of art", "zh": "藝術品的保管責任", "sample": "Sharing custodianship of art across three cities raises new questions about insurance and transport."}
-      ],
-      "phrases": [
-        {"en": "punch above its weight on the world stage", "zh": "在國際舞台上發揮超越自身規模的影響力", "sample": "A five-year-old museum punching above its weight on the world stage is no small feat."},
-        {"en": "lend credibility to a young institution", "zh": "為年輕機構賦予可信度", "sample": "Partnering with MoMA and Centre Pompidou helps lend credibility to a young institution still finding its footing."},
-        {"en": "risk being overshadowed by bigger names", "zh": "有可能被更大型的機構蓋過風頭", "sample": "Local curators worry homegrown artists risk being overshadowed by bigger names from abroad."},
-        {"en": "broaden audiences' horizons", "zh": "拓闊觀眾的視野", "sample": "Bringing rarely seen European works to Hong Kong helps broaden audiences' horizons considerably."},
-        {"en": "anchor the city as a regional cultural hub", "zh": "鞏固本市作為區域文化樞紐的地位", "sample": "Officials hope the deal will further anchor the city as a regional cultural hub."},
-        {"en": "deepen ties beyond a single agreement", "zh": "將關係深化至不止一份協議", "sample": "The three-way alliance deepens ties beyond a single agreement signed years earlier."},
-        {"en": "safeguard curatorial independence", "zh": "維護策展自主權", "sample": "All three directors were careful to safeguard curatorial independence within the new structure."},
-        {"en": "showcase local talent alongside global icons", "zh": "讓本地人才與國際巨匠並列展出", "sample": "Future shows aim to showcase local talent alongside global icons rather than sideline it."},
-        {"en": "cement a museum's place among its peers", "zh": "鞏固博物館在同業之中的地位", "sample": "Few agreements cement a museum's place among its peers as quickly as this one."},
-        {"en": "open doors previously closed to local audiences", "zh": "為本地觀眾打開以往封閉的門戶", "sample": "Long-term loans open doors previously closed to local audiences who could not easily travel abroad."},
-        {"en": "hedge against over-reliance on one partner", "zh": "避免過度依賴單一夥伴", "sample": "Signing with two major institutions at once helps hedge against over-reliance on one partner."},
-        {"en": "elevate a city's standing in the art world", "zh": "提升一個城市在藝術界的地位", "sample": "Few single agreements elevate a city's standing in the art world as swiftly as this alliance."}
-      ]
+     "phrase": "pedestrian precinct",
+     "zh": "行人專區",
+     "sample": "Shoppers packed the pedestrian precinct outside the department store even as construction workers laboured behind temporary barriers."
+    },
+    {
+     "phrase": "streetscape",
+     "zh": "街景",
+     "sample": "Some residents fear that rows of steel bollards will permanently alter the neighbourhood's cherished streetscape."
+    },
+    {
+     "phrase": "bottleneck pedestrian flow",
+     "zh": "造成人流樽頸",
+     "sample": "Engineers were asked to redesign the barrier spacing so it would not bottleneck pedestrian flow during the evening rush."
+    },
+    {
+     "phrase": "mount the kerb",
+     "zh": "衝上路緣",
+     "sample": "The bollards are specifically designed to stop a vehicle from mounting the kerb and entering the crowded footpath."
+    },
+    {
+     "phrase": "hardening public spaces",
+     "zh": "強化公共空間的防護",
+     "sample": "Hardening public spaces against rare but deadly attacks inevitably comes at some cost to everyday convenience."
+    },
+    {
+     "phrase": "permanent bollard",
+     "zh": "永久欄柱",
+     "sample": "Four permanent bollards now stand outside the department store, with more construction planned further along the street."
+    },
+    {
+     "phrase": "disrupt daily deliveries",
+     "zh": "打擾日常送貨",
+     "sample": "A delivery worker complained that the new bollards would disrupt daily deliveries along the narrow pavement."
+    },
+    {
+     "phrase": "safety versus convenience",
+     "zh": "安全與便利的取捨",
+     "sample": "The bollard controversy reignited the old debate over safety versus convenience in Hong Kong's densest shopping streets."
+    },
+    {
+     "phrase": "worst-case scenario planning",
+     "zh": "最壞情況的規劃",
+     "sample": "Critics questioned whether worst-case scenario planning justified permanently narrowing one of the busiest footpaths in the city."
     }
-  ],
-  "trends": [
+   ],
+   "phrases": [
     {
-      "platforms": ["facebook"],
-      "headline": "🏠 Should You Queue Your Teen for Public Housing the Moment They Turn 18?",
-      "summary_html": "<p>A wave of Facebook posts asking whether parents should apply for public rental housing for their children the instant they turn eighteen has <span class=\"bw\">ignited fierce debate<span class=\"tip\"><span class=\"tip-en\">sparked intense disagreement or discussion</span><span class=\"tip-zh\">引發激烈爭論</span></span></span> this week in Hong Kong's close-knit property discussion groups. One father's post asking whether he should register his son for a single-person flat on his eighteenth birthday, purely to start the clock running, drew thousands of comments within hours, while a separate mother's query about whether to apply jointly or separately for her son sparked accusations of trying to <span class=\"bw\">game the system<span class=\"tip\"><span class=\"tip-en\">exploit rules unfairly to one's own advantage</span><span class=\"tip-zh\">鑽制度漏洞</span></span></span> twice over.</p><p>Under the Housing Authority's <span class=\"bw\">scoring mechanism<span class=\"tip\"><span class=\"tip-en\">a system that assigns points to rank applicants</span><span class=\"tip-zh\">計分機制</span></span></span>, non-elderly single applicants begin with zero points at eighteen and accumulate nine points for every additional year on the waiting list, meaning an early application can <span class=\"bw\">shave years off<span class=\"tip\"><span class=\"tip-en\">reduce a period of time by several years</span><span class=\"tip-zh\">縮短數年時間</span></span></span> an eventual wait that currently averages close to four years for priority cases but can stretch past a decade for others. Commenters were split between sympathy for families desperate to secure a foothold on the property ladder and scorn for what many branded <span class=\"bw\">queue-jumping<span class=\"tip\"><span class=\"tip-en\">unfairly moving ahead of others waiting in line</span><span class=\"tip-zh\">打尖搶先排隊</span></span></span>, with some mockingly sharing a <span class=\"bw\">fast-track timetable<span class=\"tip\"><span class=\"tip-en\">a schedule designed to achieve something more quickly than usual</span><span class=\"tip-zh\">快速通道時間表</span></span></span> for turning eighteen with multiple applications already lined up.</p>",
-      "summary_zh_html": "<p>一連串在Facebook發出的帖文，討論家長應否在子女剛滿十八歲時，立即為他們申請公屋單人單位，本星期在香港關係密切的置業討論群組之中<span class=\"bwz\">引發激烈爭論</span>。一名父親發帖問應否在兒子十八歲生日當天就為他登記單人公屋，純粹為了「開始計時」，數小時內已引來數千則留言；另一名母親則詢問應該為兒子單獨申請，還是與自己聯名申請，結果被網民指控是雙重<span class=\"bwz\">鑽制度漏洞</span>。</p><p>根據房屋委員會的<span class=\"bwz\">計分機制</span>，非長者一人申請者在十八歲時起分為零分，之後每多輪候一年可加九分，意味著提早申請可以<span class=\"bwz\">縮短數年時間</span>，而目前優先類別的平均輪候時間接近四年，其他個案則可能超過十年。網民意見兩極，一方同情渴望置業立足的家庭，另一方則斥之為<span class=\"bwz\">打尖搶先排隊</span>，部分人更戲謔地分享一張十八歲生日「已預先排好多重申請」的<span class=\"bwz\">快速通道時間表</span>。</p>",
-      "causes": [
-        {
-          "label": "Gaming a scarce resource meant for genuine need",
-          "label_zh": "鑽空子爭奪原本留給真正有需要人士的稀缺資源",
-          "text": "Public rental housing exists to shelter Hong Kong's most vulnerable residents, yet treating an eighteenth birthday as a strategic deadline risks turning a safety net into a long-term investment vehicle for families who already own private property, potentially pushing genuinely needy single applicants further down an already lengthy waiting list.",
-          "text_zh": "公屋原意是為本港最有需要的居民提供居所，但若將子女十八歲生日視為策略性的死線，恐怕會令這項安全網變成已經擁有私人物業家庭的長期投資工具，有可能令真正有迫切需要的單身申請者，在輪候隊伍中被進一步推後。"
-        },
-        {
-          "label": "A head start some families can afford and others cannot",
-          "label_zh": "部分家庭能負擔的優勢，其他家庭卻望塵莫及",
-          "text": "Only parents with the time, knowledge and confidence to navigate a complicated application system can plan a decade ahead for their child's housing; poorer or less-informed families may simply never learn that an early application exists, quietly widening the gap between households that already have resources and those still struggling without them.",
-          "text_zh": "只有具備時間、知識和信心應付繁複申請程序的家長，才能為子女的住屋問題提早十年部署；較貧困或資訊較少的家庭，可能根本從未得知有提早申請這個做法，無聲無息地拉闊本已擁有資源的家庭，與仍在苦苦掙扎的家庭之間的差距。"
-        },
-        {
-          "label": "A scoring system that rewards paperwork timing over real urgency",
-          "label_zh": "獎勵申請時機而非真正迫切需要的計分制度",
-          "text": "By awarding points purely for years spent waiting rather than for genuine housing need, the current scoring mechanism inadvertently incentivises families to file applications as early as legally possible, regardless of whether they actually require public housing soon, which arguably distorts the very purpose the points system was designed to serve.",
-          "text_zh": "現行計分機制純粹以輪候年期計分，而非按實際住屋需要評分，無意中鼓勵家庭盡早遞交申請，不論他們是否真的短期內需要公屋，此舉某程度上扭曲了計分制度原本設立的目的。"
-        },
-        {
-          "label": "The real problem is supply, not families gaming the queue",
-          "label_zh": "問題根源在於供應不足，而非個別家庭鑽空子",
-          "text": "Focusing public anger on individual families filing early applications distracts from the government's own failure to build enough flats; even without a single strategic application, waiting times would remain unacceptably long, so blaming anxious parents lets policymakers off the hook for decades of under-building relative to demand.",
-          "text_zh": "將公眾怒氣集中於個別家庭提早申請，反而掩蓋了政府本身未能興建足夠單位的失誤；即使沒有任何策略性申請，輪候時間仍會長得令人無法接受，將責任歸咎於焦慮的家長，只會讓政策制定者逃避數十年供應追不上需求的責任。"
-        }
-      ],
-      "vocab": [
-        {"phrase": "waiting list", "zh": "輪候名單", "sample": "Thousands of single applicants remain stuck on the public housing waiting list for years."},
-        {"phrase": "points-based system", "zh": "計分制度", "sample": "Hong Kong's points-based system for public housing rewards patience over proven urgency."},
-        {"phrase": "eligibility age", "zh": "合資格年齡", "sample": "Eighteen is the eligibility age at which a person can apply for public housing independently."},
-        {"phrase": "housing safety net", "zh": "房屋安全網", "sample": "Critics worry the housing safety net is being stretched by families who do not urgently need it."},
-        {"phrase": "strategic application", "zh": "策略性申請", "sample": "A strategic application filed the day a child turns eighteen can shave years off the eventual wait."},
-        {"phrase": "intergenerational wealth gap", "zh": "代際財富差距", "sample": "The debate has exposed an intergenerational wealth gap between families who can plan ahead and those who cannot."},
-        {"phrase": "housing supply shortfall", "zh": "房屋供應短缺", "sample": "Many commentators trace the whole controversy back to a persistent housing supply shortfall."},
-        {"phrase": "needs-based allocation", "zh": "按需要分配", "sample": "Public housing is meant to run on needs-based allocation, not a reward for early paperwork."},
-        {"phrase": "social media firestorm", "zh": "網絡輿論風暴", "sample": "The father's post triggered a swift social media firestorm from users who felt the strategy was unfair."},
-        {"phrase": "housing ladder", "zh": "置業階梯", "sample": "Some families see an early public housing application as the first rung on a longer housing ladder."}
-      ],
-      "phrases": [
-        {"en": "exploit a loophole without breaking any rule", "zh": "在不違規的情況下利用制度漏洞", "sample": "Technically, applying at eighteen exploits a loophole without breaking any rule at all."},
-        {"en": "crowd out applicants with more pressing needs", "zh": "排擠真正更迫切需要的申請者", "sample": "Early strategic applications risk crowding out applicants with more pressing needs."},
-        {"en": "normalise a once-frowned-upon tactic", "zh": "令一度被視為不當的策略變得普遍", "sample": "What was once whispered about has started to normalise a once-frowned-upon tactic among parents."},
-        {"en": "expose cracks in a decades-old points formula", "zh": "暴露存在數十年計分公式的漏洞", "sample": "The controversy has exposed cracks in a decades-old points formula few had questioned before."},
-        {"en": "pit genuine need against procedural advantage", "zh": "令真正需要與程序優勢互相對立", "sample": "The debate pits genuine need against procedural advantage in an already overstretched system."},
-        {"en": "shift the goalposts for future applicants", "zh": "為日後申請者改變遊戲規則", "sample": "If the authority tightens the rules now, it could shift the goalposts for future applicants overnight."},
-        {"en": "treat housing policy as a loophole to be gamed", "zh": "將房屋政策視為可鑽空子的對象", "sample": "Commentators warn against treating housing policy as a loophole to be gamed rather than a safety net."},
-        {"en": "deflect scrutiny away from the supply side", "zh": "將審視目光從供應問題上轉移", "sample": "Blaming individual families can deflect scrutiny away from the supply side of the housing crisis."},
-        {"en": "reward patience over proven hardship", "zh": "獎勵耐性而非已證明的困境", "sample": "A system that rewards patience over proven hardship will always invite this kind of strategic gaming."},
-        {"en": "spark a wider reckoning over housing fairness", "zh": "引發對房屋制度公平性更廣泛的反思", "sample": "A single viral post has managed to spark a wider reckoning over housing fairness across the city."}
-      ]
+     "en": "comes at the expense of",
+     "zh": "以...為代價",
+     "sample": "Residents worry that public safety now comes at the expense of the street's distinctive character."
+    },
+    {
+     "en": "strikes a balance between",
+     "zh": "在...之間取得平衡",
+     "sample": "Planners insist the final design strikes a balance between vehicle security and pedestrian comfort."
+    },
+    {
+     "en": "far from being a cosmetic gesture",
+     "zh": "絕非純粹的裝飾性姿態",
+     "sample": "Officials argue the bollards are far from being a cosmetic gesture and could genuinely save lives."
+    },
+    {
+     "en": "underscores the tension between",
+     "zh": "突顯...之間的張力",
+     "sample": "The dispute underscores the tension between hardening public spaces and keeping them welcoming."
+    },
+    {
+     "en": "a necessary evil",
+     "zh": "必要之惡",
+     "sample": "Some shoppers accept the bollards as a necessary evil in an increasingly unpredictable world."
+    },
+    {
+     "en": "disproportionate to the actual risk",
+     "zh": "與實際風險不成比例",
+     "sample": "Sceptics ask whether the HK$5 million outlay is disproportionate to the actual risk Causeway Bay faces."
+    },
+    {
+     "en": "erodes the everyday rhythm of",
+     "zh": "侵蝕...的日常節奏",
+     "sample": "A councillor warned the barriers could erode the everyday rhythm of one of the city's busiest streets."
+    },
+    {
+     "en": "a price worth paying for",
+     "zh": "值得付出的代價",
+     "sample": "For many residents, a little extra crowding is a price worth paying for peace of mind."
+    },
+    {
+     "en": "sets a worrying precedent",
+     "zh": "開創令人憂慮的先例",
+     "sample": "Civil liberties groups fear the project sets a worrying precedent for turning shopping streets into fortified zones."
+    },
+    {
+     "en": "warrants closer public scrutiny",
+     "zh": "值得公眾更仔細審視",
+     "sample": "A HK$5 million public-safety project of this scale warrants closer public scrutiny before it is finalised."
+    },
+    {
+     "en": "reflects a broader shift towards",
+     "zh": "反映更廣泛的轉向",
+     "sample": "The bollards reflect a broader shift towards hardening Hong Kong's most crowded public spaces."
+    },
+    {
+     "en": "ought to be weighed against",
+     "zh": "應該與...衡量比較",
+     "sample": "The cost of construction ought to be weighed against the disruption it causes to local shops."
     }
-  ]
+   ]
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372929/2-cleaning-firm-executives-charged-taking-hk75-million-bribes-supplier",
+   "published_date": "2 November 2026",
+   "headline": "ICAC Charges Two Former Cleaning Executives Over HK$75 Million in Alleged Bribes",
+   "category": "law",
+   "summary_html": "<p>Hong Kong's Independent Commission Against Corruption has <span class=\"bw\">laid charges against<span class=\"tip\"><span class=\"tip-en\">formally accused someone of a criminal offence</span><span class=\"tip-zh\">正式落案起訴</span></span></span> two former senior executives of Johnson Cleaning Services, accusing them of <span class=\"bw\">conspiring to accept<span class=\"tip\"><span class=\"tip-en\">secretly agreeing together to receive something improperly</span><span class=\"tip-zh\">串謀收受</span></span></span> more than HK$75 million in bribes from a vehicle supplier. William Fung Chi-wang, 54, a former director of the cleaning company and former chief executive of its Hong Kong-listed parent, and Jimmy Lee Sai-leung, 57, the firm's former general manager, both appeared in court this week to face the charges.</p><p>According to the prosecution's case, the alleged scheme centred on a single <span class=\"bw\">favoured supplier<span class=\"tip\"><span class=\"tip-en\">a business given preferential treatment over its rivals</span><span class=\"tip-zh\">獲優待的供應商</span></span></span> of cleaning vehicles. Between November 2024 and January 2026, Johnson Cleaning repeatedly bought entire fleets of vehicles from this one supplier and then routinely sent the same supplier all of its maintenance work, running up a <span class=\"bw\">cumulative expenditure<span class=\"tip\"><span class=\"tip-en\">a total amount spent, built up over a period of time</span><span class=\"tip-zh\">累計支出</span></span></span> of more than HK$160 million. Prosecutors allege the bribes were a direct reward for repeatedly showing <span class=\"bw\">undue favour<span class=\"tip\"><span class=\"tip-en\">improper or unfair preferential treatment</span><span class=\"tip-zh\">不當優待</span></span></span> to the supplier in the company's procurement decisions, with the supplier's own proprietor named among those who allegedly made the payments.</p><p>The case adds to a string of recent ICAC actions against the cleaning industry's <span class=\"bw\">procurement practices<span class=\"tip\"><span class=\"tip-en\">the processes and decisions involved in purchasing goods or services</span><span class=\"tip-zh\">採購做法</span></span></span>. In January, a separate investigation led to the arrest of fourteen people, including three staff members of the same listed group, over a distinct allegation involving roughly HK$18 million in bribes from three subcontractors. Corporate governance observers say the back-to-back cases <span class=\"bw\">lay bare<span class=\"tip\"><span class=\"tip-en\">expose or reveal clearly something previously hidden</span><span class=\"tip-zh\">徹底暴露</span></span></span> how easily a handful of senior staff can quietly steer a large company's spending toward favoured partners, and are pressing listed firms to tighten internal audit and whistle-blowing channels well beyond the cleaning sector.</p>",
+   "summary_zh_html": "<p>香港廉政公署已<span class=\"bwz\">正式落案起訴</span>兩名莊臣清潔服務的前任高層，指他們<span class=\"bwz\">串謀收受</span>一名車輛供應商合共超過7500萬港元的賄款。54歲的馮志弘為該清潔公司前董事，亦曾任其香港上市母公司行政總裁；57歲的李世良則為該公司前總經理，兩人本週同時出庭應訊。</p><p>根據檢方案情，涉案計劃集中於一間<span class=\"bwz\">獲優待的供應商</span>，專門供應清潔車輛。在二零二四年十一月至二零二六年一月期間，莊臣清潔多次向同一供應商整批購入車隊，並隨即將所有維修保養工作交予同一供應商，<span class=\"bwz\">累計支出</span>超過1.6億港元。檢方指控，該筆賄款正是對該公司在採購決策上一再向供應商作出<span class=\"bwz\">不當優待</span>的直接回報，而供應商本人亦被列為涉嫌付款人之一。</p><p>這宗案件接續近期廉政公署多宗針對清潔行業<span class=\"bwz\">採購做法</span>的行動。今年一月，另一宗獨立調查曾導致十四人被捕，包括同一上市集團的三名員工，涉及另一宗涉款約1800萬港元、來自三個分判商的賄款指控。企業管治觀察人士指出，接連出現的案件<span class=\"bwz\">徹底暴露</span>少數高層人員如何輕易將大企業的開支暗中導向獲優待的合作夥伴，促使上市公司在清潔行業以外亦須大幅收緊內部審計及舉報渠道。</p>",
+   "image_scene": "A plain grey government office building in Hong Kong under an overcast sky, a line of parked cleaning-service vans and trucks in an adjoining car park, an anonymous man in a business suit carrying a briefcase walking toward a courthouse entrance, a few anonymous passers-by in the distance, no readable signage or logos visible anywhere.",
+   "slides": {
+    "topic_en": "ICAC Bribery Charges in Cleaning Industry",
+    "background_en": "Hong Kong's ICAC has charged two former Johnson Cleaning executives with accepting over HK$75 million in bribes from a vehicle supplier.",
+    "background_zh": "香港廉政公署落案起訴兩名莊臣清潔前高層，指他們向一名車輛供應商收受逾7500萬港元賄款。",
+    "background_hl": "accepting over HK$75 million in bribes",
+    "analysis_en": "The case raises concerns about how easily senior staff can secretly steer a company's spending toward favoured suppliers.",
+    "analysis_zh": "案件引起關注，顯示高層人員可以何等輕易地暗中將公司開支導向獲優待的供應商。",
+    "analysis_hl": "secretly steer a company's spending",
+    "support_en": "Supporters of tougher enforcement say exposing such schemes protects shareholders and deters corruption across the whole industry.",
+    "support_zh": "支持加強執法的人士認為，揭露這類計劃能保障股東利益，並阻遏整個行業的貪污風氣。",
+    "support_hl": "exposing such schemes protects shareholders",
+    "oppose_en": "Critics counter that repeated prosecutions alone cannot fix weak internal audit systems that let the scheme run for over a year.",
+    "oppose_zh": "批評者則反駁，單靠一再提出檢控，無法修補讓計劃持續逾一年的薄弱內部審計制度。",
+    "oppose_hl": "weak internal audit systems",
+    "vocab5": [
+     {
+      "en": "kickback scheme",
+      "zh": "回佣計劃"
+     },
+     {
+      "en": "procurement decision",
+      "zh": "採購決策"
+     },
+     {
+      "en": "corporate governance",
+      "zh": "企業管治"
+     },
+     {
+      "en": "whistle-blowing channel",
+      "zh": "舉報渠道"
+     },
+     {
+      "en": "preferential treatment",
+      "zh": "優惠待遇"
+     }
+    ],
+    "question_en": "How can listed companies stop a small group of senior staff from quietly directing contracts to favoured suppliers?",
+    "question_zh": "上市公司應如何防止小部分高層人員，暗中將合約導向獲優待的供應商？",
+    "question_hl": "quietly directing contracts"
+   },
+   "cover_text": {
+    "zh_kicker": "清潔賄款",
+    "zh_title": [
+     "7500萬",
+     "賄款醜聞"
+    ],
+    "zh_hl": "7500萬",
+    "zh_sub": "兩名清潔公司前高層被控",
+    "en": "ICAC charges two former cleaning executives over HK$75 million bribes."
+   },
+   "vocab": [
+    {
+     "phrase": "conspire to accept bribes",
+     "zh": "串謀收受賄款",
+     "sample": "Prosecutors allege the two men conspired to accept bribes disguised as routine vehicle purchases."
+    },
+    {
+     "phrase": "favoured supplier",
+     "zh": "獲優待的供應商",
+     "sample": "Investigators found that one favoured supplier received almost every maintenance contract for two straight years."
+    },
+    {
+     "phrase": "cumulative expenditure",
+     "zh": "累計支出",
+     "sample": "The company's cumulative expenditure with the same supplier eventually topped HK$160 million."
+    },
+    {
+     "phrase": "undue favour",
+     "zh": "不當優待",
+     "sample": "The charges centre on repeated undue favour shown to one supplier over its competitors."
+    },
+    {
+     "phrase": "procurement practice",
+     "zh": "採購做法",
+     "sample": "Auditors were asked to review the firm's entire procurement practice after the allegations emerged."
+    },
+    {
+     "phrase": "internal audit",
+     "zh": "內部審計",
+     "sample": "A stronger internal audit system might have flagged the suspicious pattern of repeat orders far sooner."
+    },
+    {
+     "phrase": "whistle-blowing channel",
+     "zh": "舉報渠道",
+     "sample": "Staff said the company lacked a trusted whistle-blowing channel through which to raise early concerns."
+    },
+    {
+     "phrase": "corporate governance",
+     "zh": "企業管治",
+     "sample": "The scandal has reopened debate over corporate governance standards among Hong Kong's listed companies."
+    },
+    {
+     "phrase": "listed parent company",
+     "zh": "上市母公司",
+     "sample": "The accused executive once served as chief executive of the firm's listed parent company."
+    },
+    {
+     "phrase": "kickback",
+     "zh": "回佣",
+     "sample": "Investigators believe the kickback was paid in instalments tied to each new vehicle order."
+    },
+    {
+     "phrase": "exclusive maintenance contract",
+     "zh": "獨家維修合約",
+     "sample": "The supplier was granted an exclusive maintenance contract covering the company's entire vehicle fleet."
+    },
+    {
+     "phrase": "fleet procurement",
+     "zh": "車隊採購",
+     "sample": "Investigators are now combing through years of fleet procurement records at the listed company."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "runs counter to the principle of fair competition",
+     "zh": "違反公平競爭的原則",
+     "sample": "Awarding every contract to one favoured firm runs counter to the principle of fair competition."
+    },
+    {
+     "en": "erodes public trust in",
+     "zh": "侵蝕公眾對...的信任",
+     "sample": "Repeated bribery scandals erode public trust in how listed companies spend shareholders' money."
+    },
+    {
+     "en": "exploits a position of trust",
+     "zh": "利用受信任的職位謀私",
+     "sample": "Prosecutors argue the executives exploited a position of trust for personal gain."
+    },
+    {
+     "en": "falls short of basic governance standards",
+     "zh": "未達基本管治水平",
+     "sample": "Allowing one supplier to dominate every contract falls short of basic governance standards."
+    },
+    {
+     "en": "sends a chilling message to",
+     "zh": "向...發出令人不安的信息",
+     "sample": "The charges send a chilling message to any executive tempted to favour a paying supplier."
+    },
+    {
+     "en": "lies at the heart of the scandal",
+     "zh": "是這宗醜聞的核心所在",
+     "sample": "The exclusive vehicle-maintenance arrangement lies at the heart of the scandal."
+    },
+    {
+     "en": "demands far stronger oversight",
+     "zh": "需要遠為嚴格的監管",
+     "sample": "Analysts say the case demands far stronger oversight of procurement at listed firms."
+    },
+    {
+     "en": "a cautionary tale for",
+     "zh": "對...而言是一個警世故事",
+     "sample": "The prosecution serves as a cautionary tale for any company that lets one supplier run unchecked."
+    },
+    {
+     "en": "leaves shareholders footing the bill",
+     "zh": "令股東最終要承擔後果",
+     "sample": "Inflated maintenance contracts ultimately leave shareholders footing the bill for the alleged scheme."
+    },
+    {
+     "en": "calls into question the integrity of",
+     "zh": "令人質疑...的誠信",
+     "sample": "The charges call into question the integrity of the company's entire purchasing process."
+    },
+    {
+     "en": "a systemic failure rather than an isolated lapse",
+     "zh": "屬制度性失誤而非個別疏忽",
+     "sample": "Observers believe the scandal reflects a systemic failure rather than an isolated lapse by two individuals."
+    },
+    {
+     "en": "restores confidence in corporate accountability",
+     "zh": "重建對企業問責的信心",
+     "sample": "Swift prosecution, officials argue, helps restore confidence in corporate accountability."
+    }
+   ]
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373288/medical-watchdog-member-quits-represent-tin-yus-father-her-death-inquest",
+   "published_date": "6 November 2026",
+   "headline": "Medical Watchdog Member Resigns to Represent Grieving Father at Death Inquest",
+   "category": "health",
+   "summary_html": "<p>A lay member of Hong Kong's Medical Council has <span class=\"bw\">stepped down<span class=\"tip\"><span class=\"tip-en\">resigned from a position or role</span><span class=\"tip-zh\">辭任</span></span></span> from the watchdog rather than risk a <span class=\"bw\">conflict of interest<span class=\"tip\"><span class=\"tip-en\">a situation where personal involvement could improperly influence a professional duty</span><span class=\"tip-zh\">利益衝突</span></span></span>. Alex Lam Chi-yau, who chairs the patient-advocacy group Hong Kong Patients' Voices, quit his council seat after agreeing to represent Eddie Chau, the father of the late Chau Tin-yu, at the coroner's inquest into her death — a case the council itself is separately investigating through a disciplinary hearing against the doctor involved.</p><p>Chau Tin-yu was left in a <span class=\"bw\">vegetative state<span class=\"tip\"><span class=\"tip-en\">a condition of deep, long-term unconsciousness with no awareness</span><span class=\"tip-zh\">植物人狀態</span></span></span> after an anaesthetist at Queen Mary Hospital allegedly delayed a critical blood transfusion in 2020; she died in March 2024 without ever recovering. The Medical Council had originally scheduled a disciplinary hearing into the anaesthetist's conduct for 27 October, but has now <span class=\"bw\">postponed<span class=\"tip\"><span class=\"tip-en\">delayed an event to a later time</span><span class=\"tip-zh\">押後</span></span></span> it until after the coroner's inquest concludes, reasoning that the inquest's findings on how Tin-yu actually died could bear directly on the disciplinary case.</p><p>Eddie Chau has publicly <span class=\"bw\">decried<span class=\"tip\"><span class=\"tip-en\">criticised strongly and openly</span><span class=\"tip-zh\">公開譙責</span></span></span> the repeated delays, asking reporters \"how much longer\" his family must wait for accountability more than two years after his daughter's death. His frustration echoes a wider <span class=\"bw\">crisis of confidence<span class=\"tip\"><span class=\"tip-en\">a widespread loss of trust in an institution's ability to do its job</span><span class=\"tip-zh\">信心危機</span></span></span> in the council's handling of medical-blunder complaints: in March, the government proposed replacing chronically underperforming council members rather than disciplining them, after public anger over a separate case in which an inquiry into a medical blunder had dragged on for fifteen years. Patient groups argue that Lam's resignation, however well-intentioned, only <span class=\"bw\">underlines<span class=\"tip\"><span class=\"tip-en\">emphasises or draws attention to</span><span class=\"tip-zh\">凸顯</span></span></span> how thinly stretched the council's pool of independent lay members already is.</p>",
+   "summary_zh_html": "<p>香港醫務委員會一名業外委員已<span class=\"bwz\">辭任</span>該監管機構的職務，以避免可能出現的<span class=\"bwz\">利益衝突</span>。擔任病人權益組織「香港病人動力」主席的林志釙，在答允代表已故周婷妤的父親周先生出席死因裁判法庭的聆訊後，辭去委員會席位——而委員會本身正就涉事醫生展開另一宗紀律聆訊調查。</p><p>周婷妤於二零二零年因瑪麗醫院一名麻醉科醫生疑延誤為她輸血，陷入<span class=\"bwz\">植物人狀態</span>，並於二零二四年三月在未曾康復的情況下離世。醫務委員會原定於十月二十七日就該名麻醉科醫生的行為進行紀律聆訊，但現已<span class=\"bwz\">押後</span>至死因裁判法庭完成聆訊之後，理由是裁判法庭就婷妤實際死因所得出的裁決，可能直接影響該宗紀律個案。</p><p>周先生多次<span class=\"bwz\">公開譙責</span>一再出現的延誤，質問記者在女兒離世逾兩年後，一家人還要等「多久」才能討回公道。他的不滿反映出社會對委員會處理醫療失誤投訴方式的廣泛<span class=\"bwz\">信心危機</span>：今年三月，政府曾建議以更換長期表現欠佳的委員，取代紀律處分，原因是另一宗醫療失誤調查拖延十五年之久，引起公眾強烈不滿。病人組織指出，林志釙的辭任即使出於良好意願，亦只是<span class=\"bwz\">凸顯</span>委員會獨立業外委員人手本已極為緊絀的問題。</p>",
+   "image_scene": "A hospital building exterior in Hong Kong under grey daylight, an anonymous middle-aged man in plain clothes sitting alone on a bench outside the main entrance holding a folder of documents, a few anonymous passers-by in the distance, a stationary ambulance parked nearby, no readable signage, logos or hospital name visible anywhere.",
+   "slides": {
+    "topic_en": "Medical Council Conflict of Interest",
+    "background_en": "A Medical Council member quit his seat after agreeing to represent a grieving father at the inquest into his daughter's death.",
+    "background_zh": "一名醫委會委員在答允代表一名喪女父親出席其女兒死因聆訊後辭任委員席位。",
+    "background_hl": "represent a grieving father",
+    "analysis_en": "His resignation highlights how thin the council's pool of independent lay members has become.",
+    "analysis_zh": "他的辭任突顯出委員會獨立業外委員人手已變得何等單薄。",
+    "analysis_hl": "thin the council's pool",
+    "support_en": "Supporters say resigning immediately was the only responsible way to avoid tainting either case.",
+    "support_zh": "支持者認為，立即辭任是避免兩宗個案同被玷污的唯一負責任做法。",
+    "support_hl": "tainting either case",
+    "oppose_en": "Critics say the real problem is a disciplinary system so slow that families wait years for answers.",
+    "oppose_zh": "批評者則指，真正的問題在於紀律制度過於緩慢，令家屬要等候多年才能得到答案。",
+    "oppose_hl": "disciplinary system so slow",
+    "vocab5": [
+     {
+      "en": "conflict of interest",
+      "zh": "利益衝突"
+     },
+     {
+      "en": "disciplinary hearing",
+      "zh": "紀律聆訊"
+     },
+     {
+      "en": "coroner's inquest",
+      "zh": "死因裁判聆訊"
+     },
+     {
+      "en": "medical blunder",
+      "zh": "醫療失誤"
+     },
+     {
+      "en": "patient advocacy",
+      "zh": "病人權益倡議"
+     }
+    ],
+    "question_en": "Should a watchdog member ever be allowed to represent a family in a case the watchdog is also investigating?",
+    "question_zh": "監管機構的委員應否獲准代表家屬處理一宗該機構本身亦正調查的個案？",
+    "question_hl": "represent a family"
+   },
+   "cover_text": {
+    "zh_kicker": "醫委會辭任",
+    "zh_title": [
+     "辭委員",
+     "避利益衝突"
+    ],
+    "zh_hl": "利益衝突",
+    "zh_sub": "代表亡女父出席死因聆訊",
+    "en": "Medical Council member quits to avoid conflict of interest."
+   },
+   "vocab": [
+    {
+     "phrase": "lay member",
+     "zh": "業外委員",
+     "sample": "As a lay member, he was meant to represent patients' interests on the council, not any single family's case."
+    },
+    {
+     "phrase": "inquest proceedings",
+     "zh": "死因調查程序",
+     "sample": "The inquest proceedings will examine exactly how the delayed transfusion contributed to her death."
+    },
+    {
+     "phrase": "vegetative state",
+     "zh": "植物人狀態",
+     "sample": "Doctors confirmed she remained in a vegetative state for nearly four years before she died."
+    },
+    {
+     "phrase": "disciplinary hearing",
+     "zh": "紀律聆訊",
+     "sample": "The council postponed the disciplinary hearing until the coroner's findings are made public."
+    },
+    {
+     "phrase": "medical blunder",
+     "zh": "醫療失誤",
+     "sample": "Campaigners say Hong Kong still lacks a fast, transparent way to investigate a suspected medical blunder."
+    },
+    {
+     "phrase": "patient advocacy group",
+     "zh": "病人權益組織",
+     "sample": "He founded a patient advocacy group after his own family experienced a similar hospital delay."
+    },
+    {
+     "phrase": "crisis of confidence",
+     "zh": "信心危機",
+     "sample": "Years of slow inquiries have fuelled a crisis of confidence in the council's disciplinary process."
+    },
+    {
+     "phrase": "underperforming member",
+     "zh": "表現欠佳的委員",
+     "sample": "The reform plan would let the government quietly swap out any chronically underperforming member."
+    },
+    {
+     "phrase": "institutional accountability",
+     "zh": "機構問責",
+     "sample": "The grieving father said he simply wanted institutional accountability within his daughter's own lifetime."
+    },
+    {
+     "phrase": "chronic delay",
+     "zh": "長期延誤",
+     "sample": "Chronic delay in medical disciplinary cases leaves both patients and doctors in limbo for years."
+    },
+    {
+     "phrase": "independent oversight",
+     "zh": "獨立監察",
+     "sample": "Patient groups are calling for stronger independent oversight separate from the council's own members."
+    },
+    {
+     "phrase": "standard of care",
+     "zh": "診療水平",
+     "sample": "The inquest will determine whether the anaesthetist fell below the expected standard of care during the delay."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "throws an uncomfortable spotlight on",
+     "zh": "把令人不安的目光投向",
+     "sample": "The resignation throws an uncomfortable spotlight on how thinly stretched the council's lay members are."
+    },
+    {
+     "en": "leaves grieving families in limbo",
+     "zh": "令傷心的家屬長期懸而未決",
+     "sample": "Years of postponement leave grieving families in limbo, unable to find closure."
+    },
+    {
+     "en": "casts doubt on the system's ability to",
+     "zh": "令人質疑制度能否...",
+     "sample": "The repeated delays cast doubt on the system's ability to deliver timely accountability."
+    },
+    {
+     "en": "not nearly enough on its own",
+     "zh": "單靠本身遠遠不足",
+     "sample": "One council member's resignation is not nearly enough on its own to fix a structural shortage of lay voices."
+    },
+    {
+     "en": "undermines public faith in self-regulation",
+     "zh": "削弱公眾對業界自我監管的信心",
+     "sample": "Case after case of delay undermines public faith in medical self-regulation."
+    },
+    {
+     "en": "drags on without resolution",
+     "zh": "拖延多年懸而未決",
+     "sample": "The underlying disciplinary case has dragged on without resolution for well over a year."
+    },
+    {
+     "en": "falls hardest on those least able to wait",
+     "zh": "對最難等候的人影響最大",
+     "sample": "A slow inquiry system falls hardest on those least able to wait, such as a grieving parent."
+    },
+    {
+     "en": "a long-overdue reckoning for",
+     "zh": "對...而言是遲來已久的清算",
+     "sample": "Campaigners hope the case forces a long-overdue reckoning for how complaints are handled."
+    },
+    {
+     "en": "exposes a structural weakness in",
+     "zh": "暴露出...的結構性缺陷",
+     "sample": "The episode exposes a structural weakness in how few independent members the council actually has."
+    },
+    {
+     "en": "demands swifter, more transparent accountability",
+     "zh": "需要更迅速、更透明的問責",
+     "sample": "Patient groups say the saga demands swifter, more transparent accountability from the watchdog."
+    },
+    {
+     "en": "forces an uncomfortable trade-off between",
+     "zh": "迫使在...之間作出艱難取捨",
+     "sample": "His decision forces an uncomfortable trade-off between personal loyalty and institutional duty."
+    },
+    {
+     "en": "restores a measure of public trust",
+     "zh": "重建一定程度的公眾信任",
+     "sample": "Officials hope faster hearings will restore a measure of public trust in the council."
+    }
+   ]
+  },
+  {
+   "source_name": "SCMP",
+   "source_url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3372953/how-hong-kong-can-turn-30000-youth-placements-lasting-careers",
+   "published_date": "3 November 2026",
+   "headline": "Government Unveils 30,000-Place Youth Job Scheme, But Can It Deliver Lasting Careers?",
+   "category": "career",
+   "summary_html": "<p>Hong Kong's government has unveiled a two-year plan to create 30,000 job placements for young people, including 10,000 <span class=\"bw\">subsidised<span class=\"tip\"><span class=\"tip-en\">partly paid for by the government to reduce the cost to employers</span><span class=\"tip-zh\">獲資助</span></span></span> full-time entry-level posts, as officials scramble to respond to a <span class=\"bw\">cooling graduate job market<span class=\"tip\"><span class=\"tip-en\">a job market for new graduates that is weakening or offering fewer opportunities</span><span class=\"tip-zh\">降溫的畢業生就業市場</span></span></span> increasingly reshaped by automation. The scheme, due to launch in the first quarter of 2027, comes as the city's unemployment rate has ticked up for several consecutive months, with fresh graduates among those hit hardest.</p><p>Under the proposed terms, each employer taking part will receive a wage subsidy of up to HK$6,000 a month, roughly a third of a typical entry-level salary, for the first six months of employment. Crucially, officials insist the posts must be genuinely <span class=\"bw\">additional to<span class=\"tip\"><span class=\"tip-en\">extra or supplementary, on top of what already exists</span><span class=\"tip-zh\">在現有基礎之上額外增加的</span></span></span> a company's existing headcount rather than simply replacing vacancies it would have filled anyway, with a target of five thousand such new posts created in each of 2027 and 2028.</p><p>Commentators remain divided on whether the scheme will work. One widely discussed opinion piece argues the government must judge success by whether participants go on to <span class=\"bw\">secure permanent employment<span class=\"tip\"><span class=\"tip-en\">obtain a long-term, stable job</span><span class=\"tip-zh\">獲得長期穩定的工作</span></span></span>, not merely by how many placements are filled on paper, warning that without close monitoring, some employers could treat subsidised interns as <span class=\"bw\">disposable cheap labour<span class=\"tip\"><span class=\"tip-en\">low-cost workers treated as easily replaceable</span><span class=\"tip-zh\">可隨時被取代的廉價勞動力</span></span></span> rather than investing in their long-term development. Others counter that even a temporary, subsidised foothold is far better than the alternative facing many graduates: <span class=\"bw\">prolonged joblessness<span class=\"tip\"><span class=\"tip-en\">a long period without paid work</span><span class=\"tip-zh\">長期失業</span></span></span> at the very start of their careers.</p>",
+   "summary_zh_html": "<p>香港政府公布一項為期兩年的計劃，將為青年提供三萬個就業名額，當中包括一萬個<span class=\"bwz\">獲資助</span>的全職入門職位，此舉正值官員急於應對一個日益受自動化重塑、<span class=\"bwz\">降溫的畢業生就業市場</span>。該計劃預計於二零二七年第一季推出，當時本港失業率已連續數月回升，新畢業生更是受影響最嚴重的一群。</p><p>根據建議條款，每間參與企業將可獲發每月最多6000港元的薪酬補貼，大約相當於一般入門職位薪酬的三分之一，補貼期為僱用首六個月。官員強調，有關職位必須是真正<span class=\"bwz\">在現有基礎之上額外增加的</span>，而非單純取代企業原本就會填補的空缺，目標是在二零二七年及二零二八年各創造五千個此類新增職位。</p><p>評論員對計劃能否成功意見不一。一篇廣受討論的評論文章認為，政府必須以參與者日後能否<span class=\"bwz\">獲得長期穩定的工作</span>作為成功指標，而非單純計算紙面上填補了多少個名額，並警告若缺乏嚴格監察，部分僱主或會將受資助的實習生，視為<span class=\"bwz\">可隨時被取代的廉價勞動力</span>，而非真正投資於他們的長遠發展。另一些人則反駁，即使只是暫時性、有補貼的立足點，也遠勝於許多畢業生在事業起步階段便要面對的<span class=\"bwz\">長期失業</span>。</p>",
+   "image_scene": "A bright, modern open-plan office in Hong Kong with floor-to-ceiling windows overlooking the city skyline, a handful of anonymous young adults in business-casual clothing seated at desks reviewing documents and typing on laptops, an older colleague leaning over to point something out on a screen, no readable signage, logos or identifiable faces.",
+   "slides": {
+    "topic_en": "Hong Kong's 30,000-Place Youth Job Scheme",
+    "background_en": "Hong Kong will create 30,000 youth job placements over two years, including 10,000 subsidised full-time entry-level posts from 2027.",
+    "background_zh": "香港將在兩年內為青年創造三萬個就業名額，包括由二零二七年起提供的一萬個獲資助全職入門職位。",
+    "background_hl": "10,000 subsidised full-time entry-level posts",
+    "analysis_en": "The scheme raises the question of whether temporary, subsidised placements can truly become lasting careers.",
+    "analysis_zh": "這項計劃令人反思，臨時性的受資助職位，能否真正轉化為長久的事業。",
+    "analysis_hl": "truly become lasting careers",
+    "support_en": "Supporters say even a subsidised, temporary foothold beats the prolonged joblessness many graduates otherwise face.",
+    "support_zh": "支持者認為，即使是受資助的臨時立足點，也勝於許多畢業生原本要面對的長期失業。",
+    "support_hl": "beats the prolonged joblessness",
+    "oppose_en": "Critics warn employers could treat subsidised interns as disposable cheap labour instead of investing in real skills.",
+    "oppose_zh": "批評者警告，僱主或會將受資助的實習生視為可隨時被取代的廉價勞動力，而非投資於真正的技能發展。",
+    "oppose_hl": "disposable cheap labour",
+    "vocab5": [
+     {
+      "en": "wage subsidy",
+      "zh": "薪酬補貼"
+     },
+     {
+      "en": "entry-level post",
+      "zh": "入門職位"
+     },
+     {
+      "en": "graduate unemployment",
+      "zh": "畢業生失業"
+     },
+     {
+      "en": "skills development",
+      "zh": "技能發展"
+     },
+     {
+      "en": "job retention",
+      "zh": "職位保留率"
+     }
+    ],
+    "question_en": "Should success be measured by how many placements are filled, or by how many become lasting jobs?",
+    "question_zh": "成功應該以填補了多少名額來衡量，還是以有多少人最終獲得長久職位來衡量？",
+    "question_hl": "how many become lasting jobs"
+   },
+   "cover_text": {
+    "zh_kicker": "青年就業",
+    "zh_title": [
+     "3萬職位",
+     "助青年就業"
+    ],
+    "zh_hl": "3萬",
+    "zh_sub": "入職六月享$6000津貼",
+    "en": "Hong Kong unveils 30,000-place youth job scheme."
+   },
+   "vocab": [
+    {
+     "phrase": "wage subsidy",
+     "zh": "薪酬補貼",
+     "sample": "The wage subsidy covers up to a third of a new hire's monthly salary for half a year."
+    },
+    {
+     "phrase": "entry-level post",
+     "zh": "入門職位",
+     "sample": "Officials hope the scheme will create thousands of genuine entry-level posts rather than token internships."
+    },
+    {
+     "phrase": "cooling job market",
+     "zh": "降溫的就業市場",
+     "sample": "The scheme was announced against the backdrop of a cooling job market for new graduates."
+    },
+    {
+     "phrase": "additional headcount",
+     "zh": "額外增加的員額",
+     "sample": "Companies must prove the posts represent additional headcount, not vacancies they would have filled anyway."
+    },
+    {
+     "phrase": "secure permanent employment",
+     "zh": "獲得長期穩定的工作",
+     "sample": "Critics say the scheme should be judged by how many interns go on to secure permanent employment."
+    },
+    {
+     "phrase": "disposable cheap labour",
+     "zh": "可隨時被取代的廉價勞動力",
+     "sample": "Without oversight, some firms might treat subsidised graduates as disposable cheap labour."
+    },
+    {
+     "phrase": "prolonged joblessness",
+     "zh": "長期失業",
+     "sample": "Even a temporary placement looks appealing next to the alternative of prolonged joblessness."
+    },
+    {
+     "phrase": "graduate unemployment",
+     "zh": "畢業生失業",
+     "sample": "Graduate unemployment has become a central talking point in this year's policy debate."
+    },
+    {
+     "phrase": "job retention rate",
+     "zh": "職位保留率",
+     "sample": "Analysts want the government to publish the scheme's job retention rate a year after each placement ends."
+    },
+    {
+     "phrase": "skills development",
+     "zh": "技能發展",
+     "sample": "Mentors are supposed to focus on genuine skills development rather than simple clerical tasks."
+    },
+    {
+     "phrase": "temporary foothold",
+     "zh": "暫時的立足點",
+     "sample": "For many graduates, even a temporary foothold in a real company feels like a lifeline."
+    },
+    {
+     "phrase": "automation-driven disruption",
+     "zh": "自動化帶來的衝擊",
+     "sample": "The placement scheme is partly a response to automation-driven disruption across entry-level roles."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "a stepping stone rather than a dead end",
+     "zh": "踏腳石而非死胡同",
+     "sample": "For the scheme to work, each placement must feel like a stepping stone rather than a dead end."
+    },
+    {
+     "en": "judged by outcomes, not headcounts",
+     "zh": "應以成果而非人數來衡量",
+     "sample": "The commentator insists the scheme should be judged by outcomes, not headcounts."
+    },
+    {
+     "en": "risks becoming a box-ticking exercise",
+     "zh": "恐淪為形式主義的核數工作",
+     "sample": "Without follow-up data, the whole programme risks becoming a box-ticking exercise."
+    },
+    {
+     "en": "papers over a deeper structural problem",
+     "zh": "掩蓋更深層的結構性問題",
+     "sample": "Critics fear the subsidy merely papers over a deeper structural problem in the graduate job market."
+    },
+    {
+     "en": "buys time rather than solving the problem",
+     "zh": "爭取時間而非真正解決問題",
+     "sample": "Sceptics argue the scheme buys time rather than solving the problem of automation-driven job losses."
+    },
+    {
+     "en": "a lifeline for graduates entering a shrinking market",
+     "zh": "對投身萎縮市場的畢業生而言是救命索",
+     "sample": "Supporters call it a lifeline for graduates entering a shrinking market this year."
+    },
+    {
+     "en": "without genuine investment in mentorship",
+     "zh": "缺乏真正的師友培訓投資",
+     "sample": "A subsidy without genuine investment in mentorship may do little for long-term careers."
+    },
+    {
+     "en": "merely delays the inevitable reckoning with automation",
+     "zh": "只是延遲與自動化的必然對決",
+     "sample": "Some economists warn the scheme merely delays the inevitable reckoning with automation."
+    },
+    {
+     "en": "turns short-term relief into long-term opportunity",
+     "zh": "將短期紓困轉化為長遠機會",
+     "sample": "The real test is whether the scheme turns short-term relief into long-term opportunity."
+    },
+    {
+     "en": "exploits public subsidy for private gain",
+     "zh": "利用公共補貼謀取私利",
+     "sample": "Regulators must guard against any employer who exploits public subsidy for private gain."
+    },
+    {
+     "en": "demands rigorous follow-up monitoring",
+     "zh": "需要嚴格的跟進監察",
+     "sample": "Economists say the scheme demands rigorous follow-up monitoring well beyond its first six months."
+    },
+    {
+     "en": "offers a foothold, not a guarantee",
+     "zh": "提供立足點，而非保證",
+     "sample": "Officials are careful to stress the scheme offers a foothold, not a guarantee, of a lasting career."
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "platforms": [
+    "threads"
+   ],
+   "headline": "💍 The Threads Wedding Showdown Over Who Keeps the 人情",
+   "summary_html": "<p>A bride-to-be's plea for help on Threads has <span class=\"bw\">reignited<span class=\"tip\"><span class=\"tip-en\">started again something that had died down, with intense renewed energy</span><span class=\"tip-zh\">再次引爆</span></span></span> one of Hong Kong's most reliable viral arguments: who actually owns a wedding banquet's cash gifts, known locally as 人情. The poster said her boyfriend, who is paying for the entire banquet, insists on keeping every cent of the gift money for himself, even after her mother offered to <span class=\"bw\">chip in<span class=\"tip\"><span class=\"tip-en\">contribute money toward a shared cost</span><span class=\"tip-zh\">分擔部分費用</span></span></span> on the catering bill in exchange for keeping gifts from her own side's guests.</p><p>The post quickly drew thousands of comments, most siding against the groom and branding him <span class=\"bw\">calculating<span class=\"tip\"><span class=\"tip-en\">acting in a selfishly scheming or overly cautious way about money</span><span class=\"tip-zh\">斤斤計較</span></span></span>. Commenters converged on an informal <span class=\"bw\">rule of thumb<span class=\"tip\"><span class=\"tip-en\">a practical, approximate guideline rather than a precise rule</span><span class=\"tip-zh\">經驗法則</span></span></span>: whoever's relatives give the money should keep it, friends' gifts go to the couple, and if one partner insists on <span class=\"bw\">monopolising<span class=\"tip\"><span class=\"tip-en\">taking complete control or possession of something</span><span class=\"tip-zh\">獨佔</span></span></span> every gift, he should also shoulder the entire banquet bill alone. It is the third such 人情 dispute to go viral in 2026 alone, following similar rows in July and October, each time reopening the same question of where generosity ends and financial <span class=\"bw\">entitlement<span class=\"tip\"><span class=\"tip-en\">a belief that one deserves or has a right to something</span><span class=\"tip-zh\">應得權利</span></span></span> begins.</p>",
+   "summary_zh_html": "<p>一名準新娘在Threads求助的帖文，<span class=\"bwz\">再次引爆</span>香港其中一個最可靠的網絡爆紅爭論：到底誰才擁有婚宴上的現金禮金，即本地所稱的「人情」。發帖者稱，負責支付全場酒席費用的男友堅持獨自收取全部人情，即使她的母親已提出<span class=\"bwz\">分擔部分費用</span>酒席開支，以換取保留女家賓客所封的人情。</p><p>帖文迅速引來數千則留言，大多站在新郎的對立面，指他<span class=\"bwz\">斤斤計較</span>。網民普遍歸納出一條非正式的<span class=\"bwz\">經驗法則</span>：由哪一方親友所封的人情，就歸哪一方所有；朋友所封的人情則歸新人；若一方堅持<span class=\"bwz\">獨佔</span>全場人情，就應該獨力承擔整場酒席的開支。這已是二零二六年內第三宗爆紅的人情爭議，之前七月及十月均曾出現類似風波，每次都重新引發同一個問題：慷慨應在何處止步，而財政上的<span class=\"bwz\">應得權利</span>又從何處開始。</p>",
+   "causes": [
+    {
+     "label": "Who truly earned the gift, and who should keep it",
+     "label_zh": "禮金真正屬於誰、理應歸誰保留",
+     "text": "Each lai see is a personal gesture from a guest to a specific relationship, so treating every gift as the groom's private property regardless of who it came from ignores the real question of fairness: should ownership follow the relationship, the financial contribution, or whoever simply demands it loudest?",
+     "text_zh": "每一封人情都是賓客對某段特定關係的個人心意，若不論來源一律視為新郎的私有財產，就忽略了公平這個核心問題：禮金的歸屬，應該跟從關係本身、財政上的實際付出，還是單純跟從誰的聲音最大？"
+    },
+    {
+     "label": "A generational clash over what 人情 was meant for",
+     "label_zh": "兩代人對「人情」原意的理解出現分歧",
+     "text": "Older generations often treat wedding gift money as a community safety net meant to help a newly married couple start their life, quietly recycled through decades of mutual obligation, while younger Hongkongers increasingly see it as a transaction tied strictly to who paid for what, exposing a widening gap in how each generation values reciprocity.",
+     "text_zh": "上一代普遍視婚宴人情為一種社區互助的安全網，旨在幫助新婚夫婦開展生活，並經數十年互相饋贈循環不斷；相反，年輕一代香港人則愈趨將人情視為嚴格跟從「誰出錢」的交易，暴露出兩代人對於互相扶持價值觀的差距正不斷擴大。"
+    },
+    {
+     "label": "Reducing a wedding to a literal profit-and-loss account",
+     "label_zh": "將婚宴簡化為赤裸裸的盈虧帳本",
+     "text": "Framing a marriage celebration purely as an exercise in recouping banquet costs turns a once-communal rite of passage into something closer to running a small business, where every guest is implicitly expected to cover their own seat, and any shortfall is treated as a personal insult rather than simply a gift given freely.",
+     "text_zh": "若將婚禮純粹視為回本的工具，就會把本屬社區共同參與的人生禮俗，變成近乎經營小生意：每位賓客被默默要求「埋單」自己的座位，任何「不夠本」都被視為個人侮辱，而非單純出於自願的心意。"
+    },
+    {
+     "label": "Public shaming a partner online rarely fixes a private dispute",
+     "label_zh": "網上公審伴侶，鮮少能真正解決私人爭議",
+     "text": "However satisfying it feels to see a selfish partner called out by thousands of strangers, broadcasting an unresolved family argument to the internet before trying mediation risks permanently damaging the relationship, invites harassment of people who never consented to public scrutiny, and lets outrage substitute for the harder work of an honest conversation at home.",
+     "text_zh": "即使看見一個「自私」的伴侶被千千萬萬陌生人公開指責令人痛快，但在嘗試調解之前，就先將一場未解決的家庭爭執廣播到網絡上，卻可能永久損害雙方關係，令從未同意被公開審視的人受到網絡騷擾，並以群眾的怒火取代在家中坦誠對話這條更艱難的道路。"
+    }
+   ],
+   "vocab": [
+    {
+     "phrase": "lai see",
+     "zh": "人情（利是）",
+     "sample": "The couple had not agreed in advance on who would keep the lai see from each side of the family."
+    },
+    {
+     "phrase": "chip in",
+     "zh": "分擔部分費用",
+     "sample": "Her mother offered to chip in on the banquet cost just to settle the argument."
+    },
+    {
+     "phrase": "rule of thumb",
+     "zh": "經驗法則",
+     "sample": "Netizens offered a simple rule of thumb for splitting gift money fairly between both families."
+    },
+    {
+     "phrase": "monopolise",
+     "zh": "獨佔",
+     "sample": "Commenters accused the groom of trying to monopolise every gift without sharing any of the cost."
+    },
+    {
+     "phrase": "financial entitlement",
+     "zh": "財政上的應得權利",
+     "sample": "The row reopened an old question about where generosity ends and financial entitlement begins."
+    },
+    {
+     "phrase": "internet storm",
+     "zh": "網絡風波",
+     "sample": "Her post triggered an internet storm within hours, drawing thousands of comments from strangers."
+    },
+    {
+     "phrase": "trial by social media",
+     "zh": "社交媒體公審",
+     "sample": "Some observers worried the thread had turned into a trial by social media rather than a genuine request for advice."
+    },
+    {
+     "phrase": "recoup costs",
+     "zh": "回本",
+     "sample": "Guests online debated whether a couple should even expect to recoup costs from their own wedding."
+    },
+    {
+     "phrase": "reciprocity",
+     "zh": "禮尚往來",
+     "sample": "Older relatives often see gift money as a long tradition of reciprocity rather than a one-off payment."
+    },
+    {
+     "phrase": "mediation",
+     "zh": "調解",
+     "sample": "Family counsellors suggested quiet mediation would have resolved the dispute far better than a public post."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "blurs the line between generosity and obligation",
+     "zh": "模糊了慷慨與義務之間的界線",
+     "sample": "Treating gift money as guaranteed income blurs the line between generosity and obligation."
+    },
+    {
+     "en": "turns a private disagreement into public spectacle",
+     "zh": "將私人爭執變成公開表演",
+     "sample": "Posting the argument online turns a private disagreement into public spectacle almost overnight."
+    },
+    {
+     "en": "reduces a relationship to a ledger of costs",
+     "zh": "將一段關係簡化為成本帳目",
+     "sample": "Critics say obsessing over who paid for what reduces a relationship to a ledger of costs."
+    },
+    {
+     "en": "reflects shifting expectations around",
+     "zh": "反映對...期望的轉變",
+     "sample": "The dispute reflects shifting expectations around money and fairness within modern Hong Kong families."
+    },
+    {
+     "en": "invites strangers to arbitrate a family matter",
+     "zh": "讓陌生人仲裁家庭事務",
+     "sample": "Posting the row on Threads effectively invites strangers to arbitrate a deeply personal family matter."
+    },
+    {
+     "en": "prioritises being right over being kind",
+     "zh": "把爭對錯看得比善良更重要",
+     "sample": "Both sides risk prioritising being right over being kind once thousands of strangers take sides."
+    },
+    {
+     "en": "exposes unresolved tension beneath a happy occasion",
+     "zh": "揭露喜慶場合背後未解決的張力",
+     "sample": "The row exposes unresolved tension beneath what is supposed to be a happy occasion."
+    },
+    {
+     "en": "lets outrage stand in for dialogue",
+     "zh": "讓怒火取代對話",
+     "sample": "Viral threads like this often let outrage stand in for the harder work of real dialogue."
+    },
+    {
+     "en": "normalises airing disputes before attempting reconciliation",
+     "zh": "將未經調解便公開爭議變成常態",
+     "sample": "Critics worry that viral posting normalises airing disputes before attempting reconciliation at home."
+    }
+   ]
+  }
+ ]
 }

@@ -2,798 +2,738 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/lifestyle/entertainment/article/3373247/how-tony-leung-chiu-wai-became-hong-kongs-most-decorated-and-reluctant-movie-star",
-      "published_date": "4 November 2026",
-      "headline": "How Tony Leung Chiu-wai Became Hong Kong's Most Decorated — and Most Reluctant — Movie Star",
-      "category": "arts",
-      "summary_html": "<p>A new profile has traced how Tony Leung Chiu-wai became, by wide consensus, the most <span class=\"bw\">garlanded<span class=\"tip\"><span class=\"tip-en\">widely honoured with awards and prizes</span><span class=\"tip-zh\">獲獎無數</span></span></span> actor in Hong Kong cinema history, even though he would be the last person to say so himself. Across four decades, Leung has built a career on <span class=\"bw\">interior performances<span class=\"tip\"><span class=\"tip-en\">acting that conveys emotion through subtle inner feeling rather than outward expression</span><span class=\"tip-zh\">內斂的演繹</span></span></span> — minute shifts of the eyes, a half-finished sentence, a held breath — that let him <span class=\"bw\">command the screen<span class=\"tip\"><span class=\"tip-en\">dominate attention on screen through presence alone, without needing loud or dramatic action</span><span class=\"tip-zh\">單憑氣場主宰銀幕</span></span></span> without ever raising his voice. From television soap operas in the 1980s to arthouse classics and, more recently, a Marvel blockbuster, he has rarely repeated himself, yet audiences and critics alike have continued to call him unmistakably, quietly, himself.</p><p>His decades-long partnership with director Wong Kar-wai produced some of Hong Kong's most internationally admired films, including the Cannes-winning In the Mood for Love, while later roles in Ang Lee's Lust, Caution and the crime thriller Infernal Affairs showed a willingness to inhabit morally ambiguous characters that most stars would avoid for fear of <span class=\"bw\">tarnishing their image<span class=\"tip\"><span class=\"tip-en\">damaging one's public reputation or image</span><span class=\"tip-zh\">損害個人形象</span></span></span>. In 2023, Venice awarded him a <span class=\"bw\">lifetime achievement honour<span class=\"tip\"><span class=\"tip-en\">an award recognising an entire career's contribution rather than a single work</span><span class=\"tip-zh\">終身成就獎</span></span></span> usually reserved for directors and veterans twice his age, a recognition that cemented his status not merely as a Hong Kong star but as one of world cinema's most respected actors.</p><p>In an industry increasingly built on <span class=\"bw\">self-promotion<span class=\"tip\"><span class=\"tip-en\">deliberately drawing public attention to oneself in order to build fame</span><span class=\"tip-zh\">自我宣傳</span></span></span> — curated social media feeds, carefully managed public appearances — Leung remains a conspicuous exception, granting few interviews and offering even fewer opinions on his own legacy. For a city whose entertainment industry has long doubled as a source of cultural <span class=\"bw\">soft power<span class=\"tip\"><span class=\"tip-en\">a country or city's influence gained through culture and reputation rather than force</span><span class=\"tip-zh\">軟實力</span></span></span>, his example raises a pointed question for Hong Kong's next generation of performers: whether lasting recognition is better earned through visibility, or through the patient, <span class=\"bw\">unglamorous<span class=\"tip\"><span class=\"tip-en\">lacking excitement or outward appeal; plain and unremarkable</span><span class=\"tip-zh\">毫不亮麗</span></span></span> accumulation of craft.</p>",
-      "summary_zh_html": "<p>一份最新人物專訪，追溯梁朝偉如何在廣泛共識下，成為香港電影史上<span class=\"bwz\">獲獎最多</span>的演員——儘管他自己絕不會這樣形容自己。在長達四十年的演藝生涯中，梁朝偉建立起一套以<span class=\"bwz\">內斂的演繹</span>為本的表演方式——眼神的細微轉動、一句未說完的話、一次刻意按捺的呼吸——讓他無需提高嗓子，便能<span class=\"bwz\">單憑氣場主宰銀幕</span>。從八十年代的電視劇集，到藝術電影經典，以至近年的一部漫威電影，他甚少重複過往的演出，但無論觀眾抑或評論家，依然異口同聲地稱他——不動聲色，卻獨一無二。</p><p>他與導演王家衛長達數十年的合作，造就了多部香港最獲國際讚譽的電影，包括在康城封帝的《花樣年華》；而他後來在李安《色，戒》及警匪片《無間道》中的角色，亦顯示他甘願飾演道德模糊的人物——這類角色，大多數明星都會因擔心<span class=\"bwz\">損害個人形象</span>而迴避。二零二三年，威尼斯電影節向他頒發<span class=\"bwz\">終身成就獎</span>——這項榮譽通常只授予年紀比他長一倍的導演或影壇老將，此舉確立了他的地位：他不僅是香港明星，更是全球影壇最受尊崇的演員之一。</p><p>在一個愈趨依賴<span class=\"bwz\">自我宣傳</span>的行業裡——經過精心策劃的社交媒體形象、刻意安排的公開場合——梁朝偉始終是一個明顯的例外，鮮少接受訪問，更甚少評論自己的影壇地位。對於一個娛樂產業長期兼具文化<span class=\"bwz\">軟實力</span>角色的城市而言，他的例子向香港新一代演員提出一個尖銳問題：持久的聲望，究竟應該靠曝光率贏得，還是靠耐心而<span class=\"bwz\">毫不亮麗</span>地累積演技而來？</p>",
-      "image_scene": "An anonymous silhouette of a man in a dark suit walking along a red carpet outside a grand Hong Kong film-awards venue at night, flashbulbs from a crowd of photographers lighting up the scene, a row of golden trophy statuettes displayed on a table nearby, the illuminated towers of Victoria Harbour glowing behind, no readable signage or logos.",
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/finance/article/347363/HK-economy-grows-at-fastest-pace-in-five-years-for-first-three-quarters-Q3-GDP-up-52pc",
+      "published_date": "3 November 2026",
+      "headline": "Hong Kong's Economy Posts Fastest Nine-Month Growth in Five Years",
+      "category": "econ",
+      "summary_html": "<p>Hong Kong’s economy expanded at its fastest nine-month pace in five years, according to <span class=\"bw\">advance estimates<span class=\"tip\"><span class=\"tip-en\">preliminary figures released before the final, confirmed data</span><span class=\"tip-zh\">初步估算數字</span></span></span> published by the Census and Statistics Department on Monday. Real gross domestic product grew 5.2 per cent <span class=\"bw\">year on year<span class=\"tip\"><span class=\"tip-en\">compared with the same period twelve months earlier</span><span class=\"tip-zh\">與去年同期比較</span></span></span> in the third quarter, comfortably <span class=\"bw\">eclipsing forecasts<span class=\"tip\"><span class=\"tip-en\">turning out higher than experts had predicted</span><span class=\"tip-zh\">超出預期</span></span></span> of 3.7 per cent and quickening from the 4.2 per cent pace logged in the second quarter. On a <span class=\"bw\">quarter-on-quarter, seasonally adjusted<span class=\"tip\"><span class=\"tip-en\">compared with the immediately preceding three months, after removing the effect of regular seasonal patterns</span><span class=\"tip-zh\">按季度並經季節性調整</span></span></span> basis, the economy grew 1.9 per cent.</p><p>The latest reading extends Hong Kong’s run of growth to a <span class=\"bw\">fifteenth consecutive quarter of expansion<span class=\"tip\"><span class=\"tip-en\">the fifteenth three-month period in a row in which the economy has grown rather than shrunk</span><span class=\"tip-zh\">連續第十五個季度擴張</span></span></span>, with officials attributing the surge largely to exports. Shipments of goods surged 30.4 per cent, buoyed by continued global demand for artificial-intelligence-related hardware and electronic components, while <span class=\"bw\">private consumption<span class=\"tip\"><span class=\"tip-en\">spending by households on goods and services</span><span class=\"tip-zh\">私人消費</span></span></span> rose 2.8 per cent as retail sales and local dining steadily recovered. For the first nine months of the year as a whole, the economy expanded by 5.1 per cent, the strongest such run in five years.</p><p>Financial Secretary Paul Chan said the figures reflected resilient <span class=\"bw\">economic momentum<span class=\"tip\"><span class=\"tip-en\">the strength and pace at which growth is being sustained</span><span class=\"tip-zh\">經濟動力</span></span></span> despite lingering uncertainty over global trade tensions and the pace of interest-rate cuts abroad, adding that the government may revise its full-year growth forecast upward when revised figures are released on November 13. Economists cautioned, however, that the export-led rebound could prove uneven, since much of the growth is concentrated in a narrow range of high-value technology goods, leaving sectors such as retail and tourism to continue their slower, more gradual recovery.</p>",
+      "summary_zh_html": "<p>根據政府統計處星期一公布的<span class=\"bwz\">初步估算</span>數字，香港經濟創下五年來最快的首三季增長步伐。本地生產總值在第三季<span class=\"bwz\">按年</span>增長5.2%，遠遠<span class=\"bwz\">超出預期</span>的3.7%幅度，並較第二季的4.2%進一步加快。若以<span class=\"bwz\">按季度並經季節性調整</span>計算，經濟增長1.9%。</p><p>最新數據令香港經濟增長勢頭延續至<span class=\"bwz\">連續第十五個季度擴張</span>，官員指出，增長主要由出口帶動。貨物出口受惠於全球對人工智能相關硬件及電子零件的持續需求，大幅上升30.4%；同時，<span class=\"bwz\">私人消費</span>因零售及本地飲食業持續復甦而上升2.8%。今年首三季整體計算，經濟增長達5.1%，是五年來同期最強勁的表現。</p><p>財政司司長陳茂波表示，數據反映香港<span class=\"bwz\">經濟動力</span>仍然強韌，儘管全球貿易緊張局勢及海外減息步伐仍存在不明朗因素；他並補充，政府在11月13日公布經修訂數字時，或會上調全年經濟增長預測。不過，經濟學者提醒，由出口帶動的反彈可能並不均衡，因為大部分增長集中於小部分高增值科技產品，而零售及旅遊等行業的復甦步伐則依然較為緩慢。</p>",
+      "image_scene": "A wide shot of Hong Kong's Kwai Tsing Container Terminal at dusk, rows of brightly coloured shipping containers stacked beside towering blue cranes loading boxes onto a large cargo vessel; in the foreground, two anonymous dockworkers in hard hats and reflective vests check a clipboard beside a forklift, with the city skyline faintly visible through the haze behind.",
       "slides": {
-        "topic_en": "Hong Kong's Most Decorated, Most Reluctant Film Star",
-        "background_en": "A new profile traces how Tony Leung Chiu-wai became Hong Kong cinema's most garlanded actor while avoiding the spotlight.",
-        "background_zh": "一份最新人物專訪追溯梁朝偉如何成為香港電影史上獲獎最多的演員，同時始終迴避公眾鎂光燈。",
-        "background_hl": "most garlanded actor",
-        "analysis_en": "His career raises the question of whether lasting fame is better built on visibility or on quiet, patient craft.",
-        "analysis_zh": "他的演藝生涯引發思考：持久的聲望，應該建立於曝光率，還是建立於安靜而耐心累積的演技？",
-        "analysis_hl": "quiet, patient craft",
-        "support_en": "Supporters say his understated restraint lets his acting speak for itself, earning respect that loud self-promotion rarely achieves.",
-        "support_zh": "支持者認為，他低調內斂的風格，讓演技自己說話，贏得的尊重遠勝於高調的自我宣傳。",
-        "support_hl": "lets his acting speak for itself",
-        "oppose_en": "Critics counter that avoiding publicity altogether can limit an actor's influence and starve emerging talent of visibility.",
-        "oppose_zh": "批評者則認為，完全迴避宣傳可能限制演員的影響力，亦令新晉演員的曝光機會更為缺乏。",
-        "oppose_hl": "limit an actor's influence",
+        "topic_en": "Hong Kong's Economic Growth Surge",
+        "background_en": "Hong Kong's GDP grew 5.2 per cent in the third quarter, beating forecasts and marking the fastest nine-month growth in five years.",
+        "background_zh": "香港第三季本地生產總值按年增長5.2%，超出預期，是五年來最快的首三季增長。",
+        "background_hl": "5.2 per cent",
+        "analysis_en": "The growth was driven mainly by surging exports of AI-related goods, raising questions about how evenly the recovery is shared across industries.",
+        "analysis_zh": "增長主要由人工智能相關產品出口帶動，但各行業能否同樣受惠仍存疑問。",
+        "analysis_hl": "surging exports",
+        "support_en": "Strong export growth boosts jobs, wages and business confidence, giving Hong Kong's recovery real momentum heading into next year.",
+        "support_zh": "出口強勁帶動就業、薪酬及商界信心，為香港經濟復甦注入動力。",
+        "support_hl": "real momentum",
+        "oppose_en": "Critics warn the rebound relies too heavily on a narrow range of tech exports, leaving retail and tourism workers still waiting for relief.",
+        "oppose_zh": "批評者指反彈過度依賴少數科技出口產品，令零售及旅遊業從業員仍未真正受惠。",
+        "oppose_hl": "narrow range of tech exports",
         "vocab5": [
           {
-            "en": "critical acclaim",
-            "zh": "評論界讚賞"
+            "en": "advance estimate",
+            "zh": "初步估算"
           },
           {
-            "en": "screen presence",
-            "zh": "銀幕氣場"
+            "en": "export-led growth",
+            "zh": "出口帶動的增長"
           },
           {
-            "en": "cultural soft power",
-            "zh": "文化軟實力"
+            "en": "economic resilience",
+            "zh": "經濟韌性"
           },
           {
-            "en": "artistic integrity",
-            "zh": "藝術操守"
+            "en": "uneven recovery",
+            "zh": "不均衡的復甦"
           },
           {
-            "en": "media exposure",
-            "zh": "媒體曝光"
+            "en": "momentum",
+            "zh": "增長動力"
           }
         ],
-        "question_en": "Should fame in the arts be measured by visibility, or by the quality and endurance of one's work?",
-        "question_zh": "藝術界的聲望，應該以曝光率衡量，還是應該以作品的質素與持久力衡量？",
-        "question_hl": "quality and endurance of one's work"
+        "question_en": "Should Hong Kong rely so heavily on export-led growth, or should it do more to support other sectors such as retail and tourism?",
+        "question_zh": "香港是否應過度依賴出口帶動增長，還是應加大力度支持零售及旅遊等行業？",
+        "question_hl": "export-led growth"
       },
       "cover_text": {
-        "zh_kicker": "影壇傳奇",
+        "zh_kicker": "香港經濟",
         "zh_title": [
-          "最低調的",
-          "香港影帝"
+          "GDP增5.2%",
+          "五年最勁"
         ],
-        "zh_hl": "香港影帝",
-        "zh_sub": "獲獎無數卻迴避鎂光燈",
-        "en": "Tony Leung: Hong Kong's most decorated, most reluctant star."
+        "zh_hl": "5.2%",
+        "zh_sub": "商品出口大升三成",
+        "en": "Hong Kong economy grows fastest in five years"
       },
       "vocab": [
         {
-          "phrase": "garlanded actor",
-          "zh": "獲獎連連的演員",
-          "sample": "A garlanded actor rarely needs to promote himself, since the awards speak on his behalf."
+          "phrase": "preliminary GDP reading",
+          "zh": "初步GDP數字",
+          "sample": "The preliminary GDP reading for Q3 surprised many economists who had expected a more modest rise."
         },
         {
-          "phrase": "understated performance",
-          "zh": "內斂的演出",
-          "sample": "Critics praised the film's understated performance over its flashier, big-budget rivals."
+          "phrase": "annualised growth rate",
+          "zh": "年度化增長率",
+          "sample": "The annualised growth rate of 5.2 per cent marks a clear acceleration from the previous quarter."
         },
         {
-          "phrase": "commanding on-screen stillness",
-          "zh": "銀幕上從容的靜態魅力",
-          "sample": "His commanding on-screen stillness often says more than a page of dialogue."
+          "phrase": "seasonally adjusted figures",
+          "zh": "經季節性調整的數字",
+          "sample": "Seasonally adjusted figures strip out the usual swings caused by holidays and weather."
         },
         {
-          "phrase": "arthouse cinema",
-          "zh": "藝術電影",
-          "sample": "Long before global franchises noticed him, he built his reputation in arthouse cinema praised at international festivals."
+          "phrase": "export-led recovery",
+          "zh": "出口帶動的復甦",
+          "sample": "Hong Kong's export-led recovery depends heavily on sustained global demand for technology products."
         },
         {
-          "phrase": "marquee name",
-          "zh": "具票房號召力的名字",
-          "sample": "Even without a single line of dialogue, his name alone remains a marquee name on any poster."
+          "phrase": "household spending",
+          "zh": "住戶開支",
+          "sample": "Household spending rose steadily as families resumed dining out and travelling."
         },
         {
-          "phrase": "festival darling",
-          "zh": "影展寵兒",
-          "sample": "He has long been a festival darling at Cannes and Venice alike."
+          "phrase": "growth trajectory",
+          "zh": "增長軌跡",
+          "sample": "Analysts are watching closely to see whether this growth trajectory can be sustained into next year."
         },
         {
-          "phrase": "lifetime achievement award",
-          "zh": "終身成就獎",
-          "sample": "A lifetime achievement award recognises decades of work, not a single standout role."
+          "phrase": "consecutive quarter of expansion",
+          "zh": "連續季度擴張",
+          "sample": "This marks the fifteenth consecutive quarter of expansion for the local economy."
         },
         {
-          "phrase": "typecasting",
-          "zh": "被定型於單一角色",
-          "sample": "Many actors fight against typecasting, but he moved between genres with apparent ease."
+          "phrase": "high-value technology goods",
+          "zh": "高增值科技產品",
+          "sample": "Much of the export growth was concentrated in high-value technology goods such as semiconductors."
         },
         {
-          "phrase": "media-shy",
-          "zh": "怕見傳媒的",
-          "sample": "Being media-shy has not stopped his films from dominating award seasons."
+          "phrase": "uneven recovery",
+          "zh": "不均衡的復甦",
+          "sample": "Economists warned that an uneven recovery could leave smaller businesses struggling despite the headline figures."
         },
         {
-          "phrase": "artistic legacy",
-          "zh": "藝術遺產",
-          "sample": "Film scholars are already debating how his artistic legacy will shape the next generation of actors."
+          "phrase": "annual growth projection",
+          "zh": "全年增長預測",
+          "sample": "The government may revise its annual growth projection upward when more detailed data is released."
         },
         {
-          "phrase": "cultural ambassador",
-          "zh": "文化大使",
-          "sample": "Without ever campaigning for the title, he has become an unofficial cultural ambassador for Hong Kong cinema."
+          "phrase": "resilient economy",
+          "zh": "具韌性的經濟",
+          "sample": "A resilient economy can absorb external shocks without falling into recession."
         },
         {
-          "phrase": "red-carpet appearance",
-          "zh": "紅地毯亮相",
-          "sample": "His rare red-carpet appearances are treated as events in themselves by local media."
+          "phrase": "narrow base of growth",
+          "zh": "增長基礎狹窄",
+          "sample": "A narrow base of growth leaves the economy vulnerable if demand for one product category falls."
         }
       ],
       "phrases": [
         {
-          "en": "let the work speak for itself",
-          "zh": "讓作品本身說話",
-          "sample": "Rather than courting headlines, he lets the work speak for itself."
+          "en": "a welcome sign of economic resilience",
+          "zh": "經濟韌性的可喜跡象",
+          "sample": "The latest GDP figures are a welcome sign of economic resilience amid global uncertainty."
         },
         {
-          "en": "shy away from the limelight",
-          "zh": "迴避鎂光燈",
-          "sample": "Many seasoned performers shy away from the limelight once they have nothing left to prove."
+          "en": "beat market expectations",
+          "zh": "超出市場預期",
+          "sample": "The growth figure beat market expectations by a wide margin."
         },
         {
-          "en": "resist the pull of fame",
-          "zh": "抗拒名氣的誘惑",
-          "sample": "It takes discipline to resist the pull of fame in an industry built on visibility."
+          "en": "paint an overly rosy picture",
+          "zh": "描繪過於樂觀的景象",
+          "sample": "Some economists worry that headline growth figures paint an overly rosy picture of the whole economy."
         },
         {
-          "en": "cultivate an air of mystery",
-          "zh": "刻意保持神秘感",
-          "sample": "By cultivating an air of mystery, he has kept the public curious for decades."
+          "en": "trickle down to ordinary households",
+          "zh": "惠及普通家庭",
+          "sample": "Whether export gains trickle down to ordinary households remains to be seen."
         },
         {
-          "en": "command respect through craft",
-          "zh": "憑藉技藝贏得尊重",
-          "sample": "He commands respect through craft rather than through calculated publicity stunts."
+          "en": "guard against complacency when headlines look rosy",
+          "zh": "在數據亮麗時仍須警惕自滿",
+          "sample": "Officials are being urged to guard against complacency when headlines look rosy."
         },
         {
-          "en": "prove his staying power",
-          "zh": "證明其持久魅力",
-          "sample": "Few stars prove their staying power across five decades the way he has."
+          "en": "diversify the economic base",
+          "zh": "使經濟基礎多元化",
+          "sample": "Policymakers are under pressure to diversify the economic base beyond trade and finance."
         },
         {
-          "en": "embody a bygone era of restraint",
-          "zh": "體現昔日含蓄克制的風氣",
-          "sample": "His style seems to embody a bygone era of restraint rarely seen in today's industry."
+          "en": "a double-edged sword for policymakers",
+          "zh": "對政策制定者而言是一把雙刃劍",
+          "sample": "Rapid export-led growth can be a double-edged sword for policymakers managing inflation."
         },
         {
-          "en": "defy the conventions of celebrity culture",
-          "zh": "打破名人文化的常規",
-          "sample": "He defies the conventions of celebrity culture by granting almost no personal interviews."
+          "en": "lay the groundwork for sustained recovery",
+          "zh": "為持續復甦奠定基礎",
+          "sample": "Officials hope the latest data will lay the groundwork for sustained recovery across all sectors."
         },
         {
-          "en": "carve out a singular legacy",
-          "zh": "開創獨一無二的地位",
-          "sample": "Through sheer consistency, he has carved out a singular legacy in Asian cinema."
+          "en": "shield vulnerable industries from shocks",
+          "zh": "保障脆弱行業免受衝擊",
+          "sample": "The government has been urged to shield vulnerable industries from external economic shocks."
         },
         {
-          "en": "earn acclaim without courting it",
-          "zh": "不刻意追求卻贏得讚譽",
-          "sample": "It is rare for a star to earn acclaim without courting it so openly."
+          "en": "a lopsided recovery",
+          "zh": "一個不平衡的復甦",
+          "sample": "Critics describe the current rebound as a lopsided recovery favouring only a few sectors."
         },
         {
-          "en": "remain enigmatic to the public eye",
-          "zh": "在公眾眼中保持神秘",
-          "sample": "He has chosen to remain enigmatic to the public eye throughout his career."
+          "en": "bode well for the year ahead",
+          "zh": "對來年前景有利",
+          "sample": "Strong export numbers bode well for the year ahead, provided global demand holds steady."
         },
         {
-          "en": "outlast fleeting trends in fame",
-          "zh": "超越名氣的一時潮流",
-          "sample": "True artistry tends to outlast fleeting trends in fame."
-        },
-        {
-          "en": "set a benchmark for future generations",
-          "zh": "為後輩樹立標準",
-          "sample": "His restraint sets a benchmark for future generations of actors to measure themselves against."
-        },
-        {
-          "en": "trade publicity for privacy",
-          "zh": "以隱私換取免於宣傳",
-          "sample": "Some stars willingly trade publicity for privacy once their reputation is secure."
-        },
-        {
-          "en": "let the accolades do the talking",
-          "zh": "讓獎項自己說話",
-          "sample": "Instead of self-promotion, he lets the accolades do the talking."
-        }
-      ]
-    },
-    {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/society/article/3373391/hong-kong-working-carers-shun-family-friendly-measures-amid-stigma-fears-study",
-      "published_date": "5 November 2026",
-      "headline": "Hong Kong Working Carers Shun Family-Friendly Measures Amid Stigma Fears, Study Finds",
-      "category": "family",
-      "summary_html": "<p>A new survey by researchers at Tung Wah College has found that many working caregivers in Hong Kong quietly avoid the very arrangements meant to help them, out of fear of being <span class=\"bw\">stigmatised<span class=\"tip\"><span class=\"tip-en\">treated as different or shameful because of a personal circumstance</span><span class=\"tip-zh\">被污名化</span></span></span> for appearing less committed to their jobs. Among 566 working carers aged between 21 and 73 who took part, researchers found that more than half had never once used the <span class=\"bw\">flexible working arrangements<span class=\"tip\"><span class=\"tip-en\">work schedules that can be adjusted to suit an employee's personal needs</span><span class=\"tip-zh\">彈性工作安排</span></span></span> their employers formally offered, even when juggling full-time work with caring for an ageing parent, a sick spouse or a child with additional needs.</p><p>Among those who did use such measures, flexible hours proved the most popular, taken up by a third of respondents, followed by part-time work, working from home and a <span class=\"bw\">compressed working week<span class=\"tip\"><span class=\"tip-en\">a schedule that condenses the usual working hours into fewer, longer days</span><span class=\"tip-zh\">壓縮工作週</span></span></span>. The payoff appeared measurable: carers who used these arrangements reported noticeably fewer <span class=\"bw\">depressive symptoms<span class=\"tip\"><span class=\"tip-en\">signs of depression, such as persistent low mood and loss of energy</span><span class=\"tip-zh\">抑鬱症狀</span></span></span> and a lighter <span class=\"bw\">caregiving burden<span class=\"tip\"><span class=\"tip-en\">the physical, emotional and practical strain of caring for a dependent family member</span><span class=\"tip-zh\">照顧者的負擔</span></span></span> than those who continued to <span class=\"bw\">shoulder caregiving duties<span class=\"tip\"><span class=\"tip-en\">to take on and bear responsibility for caring for someone</span><span class=\"tip-zh\">肩負照顧責任</span></span></span> largely in silence, suggesting the real barrier standing between carers and relief is less about availability and more about workplace stigma.</p><p>Researchers also pointed to a structural problem layered on top of the cultural one: many support services for carers still operate only during <span class=\"bw\">standard office hours<span class=\"tip\"><span class=\"tip-en\">the usual 9-to-5 working schedule followed by most employers</span><span class=\"tip-zh\">標準辦公時間</span></span></span>, making them almost impossible for a working carer to reach without taking leave. The study's authors argue that closing this gap will require more than new policies on paper; it demands a genuine <span class=\"bw\">workplace culture shift<span class=\"tip\"><span class=\"tip-en\">a broader change in the shared attitudes and unwritten norms of a workplace</span><span class=\"tip-zh\">職場文化轉變</span></span></span> that frees carers from the sense that asking for help will cost them their professional standing.</p>",
-      "summary_zh_html": "<p>東華學院一項最新調查發現，許多在職照顧者在香港其實甚少使用原本為他們而設的支援安排，原因是他們害怕因照顧家人而顯得對工作不夠投入，擔心因此<span class=\"bwz\">被污名化</span>。在566名年齡介乎21至73歲的在職照顧者當中，研究人員發現超過一半人從未使用過僱主正式提供的<span class=\"bwz\">彈性工作安排</span>，即使他們正同時兼顧全職工作，以及照顧年邁父母、患病配偶或有特殊需要的子女。</p><p>在曾經使用相關安排的受訪者當中，彈性上班時間最受歡迎，有三分之一受訪者採用，其次依次為兼職、在家工作，以及<span class=\"bwz\">壓縮工作週</span>。成效似乎相當明顯：曾使用這些安排的照顧者，其<span class=\"bwz\">抑鬱症狀</span>明顯較少，<span class=\"bwz\">照顧者的負擔</span>亦較輕，相比之下，那些長期獨自默默<span class=\"bwz\">肩負照顧責任</span>的照顧者則情況較差，反映照顧者與支援之間真正的障礙，與資源是否存在的關係較小，反而與職場污名更有關。</p><p>研究人員亦指出一個疊加於文化問題之上的結構性困難：許多為照顧者而設的支援服務，仍然只在<span class=\"bwz\">標準辦公時間</span>提供，令在職照顧者幾乎無法在不請假的情況下使用。研究作者認為，要彌合這道差距，單靠紙上政策並不足夠，必須有一場真正的<span class=\"bwz\">職場文化轉變</span>，讓照顧者不再擔心開口求助會損害自己的職業地位。</p>",
-      "image_scene": "A tidy Hong Kong open-plan office at dusk, an anonymous woman in smart office clothing at her desk quietly checking her phone with a worried expression while colleagues work nearby unaware, a small framed photo of an elderly woman and a child visible beside her keyboard, soft desk-lamp light, no readable text or logos.",
-      "slides": {
-        "topic_en": "Hong Kong's Hidden Working Carers",
-        "background_en": "A new survey finds over half of Hong Kong's working carers never use the flexible arrangements their employers offer.",
-        "background_zh": "一項新調查發現，超過一半香港在職照顧者從未使用僱主提供的彈性工作安排。",
-        "background_hl": "never use the flexible arrangements",
-        "analysis_en": "The findings suggest stigma, not a lack of options, is what truly keeps exhausted carers from asking for help.",
-        "analysis_zh": "研究結果顯示，真正阻礙疲憊的照顧者求助的，並非缺乏選擇，而是職場污名。",
-        "analysis_hl": "stigma, not a lack of options",
-        "support_en": "Supporters say normalising flexible arrangements protects carers' mental health and keeps experienced staff from quitting altogether.",
-        "support_zh": "支持者認為，將彈性安排常態化，有助保障照顧者的心理健康，亦能避免資深員工徹底辭職。",
-        "support_hl": "protects carers' mental health",
-        "oppose_en": "Critics warn that without changing manager attitudes, formal policies alone will not stop carers fearing judgment at work.",
-        "oppose_zh": "批評者警告，若不改變上司的態度，單靠書面政策並不能阻止照顧者擔心在職場受到負面評價。",
-        "oppose_hl": "will not stop carers fearing judgment",
-        "vocab5": [
-          {
-            "en": "work-life balance",
-            "zh": "工作與生活平衡"
-          },
-          {
-            "en": "caregiver stigma",
-            "zh": "照顧者污名"
-          },
-          {
-            "en": "flexible arrangement",
-            "zh": "彈性安排"
-          },
-          {
-            "en": "mental well-being",
-            "zh": "心理健康"
-          },
-          {
-            "en": "workplace support",
-            "zh": "職場支援"
-          }
-        ],
-        "question_en": "How can workplaces reassure caregivers that asking for flexibility will not be held against them?",
-        "question_zh": "僱主應如何讓照顧者安心，相信要求彈性安排不會對自己不利？",
-        "question_hl": "will not be held against them"
-      },
-      "cover_text": {
-        "zh_kicker": "照顧者困境",
-        "zh_title": [
-          "逾半照顧者",
-          "寧捱唔求助"
-        ],
-        "zh_hl": "逾半",
-        "zh_sub": "怕被標籤拒用彈性上班",
-        "en": "Over half of Hong Kong's working carers avoid flexible work options."
-      },
-      "vocab": [
-        {
-          "phrase": "caregiving burden",
-          "zh": "照顧負擔",
-          "sample": "The caregiving burden can quietly erode a person's career prospects over several years."
-        },
-        {
-          "phrase": "flexible working hours",
-          "zh": "彈性上班時間",
-          "sample": "Flexible working hours let her collect her mother from the clinic without using annual leave."
-        },
-        {
-          "phrase": "compressed working week",
-          "zh": "壓縮工作週",
-          "sample": "Under a compressed working week, she finishes her five days of duties in four, freeing one weekday for care duties."
-        },
-        {
-          "phrase": "part-time arrangement",
-          "zh": "兼職安排",
-          "sample": "A part-time arrangement allowed him to keep working while caring for his disabled son."
-        },
-        {
-          "phrase": "remote working",
-          "zh": "遠程工作",
-          "sample": "Remote working meant she could monitor her father's medication schedule between video calls."
-        },
-        {
-          "phrase": "depressive symptoms",
-          "zh": "抑鬱症狀",
-          "sample": "Carers who rarely took a break reported far more depressive symptoms than those who did."
-        },
-        {
-          "phrase": "workplace stigma",
-          "zh": "職場污名",
-          "sample": "Workplace stigma, not policy, is often the real reason carers stay silent."
-        },
-        {
-          "phrase": "support service",
-          "zh": "支援服務",
-          "sample": "Many support services close before a typical working carer even leaves the office."
-        },
-        {
-          "phrase": "caregiver fatigue",
-          "zh": "照顧者疲勞",
-          "sample": "Caregiver fatigue builds quietly until a single missed appointment finally forces a crisis."
-        },
-        {
-          "phrase": "staff retention",
-          "zh": "員工留任率",
-          "sample": "Firms that support caregivers tend to enjoy higher staff retention over time."
-        },
-        {
-          "phrase": "hidden care work",
-          "zh": "隱性照顧工作",
-          "sample": "Hidden care work rarely shows up in any company's productivity statistics."
-        },
-        {
-          "phrase": "normalise flexibility",
-          "zh": "將彈性安排常態化",
-          "sample": "Normalising flexibility at work could spare thousands of carers from having to choose between a job and a parent."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "juggle work and caregiving",
-          "zh": "兼顧工作與照顧責任",
-          "sample": "Thousands of Hongkongers juggle work and caregiving without ever telling their managers."
-        },
-        {
-          "en": "fear being judged at work",
-          "zh": "擔心在職場受到負面評價",
-          "sample": "Many carers fear being judged at work simply for leaving early to collect medication."
-        },
-        {
-          "en": "fall through the cracks",
-          "zh": "被制度忽略",
-          "sample": "Working carers on irregular shifts often fall through the cracks of standard support services."
-        },
-        {
-          "en": "put career ambitions on hold",
-          "zh": "將事業野心暫時擱置",
-          "sample": "She put her career ambitions on hold the year her mother's dementia worsened."
-        },
-        {
-          "en": "quietly absorb the strain",
-          "zh": "默默承受壓力",
-          "sample": "Rather than ask for help, many carers quietly absorb the strain until it affects their health."
-        },
-        {
-          "en": "bridge the support gap",
-          "zh": "彌合支援缺口",
-          "sample": "Extending clinic hours could help bridge the support gap facing working carers."
-        },
-        {
-          "en": "normalise asking for help",
-          "zh": "使求助變得理所當然",
-          "sample": "Workplaces need to normalise asking for help instead of treating it as a weakness."
-        },
-        {
-          "en": "erode one's well-being",
-          "zh": "侵蝕個人健康",
-          "sample": "Years of unacknowledged caregiving can slowly erode one's well-being."
-        },
-        {
-          "en": "treat flexibility as a right, not a favour",
-          "zh": "將彈性安排視為權利而非恩惠",
-          "sample": "Policy alone will not help unless employers treat flexibility as a right, not a favour."
-        },
-        {
-          "en": "shoulder a double burden",
-          "zh": "肩負雙重負擔",
-          "sample": "Working mothers caring for elderly parents often shoulder a double burden with little recognition."
-        },
-        {
-          "en": "keep experienced staff from leaving",
-          "zh": "留住有經驗的員工",
-          "sample": "Supporting carers can keep experienced staff from leaving for less demanding jobs."
-        },
-        {
-          "en": "measure success by uptake, not policy on paper",
-          "zh": "以實際採用率而非書面政策衡量成效",
-          "sample": "Success should be measured by uptake, not policy on paper."
-        },
-        {
-          "en": "break the silence around caregiving",
-          "zh": "打破照顧議題的沉默",
-          "sample": "More open conversations could break the silence around caregiving at work."
-        },
-        {
-          "en": "extend support beyond office hours",
-          "zh": "將支援服務延伸至辦公時間以外",
-          "sample": "Extending support beyond office hours would help carers who cannot take time off."
-        },
-        {
-          "en": "lighten the load at home",
-          "zh": "減輕家庭照顧的負擔",
-          "sample": "Even small adjustments at work can lighten the load at home for a tired carer."
+          "en": "remain cautiously optimistic",
+          "zh": "保持審慎樂觀",
+          "sample": "Businesses remain cautiously optimistic despite ongoing uncertainty in global markets."
         }
       ]
     },
     {
       "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/344650/Environment-chief-defends-2030-clean-air-targets-and-outlines-shift-toward-construction-site-hydrogen-power",
-      "published_date": "1 November 2026",
-      "headline": "Environment Chief Defends 2030 Clean Air Targets, Outlines Shift Toward Construction-Site Hydrogen Power",
-      "category": "env",
-      "summary_html": "<p>Hong Kong's environment chief has defended the city's target of cutting average <span class=\"bw\">fine suspended particulates<span class=\"tip\"><span class=\"tip-en\">tiny airborne pollutant particles, commonly measured as PM2.5, that are small enough to be inhaled deep into the lungs</span><span class=\"tip-zh\">微細懸浮粒子</span></span></span> to below 14 micrograms per cubic metre by 2030, describing the goal as realistic but challenging. Speaking to the government's Advisory Council on the Environment, Secretary for Environment and Ecology Tse Chin-wan said the target, set out in Hong Kong's first-ever Five-Year Development Plan, would require sustained effort given that <span class=\"bw\">vehicle emissions<span class=\"tip\"><span class=\"tip-en\">exhaust and pollutants released into the air by cars, buses and trucks</span><span class=\"tip-zh\">車輛排放</span></span></span> remain the single largest source of local air pollution.</p><p>Tse acknowledged that air quality has already improved markedly as <span class=\"bw\">electric vehicle adoption<span class=\"tip\"><span class=\"tip-en\">the growing use of cars and buses powered by electricity instead of petrol or diesel</span><span class=\"tip-zh\">電動車普及</span></span></span> accelerates across the city, but said further gains will depend on tackling sources beyond the road. The government plans to introduce legislation next year to <span class=\"bw\">tighten emission standards<span class=\"tip\"><span class=\"tip-en\">make the legal limits on pollutant output stricter</span><span class=\"tip-zh\">收緊排放標準</span></span></span> for marine vessels, while also exploring <span class=\"bw\">hydrogen-powered machinery<span class=\"tip\"><span class=\"tip-en\">equipment that runs on hydrogen fuel instead of diesel, producing water rather than pollutants</span><span class=\"tip-zh\">氫能驅動機械</span></span></span> for use at remote construction sites where connecting to the electricity grid is difficult. Officials are separately re-examining their <span class=\"bw\">Scheme of Control Agreements<span class=\"tip\"><span class=\"tip-en\">the regulatory contracts that set the permitted profits and obligations of Hong Kong's power companies</span><span class=\"tip-zh\">《管制計劃協議》</span></span></span> with the city's two power companies, CLP Power and HK Electric, as part of a wider push toward carbon neutrality by 2050.</p><p>The Five-Year Plan also commits Hong Kong to cutting its <span class=\"bw\">carbon intensity<span class=\"tip\"><span class=\"tip-en\">the amount of carbon emissions produced per unit of economic output</span><span class=\"tip-zh\">碳排放強度</span></span></span> by 32.5 percent by 2030, measured against 2024 levels. Green groups have broadly welcomed the direction but questioned whether voluntary <span class=\"bw\">industry cooperation<span class=\"tip\"><span class=\"tip-en\">businesses choosing to follow environmental guidelines without being legally forced to</span><span class=\"tip-zh\">業界合作</span></span></span> will be enough without firmer enforcement, leaving officials to walk a line between ambition and what remains achievable in a city still heavily reliant on fossil fuels for power generation and shipping.</p>",
-      "summary_zh_html": "<p>香港環保局局長為本港目標進行辯解——該目標是要在二零三零年前，將平均<span class=\"bwz\">微細懸浮粒子</span>（即PM2.5）濃度降至每立方米十四微克以下，並形容此目標「現實但具挑戰性」。環境及生態局局長謝展寰向政府環境諮詢委員會發言時表示，此目標訂於香港首份五年發展規劃之中，鑑於<span class=\"bwz\">車輛排放</span>仍是本地空氣污染的最大單一來源，達標將需要持續努力。</p><p>謝展寰承認，隨著<span class=\"bwz\">電動車普及</span>加快，空氣質素已明顯改善，但他表示，要取得進一步成效，仍須處理道路以外的污染源。政府計劃明年立法<span class=\"bwz\">收緊排放標準</span>，規管船舶排放，同時探討在難以接駁電網的偏遠建築工地，使用<span class=\"bwz\">氫能驅動機械</span>。當局亦正另行檢討與兩家電力公司——中電及港燈——簽訂的<span class=\"bwz\">《管制計劃協議》</span>，作為邁向二零五零年碳中和目標的一部分舉措。</p><p>《五年規劃》亦承諾香港在二零三零年前，將<span class=\"bwz\">碳排放強度</span>——即每單位經濟產出所產生的排放量——按二零二四年水平計算削減百分之三十二點五。環保團體普遍歡迎這個方向，但質疑單靠自願性的<span class=\"bwz\">業界合作</span>，在缺乏更嚴格執法的情況下，是否足以達標，令官員須在雄心與一個仍高度依賴化石燃料發電及航運的城市所能實現的範圍之間，取得平衡。</p>",
-      "image_scene": "A wide view of Hong Kong's Victoria Harbour at dusk with container ships and ferries passing, a line of electric buses charging at a roadside depot in the foreground, construction cranes silhouetted on a distant site, faint haze softening the skyline's outline, no readable signs or logos.",
+      "source_url": "https://www.thestandard.com.hk/finance/article/347519/Crypto-holders-face-tax-reporting-under-new-law-passed-by-LegCo",
+      "published_date": "4 November 2026",
+      "headline": "Lawmakers Pass Bill Forcing Crypto Firms to Report Customer Data",
+      "category": "law",
+      "summary_html": "<p>Hong Kong's Legislative Council passed a bill on Wednesday requiring cryptocurrency exchanges, brokers and other digital-asset firms to collect and hand over customer transaction records to the taxman, in a move officials say will close loopholes used for <span class=\"bw\">cross-border tax evasion<span class=\"tip\"><span class=\"tip-en\">avoiding tax by hiding income or assets in another country</span><span class=\"tip-zh\">跨境逃稅</span></span></span>. The Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026 cleared its <span class=\"bw\">third reading<span class=\"tip\"><span class=\"tip-en\">the final vote stage by which a bill officially becomes law</span><span class=\"tip-zh\">三讀</span></span></span> after lawmakers debated concerns from the digital-asset industry over implementation costs.</p><p>Under the new <span class=\"bw\">regulatory framework<span class=\"tip\"><span class=\"tip-en\">the system of rules used to oversee an activity</span><span class=\"tip-zh\">監管框架</span></span></span>, crypto-asset service providers with a <span class=\"bw\">reporting nexus<span class=\"tip\"><span class=\"tip-en\">a legal connection to a place that obliges a business to report there</span><span class=\"tip-zh\">申報聯繫</span></span></span> to Hong Kong, including exchanges, brokers and operators of cryptocurrency ATMs, must register with the Inland Revenue Department and carry out <span class=\"bw\">due diligence<span class=\"tip\"><span class=\"tip-en\">the careful checks a business must perform before acting</span><span class=\"tip-zh\">盡職審查</span></span></span> on their customers. Data collection begins on January 1, 2027, with the <span class=\"bw\">automatic exchange of information<span class=\"tip\"><span class=\"tip-en\">the routine sharing of financial data between tax authorities without a specific request</span><span class=\"tip-zh\">資料自動交換</span></span></span> with partner jurisdictions to follow from 2028, aligning the city with international standards set by the Organisation for Economic Co-operation and Development.</p><p>Industry groups broadly welcomed the move as a step that would bolster Hong Kong's credibility as a regulated financial hub, though some warned that the new <span class=\"bw\">compliance burden<span class=\"tip\"><span class=\"tip-en\">the cost and effort involved in following rules and regulations</span><span class=\"tip-zh\">合規負擔</span></span></span> could weigh heavily on smaller start-ups. The Hong Kong Securities and Futures Professionals Association said it backed the framework in principle but urged regulators to allow more flexible record-keeping arrangements for firms with limited manpower. Officials maintain that the rules target systemic tax avoidance rather than ordinary retail investors, and stressed that failing to register or report accurately could still expose firms to penalties under the ordinance.</p>",
+      "summary_zh_html": "<p>香港立法會星期三通過一項法案，要求加密貨幣交易所、經紀及其他數碼資產公司收集客戶交易紀錄並交予稅務機關，官員表示此舉旨在堵塞被用於<span class=\"bwz\">跨境逃稅</span>的漏洞。《2026年稅務（修訂）（加密資產報告框架及經修訂共同匯報標準）條例草案》在議員就業界對實施成本的疑慮進行辯論後，完成<span class=\"bwz\">三讀</span>程序。</p><p>根據新的<span class=\"bwz\">監管框架</span>，與香港具有<span class=\"bwz\">申報聯繫</span>的加密資產服務提供者，包括交易所、經紀及加密貨幣自動櫃員機營運商，均須向稅務局登記，並對客戶進行<span class=\"bwz\">盡職審查</span>。資料收集工作將於2027年1月1日展開，與其他司法管轄區之間的<span class=\"bwz\">資料自動交換</span>則由2028年起實施，使香港與經濟合作與發展組織所訂立的國際標準看齊。</p><p>業界普遍歡迎此舉，認為有助鞏固香港作為受規管金融中心的信譽，但亦有意見擔心新增的<span class=\"bwz\">合規負擔</span>可能令規模較小的初創企業承受較大壓力。香港證券及期貨從業員協會表示原則上支持新框架，但促請監管機構為人手有限的公司提供更具彈性的紀錄保存安排。官員強調，新規定針對的是系統性逃稅行為，而非一般散戶投資者，並指出未能登記或準確申報的公司仍可能須根據條例承擔罰則。</p>",
+      "image_scene": "A modern Hong Kong office interior: a close-up of an anonymous finance professional in business attire at a sleek desk, reviewing a tablet showing abstract glowing blue cryptocurrency coin icons and rising chart lines with no legible text, a skyline of Central's skyscrapers visible through a floor-to-ceiling window behind.",
       "slides": {
-        "topic_en": "Hong Kong Defends Its 2030 Clean Air Target",
-        "background_en": "Hong Kong's environment chief has defended the city's target of cutting PM2.5 pollution to below 14 micrograms by 2030.",
-        "background_zh": "香港環保局局長為本港在二零三零年前將PM2.5降至每立方米十四微克以下的目標作出辯護。",
-        "background_hl": "cutting PM2.5 pollution to below 14 micrograms",
-        "analysis_en": "The debate centres on whether voluntary industry action can deliver real cuts without stronger legal enforcement.",
-        "analysis_zh": "爭議的核心在於，單靠業界自願行動，在缺乏更強執法的情況下，能否帶來真正的減排成效。",
-        "analysis_hl": "voluntary industry action",
-        "support_en": "Supporters say the plan is realistic, pairing cleaner vehicles with new rules for ships and construction sites.",
-        "support_zh": "支持者認為計劃切實可行，在推動更清潔車輛的同時，亦為船舶及建築工地制定新規則。",
-        "support_hl": "pairing cleaner vehicles with new rules",
-        "oppose_en": "Critics argue the target still falls short of World Health Organization guidelines and risks being too cautious.",
-        "oppose_zh": "批評者認為，目標仍未達到世界衛生組織的標準，而且可能過於保守。",
-        "oppose_hl": "falls short of World Health Organization guidelines",
+        "topic_en": "Hong Kong's New Crypto Tax Law",
+        "background_en": "Hong Kong's legislature passed a law requiring crypto firms to collect and report customer transaction data to tax authorities from 2027.",
+        "background_zh": "香港立法會通過法例，要求加密貨幣公司從2027年起收集並向稅務機關申報客戶交易數據。",
+        "background_hl": "report customer transaction data",
+        "analysis_en": "The law aligns Hong Kong with global tax standards but raises questions about privacy and the cost of compliance for smaller firms.",
+        "analysis_zh": "法例使香港與全球稅務標準看齊，但亦引起有關私隱及中小企合規成本的疑慮。",
+        "analysis_hl": "global tax standards",
+        "support_en": "Supporters say the rules will deter tax evasion and strengthen Hong Kong's reputation as a well-regulated international financial centre.",
+        "support_zh": "支持者認為新規定有助遏止逃稅，並鞏固香港作為國際金融中心的良好監管聲譽。",
+        "support_hl": "deter tax evasion",
+        "oppose_en": "Critics argue the reporting burden could push smaller crypto start-ups to relocate to jurisdictions with lighter regulatory requirements.",
+        "oppose_zh": "批評者擔心申報負擔或會迫使規模較小的加密貨幣初創企業遷往監管較寬鬆的地區。",
+        "oppose_hl": "reporting burden",
         "vocab5": [
           {
-            "en": "fine particulate matter",
-            "zh": "微細懸浮粒子"
+            "en": "tax evasion",
+            "zh": "逃稅"
           },
           {
-            "en": "vehicle emissions",
-            "zh": "車輛排放"
+            "en": "regulatory compliance",
+            "zh": "監管合規"
           },
           {
-            "en": "carbon intensity",
-            "zh": "碳排放強度"
+            "en": "data privacy",
+            "zh": "資料私隱"
           },
           {
-            "en": "clean energy transition",
-            "zh": "清潔能源轉型"
+            "en": "financial transparency",
+            "zh": "金融透明度"
           },
           {
-            "en": "emission standards",
-            "zh": "排放標準"
+            "en": "cross-border reporting",
+            "zh": "跨境申報"
           }
         ],
-        "question_en": "Should Hong Kong adopt stricter World Health Organization air quality guidelines even if the target becomes harder to meet?",
-        "question_zh": "即使目標會變得更難達成，香港應否採納更嚴格的世界衛生組織空氣質素標準？",
-        "question_hl": "harder to meet"
+        "question_en": "Does requiring crypto firms to report customer data protect the public interest, or does it threaten personal financial privacy?",
+        "question_zh": "要求加密貨幣公司申報客戶資料，是保障公眾利益，還是威脅個人財務私隱？",
+        "question_hl": "protect the public interest"
       },
       "cover_text": {
-        "zh_kicker": "空氣新目標",
+        "zh_kicker": "加密稅務",
         "zh_title": [
-          "PM2.5",
-          "降至14微克"
+          "加密貨幣",
+          "須報稅"
         ],
-        "zh_hl": "14微克",
-        "zh_sub": "官方稱目標現實但具挑戰",
-        "en": "Hong Kong defends its 2030 target to cut PM2.5 pollution."
+        "zh_hl": "須報稅",
+        "zh_sub": "2027年起交易所須交資料",
+        "en": "Hong Kong passes new law on crypto tax reporting"
       },
       "vocab": [
         {
-          "phrase": "fine suspended particulates",
-          "zh": "微細懸浮粒子",
-          "sample": "Fine suspended particulates remain the pollutant most closely linked to respiratory illness in dense cities."
+          "phrase": "tax evasion",
+          "zh": "逃稅",
+          "sample": "The new law targets tax evasion by forcing crypto platforms to disclose customer records."
         },
         {
-          "phrase": "vehicle emissions",
-          "zh": "車輛排放",
-          "sample": "Vehicle emissions continue to dominate roadside pollution readings in Hong Kong's busiest districts."
+          "phrase": "legal framework",
+          "zh": "法律框架",
+          "sample": "Hong Kong's legal framework for digital assets is being tightened to match global norms."
         },
         {
-          "phrase": "electric vehicle adoption",
-          "zh": "電動車普及",
-          "sample": "Faster electric vehicle adoption has already measurably improved roadside air quality."
+          "phrase": "reporting obligation",
+          "zh": "申報義務",
+          "sample": "Crypto exchanges now have a clear reporting obligation under the amended ordinance."
         },
         {
-          "phrase": "marine vessel emission standards",
-          "zh": "船舶排放標準",
-          "sample": "Tighter marine vessel emission standards would target one of the harbour's most overlooked pollution sources."
+          "phrase": "customer due diligence",
+          "zh": "客戶盡職審查",
+          "sample": "Customer due diligence checks will become mandatory for every registered crypto platform."
         },
         {
-          "phrase": "hydrogen-powered machinery",
-          "zh": "氫能驅動機械",
-          "sample": "Hydrogen-powered machinery could cut emissions at construction sites too remote for a stable power grid."
+          "phrase": "automatic exchange of information",
+          "zh": "資料自動交換",
+          "sample": "The automatic exchange of information allows tax authorities to share data without a formal request."
         },
         {
-          "phrase": "net-zero pathway",
-          "zh": "淨零排放路徑",
-          "sample": "Officials insist the net-zero pathway remains on track despite the challenges ahead."
+          "phrase": "administrative burden",
+          "zh": "行政負擔",
+          "sample": "Smaller firms worry that the administrative burden of the new rules will be difficult to absorb."
         },
         {
-          "phrase": "Scheme of Control Agreement",
-          "zh": "管制計劃協議",
-          "sample": "Campaigners want the Scheme of Control Agreement rewritten to reward cleaner power generation."
+          "phrase": "financial transparency",
+          "zh": "金融透明度",
+          "sample": "Greater financial transparency makes it harder for criminals to hide illicit gains."
         },
         {
-          "phrase": "carbon intensity target",
-          "zh": "碳排放強度目標",
-          "sample": "Cutting the carbon intensity target by a third would require deep changes across both transport and construction."
+          "phrase": "digital-asset service provider",
+          "zh": "數碼資產服務提供者",
+          "sample": "Every digital-asset service provider operating in the city must now register with the tax authority."
         },
         {
-          "phrase": "pollutant concentration reading",
-          "zh": "污染物濃度讀數",
-          "sample": "A sudden spike in the pollutant concentration reading prompted the health warning."
+          "phrase": "international standard",
+          "zh": "國際標準",
+          "sample": "Adopting this international standard should strengthen investor confidence in Hong Kong's market."
         },
         {
-          "phrase": "fossil fuel reliance",
-          "zh": "依賴化石燃料",
-          "sample": "Reducing fossil fuel reliance remains the hardest part of the government's climate roadmap."
+          "phrase": "regulatory loophole",
+          "zh": "監管漏洞",
+          "sample": "Regulators hope the new rules will close a regulatory loophole long exploited by tax dodgers."
         },
         {
-          "phrase": "roadside pollution",
-          "zh": "路邊污染",
-          "sample": "Roadside pollution levels are routinely higher than readings taken at rural monitoring stations."
+          "phrase": "reporting nexus",
+          "zh": "申報聯繫",
+          "sample": "Only firms with a genuine reporting nexus to Hong Kong fall under the new requirement."
         },
         {
-          "phrase": "clean energy transition",
-          "zh": "清潔能源轉型",
-          "sample": "A faster clean energy transition would help the city meet its 2030 target with room to spare."
+          "phrase": "start-up relocation",
+          "zh": "初創企業遷移",
+          "sample": "Industry voices warn that heavy-handed rules could trigger start-up relocation to friendlier markets."
         }
       ],
       "phrases": [
         {
-          "en": "strike a balance between ambition and feasibility",
-          "zh": "在雄心與可行性之間取得平衡",
-          "sample": "Any climate target must strike a balance between ambition and feasibility."
+          "en": "close a long-standing loophole",
+          "zh": "堵塞一個長期存在的漏洞",
+          "sample": "The bill is designed to close a long-standing loophole exploited by tax evaders."
         },
         {
-          "en": "fall short of international guidelines",
-          "zh": "未達國際標準",
-          "sample": "Hong Kong's air quality target still falls short of international guidelines set by health experts."
+          "en": "strike a balance between regulation and innovation",
+          "zh": "在監管與創新之間取得平衡",
+          "sample": "Lawmakers insist the bill strikes a balance between regulation and innovation."
         },
         {
-          "en": "tackle pollution at its source",
-          "zh": "從源頭治理污染",
-          "sample": "Officials insist the plan will tackle pollution at its source rather than merely monitoring it."
+          "en": "erode public trust in the financial system",
+          "zh": "侵蝕公眾對金融體系的信任",
+          "sample": "Unchecked tax evasion can erode public trust in the financial system over time."
         },
         {
-          "en": "phase out outdated machinery",
-          "zh": "淘汰過時機械",
-          "sample": "The scheme aims to phase out outdated machinery that burns diesel around the clock."
+          "en": "keep pace with international norms",
+          "zh": "與國際標準同步",
+          "sample": "The government says the reform allows Hong Kong to keep pace with international norms."
         },
         {
-          "en": "close the gap between policy and practice",
-          "zh": "彌合政策與實踐的差距",
-          "sample": "Closing the gap between policy and practice will decide whether the target is met."
+          "en": "disproportionately burden small businesses",
+          "zh": "對小型企業造成不成比例的負擔",
+          "sample": "Critics fear the rules will disproportionately burden small businesses with limited staff."
         },
         {
-          "en": "rely on voluntary compliance",
-          "zh": "依賴自願遵從",
-          "sample": "Critics worry the plan relies too heavily on voluntary compliance from private firms."
+          "en": "raise legitimate privacy concerns",
+          "zh": "引起正當的私隱疑慮",
+          "sample": "Collecting detailed transaction records raises legitimate privacy concerns among users."
         },
         {
-          "en": "set a realistic yet challenging benchmark",
-          "zh": "訂立現實但具挑戰的標準",
-          "sample": "Officials describe the target as a realistic yet challenging benchmark for the whole city."
+          "en": "deter illicit financial flows",
+          "zh": "遏止非法資金流動",
+          "sample": "Stronger reporting rules are meant to deter illicit financial flows across borders."
         },
         {
-          "en": "shift the burden onto future administrations",
-          "zh": "將責任轉移至未來政府",
-          "sample": "Some argue the 2030 deadline simply shifts the burden onto future administrations."
+          "en": "drive business to friendlier jurisdictions",
+          "zh": "促使企業轉往法規較寬鬆的地區",
+          "sample": "Overly strict rules risk driving business to friendlier jurisdictions overseas."
         },
         {
-          "en": "decouple growth from emissions",
-          "zh": "令經濟增長與排放脫鈎",
-          "sample": "The real test is whether Hong Kong can decouple growth from emissions over the next decade."
+          "en": "bring the sector out of the shadows",
+          "zh": "使該行業不再處於灰色地帶",
+          "sample": "Supporters say mandatory reporting will bring the crypto sector out of the shadows."
         },
         {
-          "en": "invest in low-carbon infrastructure",
-          "zh": "投資低碳基建",
-          "sample": "The city will need to invest in low-carbon infrastructure well beyond this single five-year plan."
+          "en": "a necessary price for legitimacy",
+          "zh": "換取認受性的必要代價",
+          "sample": "Industry figures view the extra paperwork as a necessary price for legitimacy."
         },
         {
-          "en": "hold polluters accountable",
-          "zh": "向污染者問責",
-          "sample": "Without stronger enforcement, it will be hard to hold polluters accountable."
+          "en": "tighten the net around tax dodgers",
+          "zh": "對逃稅者收緊網絡",
+          "sample": "The new framework is meant to tighten the net around tax dodgers using digital assets."
         },
         {
-          "en": "future-proof the power grid",
-          "zh": "為電網的未來發展作好準備",
-          "sample": "Renegotiating the agreements with power companies is one way to future-proof the power grid."
-        },
-        {
-          "en": "narrow the margin for error",
-          "zh": "收窄容錯空間",
-          "sample": "A fixed 2030 deadline narrows the margin for error considerably."
-        },
-        {
-          "en": "weigh short-term cost against long-term health",
-          "zh": "在短期成本與長期健康之間作出取捨",
-          "sample": "Policymakers must weigh short-term cost against long-term health when setting emission rules."
-        },
-        {
-          "en": "translate targets into enforceable rules",
-          "zh": "將目標轉化為可執行的規則",
-          "sample": "The real challenge lies in translating targets into enforceable rules for every industry."
+          "en": "safeguard the integrity of the tax system",
+          "zh": "維護稅制的完整性",
+          "sample": "Officials argue the rules are essential to safeguard the integrity of the tax system."
         }
       ]
     },
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/postmag/culture/native/topics/hong-kong-oyster-farming/article/3371761/hongkongs-700-year-old-oyster-industry-goes-hi-tech-super-specimen",
-      "published_date": "22 October 2026",
-      "headline": "Hong Kong's 700-Year-Old Oyster Industry Goes Hi-Tech With a 'Super' Specimen",
-      "category": "hk",
-      "summary_html": "<p>In the fishing village of Lau Fau Shan, where families have farmed oysters for some 700 years, a centuries-old trade <span class=\"bw\">passed down<span class=\"tip\"><span class=\"tip-en\">handed from one generation to the next within a family or community</span><span class=\"tip-zh\">代代傳承</span></span></span> through generations is being quietly reinvented in a university laboratory. Chan Kwok-leung, a sixth-generation farmer known locally as Brother Leung, has spent the past decade confronting a problem no amount of traditional skill could solve on its own: annual oyster <span class=\"bw\">die-offs<span class=\"tip\"><span class=\"tip-en\">events in which large numbers of a species die at the same time</span><span class=\"tip-zh\">蠔隻大量死亡</span></span></span> that farmers say can wipe out as much as 80 percent of a season's stock, driven by warmer, saltier water and shrinking breeding grounds.</p><p>Researchers at the University of Hong Kong believe part of the answer lies in genetics rather than technique. Using <span class=\"bw\">genomic selection<span class=\"tip\"><span class=\"tip-en\">a breeding method that uses genetic data to predict and choose the hardiest individuals</span><span class=\"tip-zh\">基因組選育</span></span></span>, scientists have bred what they call the “HKU Super Oyster”, a strain <span class=\"bw\">engineered<span class=\"tip\"><span class=\"tip-en\">deliberately designed or developed to have specific, useful qualities</span><span class=\"tip-zh\">改良培育</span></span></span> to tolerate high-salinity conditions at roughly three to four times the survival rate of ordinary local oysters. Early trials are under way on farmers' rafts, though growers caution that judging the strain's true <span class=\"bw\">resilience<span class=\"tip\"><span class=\"tip-en\">the ability to survive and recover from difficult or harsh conditions</span><span class=\"tip-zh\">抗逆能力</span></span></span> will take at least a full year, since oysters raised from lab-selected seed must still survive an entire natural growing cycle before anyone can call the experiment a success.</p><p>For Lau Fau Shan, where the number of working oyster farms has dwindled for decades, the stakes extend well beyond one harvest. A trade once central to the area's <span class=\"bw\">livelihood<span class=\"tip\"><span class=\"tip-en\">a person's or community's means of earning the income needed to live</span><span class=\"tip-zh\">生計</span></span></span> and identity now survives mostly as memory for many younger residents, and whether science can <span class=\"bw\">restore its viability<span class=\"tip\"><span class=\"tip-en\">bring something back to a state in which it can function and continue successfully</span><span class=\"tip-zh\">挽回其可持續性</span></span></span> may determine if the 700-year-old industry becomes a living trade again or fades into a story told at food-heritage exhibitions rather than practised on the water.</p>",
-      "summary_zh_html": "<p>在流浮山漁村——當地家庭養蠔的歷史已長達約七百年——一項<span class=\"bwz\">代代傳承</span>下來的古老行業，正悄悄在大學實驗室裡經歷一場重塑。第六代蠔農、本地人稱之為「良哥」的陳國樑，過去十年一直在設法解決一個單靠傳統技藝無法解決的問題：蠔農稱每年的<span class=\"bwz\">蠔隻大量死亡</span>情況，有時可令整季收成損失多達八成，原因包括水溫及鹽度上升，以及養殖場範圍日漸收窄。</p><p>香港大學的研究人員相信，部分答案在於基因，而非養殖技巧。科學家利用<span class=\"bwz\">基因組選育</span>技術，培育出所謂的「港大超級蠔」——一種經過<span class=\"bwz\">改良培育</span>、能在高鹽度環境下生存的品種，存活率約為本地普通蠔的三至四倍。相關品種現正在蠔農的養殖棚架上進行初步試養，但蠔農提醒，要判斷這個品種的真正<span class=\"bwz\">抗逆能力</span>，至少需要一整年時間，因為以實驗室篩選種苗養殖的蠔，仍須經歷完整的自然生長週期，才能判斷這次實驗是否成功。</p><p>對流浮山而言，隨著經營中的蠔場數目數十年來持續減少，這次嘗試的意義遠超一季收成。這個曾是當地<span class=\"bwz\">生計</span>與身份象徵核心的行業，對許多年輕居民而言，如今大多只剩記憶；科學能否成功<span class=\"bwz\">挽回其可持續性</span>，將會決定這個七百年歷史的行業，日後能否重新成為一門活生生的行業，還是只淪為美食文化展覽中被講述的故事，而非在水上真正被實踐的技藝。</p>",
-      "image_scene": "A traditional stilt-house fishing village at the water's edge in Hong Kong's New Territories at golden-hour light, an anonymous weathered farmer in rolled-up trousers standing on a floating wooden raft stacked with mesh oyster bags, calm shallow water stretching toward distant hills, a few small sampans moored nearby, no readable signage or logos.",
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/entertainment/article/347648/Nick-Cheung-to-stage-first-variety-show-at-Hong-Kong-Coliseum-during-Lunar-New-Year",
+      "published_date": "5 November 2026",
+      "headline": "Nick Cheung to Headline First-Ever Variety Show at Hong Kong Coliseum",
+      "category": "pop",
+      "summary_html": "<p>Actor Nick Cheung Ka-fai is set to headline a three-day <span class=\"bw\">variety show<span class=\"tip\"><span class=\"tip-en\">a stage programme that combines different kinds of entertainment such as comedy, singing and dancing</span><span class=\"tip-zh\">綜藝表演</span></span></span> at the Hong Kong Coliseum this coming Lunar New Year, marking his first time leading such a production at the 12,500-seat venue. The veteran performer announced The ChaChaFai Show on Thursday, revealing that the run will take place from February 6 to 8, coinciding with the first three days of the <span class=\"bw\">Lunar New Year<span class=\"tip\"><span class=\"tip-en\">the lunar calendar festival marking the start of the Chinese new year</span><span class=\"tip-zh\">農曆新年</span></span></span> holiday.</p><p>Rather than mount a conventional concert, Cheung said he wanted the show to feel like a full <span class=\"bw\">stage production<span class=\"tip\"><span class=\"tip-en\">an organised theatrical performance built around sets, scripts and staging</span><span class=\"tip-zh\">舞台製作</span></span></span>, weaving comedy sketches, songs and dance numbers around a loose narrative thread. In a promotional video released alongside the announcement, Cheung revisited five of his best-known <span class=\"bw\">signature roles<span class=\"tip\"><span class=\"tip-en\">the parts an actor is most famous for playing</span><span class=\"tip-zh\">代表角色</span></span></span>, from the boxing drama Unbeatable to the gangster comedy The Conman 1999, before appearing in a white tuxedo to confirm the show in person.</p><p>Industry observers see the production as both a <span class=\"bw\">box-office draw<span class=\"tip\"><span class=\"tip-en\">something expected to attract large paying audiences</span><span class=\"tip-zh\">票房保證</span></span></span> and a calculated appeal to <span class=\"bw\">nostalgia<span class=\"tip\"><span class=\"tip-en\">a sentimental longing for the past</span><span class=\"tip-zh\">懷舊情懷</span></span></span>, as fans who grew up watching Cheung's films are invited to relive familiar characters in a fresh format. The Coliseum, long associated with pop concerts by Cantopop stars, has in recent years begun hosting a wider range of formats, and organisers say the elaborate <span class=\"bw\">live staging<span class=\"tip\"><span class=\"tip-en\">the physical setting and arrangement of a performance on stage</span><span class=\"tip-zh\">現場舞台布置</span></span></span> for Cheung's show is still being finalised ahead of ticket sales.</p>",
+      "summary_zh_html": "<p>影星張家輝將於即將來臨的農曆新年期間，領銜主演一場為期三日的<span class=\"bwz\">綜藝表演</span>，在可容納12,500人的香港體育館舉行，是他首次在此場館擔綱此類製作。這位資深演員星期四宣布舉行《ChaChaFai Show》，透露演出將於2月6日至8日舉行，正值<span class=\"bwz\">農曆新年</span>假期首三日。</p><p>張家輝表示，他不希望以傳統演唱會形式呈現，而是希望整個演出猶如一場完整的<span class=\"bwz\">舞台製作</span>，將喜劇環節、歌曲及舞蹈編排在一條鬆散的故事線之中。在隨公布發布的宣傳片中，張家輝重現五個他最為人熟悉的<span class=\"bwz\">代表角色</span>，包括拳擊電影《激戰》及黑幫喜劇《賭俠1999》中的角色，最後以一身白色禮服現身，親自確認演出。</p><p>業界人士認為，這次製作既是<span class=\"bwz\">票房保證</span>，亦是對<span class=\"bwz\">懷舊情懷</span>的精心迎合，讓一班自小觀看張家輝電影長大的影迷，可以在全新形式下重遇熟悉的角色。香港體育館一向與粵語流行音樂巨星的演唱會關係密切，但近年開始接納更多元化的演出形式，主辦單位表示，張家輝演出的<span class=\"bwz\">現場舞台布置</span>仍在最後定案階段，尚未公開發售門票。</p>",
+      "image_scene": "A wide front-of-house view of the Hong Kong Coliseum's circular arena at night, rows of empty red seats sloping up toward the ceiling, a brightly lit round stage at the centre strung with colourful spotlights and hanging banners with no readable text; an anonymous stagehand in dark clothing wheels a rolling equipment case across the empty stage floor.",
       "slides": {
-        "topic_en": "Can Science Save Hong Kong's 700-Year-Old Oyster Trade?",
-        "background_en": "Lau Fau Shan farmers are testing a lab-bred 'Super Oyster' after die-offs wiped out up to 80 percent of past harvests.",
-        "background_zh": "流浮山蠔農正試養實驗室培育的「超級蠔」，此前蠔隻大量死亡曾令過往收成損失高達八成。",
-        "background_hl": "up to 80 percent of past harvests",
-        "analysis_en": "The experiment raises the question of whether genetic engineering can rescue a tradition that hands-on skill alone could not save.",
-        "analysis_zh": "這次實驗引發思考：基因改造能否拯救一項單靠傳統技藝無法保存的行業？",
-        "analysis_hl": "genetic engineering can rescue a tradition",
-        "support_en": "Supporters say the Super Oyster offers a realistic lifeline for an industry otherwise fading from both climate change and neglect.",
-        "support_zh": "支持者認為，超級蠔為一個正因氣候變化及被忽視而日漸式微的行業，提供了切實可行的生存機會。",
-        "support_hl": "a realistic lifeline for an industry",
-        "oppose_en": "Critics caution that one engineered strain cannot address the deeper pollution and habitat loss driving the industry's long decline.",
-        "oppose_zh": "批評者則提醒，單靠一個經改良的品種，並不能解決導致這個行業長期衰落的更深層污染及棲息地流失問題。",
-        "oppose_hl": "cannot address the deeper pollution and habitat loss",
+        "topic_en": "Nick Cheung's New Lunar New Year Show",
+        "background_en": "Nick Cheung announced a three-day variety show at the Hong Kong Coliseum during Lunar New Year, mixing comedy, singing and dancing.",
+        "background_zh": "張家輝宣布於農曆新年期間在香港體育館舉行三日綜藝表演，融合喜劇、歌唱及舞蹈。",
+        "background_hl": "variety show",
+        "analysis_en": "The show reflects how veteran film stars are reinventing live entertainment formats to keep long-time fans engaged beyond the cinema.",
+        "analysis_zh": "這次演出反映資深影星正重新構思現場娛樂形式，希望在電影以外繼續吸引長期支持者。",
+        "analysis_hl": "reinventing live entertainment formats",
+        "support_en": "Supporters say such shows showcase Hong Kong's creative talent and give fans a fresh, interactive way to enjoy a familiar star.",
+        "support_zh": "支持者認為這類演出展現香港的創意人才，亦為影迷提供全新互動方式欣賞熟悉的明星。",
+        "support_hl": "showcase Hong Kong's creative talent",
+        "oppose_en": "Sceptics worry that blending film nostalgia with live performance is a safe commercial formula rather than genuine artistic risk-taking.",
+        "oppose_zh": "質疑者擔心將電影懷舊與現場演出結合，只是穩妥的商業套路，而非真正的藝術嘗試。",
+        "oppose_hl": "safe commercial formula",
         "vocab5": [
           {
-            "en": "genomic selection",
-            "zh": "基因組選育"
+            "en": "variety show",
+            "zh": "綜藝表演"
           },
           {
-            "en": "aquaculture",
-            "zh": "水產養殖業"
+            "en": "box-office draw",
+            "zh": "票房保證"
           },
           {
-            "en": "climate resilience",
-            "zh": "氣候抗逆力"
+            "en": "nostalgia marketing",
+            "zh": "懷舊營銷"
           },
           {
-            "en": "traditional livelihood",
-            "zh": "傳統生計"
+            "en": "live entertainment",
+            "zh": "現場娛樂"
           },
           {
-            "en": "species die-off",
-            "zh": "物種大量死亡"
+            "en": "signature role",
+            "zh": "代表角色"
           }
         ],
-        "question_en": "Should fading traditional industries rely on scientific innovation, or on preserving their original methods?",
-        "question_zh": "日漸式微的傳統行業，應該依靠科學創新，還是應該堅持保存原有的養殖方法？",
-        "question_hl": "scientific innovation, or on preserving their original methods"
+        "question_en": "Do nostalgia-driven shows like this enrich Hong Kong's entertainment scene, or do they simply recycle old material for easy profit?",
+        "question_zh": "此類懷舊演出是豐富了香港的娛樂文化，還是只是輕易地重炒舊橋以賺取利潤？",
+        "question_hl": "recycle old material for easy profit"
       },
       "cover_text": {
-        "zh_kicker": "流浮山蠔業",
+        "zh_kicker": "張家輝",
         "zh_title": [
-          "七百年蠔業",
-          "靠超級蠔翻身"
+          "賀歲",
+          "首擺綜藝騷"
         ],
-        "zh_hl": "七百年",
-        "zh_sub": "蠔隻死亡率曾達八成",
-        "en": "Hong Kong's 700-year-old oyster trade turns to genetic science."
+        "zh_hl": "綜藝騷",
+        "zh_sub": "2月6至8日開騷",
+        "en": "Nick Cheung to stage first variety show at Coliseum"
       },
       "vocab": [
         {
-          "phrase": "sixth-generation farmer",
-          "zh": "第六代蠔農",
-          "sample": "As a sixth-generation farmer, he still remembers his grandfather tying mesh bags to bamboo rafts by hand."
+          "phrase": "variety show",
+          "zh": "綜藝表演",
+          "sample": "The variety show blends comedy sketches with musical numbers across three nights."
         },
         {
-          "phrase": "oyster die-off",
-          "zh": "蠔隻大量死亡",
-          "sample": "A sudden oyster die-off can erase an entire season's income overnight."
+          "phrase": "ticket-selling power",
+          "zh": "票房號召力",
+          "sample": "A star of his calibre is considered to have reliable ticket-selling power for any Coliseum run."
         },
         {
-          "phrase": "genomic selection",
-          "zh": "基因組選育",
-          "sample": "Genomic selection lets scientists predict which larvae are most likely to survive harsh conditions."
+          "phrase": "signature role",
+          "zh": "代表角色",
+          "sample": "Fans cheered when he revisited his signature role from the gangster comedy."
         },
         {
-          "phrase": "high-salinity tolerance",
-          "zh": "高鹽度耐受力",
-          "sample": "High-salinity tolerance matters more each year as seawater along the coast grows saltier."
+          "phrase": "live staging",
+          "zh": "現場舞台布置",
+          "sample": "The elaborate live staging is still being finalised weeks before the show opens."
         },
         {
-          "phrase": "breeding ground",
-          "zh": "繁殖場",
-          "sample": "Reclaimed land has steadily eaten into the oyster's natural breeding ground."
+          "phrase": "nostalgia marketing",
+          "zh": "懷舊營銷",
+          "sample": "The promotional video is a clear example of nostalgia marketing aimed at long-time fans."
         },
         {
-          "phrase": "survival rate",
-          "zh": "存活率",
-          "sample": "Researchers claim the new strain triples the survival rate of ordinary local oysters."
+          "phrase": "stage production",
+          "zh": "舞台製作",
+          "sample": "He insists the event should feel like a stage production rather than a simple concert."
         },
         {
-          "phrase": "floating raft",
-          "zh": "浮動養殖棚架",
-          "sample": "Rows of mesh bags hang from a floating raft anchored just off the shore."
+          "phrase": "seasoned entertainer",
+          "zh": "經驗豐富的表演者",
+          "sample": "As a seasoned entertainer, he can switch effortlessly between comedy and drama."
         },
         {
-          "phrase": "hatchery-raised seed",
-          "zh": "孵化場培育種苗",
-          "sample": "Hatchery-raised seed removes some of the guesswork from a trade once governed entirely by nature."
+          "phrase": "advance booking interest",
+          "zh": "預售關注度",
+          "sample": "Organisers expect advance booking interest to be high once sales open."
         },
         {
-          "phrase": "coastal aquaculture",
-          "zh": "沿岸水產養殖",
-          "sample": "Coastal aquaculture around Lau Fau Shan has shrunk to a fraction of its former size."
+          "phrase": "interactive audience experience",
+          "zh": "互動觀眾體驗",
+          "sample": "The format is designed to create a more interactive audience experience than a typical concert."
         },
         {
-          "phrase": "dwindling trade",
-          "zh": "日漸萎縮的行業",
-          "sample": "Fewer young people are willing to enter a dwindling trade with such unpredictable returns."
+          "phrase": "iconic film character",
+          "zh": "經典電影角色",
+          "sample": "Each segment of the show pays tribute to an iconic film character from his career."
         },
         {
-          "phrase": "stilt-house village",
-          "zh": "高腳屋漁村",
-          "sample": "The stilt-house village has drawn more photographers than oyster buyers in recent years."
+          "phrase": "festive entertainment line-up",
+          "zh": "節慶娛樂節目",
+          "sample": "The show joins a packed festive entertainment line-up during the Lunar New Year holiday."
         },
         {
-          "phrase": "food heritage",
-          "zh": "飲食文化遺產",
-          "sample": "Local chefs increasingly treat the village's oysters as food heritage worth promoting, not just an ingredient."
+          "phrase": "commercial formula",
+          "zh": "商業套路",
+          "sample": "Some critics dismiss the format as a tried-and-tested commercial formula."
         }
       ],
       "phrases": [
         {
-          "en": "reinvent a centuries-old trade",
-          "zh": "為百年行業注入新生命",
-          "sample": "Scientists are trying to reinvent a centuries-old trade before it disappears completely."
+          "en": "blur the line between film and stage",
+          "zh": "模糊電影與舞台的界線",
+          "sample": "The show aims to blur the line between film and stage in a way few local productions attempt."
         },
         {
-          "en": "stave off the collapse of an industry",
-          "zh": "阻止行業徹底崩潰",
-          "sample": "A single engineered strain may not be enough to stave off the collapse of an entire industry."
+          "en": "cash in on fond childhood memories",
+          "zh": "利用美好的童年回憶賺取收益",
+          "sample": "Critics accuse producers of trying to cash in on fond childhood memories rather than offer anything new."
         },
         {
-          "en": "buy a struggling trade more time",
-          "zh": "為苦苦掙扎的行業爭取更多時間",
-          "sample": "Even a modest improvement in survival rates could buy a struggling trade more time."
+          "en": "breathe new life into old material",
+          "zh": "為舊素材注入新生命",
+          "sample": "A clever stage adaptation can breathe new life into old material audiences already love."
         },
         {
-          "en": "outpace the damage done by climate change",
-          "zh": "追上氣候變化帶來的破壞速度",
-          "sample": "Researchers admit their breeding programme must outpace the damage already done by climate change."
+          "en": "strike a chord with long-time fans",
+          "zh": "引起老粉絲的共鳴",
+          "sample": "Reviving familiar characters is bound to strike a chord with long-time fans."
         },
         {
-          "en": "reduce a living trade to a memory",
-          "zh": "將一門活生生的行業淪為記憶",
-          "sample": "Without intervention, the industry risks being reduced to a memory told in museums."
+          "en": "inspire fierce devotion among fans",
+          "zh": "激發粉絲的強烈擁戴",
+          "sample": "Few local actors inspire fierce devotion among fans the way he does."
         },
         {
-          "en": "gamble an entire livelihood on an experiment",
-          "zh": "將整個生計賭在一次實驗上",
-          "sample": "Few farmers can afford to gamble an entire livelihood on an unproven experiment."
+          "en": "push creative boundaries",
+          "zh": "突破創作界限",
+          "sample": "Supporters argue the unconventional format pushes creative boundaries for Cantonese entertainment."
         },
         {
-          "en": "treat science as a lifeline, not a cure-all",
-          "zh": "將科學視為續命之法而非萬能解藥",
-          "sample": "Even its backers treat the new strain as a lifeline, not a cure-all."
+          "en": "a safe bet for producers",
+          "zh": "對監製而言是穩陣之選",
+          "sample": "Reusing proven characters is widely seen as a safe bet for producers chasing ticket sales."
         },
         {
-          "en": "weather an entire natural growing cycle",
-          "zh": "捱過整個自然生長週期",
-          "sample": "The young oysters must weather an entire natural growing cycle before anyone can judge the trial a success."
+          "en": "risk feeling derivative",
+          "zh": "有可能令人感到缺乏原創性",
+          "sample": "Without fresh material, the show risks feeling derivative despite its ambition."
         },
         {
-          "en": "root a village's identity in a single trade",
-          "zh": "讓一個村落的身份根植於單一行業",
-          "sample": "For decades, the village rooted its identity in a single, demanding trade."
+          "en": "reignite public enthusiasm",
+          "zh": "重新點燃公眾熱情",
+          "sample": "The announcement has already reignited public enthusiasm ahead of the Lunar New Year season."
         },
         {
-          "en": "let an industry quietly fade from view",
-          "zh": "讓一個行業悄然消失於視野之外",
-          "sample": "Policymakers are reluctant to let an industry quietly fade from view without at least attempting a rescue."
+          "en": "set a new benchmark for live shows",
+          "zh": "為現場演出樹立新標準",
+          "sample": "If successful, the production could set a new benchmark for live shows at the venue."
         },
         {
-          "en": "address symptoms rather than root causes",
-          "zh": "只處理症狀而非根本原因",
-          "sample": "Critics argue a hardier oyster addresses symptoms rather than the root causes of pollution."
+          "en": "a calculated commercial gamble",
+          "zh": "一次精心計算的商業賭注",
+          "sample": "Industry insiders describe the costly production as a calculated commercial gamble."
         },
         {
-          "en": "pass a trade down intact",
-          "zh": "將一門行業原原本本傳承下去",
-          "sample": "Fewer families are willing or able to pass the trade down intact to the next generation."
+          "en": "appeal to multiple generations of fans",
+          "zh": "吸引跨代的影迷",
+          "sample": "The mix of old characters and new staging is designed to appeal to multiple generations of fans."
+        }
+      ]
+    },
+    {
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/347511/Hong-Kong-investment-scams-top-60-million-in-a-week-with-one-victim-losing-45-million",
+      "published_date": "3 November 2026",
+      "headline": "Investment Scams Drain Over $60 Million in a Week, Police Say",
+      "category": "social",
+      "summary_html": "<p>Hong Kong police revealed this week that residents lost more than $60 million to online <span class=\"bw\">investment scams<span class=\"tip\"><span class=\"tip-en\">fraudulent schemes that trick victims into believing they are making a profitable investment</span><span class=\"tip-zh\">投資騙案</span></span></span> in just seven days, with more than 30 cases reported across the city. The single largest loss involved a woman who was lured into a <span class=\"bw\">bogus platform<span class=\"tip\"><span class=\"tip-en\">a fake service or website set up to deceive people</span><span class=\"tip-zh\">虛假平台</span></span></span> claiming to offer lucrative returns on environmental projects, ultimately parting with $45 million.</p><p>According to police, the victim was first approached online and gradually persuaded to open an account on the platform, where a dashboard showed what appeared to be steadily rising returns. She then made more than 60 separate transfers into various <span class=\"bw\">personal bank accounts<span class=\"tip\"><span class=\"tip-en\">bank accounts held in an individual's own name, often used here to move stolen funds</span><span class=\"tip-zh\">個人銀行帳戶</span></span></span>, acting on instructions relayed by fake <span class=\"bw\">customer-service representatives<span class=\"tip\"><span class=\"tip-en\">staff who claim to handle customer inquiries and requests</span><span class=\"tip-zh\">客戶服務代表</span></span></span> who assured her that larger deposits would unlock bigger profits. By the time she grew suspicious, her <span class=\"bw\">life savings<span class=\"tip\"><span class=\"tip-en\">all the money a person has accumulated over many years</span><span class=\"tip-zh\">畢生積蓄</span></span></span> had already been transferred to accounts controlled by so-called <span class=\"bw\">money mules<span class=\"tip\"><span class=\"tip-en\">people who move illegally obtained money on behalf of others, usually through their own bank accounts</span><span class=\"tip-zh\">洗錢工具人</span></span></span>.</p><p>Officers urged the public to treat unsolicited investment offers, especially those promising guaranteed or unusually high returns, as a <span class=\"bw\">red flag<span class=\"tip\"><span class=\"tip-en\">a warning sign that something may not be legitimate</span><span class=\"tip-zh\">危險訊號</span></span></span>. They also advised residents to verify any platform's licence with the Securities and Futures Commission before transferring money, and to be especially wary of pressure to act quickly or to use personal rather than corporate bank accounts for payment. Police said investigations into this latest wave of scams were ongoing, with officers tracing the flow of funds through multiple accounts in an effort to identify the organisers.</p>",
+      "summary_zh_html": "<p>香港警方本週透露，過去七日內有市民因網上<span class=\"bwz\">投資騙案</span>損失超過6,000萬元，全港共錄得逾30宗案件。當中損失最大的一宗涉及一名女子，她被誘騙加入一個聲稱提供環保項目豐厚回報的<span class=\"bwz\">虛假平台</span>，最終損失4,500萬元。</p><p>警方指出，受害人最初在網上被搭訕，並逐步被說服在該平台開戶，平台的儀表板顯示回報持續上升。她隨後分開逾60次，將款項轉入多個<span class=\"bwz\">個人銀行帳戶</span>，過程中一直按照冒充<span class=\"bwz\">客戶服務代表</span>的指示行事，對方聲稱存入更多款項便可解鎖更高利潤。到她開始生疑時，她的<span class=\"bwz\">畢生積蓄</span>早已轉入由所謂<span class=\"bwz\">洗錢工具人</span>控制的帳戶。</p><p>警方促請市民將未經請求的投資邀約，尤其是承諾保證或異常高回報的項目，視為<span class=\"bwz\">危險訊號</span>。他們亦建議市民在轉帳前，先向證券及期貨事務監察委員會核實平台的牌照，並特別留意任何要求盡快行動，或要求使用個人（而非公司）銀行帳戶付款的要求。警方表示正就最新一輪騙案展開調查，追查款項流向多個帳戶的軌跡，以圖辨識幕後主腦。</p>",
+      "image_scene": "A close-up, respectful shot of an anonymous middle-aged woman's hands holding a smartphone at a kitchen table at home, the phone screen showing an abstract blurred chart of rising green graph lines with no legible text or logos, a cup of tea beside an open bank passbook, soft daytime light coming through a nearby window.",
+      "slides": {
+        "topic_en": "Hong Kong's Investment Scam Surge",
+        "background_en": "Police say online investment scams cost Hong Kong residents more than $60 million in a single week, with one victim losing $45 million.",
+        "background_zh": "警方指網上投資騙案一周內令港人損失逾6000萬元，一人損失4500萬元。",
+        "background_hl": "more than $60 million in a single week",
+        "analysis_en": "The scale of losses highlights how scammers exploit trust, urgency and fake customer service to drain victims' savings.",
+        "analysis_zh": "騙案規模反映騙徒如何利用信任、緊急感及假冒客服，榨取受害人的積蓄。",
+        "analysis_hl": "exploit trust, urgency and fake customer service",
+        "support_en": "Stronger public education and faster bank intervention could help residents recognise scams before they lose their savings.",
+        "support_zh": "加強公眾教育及銀行更快介入，有助市民在損失積蓄前識破騙局。",
+        "support_hl": "faster bank intervention",
+        "oppose_en": "Some argue victims bear part of the responsibility for ignoring repeated public warnings about these well-known scam tactics.",
+        "oppose_zh": "有意見認為受害人亦須承擔部分責任，因為他們忽略了對這些常見騙局手法的公開警告。",
+        "oppose_hl": "bear part of the responsibility",
+        "vocab5": [
+          {
+            "en": "investment scam",
+            "zh": "投資騙案"
+          },
+          {
+            "en": "money mule",
+            "zh": "洗錢工具人"
+          },
+          {
+            "en": "red flag",
+            "zh": "危險訊號"
+          },
+          {
+            "en": "life savings",
+            "zh": "畢生積蓄"
+          },
+          {
+            "en": "bogus platform",
+            "zh": "虛假平台"
+          }
+        ],
+        "question_en": "What more can banks, regulators and the public do together to stop investment scams before victims lose their life savings?",
+        "question_zh": "銀行、監管機構及公眾可以如何合力，在受害人損失畢生積蓄前阻止投資騙案？",
+        "question_hl": "life savings"
+      },
+      "cover_text": {
+        "zh_kicker": "投資騙案",
+        "zh_title": [
+          "一周瘋狂",
+          "蝕6000萬"
+        ],
+        "zh_hl": "6000萬",
+        "zh_sub": "一人損失4500萬",
+        "en": "Scams cost Hong Kong residents $60 million in a week"
+      },
+      "vocab": [
+        {
+          "phrase": "investment scam",
+          "zh": "投資騙案",
+          "sample": "Police recorded more than 30 investment scam cases in a single week."
         },
         {
-          "en": "hinge a community's future on untested science",
-          "zh": "將整個社區的未來寄託於未經驗證的科學",
-          "sample": "It feels precarious to hinge a community's future on untested science."
+          "phrase": "bogus platform",
+          "zh": "虛假平台",
+          "sample": "She transferred money after being convinced by a slick but entirely bogus platform."
         },
         {
-          "en": "salvage what tradition alone could not protect",
-          "zh": "挽救傳統技藝本身無法保護的事物",
-          "sample": "The hatchery programme tries to salvage what tradition alone could no longer protect."
+          "phrase": "money mule",
+          "zh": "洗錢工具人",
+          "sample": "Investigators believe several money mules helped move the stolen funds overseas."
         },
         {
-          "en": "tip the balance between survival and extinction",
-          "zh": "扭轉存續與消亡之間的天秤",
-          "sample": "A few percentage points in survival rate could tip the balance between survival and extinction for this trade."
+          "phrase": "red flag",
+          "zh": "危險訊號",
+          "sample": "A guaranteed high return should always be treated as a red flag."
+        },
+        {
+          "phrase": "life savings",
+          "zh": "畢生積蓄",
+          "sample": "The retiree lost her life savings after trusting a stranger she met online."
+        },
+        {
+          "phrase": "unsolicited offer",
+          "zh": "主動提出的邀約",
+          "sample": "Residents are warned never to act on an unsolicited investment offer from a stranger."
+        },
+        {
+          "phrase": "guaranteed return",
+          "zh": "保證回報",
+          "sample": "No legitimate investment can promise a guaranteed return with no risk."
+        },
+        {
+          "phrase": "verify a licence",
+          "zh": "核實牌照",
+          "sample": "Investors should always verify a licence with the regulator before depositing any money."
+        },
+        {
+          "phrase": "trace the flow of funds",
+          "zh": "追查款項流向",
+          "sample": "Police are working to trace the flow of funds through dozens of accounts."
+        },
+        {
+          "phrase": "exploit public trust",
+          "zh": "利用公眾信任",
+          "sample": "Scammers exploit public trust by posing as helpful customer-service staff."
+        },
+        {
+          "phrase": "fall prey to fraud",
+          "zh": "墮入騙局",
+          "sample": "Even cautious investors can fall prey to fraud if the scheme looks convincing enough."
+        },
+        {
+          "phrase": "act with undue urgency",
+          "zh": "在不必要的催促下行事",
+          "sample": "Victims are often pressured to act with undue urgency before they can think clearly."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "prey on the financially vulnerable",
+          "zh": "針對財政上較脆弱的人",
+          "sample": "Such schemes often prey on the financially vulnerable and the inexperienced."
+        },
+        {
+          "en": "erase a lifetime of savings in days",
+          "zh": "數日內耗盡一生積蓄",
+          "sample": "A single scam can erase a lifetime of savings in just a few days."
+        },
+        {
+          "en": "exploit a false sense of legitimacy",
+          "zh": "利用虛假的可信形象",
+          "sample": "Fake dashboards and customer-service lines exploit a false sense of legitimacy."
+        },
+        {
+          "en": "outpace public awareness campaigns",
+          "zh": "發展速度超越公眾教育宣傳",
+          "sample": "New scam tactics often outpace public awareness campaigns meant to warn residents."
+        },
+        {
+          "en": "place the onus on individual vigilance",
+          "zh": "將責任放在個人警覺性上",
+          "sample": "Critics say current policy places the onus on individual vigilance rather than systemic protection."
+        },
+        {
+          "en": "slip through regulatory cracks",
+          "zh": "從監管的縫隙中溜走",
+          "sample": "Unlicensed platforms can slip through regulatory cracks before authorities catch up."
+        },
+        {
+          "en": "restore victims' confidence in digital finance",
+          "zh": "重建受害人對數碼金融的信心",
+          "sample": "Swift action is needed to restore victims' confidence in digital finance."
+        },
+        {
+          "en": "a wake-up call for regulators",
+          "zh": "對監管機構的一次警示",
+          "sample": "The scale of this week's losses should serve as a wake-up call for regulators."
+        },
+        {
+          "en": "normalise scepticism toward online offers",
+          "zh": "令市民對網上邀約習以為常地保持懷疑",
+          "sample": "Schools and banks alike are trying to normalise scepticism toward online investment offers."
+        },
+        {
+          "en": "leave victims with nowhere to turn",
+          "zh": "令受害人求助無門",
+          "sample": "Once the money disappears overseas, victims are often left with nowhere to turn."
+        },
+        {
+          "en": "shift the burden onto financial institutions",
+          "zh": "將責任轉移至金融機構",
+          "sample": "Some lawmakers want to shift the burden onto financial institutions to flag suspicious transfers."
+        },
+        {
+          "en": "underestimate how convincing scams can be",
+          "zh": "低估騙局的說服力",
+          "sample": "Many victims underestimate how convincing scams can be until it is too late."
         }
       ]
     }
@@ -801,140 +741,139 @@
   "trends": [
     {
       "platforms": [
-        "threads",
-        "ig"
+        "threads"
       ],
-      "headline": "🎭 Singapore Musician's 'Acting Hongkonger' Threads Challenge Goes Viral",
-      "summary_html": "<p>A short street-level video has turned a Singaporean musician's first Hong Kong trip since 2018 into one of this week's most-watched local clips. Visiting the city, Caleb Tay asked passers-by to <span class=\"bw\">coach<span class=\"tip\"><span class=\"tip-en\">to give someone guidance or training to help them improve a skill</span><span class=\"tip-zh\">指導</span></span></span> him on how to convincingly <span class=\"bw\">pass as<span class=\"tip\"><span class=\"tip-en\">to be successfully accepted or mistaken as something one is not</span><span class=\"tip-zh\">扮成</span></span></span> a local — tweaking his accent, posture and even the pace of his walk — in a playful experiment that quickly <span class=\"bw\">snowballed<span class=\"tip\"><span class=\"tip-en\">grew rapidly in size, importance or intensity, like a snowball rolling downhill</span><span class=\"tip-zh\">滾雪球式發展</span></span></span> into a full video series. The original clip alone has drawn more than 4.3 million views, while a straight-faced follow-up in which he tried out his new “Hongkonger” persona on unsuspecting strangers racked up a further 210,000-plus views, with commenters debating whether his <span class=\"bw\">impression<span class=\"tip\"><span class=\"tip-en\">an imitation of someone's manner, voice or appearance, often for entertainment</span><span class=\"tip-zh\">模仿</span></span></span> was flattering, funny, or faintly <span class=\"bw\">reductive<span class=\"tip\"><span class=\"tip-en\">oversimplifying something complex to the point of distorting it</span><span class=\"tip-zh\">流於表面</span></span></span>.</p><p>Part of the clip's appeal lies in how ordinary Hongkongers became <span class=\"bw\">co-creators<span class=\"tip\"><span class=\"tip-en\">people who jointly create or shape something, rather than simply being its subject</span><span class=\"tip-zh\">共同創作者</span></span></span> rather than mere subjects, offering tips with evident local pride even as some viewers questioned whether reducing an entire city's <span class=\"bw\">identity<span class=\"tip\"><span class=\"tip-en\">the qualities, beliefs and characteristics that define who a person or group is</span><span class=\"tip-zh\">身份認同</span></span></span> to accent and mannerisms says more about outsiders' assumptions than about Hong Kong itself.</p>",
-      "summary_zh_html": "<p>一段街頭短片，令一名新加坡音樂人自二零一八年以來首次訪港的旅程，成為本週全城最多人觀看的本地短片之一。Caleb Tay在港期間，邀請路人即場<span class=\"bwz\">指導</span>他如何令自己更能逼真地<span class=\"bwz\">扮成</span>一個本地人——從口音、站姿，甚至走路節奏都逐一調整——這個帶點玩味的實驗，很快便<span class=\"bwz\">滾雪球式發展</span>成一整個短片系列。單是最初那段短片，觀看次數已超過四百三十萬，而他後來板著臉、嘗試將新學會的「香港人」人格套用在不知情的陌生人身上的後續短片，亦額外吸引逾二十一萬次觀看，網民紛紛議論，他的<span class=\"bwz\">模仿</span>究竟是討好、搞笑，還是略嫌<span class=\"bwz\">流於表面</span>。</p><p>這段短片之所以吸引，部分原因在於普通香港人並非單純被觀察的對象，而是搖身一變成為<span class=\"bwz\">共同創作者</span>，他們帶著明顯的本地自豪感給予提點；不過，同時也有觀眾質疑，將整座城市的<span class=\"bwz\">身份認同</span>簡化成口音和舉止，是否其實反映更多的是外來者的想像，而非香港本身。</p>",
+      "headline": "🥮🚫 North Point Egg-Roll Shop Bans Queue-Jumpers for the Rest of November",
+      "summary_html": "<p>A seven-decade-old North Point egg-roll shop, known locally as Tak Shing Ho, has become an unlikely hero on Threads after staff refused to serve a group of <span class=\"bw\">queue-jumpers<span class=\"tip\"><span class=\"tip-en\">people who unfairly move ahead of others waiting in a line</span><span class=\"tip-zh\">插隊者</span></span></span> caught on camera cutting into its famously long queue.</p><p>A customer who posted the video said she had tried in vain to <span class=\"bw\">call out<span class=\"tip\"><span class=\"tip-en\">to publicly criticise someone for unacceptable behaviour</span><span class=\"tip-zh\">公開指責</span></span></span> the group herself before alerting a staff member at the till, who then pointed out each queue-jumper by name and refused to sell them anything, declaring they would be barred from buying its handmade treats for the rest of the month.</p><p>The clip of the <span class=\"bw\">old-school eatery<span class=\"tip\"><span class=\"tip-en\">a traditional, long-established small shop or restaurant</span><span class=\"tip-zh\">老字號食店</span></span></span> standing up for its patient customers quickly drew praise, with commenters framing it less as <span class=\"bw\">public shaming<span class=\"tip\"><span class=\"tip-en\">exposing someone's wrongdoing to public criticism, often online</span><span class=\"tip-zh\">公開羞辱</span></span></span> and more as simple fairness, vowing fresh <span class=\"bw\">customer loyalty<span class=\"tip\"><span class=\"tip-en\">the consistent support customers give to a particular business</span><span class=\"tip-zh\">顧客忠誠度</span></span></span> toward a <span class=\"bw\">grassroots business<span class=\"tip\"><span class=\"tip-en\">a small, often family-run enterprise rooted in the local community</span><span class=\"tip-zh\">草根生意</span></span></span> that still queues people the old-fashioned way.</p>",
+      "summary_zh_html": "<p>北角一間逾七十年歷史的蛋卷老店「德成號」，因店員拒絕售賣予一班在鏡頭下被拍到<span class=\"bwz\">插隊者</span>的顧客，在Threads上意外成為網民心中的英雄。</p><p>上載影片的顧客表示，她曾嘗試親自<span class=\"bwz\">公開指責</span>這班插隊者，卻未能阻止對方，於是轉而向收銀處店員反映，店員隨即逐一指出插隊者，拒絕售賣任何產品，並表明整個月內都不會再賣貨給他們。</p><p>這間<span class=\"bwz\">老字號食店</span>為耐心排隊的顧客「出頭」的片段迅速獲得網民讚賞，不少人認為這並非<span class=\"bwz\">公開羞辱</span>，而只是公道之舉，並表示會對這間仍以傳統方式讓顧客排隊的<span class=\"bwz\">草根生意</span>投以新一輪<span class=\"bwz\">顧客忠誠度</span>。</p>",
       "causes": [
         {
-          "label": "Hong Kong identity reduced to a checklist of quirks",
-          "label_zh": "香港身份被簡化成一張特徵清單",
-          "text": "The video's popularity suggests many Hongkongers enjoy seeing their everyday habits treated as distinctive and worth teaching, yet it also raises an uncomfortable question: if identity can be taught in a few viral clips, does that flatten decades of lived history, migration and class difference into a handful of easily imitated mannerisms?",
-          "text_zh": "這段短片的爆紅，顯示不少香港人樂於看見自己日常習慣被視為獨特、值得傳授的事物，但同時亦帶出一個令人不安的問題：如果身份認同可以透過幾段爆紅短片教會別人，那是否正正把數十年的歷史、移民經歷與階層差異，簡化成幾個容易模仿的小動作？"
+          "label": "Queue etiquette as a measure of civic trust",
+          "label_zh": "排隊禮儀作為公民互信的量度",
+          "text": "Hongkongers often treat an orderly queue as an unspoken social contract, so a single act of queue-jumping can feel like a small but real breach of mutual trust between strangers. The shop's firm response struck a chord precisely because it publicly reaffirmed a rule most customers already follow without being asked.",
+          "text_zh": "香港人普遍視有序排隊為一種無聲的社會契約，因此單一次插隊行為，對陌生人之間的互信而言，也可能是一次微小卻真實的破壞。這間老店的強硬回應之所以引起共鳴，正正因為它公開重申了大部分顧客本已自覺遵守的規則。"
         },
         {
-          "label": "Unpaid, accidental tourism marketing for Hong Kong",
-          "label_zh": "無心促成香港的免費旅遊宣傳",
-          "text": "A foreign visitor's playful street experiment did more to put Hong Kong's personality in front of millions of viewers than most official tourism campaigns manage in months, hinting that authentic, unscripted content from ordinary residents may now market a city's charm more effectively than any paid advertisement ever could.",
-          "text_zh": "一名外國遊客的街頭玩味實驗，在短時間內讓數以百萬計的觀眾看見香港的個性，效果勝過大多數官方旅遊宣傳在數月內所能達到的成效，反映出由普通居民自發拍攝、未經設計的真實內容，如今或比任何付費廣告更能有效推廣一座城市的魅力。"
+          "label": "Supporting a grassroots shop against anonymous queue-cutters",
+          "label_zh": "支持草根老店對抗匿名插隊者",
+          "text": "Many commenters framed their support less as anger at the queue-jumpers and more as loyalty to a small, handmade-goods shop competing against chain bakeries, seeing the incident as a chance to champion a business that still rewards patience and fairness rather than convenience or connections.",
+          "text_zh": "不少留言者表示，他們的支持較少出於對插隊者的憤怒，更多是對一間與連鎖麵包店競爭的手工小店的支持，並視此事為一次機會，去聲援一間仍以耐心與公道、而非方便或人脈作為回報準則的小店。"
         },
         {
-          "label": "Locals as co-authors, not passive punchlines",
-          "label_zh": "本地人成為共同創作者，而非被動的笑料",
-          "text": "Unlike older, more condescending depictions of locals as comic props, this trend put ordinary Hongkongers directly in charge of defining their own image, coaching a stranger with evident pride rather than simply being filmed and mocked, which may explain why so many engaged warmly rather than defensively.",
-          "text_zh": "與昔日那些把本地人塑造成笑料、帶點輕視意味的描繪不同，這次潮流讓普通香港人親自主導自己的形象，他們帶著明顯的自豪感去指導一名外來者，而非單純被拍攝和取笑，這或許解釋了為何這麼多人是帶著善意、而非防衛心態去參與其中。"
+          "label": "When online call-outs tip into disproportionate punishment",
+          "label_zh": "網絡公開指責有時演變成不成比例的懲罰",
+          "text": "Some commentators questioned whether naming the queue-jumpers on video and barring them for an entire month was proportionate, warning that a minor lapse in manners can snowball into lasting public humiliation once it is filmed and shared, with no clear way for those involved to apologise and move on.",
+          "text_zh": "有評論質疑在影片中指名插隊者並禁止其購買整整一個月是否合乎比例，並警告一次輕微的失儀行為，一經拍攝及廣傳，可能演變成持續的公開羞辱，而涉事者卻缺乏明確途徑道歉並重新開始。"
         },
         {
-          "label": "A charming clip is not the same as genuine cultural understanding",
-          "label_zh": "一段有趣的短片，不等於真正的文化理解",
-          "text": "However warmly it was received, a few minutes of coached mannerisms cannot substitute for understanding a city's history, pressures or divisions, and treating virality itself as proof of successful cultural exchange risks mistaking a pleasant performance for something deeper that it never actually achieved.",
-          "text_zh": "儘管這段短片備受歡迎，幾分鐘經過指導的言行舉止，始終無法取代對一座城市歷史、壓力與分歧的真正理解；若將爆紅本身視為文化交流成功的證明，便有可能把一次愉快的表演，誤當成一件它從未真正達成的更深層事情。"
+          "label": "A small shop's queue policy as a test of community support",
+          "label_zh": "小店的排隊政策成為社區支持的考驗",
+          "text": "The episode also doubles as free publicity for a shop that limits daily stock and operates only on certain days, with its handling of the queue-jumpers reinforcing an image of scarcity and authenticity that keeps customers willing to wait for hours rather than buy a mass-produced alternative.",
+          "text_zh": "這次事件同時為一間每日限量、只於特定日子營業的小店帶來免費宣傳，其處理插隊事件的方式，強化了一種稀有與原汁原味的形象，令顧客仍然願意花上數小時排隊，而非購買大量生產的替代品。"
         }
       ],
       "vocab": [
         {
-          "phrase": "viral challenge",
-          "zh": "爆紅挑戰",
-          "sample": "The viral challenge spread within hours thanks to its playful, low-stakes premise."
+          "phrase": "queue-jumping",
+          "zh": "插隊",
+          "sample": "Queue-jumping at the popular shop sparked an unusually fierce online reaction."
         },
         {
-          "phrase": "street interview",
-          "zh": "街頭訪問",
-          "sample": "A casual street interview format makes the clip feel spontaneous rather than scripted."
+          "phrase": "call-out culture",
+          "zh": "公開指責文化",
+          "sample": "The clip became part of a wider call-out culture aimed at rule-breakers caught on camera."
         },
         {
-          "phrase": "cultural mimicry",
-          "zh": "文化模仿",
-          "sample": "Cultural mimicry can feel affectionate or mocking depending entirely on the tone used."
+          "phrase": "old-school eatery",
+          "zh": "老字號食店",
+          "sample": "The old-school eatery has kept the same hand-rolling method for seven decades."
         },
         {
-          "phrase": "local accent",
-          "zh": "本地口音",
-          "sample": "Nailing the local accent took him several awkward attempts on camera."
+          "phrase": "grassroots business",
+          "zh": "草根生意",
+          "sample": "Supporters rallied behind the grassroots business rather than a big chain bakery."
         },
         {
-          "phrase": "comment section debate",
-          "zh": "留言區爭論",
-          "sample": "A heated comment section debate followed almost immediately under the clip."
+          "phrase": "customer loyalty",
+          "zh": "顧客忠誠度",
+          "sample": "The incident appears to have boosted customer loyalty rather than scared shoppers away."
         },
         {
-          "phrase": "deadpan delivery",
-          "zh": "板著臉的演繹方式",
-          "sample": "His deadpan delivery in the follow-up clip is what made it funnier than the original."
+          "phrase": "disproportionate punishment",
+          "zh": "不成比例的懲罰",
+          "sample": "A few commenters worried the month-long ban amounted to disproportionate punishment."
         },
         {
-          "phrase": "online persona",
-          "zh": "網絡人格",
-          "sample": "Building a convincing online persona took more coaching than he expected."
+          "phrase": "unspoken social contract",
+          "zh": "無聲的社會契約",
+          "sample": "Queuing fairly is treated almost like an unspoken social contract among strangers."
         },
         {
-          "phrase": "cultural stereotype",
-          "zh": "文化定型",
-          "sample": "Some critics felt the clip leaned too heavily on a tired cultural stereotype."
+          "phrase": "public humiliation",
+          "zh": "公開羞辱",
+          "sample": "Being named and filmed in public can tip quickly into lasting public humiliation."
         },
         {
-          "phrase": "visitor's perspective",
-          "zh": "遊客視角",
-          "sample": "Seen from a visitor's perspective, small local habits can look endlessly fascinating."
+          "phrase": "scarcity marketing",
+          "zh": "稀缺營銷",
+          "sample": "Limited daily stock plays into a kind of scarcity marketing that keeps the queue long."
         },
         {
-          "phrase": "social media buzz",
-          "zh": "社交媒體熱議",
-          "sample": "The social media buzz around the clip outlasted most of that week's other local news."
+          "phrase": "civic-mindedness",
+          "zh": "公民意識",
+          "sample": "Commenters praised the staff member's civic-mindedness in standing up for patient customers."
         }
       ],
       "phrases": [
         {
-          "en": "play up a stereotype for laughs",
-          "zh": "為搞笑而誇大刻板印象",
-          "sample": "Some viewers felt he was simply playing up a stereotype for laughs."
+          "en": "strike a chord with ordinary customers",
+          "zh": "引起普通顧客的共鳴",
+          "sample": "The shop's firm stance struck a chord with ordinary customers tired of being cut in line."
         },
         {
-          "en": "reduce an identity to a performance",
-          "zh": "將身份認同簡化為一場表演",
-          "sample": "Critics worry the trend reduces an identity to a performance anyone can copy."
+          "en": "reward patience over convenience",
+          "zh": "獎勵耐性而非方便",
+          "sample": "Supporters say the policy rewards patience over convenience in a way modern retail rarely does."
         },
         {
-          "en": "wear a borrowed identity, however briefly",
-          "zh": "短暫地披上借來的身份",
-          "sample": "For a few days online, he got to wear a borrowed identity, however briefly."
+          "en": "snowball into lasting humiliation",
+          "zh": "演變成持續的羞辱",
+          "sample": "A minor lapse in manners can snowball into lasting humiliation once it is filmed and shared."
         },
         {
-          "en": "blur the line between affection and mockery",
-          "zh": "模糊了喜愛與嘲弄之間的界線",
-          "sample": "The clip blurs the line between affection and mockery in a way that keeps viewers arguing."
+          "en": "champion a small, family-run shop",
+          "zh": "聲援一間小本經營的家族小店",
+          "sample": "Many viewers used the moment to champion a small, family-run shop over faceless chains."
         },
         {
-          "en": "turn an outsider's curiosity into content",
-          "zh": "將外來者的好奇心轉化為內容",
-          "sample": "He turned an outsider's curiosity into content that locals were happy to help shape."
+          "en": "reaffirm an unspoken social rule",
+          "zh": "重申一項無聲的社會規則",
+          "sample": "The staff member's response seemed to reaffirm an unspoken social rule most people already follow."
         },
         {
-          "en": "flatten a city's identity into a few quirks",
-          "zh": "將一座城市的身份簡化為幾個特徵",
-          "sample": "Reducing Hong Kong to an accent flattens a city's identity into a few quirks."
+          "en": "leave little room for the offender to recover",
+          "zh": "令犯錯者幾乎沒有回旋餘地",
+          "sample": "Naming someone on video can leave little room for the offender to recover their reputation."
         },
         {
-          "en": "spark pride dressed up as humour",
-          "zh": "以幽默包裝激起的自豪感",
-          "sample": "Many locals' tips sparked pride dressed up as humour rather than irritation."
+          "en": "turn a minor dispute into a moral test",
+          "zh": "將輕微爭執變成道德考驗",
+          "sample": "The clip turned a minor queueing dispute into a moral test for the whole neighbourhood."
         },
         {
-          "en": "go viral for all the wrong reasons",
-          "zh": "因錯誤的原因爆紅",
-          "sample": "A clip like this always risks going viral for all the wrong reasons."
+          "en": "generate goodwill far beyond the shopfront",
+          "zh": "帶來遠超店舖本身的好感",
+          "sample": "The viral clip generated goodwill far beyond the shopfront, drawing new customers from across the city."
         },
         {
-          "en": "invite outsiders to perform belonging",
-          "zh": "邀請外來者演繹歸屬感",
-          "sample": "The format invites outsiders to perform belonging rather than genuinely earn it."
+          "en": "blur the line between justice and spectacle",
+          "zh": "模糊公義與公開表演之間的界線",
+          "sample": "Some worry such clips blur the line between justice and spectacle for online audiences."
         },
         {
-          "en": "trade authenticity for entertainment value",
-          "zh": "以娛樂性換取真實性",
-          "sample": "Some commenters argued the series trades authenticity for entertainment value."
+          "en": "hold up as a model of fairness",
+          "zh": "被視為公道的典範",
+          "sample": "The shop is now held up as a model of fairness by customers fed up with queue-jumpers."
         }
       ]
     }

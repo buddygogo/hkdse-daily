@@ -2,798 +2,733 @@
   "exam_date": null,
   "articles": [
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373664/hong-kong-makes-further-roads-ai-aviation-mainland-chinese-expo",
-      "published_date": "10 November 2026",
-      "headline": "Hong Kong Deepens AI and Aviation Ties With Mainland at Shanghai Expo",
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/348424/Beijing-officials-conduct-consultations-in-Hong-Kong-ahead-of-leadership-transition",
+      "published_date": "12 November 2026",
+      "headline": "Beijing Officials Hold Closed-Door Talks in Hong Kong Ahead of Leadership Transition",
       "category": "global",
-      "summary_html": "<p>Hong Kong extended its economic reach into the mainland market this week as the city's pavilion at the ninth China International Import Expo in Shanghai drew <span class=\"bw\">industry insiders<span class=\"tip\"><span class=\"tip-en\">experienced professionals working within a particular trade or sector</span><span class=\"tip-zh\">業內人士</span></span></span> eager to discuss closer collaboration in artificial intelligence, aviation and professional services. Representatives from Hong Kong's trade body said the five-day fair, one of the mainland's largest showcases for international business, gave local firms a rare platform to pitch their expertise directly to mainland companies hunting for overseas partners.</p><p>Several delegates described Hong Kong as <span class=\"bw\">forging closer ties<span class=\"tip\"><span class=\"tip-en\">building stronger, more frequent connections and cooperation</span><span class=\"tip-zh\">建立更緊密的聯繫</span></span></span> with mainland artificial intelligence firms that want to expand beyond China's borders, arguing that the city's accountants, lawyers and bankers are well placed to guide first-time exporters through unfamiliar foreign rules. Aviation executives at the fair pointed to Hong Kong's international flight network as a natural extension for mainland carriers, while officials highlighted the <span class=\"bw\">Northern Metropolis megaproject<span class=\"tip\"><span class=\"tip-en\">a huge planned development zone near the mainland border meant to attract technology firms</span><span class=\"tip-zh\">北部都會區大型發展計劃</span></span></span> as fresh ground for technology investment once its industrial parks open.</p><p>The push comes as global <span class=\"bw\">supply chain realignment<span class=\"tip\"><span class=\"tip-en\">the large-scale shifting of manufacturing and trade routes between countries</span><span class=\"tip-zh\">供應鏈重組</span></span></span> accelerates and mainland firms look for a trusted <span class=\"bw\">offshore financial hub<span class=\"tip\"><span class=\"tip-en\">a city outside a country’s borders that provides international banking and investment services</span><span class=\"tip-zh\">境外金融中心</span></span></span> to manage overseas deals. Supporters say Hong Kong's <span class=\"bw\">common law framework<span class=\"tip\"><span class=\"tip-en\">a legal system based on judicial precedent, widely trusted by international investors</span><span class=\"tip-zh\">普通法制度</span></span></span> gives it an edge no mainland city can match, but economists at the expo cautioned that merely connecting others to the world will not be enough; Hong Kong, they said, must also build its own <span class=\"bw\">innovation capacity<span class=\"tip\"><span class=\"tip-en\">the ability to independently research, create and commercialise new technology</span><span class=\"tip-zh\">創新能力</span></span></span> rather than relying solely on its role as a middleman.</p>",
-      "summary_zh_html": "<p>香港本週透過在上海舉行的第九屆中國國際進口博覽會的展館，進一步拓展其與內地市場的經濟聯繫，吸引不少<span class=\"bwz\">業內人士</span>前來洽談在人工智能、航空及專業服務方面加強合作的機會。香港貿易機構代表表示，這場為期五天的展覽會是內地其中一個最大型的國際商貿展示平台，為本地企業提供了難得的機會，可以直接向正在尋找海外夥伴的內地公司推銷自身的專業優勢。</p><p>多名與會代表形容，香港正與希望拓展海外業務的內地人工智能企業<span class=\"bwz\">建立更緊密的聯繫</span>，並指出本港的會計師、律師及銀行家十分適合協助首次「出海」的企業應對陌生的外國法規。多名航空業高層在展會上指出，香港的國際航空網絡是內地航空公司拓展業務的天然延伸，而官員則強調<span class=\"bwz\">北部都會區大型發展計劃</span>一旦其工業園區落成啟用，將為科技投資提供新的土地資源。</p><p>這項推動正值全球<span class=\"bwz\">供應鏈重組</span>加速進行，內地企業亦正尋找一個可信賴的<span class=\"bwz\">境外金融中心</span>來處理海外交易。支持者認為，香港的<span class=\"bwz\">普通法制度</span>令其具備內地任何城市都無法比擬的優勢；但有經濟學者在展會上警告，單靠充當連接各方的橋樑並不足夠，香港還必須建立自身的<span class=\"bwz\">創新能力</span>，而不能只依賴中介角色。</p>",
-      "image_scene": "A modern exhibition hall at a Shanghai trade fair, an anonymous Hong Kong businessman in a suit shaking hands with a mainland Chinese counterpart in front of a Hong Kong pavilion booth with abstract skyline graphics, exhibition visitors browsing nearby stands, airport departure boards visible through a glass wall in the background, no readable text or logos.",
+      "summary_html": "<p>Senior mainland officials have reportedly been shuttling through Hong Kong this month on what insiders describe as a wide-ranging <span class=\"bw\">fact-finding mission<span class=\"tip\"><span class=\"tip-en\">an organised visit intended to gather first-hand information before an important decision is made</span><span class=\"tip-zh\">實地考察</span></span></span>, according to a report by The Standard. The visiting delegation is said to have held a series of <span class=\"bw\">closed-door meetings<span class=\"tip\"><span class=\"tip-en\">private discussions held away from public view or media attention</span><span class=\"tip-zh\">閉門會議</span></span></span> with figures from the business and political sectors, <span class=\"bw\">sounding out<span class=\"tip\"><span class=\"tip-en\">asking people informally for their views in order to gauge likely reaction</span><span class=\"tip-zh\">試探意見</span></span></span> potential candidates’ willingness to serve in the city’s next government while also gauging the health of the local economy.</p><p>Political analyst Lau Siu-kai told the paper that such visits are <span class=\"bw\">standard practice<span class=\"tip\"><span class=\"tip-en\">an accepted, routine way of doing something that is expected rather than unusual</span><span class=\"tip-zh\">慣常做法</span></span></span>, noting that the central government regularly consults through <span class=\"bw\">various channels<span class=\"tip\"><span class=\"tip-en\">a range of different routes or means by which information or opinion is gathered</span><span class=\"tip-zh\">不同途徑</span></span></span> before settling on the make-up of the next Hong Kong cabinet. The timing is significant: a small-circle election is being organised to renew the 1,500-member Election Committee, the Beijing-loyalist body that in turn selects the chief executive, fuelling speculation over whether incumbent John Lee will be given a second term.</p><p>Beijing has also signalled, through the Hong Kong and Macau Affairs Office, what it expects from the incoming team, calling for officials chosen on the basis of <span class=\"bw\">integrity and competence<span class=\"tip\"><span class=\"tip-en\">honesty and moral soundness combined with the skill needed to do a job well</span><span class=\"tip-zh\">廉潔與才能</span></span></span> and urging the city to overhaul how it trains, selects and manages <span class=\"bw\">governance talent<span class=\"tip\"><span class=\"tip-en\">capable individuals suited to holding public office and running a government</span><span class=\"tip-zh\">治理人才</span></span></span>. Commentators say the consultations illustrate how firmly the choice of the next chief executive and cabinet remains a <span class=\"bw\">Beijing-led process<span class=\"tip\"><span class=\"tip-en\">a process whose outcome is ultimately decided and directed by the central government</span><span class=\"tip-zh\">由北京主導的程序</span></span></span>, even as local business and political figures are given a chance to voice their views.</p>",
+      "summary_zh_html": "<p>據《英文虎報》（The Standard）報道，多名內地高層官員本月據報一直在香港穿梭，進行一次消息人士形容為範圍廣泛的<span class=\"bwz\">實地考察</span>。消息指，到訪的代表團與商界及政界人士舉行了一連串<span class=\"bwz\">閉門會議</span>，一方面<span class=\"bwz\">試探意見</span>，了解有意人士是否願意加入下屆政府，另一方面亦藉機了解本港經濟狀況。</p><p>政治評論員劉兆佳向該報表示，這類到訪屬<span class=\"bwz\">慣常做法</span>，並指中央政府在敲定下屆香港班子人選前，一直會透過<span class=\"bwz\">不同途徑</span>進行諮詢。而今次的時機別具意義：香港正籌組選舉，以改選由1500名委員組成的選舉委員會——這個親北京陣營主導的機構將負責選出下任行政長官，令外界猜測現任特首李家超能否獲得連任。</p><p>北京亦已透過國務院港澳事務辦公室表明對新一屆管治班子的期望，要求挑選具備<span class=\"bwz\">廉潔與才能</span>的官員，並促請本港全面檢討培訓、選拔及管理<span class=\"bwz\">治理人才</span>的方式。評論人士指出，今次連串諮詢顯示，下任行政長官及班子人選始終是一項<span class=\"bwz\">由北京主導的程序</span>，即使本地商界及政界人士獲邀表達意見，亦難以改變這一格局。</p>",
+      "image_scene": "Anonymous middle-aged men and women in dark business suits walking in single file up the steps of a grand government building in Central, Hong Kong, under grey overcast skies; black sedans with tinted windows parked at the curb, security guards standing by the entrance, the harbour and skyscrapers visible in the distance. No text, signs or logos.",
       "slides": {
-        "topic_en": "Hong Kong's AI and Aviation Push",
-        "background_en": "At a Shanghai trade expo, Hong Kong pitched its AI, aviation and professional services to mainland firms seeking overseas partners.",
-        "background_zh": "香港在上海貿易展會向內地企業推銷人工智能、航空及專業服務。",
-        "background_hl": "pitched its AI, aviation and professional services",
-        "analysis_en": "Officials say the city's legal and financial expertise make it a natural bridge as global supply chains realign.",
-        "analysis_zh": "官員認為本港的法律及金融專長，使其成為全球供應鏈重組的天然橋樑。",
-        "analysis_hl": "a natural bridge as global supply chains realign",
-        "support_en": "Supporters argue Hong Kong's trusted common law system gives mainland companies real confidence to expand abroad.",
-        "support_zh": "支持者認為香港可信賴的普通法制度，給予內地企業真正的信心走向海外。",
-        "support_hl": "gives mainland companies real confidence to expand abroad",
-        "oppose_en": "Critics warn that merely connecting mainland firms to the world will not build Hong Kong's own tech industry.",
-        "oppose_zh": "批評者警告，單靠連接內地企業與全世界，並不能幫香港建立自己的科技產業。",
-        "oppose_hl": "will not build Hong Kong's own tech industry",
+        "topic_en": "Beijing Officials Consult Hong Kong Leaders",
+        "background_en": "Mainland officials reportedly held closed-door meetings with Hong Kong business and political figures ahead of a leadership transition.",
+        "background_zh": "據報內地官員近日與香港商界及政界人士舉行閉門會議，為換屆做準備。",
+        "background_hl": "closed-door meetings with Hong Kong business and political figures",
+        "analysis_en": "The visits show Beijing still controls the small-circle process that will pick Hong Kong's next chief executive and cabinet.",
+        "analysis_zh": "這些到訪顯示，北京仍然主導小圈子程序，決定下任行政長官及班子人選。",
+        "analysis_hl": "Beijing still controls the small-circle process",
+        "support_en": "Supporters say broad consultation with local sectors helps Beijing choose capable, trusted leaders who can govern effectively.",
+        "support_zh": "支持者認為，廣泛諮詢本地各界，有助北京挑選有能力、受信任的管治人才。",
+        "support_hl": "helps Beijing choose capable, trusted leaders",
+        "oppose_en": "Critics argue ordinary Hongkongers have no real say, since the Election Committee and leadership choice remain tightly controlled.",
+        "oppose_zh": "批評者則指，由於選舉委員會及領導層人選均受嚴密操控，普通香港市民根本沒有真正的發言權。",
+        "oppose_hl": "ordinary Hongkongers have no real say",
         "vocab5": [
           {
-            "en": "economic diversification",
-            "zh": "經濟多元化"
+            "en": "leadership transition",
+            "zh": "換屆"
           },
           {
-            "en": "cross-border collaboration",
-            "zh": "跨境合作"
+            "en": "closed-door meeting",
+            "zh": "閉門會議"
           },
           {
-            "en": "competitive edge",
-            "zh": "競爭優勢"
+            "en": "small-circle election",
+            "zh": "小圈子選舉"
           },
           {
-            "en": "knowledge-based economy",
-            "zh": "知識型經濟"
+            "en": "governance talent",
+            "zh": "治理人才"
           },
           {
-            "en": "global connectivity",
-            "zh": "全球聯繫"
+            "en": "political consultation",
+            "zh": "政治諮詢"
           }
         ],
-        "question_en": "Should Hong Kong focus more on building its own technology industry instead of just connecting mainland firms to the world?",
-        "question_zh": "香港是否應更加注重發展自己的科技產業，而不只是連接內地企業與全世界？",
-        "question_hl": "building its own technology industry"
+        "question_en": "Should the selection of Hong Kong's chief executive involve direct public voting rather than a small-circle election?",
+        "question_zh": "香港行政長官的產生方式，應否改為全民直選，而非小圈子選舉？",
+        "question_hl": "direct public voting rather than a small-circle election"
       },
       "cover_text": {
-        "zh_kicker": "滬港連線",
+        "zh_kicker": "換屆前夕",
         "zh_title": [
-          "進博會",
-          "拓AI航空版圖"
+          "京官密訪",
+          "試探下屆班子"
         ],
-        "zh_hl": "AI",
-        "zh_sub": "專業服務助內企出海",
-        "en": "Hong Kong deepens AI and aviation ties with mainland firms"
+        "zh_hl": "下屆班子",
+        "zh_sub": "中央密集諮詢商界政界",
+        "en": "Beijing officials consult Hong Kong leaders before 2027 handover"
       },
       "vocab": [
         {
-          "phrase": "trade expo",
-          "zh": "貿易博覽會",
-          "sample": "Hong Kong's pavilion at the trade expo attracted mainland firms seeking overseas partners."
+          "phrase": "closed-door meeting",
+          "zh": "閉門會議",
+          "sample": "The closed-door meeting between mainland officials and business leaders was not open to the press."
         },
         {
-          "phrase": "business delegation",
-          "zh": "商務代表團",
-          "sample": "A Hong Kong business delegation used the expo to pitch its expertise directly to mainland buyers."
+          "phrase": "fact-finding mission",
+          "zh": "實地考察",
+          "sample": "Officials conducted a fact-finding mission to assess the mood among Hong Kong's business community."
         },
         {
-          "phrase": "overseas expansion",
-          "zh": "海外擴展",
-          "sample": "Many mainland AI companies are planning overseas expansion through Hong Kong's financial infrastructure."
+          "phrase": "power handover",
+          "zh": "權力交接",
+          "sample": "Observers are closely watching the upcoming power handover in Hong Kong politics."
         },
         {
-          "phrase": "trusted intermediary",
-          "zh": "可信賴的中介",
-          "sample": "Hong Kong has long positioned itself as a trusted intermediary between mainland China and global markets."
+          "phrase": "small-circle election",
+          "zh": "小圈子選舉",
+          "sample": "Critics have long condemned the small-circle election system for excluding ordinary voters."
         },
         {
-          "phrase": "regulatory familiarity",
-          "zh": "對法規的熟悉程度",
-          "sample": "Local lawyers offer regulatory familiarity that first-time exporters often lack."
+          "phrase": "Election Committee",
+          "zh": "選舉委員會",
+          "sample": "The 1,500-member Election Committee will soon be reconstituted."
         },
         {
-          "phrase": "technology investment",
-          "zh": "科技投資",
-          "sample": "The Northern Metropolis hopes to attract fresh technology investment once its industrial parks are complete."
+          "phrase": "governance talent",
+          "zh": "治理人才",
+          "sample": "Beijing has urged Hong Kong to nurture more governance talent for the next administration."
         },
         {
-          "phrase": "neutral trading base",
-          "zh": "中立的貿易據點",
-          "sample": "Firms increasingly want a neutral trading base for handling sensitive international deals."
+          "phrase": "incumbent",
+          "zh": "現任官員",
+          "sample": "The incumbent chief executive has not confirmed whether he will seek a second term."
         },
         {
-          "phrase": "financial infrastructure",
-          "zh": "金融基建",
-          "sample": "Robust financial infrastructure allows Hong Kong to process complex cross-border transactions quickly."
+          "phrase": "political loyalist",
+          "zh": "政治忠誠人士",
+          "sample": "Only political loyalists are typically selected to sit on the Election Committee."
         },
         {
-          "phrase": "middleman role",
-          "zh": "中介角色",
-          "sample": "Economists warned that Hong Kong cannot rely on a middleman role forever."
+          "phrase": "policy priorities",
+          "zh": "政策優先事項",
+          "sample": "The delegation discussed the incoming administration's policy priorities with local stakeholders."
         },
         {
-          "phrase": "first-time exporter",
-          "zh": "初次出口的企業",
-          "sample": "A first-time exporter often needs expert guidance to navigate unfamiliar foreign markets."
+          "phrase": "central government",
+          "zh": "中央政府",
+          "sample": "The central government maintains close oversight of Hong Kong's political appointments."
         },
         {
-          "phrase": "industrial park",
-          "zh": "工業園區",
-          "sample": "The planned industrial park is expected to draw technology firms from across the Greater Bay Area."
-        },
-        {
-          "phrase": "flagship pavilion",
-          "zh": "旗艦展館",
-          "sample": "Hong Kong's flagship pavilion at the expo featured exhibits from the aviation and finance sectors."
+          "phrase": "institutional trust",
+          "zh": "制度信任",
+          "sample": "Analysts say the process could either strengthen or weaken institutional trust."
         }
       ],
       "phrases": [
         {
-          "en": "serve as a bridge between two markets",
-          "zh": "成為兩個市場之間的橋樑",
-          "sample": "Hong Kong hopes to serve as a bridge between two markets as trade routes shift."
+          "en": "a lack of transparency in the selection process",
+          "zh": "遴選程序缺乏透明度",
+          "sample": "Many residents feel there is a lack of transparency in the selection process for the chief executive."
         },
         {
-          "en": "capitalise on its strategic position",
-          "zh": "充分利用其戰略位置",
-          "sample": "The city is trying to capitalise on its strategic position between East and West."
+          "en": "strike a balance between stability and representation",
+          "zh": "在穩定與代表性之間取得平衡",
+          "sample": "The system must strike a balance between stability and representation."
         },
         {
-          "en": "attract foreign direct investment",
-          "zh": "吸引外商直接投資",
-          "sample": "New industrial parks aim to attract foreign direct investment into emerging sectors."
+          "en": "erode public trust in the political system",
+          "zh": "侵蝕公眾對政治制度的信任",
+          "sample": "A closed selection process may erode public trust in the political system."
         },
         {
-          "en": "diversify away from a single market",
-          "zh": "分散對單一市場的依賴",
-          "sample": "Officials urged firms to diversify away from a single market for long-term stability."
+          "en": "give ordinary citizens a genuine voice",
+          "zh": "讓普通市民擁有真正的發聲權",
+          "sample": "Reformers argue that elections should give ordinary citizens a genuine voice."
         },
         {
-          "en": "build long-term economic resilience",
-          "zh": "建立長期經濟韌性",
-          "sample": "Analysts say deeper mainland ties alone will not build long-term economic resilience."
+          "en": "consolidate power within a small circle",
+          "zh": "將權力集中於小圈子手中",
+          "sample": "Opponents warn the arrangement risks consolidating power within a small circle."
         },
         {
-          "en": "navigate an increasingly uncertain trade landscape",
-          "zh": "應對日漸不確定的貿易局勢",
-          "sample": "Firms must navigate an increasingly uncertain trade landscape shaped by shifting alliances."
+          "en": "ensure continuity in governance",
+          "zh": "確保管治的延續性",
+          "sample": "Supporters claim the arrangement helps ensure continuity in governance."
         },
         {
-          "en": "safeguard its status as a global hub",
-          "zh": "維護其全球樞紐地位",
-          "sample": "Hong Kong must safeguard its status as a global hub against rising regional competition."
+          "en": "broaden the base of political participation",
+          "zh": "擴闊政治參與的基礎",
+          "sample": "Some lawmakers have called for measures to broaden the base of political participation."
         },
         {
-          "en": "cultivate homegrown innovation",
-          "zh": "培養本土創新能力",
-          "sample": "Economists urged the government to cultivate homegrown innovation rather than rely on imported technology alone."
+          "en": "come under central government scrutiny",
+          "zh": "受到中央政府的審視",
+          "sample": "Prospective candidates inevitably come under central government scrutiny."
         },
         {
-          "en": "deepen economic integration with the mainland",
-          "zh": "深化與內地的經濟整合",
-          "sample": "The expo is one more step toward deepening economic integration with the mainland."
+          "en": "safeguard the city's long-term stability",
+          "zh": "維護本港的長遠穩定",
+          "sample": "Officials argue that careful vetting helps safeguard the city's long-term stability."
         },
         {
-          "en": "remain indispensable to international investors",
-          "zh": "對國際投資者保持不可或缺的地位",
-          "sample": "Hong Kong wants to remain indispensable to international investors even as rivals emerge."
+          "en": "deepen integration with the mainland",
+          "zh": "深化與內地的融合",
+          "sample": "The next administration is expected to deepen integration with the mainland."
         },
         {
-          "en": "adapt to shifting global supply chains",
-          "zh": "適應轉變中的全球供應鏈",
-          "sample": "Businesses are being forced to adapt to shifting global supply chains almost every year."
+          "en": "cultivate a new generation of leaders",
+          "zh": "培養新一代領袖",
+          "sample": "The government has pledged to cultivate a new generation of leaders."
         },
         {
-          "en": "strengthen its competitive advantage",
-          "zh": "強化自身的競爭優勢",
-          "sample": "The city hopes new partnerships will strengthen its competitive advantage in professional services."
-        },
-        {
-          "en": "forge new economic partnerships",
-          "zh": "開拓新的經濟夥伴關係",
-          "sample": "Delegates spent the expo forging new economic partnerships across several industries."
-        },
-        {
-          "en": "reduce overreliance on traditional industries",
-          "zh": "減少對傳統產業的過度依賴",
-          "sample": "Diversifying into AI could help Hong Kong reduce overreliance on traditional industries."
-        },
-        {
-          "en": "position itself for the next wave of growth",
-          "zh": "為下一波經濟增長做好定位",
-          "sample": "Officials say the strategy will position itself for the next wave of regional growth."
-        }
-      ]
-    },
-    {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373630/domestic-helper-arrested-after-allegedly-spitting-4-year-old-girls-food",
-      "published_date": "9 November 2026",
-      "headline": "Domestic Helper Arrested After Allegedly Spitting Into Four-Year-Old's Food in Kennedy Town",
-      "category": "family",
-      "summary_html": "<p>A foreign domestic helper has been arrested on suspicion of <span class=\"bw\">ill-treating a child<span class=\"tip\"><span class=\"tip-en\">deliberately harming or mistreating a child in one’s care</span><span class=\"tip-zh\">虐待兒童</span></span></span> after the mother of a four-year-old girl accused her of spitting into the toddler's food at their home in Kennedy Town. Police said the mother lodged a complaint at a local station on Friday morning after reportedly witnessing the incident at The Belcher's, a private housing estate on Hong Kong Island, and that officers arrested the 37-year-old Filipino helper the same day.</p><p>Investigators said <span class=\"bw\">preliminary findings<span class=\"tip\"><span class=\"tip-en\">the first, not-yet-final results of an investigation</span><span class=\"tip-zh\">初步調查結果</span></span></span> supported the mother's account, though the case remains under review and no charges have been laid. The episode has reignited public anxiety over the <span class=\"bw\">power imbalance<span class=\"tip\"><span class=\"tip-en\">an unequal relationship in which one side has far more control than the other</span><span class=\"tip-zh\">權力不對等</span></span></span> between live-in helpers and the families who employ them, with commentators noting that young children, who cannot easily report mistreatment themselves, are especially vulnerable when left largely in a helper's care for long stretches of the day.</p><p>Migrant worker advocates urged the public not to rush to judgement, pointing out that Hong Kong's roughly 370,000 foreign domestic helpers often endure <span class=\"bw\">gruelling schedules<span class=\"tip\"><span class=\"tip-en\">extremely demanding and exhausting daily routines</span><span class=\"tip-zh\">繁重的工作時間表</span></span></span> with little rest, which can erode patience even among otherwise caring workers. At the same time, child protection groups called for clearer <span class=\"bw\">reporting channels<span class=\"tip\"><span class=\"tip-en\">official routes through which concerns or complaints can be raised</span><span class=\"tip-zh\">舉報渠道</span></span></span> so that signs of distress in very young children are caught earlier, and for employers to install basic safeguards such as occasional unannounced check-ins rather than relying on <span class=\"bw\">covert surveillance<span class=\"tip\"><span class=\"tip-en\">secretly watching someone without their knowledge</span><span class=\"tip-zh\">秘密監視</span></span></span> alone.</p>",
-      "summary_zh_html": "<p>一名外籍家庭傭工因涉嫌<span class=\"bwz\">虐待兒童</span>被捕，事緣一名四歲女童的母親指控她在堅尼地城寓所內向女童的食物吐口水。警方表示，事主母親於上週五早上在一間警署報案，稱目擊事件發生於港島堅尼地城的私人屋苑寶翠園，警方同日將該37歲菲律賓籍傭工拘捕。</p><p>調查人員表示，<span class=\"bwz\">初步調查結果</span>支持事主母親的說法，但案件仍在覆核中，暫未有人被落案起訴。事件再次引發公眾對住家傭工與僱主家庭之間<span class=\"bwz\">權力不對等</span>的憂慮，有評論指出，年幼子女難以自行舉報受虐情況，若長時間主要由傭工照顧，處境尤其脆弱。</p><p>外勞權益團體呼籲市民切勿倉卒判斷，指出本港約37萬名外籍家庭傭工經常要應付<span class=\"bwz\">繁重的工作時間表</span>，休息時間有限，即使本身有愛心的傭工也可能因此失去耐性。與此同時，保護兒童團體呼籲設立更清晰的<span class=\"bwz\">舉報渠道</span>，以便及早發現年幼子女的異常表現，亦促請僱主採取基本保障措施，例如偶爾進行突擊探訪，而非單靠<span class=\"bwz\">秘密監視</span>。</p>",
-      "image_scene": "A quiet residential kitchen in a Hong Kong high-rise flat at dusk, a child's small table with an empty bowl and spoon, a window overlooking Victoria Harbour, soft warm lighting, no people visible, no readable text, signs or logos, conveying a calm domestic setting rather than any confrontation.",
-      "slides": {
-        "topic_en": "Domestic Helpers and Child Safety",
-        "background_en": "Police arrested a domestic helper after a mother accused her of spitting into her four-year-old daughter's food.",
-        "background_zh": "一名母親指控家庭傭工向其四歲女兒的食物吐口水，警方將傭工拘捕。",
-        "background_hl": "spitting into her four-year-old daughter's food",
-        "analysis_en": "The case reopens debate about the unequal power balance between live-in helpers and the families who employ them.",
-        "analysis_zh": "事件再次引發有關住家傭工與僱主家庭之間權力不平衡的討論。",
-        "analysis_hl": "unequal power balance between live-in helpers and the families",
-        "support_en": "Child protection advocates argue stronger reporting channels and surprise check-ins could catch mistreatment before it escalates.",
-        "support_zh": "保護兒童團體認為，加強舉報渠道及突擊探訪，可在情況惡化前及早發現虐待。",
-        "support_hl": "stronger reporting channels and surprise check-ins",
-        "oppose_en": "Migrant worker groups warn that exhausting schedules and constant surveillance unfairly treat every helper as a suspect.",
-        "oppose_zh": "外勞團體警告，繁重工時加上持續監視，是不公平地將每名傭工都當成疑犯。",
-        "oppose_hl": "unfairly treat every helper as a suspect",
-        "vocab5": [
-          {
-            "en": "child welfare",
-            "zh": "兒童福利"
-          },
-          {
-            "en": "employer-employee trust",
-            "zh": "僱傭互信"
-          },
-          {
-            "en": "domestic worker rights",
-            "zh": "家務工權益"
-          },
-          {
-            "en": "due process",
-            "zh": "法律程序"
-          },
-          {
-            "en": "vulnerable dependant",
-            "zh": "脆弱的受照顧者"
-          }
-        ],
-        "question_en": "How can Hong Kong families protect young children without treating every domestic helper as a potential threat?",
-        "question_zh": "香港家庭可以如何保護年幼子女，而不將每位家庭傭工都當成潛在威脅？",
-        "question_hl": "without treating every domestic helper as a potential threat"
-      },
-      "cover_text": {
-        "zh_kicker": "堅尼地城",
-        "zh_title": [
-          "女童食物",
-          "疑遭傭工吐口水"
-        ],
-        "zh_hl": "吐口水",
-        "zh_sub": "母親報案傭工被捕",
-        "en": "Domestic helper arrested over child food-spitting claim"
-      },
-      "vocab": [
-        {
-          "phrase": "ill-treatment case",
-          "zh": "虐待個案",
-          "sample": "The ill-treatment case has drawn fresh attention to how helpers are supervised at home."
-        },
-        {
-          "phrase": "helper supervision",
-          "zh": "傭工監管",
-          "sample": "Parents are rethinking how much helper supervision is realistic in a busy household."
-        },
-        {
-          "phrase": "child's welfare",
-          "zh": "子女的福祉",
-          "sample": "Parents must balance trust with vigilance to safeguard their child's welfare."
-        },
-        {
-          "phrase": "unannounced check-in",
-          "zh": "突擊探訪",
-          "sample": "Some employers now schedule an unannounced check-in during the day to ease their worries."
-        },
-        {
-          "phrase": "labour exploitation",
-          "zh": "剝削勞工",
-          "sample": "Advocates warn that long hours without rest can amount to labour exploitation."
-        },
-        {
-          "phrase": "statutory rest day",
-          "zh": "法定休息日",
-          "sample": "Helpers are entitled to at least one statutory rest day each week."
-        },
-        {
-          "phrase": "safeguarding protocol",
-          "zh": "保護機制",
-          "sample": "Schools and families are being urged to adopt a clearer safeguarding protocol for young children."
-        },
-        {
-          "phrase": "employment agency",
-          "zh": "僱傭中介公司",
-          "sample": "The employment agency that placed the helper said it would cooperate fully with police."
-        },
-        {
-          "phrase": "psychological strain",
-          "zh": "心理壓力",
-          "sample": "Isolation and homesickness can add to a helper's psychological strain."
-        },
-        {
-          "phrase": "home surveillance camera",
-          "zh": "家居監控鏡頭",
-          "sample": "Some parents now install a home surveillance camera to monitor childcare while they are at work."
-        },
-        {
-          "phrase": "presumption of innocence",
-          "zh": "無罪假定",
-          "sample": "Legal experts remind the public that the presumption of innocence still applies before trial."
-        },
-        {
-          "phrase": "peer support group",
-          "zh": "同路人支援小組",
-          "sample": "A peer support group can give isolated helpers somewhere to share their frustrations safely."
-        }
-      ],
-      "phrases": [
-        {
-          "en": "strike a balance between trust and oversight",
-          "zh": "在信任與監察之間取得平衡",
-          "sample": "Families must strike a balance between trust and oversight when hiring live-in help."
-        },
-        {
-          "en": "hold those in positions of care accountable",
-          "zh": "要求擔任照顧角色的人士負責",
-          "sample": "The law must hold those in positions of care accountable for any mistreatment."
-        },
-        {
-          "en": "address the root causes of workplace stress",
-          "zh": "解決職場壓力的根本原因",
-          "sample": "Employers are being urged to address the root causes of workplace stress among helpers."
-        },
-        {
-          "en": "safeguard the interests of vulnerable individuals",
-          "zh": "保障弱勢人士的權益",
-          "sample": "New guidelines aim to safeguard the interests of vulnerable individuals in private homes."
-        },
-        {
-          "en": "avoid rushing to judgement before facts emerge",
-          "zh": "在事實未明前避免倉卒判斷",
-          "sample": "Commentators urged the public to avoid rushing to judgement before facts emerge."
-        },
-        {
-          "en": "improve working conditions for low-paid workers",
-          "zh": "改善低薪工人的工作條件",
-          "sample": "Unions want the government to improve working conditions for low-paid workers like helpers."
-        },
-        {
-          "en": "close loopholes in existing protection measures",
-          "zh": "堵塞現有保障措施的漏洞",
-          "sample": "Officials promised to close loopholes in existing protection measures for young children."
-        },
-        {
-          "en": "foster a culture of mutual respect at home",
-          "zh": "在家中建立互相尊重的文化",
-          "sample": "Experts say families should foster a culture of mutual respect at home with their helpers."
-        },
-        {
-          "en": "ensure every complaint is taken seriously",
-          "zh": "確保每項投訴都受到認真處理",
-          "sample": "Agencies must ensure every complaint is taken seriously, however small it may seem."
-        },
-        {
-          "en": "prevent isolated incidents from becoming a pattern",
-          "zh": "防止單一事件演變成常態",
-          "sample": "Regular reviews can prevent isolated incidents from becoming a wider pattern."
-        },
-        {
-          "en": "uphold the rights of both employer and employee",
-          "zh": "維護僱主與僱員雙方的權利",
-          "sample": "Any new rule should uphold the rights of both employer and employee fairly."
-        },
-        {
-          "en": "introduce stronger safeguards without resorting to suspicion",
-          "zh": "引入更強保障而非訴諸猜疑",
-          "sample": "The goal is to introduce stronger safeguards without resorting to blanket suspicion."
-        },
-        {
-          "en": "equip parents with practical warning signs to watch for",
-          "zh": "讓家長掌握實用的警號",
-          "sample": "Workshops aim to equip parents with practical warning signs to watch for at home."
-        },
-        {
-          "en": "strengthen support services for domestic workers",
-          "zh": "加強對家務工人的支援服務",
-          "sample": "Advocates called on the government to strengthen support services for domestic workers."
-        },
-        {
-          "en": "treat each case on its own merits",
-          "zh": "按個別案件的實際情況處理",
-          "sample": "Lawyers urged the public to treat each case on its own merits rather than generalise."
+          "en": "command public confidence",
+          "zh": "獲得公眾信任",
+          "sample": "Any successor must command public confidence to govern effectively."
         }
       ]
     },
     {
       "source_name": "The Standard",
-      "source_url": "https://www.thestandard.com.hk/news/article/347255/Michael-Wong-defends-new-public-housing-control-unit-amid-lawmakers-redundancy-concerns",
-      "published_date": "8 November 2026",
-      "headline": "Government Defends New Public Housing Watchdog Amid Fears of Duplicated Bureaucracy",
-      "category": "urban",
-      "summary_html": "<p>Acting Housing Secretary Michael Wong has defended the government's plan to set up a new <span class=\"bw\">Public Housing Building Control Section<span class=\"tip\"><span class=\"tip-en\">a new government office created to oversee building safety on public housing projects</span><span class=\"tip-zh\">公共房屋建築監管科</span></span></span> this month, pushing back against lawmakers who warn the reform merely adds another layer of bureaucracy rather than fixing the real problem. The new section will take over from the <span class=\"bw\">Independent Checking Unit<span class=\"tip\"><span class=\"tip-en\">the body responsible for inspecting building and maintenance work, now being replaced</span><span class=\"tip-zh\">獨立查核組</span></span></span>, which an official inquiry into the deadly Tai Po fire named as the arm of government bearing the greatest responsibility for the disaster.</p><p>Wong told lawmakers the Housing Department and the Buildings Department already enforce <span class=\"bw\">identical statutory standards<span class=\"tip\"><span class=\"tip-en\">exactly the same legally required rules and benchmarks</span><span class=\"tip-zh\">完全相同的法定標準</span></span></span> under the Buildings Ordinance, so the new section would not create a genuinely separate set of rules; instead, the Buildings Department will second a senior officer into the section to keep technical oversight consistent. He argued this arrangement closes the specific <span class=\"bw\">supervisory gap<span class=\"tip\"><span class=\"tip-en\">a weak point in the system where no one is properly checking that work is done safely</span><span class=\"tip-zh\">監管缺口</span></span></span> the inquiry identified, rather than simply duplicating existing checks.</p><p>Several lawmakers remained sceptical, noting that residents' legal representatives had earlier proposed folding the discredited unit directly into the Buildings Department instead of creating a new <span class=\"bw\">parallel structure<span class=\"tip\"><span class=\"tip-en\">a separate system that exists alongside another one doing a similar job</span><span class=\"tip-zh\">平行架構</span></span></span>, which they feared could blur lines of <span class=\"bw\">accountability<span class=\"tip\"><span class=\"tip-en\">the obligation to accept responsibility and explain one’s actions</span><span class=\"tip-zh\">問責性</span></span></span> if something again went wrong. Wong said the government would monitor the new section's performance closely and remained open to further <span class=\"bw\">structural adjustments<span class=\"tip\"><span class=\"tip-en\">changes to the way an organisation or system is built and organised</span><span class=\"tip-zh\">架構調整</span></span></span> if gaps persisted, but insisted immediate action was needed given the scale of the Tai Po tragedy.</p>",
-      "summary_zh_html": "<p>署理房屋局局長黃偉綸為政府計劃於本月成立新的<span class=\"bwz\">公共房屋建築監管科</span>辯護，反駁有議員質疑今次改革只是新增一層官僚架構，未能真正解決問題。新設立的監管科將取代<span class=\"bwz\">獨立查核組</span>，而一項就大埔致命火災展開的官方調查報告指出，該查核組是政府部門之中須承擔最大責任的一環。</p><p>黃偉綸向議員表示，房屋署與屋宇署一直依據《建築物條例》執行<span class=\"bwz\">完全相同的法定標準</span>，因此新設立的監管科並不會另訂一套截然不同的規則；相反，屋宇署會調派一名高級官員到該科，以確保技術監管保持一致。他指出，此安排正是為了堵塞調查報告所指出的特定<span class=\"bwz\">監管缺口</span>，而非單純重複現有的檢查工作。</p><p>多名議員仍然表示懷疑，指出受災居民的法律代表早前已建議將該信譽受損的部門直接併入屋宇署，而非另設<span class=\"bwz\">平行架構</span>，擔心一旦日後再出事故，將難以釐清<span class=\"bwz\">問責性</span>。黃偉綸表示，政府會密切監察新監管科的表現，若監管缺口持續存在，仍會考慮進一步<span class=\"bwz\">架構調整</span>，但強調鑑於大埔火災的災情規模，政府必須立即採取行動。</p>",
-      "image_scene": "Two anonymous officials in hard hats and government-issue vests inspecting scaffolding on the exterior of an ageing public housing block, clipboards in hand, Hong Kong tower blocks visible in the background under a grey sky, bamboo scaffolding wrapped around the building, no readable text, signs or logos.",
+      "source_url": "https://www.thestandard.com.hk/news/article/348049/Final-lights-for-Victoria-Harbour-show-after-two-decades",
+      "published_date": "11 November 2026",
+      "headline": "Hong Kong's Symphony of Lights to Take Its Final Bow After Two Decades",
+      "category": "hk",
+      "summary_html": "<p>After more than two decades lighting up Victoria Harbour, <span class=\"bw\">A Symphony of Lights<span class=\"tip\"><span class=\"tip-en\">Hong Kong’s long-running nightly laser and multimedia show over Victoria Harbour</span><span class=\"tip-zh\">幻彩詠香江</span></span></span> will give its last-ever performance on 18 November, The Standard has learned. First launched in January 2004 and later recognised by Guinness World Records as the world’s largest permanent light and sound show, the display has become one of the harbour’s most recognisable <span class=\"bw\">tourist draws<span class=\"tip\"><span class=\"tip-en\">an attraction that is especially effective at bringing visitors to a place</span><span class=\"tip-zh\">吸引遊客的賣點</span></span></span>, projecting synchronised lights and music from dozens of buildings on both sides of the harbour every night.</p><p>Officials say the decision to retire the show was driven mainly by its <span class=\"bw\">mounting running costs<span class=\"tip\"><span class=\"tip-en\">the ever-increasing expense of keeping something operating</span><span class=\"tip-zh\">不斷上升的營運成本</span></span></span> and by a steady decline in appeal among repeat visitors, even after a 2017 revamp added a new musical score performed by the Hong Kong Philharmonic Orchestra. The farewell performance, set for 8pm, will include a <span class=\"bw\">special pyrotechnic display<span class=\"tip\"><span class=\"tip-en\">an elaborate fireworks show put on for a special occasion</span><span class=\"tip-zh\">特別煙火表演</span></span></span> as a send-off, and will coincide with the opening night of this year’s WinterFest, described by organisers as the <span class=\"bw\">largest-ever edition<span class=\"tip\"><span class=\"tip-en\">the biggest version of a regular event that has ever been held</span><span class=\"tip-zh\">歷來規模最大的一屆</span></span></span> of the festival.</p><p>Rather than returning to a single, fixed nightly show, the Tourism Board plans to replace Symphony of Lights with a more flexible rotation of seasonal light programmes <span class=\"bw\">spread across<span class=\"tip\"><span class=\"tip-en\">distributed over an area rather than concentrated in just one spot</span><span class=\"tip-zh\">分佈於</span></span></span> multiple districts, including Tsim Sha Tsui and Causeway Bay. Secretary for Culture, Sports and Tourism Rosanna Law said the new format need not be confined to Victoria Harbour, framing the change as part of a wider push to encourage visitors to <span class=\"bw\">venture beyond the harbourfront<span class=\"tip\"><span class=\"tip-en\">travel to areas further away than the main, well-known waterfront area</span><span class=\"tip-zh\">走出海旁範圍</span></span></span> into neighbourhoods across the city. The move has stirred mixed feelings among residents who grew up with the nightly display as a fixture of harbour life, even as tourism officials insist that <span class=\"bw\">reinventing the attraction<span class=\"tip\"><span class=\"tip-en\">completely changing something to give it a fresh form or purpose</span><span class=\"tip-zh\">為景點注入新意</span></span></span> is necessary to sustain visitor interest in the long run.</p>",
+      "summary_zh_html": "<p>在維多利亞港上空閃耀逾二十年後，《<span class=\"bwz\">幻彩詠香江</span>》據《英文虎報》報道，將於11月18日舉行最後一場演出。這項燈光音樂匯演於2004年1月首次登場，後來獲健力士世界紀錄認證為全球規模最大的常設燈光音效表演，多年來一直是維港夜景最具代表性的<span class=\"bwz\">吸引遊客的賣點</span>之一，每晚利用維港兩岸數十座大樓同步投射燈光，並配合音樂演出。</p><p>官員表示，決定讓這項表演退役，主要是因為其<span class=\"bwz\">不斷上升的營運成本</span>，以及重遊旅客的興趣持續下降——即使在2017年完成革新，加入由香港管弦樂團演奏的全新配樂後，情況依然如此。告別演出將於晚上八時舉行，並會加插一場<span class=\"bwz\">特別煙火表演</span>作為謝幕，而演出當晚亦正值今年冬日祭開幕——主辦方形容今年為該節目<span class=\"bwz\">歷來規模最大的一屆</span>。</p><p>旅遊發展局計劃不再單靠一個固定的每晚表演，而是改以更靈活的季節性燈光節目，<span class=\"bwz\">分佈於</span>多個地區舉行，包括尖沙咀及銅鑼灣。文化體育及旅遊局局長羅淑佩表示，新形式不必局限於維港一帶，並形容此舉是推動旅客<span class=\"bwz\">走出海旁範圍</span>，深入全港各區的更廣泛策略之一。這項轉變，令不少自小伴隨這場每晚匯演成長的市民感到五味雜陳，但旅遊官員則堅持，<span class=\"bwz\">為景點注入新意</span>是維持長遠旅客興趣的必要之舉。</p>",
+      "image_scene": "A nighttime view of Victoria Harbour with Hong Kong Island skyscrapers lit up in colourful synchronised lights, fireworks bursting above the skyline, anonymous tourists and families standing along the Tsim Sha Tsui promenade railing with phones raised to watch, the Star Ferry pier silhouette in the foreground. No text, signs or logos.",
       "slides": {
-        "topic_en": "Reforming Public Housing Oversight",
-        "background_en": "The government will replace the discredited Independent Checking Unit with a new building control section this month.",
-        "background_zh": "政府將於本月以新的建築監管科，取代信譽受損的獨立查核組。",
-        "background_hl": "discredited Independent Checking Unit with a new building control section",
-        "analysis_en": "Lawmakers question whether the new unit truly fixes the supervisory gap or merely adds another layer of bureaucracy.",
-        "analysis_zh": "議員質疑新部門是否真正堵塞監管缺口，還是只是新增一層官僚架構。",
-        "analysis_hl": "merely adds another layer of bureaucracy",
-        "support_en": "Officials argue seconding a senior Buildings Department officer keeps technical oversight consistent and closes the specific gap found by investigators.",
-        "support_zh": "官員認為調派屋宇署高級官員，可保持技術監管一致，並堵塞調查發現的缺口。",
-        "support_hl": "closes the specific gap found by investigators",
-        "oppose_en": "Critics argue the government should have merged the discredited unit directly into the Buildings Department instead of creating a parallel structure.",
-        "oppose_zh": "批評者認為政府應將信譽受損的部門直接併入屋宇署，而非另設平行架構。",
-        "oppose_hl": "creating a parallel structure",
+        "topic_en": "Symphony of Lights Says Farewell",
+        "background_en": "Hong Kong's nightly Symphony of Lights show will give its final performance on 18 November after 20 years.",
+        "background_zh": "香港維港每晚上演的《幻彩詠香江》將於11月18日舉行二十年來最後一場表演。",
+        "background_hl": "give its final performance on 18 November after 20 years",
+        "analysis_en": "Officials are retiring the ageing show due to rising costs, replacing it with rotating light festivals across several districts.",
+        "analysis_zh": "官員指，有感表演日漸老化及成本上升，決定以多區輪流舉行的燈光節目取而代之。",
+        "analysis_hl": "retiring the ageing show due to rising costs",
+        "support_en": "Supporters say fresh, rotating displays across different districts will keep tourist attractions exciting and spread visitor spending more evenly.",
+        "support_zh": "支持者認為，多區輪流的全新燈光節目能保持景點吸引力，並讓旅客消費更平均地分佈各區。",
+        "support_hl": "keep tourist attractions exciting and spread visitor spending more evenly",
+        "oppose_en": "Critics worry Hong Kong is abandoning a beloved cultural icon that gave the harbour a unique identity for two decades.",
+        "oppose_zh": "批評者擔心，香港正在放棄一個陪伴維港二十年、賦予其獨特身分的深受喜愛的文化標誌。",
+        "oppose_hl": "abandoning a beloved cultural icon that gave the harbour a unique identity",
         "vocab5": [
           {
-            "en": "institutional accountability",
-            "zh": "制度問責"
+            "en": "cultural icon",
+            "zh": "文化標誌"
           },
           {
-            "en": "regulatory overhaul",
-            "zh": "監管改革"
+            "en": "tourist attraction",
+            "zh": "旅遊景點"
           },
           {
-            "en": "bureaucratic duplication",
-            "zh": "官僚重疊"
+            "en": "nightly performance",
+            "zh": "每晚表演"
           },
           {
-            "en": "public safety oversight",
-            "zh": "公共安全監管"
+            "en": "harbourfront",
+            "zh": "海旁"
           },
           {
-            "en": "government restructuring",
-            "zh": "政府架構重組"
+            "en": "farewell show",
+            "zh": "告別演出"
           }
         ],
-        "question_en": "Will creating a brand new government unit genuinely close Hong Kong's building-safety supervisory gap?",
-        "question_zh": "成立一個全新的政府部門，能否真正堵塞香港建築安全的監管缺口？",
-        "question_hl": "genuinely close Hong Kong's building-safety supervisory gap"
+        "question_en": "Should Hong Kong keep a single iconic nightly show, or spread tourist attractions across several districts instead?",
+        "question_zh": "香港應否保留一個標誌性的每晚表演，還是應將旅遊景點分散至多個地區？",
+        "question_hl": "spread tourist attractions across several districts"
       },
       "cover_text": {
-        "zh_kicker": "房屋改革",
+        "zh_kicker": "維港告別",
         "zh_title": [
-          "新監管科",
-          "接替查核組"
+          "幻彩詠香江",
+          "出演尾場"
         ],
-        "zh_hl": "查核組",
-        "zh_sub": "議員質疑添官僚",
-        "en": "New unit to replace discredited public housing inspector"
+        "zh_hl": "尾場",
+        "zh_sub": "11月18日告別演出",
+        "en": "Hong Kong's harbour light show bows out after 20 years"
       },
       "vocab": [
         {
-          "phrase": "building safety inspection",
-          "zh": "建築安全檢查",
-          "sample": "The new section will take over building safety inspection duties from the discredited unit."
+          "phrase": "permanent light show",
+          "zh": "常設燈光表演",
+          "sample": "The harbour's permanent light show became a symbol of Hong Kong after its 2004 debut."
         },
         {
-          "phrase": "maintenance contractor",
-          "zh": "維修承建商",
-          "sample": "Investigators found that the maintenance contractor had cut corners on fire-resistant materials."
+          "phrase": "night-time spectacle",
+          "zh": "夜間盛事",
+          "sample": "The nightly show was once considered Hong Kong's signature night-time spectacle."
         },
         {
-          "phrase": "ordinance enforcement",
-          "zh": "條例執行",
-          "sample": "Both departments are responsible for ordinance enforcement under the same building safety rules."
+          "phrase": "tourism heritage",
+          "zh": "旅遊文化遺產",
+          "sample": "Some residents see the nightly show as part of the city's tourism heritage."
         },
         {
-          "phrase": "chain of command",
-          "zh": "指揮架構",
-          "sample": "A clear chain of command helps ensure that safety concerns are escalated quickly."
+          "phrase": "synchronised lighting",
+          "zh": "同步燈光效果",
+          "sample": "The synchronised lighting across dozens of buildings was the show's biggest technical achievement."
         },
         {
-          "phrase": "government watchdog",
-          "zh": "政府監察機構",
-          "sample": "Lawmakers want the new government watchdog to have real enforcement power, not just a new name."
+          "phrase": "pyrotechnic display",
+          "zh": "煙火表演",
+          "sample": "A pyrotechnic display marked the show's emotional send-off."
         },
         {
-          "phrase": "policy overhaul",
-          "zh": "政策大改革",
-          "sample": "The policy overhaul followed months of public anger over the Tai Po fire."
+          "phrase": "visitor fatigue",
+          "zh": "旅客審美疲勞",
+          "sample": "Tourism officials cited visitor fatigue as one reason for retiring the long-running show."
         },
         {
-          "phrase": "seconded officer",
-          "zh": "調任官員",
-          "sample": "A seconded officer from the Buildings Department will help align technical standards."
+          "phrase": "iconic skyline",
+          "zh": "標誌性天際線",
+          "sample": "Hong Kong's iconic skyline has long drawn visitors to Victoria Harbour at night."
         },
         {
-          "phrase": "public trust deficit",
-          "zh": "公眾信任缺口",
-          "sample": "The government faces a public trust deficit after the inquiry's damning findings."
+          "phrase": "seasonal programming",
+          "zh": "季節性節目安排",
+          "sample": "The new seasonal programming will rotate light displays between districts throughout the year."
         },
         {
-          "phrase": "checks-and-balances system",
-          "zh": "制衡機制",
-          "sample": "Lawmakers called for a stronger checks-and-balances system rather than a reshuffled name plate."
+          "phrase": "nostalgic sentiment",
+          "zh": "懷舊情懷",
+          "sample": "Many longtime residents expressed nostalgic sentiment over the show's closure."
         },
         {
-          "phrase": "lawmakers' questioning",
-          "zh": "議員質詢",
-          "sample": "The new section faced tough lawmakers' questioning before it had even started work."
+          "phrase": "harbour spectacle",
+          "zh": "維港盛景",
+          "sample": "Long-time residents say the show was a defining harbour spectacle for two decades."
         },
         {
-          "phrase": "structural weakness",
-          "zh": "結構性缺陷",
-          "sample": "The report exposed a structural weakness in how maintenance projects were checked."
+          "phrase": "landmark attraction",
+          "zh": "地標景點",
+          "sample": "The Peak Tram and the Symphony of Lights have both been landmark attractions for decades."
         },
         {
-          "phrase": "risk of complacency",
-          "zh": "鬆懈的風險",
-          "sample": "Critics warn that renaming a unit carries a real risk of complacency rather than reform."
+          "phrase": "urban nightscape",
+          "zh": "城市夜景",
+          "sample": "The urban nightscape of Victoria Harbour remains one of Asia's most photographed views."
         }
       ],
       "phrases": [
         {
-          "en": "plug the gaps exposed by the tragedy",
-          "zh": "堵塞悲劇所暴露的漏洞",
-          "sample": "The reform is meant to plug the gaps exposed by the Tai Po tragedy."
+          "en": "mark the end of an era",
+          "zh": "標誌一個時代的終結",
+          "sample": "The final performance will mark the end of an era for Victoria Harbour."
         },
         {
-          "en": "restore public confidence in government oversight",
-          "zh": "重建公眾對政府監管的信心",
-          "sample": "Officials hope the new section will restore public confidence in government oversight."
+          "en": "breathe new life into a tired attraction",
+          "zh": "為失去新鮮感的景點注入新生命",
+          "sample": "Officials hope rotating light shows will breathe new life into a tired attraction."
         },
         {
-          "en": "prevent history from repeating itself",
-          "zh": "防止歷史重演",
-          "sample": "Lawmakers said stronger rules were needed to prevent history from repeating itself."
+          "en": "strike the right balance between tradition and renewal",
+          "zh": "在傳統與革新之間取得適當平衡",
+          "sample": "The Tourism Board must strike the right balance between tradition and renewal."
         },
         {
-          "en": "draw a clear line of responsibility",
-          "zh": "清楚劃分責任界線",
-          "sample": "The report tried to draw a clear line of responsibility between departments."
+          "en": "evoke a strong sense of nostalgia",
+          "zh": "喚起強烈的懷舊情懷",
+          "sample": "The farewell show is likely to evoke a strong sense of nostalgia among older residents."
         },
         {
-          "en": "avoid merely rearranging the same deck chairs",
-          "zh": "避免只是重新排列同樣的架構",
-          "sample": "Critics accused the plan of merely rearranging the same deck chairs."
+          "en": "diversify the city's tourist offerings",
+          "zh": "使本港的旅遊項目更多元化",
+          "sample": "Spreading light festivals across districts helps diversify the city's tourist offerings."
         },
         {
-          "en": "translate lessons learned into lasting reform",
-          "zh": "將汲取的教訓轉化為持久改革",
-          "sample": "Officials promised to translate lessons learned into lasting reform, not a quick fix."
+          "en": "outlive its original appeal",
+          "zh": "失去昔日的吸引力",
+          "sample": "Some argue the show had outlived its original appeal well before its closure."
         },
         {
-          "en": "hold officials to a higher standard of scrutiny",
-          "zh": "要求官員接受更嚴格的監察",
-          "sample": "The tragedy has pushed lawmakers to hold officials to a higher standard of scrutiny."
+          "en": "serve as a cultural touchstone",
+          "zh": "成為一種文化象徵",
+          "sample": "For two decades, the show served as a cultural touchstone for locals and tourists alike."
         },
         {
-          "en": "ensure reforms go beyond a change of name",
-          "zh": "確保改革不只是換個名稱",
-          "sample": "Residents want to ensure reforms go beyond a change of name on the door."
+          "en": "disperse visitor footfall across the city",
+          "zh": "將旅客人流分散至全港各區",
+          "sample": "The new scheme is designed to disperse visitor footfall across the city."
         },
         {
-          "en": "tighten enforcement of existing regulations",
-          "zh": "加強執行現有法規",
-          "sample": "Some lawmakers argued the priority should be to tighten enforcement of existing regulations."
+          "en": "weigh heritage value against running costs",
+          "zh": "衡量文化價值與營運成本",
+          "sample": "Policymakers must weigh heritage value against running costs when retiring old attractions."
         },
         {
-          "en": "rebuild trust between residents and regulators",
-          "zh": "重建居民與監管機構之間的信任",
-          "sample": "The new section faces the long task of rebuilding trust between residents and regulators."
+          "en": "reimagine a long-running attraction",
+          "zh": "重新構思一個長壽的景點",
+          "sample": "The government chose to reimagine a long-running attraction rather than let it fade quietly."
         },
         {
-          "en": "guard against regulatory capture",
-          "zh": "防範監管機構被利益集團操控",
-          "sample": "Analysts warned the city must guard against regulatory capture in future reforms."
+          "en": "spark public nostalgia and debate",
+          "zh": "引發公眾懷舊情緒及討論",
+          "sample": "News of the closure quickly sparked public nostalgia and debate online."
         },
         {
-          "en": "demand measurable improvements, not symbolic gestures",
-          "zh": "要求可量化的改善而非象徵性姿態",
-          "sample": "Lawmakers said they would demand measurable improvements, not symbolic gestures."
-        },
-        {
-          "en": "align incentives across different government departments",
-          "zh": "協調各政府部門的利益方向",
-          "sample": "The reform tries to align incentives across different government departments."
-        },
-        {
-          "en": "close the loop between inspection and enforcement",
-          "zh": "連結檢查與執法之間的環節",
-          "sample": "Officials say the new structure will close the loop between inspection and enforcement."
-        },
-        {
-          "en": "learn hard lessons from past institutional failures",
-          "zh": "從過去的制度失誤中汲取沉痛教訓",
-          "sample": "The government says it has tried to learn hard lessons from past institutional failures."
+          "en": "redefine the harbourfront experience",
+          "zh": "重新定義海濱體驗",
+          "sample": "The new festival format aims to redefine the harbourfront experience for visitors."
         }
       ]
     },
     {
-      "source_name": "SCMP",
-      "source_url": "https://www.scmp.com/news/hong-kong/article/3373151/chinese-university-hong-kong-offer-free-ai-dementia-screening-2700-seniors",
-      "published_date": "4 November 2026",
-      "headline": "CUHK to Offer Free AI Eye-Scan Dementia Screening to 2,700 Elderly Residents in Wong Tai Sin",
-      "category": "health",
-      "summary_html": "<p>Hongkongers in Wong Tai Sin will soon be able to check their risk of dementia with nothing more invasive than a photograph of the back of their eye, after the Chinese University of Hong Kong announced a free, <span class=\"bw\">district-based screening programme<span class=\"tip\"><span class=\"tip-en\">a health check-up scheme targeted at residents of one particular area</span><span class=\"tip-zh\">地區性篩查計劃</span></span></span> set to begin in January 2027. The two-year initiative will use <span class=\"bw\">AI-powered retinal imaging<span class=\"tip\"><span class=\"tip-en\">using artificial intelligence to analyse photographs of the back of the eye for signs of disease</span><span class=\"tip-zh\">人工智能視網膜影像分析</span></span></span> to flag early signs of cognitive decline in up to 2,700 residents aged 60 to 79.</p><p>Unlike traditional memory clinics, the screening involves no blood draws and no brain scans. Participants instead complete a short questionnaire, have a single photograph taken of their retina, and sit a brief <span class=\"bw\">cognitive assessment<span class=\"tip\"><span class=\"tip-en\">a short test used to measure a person’s thinking, memory and reasoning abilities</span><span class=\"tip-zh\">認知能力評估</span></span></span>, with an algorithm trained on nearly 13,000 earlier fundus images flagging those who may need closer attention. Professor Vincent Mok, who co-leads the project, said the model's accuracy is now comparable to costlier imaging tests, making it a practical tool for <span class=\"bw\">mass community screening<span class=\"tip\"><span class=\"tip-en\">checking a very large number of ordinary people for a condition, rather than only those already showing symptoms</span><span class=\"tip-zh\">大規模社區篩查</span></span></span> rather than hospital-based diagnosis alone.</p><p>Wong Tai Sin was chosen because it has one of the highest proportions of elderly residents among Hong Kong's 18 districts, making early detection especially urgent there. Only residents flagged as higher risk will be referred onward, easing pressure on <span class=\"bw\">overstretched memory clinics<span class=\"tip\"><span class=\"tip-en\">specialist medical clinics for diagnosing dementia that already have more patients than they can easily handle</span><span class=\"tip-zh\">人手緊絀的記憶診所</span></span></span> while still catching cases early enough for lifestyle changes or medication to help. Researchers hope the approach, if proven effective, could eventually be rolled out to older residents citywide, addressing what health officials have long called a <span class=\"bw\">looming demographic challenge<span class=\"tip\"><span class=\"tip-en\">a difficult, large-scale problem approaching as a society’s population grows steadily older</span><span class=\"tip-zh\">迫在眉睫的人口挑戰</span></span></span> as Hong Kong's population continues to age.</p>",
-      "summary_zh_html": "<p>黃大仙居民日後只需拍一張眼底照片，便可檢測自己患上認知障礙症的風險，香港中文大學宣布將推出免費的<span class=\"bwz\">地區性篩查計劃</span>，計劃於2027年1月展開。這項為期兩年的計劃將利用<span class=\"bwz\">人工智能視網膜影像分析</span>技術，為最多2700名年齡介乎60至79歲的居民，及早識別認知能力衰退的徵狀。</p><p>與傳統的記憶診所不同，這項篩查無需抽血，亦不涉及腦部掃描。參加者只需填寫簡短問卷、拍攝一張視網膜照片，並接受簡短的<span class=\"bwz\">認知能力評估</span>，再由一套根據近13000張早期視網膜影像訓練而成的演算法，篩選出需要進一步關注的人士。項目聯合主持莫仲棠教授表示，該模型的準繩度現時已可媲美造價更高昂的影像檢查，令其成為<span class=\"bwz\">大規模社區篩查</span>的實用工具，而非只局限於醫院內的診斷。</p><p>黃大仙獲選作試點，是因為該區在本港十八個行政區中，長者比例屬最高之一，令及早識別病情顯得尤其迫切。只有被評為高風險的居民會獲轉介跟進，藉此減輕<span class=\"bwz\">人手緊絀的記憶診所</span>的壓力，同時仍能及早發現個案，讓患者有機會透過調整生活方式或服藥受惠。研究人員希望，若此方法證實有效，日後或可擴展至全港長者，應對香港人口持續老化下，衛生官員一直形容為<span class=\"bwz\">迫在眉睫的人口挑戰</span>。</p>",
-      "image_scene": "An anonymous elderly Hong Kong woman sitting calmly in a bright community health centre, a technician aiming a small retinal-imaging camera device toward her eye, eye charts and health posters blurred in the background, Wong Tai Sin public housing towers visible through a window, no readable text or logos.",
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/348105/Kai-Tak-Sports-Park-draws-28m-visitors-in-first-18-months-prepares-to-host-BTS-and-Bruno-Mars",
+      "published_date": "12 November 2026",
+      "headline": "Kai Tak Sports Park Tops 2.8 Million Visitors, Gears Up to Host BTS and Bruno Mars",
+      "category": "pop",
+      "summary_html": "<p>Kai Tak Sports Park has welcomed more than 2.8 million spectators to its Main Stadium in the 18 months since opening, the venue operator said this week, as the former airport site cements its role as Hong Kong’s new <span class=\"bw\">mega-event hub<span class=\"tip\"><span class=\"tip-en\">a large, purpose-built venue capable of hosting very large-scale events</span><span class=\"tip-zh\">大型活動樞紐</span></span></span>. Since opening in March 2025, the park has staged more than 190 <span class=\"bw\">international and local events<span class=\"tip\"><span class=\"tip-en\">events that include both overseas productions and ones organised within Hong Kong</span><span class=\"tip-zh\">國際及本地活動</span></span></span>, ranging from football friendlies and track meets to large-scale concerts.</p><p>The venue’s concert calendar is only getting busier. This week alone, K-pop veterans BIGBANG are playing a sold-out three-night run at the Main Stadium to mark the group’s 20th anniversary, and organisers have confirmed further <span class=\"bw\">headlining performances<span class=\"tip\"><span class=\"tip-en\">concerts in which a single famous act is the main, most important attraction</span><span class=\"tip-zh\">主打表演</span></span></span> by BTS, Charlie Puth and Bruno Mars in the months ahead. The steady stream of <span class=\"bw\">A-list bookings<span class=\"tip\"><span class=\"tip-en\">engagements by the most famous and sought-after performers in the entertainment industry</span><span class=\"tip-zh\">一線藝人演出</span></span></span> has helped the 50,000-seat stadium establish itself among Asia’s leading concert destinations within a remarkably short time.</p><p>Tourism officials have credited the park with <span class=\"bw\">driving footfall<span class=\"tip\"><span class=\"tip-en\">causing a noticeable increase in the number of people visiting a place</span><span class=\"tip-zh\">帶動人流</span></span></span> to the wider Kai Tak district, with nearby hotels and the adjoining shopping mall reporting a knock-on boost in business on concert weekends. Transport officials are meanwhile moving to ease <span class=\"bw\">congestion<span class=\"tip\"><span class=\"tip-en\">overcrowding that slows or blocks the normal flow of people or traffic</span><span class=\"tip-zh\">擁堵</span></span></span> around the Tuen Ma line’s Kai Tak station, with extra train frequencies planned to help the venue cope with crowds of tens of thousands arriving for a single show. Analysts say the park’s early success illustrates how a single well-designed <span class=\"bw\">mega-event venue<span class=\"tip\"><span class=\"tip-en\">a site built specifically to attract and host very large events</span><span class=\"tip-zh\">大型活動場館</span></span></span> can reshape a neighbourhood’s economy, though some residents living nearby have also raised concerns about <span class=\"bw\">noise disturbance<span class=\"tip\"><span class=\"tip-en\">an unwanted and disruptive level of sound affecting those living or working nearby</span><span class=\"tip-zh\">噪音困擾</span></span></span> on concert nights.</p>",
+      "summary_zh_html": "<p>啟德體育園主場館自開幕以來18個月內，已接待超過280萬名觀眾入場，場館營運方本周表示，這座前機場舊址正逐步確立其作為香港新<span class=\"bwz\">大型活動樞紐</span>的地位。體育園自2025年3月開幕以來，已舉辦超過190項<span class=\"bwz\">國際及本地活動</span>，項目涵蓋足球友賽、田徑賽事以至大型演唱會。</p><p>場館的演唱會檔期只會愈趨繁忙。單是本周，韓國組合BIGBANG已於主場館一連三晚舉行門票售罄的二十周年紀念演出，而主辦方亦已確認未來數月將迎來防彈少年團（BTS）、Charlie Puth及Bruno Mars等<span class=\"bwz\">主打表演</span>。接連不斷的<span class=\"bwz\">一線藝人演出</span>，令這座可容納五萬人的主場館在短時間內，已躍身成為亞洲區內數一數二的演唱會勝地。</p><p>旅遊官員表示，體育園有助<span class=\"bwz\">帶動人流</span>進入啟德一帶，附近酒店及毗鄰商場亦報稱於演唱會周末生意有所提升。與此同時，運輸部門正著手緩解屯馬線啟德站周邊的<span class=\"bwz\">擁堵</span>情況，計劃加密班次，以應付單場演出動輒數萬人湧至的人流壓力。分析人士指出，體育園的初步成功，正好說明一座設計得宜的<span class=\"bwz\">大型活動場館</span>如何能夠重塑一個社區的經濟面貌，不過亦有附近居民對演唱會舉行期間的<span class=\"bwz\">噪音困擾</span>表達關注。</p>",
+      "image_scene": "A packed outdoor stadium at Kai Tak Sports Park at night, anonymous fans with glow sticks filling the stands, a brightly lit concert stage with spotlights on the field below, the Kai Tak cruise terminal and harbour visible beyond the stadium walls. No readable text, signs or logos.",
       "slides": {
-        "topic_en": "AI Eye Scans for Dementia Risk",
-        "background_en": "CUHK will offer free AI retinal screening to 2,700 elderly Wong Tai Sin residents to catch early dementia signs.",
-        "background_zh": "中大將為2700名黃大仙長者提供免費人工智能視網膜篩查，及早發現認知障礙症徵狀。",
-        "background_hl": "free AI retinal screening to 2,700 elderly Wong Tai Sin residents",
-        "analysis_en": "The simple, needle-free test could ease pressure on overstretched memory clinics while catching cognitive decline earlier.",
-        "analysis_zh": "這項無需抽血的簡單檢測，有助減輕人手緊絀記憶診所的壓力，並更早發現認知衰退。",
-        "analysis_hl": "ease pressure on overstretched memory clinics",
-        "support_en": "Supporters say mass, low-cost screening lets doctors focus specialist resources only on residents who truly need them.",
-        "support_zh": "支持者認為，大規模低成本篩查，可讓醫生集中專科資源於真正有需要的居民身上。",
-        "support_hl": "lets doctors focus specialist resources only on residents who truly need them",
-        "oppose_en": "Sceptics worry that a single eye photo might miss cases or wrongly alarm healthy elderly residents.",
-        "oppose_zh": "質疑者擔心單靠一張眼底照片，可能漏診個案，或令健康長者無故受驚。",
-        "oppose_hl": "might miss cases or wrongly alarm healthy elderly residents",
+        "topic_en": "Kai Tak's Concert Boom",
+        "background_en": "Kai Tak Sports Park has drawn 2.8 million spectators in 18 months and will host BTS and Bruno Mars.",
+        "background_zh": "啟德體育園開幕18個月已吸引280萬名觀眾，未來將迎來BTS及Bruno Mars演出。",
+        "background_hl": "drawn 2.8 million spectators in 18 months",
+        "analysis_en": "The stadium's rapid success shows how a single mega-venue can boost tourism, transport demand and the local economy.",
+        "analysis_zh": "場館迅速走紅，顯示一座大型場館足以帶動旅遊、交通需求及地區經濟發展。",
+        "analysis_hl": "boost tourism, transport demand and the local economy",
+        "support_en": "Supporters say world-class concerts put Hong Kong back on the global touring map and generate huge economic benefits.",
+        "support_zh": "支持者認為，世界級演唱會令香港重返國際巡演版圖，並帶來巨大經濟效益。",
+        "support_hl": "put Hong Kong back on the global touring map",
+        "oppose_en": "Nearby residents complain that frequent concerts bring noise, crowding and transport chaos late into the night.",
+        "oppose_zh": "附近居民則抱怨，頻密的演唱會為社區帶來噪音、人潮擁擠及深夜交通混亂。",
+        "oppose_hl": "bring noise, crowding and transport chaos",
         "vocab5": [
           {
-            "en": "early detection",
-            "zh": "早期發現"
+            "en": "mega-event venue",
+            "zh": "大型活動場館"
           },
           {
-            "en": "ageing population",
-            "zh": "人口老化"
+            "en": "sold-out concert",
+            "zh": "門票售罄演唱會"
           },
           {
-            "en": "preventive healthcare",
-            "zh": "預防性醫療"
+            "en": "economic spillover",
+            "zh": "經濟外溢效應"
           },
           {
-            "en": "diagnostic accuracy",
-            "zh": "診斷準確度"
+            "en": "crowd management",
+            "zh": "人流管理"
           },
           {
-            "en": "community health screening",
-            "zh": "社區健康篩查"
+            "en": "global touring circuit",
+            "zh": "全球巡演版圖"
           }
         ],
-        "question_en": "Should Hong Kong expand free AI dementia screening to every district, not just Wong Tai Sin?",
-        "question_zh": "香港應否將免費人工智能認知障礙症篩查，擴展至全港每一個地區，而非只限黃大仙？",
-        "question_hl": "expand free AI dementia screening to every district"
+        "question_en": "Do the economic benefits of hosting mega-concerts outweigh the noise and disruption caused to nearby residents?",
+        "question_zh": "舉辦大型演唱會帶來的經濟效益，是否足以抵銷對附近居民造成的噪音及困擾？",
+        "question_hl": "outweigh the noise and disruption caused to nearby residents"
       },
       "cover_text": {
-        "zh_kicker": "黃大仙",
+        "zh_kicker": "啟德熱潮",
         "zh_title": [
-          "拍眼底",
-          "揪出腦退化"
+          "280萬人潮",
+          "巨星接力開騷"
         ],
-        "zh_hl": "腦退化",
-        "zh_sub": "黃大仙免費篩查2700長者",
-        "en": "CUHK launches free AI dementia screening for seniors"
+        "zh_hl": "280萬",
+        "zh_sub": "巨星陣容陸續有來",
+        "en": "Kai Tak Stadium passes 2.8 million visitors in 18 months"
       },
       "vocab": [
         {
-          "phrase": "retinal imaging",
-          "zh": "視網膜影像",
-          "sample": "Retinal imaging lets doctors spot subtle warning signs without any invasive procedure."
+          "phrase": "sell-out crowd",
+          "zh": "全場爆滿",
+          "sample": "The BIGBANG anniversary shows drew a sell-out crowd on all three nights."
         },
         {
-          "phrase": "cognitive decline",
-          "zh": "認知能力衰退",
-          "sample": "Early signs of cognitive decline are often missed until memory loss becomes obvious."
+          "phrase": "stadium capacity",
+          "zh": "場館容量",
+          "sample": "The stadium's capacity of 50,000 makes it one of the region's largest concert venues."
         },
         {
-          "phrase": "memory clinic",
-          "zh": "記憶診所",
-          "sample": "Public memory clinics in Hong Kong already face long waiting lists for assessment."
+          "phrase": "box-office buzz",
+          "zh": "票房熱潮",
+          "sample": "The anniversary shows generated enormous box-office buzz."
         },
         {
-          "phrase": "algorithm-assisted diagnosis",
-          "zh": "演算法輔助診斷",
-          "sample": "Algorithm-assisted diagnosis can process thousands of images far faster than a human specialist."
+          "phrase": "mega-event economy",
+          "zh": "大型活動經濟",
+          "sample": "Officials say the mega-event economy has become a key pillar of post-pandemic tourism recovery."
         },
         {
-          "phrase": "at-risk elderly resident",
-          "zh": "高風險長者",
-          "sample": "Social workers will help contact each at-risk elderly resident identified by the screening."
+          "phrase": "venue operator",
+          "zh": "場館營運方",
+          "sample": "The venue operator released visitor figures covering the stadium's first 18 months."
         },
         {
-          "phrase": "non-invasive test",
-          "zh": "非入侵性檢測",
-          "sample": "A non-invasive test like this encourages far more elderly residents to come forward."
+          "phrase": "concert tourism",
+          "zh": "演唱會旅遊",
+          "sample": "Concert tourism has brought thousands of overseas fans to Hong Kong this year."
         },
         {
-          "phrase": "healthcare resource allocation",
-          "zh": "醫療資源分配",
-          "sample": "Smarter triage through screening could improve healthcare resource allocation across the public system."
+          "phrase": "noise complaint",
+          "zh": "噪音投訴",
+          "sample": "Residents near the stadium have filed noise complaints after recent late-night shows."
         },
         {
-          "phrase": "neurodegenerative disease",
-          "zh": "神經退行性疾病",
-          "sample": "Dementia is one of the most common neurodegenerative diseases affecting Hong Kong's elderly population."
+          "phrase": "transport capacity",
+          "zh": "交通運載能力",
+          "sample": "The MTR plans to boost transport capacity on concert nights."
         },
         {
-          "phrase": "trial rollout",
-          "zh": "試行推廣",
-          "sample": "If the trial rollout in Wong Tai Sin succeeds, it could be extended citywide."
+          "phrase": "headline act",
+          "zh": "壓軸表演嘉賓",
+          "sample": "Securing a headline act of BTS's calibre is a major coup for the venue."
         },
         {
-          "phrase": "data-driven healthcare",
-          "zh": "數據驅動醫療",
-          "sample": "Data-driven healthcare tools like this rely on large, carefully validated image libraries."
+          "phrase": "ancillary revenue",
+          "zh": "附帶收益",
+          "sample": "Hotels reported a surge in ancillary revenue during concert weekends."
         },
         {
-          "phrase": "quality of life",
-          "zh": "生活質素",
-          "sample": "Catching dementia earlier can meaningfully improve a patient's quality of life."
+          "phrase": "world-class venue",
+          "zh": "世界級場館",
+          "sample": "Officials describe the stadium as a world-class venue capable of rivalling regional rivals."
         },
         {
-          "phrase": "public health initiative",
-          "zh": "公共衛生計劃",
-          "sample": "The free screening is one of several public health initiatives targeting an ageing Hong Kong."
+          "phrase": "fan experience",
+          "zh": "觀眾體驗",
+          "sample": "Organisers are working to improve the fan experience during peak crowd periods."
         }
       ],
       "phrases": [
         {
-          "en": "ease the burden on an overstretched healthcare system",
-          "zh": "減輕緊絀醫療系統的負擔",
-          "sample": "Officials hope the screening will ease the burden on an overstretched healthcare system."
+          "en": "put the city on the map as a concert destination",
+          "zh": "令本港成為矚目的演唱會勝地",
+          "sample": "The stadium's bookings have helped put the city on the map as a concert destination."
         },
         {
-          "en": "catch a condition before symptoms become severe",
-          "zh": "在病情惡化前及早發現",
-          "sample": "Early screening aims to catch a condition before symptoms become severe."
+          "en": "generate a ripple effect across nearby businesses",
+          "zh": "為鄰近商戶帶來漣漪效應",
+          "sample": "Big concerts generate a ripple effect across nearby businesses such as hotels and restaurants."
         },
         {
-          "en": "make preventive care accessible to ordinary families",
-          "zh": "讓普通家庭都能負擔預防性護理",
-          "sample": "The free scheme tries to make preventive care accessible to ordinary families."
+          "en": "stretch public transport to its limits",
+          "zh": "令公共交通超出負荷",
+          "sample": "A single sold-out show can stretch public transport to its limits."
         },
         {
-          "en": "harness technology to close gaps in public health",
-          "zh": "利用科技堵塞公共衛生的缺口",
-          "sample": "Researchers want to harness technology to close gaps in public health provision."
+          "en": "secure world-renowned acts",
+          "zh": "成功邀得享譽國際的表演者",
+          "sample": "The park has managed to secure world-renowned acts within a short time."
         },
         {
-          "en": "extend the benefits of innovation beyond a single district",
-          "zh": "將創新成果的好處擴展至單一地區以外",
-          "sample": "Officials hope to extend the benefits of innovation beyond a single district eventually."
+          "en": "weigh economic gain against residents' comfort",
+          "zh": "在經濟收益與居民生活舒適間作取捨",
+          "sample": "Policymakers must weigh economic gain against residents' comfort when scheduling late-night shows."
         },
         {
-          "en": "balance accuracy with practicality in mass screening",
-          "zh": "在大規模篩查中平衡準確度與實用性",
-          "sample": "Designers had to balance accuracy with practicality in mass screening of thousands of residents."
+          "en": "cement its status as a regional hub",
+          "zh": "鞏固其作為區域樞紐的地位",
+          "sample": "The venue has helped cement its status as a regional entertainment hub."
         },
         {
-          "en": "empower patients to seek help earlier",
-          "zh": "讓病人能夠更早尋求協助",
-          "sample": "A simple, free test can empower patients to seek help earlier than before."
+          "en": "draw fans from across the region",
+          "zh": "吸引區內各地樂迷",
+          "sample": "Headline concerts draw fans from across the region, boosting hotel occupancy."
         },
         {
-          "en": "relieve pressure on specialist waiting lists",
-          "zh": "緩解專科輪候名單的壓力",
-          "sample": "Triage through screening could relieve pressure on specialist waiting lists."
+          "en": "ease congestion around transport hubs",
+          "zh": "緩解交通樞紐的擁堵情況",
+          "sample": "Rail operators are working to ease congestion around transport hubs on show nights."
         },
         {
-          "en": "validate a new tool against real-world data",
-          "zh": "以真實數據驗證新工具的成效",
-          "sample": "Researchers spent years validating the new tool against real-world data before launch."
+          "en": "reap the rewards of a mega-venue",
+          "zh": "從大型場館的落成中獲益",
+          "sample": "Nearby businesses have begun to reap the rewards of a mega-venue in their backyard."
         },
         {
-          "en": "prepare the healthcare system for an ageing society",
-          "zh": "為人口老化的社會做好醫療準備",
-          "sample": "The programme is one small step to prepare the healthcare system for an ageing society."
+          "en": "stage a milestone anniversary tour",
+          "zh": "舉行具里程碑意義的周年巡演",
+          "sample": "The group chose Hong Kong to stage a milestone anniversary tour."
         },
         {
-          "en": "weigh the risk of false alarms against the benefit of early detection",
-          "zh": "權衡假警報的風險與及早發現的益處",
-          "sample": "Doctors must weigh the risk of false alarms against the benefit of early detection."
+          "en": "balance noise concerns with commercial success",
+          "zh": "在噪音問題與商業成功之間取得平衡",
+          "sample": "Organisers must balance noise concerns with commercial success to keep neighbours onside."
         },
         {
-          "en": "scale a successful pilot to the wider population",
-          "zh": "將成功的試驗計劃推廣至更廣泛的人口",
-          "sample": "If results are promising, officials may scale the successful pilot to the wider population."
+          "en": "turn a former airport site into a landmark",
+          "zh": "將前機場舊址打造成地標",
+          "sample": "The project has managed to turn a former airport site into a landmark destination."
+        }
+      ]
+    },
+    {
+      "source_name": "The Standard",
+      "source_url": "https://www.thestandard.com.hk/news/article/348094/Northern-Link-cost-cut-to-862b-full-line-targeted-to-open-by-2034",
+      "published_date": "10 November 2026",
+      "headline": "Northern Link Rail Cost Cut by 28% to HK$86.2 Billion, Full Line Still on Track for 2034",
+      "category": "urban",
+      "summary_html": "<p>The government and MTR Corporation have signed off on the second phase of the Northern Link railway, with the combined cost of the Main Line and Spur Line now pegged at <span class=\"bw\">HK$86.2 billion<span class=\"tip\"><span class=\"tip-en\">a sum of money stated at July 2025 prices</span><span class=\"tip-zh\">862億港元</span></span></span> — 28 percent below the original estimate. Secretary for Transport and Logistics Mable Chan and MTR chief executive Jacob Kam signed the <span class=\"bw\">comprehensive project agreement<span class=\"tip\"><span class=\"tip-en\">a formal, all-encompassing contract covering every stage of a major infrastructure project</span><span class=\"tip-zh\">全面項目協議</span></span></span> after the Chief Executive in Council approved the financial arrangements, clearing the way for construction on the <span class=\"bw\">strategic railway project<span class=\"tip\"><span class=\"tip-en\">an infrastructure project seen as crucial to a region’s long-term development plans</span><span class=\"tip-zh\">具戰略意義的鐵路項目</span></span></span> to proceed at pace.</p><p>Phase two alone, covering tunnels, stations, a depot and electrical and mechanical systems, is estimated at HK$54.8 billion, with spending <span class=\"bw\">spread out<span class=\"tip\"><span class=\"tip-en\">distributed gradually over a period of time instead of paid all at once</span><span class=\"tip-zh\">分攤</span></span></span> over roughly a decade, starting with HK$1.1 billion in 2027. Officials say the savings were achieved partly through design refinements and partly through the <span class=\"bw\">rail-plus-property model<span class=\"tip\"><span class=\"tip-en\">a funding method that pairs railway construction with nearby property development so sale proceeds help cover costs</span><span class=\"tip-zh\">鐵路加物業模式</span></span></span>, under which the government has granted MTR eight sites for residential and commercial development, easing the need for <span class=\"bw\">direct government funding<span class=\"tip\"><span class=\"tip-en\">money paid straight out of public coffers rather than raised through another mechanism</span><span class=\"tip-zh\">政府直接注資</span></span></span>.</p><p>The full line remains on track to open by 2034, connecting the western part of the Northern Metropolis to the existing rail network and significantly cutting journey times for residents of new towns planned for the border region. Transport officials say the project is central to <span class=\"bw\">unlocking land supply<span class=\"tip\"><span class=\"tip-en\">making otherwise inaccessible or underused land available for development by providing transport access</span><span class=\"tip-zh\">釋放土地供應</span></span></span> in the Northern Metropolis, Hong Kong’s flagship development zone intended to ease the housing shortage and create space for new industries. Critics, however, have questioned whether <span class=\"bw\">cost overruns<span class=\"tip\"><span class=\"tip-en\">spending that ends up higher than originally planned or budgeted</span><span class=\"tip-zh\">超支</span></span></span> seen on other mega-projects might still resurface as construction gets under way, and whether demand for homes in the new towns will materialise as quickly as planners hope.</p>",
+      "summary_zh_html": "<p>政府與港鐵公司已就北環線第二階段工程拍板，主線連同支線的合併造價現定為<span class=\"bwz\">862億港元</span>（以2025年7月價格計算），較原先估算低28%。運輸及物流局局長陳美寶與港鐵行政總裁甘俊樂，在行政長官會同行政會議批准相關財務安排後，簽署<span class=\"bwz\">全面項目協議</span>，為這項<span class=\"bwz\">具戰略意義的鐵路項目</span>的建造工程全速展開鋪平道路。</p><p>第二階段工程涵蓋隧道、車站、車廠以及機電系統，估計造價為548億港元，有關開支將<span class=\"bwz\">分攤</span>約十年支付，首筆款項為2027年的11億港元。官員表示，造價得以下調，部分原因是設計上作出優化，部分則歸功於<span class=\"bwz\">鐵路加物業模式</span>——政府已批出八個地盤供港鐵發展住宅及商業項目，藉此減少對<span class=\"bwz\">政府直接注資</span>的需要。</p><p>全線預計仍可按計劃於2034年通車，屆時將連接北部都會區西部與現有鐵路網絡，大幅縮短邊境新市鎮居民的出行時間。運輸官員表示，此項目對於<span class=\"bwz\">釋放土地供應</span>至關重要——北部都會區是香港的旗艦發展計劃，旨在緩解房屋短缺問題，並為新興產業創造空間。不過，有批評者質疑，其他大型基建項目曾出現的<span class=\"bwz\">超支</span>問題，會否在工程展開後重現，以及新市鎮的住屋需求能否如規劃般迅速湧現。</p>",
+      "image_scene": "A daytime construction site in Hong Kong's New Territories countryside, anonymous workers in hard hats and high-visibility vests operating excavators beside a half-built railway viaduct, construction cranes in the background, distant low-rise villages and green hills beyond the site fencing. No text, signs or logos.",
+      "slides": {
+        "topic_en": "Northern Link Cost Cut",
+        "background_en": "The government and MTR cut the Northern Link railway's cost by 28% to HK$86.2 billion, targeting a 2034 opening.",
+        "background_zh": "政府與港鐵已將北環線造價下調28%至862億港元，目標於2034年通車。",
+        "background_hl": "cut the Northern Link railway's cost by 28% to HK$86.2 billion",
+        "analysis_en": "The savings rely on a rail-plus-property model that gives MTR development sites instead of direct government cash.",
+        "analysis_zh": "造價下調有賴鐵路加物業模式，政府以批地取代直接撥款資助港鐵。",
+        "analysis_hl": "a rail-plus-property model that gives MTR development sites",
+        "support_en": "Supporters say the model funds vital infrastructure without burdening taxpayers directly, unlocking land for badly needed housing.",
+        "support_zh": "支持者認為，此模式無需直接動用公帑即可資助重要基建，並釋放土地應付迫切的住屋需求。",
+        "support_hl": "funds vital infrastructure without burdening taxpayers directly",
+        "oppose_en": "Sceptics warn that megaprojects routinely run over budget and that new-town housing demand may not arrive as planned.",
+        "oppose_zh": "質疑者則警告，大型基建項目往往超支，而新市鎮的住屋需求亦未必如預期般迅速出現。",
+        "oppose_hl": "megaprojects routinely run over budget",
+        "vocab5": [
+          {
+            "en": "rail-plus-property model",
+            "zh": "鐵路加物業模式"
+          },
+          {
+            "en": "cost overrun",
+            "zh": "超支"
+          },
+          {
+            "en": "land supply",
+            "zh": "土地供應"
+          },
+          {
+            "en": "new town",
+            "zh": "新市鎮"
+          },
+          {
+            "en": "infrastructure financing",
+            "zh": "基建融資"
+          }
+        ],
+        "question_en": "Is funding railways through property development a fair trade-off, or does it just enrich the developer-operator?",
+        "question_zh": "以物業發展資助鐵路建設是否公平的取捨，還是只會令身兼發展商的營運者得益？",
+        "question_hl": "does it just enrich the developer-operator"
+      },
+      "cover_text": {
+        "zh_kicker": "北環線",
+        "zh_title": [
+          "造價減28%",
+          "2034年通車"
+        ],
+        "zh_hl": "減28%",
+        "zh_sub": "鐵路加物業模式注資",
+        "en": "Northern Link rail cost cut 28% to HK$86.2 billion"
+      },
+      "vocab": [
+        {
+          "phrase": "mega-infrastructure project",
+          "zh": "大型基建項目",
+          "sample": "The Northern Link is one of Hong Kong's most ambitious mega-infrastructure projects in decades."
         },
         {
-          "en": "bridge the gap between research and everyday care",
-          "zh": "彌合研究與日常護理之間的差距",
-          "sample": "The project tries to bridge the gap between research and everyday care for seniors."
+          "phrase": "project agreement",
+          "zh": "項目協議",
+          "sample": "MTR and the government signed a detailed project agreement covering construction and financing."
         },
         {
-          "en": "lower the barrier to early diagnosis",
-          "zh": "降低早期診斷的門檻",
-          "sample": "A needle-free test helps lower the barrier to early diagnosis for nervous patients."
+          "phrase": "construction timeline",
+          "zh": "施工時間表",
+          "sample": "Officials have published a construction timeline targeting completion by 2034."
         },
         {
-          "en": "invest in prevention rather than treatment alone",
-          "zh": "投資於預防而非單靠治療",
-          "sample": "Health officials say Hong Kong must invest in prevention rather than treatment alone."
+          "phrase": "public-private partnership",
+          "zh": "公私合作模式",
+          "sample": "The scheme functions as a form of public-private partnership between the government and MTR."
+        },
+        {
+          "phrase": "border region",
+          "zh": "邊境地區",
+          "sample": "New towns in the border region will depend heavily on the new railway link."
+        },
+        {
+          "phrase": "supply bottleneck",
+          "zh": "供應瓶頸",
+          "sample": "Officials hope new towns will ease the city's long-standing supply bottleneck."
+        },
+        {
+          "phrase": "electrified railway",
+          "zh": "電氣化鐵路",
+          "sample": "The new electrified railway will connect several planned communities to the urban core."
+        },
+        {
+          "phrase": "budget overrun",
+          "zh": "預算超支",
+          "sample": "Previous megaprojects suffered budget overruns that worried lawmakers."
+        },
+        {
+          "phrase": "property development rights",
+          "zh": "物業發展權",
+          "sample": "MTR was granted property development rights at eight sites along the new line."
+        },
+        {
+          "phrase": "connectivity",
+          "zh": "連接性",
+          "sample": "Better connectivity between the New Territories and the city centre is the project's main goal."
+        },
+        {
+          "phrase": "megaproject financing",
+          "zh": "大型項目融資",
+          "sample": "The scheme is seen as a model for megaproject financing elsewhere in Asia."
+        },
+        {
+          "phrase": "journey time",
+          "zh": "行車時間",
+          "sample": "The new line is expected to cut journey time for residents of the northern New Territories significantly."
+        }
+      ],
+      "phrases": [
+        {
+          "en": "come in under budget",
+          "zh": "造價低於預算",
+          "sample": "The project is a rare example of a megaproject coming in under budget."
+        },
+        {
+          "en": "shoulder the financial risk",
+          "zh": "承擔財務風險",
+          "sample": "Critics ask who will shoulder the financial risk if property sales underperform."
+        },
+        {
+          "en": "ease the pressure on public finances",
+          "zh": "緩解公共財政的壓力",
+          "sample": "The funding model is designed to ease the pressure on public finances."
+        },
+        {
+          "en": "unlock previously inaccessible land",
+          "zh": "釋放原本難以利用的土地",
+          "sample": "The new railway will unlock previously inaccessible land for housing."
+        },
+        {
+          "en": "accelerate the pace of development",
+          "zh": "加快發展步伐",
+          "sample": "Officials hope the project will accelerate the pace of development in the north."
+        },
+        {
+          "en": "deliver long-term returns on investment",
+          "zh": "帶來長遠的投資回報",
+          "sample": "Supporters argue the railway will deliver long-term returns on investment for the whole region."
+        },
+        {
+          "en": "fall behind schedule",
+          "zh": "落後於原定時間表",
+          "sample": "Megaprojects of this scale often fall behind schedule due to unforeseen complications."
+        },
+        {
+          "en": "rely on untested funding models",
+          "zh": "依賴未經驗證的融資模式",
+          "sample": "Some lawmakers are wary of relying on untested funding models for essential infrastructure."
+        },
+        {
+          "en": "bridge the gap between new towns and the city centre",
+          "zh": "拉近新市鎮與市中心的距離",
+          "sample": "The railway is meant to bridge the gap between new towns and the city centre."
+        },
+        {
+          "en": "safeguard taxpayers' interests",
+          "zh": "維護納稅人的利益",
+          "sample": "Lawmakers have called for tighter oversight to safeguard taxpayers' interests."
+        },
+        {
+          "en": "pave the way for future housing supply",
+          "zh": "為未來房屋供應鋪路",
+          "sample": "The project is expected to pave the way for future housing supply in the north."
+        },
+        {
+          "en": "scrutinise megaproject spending",
+          "zh": "審視大型基建項目的開支",
+          "sample": "Legislators have promised to scrutinise megaproject spending closely as construction proceeds."
         }
       ]
     }
@@ -801,140 +736,129 @@
   "trends": [
     {
       "platforms": [
-        "threads",
-        "ig"
+        "threads"
       ],
-      "headline": "🔦🎬 Tuen Mun Cinema Staff Slammed for Flashlight-Blasting Audience Before Credits End",
-      "summary_html": "<p>A Threads post complaining about a <span class=\"bw\">chain cinema<span class=\"tip\"><span class=\"tip-en\">a cinema that is part of a large company operating many branches</span><span class=\"tip-zh\">連鎖戲院</span></span></span> in Tuen Mun has gone viral after a moviegoer described being <span class=\"bw\">flashlight-blasted<span class=\"tip\"><span class=\"tip-en\">having a bright torch beam shone directly and repeatedly at oneself</span><span class=\"tip-zh\">被電筒狂射</span></span></span> by staff while the closing credits were still rolling. The poster said a staff member rushed into the dark hall waving a torch and ordering remaining viewers to leave, even though the screen was still playing, leaving them feeling as though they were being hurried out so the venue could close early.</p><p>The post quickly drew thousands of reactions, with most commenters criticising the staff's <span class=\"bw\">poor attitude<span class=\"tip\"><span class=\"tip-en\">an unhelpful or rude manner when dealing with others</span><span class=\"tip-zh\">態度欠佳</span></span></span> toward paying customers, while a smaller group argued the employee was likely just eager to finish a <span class=\"bw\">gruelling shift<span class=\"tip\"><span class=\"tip-en\">an extremely tiring and demanding period of work</span><span class=\"tip-zh\">艱苦的更份</span></span></span> and should have raised the issue through a formal complaint rather than a public callout. The episode has reopened debate over the fine balance between protecting <span class=\"bw\">customer experience<span class=\"tip\"><span class=\"tip-en\">the overall quality of how a paying customer is treated during a service</span><span class=\"tip-zh\">顧客體驗</span></span></span> and the realities of frontline retail jobs.</p>",
-      "summary_zh_html": "<p>一則投訴屯門一間<span class=\"bwz\">連鎖戲院</span>的Threads帖文近日瘋傳，事主指在戲院觀看電影期間，片尾字幕仍在播放，卻遭職員<span class=\"bwz\">被電筒狂射</span>。事主表示，一名職員手持電筒衝入漆黑的影院，要求仍在場的觀眾離開，儘管畫面仍在放映，令他覺得自己像是被趕著離場，以便戲院可以提早收工。</p><p>帖文迅速引起數千個反應，大部分網民批評該職員對付款顧客<span class=\"bwz\">態度欠佳</span>，但亦有部分網民認為，該職員可能只是急於完成<span class=\"bwz\">艱苦的更份</span>，建議事主應循正式投訴渠道反映，而非公開點名。事件再次引發公眾討論，應如何在維護<span class=\"bwz\">顧客體驗</span>與前線零售員工的工作實況之間取得平衡。</p>",
+      "headline": "📱👶 Viral Threads Post Names Hong Kong Parents' Top 'Parenting Fails'",
+      "summary_html": "<p>A Threads post cataloguing the <span class=\"bw\">\"parenting fails\"<span class=\"tip\"><span class=\"tip-en\">mistakes or poor decisions made by parents in raising their children, as judged with hindsight</span><span class=\"tip-zh\">育兒失敗行為</span></span></span> of the past ten to twenty years has struck a nerve across Hong Kong, racking up thousands of shares after parenting outlet Oh!爭媽 condensed it into a tidy list of 20 items. Commenters quickly converged on a single worst offence: handing children an <span class=\"bw\">\"electronic pacifier\"<span class=\"tip\"><span class=\"tip-en\">a smartphone or tablet given to a young child simply to keep them calm and quiet</span><span class=\"tip-zh\">電子奶嘴</span></span></span> of short, highly stimulating videos, only to complain later that the same children have grown restless and unable to concentrate. The original poster argued this habit may interfere with the healthy development of a child’s <span class=\"bw\">attention span<span class=\"tip\"><span class=\"tip-en\">the length of time a person is able to keep their mind focused on one task</span><span class=\"tip-zh\">專注力</span></span></span>, citing popular science claims about brain regions tied to memory and self-control.</p><p>Two other complaints rounded out the <span class=\"bw\">\"top three parenting crimes\"<span class=\"tip\"><span class=\"tip-en\">a list, half-jokingly framed as offences, of the most widely criticised mistakes parents make</span><span class=\"tip-zh\">三大育兒罪狀</span></span></span>: parents who avoid disciplining their children altogether for fear of repeating their own strict upbringing, and parents who claim to be <span class=\"bw\">open-minded<span class=\"tip\"><span class=\"tip-en\">willing to consider new or different ideas rather than rigid, old-fashioned ones</span><span class=\"tip-zh\">開明</span></span></span> yet still quietly tie their child’s <span class=\"bw\">self-worth<span class=\"tip\"><span class=\"tip-en\">a person’s sense of their own value as an individual</span><span class=\"tip-zh\">自我價值</span></span></span> to exam results. The viral list has triggered a wave of <span class=\"bw\">soul-searching<span class=\"tip\"><span class=\"tip-en\">serious and honest reflection on one’s own behaviour, especially when it may be at fault</span><span class=\"tip-zh\">自我反思</span></span></span> among Hong Kong parents, many of whom admitted online that they recognised themselves in at least one of the twenty items.</p>",
+      "summary_zh_html": "<p>一篇在Threads上盤點港人過去十至二十年「<span class=\"bwz\">育兒失敗行為</span>」的帖文，近日引起全城共鳴，獲得親子平台《Oh!爸媽》整理成20項清單後，轉發量急增。網民迅速歸納出「頭號罪狀」：以播放高刺激短片的<span class=\"bwz\">電子奶嘴</span>餵大孩子，事後卻投訴孩子變得坐不定、難以集中。原帖樓主認為，這種習慣可能妨礙孩子<span class=\"bwz\">專注力</span>的健康發展，並引用流行的腦科學說法，指相關行為涉及與記憶及自我控制有關的腦區。</p><p>另外兩項指控則構成餘下的<span class=\"bwz\">三大育兒罪狀</span>：一是家長因害怕重演自己童年時的嚴厲管教，而完全不敢管教子女；二是表面<span class=\"bwz\">開明</span>，實際上卻仍暗中將孩子的<span class=\"bwz\">自我價值</span>與考試成績掛鈎。這份爆紅清單引發不少香港家長<span class=\"bwz\">自我反思</span>，當中不少人在網上坦言，在二十項指控之中至少認得自己一項。</p>",
       "causes": [
         {
-          "label": "Frontline worker burnout in Hong Kong's cinema industry",
-          "label_zh": "香港戲院前線員工的過勞問題",
-          "text": "Cinema staff often work split shifts late into the night, cleaning halls between back-to-back screenings with barely any buffer time. A single rushed gesture caught on camera can look callous, but it may also reflect chronic understaffing and exhaustion that management rarely addresses, raising a fairer question about working conditions behind the counter.",
-          "text_zh": "戲院員工經常需要輪更至深夜，在接連不斷的場次之間，幾乎沒有緩衝時間清潔影院。被鏡頭拍下的一個倉促舉動看似冷酷，但這也可能反映出管理層甚少正視的長期人手不足與疲勞問題，令人更應公平地探討擃台背後的工作條件。"
+          "label": "A generational reckoning with 1990s-style strict parenting",
+          "label_zh": "與上一代嚴厲管教方式的世代清算",
+          "text": "Many of the twenty items are direct reactions against the harsh, authoritarian parenting many of today's parents experienced as children themselves, suggesting the list reflects a broader generational effort to consciously break cycles of strict discipline rather than simply criticising individual bad habits.",
+          "text_zh": "清單中不少項目，其實是對現時家長自己童年時所經歷嚴厲、高壓管教方式的直接反彈，顯示這份清單所反映的，與其說是單純批評個別壞習慣，更像是一整代父母有意識地打破嚴厲管教循環的集體努力。"
         },
         {
-          "label": "Public callouts versus formal complaint channels",
-          "label_zh": "網上公審與正式投訴渠道之爭",
-          "text": "Posting a complaint straight to Threads can humiliate a named or identifiable worker within hours, long before the company has a chance to investigate or respond. Critics argue that going through customer service first is fairer to frontline staff, even if it feels slower and less satisfying than an instantly viral public callout.",
-          "text_zh": "直接在Threads上發帖投訴，可在數小時內令一名可被辨認的員工蒙受羞辱，公司甚至還未有機會展開調查或回應。批評者認為，先向客戶服務部門反映對前線員工較為公平，即使這比起即時瘋傳的網上公審，顯得較慢亦較欠缺宣泄感。"
+          "label": "Screen-based 'e-pacifiers' and shrinking attention spans",
+          "label_zh": "螢幕「電子奶嘴」與日漸縮短的專注力",
+          "text": "Child-development experts have long warned that handing very young children smartphones loaded with fast-cut, highly stimulating videos may overstimulate developing brains, making slower, more effortful tasks like reading or schoolwork feel comparatively boring and undermining the patience parents later expect their children to show.",
+          "text_zh": "兒童發展專家一直警告，過早讓幼童接觸節奏急促、高度刺激的手機短片，可能令仍在發展中的腦部受到過度刺激，令閱讀或做功課等需要耐性、較「慢」的活動相對顯得乏味，削弱家長日後期望子女具備的耐性。"
         },
         {
-          "label": "Cinema chains' razor-thin staffing after the pandemic",
-          "label_zh": "疫後戲院連鎖集團的極度緊絀人手",
-          "text": "Many Hong Kong cinema chains cut staffing to the bone during years of pandemic closures and have been slow to rehire even as audiences return, leaving each remaining employee responsible for far more halls per shift. Incidents like this one may be the visible symptom of an industry still operating on a leaner-than-healthy budget.",
-          "text_zh": "疫情期間停業多年，不少香港連鎖戲院大幅削減人手，即使觀眾逐漸回流，重新聘請人手的步伐仍然緩慢，令每名留任員工在每更要兼顧更多影院。這次事件或許只是整個行業仍以過度精簡的預算運作下，浮現出來的其中一個徵狀。"
+          "label": "Tying grades to self-worth undermines genuine learning motivation",
+          "label_zh": "將成績與自我價值掛鈎削弱真正的學習動機",
+          "text": "When children learn that their worth as a person rises and falls with test scores, even well-meaning encouragement can curdle into anxiety, pushing some students toward rote memorisation and exam tactics rather than genuine curiosity, a pattern teachers say is already visible well before students reach senior secondary school.",
+          "text_zh": "當孩子從小感受到自身價值隨著考試分數高低而起伏，再善意的鼓勵亦可能演變成焦慮，令部分學生傾向死記硬背及應試技巧，而非出於真正的求知慾——老師指出，這種現象在學生升上高中前已相當明顯。"
         },
         {
-          "label": "Viral shaming rarely fixes underlying service failures",
-          "label_zh": "網上公審鮮能真正解決服務失誤的根源",
-          "text": "Even when a viral post forces an apology, it rarely changes scheduling practices, staffing levels or training that caused the incident in the first place. A counter-argument holds that outrage cycles move on within days, offering the public a brief sense of justice while leaving the structural problems that produced the flashlight entirely untouched.",
-          "text_zh": "即使一篇瘋傳帖文迫使對方道歉，亦鮮少能改變最初引致事件的更表安排、人手水平或培訓制度。有反方意見認為，網上的憤怒情緒往往數日內便會消退，只為公眾帶來短暫的「公義感」，卻完全未觸及催生電筒事件的結構性問題。"
+          "label": "A crowd-sourced list that oversimplifies complex parenting choices",
+          "label_zh": "一張將複雜育兒抉擇過度簡化的網民清單",
+          "text": "Sceptics point out that a list crowdsourced from anonymous Threads comments is not a scientific study, and that real parenting decisions are shaped by financial pressure, long working hours and limited childcare support — context a tidy twenty-item checklist glosses over while making it easy for strangers to judge parents they know nothing about.",
+          "text_zh": "質疑者指出，一張由Threads匿名留言拼湊而成的清單，終究不是科學研究，而真正的育兒抉擇往往受財政壓力、工時過長及託兒支援不足等現實因素影響——這些因素都被這份簡潔的二十項清單一概忽略，卻令陌生網民輕易地評判他們根本毫不了解的家長。"
         }
       ],
       "vocab": [
         {
-          "phrase": "viral post",
-          "zh": "瘋傳帖文",
-          "sample": "The viral post about the cinema incident drew thousands of comments within a day."
+          "phrase": "screen time",
+          "zh": "螢幕使用時間",
+          "sample": "Paediatricians recommend limiting screen time for children under two."
         },
         {
-          "phrase": "customer service department",
-          "zh": "客戶服務部",
-          "sample": "Lodging a complaint with the customer service department first can be fairer to frontline staff."
+          "phrase": "attention span",
+          "zh": "專注力",
+          "sample": "Experts worry that short-form videos are shortening children's attention span."
         },
         {
-          "phrase": "frontline employee",
-          "zh": "前線員工",
-          "sample": "A frontline employee often has little control over understaffed shifts."
+          "phrase": "helicopter parenting",
+          "zh": "直升機式育兒",
+          "sample": "Helicopter parenting can leave children unprepared to make their own decisions."
         },
         {
-          "phrase": "naming and shaming",
-          "zh": "指名公開批評",
-          "sample": "Naming and shaming a worker online can damage their reputation long before any investigation begins."
+          "phrase": "authoritarian upbringing",
+          "zh": "權威式管教",
+          "sample": "Many parents today are consciously rejecting the authoritarian upbringing they experienced as children."
         },
         {
-          "phrase": "staff shortage",
-          "zh": "人手短缺",
-          "sample": "A chronic staff shortage may explain why the employee seemed so rushed."
+          "phrase": "self-worth",
+          "zh": "自我價值",
+          "sample": "Linking self-worth to grades can leave students anxious about every exam."
         },
         {
-          "phrase": "service etiquette",
-          "zh": "服務禮儀",
-          "sample": "Training in service etiquette could help prevent similar incidents in future."
+          "phrase": "rote memorisation",
+          "zh": "死記硬背",
+          "sample": "Critics argue exam pressure encourages rote memorisation over genuine understanding."
         },
         {
-          "phrase": "workplace pressure",
-          "zh": "職場壓力",
-          "sample": "Workplace pressure during late-night shifts can wear down even patient employees."
+          "phrase": "childcare support",
+          "zh": "託兒支援",
+          "sample": "Working parents often cite a lack of affordable childcare support."
         },
         {
-          "phrase": "netizen criticism",
-          "zh": "網民批評",
-          "sample": "The cinema chain faced swift netizen criticism after the video began circulating."
+          "phrase": "parenting style",
+          "zh": "育兒方式",
+          "sample": "Social media has made parenting style a constant subject of public debate."
         },
         {
-          "phrase": "customer complaint",
-          "zh": "顧客投訴",
-          "sample": "A formal customer complaint gives a company the chance to investigate before judgement is passed."
-        },
-        {
-          "phrase": "going viral",
-          "zh": "瘋傳網絡",
-          "sample": "Few staff expect an ordinary shift mistake to end up going viral overnight."
+          "phrase": "digital babysitter",
+          "zh": "數碼褓姆",
+          "sample": "Tablets have become a convenient digital babysitter for busy households."
         }
       ],
       "phrases": [
         {
-          "en": "weigh individual accountability against systemic pressure",
-          "zh": "權衡個人責任與制度壓力",
-          "sample": "Commentators tried to weigh individual accountability against systemic pressure in the incident."
+          "en": "strike a nerve with parents across the city",
+          "zh": "觸動全城家長的神經",
+          "sample": "The viral list struck a nerve with parents across the city."
         },
         {
-          "en": "consider the human cost of viral outrage",
-          "zh": "考慮網絡憤怒帶來的人性代價",
-          "sample": "Few stop to consider the human cost of viral outrage on an ordinary worker."
+          "en": "break the cycle of harsh discipline",
+          "zh": "打破嚴厲管教的循環",
+          "sample": "Many young parents are determined to break the cycle of harsh discipline."
         },
         {
-          "en": "give institutions a fair chance to respond",
-          "zh": "給予機構公平回應的機會",
-          "sample": "Critics said the poster should give institutions a fair chance to respond first."
+          "en": "overstimulate a developing mind",
+          "zh": "使仍在發展中的腦部過度刺激",
+          "sample": "Fast-cut videos may overstimulate a developing mind at a young age."
         },
         {
-          "en": "recognise the strain behind frontline service roles",
-          "zh": "認清前線服務崗位背後的壓力",
-          "sample": "The debate asked the public to recognise the strain behind frontline service roles."
+          "en": "pass judgement on strangers online",
+          "zh": "在網上評判素未謀面的陌生人",
+          "sample": "Critics say it is easy to pass judgement on strangers online without knowing their circumstances."
         },
         {
-          "en": "distinguish between isolated lapses and genuine patterns",
-          "zh": "區分單一失誤與真正的常態問題",
-          "sample": "Analysts urged the public to distinguish between isolated lapses and genuine patterns."
+          "en": "cave in to mounting parental pressure",
+          "zh": "向日益沉重的親職壓力屈服",
+          "sample": "Some parents admit they cave in to mounting parental pressure by handing over a phone."
         },
         {
-          "en": "channel grievances through proper institutional avenues",
-          "zh": "透過正式渠道表達不滿",
-          "sample": "Consumer groups encourage shoppers to channel grievances through proper institutional avenues."
+          "en": "equate academic success with personal value",
+          "zh": "將學業成功等同個人價值",
+          "sample": "The list criticises parents who equate academic success with personal value."
         },
         {
-          "en": "avoid reducing a worker to a single clip",
-          "zh": "避免將員工簡化成一段短片",
-          "sample": "Ethicists warned against reducing a worker to a single ten-second clip."
+          "en": "spark a wave of public soul-searching",
+          "zh": "引發一輪全城反思",
+          "sample": "The post sparked a wave of public soul-searching among parents."
         },
         {
-          "en": "scrutinise structural causes rather than individual blame",
-          "zh": "審視結構性原因而非只怪責個人",
-          "sample": "The discussion pushed people to scrutinise structural causes rather than individual blame."
+          "en": "gloss over the realities of working parents",
+          "zh": "忽略在職家長的真實處境",
+          "sample": "Such lists often gloss over the realities of working parents juggling long hours."
         },
         {
-          "en": "temper public anger with a sense of proportion",
-          "zh": "以合理比例調節公眾的怒氣",
-          "sample": "Commentators called for the public to temper its anger with a sense of proportion."
-        },
-        {
-          "en": "reflect on how social media shapes accountability today",
-          "zh": "反思社交媒體如何塑造今日的問責方式",
-          "sample": "The episode invites us to reflect on how social media shapes accountability today."
+          "en": "reduce parenting to a simple checklist",
+          "zh": "將育兒簡化為一張清單",
+          "sample": "Sceptics warn against reducing parenting to a simple checklist of do's and don'ts."
         }
       ]
     }

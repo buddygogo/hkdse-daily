@@ -43184,6 +43184,750 @@
    ],
    "date": "2026-11-13",
    "id": "af210c944"
+  },
+  {
+   "source_name": "South China Morning Post",
+   "source_url": "https://www.scmp.com/news/hong-kong/education/article/3374423/hong-kong-urged-look-beyond-university-rankings-attract-international-students",
+   "published_date": "14 November 2026",
+   "headline": "Hong Kong Told to Look Beyond Rankings to Win Over International Students",
+   "category": "school",
+   "summary_html": "<p>Hong Kong’s much-promoted \"Study in Hong Kong\" campaign should look past institutional <span class=\"bw\">league tables<span class=\"tip\"><span class=\"tip-en\">ranked lists comparing the performance of institutions</span><span class=\"tip-zh\">排名榜</span></span></span> if it genuinely wants to keep hold of overseas talent, leaders from several leading British universities argued recently, as the city’s publicly funded institutions prepare more than 160 recruitment events overseas and across the mainland this academic year.</p><p>Duncan Ivison, president and vice-chancellor of the University of Manchester, said Hong Kong could <span class=\"bw\">draw in<span class=\"tip\"><span class=\"tip-en\">attract and bring into a place</span><span class=\"tip-zh\">吸引</span></span></span> international scholars not merely through its rankings but through research initiatives such as InnoHK, which pair overseas academics with local laboratories. He and other speakers argued that rankings alone cannot <span class=\"bw\">compensate for<span class=\"tip\"><span class=\"tip-en\">make up for a lack or disadvantage</span><span class=\"tip-zh\">彌補</span></span></span> the absence of clear, government-backed career incentives once students graduate.</p><p>Hong Kong already offers the Immigration Arrangements for Non-local Graduates, which lets students who complete a full-time local degree stay for up to 24 months to search for work, alongside a dedicated <span class=\"bw\">entry route<span class=\"tip\"><span class=\"tip-en\">a pathway or channel for entering a place or system</span><span class=\"tip-zh\">入境途徑</span></span></span> under the Top Talent Pass Scheme for recent graduates of top overseas universities. Speakers at the forum argued that these schemes need to be <span class=\"bw\">publicised<span class=\"tip\"><span class=\"tip-en\">made widely known to the public</span><span class=\"tip-zh\">宣傳；公開</span></span></span> far more aggressively alongside academic rankings if Hong Kong hopes to compete with destinations such as Singapore and Australia, where post-study work rights are already a <span class=\"bw\">selling point<span class=\"tip\"><span class=\"tip-en\">an attractive feature used to persuade someone to choose something</span><span class=\"tip-zh\">賣點</span></span></span> in their own recruitment pitches, rather than an afterthought buried in immigration paperwork.</p>",
+   "summary_zh_html": "<p>香港大力推廣的「留學香港」計劃,若要真正留住海外人才,就應該不再只倚重院校<span class=\"bwz\">排名榜</span>,多位英國頂尖大學校長近日在一場論壇上提出這個觀點,同時香港多所資助大學正籌備在本學年舉辦逾160場海外及內地招生活動。</p><p>曼徹斯特大學校長伊維森(Duncan Ivison)表示,香港除了憑藉排名外,亦可透過InnoHK等研究計劃,將海外學者與本地實驗室配對,藉此<span class=\"bwz\">吸引</span>國際學者。他與其他發言者認為,單靠排名並不能<span class=\"bwz\">彌補</span>畢業後缺乏明確、由政府支持的職業激勵措施這個缺口。</p><p>香港現時已設有「非本地畢業生留港/回港就業安排」,讓完成本地全日制學位課程的學生可留港最多24個月求職,另設有「高端人才通行證計劃」下專為頂尖海外大學畢業生而設的<span class=\"bwz\">入境途徑</span>。論壇發言者認為,這些計劃需要與學術排名一併更積極地<span class=\"bwz\">宣傳</span>,香港才有望與新加坡、澳洲等地競爭——這些地方早已將畢業後工作權利列為招生宣傳中的<span class=\"bwz\">賣點</span>,而非埋藏在移民文件中的附帶條款。</p>",
+   "image_scene": "A university recruitment fair hall in Hong Kong, rows of booths with world maps and plain banners, a small group of teenage visitors browsing pamphlets at a table, a presenter gesturing at a projector screen showing a bar chart, large windows overlooking a hillside campus, no visible logos or institution names.",
+   "slides": {
+    "topic_en": "Hong Kong's Pitch to International Students",
+    "background_en": "British university leaders say Hong Kong's recruitment campaign should look past rankings alone.",
+    "background_zh": "英國大學領袖指,香港的招生計劃不應只倚重排名。",
+    "background_hl": "look past rankings alone",
+    "analysis_en": "They argue clear career incentives and visa pathways matter more than league-table position.",
+    "analysis_zh": "他們認為,明確的職業激勵及簽證途徑比排名更重要。",
+    "analysis_hl": "career incentives and visa pathways",
+    "support_en": "Supporters say schemes like InnoHK and the Top Talent Pass already give Hong Kong real advantages.",
+    "support_zh": "支持者指,InnoHK及高端人才通行證等計劃已為香港帶來實質優勢。",
+    "support_hl": "give Hong Kong real advantages",
+    "oppose_en": "Critics say these schemes remain poorly publicised compared with rivals like Singapore and Australia.",
+    "oppose_zh": "批評者指,相比新加坡及澳洲等對手,這些計劃的宣傳仍嫌不足。",
+    "oppose_hl": "poorly publicised compared with rivals",
+    "vocab5": [
+     {
+      "en": "league table",
+      "zh": "排名榜"
+     },
+     {
+      "en": "post-study work rights",
+      "zh": "畢業後工作權利"
+     },
+     {
+      "en": "career incentive",
+      "zh": "職業激勵措施"
+     },
+     {
+      "en": "recruitment drive",
+      "zh": "招生活動"
+     },
+     {
+      "en": "selling point",
+      "zh": "賣點"
+     }
+    ],
+    "question_en": "Should Hong Kong compete for international students mainly on rankings, or on career and visa support?",
+    "question_zh": "香港應主要靠排名吸引國際學生,還是應靠職業及簽證支援取勝?",
+    "question_hl": "career and visa support"
+   },
+   "cover_text": {
+    "zh_kicker": "留學香港",
+    "zh_title": [
+     "招生莫只",
+     "靠排名榜"
+    ],
+    "zh_hl": "排名榜",
+    "zh_sub": "英國校長籲增簽證誘因",
+    "en": "Hong Kong told to look past rankings to attract students"
+   },
+   "vocab": [
+    {
+     "phrase": "institutional ranking",
+     "zh": "院校排名",
+     "sample": "Officials were told that a strong institutional ranking is not enough on its own."
+    },
+    {
+     "phrase": "post-study work rights",
+     "zh": "畢業後工作權利",
+     "sample": "Singapore and Australia already market their post-study work rights heavily to prospective students."
+    },
+    {
+     "phrase": "career incentive",
+     "zh": "職業激勵措施",
+     "sample": "Without a clear career incentive, many graduates choose to leave once their studies end."
+    },
+    {
+     "phrase": "recruitment drive",
+     "zh": "招生活動",
+     "sample": "The universities' latest recruitment drive includes more than 160 overseas events this year."
+    },
+    {
+     "phrase": "selling point",
+     "zh": "賣點",
+     "sample": "Rival cities treat post-study work rights as a selling point rather than small print."
+    },
+    {
+     "phrase": "entry route",
+     "zh": "入境途徑",
+     "sample": "The Top Talent Pass Scheme offers a dedicated entry route for recent top-university graduates."
+    },
+    {
+     "phrase": "research initiative",
+     "zh": "研究計劃",
+     "sample": "InnoHK is one research initiative that pairs overseas scholars with local laboratories."
+    },
+    {
+     "phrase": "talent scheme",
+     "zh": "人才計劃",
+     "sample": "Hong Kong has rolled out several talent schemes aimed at keeping graduates in the city."
+    },
+    {
+     "phrase": "publicise aggressively",
+     "zh": "大力宣傳",
+     "sample": "Speakers urged the city to publicise its visa schemes far more aggressively."
+    },
+    {
+     "phrase": "academic ranking",
+     "zh": "學術排名",
+     "sample": "A high academic ranking alone cannot guarantee that graduates choose to stay and work."
+    },
+    {
+     "phrase": "overseas scholar",
+     "zh": "海外學者",
+     "sample": "The scheme is designed to draw overseas scholars into long-term local research projects."
+    },
+    {
+     "phrase": "competing destination",
+     "zh": "競爭對手地區",
+     "sample": "Hong Kong is up against competing destinations that already offer clearer post-study pathways."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "look past rankings alone",
+     "zh": "不應只倚重排名",
+     "sample": "Universities are being told to look past rankings alone when courting overseas students."
+    },
+    {
+     "en": "compete for the same pool of overseas talent",
+     "zh": "爭奪同一批海外人才",
+     "sample": "Hong Kong is competing for the same pool of overseas talent as Singapore and Australia."
+    },
+    {
+     "en": "offer clear incentives beyond prestige",
+     "zh": "提供超越聲望本身的明確激勵",
+     "sample": "Speakers said the city must offer clear incentives beyond prestige to keep graduates."
+    },
+    {
+     "en": "bury a good scheme in paperwork",
+     "zh": "將好的計劃埋藏在繁瑣文件中",
+     "sample": "Officials risk burying a good scheme in paperwork that few students ever read."
+    },
+    {
+     "en": "struggle to compete with regional rivals",
+     "zh": "難以與區內對手競爭",
+     "sample": "Without better publicity, Hong Kong could struggle to compete with regional rivals."
+    },
+    {
+     "en": "pair overseas scholars with local research teams",
+     "zh": "將海外學者與本地研究團隊配對",
+     "sample": "InnoHK was designed to pair overseas scholars with local research teams."
+    },
+    {
+     "en": "treat visa support as an afterthought",
+     "zh": "將簽證支援視為次要考慮",
+     "sample": "Critics say Hong Kong has long treated visa support as an afterthought."
+    },
+    {
+     "en": "publicise a scheme far more aggressively",
+     "zh": "更積極地宣傳計劃",
+     "sample": "The forum urged officials to publicise the scheme far more aggressively overseas."
+    },
+    {
+     "en": "give graduates a reason to stay",
+     "zh": "給畢業生留下的理由",
+     "sample": "Clear career pathways give graduates a reason to stay in Hong Kong after their studies."
+    },
+    {
+     "en": "rest on reputation alone",
+     "zh": "單靠聲譽取勝",
+     "sample": "A university cannot rest on reputation alone when students have so many options abroad."
+    },
+    {
+     "en": "match rivals' post-study work rights",
+     "zh": "媲美對手的畢業後工作權利",
+     "sample": "Hong Kong needs to match rivals' post-study work rights to stay competitive."
+    },
+    {
+     "en": "turn a ranking into a recruitment pitch",
+     "zh": "將排名轉化為招生宣傳",
+     "sample": "Universities are learning to turn a ranking into a genuine recruitment pitch."
+    }
+   ],
+   "date": "2026-11-14",
+   "id": "abbbfdd41"
+  },
+  {
+   "source_name": "South China Morning Post",
+   "source_url": "https://www.scmp.com/sport/hong-kong/article/3370612/hong-kong-athletics-team-face-make-or-break-period-after-0-medals-asian-games",
+   "published_date": "8 October 2026",
+   "headline": "Hong Kong Athletics Faces Funding Reckoning After Asian Games Shutout",
+   "category": "sports",
+   "summary_html": "<p>Hong Kong’s athletics squad returned from the Asian Games in Nagoya without a single medal, despite fielding 38 competitors across the track-and-field programme — a <span class=\"bw\">shutout<span class=\"tip\"><span class=\"tip-en\">a result in which a side scores or wins nothing at all</span><span class=\"tip-zh\">全軍覆沒</span></span></span> that has reopened a bruising debate over how elite sport is funded in the city. Only three of the 38 athletes managed to <span class=\"bw\">advance past<span class=\"tip\"><span class=\"tip-en\">progress beyond a stage in a competition</span><span class=\"tip-zh\">晉級；超越</span></span></span> the qualifying rounds in their medal events, underlining how far the discipline has fallen behind regional rivals.</p><p>Funding at the Hong Kong Sports Institute is explicitly <span class=\"bw\">tied to results<span class=\"tip\"><span class=\"tip-en\">linked directly to performance outcomes</span><span class=\"tip-zh\">與成績掛鈎</span></span></span>, and several national sports associations, including tennis, now sit in an \"observation period\" that could see their subsidies <span class=\"bw\">slashed<span class=\"tip\"><span class=\"tip-en\">cut drastically</span><span class=\"tip-zh\">大幅削減</span></span></span> after failing to reach the podium in Nagoya. One veteran coach went further, arguing that the current system is <span class=\"bw\">enabling mediocrity<span class=\"tip\"><span class=\"tip-en\">allowing an unremarkable standard to continue unchallenged</span><span class=\"tip-zh\">縱容平庸</span></span></span> by handing out cash to athletes with little chance of international success, and describing the sport as having been \"on life support\" through three barren years.</p><p>The contrast with Hong Kong’s broader Asian Games record only sharpens the criticism. Three years earlier, in Hangzhou, long jumper Tiffany Yue Nga-yan delivered athletics’ only bronze as the city as a whole <span class=\"bw\">racked up<span class=\"tip\"><span class=\"tip-en\">accumulated a large number of something</span><span class=\"tip-zh\">累積（大量）</span></span></span> a record 53 medals across all sports. Officials now face a <span class=\"bw\">balancing act<span class=\"tip\"><span class=\"tip-en\">a situation requiring careful management of competing demands</span><span class=\"tip-zh\">兩難局面；平衡難題</span></span></span> between nurturing promising but unproven athletes and <span class=\"bw\">redirecting<span class=\"tip\"><span class=\"tip-en\">sending resources to a different destination or purpose</span><span class=\"tip-zh\">重新調配</span></span></span> scarce funding toward sports that can still deliver medals, with the next major Games cycle offering little time to reverse the slide.</p>",
+   "summary_zh_html": "<p>香港田徑隊在名古屋亞運會上派出38名選手參賽,卻未能贏得任何一面獎牌,這次<span class=\"bwz\">全軍覆沒</span>再次引發外界對本港精英體育資助制度的猛烈爭議。38名選手之中,只有三人成功<span class=\"bwz\">晉級</span>其項目的獎牌輪次,反映本港田徑水平已大幅落後於區內對手。</p><p>香港體育學院的資助制度明確<span class=\"bwz\">與成績掛鈎</span>,包括網球等多個全國性體育協會因未能在名古屋站上頒獎台,目前正處於「觀察期」,一旦未達標,資助隨時會被<span class=\"bwz\">大幅削減</span>。有資深教練更直言,現行制度正在<span class=\"bwz\">縱容平庸</span>,把資金派給一些根本難以在國際賽事中取得成績的運動員,並形容該項目經歷了「三年乾旱」,一直「靠呼吸機維生」。</p><p>與香港在亞運會的整體成績相比,批評聲音更顯尖銳。三年前在杭州,跳遠選手余雅妍為田徑隊贏得唯一一面銅牌,當時全港代表團整體更<span class=\"bwz\">累積</span>破紀錄的53面獎牌。官員現時面對一項<span class=\"bwz\">兩難局面</span>:既要培育具潛質但尚未證明實力的運動員,亦要將有限資源<span class=\"bwz\">重新調配</span>至仍有能力奪牌的項目,而下一個亞運周期所餘時間已不多,難以逆轉這股下滑趨勢。</p>",
+   "image_scene": "An empty, floodlit outdoor athletics track at dusk in a Hong Kong sports ground, rows of vacant stadium seats, a lone set of hurdles still set up on the lanes, a coach's whistle and stopwatch resting on a bench in the foreground, distant housing blocks silhouetted against the sky.",
+   "slides": {
+    "topic_en": "Hong Kong Athletics Funding Crisis",
+    "background_en": "Hong Kong's 38-strong athletics team won zero medals at the Nagoya Asian Games.",
+    "background_zh": "香港38人田徑隊在名古屋亞運會上未能贏得任何一面獎牌。",
+    "background_hl": "won zero medals at the Nagoya Asian Games",
+    "analysis_en": "Since funding is tied to results, the shutout has triggered reviews that could cut support for weaker sports.",
+    "analysis_zh": "由於資助與成績掛鈎,這次全軍覆沒觸發檢討,弱勢項目的支持可能被削減。",
+    "analysis_hl": "funding is tied to results",
+    "support_en": "Supporters argue results-based funding pushes associations to perform and stops money being wasted on weak programmes.",
+    "support_zh": "支持者認為,以成績為本的資助可推動協會表現,避免資源浪費於弱勢項目。",
+    "support_hl": "stops money being wasted on weak programmes",
+    "oppose_en": "Critics warn that cutting funding after one bad Games could permanently damage programmes just before they mature.",
+    "oppose_zh": "批評者警告,僅因一次失利而削減資助,可能在項目尚未成熟前已永久扼殺其發展。",
+    "oppose_hl": "permanently damage programmes just before they mature",
+    "vocab5": [
+     {
+      "en": "results-based funding",
+      "zh": "以成績為本的資助"
+     },
+     {
+      "en": "observation period",
+      "zh": "觀察期"
+     },
+     {
+      "en": "bottom of the standings",
+      "zh": "排名榜尾"
+     },
+     {
+      "en": "grassroots development",
+      "zh": "基層發展"
+     },
+     {
+      "en": "medal shutout",
+      "zh": "獎牌掛零"
+     }
+    ],
+    "question_en": "Should sports funding depend strictly on medal results, or also reward long-term athlete development?",
+    "question_zh": "體育資助應否純粹取決於獎牌成績,還是應同時獎勵長遠的運動員培育?",
+    "question_hl": "depend strictly on medal results"
+   },
+   "cover_text": {
+    "zh_kicker": "田徑掛零",
+    "zh_title": [
+     "田徑隊",
+     "亞運零獎牌"
+    ],
+    "zh_hl": "零獎牌",
+    "zh_sub": "資助制度惹爭議",
+    "en": "Hong Kong athletics team wins zero medals at Asian Games"
+   },
+   "vocab": [
+    {
+     "phrase": "medal shutout",
+     "zh": "獎牌掛零",
+     "sample": "The athletics team suffered a complete medal shutout despite sending 38 competitors to Nagoya."
+    },
+    {
+     "phrase": "results-based funding",
+     "zh": "以成績為本的資助",
+     "sample": "Under results-based funding, an association that fails to medal can see its grant shrink overnight."
+    },
+    {
+     "phrase": "observation period",
+     "zh": "觀察期",
+     "sample": "Several associations have been placed in an observation period after missing their medal targets."
+    },
+    {
+     "phrase": "bottom of the standings",
+     "zh": "排名榜尾",
+     "sample": "Hong Kong's athletics team finished at the bottom of the standings in several key events."
+    },
+    {
+     "phrase": "grassroots development",
+     "zh": "基層發展",
+     "sample": "Coaches argue that grassroots development has been neglected in favour of short-term medal chasing."
+    },
+    {
+     "phrase": "qualifying round",
+     "zh": "資格賽輪次",
+     "sample": "Only three athletes even advanced past the qualifying round in their events."
+    },
+    {
+     "phrase": "elite sport",
+     "zh": "精英體育",
+     "sample": "Hong Kong's elite sport system now faces hard questions about how it allocates money."
+    },
+    {
+     "phrase": "subsidy cut",
+     "zh": "資助削減",
+     "sample": "A subsidy cut could force smaller associations to scale back their training programmes entirely."
+    },
+    {
+     "phrase": "barren run",
+     "zh": "連續失利期",
+     "sample": "The coach described the sport's barren run as three years without a single notable result."
+    },
+    {
+     "phrase": "national sports association",
+     "zh": "全國性體育協會",
+     "sample": "Every national sports association now faces closer scrutiny of its Games performance."
+    },
+    {
+     "phrase": "underperform",
+     "zh": "表現未如預期",
+     "sample": "Athletes who consistently underperform at major Games put their association's funding at risk."
+    },
+    {
+     "phrase": "funding review",
+     "zh": "資助檢討",
+     "sample": "A funding review is now underway following the disappointing results in Nagoya."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "come under renewed scrutiny",
+     "zh": "再次受到嚴格審視",
+     "sample": "The funding model has come under renewed scrutiny after the shutout in Nagoya."
+    },
+    {
+     "en": "fall short of expectations on the biggest stage",
+     "zh": "在最大舞台上未能達到預期",
+     "sample": "The squad fell short of expectations on the biggest stage of the sporting calendar."
+    },
+    {
+     "en": "risk losing public funding",
+     "zh": "面臨失去公共資助的風險",
+     "sample": "Associations that keep missing targets risk losing public funding altogether."
+    },
+    {
+     "en": "strike a balance between punishing failure and nurturing talent",
+     "zh": "在懲罰失敗與培育人才之間取得平衡",
+     "sample": "Officials must strike a balance between punishing failure and nurturing talent that has yet to mature."
+    },
+    {
+     "en": "fail to deliver on the international stage",
+     "zh": "未能在國際舞台上有所表現",
+     "sample": "Despite heavy investment, the team failed to deliver on the international stage once again."
+    },
+    {
+     "en": "cast doubt on a sport's long-term viability",
+     "zh": "令人質疑該項運動的長遠可行性",
+     "sample": "Three barren years have cast doubt on the sport's long-term viability in Hong Kong."
+    },
+    {
+     "en": "widen the gap with regional rivals",
+     "zh": "擴大與區內對手的差距",
+     "sample": "Without reform, the shutout could widen the gap with regional rivals even further."
+    },
+    {
+     "en": "put a programme's future in jeopardy",
+     "zh": "令項目的前途陷入危機",
+     "sample": "Repeated underperformance has put the programme's future in jeopardy."
+    },
+    {
+     "en": "settle for consistent underachievement",
+     "zh": "滿足於持續表現不佳",
+     "sample": "Critics accuse the system of letting athletes settle for consistent underachievement."
+    },
+    {
+     "en": "justify continued investment",
+     "zh": "證明持續投資的合理性",
+     "sample": "Associations must justify continued investment with tangible results on the field."
+    },
+    {
+     "en": "signal a sport in decline",
+     "zh": "顯示該項運動正在衰落",
+     "sample": "A second shutout in a row would signal a sport in serious decline."
+    },
+    {
+     "en": "demand accountability from governing bodies",
+     "zh": "要求管理機構承擔問責",
+     "sample": "Fans and lawmakers alike are demanding accountability from the sport's governing bodies."
+    }
+   ],
+   "date": "2026-11-14",
+   "id": "a904cd38d"
+  },
+  {
+   "source_name": "South China Morning Post",
+   "source_url": "https://www.scmp.com/news/hong-kong/health-environment/article/3371819/hong-kong-elderly-urged-stay-indoors-air-pollution-spikes-serious-levels",
+   "published_date": "23 October 2026",
+   "headline": "Hong Kong Elderly Urged Indoors as Ozone Pushes Pollution to 'Serious' Levels",
+   "category": "env",
+   "summary_html": "<p>Hong Kong’s government warned of a \"serious\" health risk this week as two days of severe haze <span class=\"bw\">blanketed<span class=\"tip\"><span class=\"tip-en\">covered something completely, like a thick layer</span><span class=\"tip-zh\">籠罩</span></span></span> the city, with monitoring stations in Central/Western, Southern, Tsuen Wan, Tuen Mun and Sha Tin all recording \"high\" health-risk readings by mid-afternoon. Health experts urged elderly residents and other vulnerable groups to stay indoors until after sunset, when pollutant levels were expected to ease.</p><p>Officials attributed the spike chiefly to elevated ozone, a pollutant that forms when strong sunlight and high temperatures <span class=\"bw\">trigger<span class=\"tip\"><span class=\"tip-en\">cause something to start happening</span><span class=\"tip-zh\">引發；觸發</span></span></span> photochemical reactions in the air. It was not the first such episode this month: an earlier bout of weak winds had already <span class=\"bw\">trapped<span class=\"tip\"><span class=\"tip-en\">confined something so it cannot escape or disperse</span><span class=\"tip-zh\">困住；無法擴散</span></span></span> pollutants over the Pearl River Delta, pushing several stations into the \"Serious\" category and driving up nitrogen dioxide readings alongside ozone. Scientists could not entirely rule out some <span class=\"bw\">residual<span class=\"tip\"><span class=\"tip-en\">remaining after the main part of something has ended</span><span class=\"tip-zh\">殘餘的</span></span></span> influence from the subsiding air of a weakening tropical cyclone.</p><p>The government advised that children, the elderly and people with existing heart or respiratory illness reduce outdoor activity to a minimum, or avoid it altogether, until a fresh easterly airstream could <span class=\"bw\">disperse<span class=\"tip\"><span class=\"tip-en\">spread out and scatter something widely</span><span class=\"tip-zh\">驅散；擴散</span></span></span> the haze. Campaigners say such repeated ozone spikes, now a near-monthly occurrence in autumn, show that Hong Kong’s long-term reliance on <span class=\"bw\">favourable weather<span class=\"tip\"><span class=\"tip-en\">weather conditions that happen to help a situation</span><span class=\"tip-zh\">有利天氣</span></span></span> to clear its air is no substitute for tougher, year-round emission controls.</p>",
+   "summary_zh_html": "<p>香港政府本周發出「嚴重」健康風險警示,連續兩日嚴重煙霞<span class=\"bwz\">籠罩</span>全港,中西區、南區、荃灣、屯門及沙田的監測站在下午時段均錄得「高」健康風險水平。健康專家呼籲長者及其他高危人士留在室內,直至日落後污染水平料會緩和。</p><p>官員指,這次污染高峰主要由臭氧濃度上升<span class=\"bwz\">引發</span>,臭氧是在強烈陽光及高溫下,空氣中發生光化學反應而形成的污染物。這並非本月首次出現同類情況:較早前一輪風勢微弱,已令污染物<span class=\"bwz\">困住</span>於珠江三角洲上空無法擴散,導致多個監測站錄得「嚴重」級別,二氧化氮讀數亦隨臭氧一同上升。科學家未能完全排除一股減弱中的熱帶氣旋下沉氣流帶來的<span class=\"bwz\">殘餘</span>影響。</p><p>政府建議,兒童、長者及患有心臟或呼吸系統疾病人士應盡量減少戶外活動,甚至完全避免,直至一股清新東風能將煙霞<span class=\"bwz\">驅散</span>。環保人士指,這種臭氧濃度飆升的情況在秋季幾乎每月出現,反映香港長期依賴<span class=\"bwz\">有利天氣</span>來淨化空氣,並不能取代更嚴格、全年適用的排放管制。</p>",
+   "image_scene": "A hazy Hong Kong skyline viewed from a park bench at mid-afternoon, an elderly woman with a walking stick resting in the shade near a water fountain, an empty running track with no joggers, a faint grey smog layer blurring the outlines of distant high-rise buildings across the harbour, no visible text or signage.",
+   "slides": {
+    "topic_en": "Hong Kong's Ozone Pollution Spike",
+    "background_en": "Hong Kong issued a 'serious' health warning as ozone pushed air pollution to high levels citywide.",
+    "background_zh": "香港發出「嚴重」健康警示,臭氧令全港空氣污染升至高水平。",
+    "background_hl": "ozone pushed air pollution to high levels",
+    "analysis_en": "Experts say strong sunlight, high heat and weak winds combine to trap pollutants over the region.",
+    "analysis_zh": "專家指,強烈陽光、高溫及微弱風勢共同令污染物困於區內無法擴散。",
+    "analysis_hl": "trap pollutants over the region",
+    "support_en": "Officials say the advice to stay indoors protects vulnerable groups until natural winds clear the air.",
+    "support_zh": "官員指,留在室內的建議可保護高危人士,直至自然風勢吹散污染。",
+    "support_hl": "protects vulnerable groups",
+    "oppose_en": "Campaigners argue relying on favourable weather is no substitute for stricter, year-round emission controls.",
+    "oppose_zh": "環保人士認為,依賴有利天氣絕不能取代更嚴格的全年排放管制。",
+    "oppose_hl": "no substitute for stricter, year-round emission controls",
+    "vocab5": [
+     {
+      "en": "photochemical reaction",
+      "zh": "光化學反應"
+     },
+     {
+      "en": "health risk warning",
+      "zh": "健康風險警示"
+     },
+     {
+      "en": "trap pollutants",
+      "zh": "困住污染物"
+     },
+     {
+      "en": "vulnerable group",
+      "zh": "高危人士"
+     },
+     {
+      "en": "emission control",
+      "zh": "排放管制"
+     }
+    ],
+    "question_en": "Should Hong Kong focus more on long-term emission controls instead of short-term health warnings?",
+    "question_zh": "香港應否將重心放在長遠排放管制,而非短期健康警示之上?",
+    "question_hl": "long-term emission controls"
+   },
+   "cover_text": {
+    "zh_kicker": "臭氧爆表",
+    "zh_title": [
+     "煙霞連兩日",
+     "長者宜留室內"
+    ],
+    "zh_hl": "長者",
+    "zh_sub": "健康風險達嚴重級別",
+    "en": "Hong Kong warns elderly to stay indoors as smog spikes"
+   },
+   "vocab": [
+    {
+     "phrase": "photochemical reaction",
+     "zh": "光化學反應",
+     "sample": "Ozone forms through a photochemical reaction driven by strong sunlight and heat."
+    },
+    {
+     "phrase": "health risk warning",
+     "zh": "健康風險警示",
+     "sample": "The government issued a health risk warning after readings reached the 'serious' category."
+    },
+    {
+     "phrase": "trap pollutants",
+     "zh": "困住污染物",
+     "sample": "Weak winds can trap pollutants over the Pearl River Delta for days at a time."
+    },
+    {
+     "phrase": "vulnerable group",
+     "zh": "高危人士",
+     "sample": "Children and the elderly are considered a vulnerable group during pollution spikes."
+    },
+    {
+     "phrase": "emission control",
+     "zh": "排放管制",
+     "sample": "Campaigners want stricter, year-round emission control rather than reliance on the weather."
+    },
+    {
+     "phrase": "ozone spike",
+     "zh": "臭氧飆升",
+     "sample": "An ozone spike pushed several monitoring stations into the 'serious' category this week."
+    },
+    {
+     "phrase": "heart condition",
+     "zh": "心臟疾病",
+     "sample": "People with a heart condition were told to avoid outdoor activity almost entirely."
+    },
+    {
+     "phrase": "weak wind dispersal",
+     "zh": "風勢疲弱難以擴散",
+     "sample": "Weak wind dispersal left pollutants hanging over the city for most of the week."
+    },
+    {
+     "phrase": "tropical cyclone",
+     "zh": "熱帶氣旋",
+     "sample": "Scientists said a weakening tropical cyclone may have added to the pollution."
+    },
+    {
+     "phrase": "nitrogen dioxide reading",
+     "zh": "二氧化氮讀數",
+     "sample": "The nitrogen dioxide reading climbed alongside ozone during the two-day episode."
+    },
+    {
+     "phrase": "easterly airstream",
+     "zh": "東風氣流",
+     "sample": "A fresh easterly airstream was expected to finally clear the lingering haze."
+    },
+    {
+     "phrase": "year-round regulation",
+     "zh": "全年適用的規管",
+     "sample": "Campaigners argue year-round regulation matters more than seasonal health warnings."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "blanket the city in haze",
+     "zh": "令全城籠罩在煙霞之中",
+     "sample": "Two days of ozone pollution blanketed the city in haze this week."
+    },
+    {
+     "en": "push readings into the 'serious' category",
+     "zh": "令讀數升至「嚴重」級別",
+     "sample": "Weak winds pushed several readings into the 'serious' category overnight."
+    },
+    {
+     "en": "reduce outdoor activity to a minimum",
+     "zh": "將戶外活動減至最少",
+     "sample": "Officials advised vulnerable residents to reduce outdoor activity to a minimum."
+    },
+    {
+     "en": "rely on favourable weather to clear the air",
+     "zh": "依賴有利天氣淨化空氣",
+     "sample": "Campaigners say Hong Kong cannot keep relying on favourable weather to clear the air."
+    },
+    {
+     "en": "become a near-monthly occurrence",
+     "zh": "幾乎每月發生一次",
+     "sample": "Ozone spikes like this one have become a near-monthly occurrence each autumn."
+    },
+    {
+     "en": "substitute short-term warnings for long-term policy",
+     "zh": "以短期警示取代長遠政策",
+     "sample": "Critics say the city cannot substitute short-term warnings for long-term policy."
+    },
+    {
+     "en": "trap pollutants over a wider region",
+     "zh": "令污染物困於更廣泛的地區",
+     "sample": "Weak winds can trap pollutants over a wider region for several days."
+    },
+    {
+     "en": "disperse once the wind direction shifts",
+     "zh": "隨風向轉變而消散",
+     "sample": "Forecasters said the haze would disperse once the wind direction shifts easterly."
+    },
+    {
+     "en": "put vulnerable residents at greater risk",
+     "zh": "令高危居民承受更大風險",
+     "sample": "Repeated spikes put vulnerable residents at greater risk each autumn."
+    },
+    {
+     "en": "demand stricter, year-round controls",
+     "zh": "要求更嚴格的全年管制",
+     "sample": "Green groups are demanding stricter, year-round controls rather than seasonal advice."
+    },
+    {
+     "en": "fail to address the root cause of pollution",
+     "zh": "未能處理污染的根源",
+     "sample": "Short-term warnings fail to address the root cause of pollution in the region."
+    },
+    {
+     "en": "treat clean air as a matter of luck",
+     "zh": "將潔淨空氣視為僥倖所得",
+     "sample": "Relying on wind patterns means treating clean air as a matter of luck."
+    }
+   ],
+   "date": "2026-11-14",
+   "id": "a709254a5"
+  },
+  {
+   "source_name": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/news/article/347820/HKJC-champions-youth-empowerment-at-flagship-Hong-Kong-Youth-Development-Summit-2026",
+   "published_date": "7 November 2026",
+   "headline": "Jockey Club Backs Youth Summit as Hong Kong Eyes Cross-Border Exchange",
+   "category": "social",
+   "summary_html": "<p>Government officials, business leaders and youth representatives from Hong Kong, the mainland, ASEAN countries and beyond gathered at the Hong Kong Convention and Exhibition Centre for the flagship Hong Kong Youth Development Summit 2026, an event <span class=\"bw\">underwritten<span class=\"tip\"><span class=\"tip-en\">financially supported or guaranteed</span><span class=\"tip-zh\">資助；擔保</span></span></span> by the Hong Kong Jockey Club Charities Trust. Organised by the Home and Youth Affairs Bureau, the summit was pitched as a <span class=\"bw\">platform for exchange<span class=\"tip\"><span class=\"tip-en\">a forum where different groups can share ideas</span><span class=\"tip-zh\">交流平台</span></span></span> rather than a one-off ceremony, bringing young delegates into direct contact with policymakers and employers.</p><p>In a video address, Chief Executive John Lee said that under the city’s first Five-Year Plan, covering 2026 to 2030, the government would <span class=\"bw\">step up<span class=\"tip\"><span class=\"tip-en\">increase the level or intensity of an effort</span><span class=\"tip-zh\">加強；提升</span></span></span> opportunities for young people’s development, framing youth policy as part of a longer-term strategic blueprint rather than a series of <span class=\"bw\">standalone<span class=\"tip\"><span class=\"tip-en\">existing or done separately from other things</span><span class=\"tip-zh\">獨立；單一</span></span></span> initiatives. The Jockey Club Charities Trust has committed HK$10 million to this year’s related youthfest@HK programme, continuing as the festival’s <span class=\"bw\">principal funder<span class=\"tip\"><span class=\"tip-en\">the main organisation providing financial backing</span><span class=\"tip-zh\">主要資助機構</span></span></span> since 2023.</p><p>Supporters say bringing overseas and mainland youth groups into the same room as local students helps widen horizons and build the kind of regional networks that can later translate into <span class=\"bw\">career pathways<span class=\"tip\"><span class=\"tip-en\">routes or sequences of jobs leading toward a career goal</span><span class=\"tip-zh\">職業發展路徑</span></span></span>. Sceptics, however, question whether a single annual summit can meaningfully address the deeper, day-to-day pressures — from housing costs to job insecurity — that <span class=\"bw\">weigh on<span class=\"tip\"><span class=\"tip-en\">cause worry or burden to someone</span><span class=\"tip-zh\">困擾；造成壓力</span></span></span> many young Hongkongers, warning that glossy flagship events risk becoming substitutes for sustained, harder-to-measure policy follow-through.</p>",
+   "summary_zh_html": "<p>來自香港、內地、東盟國家及其他地區的政府官員、商界領袖及青年代表,齊集香港會議展覽中心,出席由香港賽馬會慈善信託基金<span class=\"bwz\">資助</span>的旗艦活動——香港青年發展峰會2026。這次由民政及青年事務局主辦的峰會,被定位為一個<span class=\"bwz\">交流平台</span>,而非一次性的慶典儀式,讓青年代表直接與政策制定者及僱主接觸。</p><p>行政長官李家超在視像致辭中表示,在涵蓋2026至2030年的香港首個五年規劃下,政府將<span class=\"bwz\">加強</span>青年發展機會,將青年政策定位為長遠策略藍圖的一部分,而非一系列<span class=\"bwz\">單一</span>的計劃。賽馬會慈善信託基金已向今年相關的「青年節@香港」計劃捐出1000萬港元,自2023年起一直擔任該活動的<span class=\"bwz\">主要資助機構</span>。</p><p>支持者認為,讓海外及內地青年團體與本地學生共處一室,有助拓闊視野,建立日後可轉化為<span class=\"bwz\">職業發展路徑</span>的地區網絡。然而,質疑者則提出,單靠一年一度的峰會,能否真正解決那些<span class=\"bwz\">困擾</span>許多香港青年的深層日常壓力——例如房屋開支及就業不穩定,並警告亮麗的旗艦活動,可能淪為難以量度卻持續不斷的政策跟進工作的替代品。</p>",
+   "image_scene": "Inside a large modern Hong Kong convention centre hall, rows of young people in smart casual clothing seated at round tables listening to a stage presentation, a panel of adults seated at a long table on a raised platform, large glass windows showing Victoria Harbour in the background, no visible banners or text.",
+   "slides": {
+    "topic_en": "Hong Kong Youth Development Summit",
+    "background_en": "Hong Kong held its flagship Youth Development Summit 2026, backed by the Jockey Club Charities Trust.",
+    "background_zh": "香港舉行旗艦活動青年發展峰會2026,由賽馬會慈善信託基金資助。",
+    "background_hl": "backed by the Jockey Club Charities Trust",
+    "analysis_en": "The summit frames youth policy as part of a longer five-year plan rather than one-off events.",
+    "analysis_zh": "峰會將青年政策定位為長遠五年規劃的一部分,而非一次性活動。",
+    "analysis_hl": "part of a longer five-year plan",
+    "support_en": "Backers argue cross-border exchange with mainland and ASEAN youth widens horizons and builds future career networks.",
+    "support_zh": "支持者認為,與內地及東盟青年跨境交流有助拓闊視野,建立未來職業網絡。",
+    "support_hl": "builds future career networks",
+    "oppose_en": "Critics doubt a single annual summit can fix daily pressures like high housing costs and job insecurity.",
+    "oppose_zh": "批評者質疑,單一年度峰會難以解決房屋開支高昂及就業不穩定等日常壓力。",
+    "oppose_hl": "daily pressures like high housing costs and job insecurity",
+    "vocab5": [
+     {
+      "en": "flagship event",
+      "zh": "旗艦活動"
+     },
+     {
+      "en": "cross-border exchange",
+      "zh": "跨境交流"
+     },
+     {
+      "en": "career pathway",
+      "zh": "職業發展路徑"
+     },
+     {
+      "en": "job insecurity",
+      "zh": "就業不穩定"
+     },
+     {
+      "en": "policy follow-through",
+      "zh": "政策跟進"
+     }
+    ],
+    "question_en": "Can flagship summits like this genuinely improve young people's lives, or do they mainly serve as publicity?",
+    "question_zh": "此類旗艦峰會能否真正改善青年生活,還是主要只作宣傳之用?",
+    "question_hl": "mainly serve as publicity"
+   },
+   "cover_text": {
+    "zh_kicker": "青年峰會",
+    "zh_title": [
+     "賽馬會撐",
+     "青年發展峰會"
+    ],
+    "zh_hl": "青年發展峰會",
+    "zh_sub": "李家超視像致辭",
+    "en": "Jockey Club backs Hong Kong's flagship youth summit"
+   },
+   "vocab": [
+    {
+     "phrase": "flagship event",
+     "zh": "旗艦活動",
+     "sample": "The summit has become the government's flagship event for engaging young people each year."
+    },
+    {
+     "phrase": "cross-border exchange",
+     "zh": "跨境交流",
+     "sample": "Cross-border exchange with mainland and ASEAN youth groups was a central feature of the summit."
+    },
+    {
+     "phrase": "career pathway",
+     "zh": "職業發展路徑",
+     "sample": "Organisers hope the networking sessions will open up new career pathways for participants."
+    },
+    {
+     "phrase": "job insecurity",
+     "zh": "就業不穩定",
+     "sample": "Many young Hongkongers say job insecurity worries them more than any single summit can address."
+    },
+    {
+     "phrase": "policy follow-through",
+     "zh": "政策跟進",
+     "sample": "Critics are watching closely for policy follow-through after the summit's speeches end."
+    },
+    {
+     "phrase": "youth empowerment",
+     "zh": "青年賦權",
+     "sample": "The Jockey Club described its funding as part of a broader push for youth empowerment."
+    },
+    {
+     "phrase": "strategic blueprint",
+     "zh": "策略藍圖",
+     "sample": "The Chief Executive framed youth policy as part of a longer strategic blueprint."
+    },
+    {
+     "phrase": "principal funder",
+     "zh": "主要資助機構",
+     "sample": "The Jockey Club Charities Trust has been the festival's principal funder since 2023."
+    },
+    {
+     "phrase": "widen one's horizons",
+     "zh": "拓闊視野",
+     "sample": "Meeting delegates from across Asia can genuinely widen one's horizons."
+    },
+    {
+     "phrase": "day-to-day pressures",
+     "zh": "日常壓力",
+     "sample": "Housing costs remain one of the sharpest day-to-day pressures facing young people."
+    },
+    {
+     "phrase": "publicity stunt",
+     "zh": "宣傳噱頭",
+     "sample": "Sceptics worry the summit could become little more than a publicity stunt."
+    },
+    {
+     "phrase": "sustained follow-through",
+     "zh": "持續跟進",
+     "sample": "Lasting change requires sustained follow-through long after the cameras leave."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "serve as a platform for exchange",
+     "zh": "充當交流平台",
+     "sample": "The summit was designed to serve as a platform for exchange rather than a ceremony."
+    },
+    {
+     "en": "frame policy as part of a longer blueprint",
+     "zh": "將政策定位為長遠藍圖的一部分",
+     "sample": "Officials framed youth policy as part of a longer blueprint running to 2030."
+    },
+    {
+     "en": "build cross-border professional networks",
+     "zh": "建立跨境專業網絡",
+     "sample": "Delegates hoped the summit would help them build cross-border professional networks."
+    },
+    {
+     "en": "widen young people's horizons",
+     "zh": "拓闊年輕人的視野",
+     "sample": "Supporters say such exchanges genuinely widen young people's horizons."
+    },
+    {
+     "en": "address day-to-day financial pressures",
+     "zh": "緩解日常的經濟壓力",
+     "sample": "Critics doubt a single summit can address day-to-day financial pressures like rent."
+    },
+    {
+     "en": "translate exchange into concrete career pathways",
+     "zh": "將交流轉化為具體的職業發展路徑",
+     "sample": "Organisers hope to translate exchange into concrete career pathways for participants."
+    },
+    {
+     "en": "risk becoming a substitute for real follow-through",
+     "zh": "可能淪為真正跟進工作的替代品",
+     "sample": "A glossy summit risks becoming a substitute for real policy follow-through."
+    },
+    {
+     "en": "commit substantial funding to a flagship cause",
+     "zh": "向旗艦項目投入大量資金",
+     "sample": "The Jockey Club has committed substantial funding to this flagship cause since 2023."
+    },
+    {
+     "en": "bring policymakers face to face with young people",
+     "zh": "讓政策制定者與青年面對面交流",
+     "sample": "The summit aims to bring policymakers face to face with young people directly."
+    },
+    {
+     "en": "struggle with job insecurity",
+     "zh": "受就業不穩定困擾",
+     "sample": "Many graduates still struggle with job insecurity despite the city's recovering economy."
+    },
+    {
+     "en": "measure success beyond a single annual event",
+     "zh": "以超越單一年度活動的方式衡量成效",
+     "sample": "Officials should measure success beyond a single annual event like this summit."
+    },
+    {
+     "en": "bridge the gap between policy and daily life",
+     "zh": "彌合政策與日常生活之間的差距",
+     "sample": "Real reform must bridge the gap between policy and daily life for young people."
+    }
+   ],
+   "date": "2026-11-14",
+   "id": "a180d82d4"
   }
  ],
  "trends": [
@@ -50961,6 +51705,147 @@
    ],
    "date": "2026-11-13",
    "id": "t634e7940"
+  },
+  {
+   "platforms": [
+    "ig",
+    "fb"
+   ],
+   "headline": "🪞 MIRROR's Nostalgic MV Has Hongkongers Reliving Classic Ads",
+   "summary_html": "<p>Local boy band MIRROR marked their seventh anniversary with a new music video, \"DNA is U,\" in which all twelve members take turns <span class=\"bw\">re-enacting<span class=\"tip\"><span class=\"tip-en\">performing again, acting out something that happened before</span><span class=\"tip-zh\">重演</span></span></span> a string of beloved Hong Kong television commercials from decades past. Within days the clip had drawn more than 230,000 YouTube views and 16,000 likes, while media-monitoring firm CARMA counted over 410 online mentions as fans <span class=\"bw\">dissected<span class=\"tip\"><span class=\"tip-en\">examined something in careful detail</span><span class=\"tip-zh\">仔細分析</span></span></span> each reference.</p><p>Marketing commentators say the video’s <span class=\"bw\">nostalgic appeal<span class=\"tip\"><span class=\"tip-en\">the emotional pull of fondly recalling the past</span><span class=\"tip-zh\">懷舊吸引力</span></span></span> taps into shared memories across generations of Hongkongers who grew up watching the original adverts on television, deepening fan loyalty in ways a conventional single rarely achieves. Not every reaction has been <span class=\"bw\">glowing<span class=\"tip\"><span class=\"tip-en\">extremely positive or favourable</span><span class=\"tip-zh\">極為正面；讚賞</span></span></span>, though: one commentator felt the rapid-fire tribute scenes play more like a disconnected <span class=\"bw\">collage<span class=\"tip\"><span class=\"tip-en\">a composition made of many different pieces combined together</span><span class=\"tip-zh\">拼貼</span></span></span> than a coherent story, leaving some younger viewers unfamiliar with the original ads to enjoy only the surface spectacle.</p>",
+   "summary_zh_html": "<p>本地男團MIRROR為慶祝出道七周年推出全新音樂錄像《DNA is U》,十二位成員輪流<span class=\"bwz\">重演</span>多個香港經典電視廣告場景。短短數日內,片段已錄得超過23萬次YouTube觀看及1.6萬個讚好,媒體監察公司CARMA統計網上提及次數逾410次,粉絲紛紛逐一<span class=\"bwz\">仔細分析</span>每個廣告彩蛋。</p><p>市場推廣評論員指出,這段影片的<span class=\"bwz\">懷舊吸引力</span>觸動了跨代香港人共同成長時收看這些廣告的記憶,其鞏固粉絲忠誠度的效果,遠超一般單曲所能達到的層次。不過,並非所有反應都十分<span class=\"bwz\">讚賞</span>:有評論認為,這些快速剪接的致敬片段更像一幅缺乏連貫故事的<span class=\"bwz\">拼貼</span>,令部分不熟悉原版廣告的年輕觀眾,只能停留在表面的視覺奇觀。</p>",
+   "causes": [
+    {
+     "label": "Reclaiming Local Memory Amid Global Pop Culture",
+     "label_zh": "在全球流行文化中重拾本地記憶",
+     "text": "By resurrecting homegrown adverts rather than chasing globally fashionable aesthetics, MIRROR reasserts a distinctly Hong Kong visual heritage at a time when K-pop and Mandopop dominate young people's feeds, inviting students to weigh whether local nostalgia can hold its own against global trends.",
+     "text_zh": "MIRROR選擇重現本土舊廣告,而非追逐全球潮流美學,在韓流及國語流行曲主導年輕人資訊feed的年代,重新肯定香港獨特的視覺傳承,促使學生思考本地懷舊文化能否在全球潮流夾擊下站穩陣腳。"
+    },
+    {
+     "label": "Packaging Collective Memory for Profit",
+     "label_zh": "將集體回憶包裝成商業產品",
+     "text": "An anniversary tribute built from genuinely shared childhood memories doubles as a commercial vehicle for the group's agency, prompting debate over whether packaging collective nostalgia for streaming numbers and merchandise sales cheapens the very memories it claims to honour.",
+     "text_zh": "一場建基於真切童年記憶的周年致敬,同時也是經紀公司的商業載體,引發爭議:將集體懷舊包裝成串流數字及周邊商品銷售,是否反而貶低了它本應紀念的那份記憶。"
+    },
+    {
+     "label": "A Collage Without a Story: the Limits of Nostalgia Bait",
+     "label_zh": "缺乏故事的拼貼：懷舊噱頭的局限",
+     "text": "Critics note the video strings together references with little narrative glue, meaning viewers too young to recognise the original advertisements may absorb only fast-moving spectacle, raising doubts about whether nostalgia-driven content actually deepens cultural understanding or simply performs well with short-attention algorithms.",
+     "text_zh": "批評者指出,影片將多個片段串連,卻缺乏敘事脈絡,意味著太年輕、未能認出原版廣告的觀眾,或只能吸收表面上快速閃現的奇觀,令人質疑懷舊內容究竟是深化文化理解,還是純粹迎合短注意力的演算法。"
+    },
+    {
+     "label": "Belonging Through Shared Screens",
+     "label_zh": "透過共同畫面建立歸屬感",
+     "text": "For Hongkongers who have emigrated or feel disconnected from a fast-changing city, watching twelve idols replay adverts everyone once gathered round the television to see offers a rare, unifying sense of belonging, suggesting popular culture can still stitch together a fragmented sense of local identity.",
+     "text_zh": "對於已移居海外或在急速變遷的城市中感到疏離的香港人而言,看著十二位偶像重演大家曾齊集電視機前觀看的廣告,帶來一種難得而團結的歸屬感,顯示流行文化仍能縫合日漸碎片化的本土身分認同。"
+    }
+   ],
+   "vocab": [
+    {
+     "phrase": "throwback moment",
+     "zh": "復古時刻",
+     "sample": "The music video's throwback moment drew in fans who grew up watching the original ads."
+    },
+    {
+     "phrase": "re-enact a scene",
+     "zh": "重演場景",
+     "sample": "Each member took turns to re-enact a scene from a different decade of local advertising."
+    },
+    {
+     "phrase": "take the internet by storm",
+     "zh": "席捲網絡",
+     "sample": "The tribute video took the internet by storm within days of its release."
+    },
+    {
+     "phrase": "fan loyalty",
+     "zh": "粉絲忠誠度",
+     "sample": "Nostalgic content like this tends to deepen fan loyalty more than an ordinary single."
+    },
+    {
+     "phrase": "media-monitoring firm",
+     "zh": "媒體監察公司",
+     "sample": "A media-monitoring firm tracked hundreds of online mentions within the first week."
+    },
+    {
+     "phrase": "tribute video",
+     "zh": "致敬影片",
+     "sample": "The tribute video pays homage to adverts most viewers have not seen in decades."
+    },
+    {
+     "phrase": "surface spectacle",
+     "zh": "表面奇觀",
+     "sample": "Without context, younger viewers may only enjoy the surface spectacle of the references."
+    },
+    {
+     "phrase": "disconnected collage",
+     "zh": "缺乏連貫的拼貼",
+     "sample": "One critic dismissed the video as a disconnected collage rather than a coherent story."
+    },
+    {
+     "phrase": "cross-generational memory",
+     "zh": "跨代記憶",
+     "sample": "The video relies on cross-generational memory to connect with older and younger fans alike."
+    },
+    {
+     "phrase": "online mention",
+     "zh": "網上提及",
+     "sample": "Every online mention added to the sense that the video had become a cultural moment."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "tap into shared generational memories",
+     "zh": "觸動跨代共同記憶",
+     "sample": "The video taps into shared generational memories of watching television together as a family."
+    },
+    {
+     "en": "deepen fan loyalty",
+     "zh": "鞏固粉絲忠誠度",
+     "sample": "Nostalgic tributes like this one tend to deepen fan loyalty more than a typical release."
+    },
+    {
+     "en": "spark a wave of online nostalgia",
+     "zh": "引發一陣網上懷舊潮",
+     "sample": "The anniversary video sparked a wave of online nostalgia almost overnight."
+    },
+    {
+     "en": "divide opinion among viewers",
+     "zh": "令觀眾意見分歧",
+     "sample": "The rapid-fire editing style divided opinion among viewers online."
+    },
+    {
+     "en": "trade coherence for rapid-fire spectacle",
+     "zh": "以連貫性換取快速閃現的視覺奇觀",
+     "sample": "Some felt the video traded coherence for rapid-fire spectacle."
+    },
+    {
+     "en": "leave younger viewers out of the joke",
+     "zh": "令年輕觀眾無法理解其中趣味",
+     "sample": "References to decades-old adverts risk leaving younger viewers out of the joke."
+    },
+    {
+     "en": "turn an anniversary into a cultural moment",
+     "zh": "將周年紀念變成文化盛事",
+     "sample": "The group managed to turn a simple anniversary into a genuine cultural moment."
+    },
+    {
+     "en": "reward devoted fans with inside references",
+     "zh": "以內行彩蛋回饋忠實粉絲",
+     "sample": "The video rewards devoted fans with inside references few casual viewers would catch."
+    },
+    {
+     "en": "prioritise style over substance",
+     "zh": "重視形式多於內容",
+     "sample": "Detractors accuse the video of prioritising style over substance."
+    },
+    {
+     "en": "rekindle affection for a bygone era",
+     "zh": "重新燃起對昔日時代的情懷",
+     "sample": "The clip rekindled affection for a bygone era of Hong Kong television."
+    }
+   ],
+   "date": "2026-11-14",
+   "id": "t98df26ed"
   }
  ]
 }
